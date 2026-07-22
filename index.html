@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta name="robots" content="noindex">
+    <title>Dashboard</title>
+    <style>
+        :root {
+            --bg: #ffffff;
+            --text: #111111;
+            --muted: #6b6b6b;
+            --border: #e0e0e0;
+            --hover: #0033cc;
+        }
+        * { box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.5;
+            margin: 0;
+            padding: 1.5rem;
+            -webkit-font-smoothing: antialiased;
+        }
+        .container {
+            max-width: 640px;
+            margin: 0 auto;
+        }
+        header {
+            margin-bottom: 2rem;
+        }
+        h1 {
+            font-size: 1.5rem;
+            font-weight: 600;
+            margin: 0 0 0.25rem 0;
+        }
+        .updated {
+            font-size: 0.75rem;
+            color: var(--muted);
+            margin: 0;
+        }
+        h2 {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--muted);
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 0.5rem;
+            margin-top: 2.5rem;
+            margin-bottom: 1.25rem;
+            font-weight: 600;
+        }
+        .source-block {
+            margin-bottom: 1.5rem;
+        }
+        .source-header {
+            display: flex;
+            align-items: baseline;
+            gap: 0.4rem;
+            margin-bottom: 0.25rem;
+        }
+        .source-header h3 {
+            font-size: 0.95rem;
+            font-weight: 600;
+            margin: 0;
+        }
+        .ext-link {
+            font-size: 0.8rem;
+            color: var(--muted);
+            text-decoration: none;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        ul li a {
+            display: inline-block;
+            padding: 4px 0;
+            font-size: 0.95rem;
+            color: var(--text);
+            text-decoration: none;
+            word-break: break-word;
+        }
+        ul li a:hover, ul li a:active {
+            color: var(--hover);
+            text-decoration: underline;
+            text-underline-offset: 2px;
+        }
+
+        /* Archive Tool Styles */
+        .archive-tool {
+            margin-bottom: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+        }
+        .archive-tool input {
+            width: 100%;
+            padding: 0.75rem;
+            font-size: 0.95rem;
+            border: 1px solid var(--border);
+            border-radius: 4px;
+            font-family: inherit;
+            background: #fafafa;
+        }
+        .archive-tool input:focus {
+            outline: none;
+            border-color: var(--text);
+            background: #fff;
+        }
+        .archive-tool button {
+            padding: 0.75rem;
+            background: var(--text);
+            color: var(--bg);
+            border: none;
+            border-radius: 4px;
+            font-size: 0.95rem;
+            cursor: pointer;
+            font-weight: 500;
+            -webkit-appearance: none;
+        }
+        .archive-tool button:active {
+            background: #333;
+        }
+        #archive-result {
+            font-size: 0.95rem;
+            word-break: break-all;
+            margin-top: 0.25rem;
+            padding: 0.5rem 0;
+        }
+        .error-text {
+            color: #cc0000;
+            font-size: 0.85rem;
+        }
+
+        @media (min-width: 768px) {
+            body { padding: 3rem 2rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Dashboard</h1>
+            <p class="updated" id="last-updated">Loading...</p>
+        </header>
+
+        <!-- ARCHIVE LOOKUP -->
+        <section>
+            <h2>Archive Lookup</h2>
+            <div class="archive-tool">
+                <input type="text" id="archive-input" placeholder="Paste URL here (e.g. https://...)" autocomplete="off">
+                <button id="archive-btn">Find Archive</button>
+                <div id="archive-result"></div>
+            </div>
+        </section>
+
+        <!-- GENERAL NEWS -->
+        <section>
+            <h2>General News</h2>
+            
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>Associated Press</h3>
+                    <a href="https://apnews.com" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+                <div data-feed="ap"></div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>Reuters</h3>
+                    <a href="https://www.reuters.com" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>BBC</h3>
+                    <a href="https://www.bbc.co.uk/news" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+                <div data-feed="bbc"></div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>Al Jazeera</h3>
+                    <a href="https://www.aljazeera.com" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+                <div data-feed="aljazeera"></div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>Financial Times</h3>
+                    <a href="https://www.ft.com" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>Bloomberg</h3>
+                    <a href="https://www.bloomberg.com" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>The Economist</h3>
+                    <a href="https://www.economist.com" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+            </div>
+        </section>
+
+        <!-- FOOTBALL -->
+        <section>
+            <h2>Football (Chelsea)</h2>
+            
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>The Athletic</h3>
+                    <a href="https://theathletic.com/football/team/chelsea" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>Chelsea FC Official</h3>
+                    <a href="https://www.chelseafc.com/en/news" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>BBC Sport Chelsea</h3>
+                    <a href="https://www.bbc.co.uk/sport/football/teams/chelsea" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+                <div data-feed="chelsea_bbc"></div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>Sky Sports Chelsea</h3>
+                    <a href="https://www.skysports.com/chelsea-news" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+                <div data-feed="chelsea_sky"></div>
+            </div>
+        </section>
+
+        <!-- ALBUMS -->
+        <section>
+            <h2>Albums</h2>
+            
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>RateYourMusic</h3>
+                    <a href="https://rateyourmusic.com" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>Album of the Year</h3>
+                    <a href="https://www.albumoftheyear.org" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>Pitchfork</h3>
+                    <a href="https://pitchfork.com/reviews/albums" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+                <div data-feed="pitchfork"></div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>The Quietus</h3>
+                    <a href="https://thequietus.com" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+                <div data-feed="quietus"></div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>Resident Advisor</h3>
+                    <a href="https://residentadvisor.net/reviews" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>Aquarium Drunkard</h3>
+                    <a href="https://aquariumdrunkard.com" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+                <div data-feed="aquariumdrunkard"></div>
+            </div>
+        </section>
+
+        <!-- FILM -->
+        <section>
+            <h2>Film</h2>
+            
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>BFI</h3>
+                    <a href="https://www.bfi.org.uk/features-opinions" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+                <div data-feed="bfi"></div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>Criterion Current</h3>
+                    <a href="https://www.criterion.com/current" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+                <div data-feed="criterion"></div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>Roger Ebert</h3>
+                    <a href="https://www.rogerebert.com" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+                <div data-feed="rogerebert"></div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>Sight & Sound</h3>
+                    <a href="https://www.bfi.org.uk/sight-and-sound" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>Film Comment</h3>
+                    <a href="https://www.filmcomment.com" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+                <div data-feed="filmcomment"></div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>MUBI Notebook</h3>
+                    <a href="https://mubi.com/notebook" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+                <div data-feed="mubi"></div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>Reverse Shot</h3>
+                    <a href="https://reverseshot.org" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+                <div data-feed="reverseshot"></div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>Senses of Cinema</h3>
+                    <a href="https://www.sensesofcinema.com" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+                <div data-feed="sensesofcinema"></div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>IndieWire</h3>
+                    <a href="https://www.indiewire.com" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+                <div data-feed="indiewire"></div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>Variety</h3>
+                    <a href="https://variety.com" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+                <div data-feed="variety"></div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>Hollywood Reporter</h3>
+                    <a href="https://www.hollywoodreporter.com" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+                <div data-feed="hollywoodreporter"></div>
+            </div>
+        </section>
+
+        <!-- ESSAYS / JOURNALS -->
+        <section>
+            <h2>Essays & Journals</h2>
+            
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>NYRB</h3>
+                    <a href="https://www.nybooks.com" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>LRB</h3>
+                    <a href="https://www.lrb.co.uk" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>LARB</h3>
+                    <a href="https://lareviewofbooks.org" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+                <div data-feed="larb"></div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>Aeon</h3>
+                    <a href="https://aeon.co" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+                <div data-feed="aeon"></div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>Psyche</h3>
+                    <a href="https://psyche.co" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+                <div data-feed="psyche"></div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>New Left Review</h3>
+                    <a href="https://newleftreview.org" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>The Point</h3>
+                    <a href="https://thepointmag.com" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+                <div data-feed="thepoint"></div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>Public Domain Review</h3>
+                    <a href="https://publicdomainreview.org" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+                <div data-feed="publicdomainreview"></div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>Quanta Magazine</h3>
+                    <a href="https://www.quantamagazine.org" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+                <div data-feed="quanta"></div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>Nautilus</h3>
+                    <a href="https://nautil.us" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+                <div data-feed="nautilus"></div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>Works in Progress</h3>
+                    <a href="https://worksinprogress.co" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+                <div data-feed="worksinprogress"></div>
+            </div>
+
+            <div class="source-block">
+                <div class="source-header">
+                    <h3>Noema Magazine</h3>
+                    <a href="https://www.noemamag.com" class="ext-link" target="_blank" rel="noopener">↗</a>
+                </div>
+                <div data-feed="noema"></div>
+            </div>
+        </section>
+
+    </div>
+
+    <script>
+        // Fetch the generated data.json
+        fetch('data.json')
+            .then(response => {
+                if (!response.ok) throw new Error('Network response was not ok');
+                return response.json();
+            })
+            .then(data => {
+                document.getElementById('last-updated').textContent = `Updated: ${data.last_updated}`;
+                
+                for (const [sourceKey, items] of Object.entries(data.feeds)) {
+                    const container = document.querySelector(`[data-feed="${sourceKey}"]`);
+                    if (container && items.length > 0) {
+                        const ul = document.createElement('ul');
+                        items.forEach(item => {
+                            const li = document.createElement('li');
+                            const a = document.createElement('a');
+                            a.href = item.link;
+                            a.textContent = item.title;
+                            a.target = '_blank';
+                            a.rel = 'noopener noreferrer';
+                            li.appendChild(a);
+                            ul.appendChild(li);
+                        });
+                        container.appendChild(ul);
+                    }
+                }
+            })
+            .catch(err => {
+                document.getElementById('last-updated').textContent = 'Static links only (feed offline)';
+            });
+
+        // Archive lookup functionality
+        const archiveInput = document.getElementById('archive-input');
+        const archiveBtn = document.getElementById('archive-btn');
+        const archiveResult = document.getElementById('archive-result');
+
+        function handleArchiveLookup() {
+            let url = archiveInput.value.trim();
+            if (!url) return;
+
+            // Prepend https:// if missing
+            if (!/^https?:\/\//i.test(url)) {
+                url = 'https://' + url;
+            }
+
+            try {
+                new URL(url); // Validate URL structure
+                const archiveUrl = `https://archive.ph/newest/${url}`;
+                archiveResult.innerHTML = `<a href="${archiveUrl}" target="_blank" rel="noopener noreferrer">Open latest archive snapshot ↗</a>`;
+            } catch (e) {
+                archiveResult.innerHTML = `<span class="error-text">Please enter a valid URL.</span>`;
+            }
+        }
+
+        if (archiveBtn && archiveInput) {
+            archiveBtn.addEventListener('click', handleArchiveLookup);
+            archiveInput.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') handleArchiveLookup();
+            });
+        }
+    </script>
+</body>
+</html>
