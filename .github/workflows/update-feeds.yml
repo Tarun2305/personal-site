@@ -5,15 +5,19 @@ on:
     - cron: '0 */6 * * *' # Runs every 6 hours
   workflow_dispatch: # Allows manual triggering
 
+# Explicitly give the action permission to write to the repository
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Updated to v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # Updated to v5
         with:
           python-version: '3.x'
 
