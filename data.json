@@ -1,10 +1,14 @@
 {
-  "last_updated": "2026-07-22 15:38 UTC",
+  "last_updated": "2026-07-22 19:02 UTC",
   "feeds": {
     "bbc": [
       {
         "title": "PC Harper's widow criticises early prisoner release plan as Burnham to review scheme",
         "link": "https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Most bus fares in England to be capped at \u00a32 from January",
+        "link": "https://www.bbc.co.uk/news/articles/cz64l78n5vpo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
@@ -13,47 +17,43 @@
       {
         "title": "Ex-Southern Water boss among four charged over alleged plan to manipulate water quality tests",
         "link": "https://www.bbc.co.uk/news/articles/c36d0njy7jjo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
-        "link": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Why Traore has opened a new front with Burkina Faso\u2019s Muslim community",
-        "link": "https://www.aljazeera.com/news/2026/7/22/why-traore-has-opened-a-new-front-with-burkina-fasos-muslim-community?traffic_source=rss"
+        "title": "US judge sets 2027 trial date for Venezuela\u2019s Maduro and wife",
+        "link": "https://www.aljazeera.com/news/2026/7/22/us-judge-sets-2027-trial-date-for-venezuelas-maduro-and-wife?traffic_source=rss"
       },
       {
-        "title": "Zelenskyy sacks Syrskii: How many generals have Ukraine, Russia fired?",
-        "link": "https://www.aljazeera.com/news/2026/7/22/zelenskyy-sacks-syrskii-how-many-generals-have-ukraine-russia-fired?traffic_source=rss"
+        "title": "Anonymous food donations reach Indian student protesters",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/anonymous-food-donations-reach-indian-student-protesters?traffic_source=rss"
       },
       {
-        "title": "Nearly 1,000 people have died from Ebola in DR Congo",
-        "link": "https://www.aljazeera.com/news/2026/7/22/nearly-1000-people-have-died-from-ebola-in-dr-congo?traffic_source=rss"
+        "title": "Trump push for Syrian intervention against Hezbollah \u2018short-sighted\u2019",
+        "link": "https://www.aljazeera.com/features/2026/7/22/trump-push-for-syrian-intervention-against-hezbollah-short-sighted?traffic_source=rss"
       },
       {
-        "title": "Open AI says its AI model \u201cwent rogue\u201d: What do we know?",
-        "link": "https://www.aljazeera.com/news/2026/7/22/open-ai-says-its-ai-model-went-rogue-what-do-we-know?traffic_source=rss"
+        "title": "Hamas\u2019s new leader calls for permanent Gaza ceasefire",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hamass-new-leader-calls-for-permanent-gaza-ceasefire?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Pre-season: Tottenham vs MK Dons team news LIVE!",
-        "link": "https://www.skysports.com/football/tottenham-hotspur-vs-milton-keynes-dons/live/562434"
+        "title": "Aston Villa agree deal to sign Garnacho ",
+        "link": "https://www.skysports.com/football/news/12040/13565869/alejandro-garnacho-transfer-news-aston-villa-agree-deal-with-chelsea-for-winger"
       },
       {
-        "title": "'Silly Mr Bodybuilder!' - Fury casts doubt over Joshua fight",
-        "link": "https://www.skysports.com/boxing/news/12040/13565963/tyson-fury-vs-anthony-joshua-the-gypsy-king-casts-doubt-on-fight-with-aj-ahead-of-mariusz-wach-bout-in-thailand"
+        "title": "Casemiro joins Inter Miami on free transfer",
+        "link": "https://www.skysports.com/football/news/12040/13556097/casemiro-transfer-news-former-man-utd-midfielder-joins-inter-miami-on-free-transfer"
       },
       {
-        "title": "Why Hungary could ignite Hamilton's title fight against Antonelli",
-        "link": "https://www.skysports.com/f1/news/12040/13565886/hungarian-gp-why-budapest-could-ignite-lewis-hamilton-and-ferrari-title-fight-against-kimi-antonelli"
+        "title": "Commonwealth Games: England's Richardson targets triple gold after switch from Australia",
+        "link": "https://www.skysports.com/boxing/live-blog/12040/13566034/commonwealth-games-glasgow-2026-live-news-schedule-updates-results-todays-events-as-england-scotland-wales-northern-ireland-aim-for-medals"
       },
       {
-        "title": "Lingfield and Worcester host competitive Wednesday cards",
-        "link": "https://www.skysports.com/racing/news/12040/13565287/today-on-sky-sports-racing-lingfield-and-worcester-host-competitive-wednesday-cards"
+        "title": "Antonelli among five drivers to miss Hungarian GP first practice",
+        "link": "https://www.skysports.com/f1/news/12040/13565957/hungarian-gp-kimi-antonelli-oscar-piastri-among-five-drivers-to-miss-first-practice-for-race-in-budapest"
       }
     ],
     "pitchfork": [],
@@ -136,56 +136,56 @@
     ],
     "indiewire": [
       {
-        "title": "Jodie Comer and Harry Melling Taxidermy Musical \u2018Stuffed\u2019 Leads TIFF Discovery Lineup of Rising Filmmakers",
-        "link": "https://www.indiewire.com/news/festivals/tiff-discovery-lineup-jodie-comer-taxidermy-musical-stuffed-1235206555/"
+        "title": "Engrossing British Crime Drama \u2018Gone\u2019 Takes the Ol\u2019 Stiff Upper Lip to New Heights\u00a0",
+        "link": "https://www.indiewire.com/features/commentary/british-crime-drama-gone-britbox-1235205494/"
       },
       {
-        "title": "Chris Rock\u2019s \u2018Misty Green\u2019 Trailer: Rosalind Eleazar Is an Actress Hustling for Her Next Act in A24 Industry Drama",
-        "link": "https://www.indiewire.com/news/trailers/chris-rock-misty-green-trailer-hollywood-drama-a24-1235206552/"
+        "title": "\u2018Hadestown: The Musical\u2019 Review: The Broadway Hit Remains a Bittersweet Delight in Movie Theaters",
+        "link": "https://www.indiewire.com/criticism/movies/hadestown-the-musical-movie-review-1235206370/"
       },
       {
-        "title": "\u2018Big Break\u2019 Review: Sketch Comedy Group Simple Town Just Made a Killer Observation About Success",
-        "link": "https://www.indiewire.com/criticism/movies/big-break-review-simple-town-1235206501/"
+        "title": "\u2018Clayface\u2019 Trailer: Tom Rhys Harries Becomes One of Gotham\u2019s Most Grotesque Villains",
+        "link": "https://www.indiewire.com/news/trailers/clayface-trailer-1235206594/"
       },
       {
-        "title": "Will the Emmys Bring Back Cut Categories? History Provides Hope",
-        "link": "https://www.indiewire.com/awards/industry/will-2026-emmys-bring-back-cut-categories-1235206508/"
+        "title": "What\u2019s Your Christopher Nolan?",
+        "link": "https://www.indiewire.com/features/commentary/hollywood-ip-creators-christopher-nolan-kane-parsons-1235206577/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018Spider-Man: Brand New Day\u2019 Merch Swings Into Stores With Luxury Watches, Lego Sets, Funko Collectibles and More",
-        "link": "https://variety.com/2026/shopping/news/spider-man-brand-new-day-merch-collectibles-shop-online-1236818071/"
+        "title": "Hollywood\u2019s Favorite Ugg Slippers (To Never Wear on a Christopher Nolan Set)",
+        "link": "https://variety.com/2026/shopping/news/celebrity-favorite-ugg-slippers-shop-online-1236818232/"
       },
       {
-        "title": "Square Eyes Acquires \u2018I Plant My Hand in the Garden\u2019 Ahead of World Premiere in Venice Days (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/global/square-eyes-i-plant-my-hand-in-the-garden-venice-days-1236818157/"
+        "title": "Sophie Thatcher Is Ready to Move Beyond \u2018Yellowjackets\u2019 and Step Out of the Darkness",
+        "link": "https://variety.com/2026/film/features/sophie-thatcher-yellowjackets-ending-trump-gaza-her-private-hell-inde-navarrette-1236817823/"
       },
       {
-        "title": "San Diego Comic-Con\u2019s Best Panels: \u2018Avengers: Doomsday,\u2019 \u2018Lanterns,\u2019 \u2018Percy Jackson\u2019 and More",
-        "link": "https://variety.com/lists/comic-con-best-panels-marvel-lanterns-percy-jackson/"
+        "title": "FCC Chair Says ABC\u2019s Decision to Not Broadcast Trump Speech Live Will Be Part of Agency\u2019s Review of Station Licenses",
+        "link": "https://variety.com/2026/tv/news/fcc-abc-trump-speech-review-station-licenses-1236818342/"
       },
       {
-        "title": "YouTube Star Jacksepticeye Expands Annual \u2018Thankmas\u2019 Charity Event Into 6-Month Make-A-Wish Partnership With $3 Million Goal (EXCLUSIVE)",
-        "link": "https://variety.com/2026/gaming/news/jacksepticeye-thankmas-2026-make-a-wish-1236818038/"
+        "title": "European Commission Approves Paramount-Warner Bros. Merger",
+        "link": "https://variety.com/2026/film/news/european-commission-approves-paramount-warner-bros-1236818353/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Tiffany Haddish, Devon Sawa\u2019s Thriller \u2018The Girl in the River\u2019 Gets Late Summer Release and Trailer (Exclusive)",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/the-girl-in-the-river-tiffany-haddish-devon-sawa-release-1236653795/"
+        "title": "Inside the Gen Z Film Publicity Stunt That Had Manosphere Poster Boy Kyle University Stationed Outside L.A., London Studios (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/movies/movie-features/kyle-university-manosphere-film-publicity-stunt-noah-caplan-1236653919/"
       },
       {
-        "title": "How Gilead Is Working With Cultural Influencers to Bring Attention to HIV Stigma and Elevate HIV Prevention",
-        "link": "https://www.hollywoodreporter.com/news/general-news/gilead-fights-to-end-hiv-stigma-1236643716/"
+        "title": "\u2018Loki\u2019 EP Kevin R. Wright Talks \u2018Pompeii: Out of Time\u2019 and New Company with Tom Hiddleston",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/loki-ep-kevin-r-wright-talks-pompeii-out-of-time-1236654094/"
       },
       {
-        "title": "\u2018Misty Green\u2019: Chris Rock Follows a Hollywood Actress Fighting for Her Second Act",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/misty-green-trailer-chris-rock-hollywood-actress-1236653942/"
+        "title": "Paramount-Warner Bros. Deal Blessed by European Union Regulators",
+        "link": "https://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-european-union-regulators-1236654219/"
       },
       {
-        "title": "Toronto: Jodie Comer\u2019s \u2018Stuffed\u2019 to Open Discovery Program",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/toronto-jodie-comers-stuffed-discovery-program-1236653546/"
+        "title": "Watch Jesus Rappel Down a Cliff in the TV Crossover Event of the Summer: \u2018The Chosen\u2019 x Bear Grylls",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/the-chosen-in-the-wild-with-bear-grylls-trailer-jesus-rappels-1236654136/"
       }
     ],
     "larb": [],
@@ -263,20 +263,20 @@
     ],
     "nautilus": [
       {
+        "title": "Australia\u2019s Greater Gliders Fly Majestically From Tree to Tree\u2014And Now We Know Exactly How Far",
+        "link": "https://nautil.us/australias-greater-gliders-fly-majestically-from-tree-to-tree-and-now-we-know-exactly-how-far-1282905/"
+      },
+      {
+        "title": "How Tunas Evolved to Become an Apex Predator of the Sea",
+        "link": "https://nautil.us/how-tunas-evolved-to-become-an-apex-predator-of-the-sea-1282901/"
+      },
+      {
         "title": "The Avocados That May Save Us from a Guacamole Apocalypse",
         "link": "https://nautil.us/the-avocados-that-may-save-us-from-a-guacamole-apocalypse-1282897/"
       },
       {
         "title": "Plants and Their Ants: When Flora and Fauna Team Up",
         "link": "https://nautil.us/plants-and-their-ants-when-flora-and-fauna-team-up-1282810/"
-      },
-      {
-        "title": "Why Are We Using Machines to Study Our Inner Lives?",
-        "link": "https://nautil.us/why-are-we-using-machines-to-study-our-inner-lives-1282870/"
-      },
-      {
-        "title": "Record of Human Migration Hiding in the DNA of a Musky Rodent",
-        "link": "https://nautil.us/record-of-human-migration-hiding-in-the-dna-of-a-musky-rodent-1282867/"
       }
     ],
     "worksinprogress": [],
