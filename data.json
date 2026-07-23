@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23 08:17 UTC",
+  "last_updated": "2026-07-23 11:03 UTC",
   "feeds": {
     "bbc": [
       {
@@ -11,49 +11,49 @@
         "link": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "US signs landmark nuclear deal with Saudi Arabia",
-        "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss"
+        "title": "Friend of Manchester synagogue attacker jailed for plot on military base",
+        "link": "https://www.bbc.co.uk/news/articles/cvg791nenvvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran ",
-        "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss"
+        "title": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
+        "link": "https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Travellers panic as US attacks Iran-Iraq border crossing",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/travellers-panic-as-us-attacks-iran-iraq-border-crossing?traffic_source=rss"
+        "title": "Rubio says Iran \u2018begging\u2019 for a deal with US but not ready to make one",
+        "link": "https://www.aljazeera.com/news/2026/7/23/rubio-says-iran-begging-for-a-deal-with-us-but-not-ready-to-make-one?traffic_source=rss"
       },
       {
-        "title": "India\u2019s Modi promises fast-track courts for exam fraud fuelling protests",
-        "link": "https://www.aljazeera.com/news/2026/7/23/indias-modi-promises-fast-track-courts-for-exam-fraud-fuelling-protests?traffic_source=rss"
+        "title": "Thai sailors sue owners of cargo ship hit in Hormuz",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/thai-sailors-sue-owners-of-cargo-ship-hit-in-hormuz?traffic_source=rss"
       },
       {
-        "title": "Top US and Russian diplomats discuss Ukraine war in Manila",
-        "link": "https://www.aljazeera.com/news/2026/7/23/top-us-and-russian-diplomats-discuss-ukraine-war-in-manila?traffic_source=rss"
+        "title": "Iran, Houthis strike tankers as US bombing continues: What\u2019s the latest?",
+        "link": "https://www.aljazeera.com/news/2026/7/23/iran-houthis-strike-tankers-as-us-bombing-continues-whats-the-latest?traffic_source=rss"
       },
       {
-        "title": "Arsenal defender Saliba sidelined for \u2018extended period\u2019 due to back injury",
-        "link": "https://www.aljazeera.com/sports/2026/7/23/william-saliba-back-injury-arsenal-france-world-cup?traffic_source=rss"
+        "title": "\u2018Televising our revolution\u2019: India\u2019s Gen Z flips Modi\u2019s social media game",
+        "link": "https://www.aljazeera.com/features/2026/7/23/televising-our-revolution-indias-gen-z-flips-modis-social-media-game?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Rowley steps down as St Helens head coach",
+        "link": "https://www.skysports.com/rugby-league/news/12040/13566235/st-helens-paul-rowley-steps-down-as-head-coach-with-immediate-effect-ahead-of-wigan-warriors-match-in-super-league"
+      },
+      {
         "title": "Miami Heat admit LeBron 'introductory' video posted by mistake",
         "link": "https://www.skysports.com/basketball/news/12040/13566171/lebron-james-miami-heat-admit-video-teasing-nba-legends-return-posted-by-mistake"
       },
       {
-        "title": "Today on Sky Sports Racing: Victory Gold and Waasil clash at Newbury",
-        "link": "https://www.skysports.com/racing/news/12040/13565620/today-on-sky-sports-racing-doncaster-newbury-southwell-and-yarmouth-meetings-live-on-thursday"
+        "title": "'He's trying to kill me!' | Evra goads Archer and instantly takes bouncer to the face!",
+        "link": "https://www.skysports.com/watch/video/13566214/patrice-evra-goads-jofra-archer-and-instantly-takes-bouncer-to-the-face"
       },
       {
-        "title": "Salt stars as Fire end eight-match Hundred losing streak against Brave",
-        "link": "https://www.skysports.com/cricket/news/12040/13566100/the-hundred-welsh-fire-snap-eight-match-losing-streak-against-southern-brave-as-phil-salt-stars-with-the-bat"
-      },
-      {
-        "title": "Fernandes SCREAMER seals Spurs' winning start to pre-season",
-        "link": "https://www.skysports.com/watch/video/13566172/tottenham-1-0-mk-dons-pre-season-highlights"
+        "title": "Leeds in talks with Man City over deal for Trafford",
+        "link": "https://www.skysports.com/football/news/12040/13566246/leeds-united-transfer-news-james-trafford-talks-begin-with-man-city-over-deal-for-england-goalkeeper"
       }
     ],
     "pitchfork": [],
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "Venice Film Festival Reveals Full 2026 Lineup",
+        "link": "https://www.indiewire.com/news/festivals/venice-film-festival-reveals-2026-lineup-1235206616/"
+      },
+      {
         "title": "\u2018Someone\u2019s Daughter\u2019 Review: Fran\u00e7ois Arnaud Nauseates in Striking Rape-Revenge Thriller",
         "link": "https://www.indiewire.com/criticism/movies/someones-daughter-movie-review-francois-arnaud-1235206592/"
       },
@@ -163,31 +167,35 @@
       {
         "title": "Nobody Finances the Land",
         "link": "https://www.indiewire.com/features/commentary/film-financing-land-vs-water-1235206633/"
-      },
-      {
-        "title": "\u2018The Odyssey\u2019 Has Set the Bar for 2027 Oscar Contenders, but Are Its Stars Bound for Awards Glory?",
-        "link": "https://www.indiewire.com/awards/predictions/the-odyssey-oscar-predictions-crafts-will-impress-academy-1235206635/"
       }
     ],
     "variety": [
       {
-        "title": "Courtney Stodden Is Fighting for Something Bigger Than Jason Alexander\u2019s Apology",
-        "link": "https://variety.com/2026/tv/news/courtney-stodden-jason-alexander-apology-seinfeld-child-marriage-1236818847/"
+        "title": "TelevisaUnivision Posts Q2 Loss Despite Boost From Mexico World Cup Telecasts",
+        "link": "https://variety.com/2026/tv/news/televisaunivision-q2-loss-earnings-mexico-world-cup-1236818664/"
       },
       {
-        "title": "\u2018The Wild Robot\u2019 VFX Studio STIM Sets Canary Islands Operation, Planning to Create More Than 100 Jobs",
-        "link": "https://variety.com/2026/film/markets-festivals/stim-canary-islands-animation-studio-tenerife-zec-1236817891/"
+        "title": "Venice Title \u2018The Difficult Bride\u2019 Taps Films Boutique for World Sales (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/festivals/venice-difficult-bride-films-boutique-sales-1236818947/"
       },
       {
-        "title": "Where to Find a Commonwealth Games 2026 Livestream in the U.S. to Watch the Event for Free",
-        "link": "https://variety.com/2026/shopping/athletes/how-to-watch-2026-commonwealth-games-online-free-streaming-1236816812/"
+        "title": "Isabel Davis Named Director of BFI Filmmaking Fund \u2013 Global Bulletin",
+        "link": "https://variety.com/2026/film/news/isabel-davis-director-bfi-filmmaking-fund-1236819027/"
       },
       {
-        "title": "Yeon Sang-ho Returns to \u2018Parasyte\u2019 Universe With \u2018Tamiya,\u2019 Starring Shioli Kutsuna, at Netflix",
-        "link": "https://variety.com/2026/tv/news/yeon-sang-ho-parasyte-tamiya-shioli-kutsuna-netflix-1236817846/"
+        "title": "Tom Holland Is Filming Fred Astaire Biopic Next and Plans to \u2018Do All of the Dancing\u2019 Himself: \u2018I\u2019ve Got So Much Work to Do\u2019",
+        "link": "https://variety.com/2026/film/global/tom-holland-fred-astaire-biopic-own-dancing-1236818951/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "Alex Gibney\u2019s Elon Musk Documentary to Premiere in Venice \u2014 With a Nearly 4-Hour Runtime",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/alex-gibney-elon-musk-documentary-venice-premiere-4-hours-1236654815/"
+      },
+      {
+        "title": "Venice Unveils 2026 Lineup (Updating Live)",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/venice-film-festival-unveils-2026-lineup-1236653842/"
+      },
       {
         "title": "Matt Rife Sets Four-Night Comedy Cruise for 2027",
         "link": "https://www.hollywoodreporter.com/news/general-news/matt-rife-comedy-cruise-suite-rife-on-deck-2027-1236654740/"
@@ -195,18 +203,18 @@
       {
         "title": "\u2018Brave New Love\u2019 Dives Into Lust, Infidelity, Norms, Motherhood and Shame (Exclusive Clip)",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/brave-new-love-film-clip-locarno-2026-infidelity-motherhood-1236653910/"
-      },
-      {
-        "title": "Nordstrom\u2019s Anniversary Sale Is a Goldmine of Jewelry Markdowns \u2014 Here Are the 23 Standouts",
-        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/nordstrom-anniversary-sale-2026-best-jewelry-deals-online-1236654433/"
-      },
-      {
-        "title": "Spencer Pratt Tears Into Gavin Newsom, Rob Bonta Over Paramount Lawsuit in Lengthy Video Rant",
-        "link": "https://www.hollywoodreporter.com/news/politics-news/spencer-pratt-slams-gavin-newsom-paramount-lawsuit-1236654637/"
       }
     ],
     "larb": [],
     "aeon": [
+      {
+        "title": "All the Queens houses",
+        "link": "https://aeon.co/videos/tour-the-eclectic-residences-of-new-yorks-most-diverse-borough"
+      },
+      {
+        "title": "The savage bites back",
+        "link": "https://aeon.co/essays/anthropophagy-art-flips-the-cannibal-worries-of-colonialism"
+      },
       {
         "title": "Can cells think?",
         "link": "https://aeon.co/videos/why-we-should-think-of-intelligence-in-terms-of-goals-not-brains"
@@ -214,17 +222,13 @@
       {
         "title": "The people\u2019s atheist",
         "link": "https://aeon.co/essays/the-rural-french-priest-who-preached-atheism-to-the-people"
-      },
-      {
-        "title": "The Skinner revolution",
-        "link": "https://aeon.co/videos/how-bf-skinner-upended-our-understanding-of-behaviour-and-control"
-      },
-      {
-        "title": "Beyond Greece and Rome",
-        "link": "https://aeon.co/essays/uncovering-a-global-ancient-history-beyond-greece-and-rome"
       }
     ],
     "psyche": [
+      {
+        "title": "Don\u2019t turn away from tragedy, but do witness intentionally",
+        "link": "https://psyche.co/ideas/dont-turn-away-from-tragedy-but-do-witness-intentionally"
+      },
       {
         "title": "How to become the person you want to be",
         "link": "https://psyche.co/guides/how-to-become-the-person-you-want-to-be"
@@ -236,10 +240,6 @@
       {
         "title": "What ancient art tells us about modern psychedelic medicine",
         "link": "https://psyche.co/ideas/what-ancient-art-tells-us-about-modern-psychedelic-medicine"
-      },
-      {
-        "title": "When the world stopped moving",
-        "link": "https://psyche.co/turning-points/in-the-stillness-of-prison-i-learned-how-to-be-alone"
       }
     ],
     "publicdomainreview": [
