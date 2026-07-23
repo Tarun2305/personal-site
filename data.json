@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-07-23 11:03 UTC",
+  "last_updated": "2026-07-23 13:40 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Police officer was violent rapist who attacked women over 14 years, BBC reveals",
-        "link": "https://www.bbc.co.uk/news/articles/c3v0rq66q3no?at_medium=RSS&at_campaign=rss"
+        "title": "Saudis must recognise Israel for nuclear deal, says Trump ",
+        "link": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
-        "link": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Friend of Manchester synagogue attacker jailed for plot on military base",
-        "link": "https://www.bbc.co.uk/news/articles/cvg791nenvvo?at_medium=RSS&at_campaign=rss"
+        "title": "Police failed to check Manchester synagogue attacker's phones despite arresting him twice",
+        "link": "https://www.bbc.co.uk/news/articles/c3d3507ng37o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
         "link": "https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "France evacuates 20,000 as wildfires spread in south-west",
+        "link": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Rubio says Iran \u2018begging\u2019 for a deal with US but not ready to make one",
-        "link": "https://www.aljazeera.com/news/2026/7/23/rubio-says-iran-begging-for-a-deal-with-us-but-not-ready-to-make-one?traffic_source=rss"
+        "title": "Kashmiri activist Khurram Parvez and journalist Irfan Mehraj freed on bail",
+        "link": "https://www.aljazeera.com/news/2026/7/23/kashmiri-activist-khurram-parvez-and-journalist-irfan-mehraj-freed-on-bail?traffic_source=rss"
       },
       {
-        "title": "Thai sailors sue owners of cargo ship hit in Hormuz",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/thai-sailors-sue-owners-of-cargo-ship-hit-in-hormuz?traffic_source=rss"
+        "title": "Rebuilding Gaza to cost $71bn, must include Palestinians, report finds",
+        "link": "https://www.aljazeera.com/news/2026/7/23/rebuilding-gaza-to-cost-71bn-must-include-palestinians-report-finds?traffic_source=rss"
       },
       {
-        "title": "Iran, Houthis strike tankers as US bombing continues: What\u2019s the latest?",
-        "link": "https://www.aljazeera.com/news/2026/7/23/iran-houthis-strike-tankers-as-us-bombing-continues-whats-the-latest?traffic_source=rss"
+        "title": "How are companies, governments responding to the OpenAI hack?",
+        "link": "https://www.aljazeera.com/news/2026/7/23/how-are-companies-governments-responding-to-the-openai-hack?traffic_source=rss"
       },
       {
-        "title": "\u2018Televising our revolution\u2019: India\u2019s Gen Z flips Modi\u2019s social media game",
-        "link": "https://www.aljazeera.com/features/2026/7/23/televising-our-revolution-indias-gen-z-flips-modis-social-media-game?traffic_source=rss"
+        "title": "\u2018Our fight is to fix the system\u2019: India protesters demand accountability",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/our-fight-is-to-fix-the-system-india-protesters-demand-accountability?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Rowley steps down as St Helens head coach",
-        "link": "https://www.skysports.com/rugby-league/news/12040/13566235/st-helens-paul-rowley-steps-down-as-head-coach-with-immediate-effect-ahead-of-wigan-warriors-match-in-super-league"
+        "title": "Garnacho to Villa? Why it's complicated",
+        "link": "https://www.skysports.com/watch/video/13566318/explained-why-a-move-for-alejandro-garnacho-from-chelsea-to-aston-villa-is-complicated"
       },
       {
-        "title": "Miami Heat admit LeBron 'introductory' video posted by mistake",
-        "link": "https://www.skysports.com/basketball/news/12040/13566171/lebron-james-miami-heat-admit-video-teasing-nba-legends-return-posted-by-mistake"
+        "title": "Johnson-Thompson and Asher-Smith out of Commonwealth Games",
+        "link": "https://www.skysports.com/athletics/news/12040/13566302/commonwealth-games-2026-katarina-johnson-thompson-dina-asher-smith-and-netball-star-natalie-metcalf-out-of-glasgow-2026"
       },
       {
-        "title": "'He's trying to kill me!' | Evra goads Archer and instantly takes bouncer to the face!",
-        "link": "https://www.skysports.com/watch/video/13566214/patrice-evra-goads-jofra-archer-and-instantly-takes-bouncer-to-the-face"
+        "title": "Arsenal complete deal to sign winger Tzolis",
+        "link": "https://www.skysports.com/football/news/12040/13564283/arsenal-transfer-news-christos-tzolis-signs-in-34m-deal-from-club-brugge-as-replacement-for-leandro-trossard"
       },
       {
-        "title": "Leeds in talks with Man City over deal for Trafford",
-        "link": "https://www.skysports.com/football/news/12040/13566246/leeds-united-transfer-news-james-trafford-talks-begin-with-man-city-over-deal-for-england-goalkeeper"
+        "title": "England men and women's cricket fixtures 2027",
+        "link": "https://www.skysports.com/cricket/news/12040/13566231/england-cricket-schedule-2027-men-and-women-fixtures-including-the-ashes-150th-anniversary-test-against-australia-world-cup-champions-trophy"
       }
     ],
     "pitchfork": [],
@@ -80,20 +80,20 @@
     "criterion": [],
     "rogerebert": [
       {
+        "title": "Netflix\u2019s \u201cRansom Canyon\u201d Turns Up the Soapy Drama in Serviceable Second Season",
+        "link": "https://www.rogerebert.com/streaming/netflixs-ransom-canyon-turns-up-the-soapy-drama-in-serviceable-second-season"
+      },
+      {
+        "title": "Cinema is My Calling Again: Nicolas Winding Refn on \u201cHer Private Hell\u201d",
+        "link": "https://www.rogerebert.com/interviews/cinema-is-my-calling-again-nicolas-winding-refn-on-her-private-hell"
+      },
+      {
+        "title": "Relive the Launch That Changed Gaming in \u201cHalo: Campaign Evolved\u201d",
+        "link": "https://www.rogerebert.com/video-games/relive-the-launch-that-changed-gaming-in-halo-campaign-evolved"
+      },
+      {
         "title": "HBO Max Spin-Off \u201cStuart Fails to Save the Universe\u201d Wastes Clever Concept",
         "link": "https://www.rogerebert.com/streaming/hbo-max-spin-off-stuart-fails-to-save-the-universe-wastes-clever-concept"
-      },
-      {
-        "title": "\u201cStar Trek: Strange New Worlds\u201d Keeps Boldly Swinging in Tone in Season 4",
-        "link": "https://www.rogerebert.com/features/star-trek-strange-new-worlds-season-4-paramount-plus-tv-review-2026"
-      },
-      {
-        "title": "Fantasia 2026: Our Effed Up World, Zsazsa Zaturnnah, Dance Freak",
-        "link": "https://www.rogerebert.com/festivals/fantasia-2026-our-effed-up-world-zsazsa-zaturnnah-dance-freak"
-      },
-      {
-        "title": "It\u2019s Just You and Me Now, Sport: On \u201cManhunter: The Final Cut\u201d",
-        "link": "https://www.rogerebert.com/features/its-just-you-and-me-now-sport-on-manhunter-the-final-cut"
       }
     ],
     "filmcomment": [
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "How Losing \u2018Avengers\u2019 Brought Destin Daniel Cretton to \u2018Spider-Man: Brand New Day\u2019",
+        "link": "https://www.indiewire.com/features/interviews/spider-man-brand-new-day-director-interview-1235206443/"
+      },
+      {
         "title": "Venice Film Festival Reveals Full 2026 Lineup",
         "link": "https://www.indiewire.com/news/festivals/venice-film-festival-reveals-2026-lineup-1235206616/"
       },
@@ -163,46 +167,42 @@
       {
         "title": "Indie Specialized Box Office Chart: \u2018American Pachuco: The Legend of Luis Valdez\u2019 Has Impressive Film Forum Launch for a Doc",
         "link": "https://www.indiewire.com/news/box-office/american-pachuco-luis-valdez-doc-specialized-box-office-1235206605/"
-      },
-      {
-        "title": "Nobody Finances the Land",
-        "link": "https://www.indiewire.com/features/commentary/film-financing-land-vs-water-1235206633/"
       }
     ],
     "variety": [
       {
-        "title": "TelevisaUnivision Posts Q2 Loss Despite Boost From Mexico World Cup Telecasts",
-        "link": "https://variety.com/2026/tv/news/televisaunivision-q2-loss-earnings-mexico-world-cup-1236818664/"
+        "title": "BritBox\u2019s \u2018Gone\u2019 Is a Masterfully Tense Crime Drama: TV Review",
+        "link": "https://variety.com/2026/tv/reviews/gone-review-britbox-1236817285/"
       },
       {
-        "title": "Venice Title \u2018The Difficult Bride\u2019 Taps Films Boutique for World Sales (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/festivals/venice-difficult-bride-films-boutique-sales-1236818947/"
+        "title": "Prime Video Launches Games With Luna App Integration; \u2018Tomb Raider,\u2019 James Bond Titles Won\u2019t Be in the Mix",
+        "link": "https://variety.com/2026/gaming/news/amazon-prime-video-games-app-1236818545/"
       },
       {
-        "title": "Isabel Davis Named Director of BFI Filmmaking Fund \u2013 Global Bulletin",
-        "link": "https://variety.com/2026/film/news/isabel-davis-director-bfi-filmmaking-fund-1236819027/"
+        "title": "Tyler Perry\u2019s \u2018Beauty in Black\u2019 Gets Surprise Season 4 Renewal After Final Season Announcement",
+        "link": "https://variety.com/2026/tv/news/tyler-perrys-beauty-in-black-season-4-renewed-1236818764/"
       },
       {
-        "title": "Tom Holland Is Filming Fred Astaire Biopic Next and Plans to \u2018Do All of the Dancing\u2019 Himself: \u2018I\u2019ve Got So Much Work to Do\u2019",
-        "link": "https://variety.com/2026/film/global/tom-holland-fred-astaire-biopic-own-dancing-1236818951/"
+        "title": "International Cinema Union Criticizes Europe\u2019s Approval of Paramount-Warner Bros. Merger: \u2018It Has Based Its Decision on Too Narrow a Scope\u2019",
+        "link": "https://variety.com/2026/film/global/unic-warner-bros-paramount-merger-european-commission-1236819173/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Alex Gibney\u2019s Elon Musk Documentary to Premiere in Venice \u2014 With a Nearly 4-Hour Runtime",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/alex-gibney-elon-musk-documentary-venice-premiere-4-hours-1236654815/"
+        "title": "\u2018Coyote vs. Acme\u2019 Trailer: Meet the Underdogs Taking on the Might of Acme Corp.",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/coyote-vs-acme-first-trailer-1236654769/"
       },
       {
-        "title": "Venice Unveils 2026 Lineup (Updating Live)",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/venice-film-festival-unveils-2026-lineup-1236653842/"
+        "title": "Creator U: Inside the Influencer Frat",
+        "link": "https://www.hollywoodreporter.com/business/digital/usc-reach-influencer-incubator-content-creators-1236653199/"
       },
       {
-        "title": "Matt Rife Sets Four-Night Comedy Cruise for 2027",
-        "link": "https://www.hollywoodreporter.com/news/general-news/matt-rife-comedy-cruise-suite-rife-on-deck-2027-1236654740/"
+        "title": "Amazon Adds Video Games Into Prime Video in Expansion Push",
+        "link": "https://www.hollywoodreporter.com/business/digital/amazon-prime-video-games-luna-1236653286/"
       },
       {
-        "title": "\u2018Brave New Love\u2019 Dives Into Lust, Infidelity, Norms, Motherhood and Shame (Exclusive Clip)",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/brave-new-love-film-clip-locarno-2026-infidelity-motherhood-1236653910/"
+        "title": "Tyler Perry\u2019s \u2018Beauty in Black\u2019 Renewed for Season 4 at Netflix",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/tyler-perry-beauty-in-black-renewed-season-4-netflix-1236654787/"
       }
     ],
     "larb": [],
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "Watch Orcas Play With (Read: Obliterate) Their Food",
+        "link": "https://nautil.us/watch-orcas-play-with-read-obliterate-their-food-1282937/"
+      },
+      {
         "title": "Your Dementia Risk Is Higher If Your Spouse Has It\u2014But It\u2019s More Than Shared Lifestyle",
         "link": "https://nautil.us/your-dementia-risk-is-higher-if-your-spouse-has-it-but-its-more-than-shared-lifestyle-1282911/"
       },
@@ -290,14 +294,14 @@
       {
         "title": "How Tunas Evolved to Become an Apex Predator of the Sea",
         "link": "https://nautil.us/how-tunas-evolved-to-become-an-apex-predator-of-the-sea-1282901/"
-      },
-      {
-        "title": "The Avocados That May Save Us from a Guacamole Apocalypse",
-        "link": "https://nautil.us/the-avocados-that-may-save-us-from-a-guacamole-apocalypse-1282897/"
       }
     ],
     "worksinprogress": [],
     "noema": [
+      {
+        "title": "The Real Problem Plaguing Asia\u2019s Most Important Relationship",
+        "link": "https://www.noemamag.com/the-real-problem-plaguing-asias-most-important-relationship"
+      },
       {
         "title": "What Humanity Needs To Flourish In The Next Decade",
         "link": "https://www.noemamag.com/what-humanity-needs-to-flourish-in-the-next-decade"
@@ -309,10 +313,6 @@
       {
         "title": "How AI Is Rewriting Human Nature",
         "link": "https://www.noemamag.com/how-ai-is-rewriting-human-nature"
-      },
-      {
-        "title": "Why We Demand Perfect Machines Yet Tolerate Human Carnage",
-        "link": "https://www.noemamag.com/why-we-demand-perfect-machines-yet-tolerate-human-carnage"
       }
     ]
   }
