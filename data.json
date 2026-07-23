@@ -1,40 +1,40 @@
 {
-  "last_updated": "2026-07-23 02:07 UTC",
+  "last_updated": "2026-07-23 05:47 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
+        "link": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Police officer was violent rapist who attacked women over 14 years",
+        "link": "https://www.bbc.co.uk/news/articles/c3v0rq66q3no?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "US signs landmark nuclear deal with Saudi Arabia",
         "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "PC Harper's widow criticises early prisoner release plan as Burnham to review scheme",
-        "link": "https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Most bus fares in England to be capped at \u00a32 from January",
-        "link": "https://www.bbc.co.uk/news/articles/cz64l78n5vpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
-        "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss"
+        "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran ",
+        "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Spain and France battle raging wildfires, face high risk of more",
-        "link": "https://www.aljazeera.com/news/2026/7/23/spain-and-france-battle-raging-wildfires-face-high-risk-of-more?traffic_source=rss"
+        "title": "Thousands forced to evacuate as wildfires sweep across southern France",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/aje-onl-nf_france-battles-massive-wildfires-amid-extreme-heat-230726?traffic_source=rss"
       },
       {
-        "title": "US tariffs \u2018strengthen\u2019 Lula against Bolsonaro\u2019s son in upcoming elections",
-        "link": "https://www.aljazeera.com/news/2026/7/23/us-tariffs-strengthen-lula-against-bolsonaros-son-in-upcoming-elections?traffic_source=rss"
+        "title": "US attacks Iran for 12th night as the House approves defence spending",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-attacks-iran-for-12th-night-as-the-house-approves-defence-spending?traffic_source=rss"
       },
       {
-        "title": "US House passes $1.15 trillion military bill expanding Israel cooperation",
-        "link": "https://www.aljazeera.com/news/2026/7/23/us-house-passes-1-15-trillion-military-bill-expanding-israel-cooperation?traffic_source=rss"
+        "title": "Saudi Arabia and US agree to landmark nuclear deal for civilian purposes",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/saudi-arabia-and-us-agree-to-landmark-nuclear-deal-for-civilian-purposes?traffic_source=rss"
       },
       {
-        "title": "AI, China, \u2018dark factories\u2019 and the future of the US auto industry",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/ai-china-dark-factories-and-the-future-of-the-us-auto-industry?traffic_source=rss"
+        "title": "Indian police accused of using pellet guns in crackdown on India\u2019s protests",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/indian-police-accused-of-using-pellet-guns-in-crackdown-on-indias-protests?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -154,23 +154,27 @@
     ],
     "variety": [
       {
+        "title": "Courtney Stodden Is Fighting for Something Bigger Than Jason Alexander\u2019s Apology",
+        "link": "https://variety.com/2026/tv/news/courtney-stodden-jason-alexander-apology-seinfeld-child-marriage-1236818847/"
+      },
+      {
+        "title": "\u2018The Wild Robot\u2019 VFX Studio STIM Sets Canary Islands Operation, Planning to Create More Than 100 Jobs",
+        "link": "https://variety.com/2026/film/markets-festivals/stim-canary-islands-animation-studio-tenerife-zec-1236817891/"
+      },
+      {
         "title": "Where to Find a Commonwealth Games 2026 Livestream in the U.S. to Watch the Event for Free",
         "link": "https://variety.com/2026/shopping/athletes/how-to-watch-2026-commonwealth-games-online-free-streaming-1236816812/"
       },
       {
         "title": "Yeon Sang-ho Returns to \u2018Parasyte\u2019 Universe With \u2018Tamiya,\u2019 Starring Shioli Kutsuna, at Netflix",
         "link": "https://variety.com/2026/tv/news/yeon-sang-ho-parasyte-tamiya-shioli-kutsuna-netflix-1236817846/"
-      },
-      {
-        "title": "Shaken, Soaked and Seasick: What It\u2019s Like to Survive \u2018The Odyssey\u2019 in 4DX",
-        "link": "https://variety.com/2026/film/features/the-odyssey-4dx-moving-seats-water-spraying-1236818539/"
-      },
-      {
-        "title": "\u2018Doctor Strange\u2019 Director Says Elon Musk \u2018Doesn\u2019t Know S\u2014 About Cinema\u2019 After Musk Vows to Make AI \u2018Odyssey\u2019: \u2018His Opinions on Art Are Worthless\u2019",
-        "link": "https://variety.com/2026/film/news/doctor-strange-director-slams-elon-musk-ai-odyssey-1236818552/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "Nordstrom\u2019s Anniversary Sale Is a Goldmine of Jewelry Markdowns \u2014 Here Are the 23 Standouts",
+        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/nordstrom-anniversary-sale-2026-best-jewelry-deals-online-1236654433/"
+      },
       {
         "title": "Spencer Pratt Tears Into Gavin Newsom, Rob Bonta Over Paramount Lawsuit in Lengthy Video Rant",
         "link": "https://www.hollywoodreporter.com/news/politics-news/spencer-pratt-slams-gavin-newsom-paramount-lawsuit-1236654637/"
@@ -182,10 +186,6 @@
       {
         "title": "Lego at Comic-Con: Star Wars and Pok\u00e9mon Activations, Star Trek and Donkey Kong Sets",
         "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/lego-comic-con-star-wars-pokemon-star-trek-donkey-kong-1236654506/"
-      },
-      {
-        "title": "Netflix Reteams With Yeon Sang-ho for \u2018Parasyte: Tamiya\u2019 Series",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-yeon-sang-ho-parasyte-tamiya-series-1236653812/"
       }
     ],
     "larb": [],
