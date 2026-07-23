@@ -1,7 +1,11 @@
 {
-  "last_updated": "2026-07-22 22:00 UTC",
+  "last_updated": "2026-07-23 02:07 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "US signs landmark nuclear deal with Saudi Arabia",
+        "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "PC Harper's widow criticises early prisoner release plan as Burnham to review scheme",
         "link": "https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&at_campaign=rss"
@@ -13,28 +17,24 @@
       {
         "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
         "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Ex-Southern Water boss among four charged over alleged plan to manipulate water quality tests",
-        "link": "https://www.bbc.co.uk/news/articles/c36d0njy7jjo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Iran warns of regional turmoil if US threats and attacks do not stop",
-        "link": "https://www.aljazeera.com/news/2026/7/22/iran-warns-of-regional-turmoil-if-us-threats-and-attacks-do-not?traffic_source=rss"
+        "title": "Spain and France battle raging wildfires, face high risk of more",
+        "link": "https://www.aljazeera.com/news/2026/7/23/spain-and-france-battle-raging-wildfires-face-high-risk-of-more?traffic_source=rss"
       },
       {
-        "title": "Wounded Gaza journalists call for urgent medical evacuation",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/wounded-gaza-journalists-call-for-urgent-medical-evacuation?traffic_source=rss"
+        "title": "US tariffs \u2018strengthen\u2019 Lula against Bolsonaro\u2019s son in upcoming elections",
+        "link": "https://www.aljazeera.com/news/2026/7/23/us-tariffs-strengthen-lula-against-bolsonaros-son-in-upcoming-elections?traffic_source=rss"
       },
       {
-        "title": "US and Saudi Arabia announce nuclear cooperation deal",
-        "link": "https://www.aljazeera.com/news/2026/7/22/us-and-saudi-arabia-announce-nuclear-cooperation-deal?traffic_source=rss"
+        "title": "US House passes $1.15 trillion military bill expanding Israel cooperation",
+        "link": "https://www.aljazeera.com/news/2026/7/23/us-house-passes-1-15-trillion-military-bill-expanding-israel-cooperation?traffic_source=rss"
       },
       {
-        "title": "India\u2019s Rahul Gandhi speaks out after release",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/indias-rahul-gandhi-speaks-out-after-release?traffic_source=rss"
+        "title": "AI, China, \u2018dark factories\u2019 and the future of the US auto industry",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/ai-china-dark-factories-and-the-future-of-the-us-auto-industry?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -136,6 +136,10 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018Someone\u2019s Daughter\u2019 Review: Fran\u00e7ois Arnaud Nauseates in Striking Rape-Revenge Thriller",
+        "link": "https://www.indiewire.com/criticism/movies/someones-daughter-movie-review-francois-arnaud-1235206592/"
+      },
+      {
         "title": "Indie Specialized Box Office Chart: \u2018American Pachuco: The Legend of Luis Valdez\u2019 Has Impressive Film Forum Launch for a Doc",
         "link": "https://www.indiewire.com/news/box-office/american-pachuco-luis-valdez-doc-specialized-box-office-1235206605/"
       },
@@ -146,46 +150,42 @@
       {
         "title": "\u2018The Odyssey\u2019 Has Set the Bar for 2027 Oscar Contenders, but Are Its Stars Bound for Awards Glory?",
         "link": "https://www.indiewire.com/awards/predictions/the-odyssey-oscar-predictions-crafts-will-impress-academy-1235206635/"
-      },
-      {
-        "title": "\u2018A Sad and Beautiful World\u2019 Review: A Surprisingly Poppy Romantic Drama Set Against War-Torn Beirut",
-        "link": "https://www.indiewire.com/criticism/movies/a-sad-and-beautiful-world-movie-review-lebanon-1235206606/"
       }
     ],
     "variety": [
       {
-        "title": "Hello Sunshine\u2019s Head of TV and Film on 10 Years of Reese Witherspoon\u2019s Production Company, \u2018Big Little Lies\u2019 Season 3, Apple\u2019s \u2018Lucky\u2019 and More \u2018Elle\u2019",
-        "link": "https://variety.com/2026/tv/news/big-little-lies-season-3-lucky-elle-hello-sunshine-1236818329/"
+        "title": "Where to Find a Commonwealth Games 2026 Livestream in the U.S. to Watch the Event for Free",
+        "link": "https://variety.com/2026/shopping/athletes/how-to-watch-2026-commonwealth-games-online-free-streaming-1236816812/"
       },
       {
-        "title": "Darren Aronofsky\u2019s AI Studio Primordial Soup Raising $15 Million",
-        "link": "https://variety.com/2026/film/news/darren-aronofsky-ai-primordial-soup-raising-15-million-1236818544/"
+        "title": "Yeon Sang-ho Returns to \u2018Parasyte\u2019 Universe With \u2018Tamiya,\u2019 Starring Shioli Kutsuna, at Netflix",
+        "link": "https://variety.com/2026/tv/news/yeon-sang-ho-parasyte-tamiya-shioli-kutsuna-netflix-1236817846/"
       },
       {
-        "title": "\u2018The Odyssey\u2019 Screenplay Is Now Available to Buy Online",
-        "link": "https://variety.com/2026/film/news/the-odyssey-screenplay-christopher-nolan-buy-online-1236818532/"
+        "title": "Shaken, Soaked and Seasick: What It\u2019s Like to Survive \u2018The Odyssey\u2019 in 4DX",
+        "link": "https://variety.com/2026/film/features/the-odyssey-4dx-moving-seats-water-spraying-1236818539/"
       },
       {
-        "title": "LISTEN: Reba McEntire Revels in 50 Years of Making Music and Season 3 of NBC\u2019s \u2018Happy\u2019s Place\u2019",
-        "link": "https://variety.com/2026/music/news/reba-mcentire-50-years-music-happys-place-daily-variety-1236818516/"
+        "title": "\u2018Doctor Strange\u2019 Director Says Elon Musk \u2018Doesn\u2019t Know S\u2014 About Cinema\u2019 After Musk Vows to Make AI \u2018Odyssey\u2019: \u2018His Opinions on Art Are Worthless\u2019",
+        "link": "https://variety.com/2026/film/news/doctor-strange-director-slams-elon-musk-ai-odyssey-1236818552/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Noah Kahan, Aimee Mann, Dropkick Murphys Push For Ticket Price Caps on Resale in Massachusetts",
-        "link": "https://www.hollywoodreporter.com/music/music-industry-news/noah-kahan-dropkick-murphys-massachussetts-ticket-law-1236654191/"
+        "title": "Spencer Pratt Tears Into Gavin Newsom, Rob Bonta Over Paramount Lawsuit in Lengthy Video Rant",
+        "link": "https://www.hollywoodreporter.com/news/politics-news/spencer-pratt-slams-gavin-newsom-paramount-lawsuit-1236654637/"
       },
       {
-        "title": "Darren Aronofsky Raising Cash For His AI Film Studio (Exclusive)",
-        "link": "https://www.hollywoodreporter.com/business/business-news/darren-aronofsky-raising-money-ai-film-studio-1236654262/"
+        "title": "Travis Scott Says He Was \u201cNervous as F\u201d About Acting in Christopher Nolan\u2019s \u2018The Odyssey\u2019",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/travis-scott-christopher-nolan-the-odyssey-acting-nerves-1236654348/"
       },
       {
-        "title": "\u2018Who Wants to Be a Millionaire\u2019 Returns With Most Star-Studded Lineup to Date: Where to Watch Season 5 Online",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/watch-who-wants-to-be-a-millionaire-season-5-streaming-free-1236654277/"
+        "title": "Lego at Comic-Con: Star Wars and Pok\u00e9mon Activations, Star Trek and Donkey Kong Sets",
+        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/lego-comic-con-star-wars-pokemon-star-trek-donkey-kong-1236654506/"
       },
       {
-        "title": "YouTube\u2019s Ad Revenue Crossed $11 Billion in the Second Quarter of 2026",
-        "link": "https://www.hollywoodreporter.com/business/business-news/youtube-ad-revenue-reported-giant-alphabet-google-profits-1236654342/"
+        "title": "Netflix Reteams With Yeon Sang-ho for \u2018Parasyte: Tamiya\u2019 Series",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-yeon-sang-ho-parasyte-tamiya-series-1236653812/"
       }
     ],
     "larb": [],
