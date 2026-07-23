@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-07-23 05:47 UTC",
+  "last_updated": "2026-07-23 08:17 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
-        "link": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss"
+        "title": "Police officer was violent rapist who attacked women over 14 years, BBC reveals",
+        "link": "https://www.bbc.co.uk/news/articles/c3v0rq66q3no?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Police officer was violent rapist who attacked women over 14 years",
-        "link": "https://www.bbc.co.uk/news/articles/c3v0rq66q3no?at_medium=RSS&at_campaign=rss"
+        "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
+        "link": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "US signs landmark nuclear deal with Saudi Arabia",
@@ -21,39 +21,39 @@
     ],
     "aljazeera": [
       {
-        "title": "Thousands forced to evacuate as wildfires sweep across southern France",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/aje-onl-nf_france-battles-massive-wildfires-amid-extreme-heat-230726?traffic_source=rss"
+        "title": "Travellers panic as US attacks Iran-Iraq border crossing",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/travellers-panic-as-us-attacks-iran-iraq-border-crossing?traffic_source=rss"
       },
       {
-        "title": "US attacks Iran for 12th night as the House approves defence spending",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-attacks-iran-for-12th-night-as-the-house-approves-defence-spending?traffic_source=rss"
+        "title": "India\u2019s Modi promises fast-track courts for exam fraud fuelling protests",
+        "link": "https://www.aljazeera.com/news/2026/7/23/indias-modi-promises-fast-track-courts-for-exam-fraud-fuelling-protests?traffic_source=rss"
       },
       {
-        "title": "Saudi Arabia and US agree to landmark nuclear deal for civilian purposes",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/saudi-arabia-and-us-agree-to-landmark-nuclear-deal-for-civilian-purposes?traffic_source=rss"
+        "title": "Top US and Russian diplomats discuss Ukraine war in Manila",
+        "link": "https://www.aljazeera.com/news/2026/7/23/top-us-and-russian-diplomats-discuss-ukraine-war-in-manila?traffic_source=rss"
       },
       {
-        "title": "Indian police accused of using pellet guns in crackdown on India\u2019s protests",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/indian-police-accused-of-using-pellet-guns-in-crackdown-on-indias-protests?traffic_source=rss"
+        "title": "Arsenal defender Saliba sidelined for \u2018extended period\u2019 due to back injury",
+        "link": "https://www.aljazeera.com/sports/2026/7/23/william-saliba-back-injury-arsenal-france-world-cup?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Miami Heat admit LeBron 'introductory' video posted by mistake",
+        "link": "https://www.skysports.com/basketball/news/12040/13566171/lebron-james-miami-heat-admit-video-teasing-nba-legends-return-posted-by-mistake"
+      },
+      {
+        "title": "Today on Sky Sports Racing: Victory Gold and Waasil clash at Newbury",
+        "link": "https://www.skysports.com/racing/news/12040/13565620/today-on-sky-sports-racing-doncaster-newbury-southwell-and-yarmouth-meetings-live-on-thursday"
+      },
+      {
         "title": "Salt stars as Fire end eight-match Hundred losing streak against Brave",
         "link": "https://www.skysports.com/cricket/news/12040/13566100/the-hundred-welsh-fire-snap-eight-match-losing-streak-against-southern-brave-as-phil-salt-stars-with-the-bat"
       },
       {
-        "title": "Saliba out for 'extended period' with back injury",
-        "link": "https://www.skysports.com/football/news/12040/13566125/william-saliba-injury-arsenal-confirm-france-international-will-miss-extended-period-after-returning-from-world-cup-with-back-problem"
-      },
-      {
-        "title": "New signings shine, absentees and exciting youth - Spurs kickstart pre-season",
-        "link": "https://www.skysports.com/football/news/12040/13566118/tottenham-1-0-mk-dons-spurs-winning-start-to-pre-season-assessed-as-mateus-fernandes-hits-screamer"
-      },
-      {
-        "title": "Aston Villa agree deal to sign Garnacho ",
-        "link": "https://www.skysports.com/football/news/12040/13565869/alejandro-garnacho-transfer-news-aston-villa-agree-deal-with-chelsea-for-winger"
+        "title": "Fernandes SCREAMER seals Spurs' winning start to pre-season",
+        "link": "https://www.skysports.com/watch/video/13566172/tottenham-1-0-mk-dons-pre-season-highlights"
       }
     ],
     "pitchfork": [],
@@ -78,7 +78,24 @@
     ],
     "bfi": [],
     "criterion": [],
-    "rogerebert": [],
+    "rogerebert": [
+      {
+        "title": "HBO Max Spin-Off \u201cStuart Fails to Save the Universe\u201d Wastes Clever Concept",
+        "link": "https://www.rogerebert.com/streaming/hbo-max-spin-off-stuart-fails-to-save-the-universe-wastes-clever-concept"
+      },
+      {
+        "title": "\u201cStar Trek: Strange New Worlds\u201d Keeps Boldly Swinging in Tone in Season 4",
+        "link": "https://www.rogerebert.com/features/star-trek-strange-new-worlds-season-4-paramount-plus-tv-review-2026"
+      },
+      {
+        "title": "Fantasia 2026: Our Effed Up World, Zsazsa Zaturnnah, Dance Freak",
+        "link": "https://www.rogerebert.com/festivals/fantasia-2026-our-effed-up-world-zsazsa-zaturnnah-dance-freak"
+      },
+      {
+        "title": "It\u2019s Just You and Me Now, Sport: On \u201cManhunter: The Final Cut\u201d",
+        "link": "https://www.rogerebert.com/features/its-just-you-and-me-now-sport-on-manhunter-the-final-cut"
+      }
+    ],
     "filmcomment": [
       {
         "title": "The Film Comment Podcast: Subscriber Exclusive: John Early on Maddie\u2019s Secret, Part 2",
@@ -172,20 +189,20 @@
     ],
     "hollywoodreporter": [
       {
+        "title": "Matt Rife Sets Four-Night Comedy Cruise for 2027",
+        "link": "https://www.hollywoodreporter.com/news/general-news/matt-rife-comedy-cruise-suite-rife-on-deck-2027-1236654740/"
+      },
+      {
+        "title": "\u2018Brave New Love\u2019 Dives Into Lust, Infidelity, Norms, Motherhood and Shame (Exclusive Clip)",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/brave-new-love-film-clip-locarno-2026-infidelity-motherhood-1236653910/"
+      },
+      {
         "title": "Nordstrom\u2019s Anniversary Sale Is a Goldmine of Jewelry Markdowns \u2014 Here Are the 23 Standouts",
         "link": "https://www.hollywoodreporter.com/lifestyle/shopping/nordstrom-anniversary-sale-2026-best-jewelry-deals-online-1236654433/"
       },
       {
         "title": "Spencer Pratt Tears Into Gavin Newsom, Rob Bonta Over Paramount Lawsuit in Lengthy Video Rant",
         "link": "https://www.hollywoodreporter.com/news/politics-news/spencer-pratt-slams-gavin-newsom-paramount-lawsuit-1236654637/"
-      },
-      {
-        "title": "Travis Scott Says He Was \u201cNervous as F\u201d About Acting in Christopher Nolan\u2019s \u2018The Odyssey\u2019",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/travis-scott-christopher-nolan-the-odyssey-acting-nerves-1236654348/"
-      },
-      {
-        "title": "Lego at Comic-Con: Star Wars and Pok\u00e9mon Activations, Star Trek and Donkey Kong Sets",
-        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/lego-comic-con-star-wars-pokemon-star-trek-donkey-kong-1236654506/"
       }
     ],
     "larb": [],
