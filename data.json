@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-07-24 05:43 UTC",
+  "last_updated": "2026-07-24 08:13 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "US imposes tariffs on dozens of trade partners, citing forced labour concerns",
+        "title": "US hits dozens of trading partners with new wave of tariffs",
         "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "France orders evacuation of tourist spot as hundreds flee wildfires by boat",
+        "link": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Fifty women tell BBC they were pressured into having sex with strangers",
+        "link": "https://www.bbc.co.uk/news/articles/cly5vvw77pzo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "PM to spend first day working from northern branch of No 10",
         "link": "https://www.bbc.co.uk/news/articles/ckgvyr76973o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "UK complacent about war threat, warns defence boss",
-        "link": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Fifty women come forward saying they were pressured into swinging",
-        "link": "https://www.bbc.co.uk/news/articles/cly5vvw77pzo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Ukraine beheads its military as its performance begins to soar",
-        "link": "https://www.aljazeera.com/news/2026/7/24/ukraine-beheads-its-military-as-its-performance-begins-to-soar?traffic_source=rss"
+        "title": "US attacks Iran as Houthis allow Chinese ships to pass: What\u2019s the latest?",
+        "link": "https://www.aljazeera.com/news/2026/7/24/us-attacks-iran-as-houthis-allow-chinese-ships-to-pass-whats-the-latest?traffic_source=rss"
       },
       {
-        "title": "Trillion dollar US defence bill would deepen military ties with Israel",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/aje-onl-nf_us-defence-bill-deepen-military-ties-with-israel-240726?traffic_source=rss"
+        "title": "Real Madrid legend Ancelotti rivals Barcelona great Guardiola for Italy job",
+        "link": "https://www.aljazeera.com/sports/2026/7/24/real-madrid-legend-ancelotti-rivals-barcelona-great-guardiola-for-italy-job?traffic_source=rss"
       },
       {
-        "title": "Israel carries out blasts across south Lebanon despite \u2018ceasefire\u2019 deal",
-        "link": "https://www.aljazeera.com/news/2026/7/24/israel-carries-out-blasts-across-south-lebanon-despite-ceasefire-deal?traffic_source=rss"
+        "title": "Indian activist Wangchuk ends 26-day hunger strike",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/indian-activist-wangchuk-ends-26-day-hunger-strike?traffic_source=rss"
       },
       {
-        "title": "Albanian police use water cannon on protesters over Kushner-linked resort",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/albanian-police-use-water-cannon-on-protesters-over-kushner-linked-resort?traffic_source=rss"
+        "title": "Tehran slams Trump\u2019s threat to use frozen Iranian assets as \u2018incendiary\u2019",
+        "link": "https://www.aljazeera.com/news/2026/7/24/tehran-slams-trumps-threat-to-use-frozen-iranian-assets-as-incendiary?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Doyle: Masquerade Ball can clinch historic King George win",
+        "link": "https://www.skysports.com/racing/news/12040/13566403/hollie-doyle-masquerade-ball-can-clinch-historic-king-george-win-for-japan"
+      },
+      {
+        "title": "DeChambeau reveals Open penalty frustration",
+        "link": "https://www.skysports.com/golf/news/12040/13566520/bryson-dechambeau-says-controversial-two-shot-penalty-cost-him-claret-jug-opportunity-at-the-open"
+      },
+      {
         "title": "Today on Sky Sports Racing: Silver Dominion faces Alfred Wallace at Ascot",
         "link": "https://www.skysports.com/racing/news/12040/13566039/today-on-sky-sports-racing-silver-dominion-faces-alfred-wallace-in-ascots-pat-eddery-stakes-with-uttoxeter-and-chepstow-also-live-on-friday"
       },
       {
-        "title": "'Good luck to Dirk...': Littler dazzles in Blackpool as 'frightening' form continues",
-        "link": "https://www.skysports.com/darts/news/12040/13566484/luke-littler-dazzles-in-blackpool-as-frightening-world-darts-matchplay-form-continues-good-luck-to-dirk"
-      },
-      {
-        "title": "Murray returns as Draper's coach for Mubadala DC Open",
-        "link": "https://www.skysports.com/tennis/news/12040/13566487/andy-murray-and-jack-draper-reunite-for-mubadala-dc-open-after-scot-said-coaching-relationship-would-last-a-few-weeks"
-      },
-      {
-        "title": "Papers: Valuations of several Man Utd midfield targets revealed",
-        "link": "https://www.skysports.com/football/news/12040/13566448/man-utd-transfer-news-eduardo-camavinga-valuation-revealed-amid-interest-in-real-madrid-midfielder"
+        "title": "Why Newcastle are looking to emulate German giants on recruitment",
+        "link": "https://www.skysports.com/football/news/12040/13566313/newcastle-transfer-philosophy-why-magpies-are-aiming-to-emulate-borussia-dortmunds-work-on-young-players"
       }
     ],
     "pitchfork": [],
@@ -116,6 +116,10 @@
     ],
     "mubi": [
       {
+        "title": "Five Inspirations | Ratchapoom Boonbunchachok",
+        "link": "https://mubi.com/en/notebook/posts/five-inspirations-ratchapoom-boonbunchachok"
+      },
+      {
         "title": "Getting the Scoop in Bologna",
         "link": "https://mubi.com/en/notebook/posts/getting-the-scoop-in-bologna"
       },
@@ -126,10 +130,6 @@
       {
         "title": "Movie Poster of the Week | The Best of Movie Poster of the Day, Part 31",
         "link": "https://mubi.com/en/notebook/posts/movie-poster-of-the-week-the-best-of-movie-poster-of-the-day-part-31"
-      },
-      {
-        "title": "MUBI Podcast | \u201cThis Is England\u201d: Shane Meadows's 2-Toned Look at Skins and Ska (with Jack O'Connell)",
-        "link": "https://mubi.com/en/notebook/posts/mubi-podcast-this-is-england-shane-meadows-s-2-toned-look-at-skins-and-ska-with-jack-o-connell"
       }
     ],
     "reverseshot": [],
@@ -171,6 +171,10 @@
     ],
     "variety": [
       {
+        "title": "\u2018Jumbo\u2019 Sequel, \u2018Queen of Malacca\u2019 Franchise Plans on the Cards as Indonesia\u2019s Visinema Eyes Expansion (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/news/jumbo-sequel-queen-of-malacca-franchise-indonesia-visinema-1236820084/"
+      },
+      {
         "title": "Director Na Hong-Jin Makes Comic-Con Debut With Frightening New \u2018Hope\u2019 Footage, Says Casting Hoyeon Was His \u2018Best Decision\u2019",
         "link": "https://variety.com/2026/film/news/na-hong-jin-comic-con-hope-footage-hoyeon-1236819530/"
       },
@@ -181,10 +185,6 @@
       {
         "title": "Creepy Twins, Religious Fanaticism and a Loaded Gun Collide in Tense Chamber Drama \u2018Godhead\u2019 \u2014 Fantasia",
         "link": "https://variety.com/2026/film/features/godhead-fantasia-festival-thriller-evil-twins-religious-1236819934/"
-      },
-      {
-        "title": "\u2018Stuart Fails to Save the Universe\u2019 Co-Creator Bill Prady Explains the Science Behind the Show\u2019s Multiverse",
-        "link": "https://variety.com/2026/tv/news/stuart-fails-to-save-the-universe-science-explained-1236818737/"
       }
     ],
     "hollywoodreporter": [
