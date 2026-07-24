@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-07-24 16:34 UTC",
+  "last_updated": "2026-07-24 19:15 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Southport killer Axel Rudakubana appears to be manipulating the system, families' lawyer says",
-        "link": "https://www.bbc.co.uk/news/articles/cjrvy450jv5o?at_medium=RSS&at_campaign=rss"
+        "title": "Man describes trying to save mother and daughter who drowned off Essex beach",
+        "link": "https://www.bbc.co.uk/news/articles/cz7dve71n9lo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "'Extremely significant' bomb in car intercepted on way to NI, Irish police say",
         "link": "https://www.bbc.co.uk/news/articles/cpq82dg0y3qo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Officers hurt as police boat hits Westminster Bridge",
-        "link": "https://www.bbc.co.uk/news/articles/c935k4k4pezo?at_medium=RSS&at_campaign=rss"
+        "title": "Andy Burnham's first week pledges - how much do they add up to?",
+        "link": "https://www.bbc.co.uk/news/articles/cy078kj0ezyo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Angela Rayner rules out rent controls in England",
@@ -21,39 +21,39 @@
     ],
     "aljazeera": [
       {
-        "title": "Yemen\u2019s valleys and farms are full of dangerous plastic waste",
-        "link": "https://www.aljazeera.com/features/2026/7/24/yemens-valleys-and-farms-are-full-of-dangerous-plastic-waste?traffic_source=rss"
+        "title": "ICC prosecutor Khan removed over sexual misconduct allegations: Sources",
+        "link": "https://www.aljazeera.com/news/2026/7/24/icc-prosecutor-khan-removed-over-sexual-misconduct-allegations-sources?traffic_source=rss"
       },
       {
-        "title": "LeBron James is heading to the Philadelphia 76ers from Los Angeles Lakers",
-        "link": "https://www.aljazeera.com/sports/2026/7/24/lebron-james-is-heading-to-the-philadelphia-76ers-saying-it-will-be-his-last-decision?traffic_source=rss"
+        "title": "US school shooter pleads guilty in Georgia following father\u2019s conviction",
+        "link": "https://www.aljazeera.com/news/2026/7/24/us-school-shooter-pleads-guilty-in-georgia-following-fathers-conviction?traffic_source=rss"
       },
       {
-        "title": "Congress Party holds \u2018funeral\u2019 for India PM Modi and cabinet ministers",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/congress-party-holds-funeral-for-india-pm-modi-and-cabinet-ministers?traffic_source=rss"
+        "title": "Oman talking with Tehran on Hormuz as US and Iran continue strikes",
+        "link": "https://www.aljazeera.com/news/2026/7/24/oman-talking-with-tehran-on-hormuz-as-us-and-iran-continue-strikes?traffic_source=rss"
       },
       {
-        "title": "LIVE: Israeli settlers attack West Bank\u2019s Nablus, shooting leaves six dead",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/7/24/live-israeli-settlers-attack-west-banks-nablus-shooting-leaves-six-dead?traffic_source=rss"
+        "title": "Trump\u2019s Israel condition on Saudi nuclear deal",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/trumps-israel-condition-on-saudi-nuclear-deal?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "World Matchplay Darts LIVE! Smith and Price off to fast start in first QF",
+        "link": "https://www.skysports.com/darts/live-blog/12040/13566495/world-matchplay-darts-live-updates-video-analysis-scores-commentary-with-gerwyn-price-gian-van-veen-and-james-wade-in-action"
+      },
+      {
         "title": "Hamilton fastest as Ferrari dominate Hungarian GP practice",
         "link": "https://www.skysports.com/f1/news/12040/13566538/hungarian-gp-lewis-hamilton-tops-charles-leclerc-in-practice-two-as-ferrari-dominate-friday-at-hungaroring"
       },
       {
-        "title": "Liverpool takeover Q&A: Could Bezos buy stake at Anfield?",
-        "link": "https://www.skysports.com/football/news/12040/13566630/liverpool-key-questions-answered-as-jeff-bezos-and-amit-bhatia-line-up-bid-for-strategic-minority-stake-in-club"
+        "title": "Fury not convinced Joshua will 'have the guts' to fight him",
+        "link": "https://www.skysports.com/boxing/news/12040/13566741/tyson-fury-not-convinced-that-anthony-joshua-will-have-the-guts-to-face-him-in-blockbuster-all-british-heavyweight-fight"
       },
       {
-        "title": "Devlin: Rangers wait was 'too stressful'",
-        "link": "https://www.skysports.com/football/news/12040/13566652/cammy-devlin-waiting-on-rangers-move-during-world-cup-was-too-stressful"
-      },
-      {
-        "title": "Fury claims dominant seventh-round TKO victory vs Wach",
-        "link": "https://www.skysports.com/boxing/news/12040/13566702/tyson-fury-vs-mariusz-wach-british-star-claims-dominant-seventh-round-tko-victory-and-remains-on-course-for-anthony-johsua-fight"
+        "title": "AJ weighs in at 251lbs for Prenga bout",
+        "link": "https://www.skysports.com/boxing/news/12040/13566743/anthony-joshua-weighs-in-7-6lbs-heavier-than-his-previous-fight-vs-jake-paul-ahead-of-kristian-prenga-bout"
       }
     ],
     "pitchfork": [],
@@ -98,6 +98,10 @@
     ],
     "filmcomment": [
       {
+        "title": "The Film Comment Podcast: Christopher Nolan\u2019s The Odyssey",
+        "link": "https://www.filmcomment.com/the-film-comment-podcast-christopher-nolans-the-odyssey/"
+      },
+      {
         "title": "The Film Comment Podcast: Subscriber Exclusive: John Early on Maddie\u2019s Secret, Part 2",
         "link": "https://www.filmcomment.com/the-film-comment-podcast-subscriber-exclusive-john-early-on-maddies-secret-part-2/"
       },
@@ -108,10 +112,6 @@
       {
         "title": "The Film Comment Podcast: Karlovy Vary 2026 #2: Family Photos",
         "link": "https://www.filmcomment.com/the-film-comment-podcast-karlovy-vary-2026-2-family-photos/"
-      },
-      {
-        "title": "The Film Comment Podcast: Karlovy Vary 2026 #1: Night Life",
-        "link": "https://www.filmcomment.com/karlovy-vary-2026-1-night-life-podcast/"
       }
     ],
     "mubi": [
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
-        "title": "\u2018Ferine\u2019 Review: Andrea Corsini Introduces Himself as the Next Truly Terrifying Italian Director to Watch",
-        "link": "https://www.indiewire.com/criticism/movies/ferine-review-andrea-corsini-1235206950/"
+        "title": "Before Christopher Nolan\u2019s \u2018The Odyssey,\u2019 the 1997 TV Miniseries Was the Ultimate (and Very Much Unserious) Homer Adaptation",
+        "link": "https://www.indiewire.com/features/commentary/the-odyssey-1997-miniseries-1235207003/"
       },
       {
-        "title": "Steve James Should Have Been One of Cinema\u2019s Biggest Action Heroes \u2014 A New Restoration Shows Why",
-        "link": "https://www.indiewire.com/features/commentary/steve-james-best-role-riverbend-restored-1235206537/"
+        "title": "\u2018Motor City\u2019 Review: Alan Ritchson Kills His Way Through a Dialogue-Free Crime Pastiche with Nothing to Say and Little to Look at",
+        "link": "https://www.indiewire.com/criticism/movies/motor-city-movie-review-alan-ritchson-1235206987/"
       },
       {
-        "title": "Audiences Expecting an AI Dystopia in \u2018Sheep in the Box\u2019 Get Something Much Stranger from Hirokazu Koreeda",
-        "link": "https://www.indiewire.com/features/interviews/hirokazu-koreeda-sheep-in-the-box-cannes-interview-1235195862/"
+        "title": "\u2018Blade Runner 2099\u2019 Teaser: Michelle Yeoh Goes Cyberpunk in New TV Spinoff",
+        "link": "https://www.indiewire.com/news/trailers/blade-runner-2099-teaser-michelle-yeoh-1235206668/"
       },
       {
-        "title": "\u2018Avatar: Seven Havens\u2019 Releases First Trailer and Sets Premiere Date",
-        "link": "https://www.indiewire.com/news/trailers/avatar-seven-havens-trailer-premiere-date-1235206937/"
+        "title": "Critic David Thomson Asks: Have Movies Made Our Culture Worse?",
+        "link": "https://www.indiewire.com/features/podcast/david-thomson-a-sudden-flicker-of-light-podcast-interview-1235206980/"
       }
     ],
     "variety": [
       {
-        "title": "Anne Hathaway\u2019s Oscars \u2018Odyssey\u2019: Will She Campaign for Lead Actress or Supporting?",
-        "link": "https://variety.com/2026/film/awards/anne-hathaway-oscars-odyssey-lead-actress-supporting-1236819669/"
+        "title": "Netflix Executives Considered Pulling \u2018Michael Jackson: The Verdict\u2019 Docuseries a Week Before Its Release (EXCLUSIVE)",
+        "link": "https://variety.com/2026/tv/global/michael-jackson-docuseries-netflix-considered-pulling-1236817368/"
       },
       {
-        "title": "\u2018Reacher\u2019 Star Alan Ritchson Slams \u2018F\u2014ing Pedophiles\u2019 in Politics: \u2018I Would Get Those Epstein Files Out in Two Seconds \u2026 Bitch, Move\u2019",
-        "link": "https://variety.com/2026/tv/news/alan-ritchson-epstein-files-pedophiles-go-to-jail-1236820323/"
+        "title": "\u2018Rings of Power\u2019 Debuts Season 3 Trailer; Simon Pegg Joins Cast as the Balrog",
+        "link": "https://variety.com/2026/tv/news/lord-of-the-rings-rings-of-power-season-3-trailer-1236625486/"
       },
       {
-        "title": "\u2018Her Private Hell\u2019 Director Nicolas Winding Refn on Ignoring Critics, Why the Government Must Regulate AI and Planning His Third Film With Ryan Gosling",
-        "link": "https://variety.com/2026/film/features/nicolas-winding-refn-her-private-hell-critics-ryan-gosling-1236818707/"
+        "title": "Inside Costa Rica\u2019s Alcatraz and Another 5 Top Locations",
+        "link": "https://variety.com/2026/film/global/costa-rica-alcatraz-another-5-top-locations-1236820110/"
       },
       {
-        "title": "Film Commissions Step Up Role to Accelerate Growth In Central America and the Caribbean \u00a0",
-        "link": "https://variety.com/2026/film/global/iberofic-focuses-on-central-america-and-the-caribbean-1236820151/"
+        "title": "Matt Damon Describes His Role in The Daniels\u2019 New Sci-Fi Movie as \u2018The Breakfast Club\u2019 Meets \u2018Inception\u2019 Meets Anime Meets John Oliver",
+        "link": "https://variety.com/2026/film/news/matt-damon-daniels-sci-fi-movie-breakfast-club-inception-1236820464/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "QVC Hosts Vote to Unionize Amid Concerns Over Generative AI",
-        "link": "https://www.hollywoodreporter.com/business/business-news/qvc-hosts-vote-unionize-1236655895/"
+        "title": "Funko at Comic-Con: Ultra-Rare \u2018Invincible\u2019 Pops!, Absolute Batman and a Figure Worth $10,000",
+        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/funko-at-comic-con-ultra-rare-invincible-pops-1236655108/"
       },
       {
-        "title": "Comedian Rick Glassman Says His Podcast Is Like a Perfect First Date: \u201cThere\u2019s Flirting Involved\u201d",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/comedian-rick-glassman-podcast-interview-1236655860/"
+        "title": "\u2018The Rings of Power\u2019 Season 3 Trailer Is Full of  Middle-earth Action, Simon Pegg Joins Cast",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/rings-of-power-season-3-trailer-premiere-date-1236655955/"
       },
       {
-        "title": "Lucas Museum at Comic-Con: Star Wars Animated Series \u2018Detours\u2019 to Finally Screen, Film Programming Revealed",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/lucas-museum-comic-con-star-wars-animated-series-detours-1236655674/"
+        "title": "Don\u2019t Sleep on Nordstrom Anniversary Sale\u2019s Bedding and Bath Deals \u2014 25 Buys for a Hollywood-Ready Home",
+        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/nordstrom-anniversary-sale-2026-home-deals-bedding-candles-1236653750/"
       },
       {
-        "title": "The 25 Best U.S. Film Schools in 2026",
-        "link": "https://www.hollywoodreporter.com/lists/best-film-schools-2026-u-s/"
+        "title": "Ex-Reality TV Star and Businessman\u2019s Fatal Fall From 28-Story Miami Resort Balcony Sparks Doubts",
+        "link": "https://www.hollywoodreporter.com/news/general-news/yakir-levi-death-acqualina-resort-miami-balcony-1236655976/"
       }
     ],
     "larb": [],
@@ -280,20 +280,20 @@
     ],
     "nautilus": [
       {
+        "title": "How an Inbred Snake Invader Took Over an Island Paradise",
+        "link": "https://nautil.us/how-an-inbred-snake-invader-took-over-an-island-paradise-1283018/"
+      },
+      {
+        "title": "When Stupid Was a Diagnosis",
+        "link": "https://nautil.us/when-stupid-was-a-diagnosis-1282984/"
+      },
+      {
         "title": "Does This Photo from the Curiosity Rover Prove an Intense Sandstorm on Mars?",
         "link": "https://nautil.us/does-this-photo-from-the-curiosity-rover-prove-an-intense-sandstorm-on-mars-1282997/"
       },
       {
         "title": "A Forgotten Literary Window Into the Personal Life of Alan Turing",
         "link": "https://nautil.us/a-forgotten-literary-window-into-the-personal-life-of-alan-turing-1282977/"
-      },
-      {
-        "title": "How Do Sperm Whales Keep Their Massive, Wax-Filled Heads Beneath the Waves as They Sleep?",
-        "link": "https://nautil.us/how-do-sperm-whales-keep-their-massive-wax-filled-heads-beneath-the-waves-as-they-sleep-1282973/"
-      },
-      {
-        "title": "The Amazing Photos from NASA\u2019s First-Ever Mars Lander",
-        "link": "https://nautil.us/the-amazing-photos-from-nasas-first-ever-mars-lander-1282964/"
       }
     ],
     "worksinprogress": [],
