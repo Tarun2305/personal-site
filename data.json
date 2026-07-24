@@ -1,7 +1,11 @@
 {
-  "last_updated": "2026-07-23 21:59 UTC",
+  "last_updated": "2026-07-24 02:02 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
+        "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Burnham pauses plan to release some prisoners early from September",
         "link": "https://www.bbc.co.uk/news/articles/cx2lpjw516eo?at_medium=RSS&at_campaign=rss"
@@ -11,34 +15,38 @@
         "link": "https://www.bbc.co.uk/news/articles/ce97nngd4nlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "US announces tariffs on dozens of countries over forced labour concerns",
-        "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Oil prices hit $100 for the first time since May",
-        "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss"
+        "title": "UK complacent about war threat, warns defence boss",
+        "link": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Rally attendee steals the show by mimicking Trump\u2019s gestures",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/rally-attendee-steals-the-show-by-mimicking-trumps-gestures?traffic_source=rss"
+        "title": "Mike Waltz pressed over Al Jazeera video during congressional hearing",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/aje-onl-nf_mike-waltz-pressed-over-al-jazeera-video-congress-230726?traffic_source=rss"
       },
       {
-        "title": "France wildfires force evacuation of over 20,000 people from tourist town",
-        "link": "https://www.aljazeera.com/news/2026/7/23/france-wildfires-force-evacuation-of-over-20000-people-from-tourist-town?traffic_source=rss"
+        "title": "Trump imposes new double-digit tariffs on dozens of countries",
+        "link": "https://www.aljazeera.com/news/2026/7/24/trump-imposes-new-double-digit-tariffs-on-dozens-of-countries?traffic_source=rss"
       },
       {
-        "title": "Videos show the moment police officer shoots man on street in Wisconsin",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/videos-show-the-moment-police-officer-shoots-man-on-street-in-wisconsin?traffic_source=rss"
+        "title": "Analyst: voting against Iran war funding a tough sell for Congress",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/analyst-voting-against-iran-war-funding-a-tough-sell-for-congress?traffic_source=rss"
       },
       {
-        "title": "White House says will not block Tate brothers\u2019 extradition to UK",
-        "link": "https://www.aljazeera.com/news/2026/7/23/white-house-says-will-not-block-tate-brothers-extradition-to-uk?traffic_source=rss"
+        "title": "Israel bombs Gaza after displacement orders, kills two Palestinians",
+        "link": "https://www.aljazeera.com/news/2026/7/24/israel-bombs-gaza-after-displacement-orders-kills-two-palestinians?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "'Good luck to Dirk...': Littler dazzles in Blackpool as 'frightening' form continues",
+        "link": "https://www.skysports.com/darts/news/12040/13566484/luke-littler-dazzles-in-blackpool-as-frightening-world-darts-matchplay-form-continues-good-luck-to-dirk"
+      },
+      {
+        "title": "Murray returns as Draper's coach for Mubadala DC Open",
+        "link": "https://www.skysports.com/tennis/news/12040/13566487/andy-murray-and-jack-draper-reunite-for-mubadala-dc-open-after-scot-said-coaching-relationship-would-last-a-few-weeks"
+      },
       {
         "title": "Papers: Valuations of several Man Utd midfield targets revealed",
         "link": "https://www.skysports.com/football/news/12040/13566448/man-utd-transfer-news-eduardo-camavinga-valuation-revealed-amid-interest-in-real-madrid-midfielder"
@@ -46,14 +54,6 @@
       {
         "title": "Rovers fight from 12 points behind to claim derby win at Hull FC",
         "link": "https://www.skysports.com/rugby-league/hull-vs-hull-k-r/report/63289"
-      },
-      {
-        "title": "Hamilton sends message to title rivals",
-        "link": "https://www.skysports.com/f1/news/12040/13566257/lewis-hamilton-ferrari-driver-says-he-really-believes-he-can-fight-for-2026-f1-title-ahead-of-hungarian-gp"
-      },
-      {
-        "title": "'Proud' Peters: 'Anyone who questioned Hull KR's fight - we showed it in derby win'",
-        "link": "https://www.skysports.com/rugby-league/live-blog/12040/13566378/super-league-live-hull-fc-host-hull-kr-in-fiery-derby-clash-updates-latest-scores-team-news-commentary"
       }
     ],
     "pitchfork": [],
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018Avatar: Seven Havens\u2019 Releases First Trailer and Sets Premiere Date",
+        "link": "https://www.indiewire.com/news/trailers/avatar-seven-havens-trailer-premiere-date-1235206937/"
+      },
+      {
         "title": "Judge Extends Restraining Order on Paramount-Warner Bros. Discovery Merger for Another 2 Weeks",
         "link": "https://www.indiewire.com/news/breaking-news/judge-pauses-paramount-warner-bros-merger-antitrust-lawsuit-1235205563/"
       },
@@ -163,46 +167,42 @@
       {
         "title": "Karina Longworth\u2019s \u2018You Must Remember This\u2019 Returns with a Dishy Deep Dive on Bisexual Black Widow Libby Holman",
         "link": "https://www.indiewire.com/news/general-news/you-must-remember-this-new-season-bisexual-libby-holman-1235206901/"
-      },
-      {
-        "title": "Production in LA Is Still Down. Maybe Next Quarter?",
-        "link": "https://www.indiewire.com/news/business/production-los-angeles-still-down-maybe-next-quarter-1235206892/"
       }
     ],
     "variety": [
       {
-        "title": "Johnny Depp Makes Surprise Comic-Con Appearance as Ebenezer Scrooge",
-        "link": "https://variety.com/2026/film/news/johnny-depp-comic-con-surprise-ebenezer-scrooge-1236819764/"
+        "title": "Creepy Twins, Religious Fanaticism and a Loaded Gun Collide in Tense Chamber Drama \u2018Godhead\u2019 \u2014 Fantasia",
+        "link": "https://variety.com/2026/film/features/godhead-fantasia-festival-thriller-evil-twins-religious-1236819934/"
       },
       {
-        "title": "Odysseus Has Been Funko Pop-ed",
-        "link": "https://variety.com/2026/shopping/news/odyssey-funko-pops-odysseus-shop-online-1236819495/"
+        "title": "\u2018Stuart Fails to Save the Universe\u2019 Co-Creator Bill Prady Explains the Science Behind the Show\u2019s Multiverse",
+        "link": "https://variety.com/2026/tv/news/stuart-fails-to-save-the-universe-science-explained-1236818737/"
       },
       {
-        "title": "Judge Extends Order Blocking Paramount-Warner Bros. Merger for Another 14 Days",
-        "link": "https://variety.com/2026/film/news/judge-paramount-warner-bros-merger-14-days-1236819740/"
+        "title": "\u201972 Hours\u2019 Review: Kevin Hart Tries to Be Down With the Kids in a Mediocre \u2018Hangover\u2019 Knockoff",
+        "link": "https://variety.com/2026/film/reviews/72-hours-review-kevin-hart-1236819749/"
       },
       {
-        "title": "Indian Epic \u2018Ramayana\u2019 Lands at Sony Pictures for International Distribution",
-        "link": "https://variety.com/2026/film/news/ramayana-sony-pictures-international-distribution-1236819652/"
+        "title": "Men Flock to Microdramas, Romance Stories Rule and Sunday Nights are Prime Time for Viewing",
+        "link": "https://variety.com/2026/tv/news/microdramas-men-romance-sunday-holywater-my-drama-my-muse-1236819953/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "AMC Theatres CEO Adam Aron Sees Pay Rise to Nearly $15 Million",
-        "link": "https://www.hollywoodreporter.com/business/business-news/amc-theatres-ceo-adam-aron-1236655450/"
+        "title": "Mary Kate Golding, \u2018The Marvelous Mrs. Maisel\u2019 Set Decorator, Dies at 34 in Fatal Stabbing",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/mary-kate-golding-dead-stabbed-marvelous-mrs-maisel-set-1236655637/"
       },
       {
-        "title": "Sutton Foster\u2019s Next Canyon Ranch Wellness Retreat Includes Excursion to Hugh Jackman Concert",
-        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/sutton-foster-canyon-ranch-wellness-retreat-schedule-jackman-1236655408/"
+        "title": "Zach Cregger Teases His \u2018Weapons\u2019 Prequel and Its \u201cCrazy\u201d Approach to Gladys\u2019 Origin Story",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/zach-cregger-weapons-prequel-gladys-origin-comic-con-1236655636/"
       },
       {
-        "title": "Johnny Depp Surprises Comic-Con as Ebenezer Scrooge on Streets of San Diego",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/johnny-depp-surprises-comic-con-ebenezer-scrooge-1236654264/"
+        "title": "\u201872 Hours\u2019 Review: Kevin Hart Throws Himself Into the Slapstick but Netflix\u2019s Intergenerational Farce Squanders Its Premise",
+        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/72-hours-review-kevin-hart-netflix-comedy-1236655073/"
       },
       {
-        "title": "Chadwick Boseman Estate Battle Breaks Out Between His Parents and Widow Over Assets",
-        "link": "https://www.hollywoodreporter.com/news/general-news/chadwick-boseman-estate-battle-1236655376/"
+        "title": "\u2018Toy Story 5\u2019 Has Given Away 18,000 Toys to Sick Kids",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/disney-toy-story-5-childrens-hospitals-globally-1236647915/"
       }
     ],
     "larb": [],
