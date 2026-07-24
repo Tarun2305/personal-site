@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-07-24 08:13 UTC",
+  "last_updated": "2026-07-24 10:56 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "US hits dozens of trading partners with new wave of tariffs",
-        "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss"
+        "title": "Tens of thousands evacuated from French tourist spot as wildfires spread",
+        "link": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "France orders evacuation of tourist spot as hundreds flee wildfires by boat",
-        "link": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss"
+        "title": "Southport killer Axel Rudakubana appears to be manipulating the system, families' lawyer says",
+        "link": "https://www.bbc.co.uk/news/articles/cjrvy450jv5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Angela Rayner rules out rent controls in England",
+        "link": "https://www.bbc.co.uk/news/articles/cx2dg54vprno?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Fifty women tell BBC they were pressured into having sex with strangers",
         "link": "https://www.bbc.co.uk/news/articles/cly5vvw77pzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "PM to spend first day working from northern branch of No 10",
-        "link": "https://www.bbc.co.uk/news/articles/ckgvyr76973o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "US attacks Iran as Houthis allow Chinese ships to pass: What\u2019s the latest?",
-        "link": "https://www.aljazeera.com/news/2026/7/24/us-attacks-iran-as-houthis-allow-chinese-ships-to-pass-whats-the-latest?traffic_source=rss"
+        "title": "South African court pauses impeachment process against president",
+        "link": "https://www.aljazeera.com/news/2026/7/24/south-african-court-pauses-impeachment-process-against-president?traffic_source=rss"
       },
       {
-        "title": "Real Madrid legend Ancelotti rivals Barcelona great Guardiola for Italy job",
-        "link": "https://www.aljazeera.com/sports/2026/7/24/real-madrid-legend-ancelotti-rivals-barcelona-great-guardiola-for-italy-job?traffic_source=rss"
+        "title": "Andy Burnham\u2019s Number 10 North changes the postcode, but not the politics",
+        "link": "https://www.aljazeera.com/economy/2026/7/24/andy-burnhams-number-10-north-changes-the-postcode-but-not-the-politics?traffic_source=rss"
       },
       {
-        "title": "Indian activist Wangchuk ends 26-day hunger strike",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/indian-activist-wangchuk-ends-26-day-hunger-strike?traffic_source=rss"
+        "title": "Does this disappearing organ hold the secret of longevity?",
+        "link": "https://www.aljazeera.com/news/2026/7/24/does-this-disappearing-organ-hold-the-secret-of-longevity?traffic_source=rss"
       },
       {
-        "title": "Tehran slams Trump\u2019s threat to use frozen Iranian assets as \u2018incendiary\u2019",
-        "link": "https://www.aljazeera.com/news/2026/7/24/tehran-slams-trumps-threat-to-use-frozen-iranian-assets-as-incendiary?traffic_source=rss"
+        "title": "Israel\u2019s illegal settlements are Europe\u2019s credibility test",
+        "link": "https://www.aljazeera.com/opinions/2026/7/24/israels-illegal-settlements-are-europes-credibility-test?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "'Like a movie playing in my head' | Klopp honoured to take Germany job",
+        "link": "https://www.skysports.com/watch/video/13566584/jurgen-klopp-says-germany-appointment-is-like-a-movie"
+      },
+      {
+        "title": "Could Adeyemi's Barcelona move see Flick unlock winger's true potential?",
+        "link": "https://www.skysports.com/football/news/12040/13561670/karim-adeyemi-to-barcelona-why-hansi-flick-reunion-could-help-former-borussia-dortmund-winger-unlock-his-potential"
+      },
+      {
+        "title": "Guardiola rejects chance to become Italy head coach",
+        "link": "https://www.skysports.com/football/news/12040/13566556/italian-football-federation-holds-talks-with-pep-guardiola-about-replacing-gennaro-gattuso-as-head-coach"
+      },
+      {
         "title": "Doyle: Masquerade Ball can clinch historic King George win",
         "link": "https://www.skysports.com/racing/news/12040/13566403/hollie-doyle-masquerade-ball-can-clinch-historic-king-george-win-for-japan"
-      },
-      {
-        "title": "DeChambeau reveals Open penalty frustration",
-        "link": "https://www.skysports.com/golf/news/12040/13566520/bryson-dechambeau-says-controversial-two-shot-penalty-cost-him-claret-jug-opportunity-at-the-open"
-      },
-      {
-        "title": "Today on Sky Sports Racing: Silver Dominion faces Alfred Wallace at Ascot",
-        "link": "https://www.skysports.com/racing/news/12040/13566039/today-on-sky-sports-racing-silver-dominion-faces-alfred-wallace-in-ascots-pat-eddery-stakes-with-uttoxeter-and-chepstow-also-live-on-friday"
-      },
-      {
-        "title": "Why Newcastle are looking to emulate German giants on recruitment",
-        "link": "https://www.skysports.com/football/news/12040/13566313/newcastle-transfer-philosophy-why-magpies-are-aiming-to-emulate-borussia-dortmunds-work-on-young-players"
       }
     ],
     "pitchfork": [],
@@ -171,23 +171,27 @@
     ],
     "variety": [
       {
-        "title": "\u2018Jumbo\u2019 Sequel, \u2018Queen of Malacca\u2019 Franchise Plans on the Cards as Indonesia\u2019s Visinema Eyes Expansion (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/news/jumbo-sequel-queen-of-malacca-franchise-indonesia-visinema-1236820084/"
+        "title": "Fred Tsui Named Executive Director of Hong Kong International Film Festival Society",
+        "link": "https://variety.com/2026/film/news/fred-tsui-executive-director-hong-kong-international-film-festival-society-1236820176/"
       },
       {
-        "title": "Director Na Hong-Jin Makes Comic-Con Debut With Frightening New \u2018Hope\u2019 Footage, Says Casting Hoyeon Was His \u2018Best Decision\u2019",
-        "link": "https://variety.com/2026/film/news/na-hong-jin-comic-con-hope-footage-hoyeon-1236819530/"
+        "title": "BBC Buys War Drama \u2018Kabul,\u2019 Featuring Eric Dane in One of His Last Roles",
+        "link": "https://variety.com/2026/tv/global/bbc-war-drama-kabul-eric-dane-1236820165/"
       },
       {
-        "title": "\u2018Sia: Nostalgic for the Present\u2019 Review: A Concert Performance Film from 2016, but It Channels Sia\u2019s Mystery and Power",
-        "link": "https://variety.com/2026/film/reviews/sia-nostalgic-for-the-present-review-1236817974/"
+        "title": "Sony Pictures Sets Viral X-Inspired Short-Form Thriller \u2018Los Hilos del Miedo\u2019 at Prime Video Spain (EXCLUSIVE)",
+        "link": "https://variety.com/2026/tv/global/sony-pictures-los-hilos-del-miedo-prime-video-spain-1236818849/"
       },
       {
-        "title": "Creepy Twins, Religious Fanaticism and a Loaded Gun Collide in Tense Chamber Drama \u2018Godhead\u2019 \u2014 Fantasia",
-        "link": "https://variety.com/2026/film/features/godhead-fantasia-festival-thriller-evil-twins-religious-1236819934/"
+        "title": "Luxbox Acquires Documentary \u2018Life of Jorge Luis Borges\u2019 Ahead of Venice Premiere (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/global/luxbox-life-of-jorge-luis-borges-venice-1236820122/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "Casey Wasserman\u2019s Exit Plan: New Owner of The Team May Be Same As Its Last One",
+        "link": "https://www.hollywoodreporter.com/business/business-news/casey-wasserman-exit-plan-team-1236655750/"
+      },
       {
         "title": "Chris Affleck, Mother of Oscar Winners Ben and Casey Affleck, Dies at 83",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/chris-anne-affleck-dead-ben-affleck-casey-affleck-mother-1236655678/"
@@ -199,14 +203,14 @@
       {
         "title": "Mary Kate Golding, \u2018The Marvelous Mrs. Maisel\u2019 Set Decorator, Dies at 34 in Stabbing",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/mary-kate-golding-dead-stabbed-marvelous-mrs-maisel-set-1236655637/"
-      },
-      {
-        "title": "Zach Cregger Teases His \u2018Weapons\u2019 Prequel and Its \u201cCrazy\u201d Approach to Gladys\u2019 Origin Story",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/zach-cregger-weapons-prequel-gladys-origin-comic-con-1236655636/"
       }
     ],
     "larb": [],
     "aeon": [
+      {
+        "title": "Signal then storm",
+        "link": "https://aeon.co/essays/a-researchers-50-year-hunt-for-the-source-of-chronic-pain"
+      },
       {
         "title": "All the Queens houses",
         "link": "https://aeon.co/videos/tour-the-eclectic-residences-of-new-yorks-most-diverse-borough"
@@ -218,13 +222,17 @@
       {
         "title": "Can cells think?",
         "link": "https://aeon.co/videos/why-we-should-think-of-intelligence-in-terms-of-goals-not-brains"
-      },
-      {
-        "title": "The people\u2019s atheist",
-        "link": "https://aeon.co/essays/the-rural-french-priest-who-preached-atheism-to-the-people"
       }
     ],
     "psyche": [
+      {
+        "title": "How to stop avoiding life",
+        "link": "https://psyche.co/videos/five-research-backed-strategies-for-living-fully-with-anxiety"
+      },
+      {
+        "title": "Make some noise",
+        "link": "https://psyche.co/notes-to-self/sexist-thinking-about-feminine-voices-goes-way-way-back"
+      },
       {
         "title": "Don\u2019t turn away from tragedy, but do witness intentionally",
         "link": "https://psyche.co/ideas/dont-turn-away-from-tragedy-but-do-witness-intentionally"
@@ -232,14 +240,6 @@
       {
         "title": "How to become the person you want to be",
         "link": "https://psyche.co/guides/how-to-become-the-person-you-want-to-be"
-      },
-      {
-        "title": "It wasn\u2019t Bourgogne",
-        "link": "https://psyche.co/videos/jacques-recalls-the-odd-calm-of-marching-into-battle-in-wartime-france"
-      },
-      {
-        "title": "What ancient art tells us about modern psychedelic medicine",
-        "link": "https://psyche.co/ideas/what-ancient-art-tells-us-about-modern-psychedelic-medicine"
       }
     ],
     "publicdomainreview": [
