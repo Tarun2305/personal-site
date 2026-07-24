@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-07-24 19:15 UTC",
+  "last_updated": "2026-07-24 21:58 UTC",
   "feeds": {
     "bbc": [
       {
+        "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
+        "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Law student is charged over intercepted bomb in car",
+        "link": "https://www.bbc.co.uk/news/articles/ckgdz7pz3e7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Huge explosion and fire rip through Essex industrial site",
+        "link": "https://www.bbc.co.uk/news/articles/cx2vgyzy1kyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Man describes trying to save mother and daughter who drowned off Essex beach",
         "link": "https://www.bbc.co.uk/news/articles/cz7dve71n9lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'Extremely significant' bomb in car intercepted on way to NI, Irish police say",
-        "link": "https://www.bbc.co.uk/news/articles/cpq82dg0y3qo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Andy Burnham's first week pledges - how much do they add up to?",
-        "link": "https://www.bbc.co.uk/news/articles/cy078kj0ezyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Angela Rayner rules out rent controls in England",
-        "link": "https://www.bbc.co.uk/news/articles/cx2dg54vprno?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "ICC prosecutor Khan removed over sexual misconduct allegations: Sources",
-        "link": "https://www.aljazeera.com/news/2026/7/24/icc-prosecutor-khan-removed-over-sexual-misconduct-allegations-sources?traffic_source=rss"
+        "title": "China, Philippine coastguard vessels clash in South China Sea",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/china-philippine-coastguard-vessels-clash-in-south-china-sea?traffic_source=rss"
       },
       {
-        "title": "US school shooter pleads guilty in Georgia following father\u2019s conviction",
-        "link": "https://www.aljazeera.com/news/2026/7/24/us-school-shooter-pleads-guilty-in-georgia-following-fathers-conviction?traffic_source=rss"
+        "title": "Paramount agrees to pause Warner Bros deal while court case plays out",
+        "link": "https://www.aljazeera.com/economy/2026/7/24/paramount-agrees-to-pause-warner-bros-deal-while-court-case-plays-out?traffic_source=rss"
       },
       {
-        "title": "Oman talking with Tehran on Hormuz as US and Iran continue strikes",
-        "link": "https://www.aljazeera.com/news/2026/7/24/oman-talking-with-tehran-on-hormuz-as-us-and-iran-continue-strikes?traffic_source=rss"
+        "title": "Iran\u2019s Abbas Araghchi vows \u2018we fear no one\u2019",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/irans-abbas-araghchi-vows-we-fear-no-one?traffic_source=rss"
       },
       {
-        "title": "Trump\u2019s Israel condition on Saudi nuclear deal",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/trumps-israel-condition-on-saudi-nuclear-deal?traffic_source=rss"
+        "title": "Fury dominates Wach in Thailand boxing bout ahead of Joshua showdown",
+        "link": "https://www.aljazeera.com/sports/2026/7/24/fury-dominates-wach-in-thailand-boxing-bout-ahead-of-joshua-showdown?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "World Matchplay Darts LIVE! Smith and Price off to fast start in first QF",
+        "title": "World Matchplay Darts LIVE! Van Veen wins Wade thriller to book Price SF ",
         "link": "https://www.skysports.com/darts/live-blog/12040/13566495/world-matchplay-darts-live-updates-video-analysis-scores-commentary-with-gerwyn-price-gian-van-veen-and-james-wade-in-action"
+      },
+      {
+        "title": "French stars as Wigan add to Saints' disarray",
+        "link": "https://www.skysports.com/rugby-league/wigan-vs-st-helens/report/63290"
+      },
+      {
+        "title": "Welsby: Our performances let Rowley down - 'We're gutted, embarrassed' ",
+        "link": "https://www.skysports.com/rugby-league/live-blog/12040/13566689/super-league-live-wigan-warriors-host-st-helens-in-crunch-clash-updates-latest-scores-team-news-commentary"
       },
       {
         "title": "Hamilton fastest as Ferrari dominate Hungarian GP practice",
         "link": "https://www.skysports.com/f1/news/12040/13566538/hungarian-gp-lewis-hamilton-tops-charles-leclerc-in-practice-two-as-ferrari-dominate-friday-at-hungaroring"
-      },
-      {
-        "title": "Fury not convinced Joshua will 'have the guts' to fight him",
-        "link": "https://www.skysports.com/boxing/news/12040/13566741/tyson-fury-not-convinced-that-anthony-joshua-will-have-the-guts-to-face-him-in-blockbuster-all-british-heavyweight-fight"
-      },
-      {
-        "title": "AJ weighs in at 251lbs for Prenga bout",
-        "link": "https://www.skysports.com/boxing/news/12040/13566743/anthony-joshua-weighs-in-7-6lbs-heavier-than-his-previous-fight-vs-jake-paul-ahead-of-kristian-prenga-bout"
       }
     ],
     "pitchfork": [],
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
-        "title": "Before Christopher Nolan\u2019s \u2018The Odyssey,\u2019 the 1997 TV Miniseries Was the Ultimate (and Very Much Unserious) Homer Adaptation",
-        "link": "https://www.indiewire.com/features/commentary/the-odyssey-1997-miniseries-1235207003/"
+        "title": "\u2018Lanterns\u2019 Trailer: Green Lantern Gets the \u2018True Detective\u2019 Treatment in DC Studios HBO Series",
+        "link": "https://www.indiewire.com/news/trailers/lanterns-trailer-dc-hbo-show-1235206936/"
       },
       {
-        "title": "\u2018Motor City\u2019 Review: Alan Ritchson Kills His Way Through a Dialogue-Free Crime Pastiche with Nothing to Say and Little to Look at",
-        "link": "https://www.indiewire.com/criticism/movies/motor-city-movie-review-alan-ritchson-1235206987/"
+        "title": "I Saw Both Cuts of \u2018Hope.\u2019 Na Hong-jin Turned a Cannes Letdown into an Action-Movie Triumph",
+        "link": "https://www.indiewire.com/features/interviews/hope-re-edit-how-na-hong-jin-movie-changed-since-cannes-1235206972/"
       },
       {
-        "title": "\u2018Blade Runner 2099\u2019 Teaser: Michelle Yeoh Goes Cyberpunk in New TV Spinoff",
-        "link": "https://www.indiewire.com/news/trailers/blade-runner-2099-teaser-michelle-yeoh-1235206668/"
+        "title": "Paramount Agrees Not to Close Warner Bros. Discovery Merger Until at Least June 2027",
+        "link": "https://www.indiewire.com/news/breaking-news/judge-pauses-paramount-warner-bros-merger-antitrust-lawsuit-1235205563/"
       },
       {
-        "title": "Critic David Thomson Asks: Have Movies Made Our Culture Worse?",
-        "link": "https://www.indiewire.com/features/podcast/david-thomson-a-sudden-flicker-of-light-podcast-interview-1235206980/"
+        "title": "The Best Disney Remake of the Year Is an Anime \u2018Little Mermaid\u2019 Retelling",
+        "link": "https://www.indiewire.com/features/commentary/goodbye-lara-little-mermaid-anime-1235206895/"
       }
     ],
     "variety": [
       {
-        "title": "Netflix Executives Considered Pulling \u2018Michael Jackson: The Verdict\u2019 Docuseries a Week Before Its Release (EXCLUSIVE)",
-        "link": "https://variety.com/2026/tv/global/michael-jackson-docuseries-netflix-considered-pulling-1236817368/"
+        "title": "HBO Max Leads the Emmy Drama and Comedy Races for the First Time Since 2017. How Often Do Both Frontrunners Win?",
+        "link": "https://variety.com/2026/tv/awards/hbo-max-the-pitt-hacks-emmys-history-1236820629/"
       },
       {
-        "title": "\u2018Rings of Power\u2019 Debuts Season 3 Trailer; Simon Pegg Joins Cast as the Balrog",
-        "link": "https://variety.com/2026/tv/news/lord-of-the-rings-rings-of-power-season-3-trailer-1236625486/"
+        "title": "\u2018Lanterns\u2019 Trailer: Hal Jordan Visits Sinestro in Prison, Guy Gardner Has a Cameo and a Shape-Shifting Manhunter Is on the Loose",
+        "link": "https://variety.com/2026/tv/news/lanterns-trailer-sinestro-guy-gardner-manhunter-1236818889/"
       },
       {
-        "title": "Inside Costa Rica\u2019s Alcatraz and Another 5 Top Locations",
-        "link": "https://variety.com/2026/film/global/costa-rica-alcatraz-another-5-top-locations-1236820110/"
+        "title": "Noah Wyle on \u2018The Pitt\u2019 Fan Discourse, Saving Hollywood and What\u2019s Coming In Season 3",
+        "link": "https://variety.com/2026/tv/awards/noah-wyle-the-pitt-fans-hollywood-season-3-1236818461/"
       },
       {
-        "title": "Matt Damon Describes His Role in The Daniels\u2019 New Sci-Fi Movie as \u2018The Breakfast Club\u2019 Meets \u2018Inception\u2019 Meets Anime Meets John Oliver",
-        "link": "https://variety.com/2026/film/news/matt-damon-daniels-sci-fi-movie-breakfast-club-inception-1236820464/"
+        "title": "\u2018My Little Pony: Forever Friendship\u2019 YouTube Series to Launch in 2027",
+        "link": "https://variety.com/2026/tv/news/my-little-pony-forever-friendship-youtube-2027-1236820643/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Funko at Comic-Con: Ultra-Rare \u2018Invincible\u2019 Pops!, Absolute Batman and a Figure Worth $10,000",
-        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/funko-at-comic-con-ultra-rare-invincible-pops-1236655108/"
+        "title": "Gabriel \u201cFluffy\u201d Iglesias Says Comedy Is About \u201cMaking People Smile, Making People Laugh\u201d",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/gabriel-fluffy-iglesias-comedy-1236656272/"
       },
       {
-        "title": "\u2018The Rings of Power\u2019 Season 3 Trailer Is Full of  Middle-earth Action, Simon Pegg Joins Cast",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/rings-of-power-season-3-trailer-premiere-date-1236655955/"
+        "title": "\u2018Lanterns\u2019 Trailer Reveals Sinestro and Its Manhunter Threat",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/lanterns-trailer-reveals-sinestro-and-its-manhunter-1236656225/"
       },
       {
-        "title": "Don\u2019t Sleep on Nordstrom Anniversary Sale\u2019s Bedding and Bath Deals \u2014 25 Buys for a Hollywood-Ready Home",
-        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/nordstrom-anniversary-sale-2026-home-deals-bedding-candles-1236653750/"
+        "title": "One of Telluride Film Fest\u2019s Marquee Venues Significantly Damaged by Flash Flood, but Fest Believes It Will Be Operational by Labor Day Weekend",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/telluride-film-festival-theater-damaged-flash-flood-1236655298/"
       },
       {
-        "title": "Ex-Reality TV Star and Businessman\u2019s Fatal Fall From 28-Story Miami Resort Balcony Sparks Doubts",
-        "link": "https://www.hollywoodreporter.com/news/general-news/yakir-levi-death-acqualina-resort-miami-balcony-1236655976/"
+        "title": "\u2018Rick and Morty\u2019 Spinoff \u2018President Curtis\u2019 Scores Early Season 2 Renewal at Adult Swim",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/president-curtis-rick-and-morty-renewed-season-2-adult-swim-1236656115/"
       }
     ],
     "larb": [],
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "Psychedelics Might Not Have Evolved to Get Humans High",
+        "link": "https://nautil.us/psychedelics-might-not-have-evolved-to-get-humans-high-1283013/"
+      },
+      {
         "title": "How an Inbred Snake Invader Took Over an Island Paradise",
         "link": "https://nautil.us/how-an-inbred-snake-invader-took-over-an-island-paradise-1283018/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "Does This Photo from the Curiosity Rover Prove an Intense Sandstorm on Mars?",
         "link": "https://nautil.us/does-this-photo-from-the-curiosity-rover-prove-an-intense-sandstorm-on-mars-1282997/"
-      },
-      {
-        "title": "A Forgotten Literary Window Into the Personal Life of Alan Turing",
-        "link": "https://nautil.us/a-forgotten-literary-window-into-the-personal-life-of-alan-turing-1282977/"
       }
     ],
     "worksinprogress": [],
