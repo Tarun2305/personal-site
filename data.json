@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24 13:22 UTC",
+  "last_updated": "2026-07-24 16:34 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,12 +7,12 @@
         "link": "https://www.bbc.co.uk/news/articles/cjrvy450jv5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
-        "link": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "'Extremely significant' bomb in car intercepted on way to NI, Irish police say",
         "link": "https://www.bbc.co.uk/news/articles/cpq82dg0y3qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Officers hurt as police boat hits Westminster Bridge",
+        "link": "https://www.bbc.co.uk/news/articles/c935k4k4pezo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Angela Rayner rules out rent controls in England",
@@ -21,39 +21,39 @@
     ],
     "aljazeera": [
       {
-        "title": "US summons Malaysia envoy over Israel policy",
-        "link": "https://www.aljazeera.com/news/2026/7/24/us-summons-malaysia-envoy-over-israel-policy?traffic_source=rss"
+        "title": "Yemen\u2019s valleys and farms are full of dangerous plastic waste",
+        "link": "https://www.aljazeera.com/features/2026/7/24/yemens-valleys-and-farms-are-full-of-dangerous-plastic-waste?traffic_source=rss"
       },
       {
-        "title": "Bangladesh President Mohammed Shahabuddin resigns",
-        "link": "https://www.aljazeera.com/news/2026/7/24/bangladesh-president-mohammed-shahabuddin-resigns?traffic_source=rss"
+        "title": "LeBron James is heading to the Philadelphia 76ers from Los Angeles Lakers",
+        "link": "https://www.aljazeera.com/sports/2026/7/24/lebron-james-is-heading-to-the-philadelphia-76ers-saying-it-will-be-his-last-decision?traffic_source=rss"
       },
       {
-        "title": "Spain declares national emergency over wildfires",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/spain-declares-national-emergency-over-wildfires?traffic_source=rss"
+        "title": "Congress Party holds \u2018funeral\u2019 for India PM Modi and cabinet ministers",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/congress-party-holds-funeral-for-india-pm-modi-and-cabinet-ministers?traffic_source=rss"
       },
       {
-        "title": "Spain\u2019s De la Fuente slams Argentina\u2019s World Cup conduct as \u2018unacceptable\u2019",
-        "link": "https://www.aljazeera.com/sports/2026/7/24/spains-de-la-fuente-slams-argentinas-world-cup-conduct-as-unacceptable?traffic_source=rss"
+        "title": "LIVE: Israeli settlers attack West Bank\u2019s Nablus, shooting leaves six dead",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/7/24/live-israeli-settlers-attack-west-banks-nablus-shooting-leaves-six-dead?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Fury vs Wach LIVE! Updates from non-televised heavyweight clash in Thailand",
-        "link": "https://www.skysports.com/boxing/live-blog/12040/13566620/tyson-fury-vs-mariusz-wach-live-updates-from-thailand-as-british-star-prepares-for-likely-showdown-with-anthony-joshua-later-this-year"
+        "title": "Hamilton fastest as Ferrari dominate Hungarian GP practice",
+        "link": "https://www.skysports.com/f1/news/12040/13566538/hungarian-gp-lewis-hamilton-tops-charles-leclerc-in-practice-two-as-ferrari-dominate-friday-at-hungaroring"
       },
       {
-        "title": "Leclerc fastest before stopping as Aston Martin hit early fault with new-look car",
-        "link": "https://www.skysports.com/f1/news/12040/13566537/hungarian-gp-charles-leclerc-tops-first-practice-as-suspected-suspension-failure-spins-off-lance-stroll-in-new-aston-martin"
+        "title": "Liverpool takeover Q&A: Could Bezos buy stake at Anfield?",
+        "link": "https://www.skysports.com/football/news/12040/13566630/liverpool-key-questions-answered-as-jeff-bezos-and-amit-bhatia-line-up-bid-for-strategic-minority-stake-in-club"
       },
       {
-        "title": "Scott: The 'scrawny-looking kid' turned complete midfielder wanted by the elite",
-        "link": "https://www.skysports.com/football/news/12040/13566546/alex-scott-how-bournemouth-midfielder-wanted-by-arsenal-chelsea-and-man-utd-flourished-under-andoni-iraola"
+        "title": "Devlin: Rangers wait was 'too stressful'",
+        "link": "https://www.skysports.com/football/news/12040/13566652/cammy-devlin-waiting-on-rangers-move-during-world-cup-was-too-stressful"
       },
       {
-        "title": "Masquerade Ball backed to reverse form with Calandagan in King George",
-        "link": "https://www.skysports.com/racing/news/12040/13566626/king-george-tips-masquerade-ball-backed-to-reverse-form-with-calandagan-at-ascot"
+        "title": "Fury claims dominant seventh-round TKO victory vs Wach",
+        "link": "https://www.skysports.com/boxing/news/12040/13566702/tyson-fury-vs-mariusz-wach-british-star-claims-dominant-seventh-round-tko-victory-and-remains-on-course-for-anthony-johsua-fight"
       }
     ],
     "pitchfork": [],
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018Ferine\u2019 Review: Andrea Corsini Introduces Himself as the Next Truly Terrifying Italian Director to Watch",
+        "link": "https://www.indiewire.com/criticism/movies/ferine-review-andrea-corsini-1235206950/"
+      },
+      {
+        "title": "Steve James Should Have Been One of Cinema\u2019s Biggest Action Heroes \u2014 A New Restoration Shows Why",
+        "link": "https://www.indiewire.com/features/commentary/steve-james-best-role-riverbend-restored-1235206537/"
+      },
+      {
+        "title": "Audiences Expecting an AI Dystopia in \u2018Sheep in the Box\u2019 Get Something Much Stranger from Hirokazu Koreeda",
+        "link": "https://www.indiewire.com/features/interviews/hirokazu-koreeda-sheep-in-the-box-cannes-interview-1235195862/"
+      },
+      {
         "title": "\u2018Avatar: Seven Havens\u2019 Releases First Trailer and Sets Premiere Date",
         "link": "https://www.indiewire.com/news/trailers/avatar-seven-havens-trailer-premiere-date-1235206937/"
-      },
-      {
-        "title": "Judge Extends Restraining Order on Paramount-Warner Bros. Discovery Merger for Another 2 Weeks",
-        "link": "https://www.indiewire.com/news/breaking-news/judge-pauses-paramount-warner-bros-merger-antitrust-lawsuit-1235205563/"
-      },
-      {
-        "title": "VFX Spectacle \u2018Ramayana\u2019 Adaptation with $500 Million Budget to Be Released by Sony",
-        "link": "https://www.indiewire.com/news/breaking-news/ramayana-adaptation-500-million-budget-sony-release-1235206903/"
-      },
-      {
-        "title": "Karina Longworth\u2019s \u2018You Must Remember This\u2019 Returns with a Dishy Deep Dive on Bisexual Black Widow Libby Holman",
-        "link": "https://www.indiewire.com/news/general-news/you-must-remember-this-new-season-bisexual-libby-holman-1235206901/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018Avatar\u2019 Sequel Film \u2018Aang: The Last Airbender\u2019 Revives the Animated Franchise With Breathtaking Visuals: TV Review",
-        "link": "https://variety.com/2026/tv/reviews/avatar-aang-the-last-airbender-review-sequel-film-1236818576/"
+        "title": "Anne Hathaway\u2019s Oscars \u2018Odyssey\u2019: Will She Campaign for Lead Actress or Supporting?",
+        "link": "https://variety.com/2026/film/awards/anne-hathaway-oscars-odyssey-lead-actress-supporting-1236819669/"
       },
       {
-        "title": "The Pool Films Acquires Tokyo-Based Photographer and Director Xavier Tera\u2019s Debut, \u2018The Color of the Sun,\u2019 Ahead of Venice Premiere (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/festivals/pool-films-xavier-tera-color-of-sun-venice-1236820143/"
+        "title": "\u2018Reacher\u2019 Star Alan Ritchson Slams \u2018F\u2014ing Pedophiles\u2019 in Politics: \u2018I Would Get Those Epstein Files Out in Two Seconds \u2026 Bitch, Move\u2019",
+        "link": "https://variety.com/2026/tv/news/alan-ritchson-epstein-files-pedophiles-go-to-jail-1236820323/"
       },
       {
-        "title": "Rebel Wilson Defamation Case Ruling Appealed by \u2018The Deb\u2019 Star Charlotte MacInnes",
-        "link": "https://variety.com/2026/film/news/rebel-wilson-defamation-case-ruling-appeal-charlotte-macinnes-1236820239/"
+        "title": "\u2018Her Private Hell\u2019 Director Nicolas Winding Refn on Ignoring Critics, Why the Government Must Regulate AI and Planning His Third Film With Ryan Gosling",
+        "link": "https://variety.com/2026/film/features/nicolas-winding-refn-her-private-hell-critics-ryan-gosling-1236818707/"
       },
       {
-        "title": "Chris Brown Pleads Guilty Over \u2018Vicious and Unprovoked\u2019 Attack at U.K. Nightclub",
-        "link": "https://variety.com/2026/music/global/chris-brown-guilty-affray-london-nightclub-1236820242/"
+        "title": "Film Commissions Step Up Role to Accelerate Growth In Central America and the Caribbean \u00a0",
+        "link": "https://variety.com/2026/film/global/iberofic-focuses-on-central-america-and-the-caribbean-1236820151/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Sales Veteran Fred Tsui to Lead Hong Kong International Film Festival",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/fred-tsui-lead-hong-kong-international-film-festival-1236655814/"
+        "title": "QVC Hosts Vote to Unionize Amid Concerns Over Generative AI",
+        "link": "https://www.hollywoodreporter.com/business/business-news/qvc-hosts-vote-unionize-1236655895/"
       },
       {
-        "title": "Chris Brown Pleads Guilty After London Nightclub Attack",
-        "link": "https://www.hollywoodreporter.com/music/music-news/chris-brown-pleads-guilty-london-nightclub-attack-1236655813/"
+        "title": "Comedian Rick Glassman Says His Podcast Is Like a Perfect First Date: \u201cThere\u2019s Flirting Involved\u201d",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/comedian-rick-glassman-podcast-interview-1236655860/"
       },
       {
-        "title": "Spain Scores World Cup Docuseries at Prime Video",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/spain-world-cup-series-prime-video-documentary-tv-football-1236655793/"
+        "title": "Lucas Museum at Comic-Con: Star Wars Animated Series \u2018Detours\u2019 to Finally Screen, Film Programming Revealed",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/lucas-museum-comic-con-star-wars-animated-series-detours-1236655674/"
       },
       {
-        "title": "Charter TV Subscriber Losses Narrow to 21,000 in Second Quarter",
-        "link": "https://www.hollywoodreporter.com/business/business-news/charters-quarter-losses-1236655774/"
+        "title": "The 25 Best U.S. Film Schools in 2026",
+        "link": "https://www.hollywoodreporter.com/lists/best-film-schools-2026-u-s/"
       }
     ],
     "larb": [],
@@ -280,20 +280,20 @@
     ],
     "nautilus": [
       {
+        "title": "Does This Photo from the Curiosity Rover Prove an Intense Sandstorm on Mars?",
+        "link": "https://nautil.us/does-this-photo-from-the-curiosity-rover-prove-an-intense-sandstorm-on-mars-1282997/"
+      },
+      {
+        "title": "A Forgotten Literary Window Into the Personal Life of Alan Turing",
+        "link": "https://nautil.us/a-forgotten-literary-window-into-the-personal-life-of-alan-turing-1282977/"
+      },
+      {
         "title": "How Do Sperm Whales Keep Their Massive, Wax-Filled Heads Beneath the Waves as They Sleep?",
         "link": "https://nautil.us/how-do-sperm-whales-keep-their-massive-wax-filled-heads-beneath-the-waves-as-they-sleep-1282973/"
       },
       {
         "title": "The Amazing Photos from NASA\u2019s First-Ever Mars Lander",
         "link": "https://nautil.us/the-amazing-photos-from-nasas-first-ever-mars-lander-1282964/"
-      },
-      {
-        "title": "Mole Rat Queens Stink Their Way to Power",
-        "link": "https://nautil.us/mole-rat-queens-stink-their-way-to-power-1282957/"
-      },
-      {
-        "title": "Does Watching TV Really Rot Your Brain?",
-        "link": "https://nautil.us/does-watching-tv-really-rot-your-brain-1282948/"
       }
     ],
     "worksinprogress": [],
