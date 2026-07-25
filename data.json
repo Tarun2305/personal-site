@@ -1,81 +1,64 @@
 {
-  "last_updated": "2026-07-25 10:22 UTC",
+  "last_updated": "2026-07-25 13:08 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Fleeing a wall of flames: Tourists describe France wildfires escape",
+        "link": "https://www.bbc.co.uk/news/articles/c80ny93xlrvo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "How the mystery of dead animals dumped in villages led to a hidden world of illegal hunts",
         "link": "https://www.bbc.co.uk/news/articles/cd7ldjrl2reo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Trump takes swipes at press during White House Correspondents' Dinner",
-        "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss"
+        "title": "Laura Kuenssberg goes behind the scenes with Andy Burnham in his first week as PM",
+        "link": "https://www.bbc.co.uk/news/videos/c0l51y7k0wwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Police declare 'major incident' as wind change increases Cairngorms wildfire risk",
+        "title": "Police declare 'major incident' over Cairngorms wildfire",
         "link": "https://www.bbc.co.uk/news/articles/c2k7g15v3epo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Horror injury overshadows gymnastics silver for England at Commonwealths",
-        "link": "https://www.bbc.co.uk/sport/articles/c151qlnzw05o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
-        "link": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks?traffic_source=rss"
+        "title": "Iran blames US for Hormuz dispute as both sides confirm ongoing talks",
+        "link": "https://www.aljazeera.com/news/2026/7/25/iran-blames-us-for-hormuz-dispute-as-both-sides-confirm-ongoing-talks?traffic_source=rss"
       },
       {
-        "title": "India\u2019s education minister resigns after weeks of \u2018Cockroach\u2019 protests",
-        "link": "https://www.aljazeera.com/news/2026/7/25/indias-education-minister-resigns-after-weeks-of-cockroach-protests?traffic_source=rss"
+        "title": "Baby rescued after Israeli settlers set home on fire amid raids",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/baby-rescued-after-israeli-settlers-set-home-on-fire-amid-raids?traffic_source=rss"
       },
       {
-        "title": "Dodging snipers, housing crisis forces Yemenis to live on front line",
-        "link": "https://www.aljazeera.com/news/2026/7/25/dodging-snipers-housing-crisis-forces-yemenis-to-live-on-front-line?traffic_source=rss"
+        "title": "At least 11 killed in Ukrainian and Russian strikes as holiday camp hit",
+        "link": "https://www.aljazeera.com/news/2026/7/25/at-least-11-killed-in-ukrainian-and-russian-strikes-as-holiday-camp-hit?traffic_source=rss"
       },
       {
-        "title": "Wildfires in Spain and France force evacuation of 200,000 people",
-        "link": "https://www.aljazeera.com/news/2026/7/25/wildfires-in-spain-and-france-force-evacuation-of-200000-people?traffic_source=rss"
+        "title": "Trump faces backlash for using \u2018Palestinian\u2019 as an insult",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/trump-faces-backlash-for-using-palestinian-as-an-insult?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Hungarian GP: Ferrari seeking to stay in front in final practice LIVE!",
-        "link": "https://www.skysports.com/f1/live-blog/12040/13566060/f1-hungarian-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-at-hungaroring-in-budapest"
+        "title": "Norris puts upgraded McLaren on top from Hamilton in final practice",
+        "link": "https://www.skysports.com/f1/news/12040/13566869/hungarian-gp-lando-norris-fastest-in-final-practice-for-mclaren-ahead-of-lewis-hamilton-and-kimi-antonelli-at-hungaroring"
+      },
+      {
+        "title": "Fury vs AJ moves step closer to being in USA over UK",
+        "link": "https://www.skysports.com/boxing/news/12040/13566854/tyson-fury-vs-anthony-joshua-proposed-heavyweight-super-fight-moves-step-closer-to-being-in-usa-over-uk"
       },
       {
         "title": "'People do not just fail to turn up' - Woking hit back at Defoe after exit",
         "link": "https://www.skysports.com/football/news/12040/13566844/jermain-defoe-woking-claim-former-england-and-tottenham-striker-didnt-turn-up-for-meeting-and-training-before-shock-exit"
       },
       {
-        "title": "Price: People make it too easy for Littler",
-        "link": "https://www.skysports.com/darts/news/12040/13566703/world-matchplay-darts-gerwyn-price-issues-title-warning-to-ruthless-luke-littler-after-reaching-blackpool-semi-finals"
-      },
-      {
-        "title": "LeBron stuns basketball with move to 76ers!",
-        "link": "https://www.skysports.com/watch/video/13566833/nba-lebron-james-stuns-basketball-with-move-to-philadelphia-76ers"
+        "title": "Hungarian GP: Norris hits the front ahead of Hamilton in final practice LIVE!",
+        "link": "https://www.skysports.com/f1/live-blog/12040/13566060/f1-hungarian-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-at-hungaroring-in-budapest"
       }
     ],
     "pitchfork": [],
     "quietus": [],
-    "aquariumdrunkard": [
-      {
-        "title": "The Babe Rainbow :: Acid and Honey",
-        "link": "https://aquariumdrunkard.com/2026/07/24/the-babe-rainbow-acid-and-honey/"
-      },
-      {
-        "title": "Ryuichi Sakamoto :: Beauty",
-        "link": "https://aquariumdrunkard.com/2026/07/23/ryuichi-sakamoto-beauty/"
-      },
-      {
-        "title": "No Endtroducing: DJ Shadow\u2019s Debut at 30",
-        "link": "https://aquariumdrunkard.com/2026/07/22/no-endtroducing-dj-shadows-debut-at-30/"
-      },
-      {
-        "title": "The Afterlives of Dub, 1995-2025 (A Mixtape)",
-        "link": "https://aquariumdrunkard.com/2026/07/22/the-afterlives-of-dub-1995-2025-a-mixtape/"
-      }
-    ],
+    "aquariumdrunkard": [],
     "bfi": [],
     "criterion": [],
     "rogerebert": [
@@ -171,7 +154,11 @@
     ],
     "variety": [
       {
-        "title": "Trump Says White House Correspondents Dinner Is \u2018Largest Group of Trump Derangement Syndrome People Ever Put Together at One Time\u2019",
+        "title": "Nike Releases New Air Jordan 4 Retro \u2018Comic\u2019 Sneakers: Here\u2019s Where To Shop a Pair Online",
+        "link": "https://variety.com/2026/shopping/news/where-to-buy-nike-air-jordan-4-retro-comic-shop-online-1236819166/"
+      },
+      {
+        "title": "Trump Says White House Correspondents\u2019 Dinner Is \u2018Largest Group of Trump Derangement Syndrome People Ever Put Together at One Time\u2019",
         "link": "https://variety.com/2026/tv/news/trump-white-house-correspondents-dinner-remarks-1236820779/"
       },
       {
@@ -181,10 +168,6 @@
       {
         "title": "Nick Hakim\u2019s \u2018I Can See\u2019 Is a Hazy Alt-R&B Masterpiece: Album Review",
         "link": "https://variety.com/2026/music/reviews/nick-hakim-i-can-see-masterpiece-album-review-1236818633/"
-      },
-      {
-        "title": "Paramount Faces Drawn-Out Battle With State AGs: \u2018They Saw the Writing on the Wall\u2019",
-        "link": "https://variety.com/2026/film/news/paramount-state-ags-warner-bros-battle-1236820702/"
       }
     ],
     "hollywoodreporter": [
