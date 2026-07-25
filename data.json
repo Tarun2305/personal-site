@@ -1,40 +1,40 @@
 {
-  "last_updated": "2026-07-25 02:01 UTC",
+  "last_updated": "2026-07-25 05:37 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Firefighters struggle to contain Madrid wildfires, as more than 160,000 evacuated in France and Spain",
+        "title": "More than 220,000 evacuated in France and Spain due to wildfires",
         "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Gangs, violence and dumped dead animals: The hidden world of illegal hare hunts",
+        "link": "https://www.bbc.co.uk/news/articles/cd7ldjrl2reo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Police declare 'major incident' as wind change increases Cairngorms wildfire risk",
         "link": "https://www.bbc.co.uk/news/articles/c2k7g15v3epo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-        "link": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Teenage boy dies after stabbing in Luton as police launch murder investigation",
-        "link": "https://www.bbc.co.uk/news/articles/cjejvkk70z1o?at_medium=RSS&at_campaign=rss"
+        "title": "Trump pokes fun at press during White House Correspondents' Dinner",
+        "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Sons of immigrant killed by ICE in Texas share grief, demand accountability",
-        "link": "https://www.aljazeera.com/news/2026/7/25/sons-of-immigrant-killed-by-ice-in-texas-share-grief-demand-accountability?traffic_source=rss"
+        "title": "Funerals held for four Palestinians killed in deadly West Bank shooting",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/funerals-held-for-four-palestinians-killed-in-deadly-west-bank-shooting?traffic_source=rss"
       },
       {
-        "title": "Trump threatens EU will pay \u2018big price\u2019 after Brussels fines Google $1bn",
-        "link": "https://www.aljazeera.com/news/2026/7/25/trump-threatens-eu-will-pay-big-price-after-brussels-fines-google-1bn?traffic_source=rss"
+        "title": "\u2018The show must go on\u2019: Trump returns to rescheduled White House press gala",
+        "link": "https://www.aljazeera.com/news/2026/7/25/the-show-must-go-on-trump-returns-to-rescheduled-white-house-press-gala?traffic_source=rss"
       },
       {
-        "title": "GLP-1s are changing US healthcare, should everyone be on them?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/glp-1s-are-changing-us-healthcare-should-everyone-be-on-them?traffic_source=rss"
+        "title": "Firefighters battle fire after fertiliser explosion in England",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/firefighters-battle-fire-after-fertiliser-explosion-in-england?traffic_source=rss"
       },
       {
-        "title": "Saudi-led coalition strikes Houthi-controlled Hodeidah",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/saudi-led-coalition-strikes-houthi-controlled-hodeidah?traffic_source=rss"
+        "title": "From palava huts to TikTok: How Liberians are preserving their past",
+        "link": "https://www.aljazeera.com/news/2026/7/25/from-palava-huts-to-tiktok-how-liberians-are-preserving-their-past?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "You\u2019ve Never Met a Horror Host Like 2017\u2019s Cryptina: The Luminous Ghost of Short Films Past",
+        "link": "https://www.indiewire.com/features/best-of/cryptina-spook-time-variety-show-after-dark-1235207069/"
+      },
+      {
         "title": "\u2018Lanterns\u2019 Trailer: Green Lantern Gets the \u2018True Detective\u2019 Treatment in DC Studios HBO Series",
         "link": "https://www.indiewire.com/news/trailers/lanterns-trailer-dc-hbo-show-1235206936/"
       },
@@ -163,13 +167,13 @@
       {
         "title": "Paramount Agrees Not to Close Warner Bros. Discovery Merger Until at Least June 2027",
         "link": "https://www.indiewire.com/news/breaking-news/judge-pauses-paramount-warner-bros-merger-antitrust-lawsuit-1235205563/"
-      },
-      {
-        "title": "The Best Disney Remake of the Year Is an Anime \u2018Little Mermaid\u2019 Retelling",
-        "link": "https://www.indiewire.com/features/commentary/goodbye-lara-little-mermaid-anime-1235206895/"
       }
     ],
     "variety": [
+      {
+        "title": "Trump Says White House Correspondents Dinner Is \u2018Largest Group of Trump Derangement Syndrome People Ever Put Together at One Time\u2019",
+        "link": "https://variety.com/2026/tv/news/trump-white-house-correspondents-dinner-remarks-1236820779/"
+      },
       {
         "title": "Guillermo del Toro said \u2018Absolutely No Goddamn AI\u2019 in \u2018Pan\u2019s Labyrinth\u2019 3D Re-Release: \u2018We\u2019re Protecting a Lineage of Art\u2019",
         "link": "https://variety.com/2026/film/news/guillermo-del-toro-no-ai-pans-labyrinth-rerelease-1236815109/"
@@ -181,28 +185,24 @@
       {
         "title": "Paramount Faces Drawn-Out Battle With State AGs: \u2018They Saw the Writing on the Wall\u2019",
         "link": "https://variety.com/2026/film/news/paramount-state-ags-warner-bros-battle-1236820702/"
-      },
-      {
-        "title": "Norwegian Zombie Comedy \u2018Grandmonster\u2019 Wins Big Laughs and Top Outpost Award at Fantasia\u2019s Fronti\u00e8res Market",
-        "link": "https://variety.com/2026/film/markets-festivals/fantasia-frontieres-grandmonster-zombie-comedy-1236820625/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Morgan Stewart on Wave of Home Robberies in L.A.: \u201cEveryone I Know Has Gotten Robbed\u201d",
+        "title": "All of the Guest Stars and Cameos on HBO Max\u2019s \u2018Life, Larry and the Pursuit of Unhappiness\u2019 (So Far)",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/larry-and-the-pursuit-of-unhappiness-guest-stars-cameos-1236651445/"
+      },
+      {
+        "title": "\u2018Widow\u2019s Bay\u2019 Creator on Writing Season 2 After Buzzy Launch: \u201cI Learned a Lot About What You Don\u2019t Need\u201d",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/widows-bay-creator-season-2-katie-dippold-lessons-1236656424/"
+      },
+      {
+        "title": "President Trump Roasts Media at Rescheduled, Pared-Down White House Correspondents\u2019 Dinner",
+        "link": "https://www.hollywoodreporter.com/news/general-news/trump-white-house-correspondents-dinner-roasts-media-1236656443/"
+      },
+      {
+        "title": "Morgan Stewart on Wave of Home Burglaries in L.A.: \u201cEveryone I Know Has Gotten Robbed\u201d",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/la-crime-home-robberies-celebrities-morgan-stewart-jake-shane-1236656427/"
-      },
-      {
-        "title": "Rick Moranis Makes Comic-Con Debut for \u2018Spaceballs\u2019 Sequel",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/spaceballs-the-new-one-footage-1236656320/"
-      },
-      {
-        "title": "The Whole \u2018Live PD\u2019 Gang Is Back Together as Tom Morris Jr. Joins \u2018On Patrol: Live\u2019",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/live-pd-reunion-tom-morris-jr-dan-abrams-on-patrol-live-1236656080/"
-      },
-      {
-        "title": "Hollywood Royalty, Michelin-Starred Meal, Cartier Gift Bags: Inside Monaco\u2019s Most Exclusive Event of the Year",
-        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/77th-monaco-red-cross-gala-2026-recap-guests-fashion-prizes-1236651749/"
       }
     ],
     "larb": [],
