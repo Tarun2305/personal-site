@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25 07:55 UTC",
+  "last_updated": "2026-07-25 10:22 UTC",
   "feeds": {
     "bbc": [
       {
@@ -15,45 +15,45 @@
         "link": "https://www.bbc.co.uk/news/articles/c2k7g15v3epo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
-        "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss"
+        "title": "Horror injury overshadows gymnastics silver for England at Commonwealths",
+        "link": "https://www.bbc.co.uk/sport/articles/c151qlnzw05o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Born too soon: Premature babies fight for survival in Gaza",
-        "link": "https://www.aljazeera.com/features/2026/7/25/born-too-soon-premature-babies-fighting-for-survival-in-gaza?traffic_source=rss"
+        "title": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
+        "link": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks?traffic_source=rss"
       },
       {
-        "title": "Guterres arrives in Syria in first official visit by a UN chief in 17 years",
-        "link": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss"
+        "title": "India\u2019s education minister resigns after weeks of \u2018Cockroach\u2019 protests",
+        "link": "https://www.aljazeera.com/news/2026/7/25/indias-education-minister-resigns-after-weeks-of-cockroach-protests?traffic_source=rss"
       },
       {
-        "title": "Trump: \u2018I\u2019m running for a fourth term as President of the United States\u2019",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/trump-im-running-for-a-fourth-term-as-president-of-the-united?traffic_source=rss"
+        "title": "Dodging snipers, housing crisis forces Yemenis to live on front line",
+        "link": "https://www.aljazeera.com/news/2026/7/25/dodging-snipers-housing-crisis-forces-yemenis-to-live-on-front-line?traffic_source=rss"
       },
       {
-        "title": "Commonwealth Games: Gymnast Langton\u2019s headfirst crash leads to concussion",
-        "link": "https://www.aljazeera.com/sports/2026/7/25/commonwealth-games-gymnast-langtons-headfirst-crash-leads-to-concussion?traffic_source=rss"
+        "title": "Wildfires in Spain and France force evacuation of 200,000 people",
+        "link": "https://www.aljazeera.com/news/2026/7/25/wildfires-in-spain-and-france-force-evacuation-of-200000-people?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Hungarian GP: Ferrari seeking to stay in front in final practice LIVE!",
+        "link": "https://www.skysports.com/f1/live-blog/12040/13566060/f1-hungarian-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-at-hungaroring-in-budapest"
+      },
+      {
+        "title": "'People do not just fail to turn up' - Woking hit back at Defoe after exit",
+        "link": "https://www.skysports.com/football/news/12040/13566844/jermain-defoe-woking-claim-former-england-and-tottenham-striker-didnt-turn-up-for-meeting-and-training-before-shock-exit"
+      },
+      {
         "title": "Price: People make it too easy for Littler",
         "link": "https://www.skysports.com/darts/news/12040/13566703/world-matchplay-darts-gerwyn-price-issues-title-warning-to-ruthless-luke-littler-after-reaching-blackpool-semi-finals"
       },
       {
-        "title": "Calandagan and Masquerade Ball headline King George showdown at Ascot",
-        "link": "https://www.skysports.com/racing/news/12040/13566531/today-on-sky-sports-racing-calandagan-and-masquerade-ball-headline-stellar-king-george-from-ascot"
-      },
-      {
-        "title": "Van Veen on Winter Garden boos: That 118 finish was for you!",
-        "link": "https://www.skysports.com/darts/live-blog/12040/13566495/world-matchplay-darts-live-updates-video-analysis-scores-commentary-with-gerwyn-price-gian-van-veen-and-james-wade-in-action"
-      },
-      {
-        "title": "Wilkin: Rowley's Saints dismissal doesn't surprise me - 'Fans voted with their feet'",
-        "link": "https://www.skysports.com/rugby-league/news/12040/13566694/jon-wilkin-paul-rowleys-st-helens-dismissal-after-nine-months-doesnt-surprise-me-fans-voted-with-their-feet-in-bizarre-sad-time-for-club"
+        "title": "LeBron stuns basketball with move to 76ers!",
+        "link": "https://www.skysports.com/watch/video/13566833/nba-lebron-james-stuns-basketball-with-move-to-philadelphia-76ers"
       }
     ],
     "pitchfork": [],
@@ -175,7 +175,7 @@
         "link": "https://variety.com/2026/tv/news/trump-white-house-correspondents-dinner-remarks-1236820779/"
       },
       {
-        "title": "Guillermo del Toro said \u2018Absolutely No Goddamn AI\u2019 in \u2018Pan\u2019s Labyrinth\u2019 3D Re-Release: \u2018We\u2019re Protecting a Lineage of Art\u2019",
+        "title": "Guillermo del Toro Says There Is \u2018Absolutely No Goddamn AI\u2019 in \u2018Pan\u2019s Labyrinth\u2019 3D Re-Release: \u2018We\u2019re Protecting a Lineage of Art\u2019",
         "link": "https://variety.com/2026/film/news/guillermo-del-toro-no-ai-pans-labyrinth-rerelease-1236815109/"
       },
       {
