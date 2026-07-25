@@ -1,44 +1,52 @@
 {
-  "last_updated": "2026-07-25 05:37 UTC",
+  "last_updated": "2026-07-25 07:55 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "More than 220,000 evacuated in France and Spain due to wildfires",
-        "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss"
+        "title": "How the mystery of dead animals dumped in villages led to a hidden world of illegal hunts",
+        "link": "https://www.bbc.co.uk/news/articles/cd7ldjrl2reo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Gangs, violence and dumped dead animals: The hidden world of illegal hare hunts",
-        "link": "https://www.bbc.co.uk/news/articles/cd7ldjrl2reo?at_medium=RSS&at_campaign=rss"
+        "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+        "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Police declare 'major incident' as wind change increases Cairngorms wildfire risk",
         "link": "https://www.bbc.co.uk/news/articles/c2k7g15v3epo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Trump pokes fun at press during White House Correspondents' Dinner",
-        "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss"
+        "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+        "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Funerals held for four Palestinians killed in deadly West Bank shooting",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/funerals-held-for-four-palestinians-killed-in-deadly-west-bank-shooting?traffic_source=rss"
+        "title": "Born too soon: Premature babies fight for survival in Gaza",
+        "link": "https://www.aljazeera.com/features/2026/7/25/born-too-soon-premature-babies-fighting-for-survival-in-gaza?traffic_source=rss"
       },
       {
-        "title": "\u2018The show must go on\u2019: Trump returns to rescheduled White House press gala",
-        "link": "https://www.aljazeera.com/news/2026/7/25/the-show-must-go-on-trump-returns-to-rescheduled-white-house-press-gala?traffic_source=rss"
+        "title": "Guterres arrives in Syria in first official visit by a UN chief in 17 years",
+        "link": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss"
       },
       {
-        "title": "Firefighters battle fire after fertiliser explosion in England",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/firefighters-battle-fire-after-fertiliser-explosion-in-england?traffic_source=rss"
+        "title": "Trump: \u2018I\u2019m running for a fourth term as President of the United States\u2019",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/trump-im-running-for-a-fourth-term-as-president-of-the-united?traffic_source=rss"
       },
       {
-        "title": "From palava huts to TikTok: How Liberians are preserving their past",
-        "link": "https://www.aljazeera.com/news/2026/7/25/from-palava-huts-to-tiktok-how-liberians-are-preserving-their-past?traffic_source=rss"
+        "title": "Commonwealth Games: Gymnast Langton\u2019s headfirst crash leads to concussion",
+        "link": "https://www.aljazeera.com/sports/2026/7/25/commonwealth-games-gymnast-langtons-headfirst-crash-leads-to-concussion?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "Price: People make it too easy for Littler",
+        "link": "https://www.skysports.com/darts/news/12040/13566703/world-matchplay-darts-gerwyn-price-issues-title-warning-to-ruthless-luke-littler-after-reaching-blackpool-semi-finals"
+      },
+      {
+        "title": "Calandagan and Masquerade Ball headline King George showdown at Ascot",
+        "link": "https://www.skysports.com/racing/news/12040/13566531/today-on-sky-sports-racing-calandagan-and-masquerade-ball-headline-stellar-king-george-from-ascot"
+      },
       {
         "title": "Van Veen on Winter Garden boos: That 118 finish was for you!",
         "link": "https://www.skysports.com/darts/live-blog/12040/13566495/world-matchplay-darts-live-updates-video-analysis-scores-commentary-with-gerwyn-price-gian-van-veen-and-james-wade-in-action"
@@ -46,14 +54,6 @@
       {
         "title": "Wilkin: Rowley's Saints dismissal doesn't surprise me - 'Fans voted with their feet'",
         "link": "https://www.skysports.com/rugby-league/news/12040/13566694/jon-wilkin-paul-rowleys-st-helens-dismissal-after-nine-months-doesnt-surprise-me-fans-voted-with-their-feet-in-bizarre-sad-time-for-club"
-      },
-      {
-        "title": "French stars as Wigan add to Saints' disarray | 12-player Wakefield rout Tigers",
-        "link": "https://www.skysports.com/rugby-league/wigan-vs-st-helens/report/63290"
-      },
-      {
-        "title": "Welsby: Our performances let Rowley down - 'We're gutted, embarrassed' ",
-        "link": "https://www.skysports.com/rugby-league/live-blog/12040/13566689/super-league-live-wigan-warriors-host-st-helens-in-crunch-clash-updates-latest-scores-team-news-commentary"
       }
     ],
     "pitchfork": [],
