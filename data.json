@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-07-25 15:58 UTC",
+  "last_updated": "2026-07-25 18:57 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Police investigate donations by Tice company to Reform UK",
+        "link": "https://www.bbc.co.uk/news/articles/c5yv4r5g55do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "More than 250,000 flee wildfires in France and Spain",
+        "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Tourists tell BBC how their holiday turned into race to escape fires",
         "link": "https://www.bbc.co.uk/news/articles/c80ny93xlrvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Police declare 'major incident' over Cairngorms wildfire",
-        "link": "https://www.bbc.co.uk/news/articles/c2k7g15v3epo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Laura Kuenssberg goes behind the scenes with Andy Burnham in his first week as PM",
-        "link": "https://www.bbc.co.uk/news/videos/c0l51y7k0wwo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Sean McCann, Madeleine's brother, makes Commonwealths final",
-        "link": "https://www.bbc.co.uk/sport/swimming/articles/c4gw7pzg70yo?at_medium=RSS&at_campaign=rss"
+        "title": "Cairngorm residents say wildfire response 'too slow' ",
+        "link": "https://www.bbc.co.uk/news/articles/cdewlpgnlx6o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "The Global South is being forced to choose creditors over children",
-        "link": "https://www.aljazeera.com/opinions/2026/7/25/the-global-south-is-being-forced-to-choose-creditors-over-children?traffic_source=rss"
+        "title": "Ebola deaths in DRC surge past 1,300 as virus \u2018spreading like a wildfire\u2019",
+        "link": "https://www.aljazeera.com/news/2026/7/25/ebola-deaths-in-drc-surge-past-1300-as-virus-spreading-like-a-wildfire?traffic_source=rss"
       },
       {
-        "title": "Atletico Madrid sign South Korea World Cup star Lee Kang-In from PSG",
-        "link": "https://www.aljazeera.com/sports/2026/7/25/atletico-madrid-sign-south-korea-world-cup-star-lee-kang-in-from-psg?traffic_source=rss"
+        "title": "How Netanyahu gov\u2019t media reforms risk deepening Israeli press bias",
+        "link": "https://www.aljazeera.com/news/2026/7/25/how-netanyahu-govt-media-reforms-risk-deepening-israeli-press-bias?traffic_source=rss"
       },
       {
-        "title": "War on Iran: Phase II: Day 14",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/war-on-iran-phase-ii-day-14?traffic_source=rss"
+        "title": "Why Epstein\u2019s survivors are still fighting",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/why-epsteins-survivors-are-still-fighting?traffic_source=rss"
       },
       {
-        "title": "F1 needs better balance between business and sport, says Norris",
-        "link": "https://www.aljazeera.com/sports/2026/7/25/f1-needs-better-balance-between-business-and-sport-says-norris?traffic_source=rss"
+        "title": "Iran\u2019s government spars with state TV as mediators push talks with US",
+        "link": "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Norris snatches Hungarian GP pole from Hamilton",
-        "link": "https://www.skysports.com/f1/news/12040/13566873/hungarian-gp-qualifying-lando-norris-snatches-pole-from-lewis-hamilton-in-dramatic-finale-as-max-verstappen-spins"
+        "title": "Shin closes in on first LPGA title in over a decade at Women's Scottish Open",
+        "link": "https://www.skysports.com/golf/news/12040/13566991/isps-handa-womens-scottish-open-jenny-shin-closes-in-on-first-lpga-title-in-over-a-decade"
       },
       {
-        "title": "Arsenal exploring deal for Real Madrid's Vinicius Jr",
-        "link": "https://www.skysports.com/football/news/12040/13566893/vinicius-jr-transfer-news-arsenal-exploring-deal-for-real-madrid-and-brazil-forward"
+        "title": "Marsh and Lawrence help SunRisers overcome Brave in The Hundred",
+        "link": "https://www.skysports.com/cricket/news/12040/13566986/the-hundred-mitchell-marsh-and-dan-lawrence-set-sunrisers-leeds-on-course-for-five-run-win-over-southern-brave"
       },
       {
-        "title": "Kalpana defeats Calandagan in King George battle",
-        "link": "https://www.skysports.com/racing/news/12040/13566848/ascot-kalpana-defeats-calandagan-in-king-george-vi-and-queen-elizabeth-stakes-battle"
+        "title": "49ers coach Shanahan hurt in a car crash",
+        "link": "https://www.skysports.com/nfl/news/12040/13566967/kyle-shanahan-san-francisco-49ers-coach-injured-in-car-crash-that-will-limit-his-participation-at-start-of-training-camp"
       },
       {
-        "title": "Hungarian Grand Prix | Qualifying Highlights",
-        "link": "https://www.skysports.com/watch/video/13566925/hungarian-grand-prix-qualifying-highlights"
+        "title": "Russell forced to change power unit for Hungarian GP after water leak",
+        "link": "https://www.skysports.com/f1/news/12040/13566876/hungarian-gp-george-russell-forced-to-change-mercedes-power-unit-after-water-leak-in-qualifying"
       }
     ],
     "pitchfork": [],
@@ -171,38 +171,38 @@
     ],
     "variety": [
       {
-        "title": "\u2018Lucky Lu\u2019 Leads Winners at MIFFest\u2019s Malaysia Golden Global Awards",
-        "link": "https://variety.com/2026/film/festivals/lucky-lu-miffest-malaysia-golden-global-awards-winners-2026-1236820969/"
+        "title": "\u2018Love Island USA\u2019 Contestant Kenzie Slams Rumors That She\u2019s a Trump Supporter \u2018Just Because I\u2019m Blonde and White\u2019: \u2018F\u2014 the F\u2014 Off!\u2019",
+        "link": "https://variety.com/2026/tv/news/love-island-usa-kenzie-denies-trump-supporter-rumors-1236821061/"
       },
       {
-        "title": "Box Office: \u2018The Odyssey\u2019 Holds Strong With $25 Million on Friday",
-        "link": "https://variety.com/2026/film/box-office/box-office-the-odyssey-moana-toy-story-5-1236820845/"
+        "title": "\u2018Futurama\u2019 to Release Three New Supersized Specials, Including a Christmas Episode, Starting Next Year on Hulu",
+        "link": "https://variety.com/2026/tv/news/futurama-three-new-supersized-specials-hulu-comic-con-1236821009/"
       },
       {
-        "title": "Pamela Anderson Shines in \u2018Rosebush Pruning,\u2019 the Year\u2019s Most Twisted Movie: \u2018I Like Stirring It Up\u2019",
-        "link": "https://variety.com/2026/film/features/pamela-anderson-rosebush-pruning-incest-fascism-seth-rogen-1236820884/"
+        "title": "\u2018Bob\u2019s Burgers\u2019 to Unveil New Holiday Short \u2018On the Fort Day of Christmas\u2019 This Year on Hulu",
+        "link": "https://variety.com/2026/tv/news/bobs-burgers-short-on-the-fort-day-of-christmas-hulu-1236820701/"
       },
       {
-        "title": "Josh Sapan on Life After AMC Networks and Championing Disability on Screen: \u2018Neurodivergent Artists Just Bring Something Unique in How They See the World\u2019",
-        "link": "https://variety.com/2026/biz/news/josh-sapan-life-after-amc-networks-championing-disability-1236820906/"
+        "title": "\u2018Brunello: The Gracious Visionary\u2019 Review: Giuseppe Tornatore\u2019s Seductive Hagiography of a Fashion Legend",
+        "link": "https://variety.com/2026/film/reviews/brunello-the-gracious-visionary-review-1236821018/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Luke Bracey Embraces Pa\u2019s Faults in \u2018Little House on the Prairie\u2019: \u201cWe Didn\u2019t Want Him to Be Perfect\u201d",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/little-house-on-the-prairie-luke-bracey-season-1-interview-1236656297/"
+        "title": "The \u201cVegan Vampire\u201d Tick Terrorizing Martha\u2019s Vineyard",
+        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/vegan-vampire-tick-marthas-vineyard-1236653245/"
       },
       {
-        "title": "All of the Guest Stars and Cameos on HBO Max\u2019s \u2018Life, Larry and the Pursuit of Unhappiness\u2019 (So Far)",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/larry-and-the-pursuit-of-unhappiness-guest-stars-cameos-1236651445/"
+        "title": "MrBeast\u2019s Newest Battle: Granting Wishes for Kids Battling Cancer (With Assist From LeBron James)",
+        "link": "https://www.hollywoodreporter.com/news/general-news/mrbeast-lebron-james-kids-cancer-youtube-video-campaign-1236656389/"
       },
       {
-        "title": "\u2018Widow\u2019s Bay\u2019 Creator on Writing Season 2 After Buzzy Launch: \u201cI Learned a Lot About What You Don\u2019t Need\u201d",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/widows-bay-creator-season-2-katie-dippold-lessons-1236656424/"
+        "title": "How Bravo Struck Gold With \u2018The\u00a0Real Housewives of Rhode Island\u2019",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/bravo-real-housewives-of-rhode-island-bravo-feature-1236624302/"
       },
       {
-        "title": "President Trump Roasts Media at Rescheduled, Pared-Down White House Correspondents\u2019 Dinner",
-        "link": "https://www.hollywoodreporter.com/news/general-news/trump-white-house-correspondents-dinner-roasts-media-1236656443/"
+        "title": "WNBA on Sling TV: Here\u2019s How to Watch the 2026 WNBA All-Star Game Live Online",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-wnba-all-star-game-2026-live-online-free-1236654251/"
       }
     ],
     "larb": [],
