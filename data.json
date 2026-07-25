@@ -1,7 +1,11 @@
 {
-  "last_updated": "2026-07-25 18:57 UTC",
+  "last_updated": "2026-07-25 21:47 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Several injured at Berlin Pride after reports vehicle drove into crowd, police say",
+        "link": "https://www.bbc.co.uk/news/articles/clyqzylz3zno?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Police investigate donations by Tice company to Reform UK",
         "link": "https://www.bbc.co.uk/news/articles/c5yv4r5g55do?at_medium=RSS&at_campaign=rss"
@@ -13,47 +17,43 @@
       {
         "title": "Tourists tell BBC how their holiday turned into race to escape fires",
         "link": "https://www.bbc.co.uk/news/articles/c80ny93xlrvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Cairngorm residents say wildfire response 'too slow' ",
-        "link": "https://www.bbc.co.uk/news/articles/cdewlpgnlx6o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Ebola deaths in DRC surge past 1,300 as virus \u2018spreading like a wildfire\u2019",
-        "link": "https://www.aljazeera.com/news/2026/7/25/ebola-deaths-in-drc-surge-past-1300-as-virus-spreading-like-a-wildfire?traffic_source=rss"
+        "title": "Israeli forces tear gas journalists reporting Nablus shootout",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-tear-gas-journalists-reporting-nablus-shootout?traffic_source=rss"
       },
       {
-        "title": "How Netanyahu gov\u2019t media reforms risk deepening Israeli press bias",
-        "link": "https://www.aljazeera.com/news/2026/7/25/how-netanyahu-govt-media-reforms-risk-deepening-israeli-press-bias?traffic_source=rss"
+        "title": "How India\u2019s \u2018Cockroach\u2019 protesters shook the Modi government",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/how-indias-cockroach-protesters-shook-the-modi-government?traffic_source=rss"
       },
       {
-        "title": "Why Epstein\u2019s survivors are still fighting",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/why-epsteins-survivors-are-still-fighting?traffic_source=rss"
+        "title": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
+        "link": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss"
       },
       {
-        "title": "Iran\u2019s government spars with state TV as mediators push talks with US",
-        "link": "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss"
+        "title": "At least 35 killed after two buses collide in eastern Syria",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/at-least-35-killed-after-two-buses-collide-in-eastern-syria?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Shin closes in on first LPGA title in over a decade at Women's Scottish Open",
-        "link": "https://www.skysports.com/golf/news/12040/13566991/isps-handa-womens-scottish-open-jenny-shin-closes-in-on-first-lpga-title-in-over-a-decade"
+        "title": "Papers: Chelsea's Neto emerges as target for Man City and Maresca",
+        "link": "https://www.skysports.com/football/news/12040/13566990/chelsea160winger-pedro-neto-among-names-on160manchester-citys-radar-as-they-formulate-list-of-wing-targets-papers-talk"
       },
       {
-        "title": "Marsh and Lawrence help SunRisers overcome Brave in The Hundred",
-        "link": "https://www.skysports.com/cricket/news/12040/13566986/the-hundred-mitchell-marsh-and-dan-lawrence-set-sunrisers-leeds-on-course-for-five-run-win-over-southern-brave"
+        "title": "Norris in 'new man's land' as 'frustrated' Hamilton plots penalty fightback",
+        "link": "https://www.skysports.com/f1/news/12040/13566877/hungarian-gp-lando-norris-jokes-mclaren-are-in-new-mans-land-as-lewis-hamilton-kimi-antonelli-plot-fightbacks"
       },
       {
-        "title": "49ers coach Shanahan hurt in a car crash",
-        "link": "https://www.skysports.com/nfl/news/12040/13566967/kyle-shanahan-san-francisco-49ers-coach-injured-in-car-crash-that-will-limit-his-participation-at-start-of-training-camp"
+        "title": "England women ramp up Rugby League World Cup preparations with win in France",
+        "link": "https://www.skysports.com/rugby-league/news/12040/13566994/england-women-ramp-up-preparations-for-rugby-league-world-cup-with-win-against-france-in-toulouse"
       },
       {
-        "title": "Russell forced to change power unit for Hungarian GP after water leak",
-        "link": "https://www.skysports.com/f1/news/12040/13566876/hungarian-gp-george-russell-forced-to-change-mercedes-power-unit-after-water-leak-in-qualifying"
+        "title": "Joshua vs Prenga LIVE! AJ aims to stay on course for Fury showdown",
+        "link": "https://www.skysports.com/boxing/live-blog/12040/13566969/anthony-joshua-vs-kristian-prenga-live-updates-from-jeddah-as-aj-prepares-for-likely-showdown-with-tyson-fury"
       }
     ],
     "pitchfork": [],
@@ -171,38 +171,38 @@
     ],
     "variety": [
       {
-        "title": "\u2018Love Island USA\u2019 Contestant Kenzie Slams Rumors That She\u2019s a Trump Supporter \u2018Just Because I\u2019m Blonde and White\u2019: \u2018F\u2014 the F\u2014 Off!\u2019",
-        "link": "https://variety.com/2026/tv/news/love-island-usa-kenzie-denies-trump-supporter-rumors-1236821061/"
+        "title": "\u2018Sour Minnows\u2019 Is the Surreal Body Snatching Comedy That Mystified and Delighted Its Premiere Audience \u2014\u00a0Fantasia",
+        "link": "https://variety.com/2026/film/features/sour-minnows-surreal-body-snatching-comedy-fantasia-fest-1236821014/"
       },
       {
-        "title": "\u2018Futurama\u2019 to Release Three New Supersized Specials, Including a Christmas Episode, Starting Next Year on Hulu",
-        "link": "https://variety.com/2026/tv/news/futurama-three-new-supersized-specials-hulu-comic-con-1236821009/"
+        "title": "\u2018Matchbox\u2019 Trailer: John Cena Stars in Toy Car Action Movie From Apple TV",
+        "link": "https://variety.com/2026/film/news/matchbox-trailer-john-cena-toy-cars-apple-1236645191/"
       },
       {
-        "title": "\u2018Bob\u2019s Burgers\u2019 to Unveil New Holiday Short \u2018On the Fort Day of Christmas\u2019 This Year on Hulu",
-        "link": "https://variety.com/2026/tv/news/bobs-burgers-short-on-the-fort-day-of-christmas-hulu-1236820701/"
+        "title": "\u2018Avatar Aang\u2019 Team Reveals More Spinoffs in the Works, Nearly Making Katara Pregnant and Why Fans Shouldn\u2019t Watch the \u2018Dark Web\u2019 Leak",
+        "link": "https://variety.com/2026/film/news/avatar-aang-spinoffs-katara-pregnant-leak-1236814886/"
       },
       {
-        "title": "\u2018Brunello: The Gracious Visionary\u2019 Review: Giuseppe Tornatore\u2019s Seductive Hagiography of a Fashion Legend",
-        "link": "https://variety.com/2026/film/reviews/brunello-the-gracious-visionary-review-1236821018/"
+        "title": "\u2018Family Guy\u2019 Casts Kieran Culkin to Play the Devil in New Halloween Special for Hulu",
+        "link": "https://variety.com/2026/tv/news/family-guy-kieran-culkin-devil-halloween-special-hulu-1236820678/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "The \u201cVegan Vampire\u201d Tick Terrorizing Martha\u2019s Vineyard",
-        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/vegan-vampire-tick-marthas-vineyard-1236653245/"
+        "title": "\u2018Big Brother\u2019 Season 28 Cast Revealed: \u2018RuPaul\u2019s Drag Race\u2019 Alum, Rocket Scientist, MMA Fighter and More",
+        "link": "https://www.hollywoodreporter.com/lists/big-brother-season-28-cast/"
       },
       {
-        "title": "MrBeast\u2019s Newest Battle: Granting Wishes for Kids Battling Cancer (With Assist From LeBron James)",
-        "link": "https://www.hollywoodreporter.com/news/general-news/mrbeast-lebron-james-kids-cancer-youtube-video-campaign-1236656389/"
+        "title": "\u2018Beneath the Trees Where Nobody Sees\u2019 Final Act Gets Title and Cover (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/news/general-news/beneath-the-trees-where-nobody-sees-final-act-title-cover-1236656525/"
       },
       {
-        "title": "How Bravo Struck Gold With \u2018The\u00a0Real Housewives of Rhode Island\u2019",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/bravo-real-housewives-of-rhode-island-bravo-feature-1236624302/"
+        "title": "Hudson Williams and Carrie-Anne Moss Star in Equal Parts Steamy and Spooky \u2018Yaga\u2019 Teaser",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/yaga-amc-crave-teaser-hudson-williams-carrie-anne-moss-1236656478/"
       },
       {
-        "title": "WNBA on Sling TV: Here\u2019s How to Watch the 2026 WNBA All-Star Game Live Online",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-wnba-all-star-game-2026-live-online-free-1236654251/"
+        "title": "Katy Perry Slams White House for Using \u201cFirework\u201d in Military Strikes Video: \u201cI Am Deeply Appalled\u201d",
+        "link": "https://www.hollywoodreporter.com/music/music-news/katy-perry-white-house-firework-military-strikes-video-1236656524/"
       }
     ],
     "larb": [],
