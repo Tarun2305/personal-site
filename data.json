@@ -1,64 +1,81 @@
 {
-  "last_updated": "2026-07-25 13:08 UTC",
+  "last_updated": "2026-07-25 15:58 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Fleeing a wall of flames: Tourists describe France wildfires escape",
+        "title": "Tourists tell BBC how their holiday turned into race to escape fires",
         "link": "https://www.bbc.co.uk/news/articles/c80ny93xlrvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "How the mystery of dead animals dumped in villages led to a hidden world of illegal hunts",
-        "link": "https://www.bbc.co.uk/news/articles/cd7ldjrl2reo?at_medium=RSS&at_campaign=rss"
+        "title": "Police declare 'major incident' over Cairngorms wildfire",
+        "link": "https://www.bbc.co.uk/news/articles/c2k7g15v3epo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Laura Kuenssberg goes behind the scenes with Andy Burnham in his first week as PM",
         "link": "https://www.bbc.co.uk/news/videos/c0l51y7k0wwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Police declare 'major incident' over Cairngorms wildfire",
-        "link": "https://www.bbc.co.uk/news/articles/c2k7g15v3epo?at_medium=RSS&at_campaign=rss"
+        "title": "Sean McCann, Madeleine's brother, makes Commonwealths final",
+        "link": "https://www.bbc.co.uk/sport/swimming/articles/c4gw7pzg70yo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Iran blames US for Hormuz dispute as both sides confirm ongoing talks",
-        "link": "https://www.aljazeera.com/news/2026/7/25/iran-blames-us-for-hormuz-dispute-as-both-sides-confirm-ongoing-talks?traffic_source=rss"
+        "title": "The Global South is being forced to choose creditors over children",
+        "link": "https://www.aljazeera.com/opinions/2026/7/25/the-global-south-is-being-forced-to-choose-creditors-over-children?traffic_source=rss"
       },
       {
-        "title": "Baby rescued after Israeli settlers set home on fire amid raids",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/baby-rescued-after-israeli-settlers-set-home-on-fire-amid-raids?traffic_source=rss"
+        "title": "Atletico Madrid sign South Korea World Cup star Lee Kang-In from PSG",
+        "link": "https://www.aljazeera.com/sports/2026/7/25/atletico-madrid-sign-south-korea-world-cup-star-lee-kang-in-from-psg?traffic_source=rss"
       },
       {
-        "title": "At least 11 killed in Ukrainian and Russian strikes as holiday camp hit",
-        "link": "https://www.aljazeera.com/news/2026/7/25/at-least-11-killed-in-ukrainian-and-russian-strikes-as-holiday-camp-hit?traffic_source=rss"
+        "title": "War on Iran: Phase II: Day 14",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/war-on-iran-phase-ii-day-14?traffic_source=rss"
       },
       {
-        "title": "Trump faces backlash for using \u2018Palestinian\u2019 as an insult",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/trump-faces-backlash-for-using-palestinian-as-an-insult?traffic_source=rss"
+        "title": "F1 needs better balance between business and sport, says Norris",
+        "link": "https://www.aljazeera.com/sports/2026/7/25/f1-needs-better-balance-between-business-and-sport-says-norris?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Norris puts upgraded McLaren on top from Hamilton in final practice",
-        "link": "https://www.skysports.com/f1/news/12040/13566869/hungarian-gp-lando-norris-fastest-in-final-practice-for-mclaren-ahead-of-lewis-hamilton-and-kimi-antonelli-at-hungaroring"
+        "title": "Norris snatches Hungarian GP pole from Hamilton",
+        "link": "https://www.skysports.com/f1/news/12040/13566873/hungarian-gp-qualifying-lando-norris-snatches-pole-from-lewis-hamilton-in-dramatic-finale-as-max-verstappen-spins"
       },
       {
-        "title": "Fury vs AJ moves step closer to being in USA over UK",
-        "link": "https://www.skysports.com/boxing/news/12040/13566854/tyson-fury-vs-anthony-joshua-proposed-heavyweight-super-fight-moves-step-closer-to-being-in-usa-over-uk"
+        "title": "Arsenal exploring deal for Real Madrid's Vinicius Jr",
+        "link": "https://www.skysports.com/football/news/12040/13566893/vinicius-jr-transfer-news-arsenal-exploring-deal-for-real-madrid-and-brazil-forward"
       },
       {
-        "title": "'People do not just fail to turn up' - Woking hit back at Defoe after exit",
-        "link": "https://www.skysports.com/football/news/12040/13566844/jermain-defoe-woking-claim-former-england-and-tottenham-striker-didnt-turn-up-for-meeting-and-training-before-shock-exit"
+        "title": "Kalpana defeats Calandagan in King George battle",
+        "link": "https://www.skysports.com/racing/news/12040/13566848/ascot-kalpana-defeats-calandagan-in-king-george-vi-and-queen-elizabeth-stakes-battle"
       },
       {
-        "title": "Hungarian GP: Norris hits the front ahead of Hamilton in final practice LIVE!",
-        "link": "https://www.skysports.com/f1/live-blog/12040/13566060/f1-hungarian-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-at-hungaroring-in-budapest"
+        "title": "Hungarian Grand Prix | Qualifying Highlights",
+        "link": "https://www.skysports.com/watch/video/13566925/hungarian-grand-prix-qualifying-highlights"
       }
     ],
     "pitchfork": [],
     "quietus": [],
-    "aquariumdrunkard": [],
+    "aquariumdrunkard": [
+      {
+        "title": "The Babe Rainbow :: Acid and Honey",
+        "link": "https://aquariumdrunkard.com/2026/07/24/the-babe-rainbow-acid-and-honey/"
+      },
+      {
+        "title": "Ryuichi Sakamoto :: Beauty",
+        "link": "https://aquariumdrunkard.com/2026/07/23/ryuichi-sakamoto-beauty/"
+      },
+      {
+        "title": "No Endtroducing: DJ Shadow\u2019s Debut at 30",
+        "link": "https://aquariumdrunkard.com/2026/07/22/no-endtroducing-dj-shadows-debut-at-30/"
+      },
+      {
+        "title": "The Afterlives of Dub, 1995-2025 (A Mixtape)",
+        "link": "https://aquariumdrunkard.com/2026/07/22/the-afterlives-of-dub-1995-2025-a-mixtape/"
+      }
+    ],
     "bfi": [],
     "criterion": [],
     "rogerebert": [
@@ -154,23 +171,27 @@
     ],
     "variety": [
       {
-        "title": "Nike Releases New Air Jordan 4 Retro \u2018Comic\u2019 Sneakers: Here\u2019s Where To Shop a Pair Online",
-        "link": "https://variety.com/2026/shopping/news/where-to-buy-nike-air-jordan-4-retro-comic-shop-online-1236819166/"
+        "title": "\u2018Lucky Lu\u2019 Leads Winners at MIFFest\u2019s Malaysia Golden Global Awards",
+        "link": "https://variety.com/2026/film/festivals/lucky-lu-miffest-malaysia-golden-global-awards-winners-2026-1236820969/"
       },
       {
-        "title": "Trump Says White House Correspondents\u2019 Dinner Is \u2018Largest Group of Trump Derangement Syndrome People Ever Put Together at One Time\u2019",
-        "link": "https://variety.com/2026/tv/news/trump-white-house-correspondents-dinner-remarks-1236820779/"
+        "title": "Box Office: \u2018The Odyssey\u2019 Holds Strong With $25 Million on Friday",
+        "link": "https://variety.com/2026/film/box-office/box-office-the-odyssey-moana-toy-story-5-1236820845/"
       },
       {
-        "title": "Guillermo del Toro Says There Is \u2018Absolutely No Goddamn AI\u2019 in \u2018Pan\u2019s Labyrinth\u2019 3D Re-Release: \u2018We\u2019re Protecting a Lineage of Art\u2019",
-        "link": "https://variety.com/2026/film/news/guillermo-del-toro-no-ai-pans-labyrinth-rerelease-1236815109/"
+        "title": "Pamela Anderson Shines in \u2018Rosebush Pruning,\u2019 the Year\u2019s Most Twisted Movie: \u2018I Like Stirring It Up\u2019",
+        "link": "https://variety.com/2026/film/features/pamela-anderson-rosebush-pruning-incest-fascism-seth-rogen-1236820884/"
       },
       {
-        "title": "Nick Hakim\u2019s \u2018I Can See\u2019 Is a Hazy Alt-R&B Masterpiece: Album Review",
-        "link": "https://variety.com/2026/music/reviews/nick-hakim-i-can-see-masterpiece-album-review-1236818633/"
+        "title": "Josh Sapan on Life After AMC Networks and Championing Disability on Screen: \u2018Neurodivergent Artists Just Bring Something Unique in How They See the World\u2019",
+        "link": "https://variety.com/2026/biz/news/josh-sapan-life-after-amc-networks-championing-disability-1236820906/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "Luke Bracey Embraces Pa\u2019s Faults in \u2018Little House on the Prairie\u2019: \u201cWe Didn\u2019t Want Him to Be Perfect\u201d",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/little-house-on-the-prairie-luke-bracey-season-1-interview-1236656297/"
+      },
       {
         "title": "All of the Guest Stars and Cameos on HBO Max\u2019s \u2018Life, Larry and the Pursuit of Unhappiness\u2019 (So Far)",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/larry-and-the-pursuit-of-unhappiness-guest-stars-cameos-1236651445/"
@@ -182,10 +203,6 @@
       {
         "title": "President Trump Roasts Media at Rescheduled, Pared-Down White House Correspondents\u2019 Dinner",
         "link": "https://www.hollywoodreporter.com/news/general-news/trump-white-house-correspondents-dinner-roasts-media-1236656443/"
-      },
-      {
-        "title": "Morgan Stewart on Wave of Home Burglaries in L.A.: \u201cEveryone I Know Has Gotten Robbed\u201d",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/la-crime-home-robberies-celebrities-morgan-stewart-jake-shane-1236656427/"
       }
     ],
     "larb": [],
