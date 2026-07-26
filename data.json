@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-07-26 02:06 UTC",
+  "last_updated": "2026-07-26 05:53 UTC",
   "feeds": {
     "bbc": [
       {
+        "title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
+        "link": "https://www.bbc.co.uk/news/articles/clye651yzdjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Andy Burnham rules out early election in exclusive BBC interview",
+        "link": "https://www.bbc.co.uk/news/videos/c935kzyq6r4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Police investigate donations by Tice company to Reform UK",
         "link": "https://www.bbc.co.uk/news/articles/c5yv4r5g55do?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "More than 300,000 flee wildfires in France and Spain",
-        "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Tourists tell BBC how their holiday turned into race to escape fires",
-        "link": "https://www.bbc.co.uk/news/articles/c80ny93xlrvo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "What Love Island tells us about the changing face of dating",
@@ -21,20 +21,20 @@
     ],
     "aljazeera": [
       {
-        "title": "Yemen\u2019s Houthis target Saudi oil facilities along the Red Sea",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/yemens-houthis-target-saudi-oil-facilities-along-the-red-sea?traffic_source=rss"
+        "title": "House of Hope: New film follows a Waldorf-inspired school in the West Bank",
+        "link": "https://www.aljazeera.com/news/2026/7/26/house-of-hope-new-film-follows-a-waldorf-inspired-school-in-the-west-bank?traffic_source=rss"
       },
       {
-        "title": "Bolsonaro\u2019s son begins Brazil presidential bid with Netanyahu, Milei kudos",
-        "link": "https://www.aljazeera.com/news/2026/7/26/bolsonaros-son-begins-brazil-presidential-bid-with-netanyahu-milei-kudos?traffic_source=rss"
+        "title": "Typhoon Noul makes landfall in China, with hundreds of thousands evacuated",
+        "link": "https://www.aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Tehran summons Ukraine diplomats over Caspian Sea attack",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss"
+        "title": "https://drive.google.com/drive/folders/17KZlAAj-H_rMiqJSrup6WfcERG75cAjR?us",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/https-drive-google-com-drive-folders-17kzlaaj?traffic_source=rss"
       },
       {
-        "title": "What\u2019s behind the Israeli crackdown in the occupied West Bank?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/7/25/whats-behind-the-israeli-crackdown-in-the-occupied-west-bank?traffic_source=rss"
+        "title": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
+        "link": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -80,6 +80,10 @@
     "criterion": [],
     "rogerebert": [
       {
+        "title": "What Could Have Been: Kaylee Hottle (2007-2026)",
+        "link": "https://www.rogerebert.com/tributes/what-could-have-been-kaylee-hottle-2007-2026"
+      },
+      {
         "title": "With \u201cThe Odyssey,\u201d Christopher Nolan Has Crafted The Best Horror Film of The Year",
         "link": "https://www.rogerebert.com/features/with-the-odyssey-christopher-nolan-has-crafted-the-best-horror-film-of-the-year"
       },
@@ -90,10 +94,6 @@
       {
         "title": "Netflix\u2019s \u201cRansom Canyon\u201d Turns Up the Soapy Drama in Serviceable Second Season",
         "link": "https://www.rogerebert.com/streaming/netflixs-ransom-canyon-turns-up-the-soapy-drama-in-serviceable-second-season"
-      },
-      {
-        "title": "Cinema is My Calling Again: Nicolas Winding Refn on \u201cHer Private Hell\u201d",
-        "link": "https://www.rogerebert.com/interviews/cinema-is-my-calling-again-nicolas-winding-refn-on-her-private-hell"
       }
     ],
     "filmcomment": [
@@ -171,38 +171,38 @@
     ],
     "variety": [
       {
+        "title": "Marvel\u2019s Comic-Con Panel Excites Fans for \u2018Doomsday\u2019 but Leaves Them Cautiously Optimistic About What\u2019s Beyond",
+        "link": "https://variety.com/2026/film/news/marvel-comic-con-doomsday-ghost-rider-black-panther-1236821335/"
+      },
+      {
+        "title": "Winston Duke Trusts David Jonsson to Take On \u2018Black Panther\u2019: \u2018I Think It\u2019s Going to Be Great\u2019",
+        "link": "https://variety.com/2026/film/news/winston-duke-david-jonsson-black-panther-3-1236821351/"
+      },
+      {
         "title": "\u2018Black Panther 3\u2019: David Jonsson to Play T\u2019Challa\u2019s Son as December 2028 Release Date Set",
         "link": "https://variety.com/2026/film/news/black-panther-3-december-2028-release-david-jonsson-1236083370/"
       },
       {
         "title": "\u2018Avengers: Doomsday\u2019 Trailer Rocks Comic-Con: Doctor Doom Raises Army of Sentinels to Take Down Avengers, Fantastic Four and X-Men",
         "link": "https://variety.com/2026/film/news/avengers-doomsday-new-trailer-comic-con-1236817677/"
-      },
-      {
-        "title": "\u2018Coyote vs. Acme\u2019 Director and Star Lana Condor on Finally Showing Their Film to the Fans at Comic-Con: \u2018The Fight Was For a Good Reason\u2019",
-        "link": "https://variety.com/2026/film/news/coyote-vs-acme-director-lana-condor-public-screening-fans-comic-con-1236821209/"
-      },
-      {
-        "title": "Ryan Gosling to Star in Marvel\u2019s Ghost Rider Movie",
-        "link": "https://variety.com/2026/film/news/ryan-gosling-ghost-rider-marvel-movie-1236821206/"
       }
     ],
     "hollywoodreporter": [
       {
+        "title": "The Doom Boom: Marvel Studios Brings \u2018Doomsday\u2019 and More to Its Most Crowded Comic-Con Panel Ever",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/marvel-studios-doomsday-comic-con-panel-recap-1236656358/"
+      },
+      {
+        "title": "Ryan Reynolds\u2019 Deadpool Crashes Comic-Con to Beg for \u2018Avengers: Doomsday\u2019 Role",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/ryan-reynolds-deadpool-avengers-doomsday-comic-con-1236656648/"
+      },
+      {
+        "title": "Warner Bros. Sues Amazon, Accusing Company of \u201cSeeking to Pirate Away Employees\u201d",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/warner-bros-amazon-lawsuit-pirate-away-employees-pia-barlow-1236656642/"
+      },
+      {
         "title": "\u2018Black Panther 3\u2019: David Jonsson to Star as T\u2019Challa\u2019s Son, Sequel Set for 2028",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/black-panther-3-marvel-ryan-coogler-comic-con-1236656570/"
-      },
-      {
-        "title": "Ryan Gosling to Star in Ghost Rider Movie for Marvel Studios, Director Shawn Levy",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/ryan-gosling-ghost-rider-for-marvel-studios-1236656560/"
-      },
-      {
-        "title": "Prime Video Unveils Teaser, Release Date for Mike Flanagan\u2019s \u2018Carrie\u2019 Series",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/prime-video-carrie-series-teaser-trailer-1236655407/"
-      },
-      {
-        "title": "John Cena Races to Find a Nuclear Warhead in \u2018Matchbox the Movie\u2019 Trailer",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/john-cena-matchbox-the-movie-trailer-watch-1236656615/"
       }
     ],
     "larb": [],
