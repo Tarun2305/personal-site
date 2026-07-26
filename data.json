@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26 05:53 UTC",
+  "last_updated": "2026-07-26 08:13 UTC",
   "feeds": {
     "bbc": [
       {
@@ -11,8 +11,8 @@
         "link": "https://www.bbc.co.uk/news/videos/c935kzyq6r4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Police investigate donations by Tice company to Reform UK",
-        "link": "https://www.bbc.co.uk/news/articles/c5yv4r5g55do?at_medium=RSS&at_campaign=rss"
+        "title": "France battles fire 'whirlwinds' as another 55,000 evacuated ",
+        "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "What Love Island tells us about the changing face of dating",
@@ -21,39 +21,39 @@
     ],
     "aljazeera": [
       {
+        "title": "Israeli settlers set fire to mosque in occupied West Bank",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-settlers-set-fire-to-mosque-in-occupied-west-bank?traffic_source=rss"
+      },
+      {
+        "title": "Cape Verde World Cup star Vozinha agrees deal with Chile\u2019s Colo Colo",
+        "link": "https://www.aljazeera.com/sports/2026/7/26/cape-verde-world-cup-star-vozinha-agrees-deal-with-chiles-colo-colo?traffic_source=rss"
+      },
+      {
+        "title": "Joshua comes back twice to knock out Prenga and set up Fury showdown",
+        "link": "https://www.aljazeera.com/sports/2026/7/26/joshua-comes-back-twice-to-knock-out-prenga-and-set-up-fury-showdown?traffic_source=rss"
+      },
+      {
         "title": "House of Hope: New film follows a Waldorf-inspired school in the West Bank",
         "link": "https://www.aljazeera.com/news/2026/7/26/house-of-hope-new-film-follows-a-waldorf-inspired-school-in-the-west-bank?traffic_source=rss"
-      },
-      {
-        "title": "Typhoon Noul makes landfall in China, with hundreds of thousands evacuated",
-        "link": "https://www.aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated?traffic_source=rss"
-      },
-      {
-        "title": "https://drive.google.com/drive/folders/17KZlAAj-H_rMiqJSrup6WfcERG75cAjR?us",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/https-drive-google-com-drive-folders-17kzlaaj?traffic_source=rss"
-      },
-      {
-        "title": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
-        "link": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Real Madrid in pole position to sign RB Leipzig's Diomande",
+        "link": "https://www.skysports.com/football/news/12040/13567039/yan-diomande-transfer-news-real-madrid-in-pole-position-for-rb-leipzig-winger-after-85m-bid-rejected"
+      },
+      {
+        "title": "Sunray Shadow and Imperial Alex clash at Uttoxeter",
+        "link": "https://www.skysports.com/racing/news/12040/13566839/today-on-sky-sports-racing-jumps-action-from-uttoxeter"
+      },
+      {
+        "title": "Impressive Liverpool beat Sunderland in Iraola's first game in charge",
+        "link": "https://www.skysports.com/football/liverpool-vs-sunderland/report/554985"
+      },
+      {
         "title": "Sheeraz escapes with narrow points win as he sets his sights on Canelo",
         "link": "https://www.skysports.com/boxing/news/12040/13567019/hamzah-sheeraz-escapes-with-narrow-points-win-while-josh-kelly-overcomes-horror-gash-to-his-nose-in-saudi-arabia"
-      },
-      {
-        "title": "In-form Leigh close in on top four of Super League",
-        "link": "https://www.skysports.com/rugby-league/news/12040/13566959/super-league-in-form-leigh-close-in-on-top-four-with-victory-against-warrington-as-huddersfield-end-12-game-wait-for-win"
-      },
-      {
-        "title": "Joshua devotes win to late friends as 'lovely treat' of Fury fight looms",
-        "link": "https://www.skysports.com/boxing/news/12040/13567030/anthony-joshua-remembers-late-friends-after-win-over-kristian-prenga-sets-up-tyson-fury-fight-and-lovely-treat-for-fans"
-      },
-      {
-        "title": "Papers: Chelsea's Neto emerges as target for Man City and Maresca",
-        "link": "https://www.skysports.com/football/news/12040/13566990/chelsea160winger-pedro-neto-among-names-on160manchester-citys-radar-as-they-formulate-list-of-wing-targets-papers-talk"
       }
     ],
     "pitchfork": [],
@@ -171,6 +171,10 @@
     ],
     "variety": [
       {
+        "title": "PBS SoCal, KMEX Lead L.A. Local Emmy Wins; KVEA, KABC Land Top Newscast Prizes",
+        "link": "https://variety.com/2026/tv/news/la-local-emmy-winners-pbs-socal-leads-kvea-kabc-1236821371/"
+      },
+      {
         "title": "Marvel\u2019s Comic-Con Panel Excites Fans for \u2018Doomsday\u2019 but Leaves Them Cautiously Optimistic About What\u2019s Beyond",
         "link": "https://variety.com/2026/film/news/marvel-comic-con-doomsday-ghost-rider-black-panther-1236821335/"
       },
@@ -181,10 +185,6 @@
       {
         "title": "\u2018Black Panther 3\u2019: David Jonsson to Play T\u2019Challa\u2019s Son as December 2028 Release Date Set",
         "link": "https://variety.com/2026/film/news/black-panther-3-december-2028-release-david-jonsson-1236083370/"
-      },
-      {
-        "title": "\u2018Avengers: Doomsday\u2019 Trailer Rocks Comic-Con: Doctor Doom Raises Army of Sentinels to Take Down Avengers, Fantastic Four and X-Men",
-        "link": "https://variety.com/2026/film/news/avengers-doomsday-new-trailer-comic-con-1236817677/"
       }
     ],
     "hollywoodreporter": [
