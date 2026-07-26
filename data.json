@@ -1,7 +1,11 @@
 {
-  "last_updated": "2026-07-26 13:04 UTC",
+  "last_updated": "2026-07-26 15:56 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "What we know so far about the Berlin Pride ramming attack",
+        "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
         "link": "https://www.bbc.co.uk/news/articles/clye651yzdjo?at_medium=RSS&at_campaign=rss"
@@ -11,49 +15,45 @@
         "link": "https://www.bbc.co.uk/news/videos/c935kzyq6r4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Water supply issue affects Gatwick Airport",
+        "title": "Gatwick Airport left without running water after major outage",
         "link": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-        "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "President Ahmed al-Sharaa: Syria seeking security deal with Israel",
-        "link": "https://www.aljazeera.com/news/2026/7/26/president-ahmed-al-sharaa-syria-seeking-security-deal-with-israel?traffic_source=rss"
+        "title": "Senator Whitehouse: Netanyahu a \u2018walking provocation\u2019 for Americans",
+        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/7/26/senator-whitehouse-netanyahu-a-walking-provocation-for-americans?traffic_source=rss"
       },
       {
-        "title": "What is the AI Kill Switch Act proposed in the US and how will it work?",
-        "link": "https://www.aljazeera.com/news/2026/7/26/what-is-the-ai-kill-switch-act-proposed-in-the-us-and-how-will-it-work?traffic_source=rss"
+        "title": "Lando Norris wins Hungarian Grand Prix for first F1 triumph in 2026",
+        "link": "https://www.aljazeera.com/sports/2026/7/26/lando-norris-wins-hungarian-grand-prix-for-first-f1-triumph-in-2026?traffic_source=rss"
       },
       {
-        "title": "Casemiro makes Inter Miami debut despite MLS investigation into transfer",
-        "link": "https://www.aljazeera.com/sports/2026/7/26/casemiro-makes-inter-miami-debut-despite-mls-investigation-into-transfer?traffic_source=rss"
+        "title": "More than 360,000 evacuated as wildfires rage in France and Spain",
+        "link": "https://www.aljazeera.com/news/2026/7/26/more-than-360000-evacuated-as-wildfires-rage-in-france-and-spain?traffic_source=rss"
       },
       {
-        "title": "Iran\u2019s army issues warning ahead of Netanyahu\u2019s US visit",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/irans-army-issues-warning-ahead-of-netanyahus-us-visit?traffic_source=rss"
+        "title": "Israel carries out double tap strike in central Gaza",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Fury vs Joshua: Everything you need to know",
-        "link": "https://www.skysports.com/boxing/news/12040/13567060/tyson-fury-vs-anthony-joshua-everything-you-need-to-know-about-the-proposed-heavyweight-fight"
+        "title": "Greaves beats Sherrock to claim record third Women's Matchplay crown",
+        "link": "https://www.skysports.com/darts/news/12040/13567091/womens-world-matchplay-beau-greaves-defeats-fallon-sherrock-in-6-5-last-leg-decider-to-claim-record-third-blackpool-crown"
       },
       {
-        "title": "Women's World Matchplay LIVE! Sherrock, Ashton in action after Greaves rolls into semis",
-        "link": "https://www.skysports.com/darts/live-blog/12040/13566982/womens-world-matchplay-live-latest-updates-highlights-scores-as-beau-greaves-fallon-sherrock-chase-blackpool-title"
+        "title": "Norris wins first race of 2026 as Hamilton suffers more penalty pain",
+        "link": "https://www.skysports.com/f1/news/12040/13567065/hungarian-gp-lando-norris-wins-first-race-of-2026-formula-1-season-after-early-oscar-piastri-squabble"
       },
       {
-        "title": "Hungarian GP: Norris on pole as Hamilton, Antonelli seek fightbacks LIVE! ",
-        "link": "https://www.skysports.com/f1/live-blog/12040/13566063/f1-hungarian-gp-live-race-updates-results-stream-highlights-from-11th-round-of-2026-formula-1-season-at-hungaroring-in-budapest"
+        "title": "Sooryavanshi stars again as India knock England off top spot in T20I rankings",
+        "link": "https://www.skysports.com/cricket/news/12040/13567108/vaibhav-sooryavanshi-15-hits-another-fifty-as-india-sweep-zimbabwe-3-0-to-knock-england-off-top-spot-in-t20i-rankings"
       },
       {
-        "title": "Malaysia added to 2026 F1 calendar",
-        "link": "https://www.skysports.com/f1/news/12040/13566600/malaysia-added-to-2026-f1-calendar-in-october-to-host-postponed-bahrain-gp-amid-continued-conflict-in-middle-east"
+        "title": "Shin stutters to win in Scotland as players prepare for Women's Open",
+        "link": "https://www.skysports.com/golf/news/12040/13567114/isps-handa-womens-scottish-open-jenny-shin-stutters-to-win-as-players-including-lottie-woad-and-nelly-korda-prepare-for-aig-womens-open"
       }
     ],
     "pitchfork": [],
@@ -171,23 +171,27 @@
     ],
     "variety": [
       {
-        "title": "PBS SoCal, KMEX Lead L.A. Local Emmy Wins; KVEA, KABC Land Top Newscast Prizes",
-        "link": "https://variety.com/2026/tv/news/la-local-emmy-winners-pbs-socal-leads-kvea-kabc-1236821371/"
+        "title": "\u2018The Odyssey\u2019 Leaked on X: High-Quality Bootleg Seen by Millions in Hours Before Takedown",
+        "link": "https://variety.com/2026/film/news/the-odyssey-leaked-high-quality-bootleg-x-1236821418/"
       },
       {
-        "title": "Marvel\u2019s Comic-Con Panel Excites Fans for \u2018Doomsday\u2019 but Leaves Them Cautiously Optimistic About What\u2019s Beyond",
-        "link": "https://variety.com/2026/film/news/marvel-comic-con-doomsday-ghost-rider-black-panther-1236821335/"
+        "title": "\u2018Rick and Morty\u2019 Spinoff \u2018President Curtis\u2019 Plays It Safe, but Keeps the Sci-Fi Franchise Cruising: TV Review",
+        "link": "https://variety.com/2026/tv/reviews/president-curtis-review-rick-and-morty-spinoff-1236817266/"
       },
       {
-        "title": "Winston Duke Trusts David Jonsson to Take On \u2018Black Panther\u2019: \u2018I Think It\u2019s Going to Be Great\u2019",
-        "link": "https://variety.com/2026/film/news/winston-duke-david-jonsson-black-panther-3-1236821351/"
+        "title": "Inside \u2018Colony\u2019: \u2018Train to Busan\u2019 Director Yeon Sang-ho and Gianna Jun Discuss Their Thrilling New Take on the Zombie Movie",
+        "link": "https://variety.com/2026/film/news/colony-south-korea-yeon-sang-ho-gianna-jun-ji-hyun-zombie-movie-train-to-busan-1236821333/"
       },
       {
-        "title": "\u2018Black Panther 3\u2019: David Jonsson to Play T\u2019Challa\u2019s Son as December 2028 Release Date Set",
-        "link": "https://variety.com/2026/film/news/black-panther-3-december-2028-release-david-jonsson-1236083370/"
+        "title": "Box Office: \u2018Toy Story 5\u2019 Crosses $1 Billion, Becomes Highest-Grossing Movie of the Year",
+        "link": "https://variety.com/2026/film/box-office/toy-story-5-billion-dollar-box-office-1236818437/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "\u2018The Odyssey\u2019 Holds Strong for Big Second Weekend of $87M, Passes $600M Globally",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/the-odyssey-big-second-weekend-box-office-1236656039/"
+      },
       {
         "title": "The Doom Boom: Marvel Studios Brings \u2018Doomsday\u2019 and More to Its Most Crowded Comic-Con Panel Ever",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/marvel-studios-doomsday-comic-con-panel-recap-1236656358/"
@@ -199,10 +203,6 @@
       {
         "title": "Warner Bros. Sues Amazon, Accusing Company of \u201cSeeking to Pirate Away Employees\u201d",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/warner-bros-amazon-lawsuit-pirate-away-employees-pia-barlow-1236656642/"
-      },
-      {
-        "title": "\u2018Black Panther 3\u2019: David Jonsson to Star as T\u2019Challa\u2019s Son, Sequel Set for 2028",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/black-panther-3-marvel-ryan-coogler-comic-con-1236656570/"
       }
     ],
     "larb": [],
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "Jimothy the Raccoon Survived Against the Odds, a Testament to Sophisticated Brains and Devoted Mothers",
+        "link": "https://nautil.us/jimothy-the-raccoon-survived-against-the-odds-a-testament-to-sophisticated-brains-and-devoted-mothers-1283021/"
+      },
+      {
         "title": "Psychedelics Might Not Have Evolved to Get Humans High",
         "link": "https://nautil.us/psychedelics-might-not-have-evolved-to-get-humans-high-1283013/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "When Stupid Was a Diagnosis",
         "link": "https://nautil.us/when-stupid-was-a-diagnosis-1282984/"
-      },
-      {
-        "title": "Does This Photo from the Curiosity Rover Prove an Intense Sandstorm on Mars?",
-        "link": "https://nautil.us/does-this-photo-from-the-curiosity-rover-prove-an-intense-sandstorm-on-mars-1282997/"
       }
     ],
     "worksinprogress": [],
