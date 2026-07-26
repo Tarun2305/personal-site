@@ -1,10 +1,14 @@
 {
-  "last_updated": "2026-07-26 15:56 UTC",
+  "last_updated": "2026-07-26 19:01 UTC",
   "feeds": {
     "bbc": [
       {
         "title": "What we know so far about the Berlin Pride ramming attack",
         "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+        "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
@@ -13,47 +17,43 @@
       {
         "title": "Andy Burnham rules out early election in exclusive BBC interview",
         "link": "https://www.bbc.co.uk/news/videos/c935kzyq6r4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Gatwick Airport left without running water after major outage",
-        "link": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Senator Whitehouse: Netanyahu a \u2018walking provocation\u2019 for Americans",
-        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/7/26/senator-whitehouse-netanyahu-a-walking-provocation-for-americans?traffic_source=rss"
+        "title": "Romania summons Russian envoy as it shoots down third intruding drone",
+        "link": "https://www.aljazeera.com/news/2026/7/26/romania-summons-russian-envoy-as-it-shoots-down-third-intruding-drone?traffic_source=rss"
       },
       {
-        "title": "Lando Norris wins Hungarian Grand Prix for first F1 triumph in 2026",
-        "link": "https://www.aljazeera.com/sports/2026/7/26/lando-norris-wins-hungarian-grand-prix-for-first-f1-triumph-in-2026?traffic_source=rss"
+        "title": "Al-Sharaa praises Trump\u2019s decision to remove Syria from terrorism list",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-praises-trumps-decision-to-remove-syria-from-terrorism-list?traffic_source=rss"
       },
       {
-        "title": "More than 360,000 evacuated as wildfires rage in France and Spain",
-        "link": "https://www.aljazeera.com/news/2026/7/26/more-than-360000-evacuated-as-wildfires-rage-in-france-and-spain?traffic_source=rss"
+        "title": "Berlin police shoot dead suspect in car-ramming attack at Pride event",
+        "link": "https://www.aljazeera.com/news/2026/7/26/berlin-police-shoot-dead-suspect-in-car-ramming-attack-on-pride-event?traffic_source=rss"
       },
       {
-        "title": "Israel carries out double tap strike in central Gaza",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss"
+        "title": "Israel launches military incursion into Syria amid UN condemnation",
+        "link": "https://www.aljazeera.com/news/2026/7/26/israel-launches-military-incursion-into-syria-amid-un-condemnation?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Greaves beats Sherrock to claim record third Women's Matchplay crown",
-        "link": "https://www.skysports.com/darts/news/12040/13567091/womens-world-matchplay-beau-greaves-defeats-fallon-sherrock-in-6-5-last-leg-decider-to-claim-record-third-blackpool-crown"
+        "title": "Mayo win first All-Ireland title in 75 years as 'curse lifted'",
+        "link": "https://www.skysports.com/gaelic-football/news/12040/13567219/mayo-win-first-all-ireland-senior-football-title-in-75-years-as-curse-lifted-with-thrilling-victory-over-kerry-at-croke-park"
       },
       {
-        "title": "Norris wins first race of 2026 as Hamilton suffers more penalty pain",
-        "link": "https://www.skysports.com/f1/news/12040/13567065/hungarian-gp-lando-norris-wins-first-race-of-2026-formula-1-season-after-early-oscar-piastri-squabble"
+        "title": "Have we seen the last of Greaves on Women's Series? 'I'm focused on my Tour Card'",
+        "link": "https://www.skysports.com/darts/news/12040/13567092/beau-greaves-have-we-seen-the-last-of-doncaster-star-on-the-pdc-womens-series-im-focused-on-my-tour-card"
       },
       {
-        "title": "Sooryavanshi stars again as India knock England off top spot in T20I rankings",
-        "link": "https://www.skysports.com/cricket/news/12040/13567108/vaibhav-sooryavanshi-15-hits-another-fifty-as-india-sweep-zimbabwe-3-0-to-knock-england-off-top-spot-in-t20i-rankings"
+        "title": "McLaren defend Hungarian GP strategy calls after Piastri radio rant",
+        "link": "https://www.skysports.com/f1/news/12040/13567070/mclaren-defend-hungarian-gp-strategy-calls-after-frustration-from-oscar-piastri-and-lando-norris-on-radio-during-race"
       },
       {
-        "title": "Shin stutters to win in Scotland as players prepare for Women's Open",
-        "link": "https://www.skysports.com/golf/news/12040/13567114/isps-handa-womens-scottish-open-jenny-shin-stutters-to-win-as-players-including-lottie-woad-and-nelly-korda-prepare-for-aig-womens-open"
+        "title": "Kelly wins Senior Open as Gallacher lights up final round at Gleneagles",
+        "link": "https://www.skysports.com/golf/news/12040/13567227/senior-open-jerry-kelly-wins-title-at-gleneagles-as-scotlands-stephen-gallacher-produces-round-of-final-day"
       }
     ],
     "pitchfork": [],
@@ -171,23 +171,31 @@
     ],
     "variety": [
       {
-        "title": "\u2018The Odyssey\u2019 Leaked on X: High-Quality Bootleg Seen by Millions in Hours Before Takedown",
-        "link": "https://variety.com/2026/film/news/the-odyssey-leaked-high-quality-bootleg-x-1236821418/"
+        "title": "Tom Holland: Some of My Movies Are \u2018S\u2013t\u2019 and You \u2018Shouldn\u2019t\u2019 Watch Them",
+        "link": "https://variety.com/2026/film/news/tom-holland-some-movies-shit-shouldnt-watch-1236821438/"
       },
       {
-        "title": "\u2018Rick and Morty\u2019 Spinoff \u2018President Curtis\u2019 Plays It Safe, but Keeps the Sci-Fi Franchise Cruising: TV Review",
-        "link": "https://variety.com/2026/tv/reviews/president-curtis-review-rick-and-morty-spinoff-1236817266/"
+        "title": "\u2018Attack on Paradise\u2019 Review: Under Siege From Both Criminals and Cops, a Hero Battles Upward in a Zesty High-Rise Actioner",
+        "link": "https://variety.com/2026/film/reviews/attack-on-paradise-review-1236821505/"
       },
       {
-        "title": "Inside \u2018Colony\u2019: \u2018Train to Busan\u2019 Director Yeon Sang-ho and Gianna Jun Discuss Their Thrilling New Take on the Zombie Movie",
-        "link": "https://variety.com/2026/film/news/colony-south-korea-yeon-sang-ho-gianna-jun-ji-hyun-zombie-movie-train-to-busan-1236821333/"
+        "title": "Gay Romance Podcast \u2018Drive Thru Magic\u2019 Casts Daniel J. Kim and Danielle Kennedy, Sets September Release Date (EXCLUSIVE)",
+        "link": "https://variety.com/2026/digital/columns/gay-romance-podcast-drive-thru-magic-daniel-j-kim-1236821490/"
       },
       {
-        "title": "Box Office: \u2018Toy Story 5\u2019 Crosses $1 Billion, Becomes Highest-Grossing Movie of the Year",
-        "link": "https://variety.com/2026/film/box-office/toy-story-5-billion-dollar-box-office-1236818437/"
+        "title": "\u2018No Rest for the Wicked\u2019 Review: A Supernatural Gay Love Story in a 19th-Century Backwater",
+        "link": "https://variety.com/2026/film/reviews/no-rest-for-the-wicked-review-1236821491/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "Universal Responds to \u2018The Odyssey\u2019 Leaks on Social Media",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/universal-responds-the-odyssey-leaks-x-social-media-1236656766/"
+      },
+      {
+        "title": "20 Years Ago, a Feature Documentary Announced the Death of the Electric Car",
+        "link": "https://www.hollywoodreporter.com/movies/movie-features/who-killed-the-electric-car-documentary-turns-20-1236653339/"
+      },
       {
         "title": "\u2018The Odyssey\u2019 Holds Strong for Big Second Weekend of $87M, Passes $600M Globally",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/the-odyssey-big-second-weekend-box-office-1236656039/"
@@ -195,14 +203,6 @@
       {
         "title": "The Doom Boom: Marvel Studios Brings \u2018Doomsday\u2019 and More to Its Most Crowded Comic-Con Panel Ever",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/marvel-studios-doomsday-comic-con-panel-recap-1236656358/"
-      },
-      {
-        "title": "Ryan Reynolds\u2019 Deadpool Crashes Comic-Con to Beg for \u2018Avengers: Doomsday\u2019 Role",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/ryan-reynolds-deadpool-avengers-doomsday-comic-con-1236656648/"
-      },
-      {
-        "title": "Warner Bros. Sues Amazon, Accusing Company of \u201cSeeking to Pirate Away Employees\u201d",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/warner-bros-amazon-lawsuit-pirate-away-employees-pia-barlow-1236656642/"
       }
     ],
     "larb": [],
