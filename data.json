@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-07-25 21:47 UTC",
+  "last_updated": "2026-07-26 02:06 UTC",
   "feeds": {
     "bbc": [
-      {
-        "title": "Several injured at Berlin Pride after reports vehicle drove into crowd, police say",
-        "link": "https://www.bbc.co.uk/news/articles/clyqzylz3zno?at_medium=RSS&at_campaign=rss"
-      },
       {
         "title": "Police investigate donations by Tice company to Reform UK",
         "link": "https://www.bbc.co.uk/news/articles/c5yv4r5g55do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "More than 250,000 flee wildfires in France and Spain",
+        "title": "More than 300,000 flee wildfires in France and Spain",
         "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Tourists tell BBC how their holiday turned into race to escape fires",
         "link": "https://www.bbc.co.uk/news/articles/c80ny93xlrvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What Love Island tells us about the changing face of dating",
+        "link": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Israeli forces tear gas journalists reporting Nablus shootout",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-tear-gas-journalists-reporting-nablus-shootout?traffic_source=rss"
+        "title": "Yemen\u2019s Houthis target Saudi oil facilities along the Red Sea",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/yemens-houthis-target-saudi-oil-facilities-along-the-red-sea?traffic_source=rss"
       },
       {
-        "title": "How India\u2019s \u2018Cockroach\u2019 protesters shook the Modi government",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/how-indias-cockroach-protesters-shook-the-modi-government?traffic_source=rss"
+        "title": "Bolsonaro\u2019s son begins Brazil presidential bid with Netanyahu, Milei kudos",
+        "link": "https://www.aljazeera.com/news/2026/7/26/bolsonaros-son-begins-brazil-presidential-bid-with-netanyahu-milei-kudos?traffic_source=rss"
       },
       {
-        "title": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
-        "link": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss"
+        "title": "Iran war live: Tehran summons Ukraine diplomats over Caspian Sea attack",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss"
       },
       {
-        "title": "At least 35 killed after two buses collide in eastern Syria",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/at-least-35-killed-after-two-buses-collide-in-eastern-syria?traffic_source=rss"
+        "title": "What\u2019s behind the Israeli crackdown in the occupied West Bank?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/7/25/whats-behind-the-israeli-crackdown-in-the-occupied-west-bank?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Sheeraz escapes with narrow points win as he sets his sights on Canelo",
+        "link": "https://www.skysports.com/boxing/news/12040/13567019/hamzah-sheeraz-escapes-with-narrow-points-win-while-josh-kelly-overcomes-horror-gash-to-his-nose-in-saudi-arabia"
+      },
+      {
+        "title": "In-form Leigh close in on top four of Super League",
+        "link": "https://www.skysports.com/rugby-league/news/12040/13566959/super-league-in-form-leigh-close-in-on-top-four-with-victory-against-warrington-as-huddersfield-end-12-game-wait-for-win"
+      },
+      {
+        "title": "Joshua devotes win to late friends as 'lovely treat' of Fury fight looms",
+        "link": "https://www.skysports.com/boxing/news/12040/13567030/anthony-joshua-remembers-late-friends-after-win-over-kristian-prenga-sets-up-tyson-fury-fight-and-lovely-treat-for-fans"
+      },
+      {
         "title": "Papers: Chelsea's Neto emerges as target for Man City and Maresca",
         "link": "https://www.skysports.com/football/news/12040/13566990/chelsea160winger-pedro-neto-among-names-on160manchester-citys-radar-as-they-formulate-list-of-wing-targets-papers-talk"
-      },
-      {
-        "title": "Norris in 'new man's land' as 'frustrated' Hamilton plots penalty fightback",
-        "link": "https://www.skysports.com/f1/news/12040/13566877/hungarian-gp-lando-norris-jokes-mclaren-are-in-new-mans-land-as-lewis-hamilton-kimi-antonelli-plot-fightbacks"
-      },
-      {
-        "title": "England women ramp up Rugby League World Cup preparations with win in France",
-        "link": "https://www.skysports.com/rugby-league/news/12040/13566994/england-women-ramp-up-preparations-for-rugby-league-world-cup-with-win-against-france-in-toulouse"
-      },
-      {
-        "title": "Joshua vs Prenga LIVE! AJ aims to stay on course for Fury showdown",
-        "link": "https://www.skysports.com/boxing/live-blog/12040/13566969/anthony-joshua-vs-kristian-prenga-live-updates-from-jeddah-as-aj-prepares-for-likely-showdown-with-tyson-fury"
       }
     ],
     "pitchfork": [],
@@ -171,38 +171,38 @@
     ],
     "variety": [
       {
-        "title": "\u2018Sour Minnows\u2019 Is the Surreal Body Snatching Comedy That Mystified and Delighted Its Premiere Audience \u2014\u00a0Fantasia",
-        "link": "https://variety.com/2026/film/features/sour-minnows-surreal-body-snatching-comedy-fantasia-fest-1236821014/"
+        "title": "\u2018Black Panther 3\u2019: David Jonsson to Play T\u2019Challa\u2019s Son as December 2028 Release Date Set",
+        "link": "https://variety.com/2026/film/news/black-panther-3-december-2028-release-david-jonsson-1236083370/"
       },
       {
-        "title": "\u2018Matchbox\u2019 Trailer: John Cena Stars in Toy Car Action Movie From Apple TV",
-        "link": "https://variety.com/2026/film/news/matchbox-trailer-john-cena-toy-cars-apple-1236645191/"
+        "title": "\u2018Avengers: Doomsday\u2019 Trailer Rocks Comic-Con: Doctor Doom Raises Army of Sentinels to Take Down Avengers, Fantastic Four and X-Men",
+        "link": "https://variety.com/2026/film/news/avengers-doomsday-new-trailer-comic-con-1236817677/"
       },
       {
-        "title": "\u2018Avatar Aang\u2019 Team Reveals More Spinoffs in the Works, Nearly Making Katara Pregnant and Why Fans Shouldn\u2019t Watch the \u2018Dark Web\u2019 Leak",
-        "link": "https://variety.com/2026/film/news/avatar-aang-spinoffs-katara-pregnant-leak-1236814886/"
+        "title": "\u2018Coyote vs. Acme\u2019 Director and Star Lana Condor on Finally Showing Their Film to the Fans at Comic-Con: \u2018The Fight Was For a Good Reason\u2019",
+        "link": "https://variety.com/2026/film/news/coyote-vs-acme-director-lana-condor-public-screening-fans-comic-con-1236821209/"
       },
       {
-        "title": "\u2018Family Guy\u2019 Casts Kieran Culkin to Play the Devil in New Halloween Special for Hulu",
-        "link": "https://variety.com/2026/tv/news/family-guy-kieran-culkin-devil-halloween-special-hulu-1236820678/"
+        "title": "Ryan Gosling to Star in Marvel\u2019s Ghost Rider Movie",
+        "link": "https://variety.com/2026/film/news/ryan-gosling-ghost-rider-marvel-movie-1236821206/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018Big Brother\u2019 Season 28 Cast Revealed: \u2018RuPaul\u2019s Drag Race\u2019 Alum, Rocket Scientist, MMA Fighter and More",
-        "link": "https://www.hollywoodreporter.com/lists/big-brother-season-28-cast/"
+        "title": "\u2018Black Panther 3\u2019: David Jonsson to Star as T\u2019Challa\u2019s Son, Sequel Set for 2028",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/black-panther-3-marvel-ryan-coogler-comic-con-1236656570/"
       },
       {
-        "title": "\u2018Beneath the Trees Where Nobody Sees\u2019 Final Act Gets Title and Cover (Exclusive)",
-        "link": "https://www.hollywoodreporter.com/news/general-news/beneath-the-trees-where-nobody-sees-final-act-title-cover-1236656525/"
+        "title": "Ryan Gosling to Star in Ghost Rider Movie for Marvel Studios, Director Shawn Levy",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/ryan-gosling-ghost-rider-for-marvel-studios-1236656560/"
       },
       {
-        "title": "Hudson Williams and Carrie-Anne Moss Star in Equal Parts Steamy and Spooky \u2018Yaga\u2019 Teaser",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/yaga-amc-crave-teaser-hudson-williams-carrie-anne-moss-1236656478/"
+        "title": "Prime Video Unveils Teaser, Release Date for Mike Flanagan\u2019s \u2018Carrie\u2019 Series",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/prime-video-carrie-series-teaser-trailer-1236655407/"
       },
       {
-        "title": "Katy Perry Slams White House for Using \u201cFirework\u201d in Military Strikes Video: \u201cI Am Deeply Appalled\u201d",
-        "link": "https://www.hollywoodreporter.com/music/music-news/katy-perry-white-house-firework-military-strikes-video-1236656524/"
+        "title": "John Cena Races to Find a Nuclear Warhead in \u2018Matchbox the Movie\u2019 Trailer",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/john-cena-matchbox-the-movie-trailer-watch-1236656615/"
       }
     ],
     "larb": [],
