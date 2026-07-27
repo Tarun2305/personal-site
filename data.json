@@ -1,7 +1,11 @@
 {
-  "last_updated": "2026-07-27 16:54 UTC",
+  "last_updated": "2026-07-27 19:17 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
+        "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Devastating European wildfires in maps - and how they're being tackled",
         "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss"
@@ -11,34 +15,38 @@
         "link": "https://www.bbc.co.uk/news/articles/cp8ek0682jdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "UK's iconic Jodrell Bank telescope faces axe in science cuts",
-        "link": "https://www.bbc.co.uk/news/articles/c5y6r9rdxygo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Man jailed for abduction and rape of girl, 15, in Edinburgh basement",
-        "link": "https://www.bbc.co.uk/news/articles/c141x6lp8p4o?at_medium=RSS&at_campaign=rss"
+        "title": "Reform UK reporting Green leader Zack Polanski to police over Instagram post",
+        "link": "https://www.bbc.co.uk/news/articles/c5y063yqlleo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Iran: Currently no negotiations with the US",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/iran-currently-no-negotiations-with-the-us?traffic_source=rss"
+        "title": "Are the US and Iran heading towards a forever war?",
+        "link": "https://www.aljazeera.com/video/upfront/2026/7/27/are-the-us-and-iran-heading-towards-a-forever-war?traffic_source=rss"
       },
       {
-        "title": "Israeli raid sparks fire at UN Palestinian refugee centre",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/israeli-raid-sparks-fire-at-un-palestinian-refugee-centre?traffic_source=rss"
+        "title": "Lebanon\u2019s displaced endure \u2018exhaustion and despair\u2019",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/lebanons-displaced-endure-exhaustion-and?traffic_source=rss"
       },
       {
-        "title": "Mapping Israeli settler violence in the West Bank",
-        "link": "https://www.aljazeera.com/news/2026/7/27/mapping-israeli-settler-violence-in-the-west-bank?traffic_source=rss"
+        "title": "Saudi Arabia defends against drone strikes from \u2018Iran-backed\u2019 groups",
+        "link": "https://www.aljazeera.com/news/2026/7/27/saudi-arabia-defends-against-drone-strikes-from-iran-backed-groups?traffic_source=rss"
       },
       {
-        "title": "How Israel uses settler-soldier terror to colonise the West Bank",
-        "link": "https://www.aljazeera.com/opinions/2026/7/27/how-israel-uses-settler-soldier-terror-to-colonise-the-west-bank?traffic_source=rss"
+        "title": "War on Iran: Phase II: Day 16",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/war-on-iran-phase-ii-day-16?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "O'Sullivan sets deadline to win record eighth snooker world title",
+        "link": "https://www.skysports.com/snooker/news/12040/13567523/ronnie-osullivan-sets-2028-deadline-to-beat-stephen-hendry-record-of-seven-world-snooker-championship-titles"
+      },
+      {
+        "title": "Stones verbally agrees Inter move amid Arsenal, Chelsea interest",
+        "link": "https://www.skysports.com/football/news/12040/13567544/john-stones-transfer-news-england-international-verbally-agrees-deal-to-join-inter-milan-amid-interest-from-arsenal-and-chelsea"
+      },
       {
         "title": "Brundle's verdict on 'relentless' Norris, Piastri-Sainz incident and Malaysia return",
         "link": "https://www.skysports.com/f1/news/12040/13567450/hungarian-gp-martin-brundle-on-relentless-lando-norris-oscar-piastri-carlos-sainz-incident-and-malaysia-return-to-f1-calendar"
@@ -46,19 +54,15 @@
       {
         "title": "England bounce back from Australia defeat by breezing past Malawi in Glasgow",
         "link": "https://www.skysports.com/netball/news/12040/13567453/commonwealth-games-england-bounce-back-from-australia-defeat-with-victory-against-malawi-in-glasgow"
-      },
-      {
-        "title": "'Pressure is on Antonelli' - Norris not ruling out title fightback",
-        "link": "https://www.skysports.com/f1/news/12040/13567355/lando-norris-mclaren-driver-says-pressure-is-on-kimi-antonelli-and-does-not-rule-out-f1-championship-fightback"
-      },
-      {
-        "title": "What Arsenal's interest and Real's Diomande pursuit mean for Vini Jr",
-        "link": "https://www.skysports.com/football/news/12040/13567372/vinicius-jr-transfer-news-arsenal-interest-explained-as-real-madrid-step-up-efforts-to-sign-yan-diomande-from-rb-leipzig"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "Echo Upstairs :: Estranhos Lugares Para os Olhos",
+        "link": "https://aquariumdrunkard.com/2026/07/27/echo-upstairs-estranhos-lugares-para-os-olhos/"
+      },
       {
         "title": "Choose Life: The Trainspotting Soundtrack at 30",
         "link": "https://aquariumdrunkard.com/2026/07/27/choose-life-the-trainspotting-soundtrack-at-30/"
@@ -70,15 +74,15 @@
       {
         "title": "Ryuichi Sakamoto :: Beauty",
         "link": "https://aquariumdrunkard.com/2026/07/23/ryuichi-sakamoto-beauty/"
-      },
-      {
-        "title": "No Endtroducing: DJ Shadow\u2019s Debut at 30",
-        "link": "https://aquariumdrunkard.com/2026/07/22/no-endtroducing-dj-shadows-debut-at-30/"
       }
     ],
     "bfi": [],
     "criterion": [],
     "rogerebert": [
+      {
+        "title": "San Diego Comic-Con 2026: Composers, Costume Designers, and Brad Bird in Hall H",
+        "link": "https://www.rogerebert.com/festivals/san-diego-comic-con-2026-composers-costume-designers-and-brad-bird-in-hall-h"
+      },
       {
         "title": "A Home Away from Home: Goodbye to the Lake Street Screening Room",
         "link": "https://www.rogerebert.com/features/a-home-away-from-home-goodbye-to-the-lake-street-screening-room"
@@ -90,10 +94,6 @@
       {
         "title": "With \u201cThe Odyssey,\u201d Christopher Nolan Has Crafted The Best Horror Film of The Year",
         "link": "https://www.rogerebert.com/features/with-the-odyssey-christopher-nolan-has-crafted-the-best-horror-film-of-the-year"
-      },
-      {
-        "title": "Fantasia 2026: You Are the Film, Someone\u2019s Daughter, Los Vampires",
-        "link": "https://www.rogerebert.com/festivals/fantasia-2026-you-are-the-film-someones-daughter-los-vampires"
       }
     ],
     "filmcomment": [
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018Hadestown\u2019 Didn\u2019t Put Up \u2018The Odyssey\u2019 Numbers, but the Musical Had a Historic Box Office Weekend",
+        "link": "https://www.indiewire.com/news/box-office/hadestown-the-musical-box-office-weekend-1235207133/"
+      },
+      {
+        "title": "How Kiyoshi Kurosawa Turned a Samurai Whodunit Into a Chilling Story About Belief with \u2018The Samurai and the Prisoner\u2019",
+        "link": "https://www.indiewire.com/features/interviews/kiyoshi-kurosawa-the-samurai-and-the-prisoner-interview-1235207130/"
+      },
+      {
         "title": "\u2018Furious\u2019 Review: Elizabeth Meriwether Delivers Top-Tier Genre Fare in Hulu\u2019s Riveting Cat-and-Mouse Thriller",
         "link": "https://www.indiewire.com/criticism/shows/furious-review-emmy-rossum-hulu-series-1235206884/"
       },
       {
         "title": "Greg Longstreet Celebrates Cinema \u2014 And His Show Business Family\u2019s Legacy \u2014 with His Indie Film Zine \u2018Ritual\u2019",
         "link": "https://www.indiewire.com/features/interviews/greg-longstreet-indie-film-zine-ritual-1235206424/"
-      },
-      {
-        "title": "\u2018I Want Your Sex\u2019 Review: Gregg Araki Begs Gen Z to Be Horny and Vulnerable with Each Other in a Fun but Stilted Return to Form",
-        "link": "https://www.indiewire.com/criticism/movies/i-want-your-sex-movie-review-1235174997/"
-      },
-      {
-        "title": "Ryan Gosling and David Jonsson Are Superheroes Now. Is Marvel Finally Putting People Over IP?",
-        "link": "https://www.indiewire.com/news/general-news/marvel-comic-con-casting-ryan-gosling-david-jonsson-1235207099/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018The Odyssey\u2019 Translator Emily Wilson Slams Christoper Nolan\u2019s \u2018Abysmal\u2019 Screenplay: \u2018I Would Be Ashamed to Have Written Any Part of This Script\u2019",
-        "link": "https://variety.com/2026/film/news/odyssey-translator-emily-wilson-slams-christopher-nolan-bad-writing-1236821915/"
+        "title": "\u2018The Odyssey\u2019 by the Numbers: 6 Ways Christopher Nolan\u2019s Epic Is Shattering Box Office Expectations",
+        "link": "https://variety.com/2026/film/box-office/the-odyssey-box-office-nolan-shattering-expectations-1236821760/"
       },
       {
-        "title": "\u2018Rose Hill\u2019 Amazon Series Casts Jake Weary, Sean O\u2019Pry, Hannah Galway, Sadie Dickerson",
-        "link": "https://variety.com/2026/tv/news/rose-hill-series-jake-weary-opry-hannah-galway-dickerson-1236821899/"
+        "title": "Massive Tribeca Fest Data Leak Exposes Jennifer Lawrence, Robert De Niro and More Celebs\u2019 Contact Info; Meet the Man Who Discovered the Files",
+        "link": "https://variety.com/2026/film/news/tribeca-festival-data-leak-jennifer-lawrence-robert-de-niro-1236822023/"
       },
       {
-        "title": "Jay-Z Announces Additional London and Los Angeles Dates for \u2018Jay-Z 30\u2019 Concert Series",
-        "link": "https://variety.com/2026/music/news/jay-z-additional-london-los-angeles-dates-jay-z-30-series-1236821893/"
+        "title": "Savannah Guthrie Posts New Video Urging Mother\u2019s Kidnappers to \u2018Do the Right Thing\u2019: \u2018Tell Us Where to Look for Her\u2019",
+        "link": "https://variety.com/2026/tv/news/savannah-guthrie-video-mothers-kidnappers-nancy-1236671368/"
       },
       {
-        "title": "Miley Cyrus Says She \u2018Genuinely\u2019 Wants to Act Again as She Signs With Atlantic Records and Charts Next Chapter: \u2018I\u2019d Love to Disappear Into Something Romantic\u2019",
-        "link": "https://variety.com/2026/music/news/miley-cyrus-signs-with-atlantic-records-1236821596/"
+        "title": "Gold House Launches Gold House Studios, Unveiling A Slate Led By \u2018The Boys\u2019 Star Karen Fukuhara (EXCLUSIVE)",
+        "link": "https://variety.com/2026/biz/news/gold-house-launches-gold-house-studios-1236821953/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Hope Clarke, Actress and \u2018Jelly\u2019s Last Jam\u2019 Choreographer, Dies at 85",
-        "link": "https://www.hollywoodreporter.com/lifestyle/arts/hope-clarke-dead-jellys-last-jam-choreographer-1236657195/"
+        "title": "Prime Video Romance Drama \u2018Rose Hill\u2019 Finds Its Lead Cast",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/prime-video-rose-hill-cast-1236657314/"
       },
       {
-        "title": "Jesus Heads to His Crucifixion in \u2018The Chosen\u2019 Season 6 Teaser Trailer",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/the-chosen-season-6-trailer-jesus-christ-crucifixion-1236657123/"
+        "title": "Whoopi Goldberg, Jenifer Lewis, Vanessa Williams, Vivica A. Fox to Star in \u2018Women Like Us for Netflix",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/whoopi-goldberg-women-like-us-comedy-1236657304/"
       },
       {
-        "title": "Paramount CEO David Ellison Reassures Staff Amid Antitrust Suit, Says He\u2019s \u201cHighly Confident\u201d in WBD Merger Completion",
-        "link": "https://www.hollywoodreporter.com/business/business-news/david-ellison-staff-memo-wbd-merger-1236657162/"
+        "title": "John C. Dvorak, Veteran Tech Journalist and \u2018No Agenda\u2019 Podcaster, Dies at 80",
+        "link": "https://www.hollywoodreporter.com/business/business-news/john-dvorak-dead-tech-journalist-no-agenda-inside-track-1236657317/"
       },
       {
-        "title": "Miley Cyrus Signs With Atlantic Records",
-        "link": "https://www.hollywoodreporter.com/music/music-industry-news/miley-cyrus-atlantic-records-record-deal-1236657145/"
+        "title": "John Wells Renews Overall Deal at Warner Bros. TV as He Hits 40 Years With Studio",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/john-wells-renews-overall-warner-bros-tv-1236657297/"
       }
     ],
     "larb": [],
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "Why Do Psychiatric Disorders Persist in Humans?",
+        "link": "https://nautil.us/why-do-psychiatric-disorders-persist-in-humans-1283057/"
+      },
+      {
         "title": "Why an Icy Hummingbird Has Emerged in Antarctica",
         "link": "https://nautil.us/why-an-icy-hummingbird-has-emerged-in-antarctica-1283049/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "Jimothy the Raccoon Survived Against the Odds, a Testament to Sophisticated Brains and Devoted Mothers",
         "link": "https://nautil.us/jimothy-the-raccoon-survived-against-the-odds-a-testament-to-sophisticated-brains-and-devoted-mothers-1283021/"
-      },
-      {
-        "title": "Psychedelics Might Not Have Evolved to Get Humans High",
-        "link": "https://nautil.us/psychedelics-might-not-have-evolved-to-get-humans-high-1283013/"
       }
     ],
     "worksinprogress": [],
