@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27 06:21 UTC",
+  "last_updated": "2026-07-27 12:15 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,12 +7,12 @@
         "link": "https://www.bbc.co.uk/news/articles/cn0n5xpzlz2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Laura Kuenssberg: Our exclusive behind-the-scenes access at No 10 as Andy Burnham became PM",
-        "link": "https://www.bbc.co.uk/news/articles/c79gdjlv78wo?at_medium=RSS&at_campaign=rss"
+        "title": "UK's iconic Jodrell Bank telescope faces axe in science cuts",
+        "link": "https://www.bbc.co.uk/news/articles/c5y6r9rdxygo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
-        "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss"
+        "title": "TV presenter and comedian Bill Oddie dies at 85",
+        "link": "https://www.bbc.co.uk/news/articles/cjejw8pq5elo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Berlin Pride attack suspect shot and killed during police operation",
@@ -21,39 +21,39 @@
     ],
     "aljazeera": [
       {
-        "title": "Climate change presents new threat to Philippines\u2019 UNESCO rice terraces",
-        "link": "https://www.aljazeera.com/features/2026/7/27/climate-change-presents-new-threat-to-philippines-unesco-rice-terraces?traffic_source=rss"
+        "title": "Wildfires in southwest Europe: What we know so far",
+        "link": "https://www.aljazeera.com/news/2026/7/27/wildfires-in-southwest-europe-what-we-know-so-far?traffic_source=rss"
       },
       {
-        "title": "Pakistan\u2019s Kashmir votes: Why the election hinges on 12 disputed seats",
-        "link": "https://www.aljazeera.com/news/2026/7/27/pakistans-kashmir-votes-why-the-election-hinges-on-12-disputed-seats?traffic_source=rss"
+        "title": "Sooryavanshi praised by Laxman after teen stars against Zimbabwe in T20",
+        "link": "https://www.aljazeera.com/sports/2026/7/27/india-zimbabwe-t20-cricket-match-vaibhav-sooryavanshi-vvs-laxman?traffic_source=rss"
       },
       {
-        "title": "Protests erupt in Libya\u2019s Tripoli as anger grows over power cuts",
-        "link": "https://www.aljazeera.com/news/2026/7/27/protests-erupt-in-libyas-tripoli-as-anger-grows-over-power-cuts?traffic_source=rss"
+        "title": "Photos: France, Spain battle \u2018monster\u2019 wildfires as more heat looms",
+        "link": "https://www.aljazeera.com/gallery/2026/7/27/photos-france-spain-battle-monster-wildfires-as-more-heat-looms?traffic_source=rss"
       },
       {
-        "title": "Firefighters battle wildfires in Spain\u2019s eastern Castellon province",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/firefighters-battle-wildfires-in-spains-eastern-castellon-province?traffic_source=rss"
+        "title": "Moment Ukrainian drones strike Russia\u2019s Belgorod",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/moment-ukrainian-drones-strike-russias-belgorod?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Amazonian Dream looks to go back-to-back at Windsor",
-        "link": "https://www.skysports.com/racing/news/12040/13567076/today-on-sky-sports-racing-ripon-southwell-and-windsor"
+        "title": "'Pressure is on Antonelli' - Norris not ruling out title fightback",
+        "link": "https://www.skysports.com/f1/news/12040/13567355/lando-norris-mclaren-driver-says-pressure-is-on-kimi-antonelli-and-does-not-rule-out-f1-championship-fightback"
       },
       {
-        "title": "Nelson: Fury vs AJ excites me more than ever and Fury has the edge",
-        "link": "https://www.skysports.com/boxing/news/12040/13567094/tyson-fury-vs-anthony-joshua-excites-me-more-than-ever-and-fury-has-the-edge-says-johnny-nelson"
+        "title": "What does Arsenal interest and Real's Diomande pursuit mean for Vini Jr?",
+        "link": "https://www.skysports.com/football/news/12040/13567372/vinicius-jr-transfer-news-arsenal-interest-explained-as-real-madrid-step-up-efforts-to-sign-yan-diomande-from-rb-leipzig"
       },
       {
-        "title": "Rising star Koivun holds off Scheffler to win on third PGA Tour start as a pro",
-        "link": "https://www.skysports.com/golf/news/12040/13567261/3m-open-jackson-koivun-21-holds-off-scottie-scheffler-to-secure-victory-on-just-third-pga-tour-start-as-a-professional"
+        "title": "Football news: Infantino tells World Cup critics to 'meditate and pray'",
+        "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip"
       },
       {
-        "title": "Pogacar secures record-equalling fifth Tour de France title",
-        "link": "https://www.skysports.com/cycling/news/12040/13567235/tour-de-france-2026-tadej-pogacar-wins-record-equalling-fifth-title-and-third-in-a-row-after-race-completed-in-paris"
+        "title": "The story of the 'non-League Wrexham' now chasing the EFL dream",
+        "link": "https://www.skysports.com/football/news/12040/13566192/harry-hugo-interview"
       }
     ],
     "pitchfork": [],
@@ -116,6 +116,10 @@
     ],
     "mubi": [
       {
+        "title": "\u201cThe Dziga Vertov Group Rises Again, and It Needs You\u201d: Jean-Pierre Gorin in New York",
+        "link": "https://mubi.com/en/notebook/posts/the-dziga-vertov-group-rises-again-and-it-needs-you-jean-pierre-gorin-in-new-york"
+      },
+      {
         "title": "Five Inspirations | Ratchapoom Boonbunchachoke",
         "link": "https://mubi.com/en/notebook/posts/five-inspirations-ratchapoom-boonbunchachoke"
       },
@@ -126,10 +130,6 @@
       {
         "title": "Minor Keys and Major Unrest",
         "link": "https://mubi.com/en/notebook/posts/minor-keys-and-major-unrest"
-      },
-      {
-        "title": "Movie Poster of the Week | The Best of Movie Poster of the Day, Part 31",
-        "link": "https://mubi.com/en/notebook/posts/movie-poster-of-the-week-the-best-of-movie-poster-of-the-day-part-31"
       }
     ],
     "reverseshot": [],
@@ -171,42 +171,50 @@
     ],
     "variety": [
       {
-        "title": "Nicola Coughlan, Paapa Essiedu and More Join Celebrity Auction to Raise Money for Students in Gaza",
-        "link": "https://variety.com/2026/tv/global/nicola-coughlan-paapa-essiedu-auction-students-gaza-1236820232/"
+        "title": "Deep Com Roots Sells \u2018Summer Days\u2019 to Half the World, as ISII Group Rolls on \u2018Amor de Dios\u2019 With Belen Rueda (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/global/isii-group-deep-com-roots-taz-skylar-belen-rueda-1236821688/"
       },
       {
-        "title": "John Oliver Returns to Expose Trump Family\u2019s Shady Crypto Dealings: \u2018We Badly Need Proper Guardrails\u2019",
-        "link": "https://variety.com/2026/tv/news/john-oliver-expose-trump-shady-crypto-dealings-world-liberty-financial-last-week-tonight-1236821605/"
+        "title": "Diego Luna to Be Feted at Sarajevo Film Festival as \u2018Ashes\u2019 Screens",
+        "link": "https://variety.com/2026/film/global/diego-luna-sarajevo-film-festival-ashes-1236821703/"
       },
       {
-        "title": "Emmy Rossum Crime Drama \u2018Furious\u2019 Elevates Trauma Tropes Through Strong Performances: TV Review",
-        "link": "https://variety.com/2026/tv/reviews/furious-review-emmy-rossum-hulu-1236820524/"
+        "title": "Locarno\u2019s StepIn Focuses on \u2018Power, People, Data and the Future of Film\u2019: \u2018The Counter-Algorithm Is a Human Being Who Gives a Damn\u2019 (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/global/locarno-stepin-power-people-data-future-of-film-1236821623/"
       },
       {
-        "title": "\u2018House of the Dragon\u2019 Actor Benjamin Evan Ainsworth on \u2018Absurdity\u2019 of Assassination Attempt, Daeron\u2019s Growing Power and if Ormund Is Dyeing the Kid\u2019s Hair",
-        "link": "https://variety.com/2026/tv/features/house-of-the-dragon-daeron-assassination-attempt-ormund-1236820311/"
+        "title": "Sasikumar\u2019s \u2018Vadhandhi\u2019 Season 2 Sets August Premiere on Prime Video (EXCLUSIVE)",
+        "link": "https://variety.com/2026/tv/news/sasikumar-vadhandhi-season-2-august-premiere-prime-video-1236821391/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018President Curtis\u2019 Creator Dan Harmon on Trump, Obama Influencing Show and His Vision for \u2018Rick and Morty\u2019 Movie",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/president-curtis-dan-harmon-trump-rick-and-morty-movie-1236656937/"
+        "title": "Diego Luna to Receive Honorary Heart of Sarajevo Award at Bosnian Film Festival",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/diego-luna-honorary-heart-of-sarajevo-award-film-festival-1236657048/"
       },
       {
-        "title": "Dylan Mulvaney Responds After Trump Mocks Her and CNN\u2019s Kaitlan Collins at White House Correspondents\u2019 Dinner",
-        "link": "https://www.hollywoodreporter.com/news/general-news/dylan-mulvaney-responds-trump-kaitlan-collins-1236656955/"
+        "title": "Prime Video Picks Up 100-Plus Korean Dramas From CJ ENM in Multi-Year India Deal",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/prime-video-korean-dramas-cj-enm-india-deal-1236657047/"
       },
       {
-        "title": "On Heels of World Cup, Polo Star Nacho Figueras Says Horseback Sport Has \u201cAll the Ingredients to Be the Next Big Thing\u201d",
-        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/nacho-figueras-talks-polo-show-st-regis-cowdray-gold-cup-1236655651/"
+        "title": "Benedict Cumberbatch, Alan Cumming, Benedict Wong Pen Op-Ed Urging U.K. to Block \u201cDangerous\u201d Paramount-Warner Bros. Merger",
+        "link": "https://www.hollywoodreporter.com/business/business-news/benedict-cumberbatch-cumming-wong-guardian-paramount-wbd-1236656997/"
       },
       {
-        "title": "Martin Scorsese Stars in \u2018Family Blend\u2019 Directed by Daughter Francesca for Coffee Brand Lavazza",
-        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/martin-scorsese-daughter-francesca-lavazza-coffee-series-1236656911/"
+        "title": "Don\u2019t Miss the Swiss at Locarno: From a Hunt for Loot, \u2018The Chilean\u2019 and Don Quixote to \u2018Small Talk\u2019",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/swiss-films-locarno-2026-the-chilean-don-quixote-small-talk-1236656729/"
       }
     ],
     "larb": [],
     "aeon": [
+      {
+        "title": "In search of the northern cassowary",
+        "link": "https://aeon.co/videos/scientists-and-locals-unite-to-film-a-large-elusive-new-guinean-bird"
+      },
+      {
+        "title": "The taming of Black thought",
+        "link": "https://aeon.co/essays/epistemic-convergence-in-the-study-of-world-philosophies"
+      },
       {
         "title": "Signal then storm",
         "link": "https://aeon.co/essays/a-researchers-50-year-hunt-for-the-source-of-chronic-pain"
@@ -214,17 +222,13 @@
       {
         "title": "All the Queens houses",
         "link": "https://aeon.co/videos/tour-the-eclectic-residences-of-new-yorks-most-diverse-borough"
-      },
-      {
-        "title": "The savage bites back",
-        "link": "https://aeon.co/essays/anthropophagy-art-flips-the-cannibal-worries-of-colonialism"
-      },
-      {
-        "title": "Can cells think?",
-        "link": "https://aeon.co/videos/why-we-should-think-of-intelligence-in-terms-of-goals-not-brains"
       }
     ],
     "psyche": [
+      {
+        "title": "Why some men seek refuge in ever bigger muscles",
+        "link": "https://psyche.co/ideas/why-some-men-seek-refuge-in-ever-bigger-muscles"
+      },
       {
         "title": "How to stop avoiding life",
         "link": "https://psyche.co/videos/five-research-backed-strategies-for-living-fully-with-anxiety"
@@ -236,10 +240,6 @@
       {
         "title": "Don\u2019t turn away from tragedy, but do witness intentionally",
         "link": "https://psyche.co/ideas/dont-turn-away-from-tragedy-but-do-witness-intentionally"
-      },
-      {
-        "title": "How to become the person you want to be",
-        "link": "https://psyche.co/guides/how-to-become-the-person-you-want-to-be"
       }
     ],
     "publicdomainreview": [
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "Koalas Are Getting a Vaccine to Help With Their STD Problem",
+        "link": "https://nautil.us/koalas-are-getting-a-vaccine-to-help-with-their-std-problem-1283030/"
+      },
+      {
         "title": "Jimothy the Raccoon Survived Against the Odds, a Testament to Sophisticated Brains and Devoted Mothers",
         "link": "https://nautil.us/jimothy-the-raccoon-survived-against-the-odds-a-testament-to-sophisticated-brains-and-devoted-mothers-1283021/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "How an Inbred Snake Invader Took Over an Island Paradise",
         "link": "https://nautil.us/how-an-inbred-snake-invader-took-over-an-island-paradise-1283018/"
-      },
-      {
-        "title": "When Stupid Was a Diagnosis",
-        "link": "https://nautil.us/when-stupid-was-a-diagnosis-1282984/"
       }
     ],
     "worksinprogress": [],
