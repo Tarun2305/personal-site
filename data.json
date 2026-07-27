@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26 21:52 UTC",
+  "last_updated": "2026-07-27 02:13 UTC",
   "feeds": {
     "bbc": [
       {
@@ -21,24 +21,28 @@
     ],
     "aljazeera": [
       {
-        "title": "Israeli government nods to international stabilisation force in Gaza",
-        "link": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza?traffic_source=rss"
+        "title": "Ebola infections in DR Congo surge to 3,200, with 1,405 deaths",
+        "link": "https://www.aljazeera.com/news/2026/7/27/ebola-infections-in-dr-congo-surge-to-3200-with-1405-deaths?traffic_source=rss"
       },
       {
-        "title": "Palestinians hope international peace force can rebuild Gaza",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/palestinians-hope-international-peace-force-can-rebuild-gaza?traffic_source=rss"
+        "title": "Lebanese return to homes of rubble left by Israel in so-called pilot zones",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/lebanese-return-to-homes-of-rubble-left-by-israel-in-so-called-pilot-zones?traffic_source=rss"
       },
       {
-        "title": "US and Iran hit pause on strikes for second day",
-        "link": "https://www.aljazeera.com/news/2026/7/26/us-and-iran-hit-pause-on-strikes-for-second-day?traffic_source=rss"
+        "title": "Guterres tours Syria\u2019s notorious \u2018Assad Prison\u2019 in Sednaya",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_guterres-tours-syrias-assad-prison-in-sednaya-260726?traffic_source=rss"
       },
       {
-        "title": "Former President Hernandez returns to Honduras after Trump pardon",
-        "link": "https://www.aljazeera.com/news/2026/7/26/former-president-hernandez-returns-to-honduras-after-trump-pardon?traffic_source=rss"
+        "title": "Iran war live: Tehran halts retaliatory strikes after pause in US attacks",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/7/27/iran-war-live-iran-halts-retaliatory-strikes-after-pause-in-us-attacks?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "Rising star Koivun holds off Scheffler to win on third PGA Tour start as a pro",
+        "link": "https://www.skysports.com/golf/news/12040/13567261/3m-open-jackson-koivun-21-holds-off-scottie-scheffler-to-secure-victory-on-just-third-pga-tour-start-as-a-professional"
+      },
       {
         "title": "Pogacar secures record-equalling fifth Tour de France title",
         "link": "https://www.skysports.com/cycling/news/12040/13567235/tour-de-france-2026-tadej-pogacar-wins-record-equalling-fifth-title-and-third-in-a-row-after-race-completed-in-paris"
@@ -48,12 +52,8 @@
         "link": "https://www.skysports.com/cricket/news/12040/13567244/the-hundred-craig-overton-hits-winning-runs-off-twin-brother-jamie-while-jos-buttler-hammers-90-from-50-balls"
       },
       {
-        "title": "Victorious Herbert breaks LIV Golf record with win in UK",
+        "title": "In-form Herbert breaks LIV Golf record with win in UK",
         "link": "https://www.skysports.com/golf/news/12040/13567252/liv-golf-uk-lucas-herbert-wins-with-record-score-of-30-under-par-as-he-follows-impressive-open-display-with-title"
-      },
-      {
-        "title": "Mayo win first All-Ireland title in 75 years as 'curse lifted'",
-        "link": "https://www.skysports.com/gaelic-football/news/12040/13567219/mayo-win-first-all-ireland-senior-football-title-in-75-years-as-curse-lifted-with-thrilling-victory-over-kerry-at-croke-park"
       }
     ],
     "pitchfork": [],
@@ -171,7 +171,11 @@
     ],
     "variety": [
       {
-        "title": "Kevin Feige Says Ryan Coogler Met With David Jonsson in a \u2018Secret Meeting\u2019 to Discuss \u2018Black Panther 3\u2019 Role: \u2018I Got Chills\u2019",
+        "title": "\u2018House of the Dragon\u2019 Actor Benjamin Evan Ainsworth on \u2018Absurdity\u2019 of Assassination Attempt, Daeron\u2019s Growing Power and if Ormund Is Dyeing the Kid\u2019s Hair",
+        "link": "https://variety.com/2026/tv/features/house-of-the-dragon-daeron-assassination-attempt-ormund-1236820311/"
+      },
+      {
+        "title": "Kevin Feige Says Ryan Coogler Met With David Jonsson Six Months Ago in a \u2018Secret Meeting\u2019 to Discuss \u2018Black Panther 3\u2019 Role: \u2018I Got Chills\u2019",
         "link": "https://variety.com/2026/film/news/kevin-feige-ryan-coogler-david-jonsson-black-panther-3-1236821563/"
       },
       {
@@ -181,13 +185,17 @@
       {
         "title": "Tom Holland: Some of My Movies Are \u2018S\u2013t\u2019 and You \u2018Shouldn\u2019t\u2019 Watch Them",
         "link": "https://variety.com/2026/film/news/tom-holland-some-movies-shit-shouldnt-watch-1236821438/"
-      },
-      {
-        "title": "\u2018Attack on Paradise\u2019 Review: Under Siege From Both Criminals and Cops, a Hero Battles Upward in a Zesty High-Rise Actioner",
-        "link": "https://variety.com/2026/film/reviews/attack-on-paradise-review-1236821505/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "On Heels of World Cup, Polo Star Nacho Figueras Says Horseback Sport Has \u2018All the Ingredients to Be the Next Big Thing\u2019",
+        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/nacho-figueras-talks-polo-show-st-regis-cowdray-gold-cup-1236655651/"
+      },
+      {
+        "title": "Martin Scorsese Stars in \u2018Family Blend\u2019 Directed by Daughter Francesca for Coffee Brand Lavazza",
+        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/martin-scorsese-daughter-francesca-lavazza-coffee-series-1236656911/"
+      },
       {
         "title": "Where to Watch Shark Week 2026 Online: Schedule, Streaming Guide",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-shark-week-2026-schedule-stream-online-free-1236656810/"
@@ -195,14 +203,6 @@
       {
         "title": "Tom Holland Says Some of His Movies Are \u201cSh**,\u201d Making Them Hard to Promote",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/tom-holland-some-movies-bad-hard-promote-1236656794/"
-      },
-      {
-        "title": "Universal Responds to \u2018The Odyssey\u2019 Leaks on Social Media",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/universal-responds-the-odyssey-leaks-x-social-media-1236656766/"
-      },
-      {
-        "title": "20 Years Ago, a Feature Documentary Announced the Death of the Electric Car",
-        "link": "https://www.hollywoodreporter.com/movies/movie-features/who-killed-the-electric-car-documentary-turns-20-1236653339/"
       }
     ],
     "larb": [],
