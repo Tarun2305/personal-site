@@ -1,44 +1,52 @@
 {
-  "last_updated": "2026-07-27 02:13 UTC",
+  "last_updated": "2026-07-27 06:21 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-        "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss"
+        "title": "NHS 'will collapse' without social care reform, PM tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cn0n5xpzlz2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Berlin Pride attack suspect shot and killed during police operation",
-        "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Badenoch says PM must rule out tax rises to fund social care reform",
-        "link": "https://www.bbc.co.uk/news/articles/c0jlzqe9z9vo?at_medium=RSS&at_campaign=rss"
+        "title": "Laura Kuenssberg: Our exclusive behind-the-scenes access at No 10 as Andy Burnham became PM",
+        "link": "https://www.bbc.co.uk/news/articles/c79gdjlv78wo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
         "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Berlin Pride attack suspect shot and killed during police operation",
+        "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Ebola infections in DR Congo surge to 3,200, with 1,405 deaths",
-        "link": "https://www.aljazeera.com/news/2026/7/27/ebola-infections-in-dr-congo-surge-to-3200-with-1405-deaths?traffic_source=rss"
+        "title": "Climate change presents new threat to Philippines\u2019 UNESCO rice terraces",
+        "link": "https://www.aljazeera.com/features/2026/7/27/climate-change-presents-new-threat-to-philippines-unesco-rice-terraces?traffic_source=rss"
       },
       {
-        "title": "Lebanese return to homes of rubble left by Israel in so-called pilot zones",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/lebanese-return-to-homes-of-rubble-left-by-israel-in-so-called-pilot-zones?traffic_source=rss"
+        "title": "Pakistan\u2019s Kashmir votes: Why the election hinges on 12 disputed seats",
+        "link": "https://www.aljazeera.com/news/2026/7/27/pakistans-kashmir-votes-why-the-election-hinges-on-12-disputed-seats?traffic_source=rss"
       },
       {
-        "title": "Guterres tours Syria\u2019s notorious \u2018Assad Prison\u2019 in Sednaya",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_guterres-tours-syrias-assad-prison-in-sednaya-260726?traffic_source=rss"
+        "title": "Protests erupt in Libya\u2019s Tripoli as anger grows over power cuts",
+        "link": "https://www.aljazeera.com/news/2026/7/27/protests-erupt-in-libyas-tripoli-as-anger-grows-over-power-cuts?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Tehran halts retaliatory strikes after pause in US attacks",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/7/27/iran-war-live-iran-halts-retaliatory-strikes-after-pause-in-us-attacks?traffic_source=rss"
+        "title": "Firefighters battle wildfires in Spain\u2019s eastern Castellon province",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/firefighters-battle-wildfires-in-spains-eastern-castellon-province?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "Amazonian Dream looks to go back-to-back at Windsor",
+        "link": "https://www.skysports.com/racing/news/12040/13567076/today-on-sky-sports-racing-ripon-southwell-and-windsor"
+      },
+      {
+        "title": "Nelson: Fury vs AJ excites me more than ever and Fury has the edge",
+        "link": "https://www.skysports.com/boxing/news/12040/13567094/tyson-fury-vs-anthony-joshua-excites-me-more-than-ever-and-fury-has-the-edge-says-johnny-nelson"
+      },
       {
         "title": "Rising star Koivun holds off Scheffler to win on third PGA Tour start as a pro",
         "link": "https://www.skysports.com/golf/news/12040/13567261/3m-open-jackson-koivun-21-holds-off-scottie-scheffler-to-secure-victory-on-just-third-pga-tour-start-as-a-professional"
@@ -46,14 +54,6 @@
       {
         "title": "Pogacar secures record-equalling fifth Tour de France title",
         "link": "https://www.skysports.com/cycling/news/12040/13567235/tour-de-france-2026-tadej-pogacar-wins-record-equalling-fifth-title-and-third-in-a-row-after-race-completed-in-paris"
-      },
-      {
-        "title": "Craig Overton wins battle with brother Jamie in entertaining Hundred finish",
-        "link": "https://www.skysports.com/cricket/news/12040/13567244/the-hundred-craig-overton-hits-winning-runs-off-twin-brother-jamie-while-jos-buttler-hammers-90-from-50-balls"
-      },
-      {
-        "title": "In-form Herbert breaks LIV Golf record with win in UK",
-        "link": "https://www.skysports.com/golf/news/12040/13567252/liv-golf-uk-lucas-herbert-wins-with-record-score-of-30-under-par-as-he-follows-impressive-open-display-with-title"
       }
     ],
     "pitchfork": [],
@@ -171,38 +171,38 @@
     ],
     "variety": [
       {
+        "title": "Nicola Coughlan, Paapa Essiedu and More Join Celebrity Auction to Raise Money for Students in Gaza",
+        "link": "https://variety.com/2026/tv/global/nicola-coughlan-paapa-essiedu-auction-students-gaza-1236820232/"
+      },
+      {
+        "title": "John Oliver Returns to Expose Trump Family\u2019s Shady Crypto Dealings: \u2018We Badly Need Proper Guardrails\u2019",
+        "link": "https://variety.com/2026/tv/news/john-oliver-expose-trump-shady-crypto-dealings-world-liberty-financial-last-week-tonight-1236821605/"
+      },
+      {
+        "title": "Emmy Rossum Crime Drama \u2018Furious\u2019 Elevates Trauma Tropes Through Strong Performances: TV Review",
+        "link": "https://variety.com/2026/tv/reviews/furious-review-emmy-rossum-hulu-1236820524/"
+      },
+      {
         "title": "\u2018House of the Dragon\u2019 Actor Benjamin Evan Ainsworth on \u2018Absurdity\u2019 of Assassination Attempt, Daeron\u2019s Growing Power and if Ormund Is Dyeing the Kid\u2019s Hair",
         "link": "https://variety.com/2026/tv/features/house-of-the-dragon-daeron-assassination-attempt-ormund-1236820311/"
-      },
-      {
-        "title": "Kevin Feige Says Ryan Coogler Met With David Jonsson Six Months Ago in a \u2018Secret Meeting\u2019 to Discuss \u2018Black Panther 3\u2019 Role: \u2018I Got Chills\u2019",
-        "link": "https://variety.com/2026/film/news/kevin-feige-ryan-coogler-david-jonsson-black-panther-3-1236821563/"
-      },
-      {
-        "title": "Gracie Abrams Scores First No. 1 on Albums Chart With \u2018Daughter From Hell\u2019",
-        "link": "https://variety.com/2026/music/news/gracie-abrams-scores-first-no-1-daughter-from-hell-1236821550/"
-      },
-      {
-        "title": "Tom Holland: Some of My Movies Are \u2018S\u2013t\u2019 and You \u2018Shouldn\u2019t\u2019 Watch Them",
-        "link": "https://variety.com/2026/film/news/tom-holland-some-movies-shit-shouldnt-watch-1236821438/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "On Heels of World Cup, Polo Star Nacho Figueras Says Horseback Sport Has \u2018All the Ingredients to Be the Next Big Thing\u2019",
+        "title": "\u2018President Curtis\u2019 Creator Dan Harmon on Trump, Obama Influencing Show and His Vision for \u2018Rick and Morty\u2019 Movie",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/president-curtis-dan-harmon-trump-rick-and-morty-movie-1236656937/"
+      },
+      {
+        "title": "Dylan Mulvaney Responds After Trump Mocks Her and CNN\u2019s Kaitlan Collins at White House Correspondents\u2019 Dinner",
+        "link": "https://www.hollywoodreporter.com/news/general-news/dylan-mulvaney-responds-trump-kaitlan-collins-1236656955/"
+      },
+      {
+        "title": "On Heels of World Cup, Polo Star Nacho Figueras Says Horseback Sport Has \u201cAll the Ingredients to Be the Next Big Thing\u201d",
         "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/nacho-figueras-talks-polo-show-st-regis-cowdray-gold-cup-1236655651/"
       },
       {
         "title": "Martin Scorsese Stars in \u2018Family Blend\u2019 Directed by Daughter Francesca for Coffee Brand Lavazza",
         "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/martin-scorsese-daughter-francesca-lavazza-coffee-series-1236656911/"
-      },
-      {
-        "title": "Where to Watch Shark Week 2026 Online: Schedule, Streaming Guide",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-shark-week-2026-schedule-stream-online-free-1236656810/"
-      },
-      {
-        "title": "Tom Holland Says Some of His Movies Are \u201cSh**,\u201d Making Them Hard to Promote",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/tom-holland-some-movies-bad-hard-promote-1236656794/"
       }
     ],
     "larb": [],
