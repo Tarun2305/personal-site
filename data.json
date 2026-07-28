@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28 11:10 UTC",
+  "last_updated": "2026-07-28 13:47 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,8 +7,8 @@
         "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Fourth heatwave grips parts of UK with 35C forecast",
-        "link": "https://www.bbc.co.uk/weather/articles/cg4d190z6xko?at_medium=RSS&at_campaign=rss"
+        "title": "French patrol boat appears to fire gunshots in the Channel during MP's BBC interview",
+        "link": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Naga Munchetty to leave BBC Breakfast after 17 years",
@@ -21,24 +21,32 @@
     ],
     "aljazeera": [
       {
-        "title": "Moment 7.1-magnitude earthquake rocks southern Japan",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/moment-7-1-magnitude-earthquake-rocks-southern-japan?traffic_source=rss"
+        "title": "Trump says \u2018good chance\u2019 of progress in Iran talks. What we know",
+        "link": "https://www.aljazeera.com/news/2026/7/28/trump-says-good-chance-of-progress-in-iran-talks-what-we-know?traffic_source=rss"
       },
       {
-        "title": "Zinedine Zidane named as France head coach following World Cup 2026",
-        "link": "https://www.aljazeera.com/sports/2026/7/28/zidane-named-new-france-head-coach-after-fifa-world-cup-2026?traffic_source=rss"
+        "title": "Pregnant Palestinian woman loses baby after Israeli checkpoint stop",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/pregnant-palestinian-woman-loses-baby-after-israeli-checkpoint-stop?traffic_source=rss"
       },
       {
-        "title": "Netanyahu in the White House: What\u2019s on the agenda and what\u2019s next?",
-        "link": "https://www.aljazeera.com/news/2026/7/28/netanyahu-in-the-white-house-whats-on-the-agenda-and-whats-next?traffic_source=rss"
+        "title": "Moment Canadian politician accidentally reads AI prompt during speech",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/moment-canadian-politician-accidentally-reads-ai-prompt-during-speech?traffic_source=rss"
       },
       {
-        "title": "\u2018Future at stake\u2019: India moves to demolish university Muslim leader founded",
-        "link": "https://www.aljazeera.com/news/2026/7/28/future-at-stake-india-moves-to-demolish-university-muslim-leader-founded?traffic_source=rss"
+        "title": "\u2018We\u2019re here to stay\u2019: West Bank Palestinians defy Israeli attacks",
+        "link": "https://www.aljazeera.com/features/2026/7/28/were-here-to-stay-west-bank-palestinians-defy-israeli-attacks?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "West Ham latest: Ajax and Real Sociedad interested in Alvarez",
+        "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news"
+      },
+      {
+        "title": "Why has Hamilton received so many penalties and what have they cost him?",
+        "link": "https://www.skysports.com/f1/news/12040/13567685/lewis-hamilton-why-has-ferrari-driver-received-so-many-penalties-and-what-is-impact-on-championship-battle-with-kimi-antonelli"
+      },
       {
         "title": "Aston Villa latest: Digne to join PSG after his holiday",
         "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
@@ -46,19 +54,15 @@
       {
         "title": "Mithaaly chases first success at Yarmouth",
         "link": "https://www.skysports.com/racing/news/12040/13567222/today-on-sky-sports-racing-ffos-las-and-yarmouth"
-      },
-      {
-        "title": "The science behind Luke Littler's trophy-laden success",
-        "link": "https://www.skysports.com/darts/news/12040/13567352/luke-littler-target-darts-explain-the-science-behind-world-no-1s-phenomenal-success"
-      },
-      {
-        "title": "'Never had a season like this' - Russell 'p****d off' at latest Mercedes issue",
-        "link": "https://www.skysports.com/f1/news/12040/13567397/george-russell-mercedes-driver-says-hes-never-had-a-season-like-this-in-my-career-after-hungarian-gp-engine-woes"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "The Box Set: An Appreciation, Vol. 3",
+        "link": "https://aquariumdrunkard.com/2026/07/28/the-box-set-an-appreciation-vol-3/"
+      },
       {
         "title": "Echo Upstairs :: Estranhos Lugares Para os Olhos",
         "link": "https://aquariumdrunkard.com/2026/07/27/echo-upstairs-estranhos-lugares-para-os-olhos/"
@@ -70,30 +74,26 @@
       {
         "title": "The Babe Rainbow :: Acid and Honey",
         "link": "https://aquariumdrunkard.com/2026/07/24/the-babe-rainbow-acid-and-honey/"
-      },
-      {
-        "title": "Ryuichi Sakamoto :: Beauty",
-        "link": "https://aquariumdrunkard.com/2026/07/23/ryuichi-sakamoto-beauty/"
       }
     ],
     "bfi": [],
     "criterion": [],
     "rogerebert": [
       {
+        "title": "Everything for Someone: San Diego Comic-Con 2026 Part 2",
+        "link": "https://www.rogerebert.com/festivals/everything-for-someone-san-diego-comic-con-2026-part-2"
+      },
+      {
+        "title": "Advance to Paradise, Retreat to Hell: Kiyoshi Kurosawa on \u201cThe Samurai and the Prisoner\u201d",
+        "link": "https://www.rogerebert.com/interviews/samurai-and-the-prisoner-kiyoshi-kurosawa-interview"
+      },
+      {
+        "title": "Get on the Train: \u201cNYC in Transit\u201d Launches at Film Forum",
+        "link": "https://www.rogerebert.com/mzs/get-on-the-train-nyc-in-transit-launches-at-film-forum"
+      },
+      {
         "title": "San Diego Comic-Con 2026: Composers, Costume Designers, and Brad Bird in Hall H",
         "link": "https://www.rogerebert.com/festivals/san-diego-comic-con-2026-composers-costume-designers-and-brad-bird-in-hall-h"
-      },
-      {
-        "title": "A Home Away from Home: Goodbye to the Lake Street Screening Room",
-        "link": "https://www.rogerebert.com/features/a-home-away-from-home-goodbye-to-the-lake-street-screening-room"
-      },
-      {
-        "title": "What Could Have Been: Kaylee Hottle (2007-2026)",
-        "link": "https://www.rogerebert.com/tributes/what-could-have-been-kaylee-hottle-2007-2026"
-      },
-      {
-        "title": "With \u201cThe Odyssey,\u201d Christopher Nolan Has Crafted The Best Horror Film of The Year",
-        "link": "https://www.rogerebert.com/features/with-the-odyssey-christopher-nolan-has-crafted-the-best-horror-film-of-the-year"
       }
     ],
     "filmcomment": [
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018Spider-Man: Brand New Day\u2019 Review: The MCU Wastes Its Chance for a Fresh Start with a Dull and Downbeat Sequel",
+        "link": "https://www.indiewire.com/criticism/movies/spider-man-brand-new-day-review-1235207238/"
+      },
+      {
         "title": "\u2018Sour Minnows\u2019 Review: A Hypnotic Horror Movie About Being Human When Nothing Feels Real",
         "link": "https://www.indiewire.com/criticism/movies/sour-minnows-review-harrison-atkins-1235207114/"
       },
@@ -163,46 +167,42 @@
       {
         "title": "Sundance Names Six Fellows for 2026 Trans Possibilities Intensive",
         "link": "https://www.indiewire.com/news/general-news/sundance-trans-possibilities-intensive-2026-fellows-1235207172/"
-      },
-      {
-        "title": "Seeing the Daytime and Primetime Emmys as Equal Could Help Great TV Survive",
-        "link": "https://www.indiewire.com/awards/industry/natas-television-academy-reunion-woud-help-tv-survive-1235207163/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018The Odyssey\u2019 Holds Top Spot as Vijay\u2019s \u2018Jana Nayagan\u2019 Bows at No. 5 at U.K. and Ireland Box Office",
-        "link": "https://variety.com/2026/film/box-office/the-odyssey-vijay-jana-nayagan-uk-ireland-box-office-1236822422/"
+        "title": "Can Anyone Other Than Christopher Nolan Shoot a Film Entirely on Imax?",
+        "link": "https://variety.com/2026/film/news/christopher-nolan-imax-film-cameras-odyssey-ryan-coogler-dune-3-1236820321/"
       },
       {
-        "title": "Immersive Cinematic Art Platform Xinemarte Makes Malaysia Debut at MIFFest With \u2018The Room Remembers\u2019",
-        "link": "https://variety.com/2026/film/festivals/xinemarte-malaysia-miffest-room-remembers-1236822413/"
+        "title": "Bangkok International Content Market Bows With Strong Debut, Logs Over $65 Million in Deals",
+        "link": "https://variety.com/2026/film/news/bangkok-international-content-market-bicm2026-debut-1236822514/"
       },
       {
-        "title": "\u2018Chrysalis\u2019 Lands Vietnam Theatrical Deal With CJ CGV, Sets September Release (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/news/chrysalis-vietnam-theatrical-cj-cgv-1236822408/"
+        "title": "\u2018Ted Lasso\u2019 Season 4 Trailer: Jason Sudeikis\u2019 Beloved Coach Takes On Women\u2019s Soccer",
+        "link": "https://variety.com/2026/tv/global/ted-lasso-season-4-trailer-jason-sudeikis-womens-soccer-1236597835/"
       },
       {
-        "title": "San Sebastian Competition Title \u2018In My Father\u2019s Room\u2019 Boarded by Bitter\u2019s End for Sales (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/festivals/san-sebastian-competition-in-my-fathers-room-bitters-end-1236822399/"
+        "title": "\u2018Children of Blood and Bone\u2019 Trailer: Magical African Fantasy Novel Comes to Life With Damson Idris, Cynthia Erivo, Viola Davis and More",
+        "link": "https://variety.com/2026/film/news/children-of-blood-and-bone-trailer-book-1236812576/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "New Mike Leigh, Pablo Larrain Films in San Sebastian Competition",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/marion-cotillard-mike-leigh-pablo-larrain-in-san-sebastian-1236658023/"
+        "title": "\u2018Children of Blood and Bone\u2019 Trailer Reveals All-Star Cast For Film Adaptation of\u00a0Tomi Adeyemi\u2019s Bestseller",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/children-of-blood-and-bone-trailer-tomi-adeyemi-1236658012/"
       },
       {
-        "title": "How the World Cup Boosted Canal+ Results",
-        "link": "https://www.hollywoodreporter.com/business/business-news/2026-world-cup-boost-canal-plus-first-half-year-results-1236658014/"
+        "title": "\u2018Spider-Man: Brand New Day\u2019 Review: Tom Holland Bares His Soul in a Superhero Installment That Balances Self-Reflection With Action",
+        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/spider-man-brand-new-day-review-tom-holland-zendaya-1236657988/"
       },
       {
-        "title": "Locarno Films About (In)Famous People: From an Ex-Florida Prison Inmate to Albert Serra on Ingrid Caven",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/locarno-2026-films-prison-inmate-albert-serra-ingrid-caven-1236657194/"
+        "title": "\u2018Ted Lasso\u2019 Is Back With Season 4 Trailer",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/ted-lasso-season-4-trailer-release-date-1236658043/"
       },
       {
-        "title": "Tom Holland Says He\u2019ll Play Spider-Man \u201cFor as Long as They\u2019ll Have Me\u201d After \u2018Brand New Day\u2019: \u201cIf This Movie Does Good, I Guess We\u2019ll See!\u201d",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/tom-holland-spider-man-brand-new-day-premiere-1236657726/"
+        "title": "\u2018Babylon Berlin\u2019 Sets Finale Date, Unveils Video Game, Documentary, Audio Spinoffs",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/babylon-berlin-sets-finale-date-video-game-audio-spinoffs-1236658034/"
       }
     ],
     "larb": [],
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "Where Was Your Backyard 145 Million Years Ago?",
+        "link": "https://nautil.us/where-was-your-backyard-145-million-years-ago-1283084/"
+      },
+      {
         "title": "Mysterious Human Relative Was Bigger Than Previously Thought",
         "link": "https://nautil.us/mysterious-human-relative-was-bigger-than-previously-thought-1283071/"
       },
@@ -290,14 +294,14 @@
       {
         "title": "Why Do Psychiatric Disorders Persist in Humans?",
         "link": "https://nautil.us/why-do-psychiatric-disorders-persist-in-humans-1283057/"
-      },
-      {
-        "title": "Why an Icy Hummingbird Has Emerged in Antarctica",
-        "link": "https://nautil.us/why-an-icy-hummingbird-has-emerged-in-antarctica-1283049/"
       }
     ],
     "worksinprogress": [],
     "noema": [
+      {
+        "title": "Inside The Lab Growing Mutant Bacteria To Terraform Earth",
+        "link": "https://www.noemamag.com/inside-the-lab-growing-mutant-bacteria-to-terraform-earth"
+      },
       {
         "title": "The 2026 Berggruen Prize Essay Competition Topic: \u2018A New Axial Age?\u2019",
         "link": "https://www.noemamag.com/the-2026-berggruen-prize-essay-competition-topic-a-new-axial-age"
@@ -309,10 +313,6 @@
       {
         "title": "What Humanity Needs To Flourish In The Next Decade",
         "link": "https://www.noemamag.com/what-humanity-needs-to-flourish-in-the-next-decade"
-      },
-      {
-        "title": "The Heated Debate In Europe Over Air Conditioning",
-        "link": "https://www.noemamag.com/the-heated-debate-in-europe-over-air-conditioning"
       }
     ]
   }
