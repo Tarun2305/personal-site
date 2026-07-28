@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28 16:29 UTC",
+  "last_updated": "2026-07-28 19:13 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,38 +7,46 @@
         "link": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "Some parents on benefits to get up to \u00a34,500 for child starting apprenticeship",
+        "link": "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Uefa reacts with fury to Infantino World Cup plan",
         "link": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "French Navy carries out 'shooting drill' during MP's BBC interview",
-        "link": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Powell says student loan system at top of in-tray",
-        "link": "https://www.bbc.co.uk/news/articles/ce8l064xe52o?at_medium=RSS&at_campaign=rss"
+        "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
+        "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Is Netanyahu\u2019s Trump card losing its power in Israel?",
-        "link": "https://www.aljazeera.com/news/2026/7/28/is-netanyahus-trump-card-losing-its-power-in-israel?traffic_source=rss"
+        "title": "Malaysian foreign minister calls for review of UNHCR\u2019s presence",
+        "link": "https://www.aljazeera.com/news/2026/7/28/malaysian-foreign-minister-calls-for-review-of-unhcrs-presence?traffic_source=rss"
       },
       {
-        "title": "Iran rejects Trump frozen funds plan, warns ships of Hormuz transit ban",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/iran-rejects-trump-frozen-funds-plan-warns-ships-of-hormuz-transit-ban?traffic_source=rss"
+        "title": "\u2018No freedom at all\u2019: Israeli closures leave West Bank patients trapped",
+        "link": "https://www.aljazeera.com/news/2026/7/28/no-freedom-at-all-israeli-closures-leave-west-bank-patients-trapped?traffic_source=rss"
       },
       {
-        "title": "Trump expresses frustration with Netanyahu before White House meeting",
-        "link": "https://www.aljazeera.com/news/2026/7/28/trump-expresses-frustration-with-netanyahu-before-white-house-meeting?traffic_source=rss"
+        "title": "Uganda declares end to Ebola outbreak",
+        "link": "https://www.aljazeera.com/news/2026/7/28/uganda-declares-end-to-ebola-outbreak?traffic_source=rss"
       },
       {
-        "title": "German investigators find apparent motive after Berlin Pride attack",
-        "link": "https://www.aljazeera.com/news/2026/7/28/german-investigators-find-apparent-motive-after-berlin-pride-attack?traffic_source=rss"
+        "title": "Lindsey Graham \u2018almost cried\u2019 tears of joy over war on Iran, footage shows",
+        "link": "https://www.aljazeera.com/news/2026/7/28/lindsey-graham-almost-cried-tears-of-joy-over-war-on-iran-footage-shows?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "Next darting superstar? Coates, 20, wins maiden PDC title",
+        "link": "https://www.skysports.com/darts/news/12040/13567883/darts-players-championship-25-henry-coates-wins-maiden-tournament-as-gian-van-veen-michael-van-gerwen-bow-out-early"
+      },
+      {
+        "title": "Mandhana fires Manchester Super Giants to victory over SunRisers Leeds",
+        "link": "https://www.skysports.com/cricket/news/12040/13567867/the-hundred-smriti-mandhana-magic-fires-manchester-super-giants-to-victory-over-sunrisers-leeds-at-headingley"
+      },
       {
         "title": "Scandinavia retains Goodwood Cup crown after eventful race",
         "link": "https://www.skysports.com/racing/news/12040/13567825/goodwood-cup-scandinavia-retains-group-1-crown-after-eventful-race"
@@ -46,14 +54,6 @@
       {
         "title": "West Ham latest: Ajax and Real Sociedad interested in Alvarez",
         "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news"
-      },
-      {
-        "title": "Vinicius Jr to stay at Real Madrid beyond this summer",
-        "link": "https://www.skysports.com/football/news/12040/13567839/real-madrid-transfer-news-vinicius-junior-to-stay-at-the-santiago-bernabeu-beyond-this-summer-despite-arsenal-interest"
-      },
-      {
-        "title": "Why has Hamilton received so many penalties and what have they cost him?",
-        "link": "https://www.skysports.com/f1/news/12040/13567685/lewis-hamilton-why-has-ferrari-driver-received-so-many-penalties-and-what-is-impact-on-championship-battle-with-kimi-antonelli"
       }
     ],
     "pitchfork": [],
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018The Samurai and the Prisoner\u2019 Review: Kiyoshi Kurosawa\u2019s Samurai Murder-Mystery Needs a Sharper Blade",
+        "link": "https://www.indiewire.com/criticism/movies/the-samurai-and-the-prisoner-movie-review-kiyoshi-kurosawa-1235195105/"
+      },
+      {
+        "title": "Mike Leigh Says \u2018Tender Loving Care\u2019 Is Most Likely His Final Film Due to Illness",
+        "link": "https://www.indiewire.com/features/interviews/mike-leigh-tender-loving-care-most-likely-last-movie-1235207263/"
+      },
+      {
+        "title": "\u2018Elsinore\u2019 with Andrew Scott and Olivia Colman Gets November Release Date and First Look Ahead of TIFF",
+        "link": "https://www.indiewire.com/news/general-news/elsinore-olivia-colman-andrew-scott-release-date-first-look-1235207252/"
+      },
+      {
         "title": "One of Joan Crawford\u2019s Best Movies Is Available for the First Time in 90 Years",
         "link": "https://www.indiewire.com/features/commentary/joan-crawford-letty-lynton-4k-restoration-on-blu-ray-1235207139/"
-      },
-      {
-        "title": "Tony Gilroy\u2019s \u2018Behemoth!\u2019 to World Premiere as New York Film Festival Centerpiece",
-        "link": "https://www.indiewire.com/news/festivals/behemoth-nyff-centerpiece-screening-2026-1235207191/"
-      },
-      {
-        "title": "\u2018Barbara Forever\u2019 Trailer: A Documentary as Radical as the Lesbian Avant-Garde Filmmaker It\u2019s About",
-        "link": "https://www.indiewire.com/news/trailers/barbara-hammer-documentary-barbara-forever-trailer-watch-1235207160/"
-      },
-      {
-        "title": "\u2018Spider-Man: Brand New Day\u2019 Review: The MCU Wastes Its Chance for a Fresh Start with a Dull and Downbeat Sequel",
-        "link": "https://www.indiewire.com/criticism/movies/spider-man-brand-new-day-review-1235207238/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018Your Friends & Neighbors\u2019 Star Lena Hall Joins Chad Michael Murray in \u2018Disconnecting Peter\u2019 (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/news/lena-hall-chad-michael-murray-disconnecting-peter-1236822722/"
+        "title": "\u2018I Will Find You\u2019 Becomes Netflix\u2019s No. 10 Most-Popular English-Language TV Series of All Time",
+        "link": "https://variety.com/2026/tv/news/i-will-find-you-netflix-ratings-record-1236822866/"
       },
       {
-        "title": "Magic: The Gathering Reveals New \u2018The Hobbit\u2019 Card Featuring Iconic J.R.R. Tolkien Character (EXCLUSIVE)",
-        "link": "https://variety.com/2026/gaming/news/magic-the-gathering-hobbit-spoiler-card-gloin-1236822100/"
+        "title": "Gold Medal Figure Skater and Magic: The Gathering Superfan Amber Glenn on Her 100,000-Card Collection and What She\u2019d Want in Her Own \u2018Secret Lair\u2019 Set",
+        "link": "https://variety.com/2026/gaming/news/magic-the-gathering-amber-glenn-secret-lair-card-ideas-1236822081/"
       },
       {
-        "title": "Why Canceling My Tour Relaunched and Revived My Career As an Independent Artist, by JP Saxe (Guest Column)",
-        "link": "https://variety.com/2026/music/news/jp-saxe-why-canceling-tour-revived-career-guest-column-1236822288/"
+        "title": "\u2018Biological War\u2019 TV Adaptation in the Works at Universal Global Television and Patrick Macmanus\u2019 Littleton Road Productions (EXCLUSIVE)",
+        "link": "https://variety.com/2026/tv/news/biological-war-tv-adaptation-universal-patrick-macmanus-1236822153/"
       },
       {
-        "title": "Josh Hartnett Battles a Sea Monster in First Teaser for Netflix Thriller Series \u2018Below\u2019",
-        "link": "https://variety.com/2026/tv/news/josh-hartnett-netflix-series-below-teaser-1236822698/"
+        "title": "Mary Beth Barone on Her Debut Netflix Special \u2018Galaxy Brain,\u2019 Wanting to \u2018Offend the Correct People\u2019 and \u2018Overcompensating\u2019 Season 2: It\u2019s \u2018Sadder but Also Funnier\u2019",
+        "link": "https://variety.com/2026/tv/news/mary-beth-barone-netflix-special-galaxy-brain-overcompensating-1236821768/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Josh Hartnett Battles a Sea Monster in Teaser for Netflix\u2019s \u2018Below\u2019",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/josh-hartnett-netflix-below-teaser-1236657324/"
+        "title": "Harlan Coben, Showrunner Robert Hull Break Down \u2018I Will Find You\u2019s\u2019 Appeal as Series Hits Netflix\u2019s All-Time Top 10 (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/i-will-find-you-harlan-coben-netflix-all-time-top-10-1236658109/"
       },
       {
-        "title": "Prime Video\u2019s \u2019The Last Sunrise\u2019 Trailer: Love and Secrets Unfold in Romance Starring Maia Reficco and Fernando Lindez",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/the-last-sunrise-trailer-maia-reficco-fernando-lindez-1236658116/"
+        "title": "Penske Media Sued by Hollywood Foreign Press Association Over Golden Globes Buy",
+        "link": "https://www.hollywoodreporter.com/business/business-news/penske-media-sued-hollywood-foreign-press-golden-globes-1236658413/"
       },
       {
-        "title": "HBO Max Dips Toe Into Vertical Video With \u2018HBO Max Shorts\u2019",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/hbo-max-shorts-vertical-video-new-ai-driven-features-1236658099/"
+        "title": "Kaitlan Collins Isn\u2019t Surprised Trump Insulted Her at the White House Correspondents\u2019 Dinner",
+        "link": "https://www.hollywoodreporter.com/news/general-news/kaitlan-collins-responds-trump-dylan-mulvaney-whcd-1236658179/"
       },
       {
-        "title": "Tony Gilroy\u2019s Pedro Pascal Starrer \u2018Behemoth!\u2019 to World Premiere at NY Film Festival",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/tony-gilroy-pedro-pascal-behemoth-ny-film-fest-premiere-1236658091/"
+        "title": "Kent Broadhurst, \u2018Silver Bullet\u2019 Actor and \u2018Wild Iris\u2019 Screenwriter, Dies at 86",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/kent-broadhurst-dead-silver-bullet-stephen-king-1236658370/"
       }
     ],
     "larb": [],
@@ -244,6 +244,10 @@
     ],
     "publicdomainreview": [
       {
+        "title": "\u201cThe Persian M\u00e2r-N\u00e2meh or, The Book for Taking Omens from Snakes\u201d (1892)\n",
+        "link": "https://publicdomainreview.org/collection/marnameh"
+      },
+      {
         "title": "Archie G. Norcross\u2019 Maine Forest Fire Maps (1918\u201322)\n",
         "link": "https://publicdomainreview.org/collection/maine-forest-fire-maps"
       },
@@ -254,10 +258,6 @@
       {
         "title": "Peruvianizing Peru: Covers from Amauta Magazine (1926\u201330)\n",
         "link": "https://publicdomainreview.org/collection/amauta-covers"
-      },
-      {
-        "title": "Choice Notes on History from Notes and Queries (1858)\n",
-        "link": "https://publicdomainreview.org/collection/choice-notes-from-notes-and-queries"
       }
     ],
     "quanta": [
@@ -280,20 +280,20 @@
     ],
     "nautilus": [
       {
+        "title": "Omniscient Tree Networks, Immortal Amoebas, and Hope",
+        "link": "https://nautil.us/omniscient-tree-networks-immortal-amoebas-and-hope-1283103/"
+      },
+      {
+        "title": "The Humble Amoeba Is Smarter Than You Think",
+        "link": "https://nautil.us/the-humble-amoeba-is-smarter-than-you-think-1283100/"
+      },
+      {
         "title": "Why We Stopped Burying Our Dead at Home",
         "link": "https://nautil.us/why-we-stopped-burying-our-dead-at-home-1283097/"
       },
       {
         "title": "An Abandoned SpaceX Rocket Is About to Crash Into the Moon. The Real Problem Comes Next",
         "link": "https://nautil.us/an-abandoned-spacex-rocket-is-about-to-crash-into-the-moon-the-real-problem-comes-next-1283069/"
-      },
-      {
-        "title": "Where Was Your Backyard 145 Million Years Ago?",
-        "link": "https://nautil.us/where-was-your-backyard-145-million-years-ago-1283084/"
-      },
-      {
-        "title": "Mysterious Human Relative Was Bigger Than Previously Thought",
-        "link": "https://nautil.us/mysterious-human-relative-was-bigger-than-previously-thought-1283071/"
       }
     ],
     "worksinprogress": [],
