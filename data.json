@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-07-28 05:40 UTC",
+  "last_updated": "2026-07-28 08:22 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Schools to offer technical subjects to pupils from age 14, Burnham says",
+        "title": "Schools to offer technical subjects from age 14 in England, Burnham says",
         "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Spain and France brace for new heatwaves as wildfire closes in on Bordeaux",
-        "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Devastating European wildfires in maps - and how they're being tackled",
-        "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption",
+        "title": "The cocaine superhighway from Ecuador to Europe - BBC reports on the gangs and the police fightback",
         "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Reform UK reports Zack Polanski to police over guillotine T-shirt post",
+        "link": "https://www.bbc.co.uk/news/articles/c5y063yqlleo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
+        "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Mamdani tackles cost of living crisis in New York with 30% discounts",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/mamdani-tackles-cost-of-living-crisis-in-new-york-with-30-discounts?traffic_source=rss"
+        "title": "\u2018War criminal\u2019: Protesters confront Netanyahu motorcade in Washington DC",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/war-criminal-protesters-confront-netanyahu-motorcade-in-washington-dc?traffic_source=rss"
       },
       {
-        "title": "Malaysia detains more than 100 Rohingya seeking help from the UN",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/malaysia-detains-more-than-100-rohingya-seeking-help-from-the-un?traffic_source=rss"
+        "title": "Conor McGregor calls for third UFC fight against Max Holloway in 2027",
+        "link": "https://www.aljazeera.com/sports/2026/7/28/conor-mcgregor-calls-for-third-ufc-fight-against-max-holloway-in-2027?traffic_source=rss"
       },
       {
-        "title": "Trump calls protester \u2018communist\u2019 after Michigan speech interruption",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_trump-calls-heckler-communist-speech-interruption-280726?traffic_source=rss"
+        "title": "Ukraine\u2019s \u2018volunteer army\u2019 helps rebuild what Russia destroys",
+        "link": "https://www.aljazeera.com/news/2026/7/28/ukraines-volunteer-army-helps-rebuild-what-russia-destroys?traffic_source=rss"
       },
       {
-        "title": "Israeli ex-generals urge Trump to push Netanyahu on \u2018settler terror\u2019",
-        "link": "https://www.aljazeera.com/news/2026/7/28/israeli-ex-generals-urge-trump-to-push-netanyahu-on-settler-terror?traffic_source=rss"
+        "title": "Refugee Convention at 75: The world must keep the promise that saved me",
+        "link": "https://www.aljazeera.com/opinions/2026/7/28/refugee-convention-at-75-the-world-must-keep-the-promise-that-saved-me?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "'Never had a season like this' - Russell p****d off at latest Mercedes issue",
+        "title": "Mithaaly chases first success at Yarmouth",
+        "link": "https://www.skysports.com/racing/news/12040/13567222/today-on-sky-sports-racing-ffos-las-and-yarmouth"
+      },
+      {
+        "title": "The science behind Luke Littler's trophy-laden success",
+        "link": "https://www.skysports.com/darts/news/12040/13567352/luke-littler-target-darts-explain-the-science-behind-world-no-1s-phenomenal-success"
+      },
+      {
+        "title": "'Never had a season like this' - Russell 'p****d off' at latest Mercedes issue",
         "link": "https://www.skysports.com/f1/news/12040/13567397/george-russell-mercedes-driver-says-hes-never-had-a-season-like-this-in-my-career-after-hungarian-gp-engine-woes"
       },
       {
         "title": "O'Sullivan sets deadline to win record eighth snooker world title",
         "link": "https://www.skysports.com/snooker/news/12040/13567523/ronnie-osullivan-sets-2028-deadline-to-beat-stephen-hendry-record-of-seven-world-snooker-championship-titles"
-      },
-      {
-        "title": "Stones verbally agrees Inter move amid Arsenal, Chelsea interest",
-        "link": "https://www.skysports.com/football/news/12040/13567544/john-stones-transfer-news-england-international-verbally-agrees-deal-to-join-inter-milan-amid-interest-from-arsenal-and-chelsea"
-      },
-      {
-        "title": "Brundle's verdict on 'relentless' Norris, Piastri-Sainz incident and Malaysia return",
-        "link": "https://www.skysports.com/f1/news/12040/13567450/hungarian-gp-martin-brundle-on-relentless-lando-norris-oscar-piastri-carlos-sainz-incident-and-malaysia-return-to-f1-calendar"
       }
     ],
     "pitchfork": [],
@@ -116,6 +116,10 @@
     ],
     "mubi": [
       {
+        "title": "An Obligation to Look: Cinema in the Aftermath of War",
+        "link": "https://mubi.com/en/notebook/posts/an-obligation-to-look-cinema-in-the-aftermath-of-war"
+      },
+      {
         "title": "\u201cThe Dziga Vertov Group Rises Again, and It Needs You\u201d: Jean-Pierre Gorin in New York",
         "link": "https://mubi.com/en/notebook/posts/the-dziga-vertov-group-rises-again-and-it-needs-you-jean-pierre-gorin-in-new-york"
       },
@@ -126,10 +130,6 @@
       {
         "title": "Getting the Scoop in Bologna",
         "link": "https://mubi.com/en/notebook/posts/getting-the-scoop-in-bologna"
-      },
-      {
-        "title": "Minor Keys and Major Unrest",
-        "link": "https://mubi.com/en/notebook/posts/minor-keys-and-major-unrest"
       }
     ],
     "reverseshot": [],
@@ -171,6 +171,10 @@
     ],
     "variety": [
       {
+        "title": "\u2018Kill Jackie,\u2019 Starring a Glamorous, Lethal Catherine Zeta-Jones, Acquired by Warner Bros. Discovery for HBO Max (EXCLUSIVE) \u00a0",
+        "link": "https://variety.com/2026/tv/global/catherine-zeta-jones-warner-bros-discovery-hbo-max-1236822368/"
+      },
+      {
         "title": "\u2018Spider-Man: Brand New Day\u2019 First Reactions: Tom Holland Has \u2018Never Been Better\u2019 in a Sequel That Ditches \u2018Multiverse Tedium\u2019 and Delivers a \u2018Grounded Spider-Man Tale\u2019",
         "link": "https://variety.com/2026/film/news/spider-man-brand-new-day-first-reactions-tom-holland-1236821722/"
       },
@@ -181,13 +185,13 @@
       {
         "title": "Ariana Grande Sues Hackers for Leaking Unreleased Music and Footage",
         "link": "https://variety.com/2026/music/news/ariana-grande-sues-hackers-leaking-unreleased-music-footage-1236822277/"
-      },
-      {
-        "title": "\u2018Dungeon Crawler Carl\u2019s\u2019 Breakout, Ryan Reynolds\u2019 Jeanpool Stunt and More Comic-Con Highlights",
-        "link": "https://variety.com/2026/film/news/dungeon-crawler-carl-ryan-reynolds-jeanpool-comic-con-1236822244/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "Locarno Films About (In)Famous People: From an Ex- Florida Prison Inmate to Albert Serra on Ingrid Caven",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/locarno-2026-films-prison-inmate-albert-serra-ingrid-caven-1236657194/"
+      },
       {
         "title": "Tom Holland Says He\u2019ll Play Spider-Man \u201cFor as Long as They\u2019ll Have Me\u201d After \u2018Brand New Day\u2019: \u201cIf This Movie Does Good, I Guess We\u2019ll See!\u201d",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/tom-holland-spider-man-brand-new-day-premiere-1236657726/"
@@ -199,10 +203,6 @@
       {
         "title": "Michael B. Jordan Reacts to David Jonsson\u2019s \u2018Black Panther 3\u2019 Casting",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/michael-b-jordan-reacts-david-jonsson-black-panther-casting-1236657741/"
-      },
-      {
-        "title": "Eva Mendes Reacts to Husband Ryan Gosling\u2019s \u2018Ghost Rider\u2019 Casting",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/eva-mendes-reacts-ryan-gosling-ghost-rider-casting-1236657723/"
       }
     ],
     "larb": [],
