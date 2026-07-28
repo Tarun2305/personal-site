@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27 21:59 UTC",
+  "last_updated": "2026-07-28 01:54 UTC",
   "feeds": {
     "bbc": [
       {
@@ -11,30 +11,30 @@
         "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Funeral director who left people unburied breached families' trust 'on industrial scale', court hears",
-        "link": "https://www.bbc.co.uk/news/articles/cp8ek0682jdo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Reform UK reports Zack Polanski to police over guillotine T-shirt post",
         "link": "https://www.bbc.co.uk/news/articles/c5y063yqlleo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "New technical education routes to be offered at 14 in England",
+        "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Video shows man subdued after stabbing three women in Paris",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/video-shows-man-subdued-after-stabbing-three-women-in-paris?traffic_source=rss"
+        "title": "Former senior ICE official says rush for numbers is causing deaths",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_former-ice-official-rush-for-numbers-causing-deaths-270726?traffic_source=rss"
       },
       {
-        "title": "Trump asks US Supreme Court to allow mail-in voting restrictions",
-        "link": "https://www.aljazeera.com/news/2026/7/27/trump-asks-us-supreme-court-to-allow-mail-in-voting-restrictions?traffic_source=rss"
+        "title": "J&J offers $5.5bn settlement in lawsuits claiming talc link to cancer",
+        "link": "https://www.aljazeera.com/news/2026/7/28/jj-reaches-5-5bn-settlement-over-lawsuits-tying-talc-to-ovarian-cancer?traffic_source=rss"
       },
       {
-        "title": "UN slams Israel\u2019s expansion of illegal settlements in occupied West Bank",
-        "link": "https://www.aljazeera.com/news/2026/7/27/un-slams-israels-expansion-of-illegal-settlements-in-occupied-west-bank?traffic_source=rss"
+        "title": "Houthis want to copy Iran\u2019s Hormuz control in the Red Sea: Yemeni FM",
+        "link": "https://www.aljazeera.com/news/2026/7/28/houthis-want-to-copy-irans-hormuz-control-in-the-red-sea-yemeni-fm?traffic_source=rss"
       },
       {
-        "title": "Nvidia plans $250bn push to bolster OpenAI\u2019s infrastructure ambitions",
-        "link": "https://www.aljazeera.com/economy/2026/7/27/nvidia-plans-250bn-push-to-bolster-openais-infrastructure-ambitions?traffic_source=rss"
+        "title": "Savannah Guthrie pleads for help to find missing mother",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/savannah-guthrie-pleads-for-help-to-find-missing-mother?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018Sour Minnows\u2019 Review: A Hypnotic Horror Movie About Being Human When Nothing Feels Real",
+        "link": "https://www.indiewire.com/criticism/movies/sour-minnows-review-harrison-atkins-1235207114/"
+      },
+      {
         "title": "It May Take More Than 10 Years for Nolan\u2019s \u2018The Odyssey\u2019 to Impress Classicists Like Translator Emily Wilson",
         "link": "https://www.indiewire.com/news/general-news/the-odyssey-reaction-emily-wilson-1235207154/"
       },
@@ -163,46 +167,42 @@
       {
         "title": "Seeing the Daytime and Primetime Emmys as Equal Could Help Great TV Survive",
         "link": "https://www.indiewire.com/awards/industry/natas-television-academy-reunion-woud-help-tv-survive-1235207163/"
-      },
-      {
-        "title": "\u2018Hadestown\u2019 Didn\u2019t Put Up \u2018The Odyssey\u2019 Numbers, but the Musical Had a Historic Box Office Weekend",
-        "link": "https://www.indiewire.com/news/box-office/hadestown-the-musical-box-office-weekend-1235207133/"
       }
     ],
     "variety": [
       {
+        "title": "Ariana Grande Sues Hackers for Leaking Unreleased Music and Footage",
+        "link": "https://variety.com/2026/music/news/ariana-grande-sues-hackers-leaking-unreleased-music-footage-1236822277/"
+      },
+      {
+        "title": "\u2018Dungeon Crawler Carl\u2019s\u2019 Breakout, Ryan Reynolds\u2019 Jeanpool Stunt and More Comic-Con Highlights",
+        "link": "https://variety.com/2026/film/news/dungeon-crawler-carl-ryan-reynolds-jeanpool-comic-con-1236822244/"
+      },
+      {
+        "title": "\u2018Obsession\u2019 Star Michael Johnston in Talks to Join \u2018The Mummy 4\u2019 With Brendan Fraser and Rachel Weisz",
+        "link": "https://variety.com/2026/film/news/mummy-4-michael-johnston-obsession-brendan-fraser-1236822219/"
+      },
+      {
         "title": "D4vd Ordered to Stand Trial for Murder of 14-Year-Old Girl",
         "link": "https://variety.com/2026/music/news/d4vd-to-stand-trial-in-murder-of-14-year-old-girl-1236817323/"
-      },
-      {
-        "title": "How to Stream Shark Week Live Online Without Cable",
-        "link": "https://variety.com/2026/shopping/news/how-to-stream-shark-week-online-without-cable-1236822181/"
-      },
-      {
-        "title": "Sean Astin Says \u2018I Had to Sell My House\u2019 During \u2018Lord of the Rings\u2019 Era Because $250,000 Payday Was So Low: \u2018I Negotiated Such a Small Amount on the Trilogy\u2019",
-        "link": "https://variety.com/2026/film/news/sean-astin-lord-of-the-rings-pay-low-sell-house-1236822084/"
-      },
-      {
-        "title": "\u2018Bold Voice of Contemporary Horror\u2019 Comic-Con Panelists Predict the Four Biggest Upcoming Trends in Genre Filmmaking",
-        "link": "https://variety.com/2026/film/features/horror-movies-four-trends-comic-con-1236821740/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "D4vd Murder Case Will Go to Trial, Judge Rules",
-        "link": "https://www.hollywoodreporter.com/news/general-news/d4vd-will-face-trial-over-muder-allegations-1236657454/"
+        "title": "Marvel, \u2018Lanterns\u2019 and Johnny Depp: Here\u2019s What Hit (and Missed) at Comic-Con 2026",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/marvel-lanterns-and-johnny-depp-comic-con-2026-1236657222/"
       },
       {
-        "title": "Shaq Debuts First True Crime Docuseries \u2018Game Day Murders\u2019: Where to Watch the Six-Parter Online",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-game-day-murders-id-channel-streaming-free-1236657368/"
+        "title": "Key Takeaways From Channel 5\u2019s Hunter Biden and Nick Fuentes Interview",
+        "link": "https://www.hollywoodreporter.com/news/general-news/hunter-biden-nick-fuentes-interview-key-takeaways-1236657622/"
       },
       {
-        "title": "\u2018Jay and Silent Bob\u2019 Marijuana Farming Game in the Works",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/jay-and-silent-bob-weed-farming-video-game-in-the-works-1236657425/"
+        "title": "Indie Film Grant Seeks to Help Female Directors Shoot on Celluloid",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/indie-film-grant-help-female-directors-shoot-celluloid-1236655915/"
       },
       {
-        "title": "\u2018Dancing With the Stars,\u2019 \u2018911\u2019 and \u2018Scrubs\u2019 (but Not \u2018Celebrity Jeopardy!\u2019) Set Fall Debut Dates on ABC",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/abc-fall-2026-tv-premiere-dates-1236657463/"
+        "title": "Ariana Grande Sues Over Yearslong Hacking Campaign Targeting Inner Circle",
+        "link": "https://www.hollywoodreporter.com/business/business-news/ariana-grande-sues-over-yearslong-hacking-campaign-music-1236657620/"
       }
     ],
     "larb": [],
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "Mysterious Human Relative Was Bigger Than Previously Thought",
+        "link": "https://nautil.us/mysterious-human-relative-was-bigger-than-previously-thought-1283071/"
+      },
+      {
         "title": "Frequent Cannabis Use Linked to Higher Morning Stress Hormone Levels",
         "link": "https://nautil.us/frequent-cannabis-use-linked-to-higher-morning-stress-hormone-levels-1283064/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "Why an Icy Hummingbird Has Emerged in Antarctica",
         "link": "https://nautil.us/why-an-icy-hummingbird-has-emerged-in-antarctica-1283049/"
-      },
-      {
-        "title": "Koalas Are Getting a Vaccine to Help With Their STD Problem",
-        "link": "https://nautil.us/koalas-are-getting-a-vaccine-to-help-with-their-std-problem-1283030/"
       }
     ],
     "worksinprogress": [],
