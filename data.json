@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28 19:13 UTC",
+  "last_updated": "2026-07-28 21:57 UTC",
   "feeds": {
     "bbc": [
       {
@@ -11,7 +11,7 @@
         "link": "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Uefa reacts with fury to Infantino World Cup plan",
+        "title": "Uefa and PM criticise Infantino World Cup plan",
         "link": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -21,20 +21,20 @@
     ],
     "aljazeera": [
       {
-        "title": "Malaysian foreign minister calls for review of UNHCR\u2019s presence",
-        "link": "https://www.aljazeera.com/news/2026/7/28/malaysian-foreign-minister-calls-for-review-of-unhcrs-presence?traffic_source=rss"
+        "title": "Israeli airstrike destroys Gaza City mosque near displacement camp",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss"
       },
       {
-        "title": "\u2018No freedom at all\u2019: Israeli closures leave West Bank patients trapped",
-        "link": "https://www.aljazeera.com/news/2026/7/28/no-freedom-at-all-israeli-closures-leave-west-bank-patients-trapped?traffic_source=rss"
+        "title": "Donald Trump and world leaders attend Lindsey Graham\u2019s funeral",
+        "link": "https://www.aljazeera.com/gallery/2026/7/28/donald-trump-and-world-leaders-attend-lindsey-grahams-funeral?traffic_source=rss"
       },
       {
-        "title": "Uganda declares end to Ebola outbreak",
-        "link": "https://www.aljazeera.com/news/2026/7/28/uganda-declares-end-to-ebola-outbreak?traffic_source=rss"
+        "title": "Iran and Oman exchange proposals to manage Strait of Hormuz",
+        "link": "https://www.aljazeera.com/news/2026/7/28/iran-and-oman-exchange-proposals-to-manage-strait-of-hormuz?traffic_source=rss"
       },
       {
-        "title": "Lindsey Graham \u2018almost cried\u2019 tears of joy over war on Iran, footage shows",
-        "link": "https://www.aljazeera.com/news/2026/7/28/lindsey-graham-almost-cried-tears-of-joy-over-war-on-iran-footage-shows?traffic_source=rss"
+        "title": "Rome\u2019s viral graffiti cleaner is taking on an ancient problem",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/romes-viral-graffiti-cleaner-is-taking-on-an-ancient-problem?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -60,6 +60,10 @@
     "quietus": [],
     "aquariumdrunkard": [
       {
+        "title": "The Visitors :: My Good Friends",
+        "link": "https://aquariumdrunkard.com/2026/07/28/the-visitors-my-good-friends/"
+      },
+      {
         "title": "The Box Set: An Appreciation, Vol. 3",
         "link": "https://aquariumdrunkard.com/2026/07/28/the-box-set-an-appreciation-vol-3/"
       },
@@ -70,10 +74,6 @@
       {
         "title": "Choose Life: The Trainspotting Soundtrack at 30",
         "link": "https://aquariumdrunkard.com/2026/07/27/choose-life-the-trainspotting-soundtrack-at-30/"
-      },
-      {
-        "title": "The Babe Rainbow :: Acid and Honey",
-        "link": "https://aquariumdrunkard.com/2026/07/24/the-babe-rainbow-acid-and-honey/"
       }
     ],
     "bfi": [],
@@ -171,38 +171,38 @@
     ],
     "variety": [
       {
-        "title": "\u2018I Will Find You\u2019 Becomes Netflix\u2019s No. 10 Most-Popular English-Language TV Series of All Time",
-        "link": "https://variety.com/2026/tv/news/i-will-find-you-netflix-ratings-record-1236822866/"
+        "title": "Byron Allen\u2019s Freestyle Digital Media Picks Up Jeff Ryan\u2019s Golf Crime Comedy \u2018Mooch\u2019 \u2013 Film News in Brief",
+        "link": "https://variety.com/2026/film/news/film-news-in-brief-july-27-2026-1236821755/"
       },
       {
-        "title": "Gold Medal Figure Skater and Magic: The Gathering Superfan Amber Glenn on Her 100,000-Card Collection and What She\u2019d Want in Her Own \u2018Secret Lair\u2019 Set",
-        "link": "https://variety.com/2026/gaming/news/magic-the-gathering-amber-glenn-secret-lair-card-ideas-1236822081/"
+        "title": "Hollywood Foreign Press Association Sues Penske Media Corporation Over Golden Globes Purchase",
+        "link": "https://variety.com/2026/awards/news/hollywood-foreign-press-association-penske-lawsuit-1236822864/"
       },
       {
-        "title": "\u2018Biological War\u2019 TV Adaptation in the Works at Universal Global Television and Patrick Macmanus\u2019 Littleton Road Productions (EXCLUSIVE)",
-        "link": "https://variety.com/2026/tv/news/biological-war-tv-adaptation-universal-patrick-macmanus-1236822153/"
+        "title": "Boost Mobile Is Making First Phones More Affordable for Back-to-School Season\u00a0",
+        "link": "https://variety.com/2026/shopping/news/boost-mobile-starter-phone-student-deals-1236822849/"
       },
       {
-        "title": "Mary Beth Barone on Her Debut Netflix Special \u2018Galaxy Brain,\u2019 Wanting to \u2018Offend the Correct People\u2019 and \u2018Overcompensating\u2019 Season 2: It\u2019s \u2018Sadder but Also Funnier\u2019",
-        "link": "https://variety.com/2026/tv/news/mary-beth-barone-netflix-special-galaxy-brain-overcompensating-1236821768/"
+        "title": "Emmy Rossum on \u2018Furious\u2019 Serial Killer Targeting Jeffrey Epstein-Like Predators: \u2018You Don\u2019t Want to Root for Her, And Yet Maybe She\u2019s Got a Point\u2019",
+        "link": "https://variety.com/2026/tv/columns/emmy-rossum-furious-serial-killer-jeffrey-epstein-1236821833/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Harlan Coben, Showrunner Robert Hull Break Down \u2018I Will Find You\u2019s\u2019 Appeal as Series Hits Netflix\u2019s All-Time Top 10 (Exclusive)",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/i-will-find-you-harlan-coben-netflix-all-time-top-10-1236658109/"
+        "title": "Ross Douthat, Sebastian Junger, Gianna Toboni to Join CBS\u2019 \u201860 Minutes\u2019",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/new-60-minutes-correspondents-ross-douthat-sebastian-junger-1236658519/"
       },
       {
-        "title": "Penske Media Sued by Hollywood Foreign Press Association Over Golden Globes Buy",
-        "link": "https://www.hollywoodreporter.com/business/business-news/penske-media-sued-hollywood-foreign-press-golden-globes-1236658413/"
+        "title": "\u2018In the City\u2019 Reunion Concludes With Part Two: How to Watch \u2018Summer House\u2019 Spinoff\u2019s Cast Sit-Down Online",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/watch-in-the-city-reunion-season-1-free-online-streaming-1236648603/"
       },
       {
-        "title": "Kaitlan Collins Isn\u2019t Surprised Trump Insulted Her at the White House Correspondents\u2019 Dinner",
-        "link": "https://www.hollywoodreporter.com/news/general-news/kaitlan-collins-responds-trump-dylan-mulvaney-whcd-1236658179/"
+        "title": "Hunting a Myth in the Wisconsin Woods",
+        "link": "https://www.hollywoodreporter.com/music/music-features/justin-vernon-bon-dylan-eaux-claires-watch-1236658092/"
       },
       {
-        "title": "Kent Broadhurst, \u2018Silver Bullet\u2019 Actor and \u2018Wild Iris\u2019 Screenwriter, Dies at 86",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/kent-broadhurst-dead-silver-bullet-stephen-king-1236658370/"
+        "title": "Richard Linklater Looks Back at \u2018Boyhood,\u2019 12 Years Later: \u201cTime Never Quits Working on Us\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-features/richard-linklater-boyhood-12-years-podcast-hollywood-1236658450/"
       }
     ],
     "larb": [],
@@ -280,7 +280,7 @@
     ],
     "nautilus": [
       {
-        "title": "Omniscient Tree Networks, Immortal Amoebas, and Hope",
+        "title": "Omniscient Tree Networks and Immortal Amoebas: 9 Books We\u2019re Excited to Read This August",
         "link": "https://nautil.us/omniscient-tree-networks-immortal-amoebas-and-hope-1283103/"
       },
       {
