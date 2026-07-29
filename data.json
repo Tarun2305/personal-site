@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-07-29 13:53 UTC",
+  "last_updated": "2026-07-29 16:16 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "More than half of England officially in drought, Environment Agency says",
+        "title": "More than half of England in drought, Environment Agency declares",
         "link": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Burnham doesn't rule out tax rises to fix social care",
+        "link": "https://www.bbc.co.uk/news/articles/ckg6d21zdyro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Serial killer given whole life orders for murders of two men as police investigate four more deaths",
+        "link": "https://www.bbc.co.uk/news/articles/cddjz02d8jgo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
         "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Boy, 7, dies in hospital after beach tragedy",
-        "link": "https://www.bbc.co.uk/news/articles/c4gv0d125p5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Teenage Norwegian 'hitman' guilty of UK murder plot",
-        "link": "https://www.bbc.co.uk/news/articles/cwyqggvyp1do?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "How are AI models able to autonomously hack others?",
-        "link": "https://www.aljazeera.com/news/2026/7/29/how-are-ai-models-able-to-autonomously-hack-others?traffic_source=rss"
+        "title": "Ex-FIFA chief Blatter blasts plan to sell stake in World Cup to investors",
+        "link": "https://www.aljazeera.com/sports/2026/7/29/ex-fifa-chief-blatter-blasts-plan-to-sell-stake-in-world-cup-to-investors?traffic_source=rss"
       },
       {
-        "title": "Infantino sets deadline for FIFA offer in Kushner-backed World Cup plan",
-        "link": "https://www.aljazeera.com/sports/2026/7/29/infantino-sets-deadline-for-fifa-offer-in-kushner-backed-world-cup-plan?traffic_source=rss"
+        "title": "Trump says US to deliver \u2018beating\u2019 to Iran after bases again targeted",
+        "link": "https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted?traffic_source=rss"
       },
       {
-        "title": "US bans imports of new Chinese robots over security concerns",
-        "link": "https://www.aljazeera.com/economy/2026/7/29/us-bans-imports-of-new-chinese-robots-over-security-concerns?traffic_source=rss"
+        "title": "Why Saudi Arabia holds the key to Palestinian statehood",
+        "link": "https://www.aljazeera.com/opinions/2026/7/29/why-saudi-arabia-holds-the-key-to-palestinian-statehood?traffic_source=rss"
       },
       {
-        "title": "BJP politician\u2019s daughter explains why she supports India\u2019s youth protests",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/bjp-politicians-daughter-explains-why-she-supports-indias-youth-protests?traffic_source=rss"
+        "title": "Indian student in Russia says he\u2019s been wrongly charged over Bihar protests",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-india-student-arrests-in?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Scottish Premiership A-Z guide for the new season!",
+        "link": "https://www.skysports.com/football/news/12040/13567942/scottish-premiership-2026-27-new-season-a-z-guide-ahead-of-opening-weekend-live-across-sky-sports"
+      },
+      {
+        "title": "Bow Echo roars home late to seal Sussex Stakes success",
+        "link": "https://www.skysports.com/racing/news/12040/13568132/goodwood-bow-echo-roars-home-late-to-seal-sussex-success"
+      },
+      {
+        "title": "O'Neill promises more Celtic signings | McGregor: Where I want to be",
+        "link": "https://www.skysports.com/football/news/12040/13568047/martin-oneill-promises-more-celtic-signings-amid-fan-frustration-as-callum-mcgregor-opens-up-on-his-future"
+      },
+      {
         "title": "Ko reveals plan to 'channel inner Foxy' in push for more major glory ",
         "link": "https://www.skysports.com/golf/news/12040/13568030/aig-womens-open-lydia-ko-hopes-to-channel-inner-ryan-fox-after-being-left-in-tears-by-new-zealanders-win-at-the-open"
-      },
-      {
-        "title": "Tottenham beat Sydney FC on penalties after stunning Tel free-kick",
-        "link": "https://www.skysports.com/football/news/12040/13567990/tottenham-1-1-sydney-fc-4-2-on-pens-mathys-tel-scores-stunning-free-kick-as-spurs-win-pre-season-friendly-on-penalties"
-      },
-      {
-        "title": "New PL season, new kits... but which is your favourite?",
-        "link": "https://www.skysports.com/watch/video/13568044/premier-league-new-season-new-kit-but-which-is-your-favourite"
-      },
-      {
-        "title": "F1 season to end in Europe if Middle East unable to host final rounds",
-        "link": "https://www.skysports.com/f1/news/12040/13568025/formula-1-2026-season-to-end-in-europe-if-qatar-and-abu-dhabi-unable-to-host-final-rounds-because-of-middle-east-conflict"
       }
     ],
     "pitchfork": [],
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
-        "title": "\u2018The Thomas Crown Affair\u2019 Teaser: Michael B. Jordan Directs Himself as Cinema\u2019s Coolest Thief",
-        "link": "https://www.indiewire.com/news/trailers/the-thomas-crown-affair-teaser-michael-b-jordan-remake-1235207247/"
+        "title": "\u2018Tony\u2019 Review: Dominic Sessa Shines in a Briny, Bittersweet Coming-of-Age Comedy That Just Happens to Be About a Young Anthony Bourdain",
+        "link": "https://www.indiewire.com/criticism/movies/tony-movie-review-anthony-bourdain-1235207248/"
       },
       {
-        "title": "\u2018The Samurai and the Prisoner\u2019 Review: Kiyoshi Kurosawa\u2019s Samurai Murder-Mystery Needs a Sharper Blade",
-        "link": "https://www.indiewire.com/criticism/movies/the-samurai-and-the-prisoner-movie-review-kiyoshi-kurosawa-1235195105/"
+        "title": "Sundance Shares Details on First Boulder Edition: Venues, FIPRESCI Critics, New Frontier Section, and More",
+        "link": "https://www.indiewire.com/news/festivals/sundance-film-festival-2027-what-to-know-boulder-1235207369/"
       },
       {
-        "title": "Mike Leigh Says \u2018Tender Loving Care\u2019 Is Most Likely His Final Film Due to Illness",
-        "link": "https://www.indiewire.com/features/interviews/mike-leigh-tender-loving-care-most-likely-last-movie-1235207263/"
+        "title": "\u2018Ha-Chan, Shake Your Booty!\u2019 Trailer: Rinko Kikuchi Dances Her Way Through Grief in Sundance Hit",
+        "link": "https://www.indiewire.com/news/trailers/ha-chan-shake-your-booty-trailer-1235207342/"
       },
       {
-        "title": "\u2018Elsinore\u2019 with Andrew Scott and Olivia Colman Gets November Release Date and First Look Ahead of TIFF",
-        "link": "https://www.indiewire.com/news/general-news/elsinore-olivia-colman-andrew-scott-release-date-first-look-1235207252/"
+        "title": "Indie Specialized Box Office Chart: \u2018Pinocchio: Unstrung\u2019 Doesn\u2019t Have the Same Pull as \u2018Winnie the Pooh: Blood and Honey\u2019",
+        "link": "https://www.indiewire.com/news/box-office/pinocchio-unstrung-box-office-winnie-the-pooh-blood-honey-1235207354/"
       }
     ],
     "variety": [
       {
-        "title": "Rapper Lil Tecca Set as Newest Fortnite Festival Icon (Gaming News Roundup)",
-        "link": "https://variety.com/2026/gaming/news/gaming-news-roundup-week-of-july-27-1236822833/"
+        "title": "Sundance Teases New Theaters in Boulder, Expanded Competition Slots as Industry Heads to Colorado for \u2018Orientation\u2019",
+        "link": "https://variety.com/2026/film/news/sundance-boulder-venues-festival-map-orientation-1236823439/"
       },
       {
-        "title": "Brazilian Erotic Thriller \u2018The Riverbank\u2019 Boarded by Premium Films, MPM Premium Ahead of Locarno Competition Premiere (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/global/the-riverbank-locarno-festival-mpm-premium-1236823275/"
+        "title": "\u2018Tony\u2019 Review: Dominic Sessa Gives His First Movie-Star Performance in Matt Johnson\u2019s Tasty Biopic About the Young Anthony Bourdain",
+        "link": "https://variety.com/2026/film/reviews/tony-review-dominic-sessa-antonio-banderas-1236821892/"
       },
       {
-        "title": "\u2018The Thomas Crown Affair\u2019 Trailer: Michael B. Jordan Is a Globetrotting Gentleman Thief in Amazon MGM\u2019s Heist Thriller",
-        "link": "https://variety.com/2026/film/news/thomas-crown-affair-trailer-michael-b-jordan-amazon-mgm-1236822940/"
+        "title": "Ozzy Osbourne Haunted Experience Is Headed to Universal Studios\u2019 Halloween Horror Nights",
+        "link": "https://variety.com/2026/film/news/ozzy-osbourne-universal-studios-halloween-horror-nights-1236822990/"
       },
       {
-        "title": "The Beatles\u2019 \u2018Rubber Soul\u2019 Due for Super Deluxe Treatment: Boxed Set Includes Stereo Remix, Session Outtakes and a Previously Unheard John Lennon Song",
-        "link": "https://variety.com/2026/music/news/beatles-rubber-soul-deluxe-boxed-set-remix-outtakes-1236823135/"
+        "title": "Ewan McGregor and Alan Cumming to Lead Scottish Stage Adaptation of Harry Macqueen\u2019s Gay Romantic Drama \u2018Supernova\u2019",
+        "link": "https://variety.com/2026/theater/global/ewan-mcgregor-alan-cumming-stage-adaptation-supernova-1236823318/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Jean-Pierre Dorl\u00e9ac, Oscar-Nominated \u2018Somewhere in Time\u2019 Costume Designer, Dies at 83",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/jean-pierre-dorleac-dead-somewhere-in-time-costume-designer-1236658999/"
+        "title": "\u2018Tony\u2019 Review: Dominic Sessa Finds Ideal Balance Between Cocky and Lost in Tender Coming-of-Age Portrait of a Young Anthony Bourdain",
+        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/tony-review-dominic-sessa-anthony-bourdain-matt-johnson-1236653323/"
       },
       {
-        "title": "Emmys: Michael J. Fox Set to Receive Bob Hope Humanitarian Award",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/emmys-2026-michael-j-fox-bob-hope-humanitarian-award-1236658958/"
+        "title": "Sean Penn\u2019s CORE Mounts $5M Campaign (With Assist From FIFA Foundation) to Aid Venezuela",
+        "link": "https://www.hollywoodreporter.com/news/general-news/venezuela-earthquake-recovery-efforts-sean-penn-core-fifa-1236656889/"
       },
       {
-        "title": "Andrew Scott and Olivia Colman-Starrer \u2018Elsinore\u2019 Set to Open London Film Festival",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/andrew-scott-olivia-colman-elsinore-london-film-festival-1236658959/"
+        "title": "Sundance Director Eugene Hernandez Details \u201cUnprecedented\u201d Work in Move to Boulder, Whether Festival Will Accept AI-Created Films",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/sundance-boulder-2027-eugene-hernandez-interview-fest-plans-1236658755/"
       },
       {
-        "title": "Glen Hansard, Frames Frontman and Oscar Winner, Dies in Motorcycle Crash at 56",
-        "link": "https://www.hollywoodreporter.com/music/music-news/glen-hansard-dead-motorcycle-crash-frames-singer-1236658986/"
+        "title": "Jared Leto Says \u201cI Have Never Sexually Assaulted Anyone in My Entire Life\u201d Amid Fresh Claims in Bombshell BBC Doc",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/jared-leto-responds-sexual-misconduct-allegations-bbc-doc-1236659127/"
       }
     ],
     "larb": [],
@@ -262,6 +262,10 @@
     ],
     "quanta": [
       {
+        "title": "Physicists Solve a Big Quantum Mystery. Now, Old Results Don\u2019t Add Up.",
+        "link": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/"
+      },
+      {
         "title": "A New Way That a Cow\u2019s Inner World Shapes Earth\u2019s Atmosphere",
         "link": "https://www.quantamagazine.org/a-new-way-that-a-cows-inner-world-shapes-earths-atmosphere-20260727/"
       },
@@ -272,13 +276,17 @@
       {
         "title": "Fields and Abacus Medals 2026",
         "link": "https://www.quantamagazine.org/fields-and-abacus-medals-2026-20260723/"
-      },
-      {
-        "title": "A Master of the Traveling Salesperson Problem Finds His Own Path",
-        "link": "https://www.quantamagazine.org/shayan-oveis-gharan-wins-2026-imu-abacus-medal-20260723/"
       }
     ],
     "nautilus": [
+      {
+        "title": "Why We Think We Know More Than We Do",
+        "link": "https://nautil.us/why-we-think-we-know-more-than-we-do-1283150/"
+      },
+      {
+        "title": "Dinosaurs May Have Been Literally Charbroiled After the Asteroid Impact",
+        "link": "https://nautil.us/dinosaurs-may-have-been-literally-charbroiled-after-the-asteroid-impact-1283128/"
+      },
       {
         "title": "This Time-Lapse Video from the Psyche Spacecraft Shows Mars As You\u2019ve Never Seen It Before",
         "link": "https://nautil.us/this-time-lapse-video-from-the-psyche-spacecraft-shows-mars-as-youve-never-seen-it-before-1283140/"
@@ -286,14 +294,6 @@
       {
         "title": "Anthony Fauci\u2019s Diary Reveals a Human at the Helm",
         "link": "https://nautil.us/anthony-faucis-diary-reveals-a-human-at-the-helm-1283145/"
-      },
-      {
-        "title": "Pre-Roman Necropolis Reveals Secrets of Iron Age Mediterranean Diets",
-        "link": "https://nautil.us/pre-roman-necropolis-reveals-secrets-of-iron-age-mediterranean-diets-1283129/"
-      },
-      {
-        "title": "Omniscient Tree Networks and Immortal Amoebas: 9 Books We\u2019re Excited to Read This August",
-        "link": "https://nautil.us/omniscient-tree-networks-immortal-amoebas-and-hope-1283103/"
       }
     ],
     "worksinprogress": [],
