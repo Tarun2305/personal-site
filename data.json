@@ -1,14 +1,10 @@
 {
-  "last_updated": "2026-07-29 19:02 UTC",
+  "last_updated": "2026-07-29 21:53 UTC",
   "feeds": {
     "bbc": [
       {
         "title": "More than half of England in drought, Environment Agency declares",
         "link": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Burnham doesn't rule out tax rises to fix social care",
-        "link": "https://www.bbc.co.uk/news/articles/ckg6d21zdyro?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Moment police officers set foot in 'horror scene' funeral home",
@@ -17,43 +13,47 @@
       {
         "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
         "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Police to take no further action against Polanski over guillotine re-post",
+        "link": "https://www.bbc.co.uk/news/articles/cwylrnxxl77o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Hindus take holy dip in India\u2019s rivers on sacred holiday",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/hindus-take-holy-dip-in-indias-rivers-on-sacred-holiday?traffic_source=rss"
+        "title": "Myanmar court sentences activists to 37 years over election protest",
+        "link": "https://www.aljazeera.com/news/2026/7/29/myanmar-court-sentences-activists-to-37-years-over-election-protest?traffic_source=rss"
       },
       {
-        "title": "Bordeaux wildfire battle continues amid extreme heat",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/bordeaux-wildfire-battle-continues-amid-extreme-heat?traffic_source=rss"
+        "title": "FIFA charges Argentina after World Cup final brawl with Spain",
+        "link": "https://www.aljazeera.com/sports/2026/7/29/fifa-charges-argentina-after-world-cup-final-brawl-with-spain?traffic_source=rss"
       },
       {
-        "title": "Dr Anthony Fauci pleads the Fifth at Covid hearing",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/dr-anthony-fauci-pleads-the-fifth-at-covid-hearing?traffic_source=rss"
+        "title": "Trump threatens Iran strikes after attack on US base in Jordan",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-threatens-iran-strikes-after-attack-on-us-base-in-jordan?traffic_source=rss"
       },
       {
-        "title": "US Fed holds interest rates steady citing \u2018elevated\u2019 inflation",
-        "link": "https://www.aljazeera.com/economy/2026/7/29/us-fed-holds-interest-rates-steady-citing-elevated-inflation?traffic_source=rss"
+        "title": "Videos show aftermath of US-Saudi strikes on Iraq PMF bases",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/videos-show-aftermath-of-us-saudi-strikes-on-iraq-pmf-bases?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Is Littler most dominant sportsperson in the world?",
+        "link": "https://www.skysports.com/darts/news/12040/13568177/luke-littler-edges-scottie-scheffler-and-jannik-sinner-as-the-most-dominant-sportsperson-love-the-darts-podcast"
+      },
+      {
+        "title": "Bialecki clinches Players Championship 26 title",
+        "link": "https://www.skysports.com/darts/news/12040/13568167/players-championship-26-sebastian-bialecki-claims-second-pdc-ranking-title-as-henry-coates-and-beau-greaves-shine"
+      },
+      {
         "title": "England dominate Tonga in must-win clash at Commonwealth Games",
         "link": "https://www.skysports.com/netball/news/12040/13568214/commonwealth-games-england-dominate-tonga-in-must-win-contest-as-quest-for-semi-final-spot-continues"
       },
       {
-        "title": "Duckett stars as Rockets hand first defeat of season to Fire in The Hundred ",
+        "title": "Rockets hand Fire first defat in The Hundred as Pretorius stars for Spirit",
         "link": "https://www.skysports.com/cricket/news/12040/13568161/the-hundred-ben-duckett-stars-as-trent-rockets-men-hand-welsh-fire-men-their-first-defeat-of-the-season"
-      },
-      {
-        "title": "Player at centre of viral 'Clicky Ponting' scandal suspended",
-        "link": "https://www.skysports.com/cricket/news/12040/13568215/clicky-ponting-scandal-cricketer-at-centre-of-investigation-suspended-after-cheating-accusations-with-team-conceding-next-match"
-      },
-      {
-        "title": "Bournemouth latest: Kroupi out for up to three months",
-        "link": "https://www.skysports.com/football/live-blog/12040/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
       }
     ],
     "pitchfork": [],
@@ -153,58 +153,41 @@
     ],
     "indiewire": [
       {
+        "title": "Jane Schoenbrun and the \u2018Teenage Death and Sex at Camp Miasma\u2019 Team Delivered a Sexy, Sapphic \u2018Secretary\u2019 Live Reading",
+        "link": "https://www.indiewire.com/news/general-news/secretary-live-read-gillian-anderson-hannah-einbinder-1235207435/"
+      },
+      {
+        "title": "The Secret to Bleecker Street\u2019s \u2018Hadestown\u2019 Success? Don\u2019t Rely on Taste",
+        "link": "https://www.indiewire.com/news/analysis/bleecker-street-hadestown-biggest-opening-audience-data-1235207610/"
+      },
+      {
         "title": "The Academy Re-Elects Producer Lynette Howell Taylor as Its President",
         "link": "https://www.indiewire.com/awards/industry/producer-lynette-howell-taylor-re-elected-academy-president-1235207493/"
       },
       {
         "title": "Paul Schrader on the 50-Year-Old \u2018Obsession\u2019 That Broke Him and Brian De Palma Apart",
         "link": "https://www.indiewire.com/features/interviews/paul-schrader-brian-de-palma-obsession-interview-1235207357/"
-      },
-      {
-        "title": "\u2018Diarra from Detroit\u2019 Is the Detective Hangout Comedy You Didn\u2019t Know You Needed",
-        "link": "https://www.indiewire.com/criticism/shows/diarra-from-detroit-season-2-review-paramount-plus-series-1235207140/"
-      },
-      {
-        "title": "\u2018Tony\u2019 Review: Dominic Sessa Shines in a Briny, Bittersweet Coming-of-Age Comedy That Just Happens to Be About a Young Anthony Bourdain",
-        "link": "https://www.indiewire.com/criticism/movies/tony-movie-review-anthony-bourdain-1235207248/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018A Star Is Born\u2019 Producer Lynette Howell Taylor Re-Elected Academy President",
-        "link": "https://variety.com/2026/film/awards/lynette-howell-taylor-academy-president-reelected-1236823656/"
+        "title": "Music Companies Demand More Scrutiny of AI-Generated Tracks Before Chart Debuts",
+        "link": "https://variety.com/2026/music/news/music-labels-scrutiny-ai-generated-tracks-billboard-charts-1236823714/"
       },
       {
-        "title": "\u2018Chicago Fire\u2019 Star Joe Mi\u00f1oso to Leave Series After 15 Seasons",
-        "link": "https://variety.com/2026/tv/news/chicago-fire-joe-minoso-leaving-season-15-1236823672/"
+        "title": "Here\u2019s How to Watch MLS All-Star Game 2026 Live Online for Free",
+        "link": "https://variety.com/2026/shopping/news/how-to-watch-mls-all-star-game-2026-soccer-live-online-free-1236823533/"
       },
       {
-        "title": "What\u2019s Coming to Netflix in August 2026",
-        "link": "https://variety.com/feature/whats-on-netflix-movies-shows-1203517873/"
+        "title": "\u2018Children of Blood and Bone\u2019 Author Tomi Adeyemi Left Film\u2019s Set \u2018Sobbing,\u2019 Calls It the \u2018Worst Thing I\u2019ve Had to Live Through\u2019 and \u2018I Never Want to Hear About It Again\u2019",
+        "link": "https://variety.com/2026/film/news/children-blood-bone-tomi-adeyemi-film-set-sobbing-1236823734/"
       },
       {
-        "title": "What\u2019s Coming to Disney+ in August 2026",
-        "link": "https://variety.com/feature/whats-on-disney-plus-new-shows-movies-1203517920/"
+        "title": "The Bruin Theater in Westwood Village to Reopen: \u2018It\u2019s a Magical Place\u2019",
+        "link": "https://variety.com/2026/film/news/bruin-theater-westwood-village-reopening-1236820419/"
       }
     ],
-    "hollywoodreporter": [
-      {
-        "title": "Lynette Howell Taylor Re-Elected President of Film Academy",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/lynette-howell-taylor-re-elected-president-of-film-academy-1236659320/"
-      },
-      {
-        "title": "Olivia Wilde Celebrates Audiences \u201cBreaking Out of Their Boxes\u201d to Accept Age Gap Romances on Film",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/olivia-wilde-age-gap-romance-i-want-your-sex-1236659222/"
-      },
-      {
-        "title": "\u2018Love Island USA\u2019 Cast Member TJ Palma Signs With CAA (Exclusive)",
-        "link": "https://www.hollywoodreporter.com/business/business-news/love-island-usas-tj-palma-1236659369/"
-      },
-      {
-        "title": "Harlan Coben on Bringing \u2018Myron Bolitar\u2019 to Netflix: \u201cIt\u2019s Been Really Heady\u201d",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/harlan-coben-myron-bolitar-netflix-filming-1236659315/"
-      }
-    ],
+    "hollywoodreporter": [],
     "larb": [],
     "aeon": [
       {
@@ -280,6 +263,10 @@
     ],
     "nautilus": [
       {
+        "title": "How Celebrities Became America\u2019s Unregulated Drug Pushers",
+        "link": "https://nautil.us/how-celebrities-became-americas-unregulated-drug-pushers-1283181/"
+      },
+      {
         "title": "Does Having a Pet Really Improve Our Health?",
         "link": "https://nautil.us/does-having-a-pet-really-improve-our-health-1283176/"
       },
@@ -290,10 +277,6 @@
       {
         "title": "Why We Think We Know More Than We Do",
         "link": "https://nautil.us/why-we-think-we-know-more-than-we-do-1283150/"
-      },
-      {
-        "title": "Dinosaurs May Have Been Literally Charbroiled After the Asteroid Impact",
-        "link": "https://nautil.us/dinosaurs-may-have-been-literally-charbroiled-after-the-asteroid-impact-1283128/"
       }
     ],
     "worksinprogress": [],
