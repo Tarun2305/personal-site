@@ -1,64 +1,72 @@
 {
-  "last_updated": "2026-07-29 11:17 UTC",
+  "last_updated": "2026-07-29 13:53 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "More than half of England officially in drought, Environment Agency says",
+        "link": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
         "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-        "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss"
+        "title": "Boy, 7, dies in hospital after beach tragedy",
+        "link": "https://www.bbc.co.uk/news/articles/c4gv0d125p5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "OpenAI says its rogue AI tried to hack other companies",
-        "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "The evidence that shows today's 20-somethings really do have it worse than previous generations",
-        "link": "https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&at_campaign=rss"
+        "title": "Teenage Norwegian 'hitman' guilty of UK murder plot",
+        "link": "https://www.bbc.co.uk/news/articles/cwyqggvyp1do?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "EU crisis chief urges tougher climate action amid France, Spain wildfires",
-        "link": "https://www.aljazeera.com/news/2026/7/29/eu-crisis-chief-urges-tougher-climate-action-amid-france-spain-wildfires?traffic_source=rss"
+        "title": "How are AI models able to autonomously hack others?",
+        "link": "https://www.aljazeera.com/news/2026/7/29/how-are-ai-models-able-to-autonomously-hack-others?traffic_source=rss"
       },
       {
-        "title": "Russia charges Telegram founder Pavel Durov with \u2018aiding terrorism\u2019",
-        "link": "https://www.aljazeera.com/news/2026/7/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism?traffic_source=rss"
+        "title": "Infantino sets deadline for FIFA offer in Kushner-backed World Cup plan",
+        "link": "https://www.aljazeera.com/sports/2026/7/29/infantino-sets-deadline-for-fifa-offer-in-kushner-backed-world-cup-plan?traffic_source=rss"
       },
       {
-        "title": "How has the Indian government responded to \u2018Cockroach\u2019 protests?",
-        "link": "https://www.aljazeera.com/news/2026/7/29/how-has-the-indian-government-responded-to-cockroach-protests?traffic_source=rss"
+        "title": "US bans imports of new Chinese robots over security concerns",
+        "link": "https://www.aljazeera.com/economy/2026/7/29/us-bans-imports-of-new-chinese-robots-over-security-concerns?traffic_source=rss"
       },
       {
-        "title": "A safe space for Gaza women: A sanctuary to speak, heal and share amid war",
-        "link": "https://www.aljazeera.com/news/2026/7/29/a-safe-space-for-gaza-women-a-sanctuary-to-speak-heal-and-share-amid-war?traffic_source=rss"
+        "title": "BJP politician\u2019s daughter explains why she supports India\u2019s youth protests",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/bjp-politicians-daughter-explains-why-she-supports-indias-youth-protests?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Ko reveals plan to 'channel inner Foxy' in push for more major glory ",
+        "link": "https://www.skysports.com/golf/news/12040/13568030/aig-womens-open-lydia-ko-hopes-to-channel-inner-ryan-fox-after-being-left-in-tears-by-new-zealanders-win-at-the-open"
+      },
+      {
+        "title": "Tottenham beat Sydney FC on penalties after stunning Tel free-kick",
+        "link": "https://www.skysports.com/football/news/12040/13567990/tottenham-1-1-sydney-fc-4-2-on-pens-mathys-tel-scores-stunning-free-kick-as-spurs-win-pre-season-friendly-on-penalties"
+      },
+      {
+        "title": "New PL season, new kits... but which is your favourite?",
+        "link": "https://www.skysports.com/watch/video/13568044/premier-league-new-season-new-kit-but-which-is-your-favourite"
+      },
+      {
         "title": "F1 season to end in Europe if Middle East unable to host final rounds",
         "link": "https://www.skysports.com/f1/news/12040/13568025/formula-1-2026-season-to-end-in-europe-if-qatar-and-abu-dhabi-unable-to-host-final-rounds-because-of-middle-east-conflict"
-      },
-      {
-        "title": "Infantino offers \u00a330m incentive for FIFA members to back controversial plans",
-        "link": "https://www.skysports.com/football/news/12040/13568022/world-cup"
-      },
-      {
-        "title": "Welbeck to have medical as Chelsea set to pay first fee for over-26 since 2022",
-        "link": "https://www.skysports.com/football/news/12040/13567471/danny-welbeck-transfer-news"
-      },
-      {
-        "title": "Langer hints at interest in England Test job",
-        "link": "https://www.skysports.com/cricket/news/12040/13567991/justin-langer-hints-at-interest-in-england-test-head-coach-job-but-says-he-hasnt-heard-from-ecb"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "Charlie Hunter Quartet :: Natty Dread",
+        "link": "https://aquariumdrunkard.com/2026/07/29/charlie-hunter-quartet-natty-dread/"
+      },
+      {
+        "title": "Transmissions :: Erin Osmon",
+        "link": "https://aquariumdrunkard.com/2026/07/29/transmissions-erin-osmon/"
+      },
       {
         "title": "The Visitors :: My Good Friends",
         "link": "https://aquariumdrunkard.com/2026/07/28/the-visitors-my-good-friends/"
@@ -66,19 +74,19 @@
       {
         "title": "The Box Set: An Appreciation, Vol. 3",
         "link": "https://aquariumdrunkard.com/2026/07/28/the-box-set-an-appreciation-vol-3/"
-      },
-      {
-        "title": "Echo Upstairs :: Estranhos Lugares Para os Olhos",
-        "link": "https://aquariumdrunkard.com/2026/07/27/echo-upstairs-estranhos-lugares-para-os-olhos/"
-      },
-      {
-        "title": "Choose Life: The Trainspotting Soundtrack at 30",
-        "link": "https://aquariumdrunkard.com/2026/07/27/choose-life-the-trainspotting-soundtrack-at-30/"
       }
     ],
     "bfi": [],
     "criterion": [],
     "rogerebert": [
+      {
+        "title": "Season Two of \u201cDiarra from Detroit\u201d is Nancy Drew for Grown-Ups",
+        "link": "https://www.rogerebert.com/streaming/diarra-from-detroit-bet-season-2-tv-review-2026"
+      },
+      {
+        "title": "Movies Aren\u2019t Therapy: \u201cMike Mills\u201d on Parents, Children, and Filmmaking",
+        "link": "https://www.rogerebert.com/features/mike-mills-criterion-beginners-20th-century-women-cmon-cmon-interview"
+      },
       {
         "title": "Everything for Someone: San Diego Comic-Con 2026 Part 2",
         "link": "https://www.rogerebert.com/festivals/everything-for-someone-san-diego-comic-con-2026-part-2"
@@ -86,14 +94,6 @@
       {
         "title": "Advance to Paradise, Retreat to Hell: Kiyoshi Kurosawa on \u201cThe Samurai and the Prisoner\u201d",
         "link": "https://www.rogerebert.com/interviews/samurai-and-the-prisoner-kiyoshi-kurosawa-interview"
-      },
-      {
-        "title": "Get on the Train: \u201cNYC in Transit\u201d Launches at Film Forum",
-        "link": "https://www.rogerebert.com/mzs/get-on-the-train-nyc-in-transit-launches-at-film-forum"
-      },
-      {
-        "title": "San Diego Comic-Con 2026: Composers, Costume Designers, and Brad Bird in Hall H",
-        "link": "https://www.rogerebert.com/festivals/san-diego-comic-con-2026-composers-costume-designers-and-brad-bird-in-hall-h"
       }
     ],
     "filmcomment": [
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018The Thomas Crown Affair\u2019 Teaser: Michael B. Jordan Directs Himself as Cinema\u2019s Coolest Thief",
+        "link": "https://www.indiewire.com/news/trailers/the-thomas-crown-affair-teaser-michael-b-jordan-remake-1235207247/"
+      },
+      {
         "title": "\u2018The Samurai and the Prisoner\u2019 Review: Kiyoshi Kurosawa\u2019s Samurai Murder-Mystery Needs a Sharper Blade",
         "link": "https://www.indiewire.com/criticism/movies/the-samurai-and-the-prisoner-movie-review-kiyoshi-kurosawa-1235195105/"
       },
@@ -163,46 +167,42 @@
       {
         "title": "\u2018Elsinore\u2019 with Andrew Scott and Olivia Colman Gets November Release Date and First Look Ahead of TIFF",
         "link": "https://www.indiewire.com/news/general-news/elsinore-olivia-colman-andrew-scott-release-date-first-look-1235207252/"
-      },
-      {
-        "title": "One of Joan Crawford\u2019s Best Movies Is Available for the First Time in 90 Years",
-        "link": "https://www.indiewire.com/features/commentary/joan-crawford-letty-lynton-4k-restoration-on-blu-ray-1235207139/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018The King\u2019s Warden\u2019 Leads Korea to Best First Half Box Office Since Pandemic",
-        "link": "https://variety.com/2026/film/box-office/the-kings-warden-korea-best-first-half-box-office-pandemic-1236823221/"
+        "title": "Rapper Lil Tecca Set as Newest Fortnite Festival Icon (Gaming News Roundup)",
+        "link": "https://variety.com/2026/gaming/news/gaming-news-roundup-week-of-july-27-1236822833/"
       },
       {
-        "title": "\u2018The Devil\u2019s Mouth\u2019 Review: Cave Swimmers Become Chum in a Shark Thriller With Extra Claustrophobia",
-        "link": "https://variety.com/2026/film/reviews/the-devils-mouth-review-1236823147/"
+        "title": "Brazilian Erotic Thriller \u2018The Riverbank\u2019 Boarded by Premium Films, MPM Premium Ahead of Locarno Competition Premiere (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/global/the-riverbank-locarno-festival-mpm-premium-1236823275/"
       },
       {
-        "title": "Kavinsky, French Producer and DJ Behind \u2018Drive\u2019 Opening Song \u2018Nightcall,\u2019 Dies at 50",
-        "link": "https://variety.com/2026/music/global/kavinsky-dead-french-dj-nightcall-drive-1236823180/"
+        "title": "\u2018The Thomas Crown Affair\u2019 Trailer: Michael B. Jordan Is a Globetrotting Gentleman Thief in Amazon MGM\u2019s Heist Thriller",
+        "link": "https://variety.com/2026/film/news/thomas-crown-affair-trailer-michael-b-jordan-amazon-mgm-1236822940/"
       },
       {
-        "title": "Banijay Entertainment H1 Revenues Dip in First Earnings Update Since Completion of All3Media Deal",
-        "link": "https://variety.com/2026/tv/global/banijay-entertainment-h1-revenues-dip-slightly-1236823178/"
+        "title": "The Beatles\u2019 \u2018Rubber Soul\u2019 Due for Super Deluxe Treatment: Boxed Set Includes Stereo Remix, Session Outtakes and a Previously Unheard John Lennon Song",
+        "link": "https://variety.com/2026/music/news/beatles-rubber-soul-deluxe-boxed-set-remix-outtakes-1236823135/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "FIFA Faces Revolt Over $20B World Cup Sell Off Plan",
-        "link": "https://www.hollywoodreporter.com/business/business-news/fifa-world-cup-unit-sale-plan-backlash-kushner-1236658936/"
+        "title": "Jean-Pierre Dorl\u00e9ac, Oscar-Nominated \u2018Somewhere in Time\u2019 Costume Designer, Dies at 83",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/jean-pierre-dorleac-dead-somewhere-in-time-costume-designer-1236658999/"
       },
       {
-        "title": "\u2018Bloody Tennis,\u2019 Tunisian Horror and a Surgeon With Kleptomania: Quirky Films at Locarno",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/locarno-2026-quirky-films-bloody-tennis-horror-fairy-tales-1236657346/"
+        "title": "Emmys: Michael J. Fox Set to Receive Bob Hope Humanitarian Award",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/emmys-2026-michael-j-fox-bob-hope-humanitarian-award-1236658958/"
       },
       {
-        "title": "Jared Leto Accused of Sexual Misconduct by Four Women in New BBC Doc",
-        "link": "https://www.hollywoodreporter.com/news/general-news/jared-leto-sexual-misconduct-allegations-bbc-doc-1236658929/"
+        "title": "Andrew Scott and Olivia Colman-Starrer \u2018Elsinore\u2019 Set to Open London Film Festival",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/andrew-scott-olivia-colman-elsinore-london-film-festival-1236658959/"
       },
       {
-        "title": "\u2018As Light as Air\u2019 Is a Hypnotic Experimental Doc About Collective Ecstasy in a City in Pakistan (Locarno Trailer)",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/as-light-as-air-doc-film-trailer-locarno-2026-pakistan-1236657950/"
+        "title": "Glen Hansard, Frames Frontman and Oscar Winner, Dies in Motorcycle Crash at 56",
+        "link": "https://www.hollywoodreporter.com/music/music-news/glen-hansard-dead-motorcycle-crash-frames-singer-1236658986/"
       }
     ],
     "larb": [],
@@ -244,20 +244,20 @@
     ],
     "publicdomainreview": [
       {
+        "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge\n",
+        "link": "https://publicdomainreview.org/essay/ars-notoria"
+      },
+      {
+        "title": "Photographs of Atlantic City Sand Sculpture (ca. 1880\u20131920)\n",
+        "link": "https://publicdomainreview.org/collection/atlantic-city-sand-sculpture"
+      },
+      {
         "title": "\u201cThe Persian M\u00e2r-N\u00e2meh or, The Book for Taking Omens from Snakes\u201d (1892)\n",
         "link": "https://publicdomainreview.org/collection/marnameh"
       },
       {
         "title": "Archie G. Norcross\u2019 Maine Forest Fire Maps (1918\u201322)\n",
         "link": "https://publicdomainreview.org/collection/maine-forest-fire-maps"
-      },
-      {
-        "title": "\u201cWorthless Idiot, Donkey Head\u201d: Parodies of Pedantry on the Renaissance Stage\n",
-        "link": "https://publicdomainreview.org/essay/parodies-of-pedantry"
-      },
-      {
-        "title": "Peruvianizing Peru: Covers from Amauta Magazine (1926\u201330)\n",
-        "link": "https://publicdomainreview.org/collection/amauta-covers"
       }
     ],
     "quanta": [
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "This Time-Lapse Video from the Psyche Spacecraft Shows Mars As You\u2019ve Never Seen It Before",
+        "link": "https://nautil.us/this-time-lapse-video-from-the-psyche-spacecraft-shows-mars-as-youve-never-seen-it-before-1283140/"
+      },
+      {
         "title": "Anthony Fauci\u2019s Diary Reveals a Human at the Helm",
         "link": "https://nautil.us/anthony-faucis-diary-reveals-a-human-at-the-helm-1283145/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "Omniscient Tree Networks and Immortal Amoebas: 9 Books We\u2019re Excited to Read This August",
         "link": "https://nautil.us/omniscient-tree-networks-immortal-amoebas-and-hope-1283103/"
-      },
-      {
-        "title": "The Humble Amoeba Is Smarter Than You Think",
-        "link": "https://nautil.us/the-humble-amoeba-is-smarter-than-you-think-1283100/"
       }
     ],
     "worksinprogress": [],
