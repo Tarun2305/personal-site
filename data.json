@@ -1,44 +1,52 @@
 {
-  "last_updated": "2026-07-29 01:57 UTC",
+  "last_updated": "2026-07-29 05:44 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Burnham invites Tories and Lib Dems to social care talks",
+        "link": "https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
+        "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Polanski says guillotine re-post was mistake but refuses to apologise ",
         "link": "https://www.bbc.co.uk/news/articles/c89np278qwvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Some parents on benefits to get up to \u00a34,500 for child starting apprenticeship",
-        "link": "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "The evidence that shows today's 20-somethings really do have it worse",
         "link": "https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Iran and US trade strikes, shattering brief lull in fighting",
-        "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq",
-        "link": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss"
+        "title": "China puts the \u2018squeeze\u2019 on Taiwan with new maritime patrols",
+        "link": "https://www.aljazeera.com/news/2026/7/29/china-puts-squeeze-on-taiwan-with-new-maritime-patrols?traffic_source=rss"
       },
       {
-        "title": "After fleeing Sudan\u2019s war, refugees battle thirst in Chad\u2019s camps",
-        "link": "https://www.aljazeera.com/news/2026/7/29/after-fleeing-sudans-war-refugees-battle-thirst-in-chads-camps?traffic_source=rss"
+        "title": "Latest images of damage as death toll from Japan\u2019s Kyushu quake rises",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/latest-images-of-damage-as-death-toll-from-japans-kyushu-quake-rises?traffic_source=rss"
       },
       {
-        "title": "Media not invited as Trump, Netanyahu hold talks at the White House",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/media-not-invited-as-trump-netanyahu-hold-talks-at-the-white-house?traffic_source=rss"
+        "title": "Protesters storm hotel, heckle Netanyahu in Washington DC",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/protesters-storm-hotel-heckle-netanyahu-in-washington-dc?traffic_source=rss"
       },
       {
-        "title": "Turkiye takes \u2018historic step\u2019 on energy alliance with Iraq",
-        "link": "https://www.aljazeera.com/news/2026/7/29/turkiye-takes-historic-step-on-energy-alliance-with-iraq?traffic_source=rss"
+        "title": "Trump meets Netanyahu for a record seventh White House visit",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-meets-netanyahu-for-a-record-seventh-white-house-visit?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "F1 Driver Ratings: Our verdict on 2026's stars so far",
+        "link": "https://www.skysports.com/f1/news/12040/13567458/f1-driver-ratings-kimi-antonelli-lewis-hamilton-george-russell-lando-norris-max-verstappen-and-rest-of-2026-formula-1-field-rated"
+      },
+      {
+        "title": "Who needs late Solheim Cup push for Europe at AIG Women's Open?",
+        "link": "https://www.skysports.com/golf/news/12040/13567939/solheim-cup-2026-who-needs-big-week-at-aig-womens-open-to-qualify-team-europe-as-things-stand-ahead-of-final-major"
+      },
       {
         "title": "Next darting superstar? Coates, 20, wins maiden PDC title",
         "link": "https://www.skysports.com/darts/news/12040/13567883/darts-players-championship-25-henry-coates-wins-maiden-tournament-as-gian-van-veen-michael-van-gerwen-bow-out-early"
@@ -46,14 +54,6 @@
       {
         "title": "Mandhana fires Super Giants to victory over SunRisers",
         "link": "https://www.skysports.com/cricket/news/12040/13567867/the-hundred-smriti-mandhana-magic-fires-manchester-super-giants-to-victory-over-sunrisers-leeds-at-headingley"
-      },
-      {
-        "title": "Scandinavia retains Goodwood Cup crown after eventful race",
-        "link": "https://www.skysports.com/racing/news/12040/13567825/goodwood-cup-scandinavia-retains-group-1-crown-after-eventful-race"
-      },
-      {
-        "title": "West Ham latest: Ajax and Real Sociedad interested in Alvarez",
-        "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news"
       }
     ],
     "pitchfork": [],
@@ -189,20 +189,20 @@
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018Jumanji: Open World\u2019 Trailer Takes Dwayne Johnson, Jack Black, Kevin Hart Out of the Console",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/jumanji-open-world-trailer-dwayne-johnson-jack-black-hart-1236658662/"
+        "title": "\u2018The Rookie\u2019 Star Eric Winter Reveals Cast Filmed Alternate Season 8 Ending in Case Show Was Canceled",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/the-rookie-eric-winter-filmed-alternate-season-8-ending-1236658735/"
       },
       {
-        "title": "\u2018Star Wars\u2019 On-Set Visual Effects Workers Unionize",
-        "link": "https://www.hollywoodreporter.com/business/business-news/star-wars-on-set-vfx-workers-unionize-1236658337/"
+        "title": "Evan Rachel Wood Says She\u2019s Not Returning for \u2018Practical Magic 2\u2019 Because It\u2019s \u201cNot Following the Book\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/evan-rachel-wood-practical-magic-2-not-following-book-1236658715/"
       },
       {
-        "title": "Disney Unveils Annual Halloween Shop With Costumes, Decor and Coveted Starbucks Cup",
-        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/disney-halloween-2026-costumes-decorations-starbucks-cups-1236658607/"
+        "title": "Olivia Wilde Teases Next Directing Project \u2018Naughty\u2019: \u201cWay Bigger Than Anything I\u2019ve Ever Taken On\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/olivia-wilde-teases-next-directing-project-naughty-1236658726/"
       },
       {
-        "title": "Casey Wasserman Says \u201cI Leave With Pride\u201d as He Sells Stake In The Team to Providence Equity",
-        "link": "https://www.hollywoodreporter.com/business/business-news/casey-wasserman-sells-stake-the-team-providence-equity-1236658638/"
+        "title": "Noah Kahan Slams Trump\u2019s Use of His Song and Vows He\u2019d \u201cNever Approve\u201d",
+        "link": "https://www.hollywoodreporter.com/music/music-news/noah-kahan-slams-trump-using-his-song-1236658714/"
       }
     ],
     "larb": [],
