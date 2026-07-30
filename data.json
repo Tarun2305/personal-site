@@ -1,59 +1,42 @@
 {
-  "last_updated": "2026-07-30 05:33 UTC",
+  "last_updated": "2026-07-30 08:12 UTC",
   "feeds": {
-    "bbc": [
-      {
-        "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-        "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Burnham says nuclear sub investment will protect UK and boost jobs",
-        "link": "https://www.bbc.co.uk/news/articles/crl70x0nxr9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Cooler conditions on way for parts of UK - but still no rain for drought-hit areas",
-        "link": "https://www.bbc.co.uk/weather/articles/c1k183p9ddpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "How the UK's extreme heat is shifting the conversation about air-con",
-        "link": "https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss"
-      }
-    ],
+    "bbc": [],
     "aljazeera": [
       {
-        "title": "US launches \u2018powerful\u2019 strikes on Iran after Jordan attack",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-launches-powerful-strikes-on-iran-after-jordan-attack?traffic_source=rss"
+        "title": "Infantino insists FIFA\u2019s World Cup plan is proposal and not \u2018obligation\u2019",
+        "link": "https://www.aljazeera.com/sports/2026/7/30/infantino-insists-fifas-world-cup-plan-is-proposal-and-not-obligation?traffic_source=rss"
       },
       {
-        "title": "Evo Morales defiant after new Bolivia arrest warrant",
-        "link": "https://www.aljazeera.com/news/2026/7/30/evo-morales-defiant-after-new-bolivia-arrest-warrant?traffic_source=rss"
+        "title": "US strikes cause extensive damage on Iran\u2019s Qeshm Island",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-strikes-cause-extensive-damage-on-irans-qeshm-island?traffic_source=rss"
       },
       {
-        "title": "Rescue operation in Argentina to free more than 100 snow-trapped tourists",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/rescue-operation-in-argentina-to-free-more-than-100-snow-trapped-tourists?traffic_source=rss"
+        "title": "Is Israel repeating the Crusaders\u2019 fatal mistake?",
+        "link": "https://www.aljazeera.com/video/deja-vu-2/2026/7/30/is-israel-repeating-the-crusaders-fatal-mistake?traffic_source=rss"
       },
       {
-        "title": "\u2018Like volcanic ash falling\u2019: Inside Aeon mall after Japan\u2019s earthquake",
-        "link": "https://www.aljazeera.com/news/2026/7/30/like-volcanic-ash-falling-inside-aeon-mall-after-japans-earthquake?traffic_source=rss"
+        "title": "India\u2019s arms sale to Israel risks complicity in Gaza genocide, Amnesty says",
+        "link": "https://www.aljazeera.com/news/2026/7/30/indias-arms-sale-to-israel-risks-complicity-in-gaza-genocide-amnesty-says?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Howe leaves Newcastle",
+        "link": "https://www.skysports.com/football/news/12040/13568323/eddie-howe-newcastle-head-coach-leaves-role-with-magpies-after-nearly-five-years-in-charge"
+      },
+      {
+        "title": "AIG Women's Open LIVE! England's Hewson leads with Woad in early action",
+        "link": "https://www.skysports.com/golf/live-blog/12040/13568117/aig-womens-open-first-round-live-latest-scores-updates-highlights-as-nelly-korda-charley-hull-chase-major-victory"
+      },
+      {
+        "title": "Fleming frontrunner to become England Test coach",
+        "link": "https://www.skysports.com/cricket/news/12040/13568301/stephen-fleming-former-new-zealand-captain-frontrunner-to-be-appointed-england-mens-test-head-coach"
+      },
+      {
         "title": "Today on Sky Sports Racing: Pyramid and Bintward headline Wolverhampton feature",
         "link": "https://www.skysports.com/racing/news/12040/13567858/today-on-sky-sports-racing-pyramid-and-bintward-headline-wolverhampton-feature"
-      },
-      {
-        "title": "'All to play for!' - Why Norris can still retain his F1 title",
-        "link": "https://www.skysports.com/f1/news/12040/13568140/lando-norris-mclaren-drivers-hopes-of-chasing-down-kimi-antonelli-in-2026-f1-title-battle-assessed-on-the-f1-show-podcast"
-      },
-      {
-        "title": "Draper given wild card for National Bank Open in Montreal ",
-        "link": "https://www.skysports.com/tennis/news/12040/13568280/jack-draper-given-wild-card-for-national-bank-open-in-montreal-as-he-returns-from-injury-ahead-of-us-open-qualifying-campaign"
-      },
-      {
-        "title": "Is Littler most dominant sportsperson in the world?",
-        "link": "https://www.skysports.com/darts/news/12040/13568177/luke-littler-edges-scottie-scheffler-and-jannik-sinner-as-the-most-dominant-sportsperson-love-the-darts-podcast"
       }
     ],
     "pitchfork": [],
@@ -171,38 +154,38 @@
     ],
     "variety": [
       {
+        "title": "Busan\u2019s Asian Project Market Unveils 30 Selections for 2026 Edition",
+        "link": "https://variety.com/2026/film/markets-festivals/busans-asian-project-market-2026-selections-1236824004/"
+      },
+      {
+        "title": "Thanh Hang, Hong Anh\u2019s Vietnamese Period Drama \u2018Madame in Saigon\u2019 Lands North American Rights Deal With Reel Citrus, Live On (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/news/thanh-hang-hong-anh-madame-in-saigon-north-american-deal-1236823999/"
+      },
+      {
         "title": "Joyce Carol Oates Defends \u2018The Odyssey\u2019 and Slams Translator for Scathing Review: \u2018Speaks in the Crude Language of MAGA Folks\u2019",
         "link": "https://variety.com/2026/film/news/joyce-carol-oates-the-odyssey-slams-translator-review-1236823922/"
       },
       {
         "title": "Ben Affleck Wins $1 Million Prize on \u2018Who Wants to Be a Millionaire,\u2019 One Year After Matt Damon Did the Same",
         "link": "https://variety.com/2026/tv/news/ben-affleck-wins-1-million-who-wants-to-be-a-millionaire-1236823747/"
-      },
-      {
-        "title": "Supernatural Reality Competition Korean Series \u2018House of Fates\u2019 Greenlit as \u2018Battle of Fates\u2019 Spinoff at Disney+",
-        "link": "https://variety.com/2026/tv/news/supernatural-reality-competition-korean-series-house-of-fates-disney-1236823264/"
-      },
-      {
-        "title": "Grammy Chief \u2018Saddened to Hear\u2019 That BTS Won\u2019t Submit for 2027 Awards",
-        "link": "https://variety.com/2026/music/news/grammy-chief-saddened-bts-wont-submit-for-2027-awards-1236823891/"
       }
     ],
     "hollywoodreporter": [
       {
+        "title": "Locarno Director Touts \u201cAdventurous\u201d Lineup for \u201cEra of Algorithms\u201d and Highlights Theme of Community",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/locarno-2026-preview-adventurous-films-algorithm-era-stars-1236652023/"
+      },
+      {
+        "title": "\u2018September Afternoon\u2019 Dives Into the Mundane: \u201cIn an Age of Arbitrary Extraordinariness, Plain Banality Is Stimulating as F***\u201d (Exclusive Clip)",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/locarno-2026-film-clip-september-afternoon-nicolaas-schmidt-1236658923/"
+      },
+      {
+        "title": "\u2018The Bombing of Pan Am 103\u2019 Review: Netflix\u2019s Sensitive Lockerbie Drama Is Restrained to a Fault",
+        "link": "https://www.hollywoodreporter.com/tv/tv-reviews/the-bombing-of-pan-am-103-review-netflix-1236657555/"
+      },
+      {
         "title": "Homer Gere Says It\u2019s \u201cReally Funny\u201d Working With Kaia Gerber on \u2018The Shards,\u2019 30 Years After Famous Parents\u2019 Divorce",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/homer-gere-kaia-gerber-shards-richard-gere-cindy-crawford-1236659800/"
-      },
-      {
-        "title": "\u2018Spider-Man: Brand New Day\u2019 Aims to Make Box Office History as It Targets High-Flying Opening",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-opening-tom-holland-1236659734/"
-      },
-      {
-        "title": "Grammys CEO \u201cSaddened\u201d Over BTS Decision to Not Submit for Awards",
-        "link": "https://www.hollywoodreporter.com/music/music-industry-news/grammys-ceo-comment-bts-grammy-submissions-1236659772/"
-      },
-      {
-        "title": "Justin Bieber\u2019s Sneakers Worn During World Cup Final Performance Sold at Auction for Almost $30K",
-        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/justin-bieber-performance-world-cup-final-sneakers-auction-1236659414/"
       }
     ],
     "larb": [],
