@@ -1,42 +1,59 @@
 {
-  "last_updated": "2026-07-30 08:12 UTC",
+  "last_updated": "2026-07-30 11:00 UTC",
   "feeds": {
-    "bbc": [],
+    "bbc": [
+      {
+        "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+        "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Joe Root returns as England Test cricket captain with Stephen Fleming named head coach",
+        "link": "https://www.bbc.co.uk/sport/cricket/articles/cx2mjk24lymo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israel building new land barriers in Gaza and displacing families",
+        "link": "https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Thousands evacuated in Crete as European wildfires continue to rage",
+        "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss"
+      }
+    ],
     "aljazeera": [
       {
-        "title": "Infantino insists FIFA\u2019s World Cup plan is proposal and not \u2018obligation\u2019",
-        "link": "https://www.aljazeera.com/sports/2026/7/30/infantino-insists-fifas-world-cup-plan-is-proposal-and-not-obligation?traffic_source=rss"
+        "title": "AFC president doubles down on FIFA, calling World Cup plan \u2018unacceptable\u2019",
+        "link": "https://www.aljazeera.com/sports/2026/7/30/afc-president-doubles-down-on-fifa-calling-world-cup-plan-unacceptable?traffic_source=rss"
       },
       {
-        "title": "US strikes cause extensive damage on Iran\u2019s Qeshm Island",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-strikes-cause-extensive-damage-on-irans-qeshm-island?traffic_source=rss"
+        "title": "Israeli raids and settler attacks intensify across the occupied West Bank",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-raids-and-settler-attacks-intensify-across-the-occupied-west-bank?traffic_source=rss"
       },
       {
-        "title": "Is Israel repeating the Crusaders\u2019 fatal mistake?",
-        "link": "https://www.aljazeera.com/video/deja-vu-2/2026/7/30/is-israel-repeating-the-crusaders-fatal-mistake?traffic_source=rss"
+        "title": "Attack on northwest Pakistan police post kills 11 officers",
+        "link": "https://www.aljazeera.com/news/2026/7/30/attack-on-northwest-pakistan-police-post-kills-11-officers?traffic_source=rss"
       },
       {
-        "title": "India\u2019s arms sale to Israel risks complicity in Gaza genocide, Amnesty says",
-        "link": "https://www.aljazeera.com/news/2026/7/30/indias-arms-sale-to-israel-risks-complicity-in-gaza-genocide-amnesty-says?traffic_source=rss"
+        "title": "Several children killed and wounded in Israeli attacks across Gaza",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/several-children-killed-and-wounded-in-israeli-attacks-across-gaza?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Howe leaves Newcastle",
+        "title": "Chelsea sign Lacroix from Palace",
+        "link": "https://www.skysports.com/football/news/12040/13566543/maxence-lacroix-transfer-news-chelsea-complete-signing-of-france-defender-from-crystal-palace"
+      },
+      {
+        "title": "Who is Matthias Jaissle?",
+        "link": "https://www.skysports.com/football/news/12040/13568347/matthias-jaissle-to-newcastle-who-is-the-coach-set-to-replace-eddie-howe-at-st-james-park-and-what-can-we-expect"
+      },
+      {
+        "title": "Women's Super League fixtures announced for 2026/27 season",
+        "link": "https://www.skysports.com/football/news/12040/13567659/womens-super-league-fixtures-2026-27-man-city-host-birmingham-city-and-london-city-lionesses-face-man-utd-in-opening-round"
+      },
+      {
+        "title": "Howe leaves Newcastle - Saudi-based Jaissle set to replace him",
         "link": "https://www.skysports.com/football/news/12040/13568323/eddie-howe-newcastle-head-coach-leaves-role-with-magpies-after-nearly-five-years-in-charge"
-      },
-      {
-        "title": "AIG Women's Open LIVE! England's Hewson leads with Woad in early action",
-        "link": "https://www.skysports.com/golf/live-blog/12040/13568117/aig-womens-open-first-round-live-latest-scores-updates-highlights-as-nelly-korda-charley-hull-chase-major-victory"
-      },
-      {
-        "title": "Fleming frontrunner to become England Test coach",
-        "link": "https://www.skysports.com/cricket/news/12040/13568301/stephen-fleming-former-new-zealand-captain-frontrunner-to-be-appointed-england-mens-test-head-coach"
-      },
-      {
-        "title": "Today on Sky Sports Racing: Pyramid and Bintward headline Wolverhampton feature",
-        "link": "https://www.skysports.com/racing/news/12040/13567858/today-on-sky-sports-racing-pyramid-and-bintward-headline-wolverhampton-feature"
       }
     ],
     "pitchfork": [],
@@ -154,42 +171,50 @@
     ],
     "variety": [
       {
-        "title": "Busan\u2019s Asian Project Market Unveils 30 Selections for 2026 Edition",
-        "link": "https://variety.com/2026/film/markets-festivals/busans-asian-project-market-2026-selections-1236824004/"
+        "title": "\u2018The Walking Dead\u2019 Franchise to Stream on Both Netflix and AMC+ Beginning in 2027 Under New $500 Million Deal",
+        "link": "https://variety.com/2026/tv/news/the-walking-dead-stream-netflix-amc-plus-500-million-deal-1236824065/"
       },
       {
-        "title": "Thanh Hang, Hong Anh\u2019s Vietnamese Period Drama \u2018Madame in Saigon\u2019 Lands North American Rights Deal With Reel Citrus, Live On (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/news/thanh-hang-hong-anh-madame-in-saigon-north-american-deal-1236823999/"
+        "title": "San Sebasti\u00e1n New Directors: Billy Lumby, Marlene Emilie Lyngstad, \u2018Money Heist\u2019 Star Jaime Lorente and More",
+        "link": "https://variety.com/2026/film/global/san-sebastian-new-directors-billy-lumby-jaime-lorente-1236824057/"
       },
       {
-        "title": "Joyce Carol Oates Defends \u2018The Odyssey\u2019 and Slams Translator for Scathing Review: \u2018Speaks in the Crude Language of MAGA Folks\u2019",
-        "link": "https://variety.com/2026/film/news/joyce-carol-oates-the-odyssey-slams-translator-review-1236823922/"
+        "title": "\u2018Ramayana\u2019 Trailer: Ranbir Kapoor and Yash Face Off in First Part of Nitesh Tiwari\u2019s Epic",
+        "link": "https://variety.com/2026/film/news/ramayana-trailer-ranbir-kapoor-yash-1236819671/"
       },
       {
-        "title": "Ben Affleck Wins $1 Million Prize on \u2018Who Wants to Be a Millionaire,\u2019 One Year After Matt Damon Did the Same",
-        "link": "https://variety.com/2026/tv/news/ben-affleck-wins-1-million-who-wants-to-be-a-millionaire-1236823747/"
+        "title": "Giorgio Armani Series in the Works From Fremantle-Owned Lux Vide and Iconic Designer\u2019s Fashion House (EXCLUSIVE)",
+        "link": "https://variety.com/2026/tv/global/giorgio-armani-series-fremantle-lux-vide-1236823154/"
       }
     ],
     "hollywoodreporter": [
       {
+        "title": "Zoe Salda\u00f1a to Receive Locarno Fest Special Honor",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/zoe-saldana-locarno-2026-special-pardo-leopard-honor-1236659915/"
+      },
+      {
+        "title": "Opposition Grows to FIFA World Cup Sell-Off Plan",
+        "link": "https://www.hollywoodreporter.com/business/business-news/backlash-to-fifa-world-cup-sell-off-grows-1236659896/"
+      },
+      {
+        "title": "Matthew Macfadyen, Claire Foy to Lead Adaptation of David Nicholls Romance \u2018You Are Here\u2019",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/matthew-macfadyen-claire-foy-nicholls-you-are-here-tv-show-1236659899/"
+      },
+      {
         "title": "Locarno Director Touts \u201cAdventurous\u201d Lineup for \u201cEra of Algorithms\u201d and Highlights Theme of Community",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/locarno-2026-preview-adventurous-films-algorithm-era-stars-1236652023/"
-      },
-      {
-        "title": "\u2018September Afternoon\u2019 Dives Into the Mundane: \u201cIn an Age of Arbitrary Extraordinariness, Plain Banality Is Stimulating as F***\u201d (Exclusive Clip)",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/locarno-2026-film-clip-september-afternoon-nicolaas-schmidt-1236658923/"
-      },
-      {
-        "title": "\u2018The Bombing of Pan Am 103\u2019 Review: Netflix\u2019s Sensitive Lockerbie Drama Is Restrained to a Fault",
-        "link": "https://www.hollywoodreporter.com/tv/tv-reviews/the-bombing-of-pan-am-103-review-netflix-1236657555/"
-      },
-      {
-        "title": "Homer Gere Says It\u2019s \u201cReally Funny\u201d Working With Kaia Gerber on \u2018The Shards,\u2019 30 Years After Famous Parents\u2019 Divorce",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/homer-gere-kaia-gerber-shards-richard-gere-cindy-crawford-1236659800/"
       }
     ],
     "larb": [],
     "aeon": [
+      {
+        "title": "Mud below, sun above",
+        "link": "https://aeon.co/videos/the-workforce-of-elderly-women-recycling-what-vietnam-throws-away"
+      },
+      {
+        "title": "How art invented humanity",
+        "link": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around"
+      },
       {
         "title": "How to spot pseudoscience",
         "link": "https://aeon.co/videos/three-handy-tools-for-separating-pseudoscience-from-the-real-deal"
@@ -197,17 +222,13 @@
       {
         "title": "The light narrows",
         "link": "https://aeon.co/essays/what-kind-of-strength-did-i-chase-with-a-cojones-cheat-code"
-      },
-      {
-        "title": "In search of the northern cassowary",
-        "link": "https://aeon.co/videos/scientists-and-locals-unite-to-film-a-large-elusive-new-guinean-bird"
-      },
-      {
-        "title": "The taming of Black thought",
-        "link": "https://aeon.co/essays/epistemic-convergence-in-the-study-of-world-philosophies"
       }
     ],
     "psyche": [
+      {
+        "title": "After the performance",
+        "link": "https://psyche.co/portraits/the-nba-superstar-carmelo-anthony-on-life-after-basketball"
+      },
       {
         "title": "Your deepest regrets help you see yourself more clearly",
         "link": "https://psyche.co/ideas/your-deepest-regrets-help-you-see-yourself-more-clearly"
@@ -219,10 +240,6 @@
       {
         "title": "Why some men seek refuge in ever bigger muscles",
         "link": "https://psyche.co/ideas/why-some-men-seek-refuge-in-ever-bigger-muscles"
-      },
-      {
-        "title": "How to stop avoiding life",
-        "link": "https://psyche.co/videos/five-research-backed-strategies-for-living-fully-with-anxiety"
       }
     ],
     "publicdomainreview": [
