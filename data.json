@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-07-30 13:42 UTC",
+  "last_updated": "2026-07-30 16:21 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-        "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss"
+        "title": "European nations to boycott World Cup if Fifa goes ahead with investment plan",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Thousands evacuated in Crete as Europe battles wildfires",
+        "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
         "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Large rise in offenders sent back to prison, figures reveal",
-        "link": "https://www.bbc.co.uk/news/articles/c6298ljegkgo?at_medium=RSS&at_campaign=rss"
+        "title": "Drought declared across whole of Wales as conditions 'deteriorate'",
+        "link": "https://www.bbc.co.uk/news/articles/c8jn1v37znvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Watch: Giant iceberg turns over near  Greenland's coast",
-        "link": "https://www.bbc.co.uk/news/videos/cdx7lg950gdo?at_medium=RSS&at_campaign=rss"
+        "title": "Bank holds interest rates but says it is ready to raise them if Iran war escalates",
+        "link": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Detained Ugandan opposition leader Besigye in intensive care, wife says",
-        "link": "https://www.aljazeera.com/news/2026/7/30/detained-ugandan-opposition-leader-besigye-in-intensive-care-wife-says?traffic_source=rss"
+        "title": "IRGC video of retaliatory strikes on US targets in Jordan",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/irgc-video-of-retaliatory-strikes-on-us-targets-in-jordan?traffic_source=rss"
       },
       {
-        "title": "England appoint Root and Fleming as Test cricket captain and coach",
-        "link": "https://www.aljazeera.com/sports/2026/7/30/england-appoint-root-and-fleming-as-test-cricket-captain-and-coach?traffic_source=rss"
+        "title": "US GDP growth dips as inflation and trade deficits pressure economy",
+        "link": "https://www.aljazeera.com/economy/2026/7/30/us-gdp-growth-dips-as-inflation-and-trade-deficits-pressure-economy?traffic_source=rss"
       },
       {
-        "title": "How does a safe zone in Lebanon become a target three times?",
-        "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/30/how-does-a-safe-zone-in-lebanon-become-a-target-three-times?traffic_source=rss"
+        "title": "Spain\u2019s enclave Ceuta raises alarm as thousands cross border from Morocco",
+        "link": "https://www.aljazeera.com/news/2026/7/30/spanish-enclave-of-ceuta-raises-alarm-as-thousands-cross-morocco-border?traffic_source=rss"
       },
       {
-        "title": "Israeli strikes kill at least four, including children, across Gaza Strip",
-        "link": "https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss"
+        "title": "Republicans delay vote on Trump\u2019s US attorney general pick amid concerns",
+        "link": "https://www.aljazeera.com/news/2026/7/30/republicans-delay-vote-on-trumps-us-attorney-general-pick-amid-concerns?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Real Madrid expected to make offer for Rodri",
-        "link": "https://www.skysports.com/football/news/12040/13568453/rodri-transfer-latest-real-madrid-expected-to-make-bid-for-manchester-city-midfielder-after-prolonged-interest"
+        "title": "Eubank Jr's negotiations for Nigeria ring return 'coming along nicely'",
+        "link": "https://www.skysports.com/boxing/news/12040/13568430/chris-eubank-jr-nigeria-ring-return-negotiations-coming-along-nicely"
       },
       {
-        "title": "Reinvigorate Root and fix culture: What's in new Test coach Fleming's in-tray?",
-        "link": "https://www.skysports.com/cricket/news/12040/13568362/stephen-flemings-in-tray-new-england-test-coach-needs-to-reinvigorate-joe-root-develop-harry-brook-cut-the-boozing-and-win"
+        "title": "UEFA to boycott FIFA tournaments if World Cup sell-off goes ahead",
+        "link": "https://www.skysports.com/football/news/12040/13568511/uefa-will-boycott-fifa-tournaments-if-gianni-infantino-continues-with-plans-to-sell-off-stake-in-world-cup"
       },
       {
-        "title": "St Helens prop Delaney ruled out for rest of season",
-        "link": "https://www.skysports.com/rugby-league/news/12040/13568406/st-helens-prop-george-delaney-to-miss-rest-of-super-league-season-after-wigan-warriors-injury"
+        "title": "England's Campbell smashes Commonwealth Games record as she dances to gold",
+        "link": "https://www.skysports.com/live-blog/12040/13566034/commonwealth-games-glasgow-2026-live-news-schedule-updates-results-todays-events-as-england-scotland-wales-northern-ireland-aim-for-medals"
       },
       {
-        "title": "Chelsea sign Lacroix from Palace",
-        "link": "https://www.skysports.com/football/news/12040/13566543/maxence-lacroix-transfer-news-chelsea-complete-signing-of-france-defender-from-crystal-palace"
+        "title": "AIG Women's Open: Full R2 groupings and Royal Lytham tee times",
+        "link": "https://www.skysports.com/golf/news/12040/13568349/aig-womens-open-2026-tee-times-full-r2-groupings-and-start-times-for-second-round-at-royal-lytham-st-annes"
       }
     ],
     "pitchfork": [],
@@ -135,74 +135,74 @@
     "reverseshot": [],
     "sensesofcinema": [
       {
-        "title": "Porno, Disco, and Summer of Sam: Spike Lee on Sexuality",
-        "link": "https://www.sensesofcinema.com/2026/cteq/porno-disco-and-summer-of-sam-spike-lee-on-sexuality/"
+        "title": "Crimes Against Reality: Speculation and the New Red Order",
+        "link": "https://www.sensesofcinema.com/2026/feature-articles/crimes-against-reality-speculation-and-the-new-red-order/"
       },
       {
-        "title": "4 Little Girls",
-        "link": "https://www.sensesofcinema.com/2026/cteq/4-little-girls/"
+        "title": "Consent Puzzles in the Oslo Stories Trilogy by Dag Johan Haugerud",
+        "link": "https://www.sensesofcinema.com/2026/feature-articles/consent-puzzles-in-the-oslo-stories-trilogy-by-dag-johan-haugerud/"
       },
       {
-        "title": "A Pedagogy of Resistance: From Double Consciousness to the Unified Self in Spike Lee\u2019s Malcolm X",
-        "link": "https://www.sensesofcinema.com/2026/cteq/a-pedagogy-of-resistance-from-double-consciousness-to-the-unified-self-in-spike-lees-malcolm-x/"
+        "title": "An Interview with Giulio Bertelli",
+        "link": "https://www.sensesofcinema.com/2026/interviews/an-interview-with-giulio-bertelli/"
       },
       {
-        "title": "25th Hour",
-        "link": "https://www.sensesofcinema.com/2026/cteq/25th-hour/"
+        "title": "Feeling the Screen Story\u2019s Pulse: Karen Peralman\u2019s Cutting Rhythms: Creative Film Editing",
+        "link": "https://www.sensesofcinema.com/2026/book-reviews/feeling-the-screen-storys-pulse-karen-peralmans-cutting-rhythms-creative-film-editing/"
       }
     ],
     "indiewire": [
       {
-        "title": "Jane Schoenbrun and the \u2018Teenage Death and Sex at Camp Miasma\u2019 Team Delivered a Sexy, Sapphic \u2018Secretary\u2019 Live Reading",
-        "link": "https://www.indiewire.com/news/general-news/secretary-live-read-gillian-anderson-hannah-einbinder-1235207435/"
+        "title": "How Ngozi Onwurah\u2019s Dystopian \u2018Welcome II the Terrordome\u2019 Went from Lost \u201990s Black Indie to Long-Overdue Rediscovery",
+        "link": "https://www.indiewire.com/features/interviews/welcome-ii-the-terrrordome-ngozi-onwurah-interview-1235207647/"
       },
       {
-        "title": "The Secret to Bleecker Street\u2019s \u2018Hadestown\u2019 Success: Let the Audience Lead",
-        "link": "https://www.indiewire.com/news/analysis/bleecker-street-hadestown-biggest-opening-audience-data-1235207610/"
+        "title": "Cannes 2026 Movies Sold: Andy Garcia\u2019s Throwback Detective Noir \u2018Diamond\u2019 Goes to Sony Pictures Classics",
+        "link": "https://www.indiewire.com/news/festivals/cannes-2026-movies-sold-so-far-paper-tiger-minotaur-1235191174/"
       },
       {
-        "title": "The Academy Re-Elects Producer Lynette Howell Taylor as Its President",
-        "link": "https://www.indiewire.com/awards/industry/producer-lynette-howell-taylor-re-elected-academy-president-1235207493/"
+        "title": "\u2018Fightland\u2019 Review: 50 Cent\u2019s Starz Boxing Drama Is All Hype and No Hooks",
+        "link": "https://www.indiewire.com/criticism/shows/fightland-review-50-cent-starz-boxing-drama-1235207415/"
       },
       {
-        "title": "Paul Schrader on the 50-Year-Old \u2018Obsession\u2019 That Broke Him and Brian De Palma Apart",
-        "link": "https://www.indiewire.com/features/interviews/paul-schrader-brian-de-palma-obsession-interview-1235207357/"
+        "title": "\u2018Victorian Psycho\u2019 Trailer: Maika Monroe Is a Crazed Governess in a Period Slasher",
+        "link": "https://www.indiewire.com/news/trailers/victorian-psycho-trailer-maika-monroe-1235207436/"
       }
     ],
     "variety": [
       {
-        "title": "George and Amal Clooney Evacuate French Home as Wildfire Threatens Brignoles: \u2018We Remain Fully Part of This Community\u2019 and Will \u2018Contribute to Its Rebuilding\u2019",
-        "link": "https://variety.com/2026/film/global/george-amal-clooney-evacuate-french-home-wildfire-brignoles-1236824185/"
+        "title": "\u2018Clueless\u2019 Sequel Series With Alicia Silverstone Ordered at Paramount+",
+        "link": "https://variety.com/2026/tv/news/clueless-sequel-series-alicia-silverstone-paramount-plus-1236824275/"
       },
       {
-        "title": "Ryan Bingham Signs With WME (EXCLUSIVE)",
-        "link": "https://variety.com/2026/music/news/ryan-bingham-signs-with-wme-1236823915/"
+        "title": "AI Startup Fairground, Founded by Xumo Creator, to Launch First AI-Exclusive FAST Channel (EXCLUSIVE)",
+        "link": "https://variety.com/2026/biz/news/ai-fairground-xumo-creator-fast-channel-1236824290/"
       },
       {
-        "title": "Italy-Based Lights On Snags Colombia\u2019s \u2018In All My Journeys I Am Returning\u2019 Ahead of Its Locarno Bow (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/global/lights-on-colombia-all-my-journeys-i-am-returning-locarno-1236823773/"
+        "title": "Soccer World Cup Boycott Backed Unanimously by All 55 UEFA Members Over FIFA Stake Sale",
+        "link": "https://variety.com/2026/sports/global/world-cup-boycott-opposition-fifa-plan-1236823227/"
       },
       {
-        "title": "Paul McCartney, Olivia Dean and Raye Make Mercury Prize Shortlist",
-        "link": "https://variety.com/2026/music/global/paul-mccartney-olivia-dean-raye-mercury-prize-shortlist-1236824174/"
+        "title": "Disney\u2019s ABC Asks FCC to Reject Petitions to Deny TV License Renewals, Says Agency Is Taking \u2018Punitive\u2019 Action Against Broadcasters Trump Dislikes",
+        "link": "https://variety.com/2026/tv/news/disney-abc-reply-fcc-license-renewals-reject-trump-1236823657/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Cinemark Posts Record $1.1 Billion Second Quarter Revenue on Box Office Rebound",
-        "link": "https://www.hollywoodreporter.com/business/business-news/cinemark-second-quarter-revenue-1236660002/"
+        "title": "\u2018Clueless\u2019 Sequel Series Moving Forward at Paramount+",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/clueless-sequel-series-paramount-1236659500/"
       },
       {
-        "title": "Debut Films From \u2018Money Heist\u2019 Star Jaime Lorente, U.K.\u2019s Billy Lumby Headline San Sebastian New Directors Selection",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/san-sebastian-new-directors-jaime-lorente-film-festival-1236659970/"
+        "title": "Ella Rubin and Am\u00e9lie Hoeferle Debate the Importance of Being Messy in New \u2018Sterling Point\u2019 Clip (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/ella-rubin-amelie-hoeferle-sterling-point-exclusive-clip-1236659810/"
       },
       {
-        "title": "SiriusXM Adds 22K Subscribers, But Shares Fall After Earnings Miss",
-        "link": "https://www.hollywoodreporter.com/business/business-news/siriusxm-adds-22k-subscribers-but-shares-fall-after-earnings-miss-1236659949/"
+        "title": "Alix Earle Ready to Reveal \u201cChaotic\u201d Life on Netflix Reality Show: \u201cFilming Season One Was Insane\u201d",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/alix-earle-netflix-reality-show-earle-meets-world-1236659878/"
       },
       {
-        "title": "Netflix and AMC Global Media Ink $500 Million \u2018Walking Dead\u2019 Streaming Deal",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-walking-dead-streaming-deal-amc-global-media-1236659933/"
+        "title": "The 25 Best Documentaries of All Time, Ranked",
+        "link": "https://www.hollywoodreporter.com/lists/best-documentaries-of-all-time-ranked/"
       }
     ],
     "larb": [],
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "Did Ancient Humans Prefer Hunting Female Mammoths?",
+        "link": "https://nautil.us/did-ancient-humans-prefer-hunting-female-mammoths-1283215/"
+      },
+      {
         "title": "Earth Is Lumpy as Hell",
         "link": "https://nautil.us/earth-is-lumpy-as-hell-1283204/"
       },
@@ -290,30 +294,9 @@
       {
         "title": "Mothers and Fathers Experience Dramatically Different Health Consequences",
         "link": "https://nautil.us/mothers-and-fathers-experience-dramatically-different-health-consequences-1283211/"
-      },
-      {
-        "title": "How Celebrities Became America\u2019s Unregulated Drug Pushers",
-        "link": "https://nautil.us/how-celebrities-became-americas-unregulated-drug-pushers-1283181/"
       }
     ],
     "worksinprogress": [],
-    "noema": [
-      {
-        "title": "The Rise And Fall Of Liberal Democracy\u2019s Shared Fiction",
-        "link": "https://www.noemamag.com/the-rise-and-fall-of-liberal-democracys-shared-fiction"
-      },
-      {
-        "title": "Inside The Lab Growing Mutant Bacteria To Terraform Earth",
-        "link": "https://www.noemamag.com/inside-the-lab-growing-mutant-bacteria-to-terraform-earth"
-      },
-      {
-        "title": "The 2026 Berggruen Prize Essay Competition Topic: \u2018A New Axial Age?\u2019",
-        "link": "https://www.noemamag.com/the-2026-berggruen-prize-essay-competition-topic-a-new-axial-age"
-      },
-      {
-        "title": "The Real Problem Underlying India-China Tensions",
-        "link": "https://www.noemamag.com/the-real-problem-plaguing-asias-most-important-relationship"
-      }
-    ]
+    "noema": []
   }
 }
