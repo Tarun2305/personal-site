@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-07-31 08:55 UTC",
+  "last_updated": "2026-07-31 11:26 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "About 49,000 migrants enter Spanish enclave of Ceuta, officials say",
+        "title": "About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say",
         "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Asian nations join growing opposition to Fifa's controversial World Cup investment plan",
+        "title": "Senior Infantino adviser quits after Asian federation opposes World Cup investment plan",
         "link": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Anthropic's Claude AI escapes tests to hack three organisations",
-        "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss"
+        "title": "Southport killer charged with prison attacks and possessing weapon",
+        "link": "https://www.bbc.co.uk/news/articles/ckg3dr3lgjko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Satellite images show impact of heatwaves and drought on UK landscape",
-        "link": "https://www.bbc.co.uk/news/articles/ckgv657e1yko?at_medium=RSS&at_campaign=rss"
+        "title": "Anthropic's Claude AI escapes test environment and hacks into three organisations",
+        "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Israeli forces blow up structures near Lebanon\u2019s Beaufort Castle",
-        "link": "https://www.aljazeera.com/news/2026/7/31/israeli-forces-blow-up-structures-near-lebanons-beaufort-castle?traffic_source=rss"
+        "title": "Palestinians in Gaza are sceptical about the latest peace plan",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-reported-hani-mahmoud-gaza-ps?traffic_source=rss"
       },
       {
-        "title": "Liberia burns 4.2 metric tonnes of cocaine after record drug seizure",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-liberia-cocaine-burning-lr?traffic_source=rss"
+        "title": "Spain PM to visit Ceuta after 19 migrants die breaching border from Morocco",
+        "link": "https://www.aljazeera.com/news/2026/7/31/spain-pm-to-visit-ceuta-after-19-migrants-die-breaching-border-from-morocco?traffic_source=rss"
       },
       {
-        "title": "FIFA defiant over World Cup investment plan, despite UEFA\u2019s vote to boycott",
-        "link": "https://www.aljazeera.com/sports/2026/7/31/fifa-defiant-over-world-cup-investment-plan-despite-uefas-vote-to-boycott?traffic_source=rss"
+        "title": "Italy World Cup winner and AC Milan legend Franco Baresi dies aged 66",
+        "link": "https://www.aljazeera.com/sports/2026/7/31/italy-and-ac-milan-legend-franco-baresi-dies-aged-66?traffic_source=rss"
       },
       {
-        "title": "US government mislabels countries on map of Africa at global conference",
-        "link": "https://www.aljazeera.com/news/2026/7/31/us-government-mislabels-countries-on-map-of-africa-at-global-conference?traffic_source=rss"
+        "title": "AFC backs UEFA and CONCACAF who plan boycott over FIFA World Cup proposals",
+        "link": "https://www.aljazeera.com/sports/2026/7/31/afc-joins-uefa-and-concacaf-in-threat-to-boycott-fifa-over-world-cup-plans?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Are Bournemouth set to strike defender gold again with Silva?",
-        "link": "https://www.skysports.com/football/news/12040/13565767/antonio-silva-to-bournemouth-benfica-and-portugal-defender-is-premier-league-ready-and-a-good-fit-for-marco-rose"
+        "title": " 'Genuine concern' expressed for Saltburn members amid 'Clicky Ponting' scandal",
+        "link": "https://www.skysports.com/cricket/news/12040/13568740/clicky-ponting-scandal-north-yorkshire-and-south-durham-cricket-league-expresses-genuine-concern-for-saltburn-members"
       },
       {
-        "title": "West Ham in talks for Celtic midfielder Engels",
-        "link": "https://www.skysports.com/football/news/12040/13568688/west-ham-transfer-news-hammers-in-talks-to-sign-celtic-midfielder-arne-engels-amid-premier-league-interest"
+        "title": "'Anything is possible' - Key open to Stokes Ashes return ",
+        "link": "https://www.skysports.com/cricket/news/12040/13568702/ben-stokes-england-cricket-chief-rob-key-says-door-is-open-for-former-captain-to-return-for-home-2027-ashes-against-australia"
       },
       {
-        "title": "AIG Women's Open LIVE! Hull slips back as amateur closes on major lead",
-        "link": "https://www.skysports.com/golf/live-blog/12040/13568342/aig-womens-open-live-latest-scores-updates-highlights-from-second-round-as-charley-hull-lottie-woad-chase-major-win"
+        "title": "Stavley, Ghodoussi company makes offer for West Ham stake",
+        "link": "https://www.skysports.com/football/news/12040/13568730/west-ham-amanda-staveley-and-mehrdad-ghodoussis-pcp-capital-partners-make-offer-for-stake-in-championship-club"
       },
       {
-        "title": "Norrie routs Tomic to reach first semi-final of 2026",
-        "link": "https://www.skysports.com/tennis/news/12040/13568658/cameron-norrie-thrashes-bernard-tomic-at-los-cabos-open-to-reach-his-first-semi-final-of-2026-season"
+        "title": "AC Milan and Italy legend Baresi dies aged 66",
+        "link": "https://www.skysports.com/football/news/12040/13568705/franco-baresi-ac-milan-legend-and-world-cup-winner-with-italy-dies-aged-66"
       }
     ],
     "pitchfork": [],
@@ -171,20 +171,20 @@
     ],
     "variety": [
       {
-        "title": "Element Pictures Names Former Sky and HBO Publicist Chris Duggan as First Head of Communications and Marketing (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/global/element-pictures-chris-duggan-communications-marketing-head-1236824038/"
+        "title": "\u2018Black Zombie\u2019 Review: An Engaging Doc on How the Flesh-Eating Hordes of Screen Fame Obscured Painful Real-Life History",
+        "link": "https://variety.com/2026/film/reviews/black-zombie-review-1236823838/"
       },
       {
-        "title": "ITV Sees \u2018Solid\u2019 Results in First Half of 2026, Reports $26 Million Loss Due to Fast Food Advertising Regulations",
-        "link": "https://variety.com/2026/tv/global/itv-half-year-results-2026-solid-2-percent-1236824882/"
+        "title": "\u2018Los Vampires\u2019 Review: Dueling Draculas Spar in an Alluring if Unevenly Executed Flashback to Early-Talkie Hollywood",
+        "link": "https://variety.com/2026/film/reviews/los-vampires-review-1236821582/"
       },
       {
-        "title": "Ariana Grande\u2019s \u2018Petal\u2019 Introduces an Angry and Angular Ari: Album Review",
-        "link": "https://variety.com/2026/music/reviews/ariana-grande-petal-angry-ari-album-review-1236824838/"
+        "title": "World Cup Boycott Backed by All 55 UEFA Countries as Asian, North and Central American, Caribbean Members Oppose FIFA Stake Sale",
+        "link": "https://variety.com/2026/sports/global/world-cup-boycott-opposition-fifa-plan-1236823227/"
       },
       {
-        "title": "Sony Pictures Revenue Drops 13% in June Quarter, Music Segment Sales Jump 21%",
-        "link": "https://variety.com/2026/film/news/sony-pictures-earnings-june-2026-music-playstation-sales-1236824839/"
+        "title": "Oscar-Qualifying Bengaluru International Short Film Festival Expands to 10 Arenas, Adds AI and Dance Competitions (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/news/bengaluru-short-film-festival-ai-dance-competitions-2026-1236824897/"
       }
     ],
     "hollywoodreporter": [
@@ -208,6 +208,10 @@
     "larb": [],
     "aeon": [
       {
+        "title": "Resist the technocrats",
+        "link": "https://aeon.co/essays/are-we-witnessing-the-end-of-the-technocratic-international"
+      },
+      {
         "title": "Mud below, sun above",
         "link": "https://aeon.co/videos/the-workforce-of-elderly-women-recycling-what-vietnam-throws-away"
       },
@@ -218,10 +222,6 @@
       {
         "title": "How to spot pseudoscience",
         "link": "https://aeon.co/videos/three-handy-tools-for-separating-pseudoscience-from-the-real-deal"
-      },
-      {
-        "title": "The light narrows",
-        "link": "https://aeon.co/essays/what-kind-of-strength-did-i-chase-with-a-cojones-cheat-code"
       }
     ],
     "psyche": [
