@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31 19:13 UTC",
+  "last_updated": "2026-07-31 21:59 UTC",
   "feeds": {
     "bbc": [
       {
@@ -11,7 +11,7 @@
         "link": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'If that means I lose my job, so be it': Top Fifa official questions Infantino's World Cup plan",
+        "title": "Fifa executive says staff 'deceived' by Infantino plans",
         "link": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -21,27 +21,31 @@
     ],
     "aljazeera": [
       {
-        "title": "World reacts with cautious optimism to Hamas disarmament agreement",
-        "link": "https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss"
+        "title": "Children face higher threat of US deportation as legal support deal expires",
+        "link": "https://www.aljazeera.com/news/2026/7/31/children-face-higher-threat-of-us-deportation-as-legal-support-deal-expires?traffic_source=rss"
       },
       {
-        "title": "Trump says Hamas disarmament deal will be complex to deliver",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/trump-says-hamas-disarmament-deal-will-be-complex-to-deliver?traffic_source=rss"
+        "title": "Cambridge students on why they protested at graduation ceremony",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/cambridge-students-on-why-they-protested-at-graduation-ceremony?traffic_source=rss"
       },
       {
-        "title": "Syrian lawyer takes on ex-Assad official in landmark trial",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/syrian-lawyer-takes-on-ex-assad-official-in-landmark-trial?traffic_source=rss"
+        "title": "Powerful El Nino to intensify heat on \u2018a planet already on fire\u2019: UN",
+        "link": "https://www.aljazeera.com/news/2026/7/31/powerful-el-nino-to-intensify-heat-on-a-planet-already-on-fire-un?traffic_source=rss"
       },
       {
-        "title": "Why is Israel arming illegal settlers?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/why-is-israel-arming-illegal-settlers?traffic_source=rss"
+        "title": "Venezuela government and opposition to hold talks aimed at path to election",
+        "link": "https://www.aljazeera.com/news/2026/7/31/venezuela-govt-and-opposition-to-hold-talks-aimed-at-path-to-elections?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Shankland denied early Rangers opener at Dundee Utd LIVE!",
-        "link": "https://www.skysports.com/football/dundee-united-vs-rangers/live/558333"
+        "title": "Leeds thrash Toulouse as Wigan beat Leigh",
+        "link": "https://www.skysports.com/rugby-league/news/12040/13568845/super-league-leeds-rhinos-thrash-toulouse-olympique-as-wigan-warriors-beat-leigh-leopards-and-hull-kr-defeat-bradford-bulls"
+      },
+      {
+        "title": "Hunter-Bell wins 800m gold at Commonwealth Games on mixed day for British boxers",
+        "link": "https://www.skysports.com/live-blog/12040/13566034/commonwealth-games-glasgow-2026-live-news-schedule-updates-results-todays-events-as-england-scotland-wales-northern-ireland-aim-for-medals"
       },
       {
         "title": "American Affair flies the flag for Goldie at Goodwood",
@@ -50,10 +54,6 @@
       {
         "title": "Doyle: Owen can Dream big in the Stewards' Cup",
         "link": "https://www.skysports.com/racing/news/12040/13568847/hollie-doyle-dream-chance-for-james-owen-in-the-stewards-cup"
-      },
-      {
-        "title": "Newcastle to appoint Jaissle as new boss tomorrow after Howe exit confirmed",
-        "link": "https://www.skysports.com/football/news/12040/13568841/matthias-jaissle-newcastle-to-appoint-german-as-new-boss-on-saturday-after-eddie-howe-exit-confirmed"
       }
     ],
     "pitchfork": [],
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "How a Tiny Pez Dispenser Became TV\u2019s Most Important Story Breadcrumb on \u2018Silo\u2019",
+        "link": "https://www.indiewire.com/features/craft/silo-season-3-memory-pez-rebecca-ferguson-interview-1235207963/"
+      },
+      {
         "title": "Emily Wilson vs. Christopher Nolan, and Why Literary Translators Don\u2019t Make the Best Film Critics",
         "link": "https://www.indiewire.com/features/podcast/emily-wilson-takes-aim-christopher-nolan-the-odyssey-1235207916/"
       },
@@ -163,46 +167,42 @@
       {
         "title": "\u2018Nightborn\u2019 Review: Rupert Grint and Seidi Haarla Raise a Bloodthirsty Baby in a Shudder Movie About the Horrors of Motherhood",
         "link": "https://www.indiewire.com/criticism/movies/nightborn-review-shudder-horror-movie-1235207895/"
-      },
-      {
-        "title": "Gregg Araki Made His Reputation Directing Sex in the Age Before Intimacy Coordinators \u2014 Did Using One Change His Process?",
-        "link": "https://www.indiewire.com/features/interviews/gregg-araki-on-intimacy-coordinators-1235205593/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018Big Brother 28\u2019 Contestant Jason Breaks Down That Explosive Tea Party and Not Letting Kamu \u2018Bully\u2019 Him: \u2018Isn\u2019t It Interesting How the Six People in Power Were So Threatened by a Drag Queen?\u2019",
-        "link": "https://variety.com/2026/tv/news/big-brother-28-jason-tea-party-kamu-bully-drag-queen-1236825246/"
+        "title": "Olivia Wilde and Cooper Hoffman Used Pain Scale Ratings to Prep BDSM Scenes in \u2018I Want Your Sex\u2019: She \u2018Hit Him Really Hard and\u2019 It Was \u2018Only a Seven or Eight\u2019",
+        "link": "https://variety.com/2026/artisans/news/i-want-your-sex-olivia-wilde-cooper-hoffman-sex-scenes-prep-1236825024/"
       },
       {
-        "title": "Dermot Mulroney Leaving \u2018Chicago Fire\u2019 in Season 15",
-        "link": "https://variety.com/2026/tv/news/chicago-fire-dermot-mulroney-leaving-season-15-1236825309/"
+        "title": "John Oliver Extends His HBO Contract to Continue \u2018Last Week Tonight\u2019 Through 2027",
+        "link": "https://variety.com/2026/tv/news/john-oliver-hbo-contract-last-week-tonight-through-2027-1236825361/"
       },
       {
-        "title": "DC and HBO\u2019s \u2018Booster Gold\u2019 Show \u2018Won\u2019t Be Moving Forward,\u2019 Says Writer David Jenkins",
-        "link": "https://variety.com/2026/tv/news/booster-gold-show-canceled-dc-hbo-1236825280/"
+        "title": "Tom Corson Promoted to Chief Operating Officer at Warner Music Group",
+        "link": "https://variety.com/2026/music/news/tom-corson-promoted-coo-warner-music-group-1236825348/"
       },
       {
-        "title": "As \u2018Civilization\u2019 Turns 35, Creator Sid Meier and Firaxis President Look Ahead to a New Ages for 2K Studio\u2019s Franchises",
-        "link": "https://variety.com/2026/gaming/news/civilization-35-anniversary-sid-meier-firaxis-xcom-games-1236824977/"
+        "title": "You Can Now Land New York\u2019s Toughest Restaurant Reservations Through DoorDash",
+        "link": "https://variety.com/2026/shopping/news/doordash-reservations-new-york-dashpass-membership-1236825342/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Snapchat Banning Entirely AI-Generated Videos From Its Spotlight Platform",
-        "link": "https://www.hollywoodreporter.com/business/digital/snapchat-bans-ai-generated-videos-spotlight-platform-1236660994/"
+        "title": "Bravo VP Talks Amanda\u2019s TV Future After \u2018Summer House\u2019 Exit, West\u2019s Departure and \u2018In the City\u2019 Season 2: \u201cI\u2019m Optimistic\u201d",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/bravo-vp-amanda-west-summer-house-exit-in-the-city-season-2-1236659055/"
       },
       {
-        "title": "DC\u2019s \u2018Booster Gold\u2019 Series Not Moving Forward at HBO, Creator Says",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/dc-booster-gold-canceled-hbo-1236660991/"
+        "title": "Sheriff in Nancy Guthrie Case Releases Ransom Notes: \u201cShe Perished Shortly After She Was Taken\u201d",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/nancy-guthrie-ransom-notes-released-sheriff-chris-nanos-1236661130/"
       },
       {
-        "title": "Paramount Primal Picks Up Erotic Thriller \u2018Sweet Spot,\u2019 Co-Written By Screenwriting Influencer (Exclusive)",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/paramount-primal-picks-up-erotic-thriller-sweet-spot-1236660939/"
+        "title": "Sam Fender and Olivia Dean Have the Longest-Running No. 1 in U.K. History",
+        "link": "https://www.hollywoodreporter.com/music/music-industry-news/sam-fender-olivia-dean-uk-charts-record-1236661078/"
       },
       {
-        "title": "\u2018Ted Lasso\u2019 Returns, \u2018Spider-Man: Brand New Day\u2019 Swings Into Hollywood and This Week\u2019s Best Events",
-        "link": "https://www.hollywoodreporter.com/gallery/ted-lasso-spider-man-brand-new-day-red-carpet-events-1236656695/"
+        "title": "\u2018Sugar\u2019 Star Tony Dalton Breaks Down That Duel in the Desert and Accidentally Punching Colin Farrell",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/sugar-tony-dalton-punching-colin-farrell-interview-1236656140/"
       }
     ],
     "larb": [],
@@ -280,20 +280,20 @@
     ],
     "nautilus": [
       {
+        "title": "You\u2019re Carrying \u201cGhost DNA\u201d From Extinct Hominins",
+        "link": "https://nautil.us/youre-carrying-ghost-dna-from-extinct-hominins-1283291/"
+      },
+      {
+        "title": "The Bizarre Life Cycle of \u201cZombie-Ant\u201d Fungus Gets a New Twist",
+        "link": "https://nautil.us/the-bizarre-life-cycle-of-zombie-ant-fungus-gets-a-new-twist-1283287/"
+      },
+      {
         "title": "Which Fish Species Will Invade the Mediterranean Next?",
         "link": "https://nautil.us/which-fish-species-will-invade-the-mediterranean-next-1283283/"
       },
       {
         "title": "High Blood Pressure in Pregnant Women Is Rising Across the Country",
         "link": "https://nautil.us/high-blood-pressure-in-pregnant-women-is-rising-across-the-country-1283279/"
-      },
-      {
-        "title": "More Testosterone Won\u2019t Make a Better Soldier or a Tougher Man\u2014Aggression and Strength Drive T Levels, Not the Other Way Around",
-        "link": "https://nautil.us/more-testosterone-wont-make-a-better-soldier-or-a-tougher-man-aggression-and-strength-drive-t-levels-not-the-other-way-around-1283226/"
-      },
-      {
-        "title": "A \u201cHellish Cloud\u201d Descended on Los Angeles in 1943",
-        "link": "https://nautil.us/a-hellish-cloud-descended-on-los-angeles-in-1943-1283256/"
       }
     ],
     "worksinprogress": [],
