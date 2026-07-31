@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-31 16:41 UTC",
+  "last_updated": "2026-07-31 19:13 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
+        "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
         "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -15,30 +15,34 @@
         "link": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Disgraced funeral boss who failed to bury bodies jailed for 20 years",
-        "link": "https://www.bbc.co.uk/news/articles/ckg35errde5o?at_medium=RSS&at_campaign=rss"
+        "title": "No sentence long enough for jailed funeral director Robert Bush, say families",
+        "link": "https://www.bbc.co.uk/news/articles/cre4nlez9nyo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Tunisian wildfires expose failing infrastructure, community vulnerabilities",
-        "link": "https://www.aljazeera.com/features/2026/7/31/tunisian-wildfires-expose-failing-infrastructure-community-vulnerabilities?traffic_source=rss"
+        "title": "World reacts with cautious optimism to Hamas disarmament agreement",
+        "link": "https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss"
       },
       {
-        "title": "The promise I made to Ismail al-Ghoul",
-        "link": "https://www.aljazeera.com/opinions/2026/7/31/the-promise-i-made-to-ismail-al-ghoul?traffic_source=rss"
+        "title": "Trump says Hamas disarmament deal will be complex to deliver",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/trump-says-hamas-disarmament-deal-will-be-complex-to-deliver?traffic_source=rss"
       },
       {
-        "title": "World Cup: FIFA studying impact of expanding to 64 teams for 2030 edition",
-        "link": "https://www.aljazeera.com/sports/2026/7/31/world-cup-fifa-studying-impact-of-expanding-to-64-teams-for-2030-edition?traffic_source=rss"
+        "title": "Syrian lawyer takes on ex-Assad official in landmark trial",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/syrian-lawyer-takes-on-ex-assad-official-in-landmark-trial?traffic_source=rss"
       },
       {
-        "title": "Police chief resigns days after deadly shooting in US city of Seattle",
-        "link": "https://www.aljazeera.com/news/2026/7/31/police-chief-resigns-days-after-deadly-shooting-in-us-city-of-seattle?traffic_source=rss"
+        "title": "Why is Israel arming illegal settlers?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/why-is-israel-arming-illegal-settlers?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "Shankland denied early Rangers opener at Dundee Utd LIVE!",
+        "link": "https://www.skysports.com/football/dundee-united-vs-rangers/live/558333"
+      },
       {
         "title": "American Affair flies the flag for Goldie at Goodwood",
         "link": "https://www.skysports.com/racing/news/12040/13568836/american-affair-flies-the-flag-for-goldie-at-goodwood"
@@ -50,10 +54,6 @@
       {
         "title": "Newcastle to appoint Jaissle as new boss tomorrow after Howe exit confirmed",
         "link": "https://www.skysports.com/football/news/12040/13568841/matthias-jaissle-newcastle-to-appoint-german-as-new-boss-on-saturday-after-eddie-howe-exit-confirmed"
-      },
-      {
-        "title": "Chelsea's Mudryk cleared to play after doping ban resolved",
-        "link": "https://www.skysports.com/football/news/12040/13568818/mykhailo-mudryk-chelsea-winger-cleared-to-play-again-with-immediate-effect-after-doping-ban-resolved"
       }
     ],
     "pitchfork": [],
@@ -80,6 +80,10 @@
     "criterion": [],
     "rogerebert": [
       {
+        "title": "A-List Cast Continues to Make \u201cLioness\u201d the Queen of the Streaming Jungle",
+        "link": "https://www.rogerebert.com/streaming/lioness-season-3-zoe-saldana-taylor-sheridan-paramount-plus-tv-review-2026"
+      },
+      {
         "title": "Home Entertainment Guide July 2026: Obsession, The Drama, Is God Is, More",
         "link": "https://www.rogerebert.com/dvd-blu-ray/home-entertainment-guide-july-2026-obsession-the-drama-is-god-is-more"
       },
@@ -90,10 +94,6 @@
       {
         "title": "Fantasia 2026: Ferine, The Eyes, The Mutation",
         "link": "https://www.rogerebert.com/festivals/fantasia-2026-ferine-the-eyes-the-mutation"
-      },
-      {
-        "title": "Desire Is the Catalyst: Gregg Araki on \u201cI Want Your Sex\u201d",
-        "link": "https://www.rogerebert.com/interviews/desire-is-the-catalyst-gregg-araki-on-i-want-your-sex"
       }
     ],
     "filmcomment": [
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "Emily Wilson vs. Christopher Nolan, and Why Literary Translators Don\u2019t Make the Best Film Critics",
+        "link": "https://www.indiewire.com/features/podcast/emily-wilson-takes-aim-christopher-nolan-the-odyssey-1235207916/"
+      },
+      {
         "title": "IndieWire Names Brent Lang Editor-in-Chief, as Longtime Leader Dana Harris-Bridson Departs",
         "link": "https://www.indiewire.com/news/breaking-news/indiewire-editor-in-chief-brent-lang-1235207906/"
       },
@@ -163,46 +167,42 @@
       {
         "title": "Gregg Araki Made His Reputation Directing Sex in the Age Before Intimacy Coordinators \u2014 Did Using One Change His Process?",
         "link": "https://www.indiewire.com/features/interviews/gregg-araki-on-intimacy-coordinators-1235205593/"
-      },
-      {
-        "title": "Becoming Mike Mills: Inside the Two Decades and Unexpected Path Leading to \u2018Beginners\u2019",
-        "link": "https://www.indiewire.com/features/interviews/mike-mills-criterion-box-set-interview-1235207784/"
       }
     ],
     "variety": [
       {
-        "title": "Brent Lang Named Editor-in-Chief of IndieWire",
-        "link": "https://variety.com/2026/film/news/brent-lang-indiewire-editor-in-chief-1236825176/"
+        "title": "\u2018Big Brother 28\u2019 Contestant Jason Breaks Down That Explosive Tea Party and Not Letting Kamu \u2018Bully\u2019 Him: \u2018Isn\u2019t It Interesting How the Six People in Power Were So Threatened by a Drag Queen?\u2019",
+        "link": "https://variety.com/2026/tv/news/big-brother-28-jason-tea-party-kamu-bully-drag-queen-1236825246/"
       },
       {
-        "title": "Mahershala Ali Calls Out Marvel for Not Making \u2018Blade\u2019: \u2018You Had Me Under Contract. They Have Billions of Dollars. If They Wanted to Do It, We Would\u2019ve Done It\u2019",
-        "link": "https://variety.com/2026/film/news/mahershala-ali-blade-movie-marvel-call-out-not-made-1236825126/"
+        "title": "Dermot Mulroney Leaving \u2018Chicago Fire\u2019 in Season 15",
+        "link": "https://variety.com/2026/tv/news/chicago-fire-dermot-mulroney-leaving-season-15-1236825309/"
       },
       {
-        "title": "\u2018Obsession\u2019 Star Inde Navarrette Confirms Meeting With \u2018X-Men\u2019 Director Jake Schreier and Would Love to Play Mystique",
-        "link": "https://variety.com/2026/film/news/obsession-inde-navarrette-marvel-x-men-meeting-mystique-1236825158/"
+        "title": "DC and HBO\u2019s \u2018Booster Gold\u2019 Show \u2018Won\u2019t Be Moving Forward,\u2019 Says Writer David Jenkins",
+        "link": "https://variety.com/2026/tv/news/booster-gold-show-canceled-dc-hbo-1236825280/"
       },
       {
-        "title": "AI Studio Asteria, Co-Founded by Natasha Lyonne, Strikes Strategic Partnership with Virtual Production Studio ZeroSpace (EXCLUSIVE)",
-        "link": "https://variety.com/2026/biz/news/ai-studio-asteria-strikes-strategic-partnership-zerospace-1236825083/"
+        "title": "As \u2018Civilization\u2019 Turns 35, Creator Sid Meier and Firaxis President Look Ahead to a New Ages for 2K Studio\u2019s Franchises",
+        "link": "https://variety.com/2026/gaming/news/civilization-35-anniversary-sid-meier-firaxis-xcom-games-1236824977/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Massive Attack Under Investigation Over Pro-Palestine Display at Singapore Concert",
-        "link": "https://www.hollywoodreporter.com/music/music-news/massive-attack-singapore-probe-pro-palestine-display-1236660848/"
+        "title": "Snapchat Banning Entirely AI-Generated Videos From Its Spotlight Platform",
+        "link": "https://www.hollywoodreporter.com/business/digital/snapchat-bans-ai-generated-videos-spotlight-platform-1236660994/"
       },
       {
-        "title": "Jamie Eisman Joins TFC Management",
-        "link": "https://www.hollywoodreporter.com/business/business-news/tfc-management-hires-jamie-eisman-1236660619/"
+        "title": "DC\u2019s \u2018Booster Gold\u2019 Series Not Moving Forward at HBO, Creator Says",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/dc-booster-gold-canceled-hbo-1236660991/"
       },
       {
-        "title": "Tony Romo on Leave From CBS Sports After Arrest",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/tony-romo-on-leave-cbs-sports-after-arrest-1236660845/"
+        "title": "Paramount Primal Picks Up Erotic Thriller \u2018Sweet Spot,\u2019 Co-Written By Screenwriting Influencer (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/paramount-primal-picks-up-erotic-thriller-sweet-spot-1236660939/"
       },
       {
-        "title": "Tom Selleck Calls \u2018Blue Bloods\u2019 Cancellation \u201cVery Frustrating\u201d After Having Already Taken a Pay Cut",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/tom-selleck-blue-bloods-cancellation-very-frustrating-1236660796/"
+        "title": "\u2018Ted Lasso\u2019 Returns, \u2018Spider-Man: Brand New Day\u2019 Swings Into Hollywood and This Week\u2019s Best Events",
+        "link": "https://www.hollywoodreporter.com/gallery/ted-lasso-spider-man-brand-new-day-red-carpet-events-1236656695/"
       }
     ],
     "larb": [],
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "Which Fish Species Will Invade the Mediterranean Next?",
+        "link": "https://nautil.us/which-fish-species-will-invade-the-mediterranean-next-1283283/"
+      },
+      {
         "title": "High Blood Pressure in Pregnant Women Is Rising Across the Country",
         "link": "https://nautil.us/high-blood-pressure-in-pregnant-women-is-rising-across-the-country-1283279/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "A \u201cHellish Cloud\u201d Descended on Los Angeles in 1943",
         "link": "https://nautil.us/a-hellish-cloud-descended-on-los-angeles-in-1943-1283256/"
-      },
-      {
-        "title": "Microfossils Help Crack Mystery More Than 100 Million Years in the Making",
-        "link": "https://nautil.us/microfossils-help-crack-mystery-more-than-100-million-years-in-the-making-1283251/"
       }
     ],
     "worksinprogress": [],
