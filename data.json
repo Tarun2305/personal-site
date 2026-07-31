@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-07-31 13:47 UTC",
+  "last_updated": "2026-07-31 16:41 UTC",
   "feeds": {
     "bbc": [
-      {
-        "title": "Police fear further victims in funeral home case",
-        "link": "https://www.bbc.co.uk/news/articles/c0qykzqxw5qo?at_medium=RSS&at_campaign=rss"
-      },
       {
         "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
         "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Burnham says Infantino 'wrong man' to lead Fifa as third confederation opposes World Cup plan",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss"
+        "title": "Watch: Moroccan police clash with migrants near border with Spain's Ceuta",
+        "link": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Southport killer charged with prison attacks and possessing weapon",
-        "link": "https://www.bbc.co.uk/news/articles/ckg3dr3lgjko?at_medium=RSS&at_campaign=rss"
+        "title": "'If that means I lose my job, so be it': Top Fifa official questions Infantino's World Cup plan",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Disgraced funeral boss who failed to bury bodies jailed for 20 years",
+        "link": "https://www.bbc.co.uk/news/articles/ckg35errde5o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Russia appears to infiltrate first \u2018fortress city\u2019 as Ukraine changes guard",
-        "link": "https://www.aljazeera.com/features/2026/7/31/russia-appears-to-infiltrate-first-fortress-city-as-ukraine-changes-guard?traffic_source=rss"
+        "title": "Tunisian wildfires expose failing infrastructure, community vulnerabilities",
+        "link": "https://www.aljazeera.com/features/2026/7/31/tunisian-wildfires-expose-failing-infrastructure-community-vulnerabilities?traffic_source=rss"
       },
       {
-        "title": "FIFA World Cup plan: Infantino tackles UEFA and global game \u2013 all to know",
-        "link": "https://www.aljazeera.com/sports/2026/7/31/fifas-infantino-and-uefa-divided-on-world-cup-investment-plan-what-next?traffic_source=rss"
+        "title": "The promise I made to Ismail al-Ghoul",
+        "link": "https://www.aljazeera.com/opinions/2026/7/31/the-promise-i-made-to-ismail-al-ghoul?traffic_source=rss"
       },
       {
-        "title": "Palestinians in Gaza react to latest ceasefire deal",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-gazans-react-to-latest-deal-ps?traffic_source=rss"
+        "title": "World Cup: FIFA studying impact of expanding to 64 teams for 2030 edition",
+        "link": "https://www.aljazeera.com/sports/2026/7/31/world-cup-fifa-studying-impact-of-expanding-to-64-teams-for-2030-edition?traffic_source=rss"
       },
       {
-        "title": "The waiting game: Gaza\u2019s CT scan shortage causing worries and worse",
-        "link": "https://www.aljazeera.com/features/2026/7/31/the-waiting-game-gazas-shortage-in-ct-scans-causing-worries-and-worse?traffic_source=rss"
+        "title": "Police chief resigns days after deadly shooting in US city of Seattle",
+        "link": "https://www.aljazeera.com/news/2026/7/31/police-chief-resigns-days-after-deadly-shooting-in-us-city-of-seattle?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "'I want it so badly!' - Emotional Tamburlini faces nervous Solheim wait",
-        "link": "https://www.skysports.com/golf/news/12040/13568723/solheim-cup-chiara-tamburlini-faces-nervous-wait-over-team-europe-debut-after-emotional-aig-womens-open-missed-cut"
+        "title": "American Affair flies the flag for Goldie at Goodwood",
+        "link": "https://www.skysports.com/racing/news/12040/13568836/american-affair-flies-the-flag-for-goldie-at-goodwood"
       },
       {
-        "title": "'Sort yourself out, Harry' - Nasser urges Brook to mature after captaincy snub",
-        "link": "https://www.skysports.com/cricket/news/12040/13568743/harry-brook-nasser-hussain-urges-england-white-ball-captain-to-mature-as-rob-key-confirms-captaincy-snub-unrelated-to-workload"
+        "title": "Doyle: Owen can Dream big in the Stewards' Cup",
+        "link": "https://www.skysports.com/racing/news/12040/13568847/hollie-doyle-dream-chance-for-james-owen-in-the-stewards-cup"
       },
       {
-        "title": " 'Genuine concern' expressed for Saltburn members amid 'Clicky Ponting' scandal",
-        "link": "https://www.skysports.com/cricket/news/12040/13568740/clicky-ponting-scandal-north-yorkshire-and-south-durham-cricket-league-expresses-genuine-concern-for-saltburn-members"
+        "title": "Newcastle to appoint Jaissle as new boss tomorrow after Howe exit confirmed",
+        "link": "https://www.skysports.com/football/news/12040/13568841/matthias-jaissle-newcastle-to-appoint-german-as-new-boss-on-saturday-after-eddie-howe-exit-confirmed"
       },
       {
-        "title": "'It would be a brilliant story' - Key open to Stokes making Ashes return",
-        "link": "https://www.skysports.com/cricket/news/12040/13568702/ben-stokes-england-cricket-chief-rob-key-says-door-is-open-for-former-captain-to-return-for-home-2027-ashes-against-australia"
+        "title": "Chelsea's Mudryk cleared to play after doping ban resolved",
+        "link": "https://www.skysports.com/football/news/12040/13568818/mykhailo-mudryk-chelsea-winger-cleared-to-play-again-with-immediate-effect-after-doping-ban-resolved"
       }
     ],
     "pitchfork": [],
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
-        "title": "Nick Antosca Made \u2018Cape Fear\u2019 His Own with Scorsese and Spielberg\u2019s Blessing \u2014 and Their Notes",
-        "link": "https://www.indiewire.com/features/podcast/nick-antosca-on-cape-fear-scorsese-spielberg-1235206500/"
+        "title": "IndieWire Names Brent Lang Editor-in-Chief, as Longtime Leader Dana Harris-Bridson Departs",
+        "link": "https://www.indiewire.com/news/breaking-news/indiewire-editor-in-chief-brent-lang-1235207906/"
       },
       {
-        "title": "\u2018Time Warp\u2019 Review: Young and Queer \u2018Rocky Horror\u2019 Fans Stage a Small-Town Drag Production Worthy of Christopher Guest",
-        "link": "https://www.indiewire.com/criticism/movies/time-warp-review-local-rocky-horror-play-queer-doc-1235207691/"
+        "title": "\u2018Nightborn\u2019 Review: Rupert Grint and Seidi Haarla Raise a Bloodthirsty Baby in a Shudder Movie About the Horrors of Motherhood",
+        "link": "https://www.indiewire.com/criticism/movies/nightborn-review-shudder-horror-movie-1235207895/"
       },
       {
-        "title": "\u2018Wild Inside\u2019 Review: Flaco the Owl Can Still Change Your Life (and Maybe the World)",
-        "link": "https://www.indiewire.com/criticism/movies/wild-inside-review-flaco-the-owl-penny-lane-1235207671/"
+        "title": "Gregg Araki Made His Reputation Directing Sex in the Age Before Intimacy Coordinators \u2014 Did Using One Change His Process?",
+        "link": "https://www.indiewire.com/features/interviews/gregg-araki-on-intimacy-coordinators-1235205593/"
       },
       {
-        "title": "\u2018Boorman and the Devil\u2019 Trailer: David Kittredge\u2019s Brilliant Doc Gives \u2018Exorcist II\u2019 Its Due in Theaters",
-        "link": "https://www.indiewire.com/news/trailers/boorman-and-the-devil-exorcist-2-doc-trailer-1235207688/"
+        "title": "Becoming Mike Mills: Inside the Two Decades and Unexpected Path Leading to \u2018Beginners\u2019",
+        "link": "https://www.indiewire.com/features/interviews/mike-mills-criterion-box-set-interview-1235207784/"
       }
     ],
     "variety": [
       {
-        "title": "Irish Indie Film \u2018Lemonade,\u2019 Starring Barry Keoghan, Reveals First Images and Plot Details (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/global/irish-film-lemonade-barry-keoghan-first-images-plot-details-1236824265/"
+        "title": "Brent Lang Named Editor-in-Chief of IndieWire",
+        "link": "https://variety.com/2026/film/news/brent-lang-indiewire-editor-in-chief-1236825176/"
       },
       {
-        "title": "LISTEN: Music Fans Shrug Off Ticket Price Hikes to Keep Summer Concert Business Humming",
-        "link": "https://variety.com/2026/music/news/live-music-summer-tour-luminate-report-ticket-price-1236823878/"
+        "title": "Mahershala Ali Calls Out Marvel for Not Making \u2018Blade\u2019: \u2018You Had Me Under Contract. They Have Billions of Dollars. If They Wanted to Do It, We Would\u2019ve Done It\u2019",
+        "link": "https://variety.com/2026/film/news/mahershala-ali-blade-movie-marvel-call-out-not-made-1236825126/"
       },
       {
-        "title": "Gary Oldman, \u2018Obsession\u2019 Director Curry Barker and \u2018Barbie\u2019 Producer Robbie Brenner Among Toronto Market Speakers",
-        "link": "https://variety.com/2026/film/global/gary-oldman-curry-barker-robbie-brenner-toronto-market-1236824949/"
+        "title": "\u2018Obsession\u2019 Star Inde Navarrette Confirms Meeting With \u2018X-Men\u2019 Director Jake Schreier and Would Love to Play Mystique",
+        "link": "https://variety.com/2026/film/news/obsession-inde-navarrette-marvel-x-men-meeting-mystique-1236825158/"
       },
       {
-        "title": "Inside Netflix and Prime Video\u2019s Fight to Reshape France\u2019s Streaming Rules: \u2018It\u2019s an Unsustainable Equation\u2019",
-        "link": "https://variety.com/2026/film/global/netflix-prime-video-fight-reshape-france-streaming-rules-1236824930/"
+        "title": "AI Studio Asteria, Co-Founded by Natasha Lyonne, Strikes Strategic Partnership with Virtual Production Studio ZeroSpace (EXCLUSIVE)",
+        "link": "https://variety.com/2026/biz/news/ai-studio-asteria-strikes-strategic-partnership-zerospace-1236825083/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Filmsaaz and Neozoon: Meet Filmmakers With Pseudonyms \u2013 and Political Movies \u2013\u00a0at Locarno",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/locarno-2026-political-films-filmsaaz-neozoon-pseudonyms-1236656984/"
+        "title": "Massive Attack Under Investigation Over Pro-Palestine Display at Singapore Concert",
+        "link": "https://www.hollywoodreporter.com/music/music-news/massive-attack-singapore-probe-pro-palestine-display-1236660848/"
       },
       {
-        "title": "The Reporter Who Won\u2019t Give Up On the Nancy Guthrie Kidnapping Story",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/brian-entin-nancy-guthrie-investigation-reporting-six-months-missing-1236658502/"
+        "title": "Jamie Eisman Joins TFC Management",
+        "link": "https://www.hollywoodreporter.com/business/business-news/tfc-management-hires-jamie-eisman-1236660619/"
       },
       {
-        "title": "Gary Oldman, Curry Barker, \u2018Barbie\u2019 Producer Robbie Brenner to Keynote Toronto Film Festival",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/keynote-toronto-film-festival-2026-curry-barker-1236660766/"
+        "title": "Tony Romo on Leave From CBS Sports After Arrest",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/tony-romo-on-leave-cbs-sports-after-arrest-1236660845/"
       },
       {
-        "title": "HBO Max Picks Up \u2018Friday the 13th\u2019 Prequel Series \u2018Crystal Lake\u2019 Across Europe",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/hbo-max-takes-horror-series-crystal-lake-for-europe-1236660755/"
+        "title": "Tom Selleck Calls \u2018Blue Bloods\u2019 Cancellation \u201cVery Frustrating\u201d After Having Already Taken a Pay Cut",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/tom-selleck-blue-bloods-cancellation-very-frustrating-1236660796/"
       }
     ],
     "larb": [],
@@ -262,6 +262,10 @@
     ],
     "quanta": [
       {
+        "title": "Is AI Reasoning Right for the Wrong Reasons?",
+        "link": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/"
+      },
+      {
         "title": "Physicists Solve a Big Quantum Mystery. Now, Old Results Don\u2019t Add Up.",
         "link": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/"
       },
@@ -272,13 +276,17 @@
       {
         "title": "How Fast Is the Universe Really Expanding?",
         "link": "https://www.quantamagazine.org/how-fast-is-the-universe-really-expanding-20260723/"
-      },
-      {
-        "title": "Fields and Abacus Medals 2026",
-        "link": "https://www.quantamagazine.org/fields-and-abacus-medals-2026-20260723/"
       }
     ],
     "nautilus": [
+      {
+        "title": "High Blood Pressure in Pregnant Women Is Rising Across the Country",
+        "link": "https://nautil.us/high-blood-pressure-in-pregnant-women-is-rising-across-the-country-1283279/"
+      },
+      {
+        "title": "More Testosterone Won\u2019t Make a Better Soldier or a Tougher Man\u2014Aggression and Strength Drive T Levels, Not the Other Way Around",
+        "link": "https://nautil.us/more-testosterone-wont-make-a-better-soldier-or-a-tougher-man-aggression-and-strength-drive-t-levels-not-the-other-way-around-1283226/"
+      },
       {
         "title": "A \u201cHellish Cloud\u201d Descended on Los Angeles in 1943",
         "link": "https://nautil.us/a-hellish-cloud-descended-on-los-angeles-in-1943-1283256/"
@@ -286,18 +294,14 @@
       {
         "title": "Microfossils Help Crack Mystery More Than 100 Million Years in the Making",
         "link": "https://nautil.us/microfossils-help-crack-mystery-more-than-100-million-years-in-the-making-1283251/"
-      },
-      {
-        "title": "NASA Just Spotted a Wandering Black Hole Devouring a Star",
-        "link": "https://nautil.us/nasa-just-spotted-a-wandering-black-hole-devouring-a-star-1283245/"
-      },
-      {
-        "title": "Curiosity Rover Finds \u201cSea of Polygons\u201d on Martian Surface",
-        "link": "https://nautil.us/curiosity-rover-finds-sea-of-polygons-on-martian-surface-1283236/"
       }
     ],
     "worksinprogress": [],
     "noema": [
+      {
+        "title": "AI Has Already Entered The \u2018Loss Of Control\u2019 Transition",
+        "link": "https://www.noemamag.com/ai-has-already-entered-the-loss-of-control-transition"
+      },
       {
         "title": "The Rise And Fall Of Liberal Democracy\u2019s Shared Fiction",
         "link": "https://www.noemamag.com/the-rise-and-fall-of-liberal-democracys-shared-fiction"
@@ -309,10 +313,6 @@
       {
         "title": "The 2026 Berggruen Prize Essay Competition Topic: \u2018A New Axial Age?\u2019",
         "link": "https://www.noemamag.com/the-2026-berggruen-prize-essay-competition-topic-a-new-axial-age"
-      },
-      {
-        "title": "The Real Problem Underlying India-China Tensions",
-        "link": "https://www.noemamag.com/the-real-problem-plaguing-asias-most-important-relationship"
       }
     ]
   }
