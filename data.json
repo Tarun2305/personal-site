@@ -1,44 +1,52 @@
 {
-  "last_updated": "2026-07-31 02:07 UTC",
+  "last_updated": "2026-07-31 05:59 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Is Infantino finished? Could Uefa boycott World Cup? What happens now?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss"
+        "title": "Fifa says 'nobody selling football' as plan continues",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Andy Burnham to give regional mayors share of income tax",
         "link": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Renowned ex-Royal Marine Nirmal Purja among 10 climbers feared missing after avalanche",
-        "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss"
+        "title": "Satellite images show impact of heatwaves and drought on UK landscape",
+        "link": "https://www.bbc.co.uk/news/articles/ckgv657e1yko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Crews tackling Suffolk wildfire say they are in better position",
-        "link": "https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss"
+        "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+        "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Israeli soldiers mutiny at notorious Sde Teiman base",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-soldiers-mutiny-at-notorious-sde-teiman-base?traffic_source=rss"
+        "title": "Ten climbers led by renowned Nepali mountaineer \u2018missing\u2019 on Pakistan peak",
+        "link": "https://www.aljazeera.com/news/2026/7/31/nepali-climber-purja-9-others-missing-in-pakistan-after-avalanche?traffic_source=rss"
       },
       {
-        "title": "Spain deploys military to Ceuta after deadly migrant surge",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/spain-deploys-military-to-ceuta-after-deadly-migrant-surge?traffic_source=rss"
+        "title": "Families sleep in cars after homes destroyed in Japan earthquake",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/families-sleep-in-cars-after-homes-destroyed-in-japan-earthquake?traffic_source=rss"
       },
       {
-        "title": "Nepal\u2019s PM urges calm as three people killed after Hindu-Muslim unrest",
-        "link": "https://www.aljazeera.com/news/2026/7/31/nepals-pm-urges-calm-as-three-people-killed-after-hindu-muslim-unrest?traffic_source=rss"
+        "title": "\u2018First somewhat optimistic day\u2019 in France since fire outbreak says prefect",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/first-somewhat-optimistic-day-in-france-since-fire-outbreak-says-prefect?traffic_source=rss"
       },
       {
-        "title": "London protesters march through streets in solidarity with Azad Kashmir",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/london-protesters-march-through-streets-in-solidarity-with-azad-kashmir?traffic_source=rss"
+        "title": "Iran holds funeral for Revolutionary Guard members reportedly killed in US",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/iran-holds-funeral-for-revolutionary-guard-members-reportedly-killed-in-us?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "FIFA: Nobody is selling football",
+        "link": "https://www.skysports.com/football/news/12040/13568656/fifa-insists-nobody-is-selling-football-after-uefa-threatens-to-boycott-tournaments-if-plans-to-sell-off-stake-in-world-cup-go-ahead"
+      },
+      {
+        "title": "Today on Sky Sports Racing: Siouxperb faces promising newcomers at Newcastle",
+        "link": "https://www.skysports.com/racing/news/12040/13568079/today-on-sky-sports-racing-siouxperb-clashes-with-promising-newcomers-in-newcastle-feature-with-wolverhampton-and-bath-also-live-on-friday"
+      },
       {
         "title": "Fowler, Cantlay impress as Malnati leads after threatening 59 round",
         "link": "https://www.skysports.com/golf/news/12040/13568633/rocket-classic-rickie-fowler-patrick-cantlay-impress-as-peter-malnati-leads-after-threatening-59-round-in-detroit"
@@ -46,14 +54,6 @@
       {
         "title": "Huddersfield beat Hull FC in bottom-of-the-table clash",
         "link": "https://www.skysports.com/rugby-league/huddersfield-vs-hull/report/63296"
-      },
-      {
-        "title": "England fight back to reach netball semi-finals at Commonwealth Games",
-        "link": "https://www.skysports.com/netball/news/12040/13568579/commonwealth-games-england-fight-back-to-beat-south-africa-and-reach-netball-semi-finals-at-glasgow-2026"
-      },
-      {
-        "title": "Gomez to miss start of season - but will it impact Liverpool's transfer plans?",
-        "link": "https://www.skysports.com/football/news/12040/13568582/liverpool-injury-news-joe-gomez-to-miss-start-of-premier-league-season-but-will-it-affect-summer-transfer-plans"
       }
     ],
     "pitchfork": [],
@@ -171,38 +171,38 @@
     ],
     "variety": [
       {
+        "title": "Ariana Grande\u2019s \u2018Petal\u2019 Introduces an Angry and Angular Ari: Album Review",
+        "link": "https://variety.com/2026/music/reviews/ariana-grande-petal-angry-ari-album-review-1236824838/"
+      },
+      {
+        "title": "Sony Pictures Revenue Drops 13% in June Quarter, Music Segment Sales Jump 21%",
+        "link": "https://variety.com/2026/film/news/sony-pictures-earnings-june-2026-music-playstation-sales-1236824839/"
+      },
+      {
+        "title": "\u2018Spider-Man: Brand New Day\u2019 Credits Scene Explained: Will Tom Holland Return in \u2018Avengers: Doomsday\u2019 or \u2018Secret Wars\u2019?",
+        "link": "https://variety.com/2026/film/news/spider-man-brand-new-day-credits-avengers-doomsday-secret-wars-1236821075/"
+      },
+      {
         "title": "\u2018Stuart Fails to Save the Universe\u2019 Producers on Episode 2\u2019s Surprise Kaley Cuoco Cameo As an Alternate Penny",
         "link": "https://variety.com/2026/tv/news/stuart-fails-to-save-the-universe-kaley-cuoco-cameo-how-1236823001/"
-      },
-      {
-        "title": "\u2018Spider-Man: Brand New Day\u2019: Sadie Sink Is [SPOILER]. How Her Role Sets Up Marvel\u2019s Next Reboot",
-        "link": "https://variety.com/2026/film/news/sadie-sink-jean-grey-spider-man-brand-new-day-x-men-1236816949/"
-      },
-      {
-        "title": "Boy George Drops Out of London \u2018Jesus Christ Superstar\u2019 Production Following Backlash to Pro-Israel Song",
-        "link": "https://variety.com/2026/music/news/boy-george-drops-out-jesus-christ-superstar-pro-israel-song-1236824746/"
-      },
-      {
-        "title": "\u2018Dungeons & Dragons\u2019 Reveals Star Wars, \u2018World of Warcraft\u2019-Themed Tabletop Roleplaying Games as Part of New \u2018Universes Beyond\u2019 Collection",
-        "link": "https://variety.com/2026/gaming/news/dungeons-and-dragons-star-wars-world-of-warcraft-games-1236824675/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "The Affordability Squeeze Has Come for Brandy Melville\u2019s TikTok Star Staffer",
-        "link": "https://www.hollywoodreporter.com/news/general-news/allegra-pinkowitz-brandy-melville-tiktok-staffer-fired-1236660637/"
+        "title": "Sony Pictures Sees Revenue Drop 13 Percent In Latest Quarter; Big Gains In Music",
+        "link": "https://www.hollywoodreporter.com/business/business-news/sony-pictures-q1-2026-results-1236660707/"
       },
       {
-        "title": "Disney and Old Navy Team Up for New Haunted Halloween Line of Cozy Flannels, PJs and Totes",
-        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/old-navy-disney-fall-halloween-collection-2026-buy-online-1236660423/"
+        "title": "The Hollywood Left and the Blacklist: A Chat With the Curator of Locarno\u2019s Timely Retrospective for the Age of Trump & Co.",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/locarno-film-retrospective-hollywood-left-blacklist-trump-1236553540/"
       },
       {
-        "title": "Boy George Drops Out of London \u2018Jesus Christ Superstar\u2019 Production After Stirring Controversy With AI-Generated Pro-Israel Song",
-        "link": "https://www.hollywoodreporter.com/music/music-news/boy-george-jesus-christ-superstar-ai-israel-song-1236660409/"
+        "title": "Sadie Sink\u2019s Secret Role in \u2018Spider-Man: Brand New Day\u2019 Finally Revealed",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/sadie-sinks-spider-man-brand-new-day-role-revealed-1236654621/"
       },
       {
-        "title": "Hulu Eliminated Its Free Trial \u2014 Here\u2019s a Workaround",
-        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/hulu-free-trial-subscription-deals-bundles-student-discount-1236660388/"
+        "title": "\u2018Pachinko\u2019 Star Kim Minha to Host Busan Film Festival\u2019s Opening Ceremony",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/kim-minha-host-2026-busan-film-festival-opening-ceremony-1236660686/"
       }
     ],
     "larb": [],
