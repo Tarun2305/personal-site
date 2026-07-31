@@ -1,44 +1,48 @@
 {
-  "last_updated": "2026-07-30 22:07 UTC",
+  "last_updated": "2026-07-31 02:07 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "European nations to boycott World Cup if Fifa goes ahead with investment plan",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Suffolk wildfire still growing and unpredictable, says fire service",
-        "link": "https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
-        "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss"
+        "title": "Is Infantino finished? Could Uefa boycott World Cup? What happens now?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Andy Burnham to give regional mayors share of income tax",
         "link": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Renowned ex-Royal Marine Nirmal Purja among 10 climbers feared missing after avalanche",
+        "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Crews tackling Suffolk wildfire say they are in better position",
+        "link": "https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Why is US GDP growth slowing, and how can it be reversed?",
-        "link": "https://www.aljazeera.com/economy/2026/7/30/why-is-us-gdp-growth-slowing-and-how-can-it-be-reversed?traffic_source=rss"
+        "title": "Israeli soldiers mutiny at notorious Sde Teiman base",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-soldiers-mutiny-at-notorious-sde-teiman-base?traffic_source=rss"
       },
       {
-        "title": "French teen fined in Singapore over \u2018straw licking\u2019 stunt",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/french-teen-fined-in-singapore-over-straw-licking-stunt?traffic_source=rss"
+        "title": "Spain deploys military to Ceuta after deadly migrant surge",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/spain-deploys-military-to-ceuta-after-deadly-migrant-surge?traffic_source=rss"
       },
       {
-        "title": "Argentina\u2019s Milei seeks to deport foreigners that spread \u2018hate\u2019 of country",
-        "link": "https://www.aljazeera.com/news/2026/7/30/argentinas-milei-seeks-to-deport-foreigners-that-spread-hate-of-country?traffic_source=rss"
+        "title": "Nepal\u2019s PM urges calm as three people killed after Hindu-Muslim unrest",
+        "link": "https://www.aljazeera.com/news/2026/7/31/nepals-pm-urges-calm-as-three-people-killed-after-hindu-muslim-unrest?traffic_source=rss"
       },
       {
-        "title": "Will Saudi Arabia be dragged further into the war in Iran?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/7/30/will-saudi-arabia-be-dragged-further-into-the-war-in-iran?traffic_source=rss"
+        "title": "London protesters march through streets in solidarity with Azad Kashmir",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/london-protesters-march-through-streets-in-solidarity-with-azad-kashmir?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "Fowler, Cantlay impress as Malnati leads after threatening 59 round",
+        "link": "https://www.skysports.com/golf/news/12040/13568633/rocket-classic-rickie-fowler-patrick-cantlay-impress-as-peter-malnati-leads-after-threatening-59-round-in-detroit"
+      },
       {
         "title": "Huddersfield beat Hull FC in bottom-of-the-table clash",
         "link": "https://www.skysports.com/rugby-league/huddersfield-vs-hull/report/63296"
@@ -50,10 +54,6 @@
       {
         "title": "Gomez to miss start of season - but will it impact Liverpool's transfer plans?",
         "link": "https://www.skysports.com/football/news/12040/13568582/liverpool-injury-news-joe-gomez-to-miss-start-of-premier-league-season-but-will-it-affect-summer-transfer-plans"
-      },
-      {
-        "title": "Diamond Necklace sparkles in Nassau Stakes",
-        "link": "https://www.skysports.com/racing/news/12040/13568537/diamond-necklace-sparkles-in-nassau-stakes"
       }
     ],
     "pitchfork": [],
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018Time Warp\u2019 Review: Young and Queer \u2018Rocky Horror\u2019 Fans Stage a Small-Town Drag Production Worthy of Christopher Guest",
+        "link": "https://www.indiewire.com/criticism/movies/time-warp-review-local-rocky-horror-play-queer-doc-1235207691/"
+      },
+      {
         "title": "\u2018Wild Inside\u2019 Review: Flaco the Owl Can Still Change Your Life (and Maybe the World)",
         "link": "https://www.indiewire.com/criticism/movies/wild-inside-review-flaco-the-owl-penny-lane-1235207671/"
       },
@@ -163,46 +167,42 @@
       {
         "title": "How Ngozi Onwurah\u2019s Dystopian \u2018Welcome II the Terrordome\u2019 Went from Lost \u201990s Black Indie to Long-Overdue Rediscovery",
         "link": "https://www.indiewire.com/features/interviews/welcome-ii-the-terrrordome-ngozi-onwurah-interview-1235207647/"
-      },
-      {
-        "title": "Cannes 2026 Movies Sold: Andy Garcia\u2019s Throwback Detective Noir \u2018Diamond\u2019 Goes to Sony Pictures Classics",
-        "link": "https://www.indiewire.com/news/festivals/cannes-2026-movies-sold-so-far-paper-tiger-minotaur-1235191174/"
       }
     ],
     "variety": [
       {
-        "title": "Disney Expected to Sell 50% Stake in A+E to Hearst for More Than $1 Billion",
-        "link": "https://variety.com/2026/tv/news/disney-sell-stake-ae-hearst-1236824672/"
+        "title": "\u2018Stuart Fails to Save the Universe\u2019 Producers on Episode 2\u2019s Surprise Kaley Cuoco Cameo As an Alternate Penny",
+        "link": "https://variety.com/2026/tv/news/stuart-fails-to-save-the-universe-kaley-cuoco-cameo-how-1236823001/"
       },
       {
-        "title": "As Outfest Rebuilds, What Will the Future of L.A.\u2019s Staple LGBTQ+ Film Festival Look Like?",
-        "link": "https://variety.com/2026/film/news/outfest-rebuilds-future-lgbtq-film-festival-1236824448/"
+        "title": "\u2018Spider-Man: Brand New Day\u2019: Sadie Sink Is [SPOILER]. How Her Role Sets Up Marvel\u2019s Next Reboot",
+        "link": "https://variety.com/2026/film/news/sadie-sink-jean-grey-spider-man-brand-new-day-x-men-1236816949/"
       },
       {
-        "title": "\u2018Spider-Man: Brand New Day\u2019 Early Cut \u2018Took Notes From Random People\u2019 at Test Screenings and \u2018We Hated It,\u2019 Says Tom Holland: \u2018It Totally Didn\u2019t Work\u2019",
-        "link": "https://variety.com/2026/film/news/tom-holland-spider-man-brand-new-day-test-screenings-1236824202/"
+        "title": "Boy George Drops Out of London \u2018Jesus Christ Superstar\u2019 Production Following Backlash to Pro-Israel Song",
+        "link": "https://variety.com/2026/music/news/boy-george-drops-out-jesus-christ-superstar-pro-israel-song-1236824746/"
       },
       {
-        "title": "Apple Sales Rise 16% to Record $109 Billion for June Quarter, Services Revenue Falls Short of Forecasts",
-        "link": "https://variety.com/2026/digital/news/apple-q3-2026-earnings-tim-cook-ceo-final-quarter-1236824534/"
+        "title": "\u2018Dungeons & Dragons\u2019 Reveals Star Wars, \u2018World of Warcraft\u2019-Themed Tabletop Roleplaying Games as Part of New \u2018Universes Beyond\u2019 Collection",
+        "link": "https://variety.com/2026/gaming/news/dungeons-and-dragons-star-wars-world-of-warcraft-games-1236824675/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Ben Affleck, \u2018Jeopardy!\u2019 Champ Win $1 Million for Charity on \u2018Who Wants to Be a Millionaire\u2019",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/ben-affleck-jeopardy-champ-win-who-wants-to-be-millionaire-1236660483/"
+        "title": "The Affordability Squeeze Has Come for Brandy Melville\u2019s TikTok Star Staffer",
+        "link": "https://www.hollywoodreporter.com/news/general-news/allegra-pinkowitz-brandy-melville-tiktok-staffer-fired-1236660637/"
       },
       {
-        "title": "NBCUniversal Finds New CFO As It Readies Spinoff",
-        "link": "https://www.hollywoodreporter.com/business/business-news/nbcuniversal-christopher-halpin-new-cfo-1236660481/"
+        "title": "Disney and Old Navy Team Up for New Haunted Halloween Line of Cozy Flannels, PJs and Totes",
+        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/old-navy-disney-fall-halloween-collection-2026-buy-online-1236660423/"
       },
       {
-        "title": "Kanye West Reaches Settlement in Ex-Assistant\u2019s Sexual Abuse Lawsuit",
-        "link": "https://www.hollywoodreporter.com/music/music-news/kanye-west-settlement-former-assistant-sexual-abuse-lawsuit-1236660479/"
+        "title": "Boy George Drops Out of London \u2018Jesus Christ Superstar\u2019 Production After Stirring Controversy With AI-Generated Pro-Israel Song",
+        "link": "https://www.hollywoodreporter.com/music/music-news/boy-george-jesus-christ-superstar-ai-israel-song-1236660409/"
       },
       {
-        "title": "\u2018Fightland\u2019 Review: 50 Cent\u2019s London-Set Starz Drama Blends Boxing and Crime Clich\u00e9s in Forgettable Ways",
-        "link": "https://www.hollywoodreporter.com/tv/tv-reviews/fightland-review-50-cent-starz-1236659544/"
+        "title": "Hulu Eliminated Its Free Trial \u2014 Here\u2019s a Workaround",
+        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/hulu-free-trial-subscription-deals-bundles-student-discount-1236660388/"
       }
     ],
     "larb": [],
@@ -226,20 +226,20 @@
     ],
     "psyche": [
       {
+        "title": "Hoarding: how it impacted my life",
+        "link": "https://psyche.co/videos/why-people-hoard-and-how-you-can-help-them"
+      },
+      {
+        "title": "In praise of not-quite-friends",
+        "link": "https://psyche.co/notes-to-self/in-praise-of-the-not-quite-friends-who-make-us-smile"
+      },
+      {
         "title": "After the performance",
         "link": "https://psyche.co/portraits/the-nba-superstar-carmelo-anthony-on-life-after-basketball"
       },
       {
         "title": "Your deepest regrets help you see yourself more clearly",
         "link": "https://psyche.co/ideas/your-deepest-regrets-help-you-see-yourself-more-clearly"
-      },
-      {
-        "title": "We were there to be there",
-        "link": "https://psyche.co/videos/how-two-punk-bands-came-to-play-a-california-psychiatric-hospital"
-      },
-      {
-        "title": "Why some men seek refuge in ever bigger muscles",
-        "link": "https://psyche.co/ideas/why-some-men-seek-refuge-in-ever-bigger-muscles"
       }
     ],
     "publicdomainreview": [
