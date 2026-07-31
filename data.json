@@ -1,64 +1,68 @@
 {
-  "last_updated": "2026-07-31 11:26 UTC",
+  "last_updated": "2026-07-31 13:47 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say",
+        "title": "Police fear further victims in funeral home case",
+        "link": "https://www.bbc.co.uk/news/articles/c0qykzqxw5qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
         "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Senior Infantino adviser quits after Asian federation opposes World Cup investment plan",
+        "title": "Burnham says Infantino 'wrong man' to lead Fifa as third confederation opposes World Cup plan",
         "link": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Southport killer charged with prison attacks and possessing weapon",
         "link": "https://www.bbc.co.uk/news/articles/ckg3dr3lgjko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Anthropic's Claude AI escapes test environment and hacks into three organisations",
-        "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Palestinians in Gaza are sceptical about the latest peace plan",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-reported-hani-mahmoud-gaza-ps?traffic_source=rss"
+        "title": "Russia appears to infiltrate first \u2018fortress city\u2019 as Ukraine changes guard",
+        "link": "https://www.aljazeera.com/features/2026/7/31/russia-appears-to-infiltrate-first-fortress-city-as-ukraine-changes-guard?traffic_source=rss"
       },
       {
-        "title": "Spain PM to visit Ceuta after 19 migrants die breaching border from Morocco",
-        "link": "https://www.aljazeera.com/news/2026/7/31/spain-pm-to-visit-ceuta-after-19-migrants-die-breaching-border-from-morocco?traffic_source=rss"
+        "title": "FIFA World Cup plan: Infantino tackles UEFA and global game \u2013 all to know",
+        "link": "https://www.aljazeera.com/sports/2026/7/31/fifas-infantino-and-uefa-divided-on-world-cup-investment-plan-what-next?traffic_source=rss"
       },
       {
-        "title": "Italy World Cup winner and AC Milan legend Franco Baresi dies aged 66",
-        "link": "https://www.aljazeera.com/sports/2026/7/31/italy-and-ac-milan-legend-franco-baresi-dies-aged-66?traffic_source=rss"
+        "title": "Palestinians in Gaza react to latest ceasefire deal",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-gazans-react-to-latest-deal-ps?traffic_source=rss"
       },
       {
-        "title": "AFC backs UEFA and CONCACAF who plan boycott over FIFA World Cup proposals",
-        "link": "https://www.aljazeera.com/sports/2026/7/31/afc-joins-uefa-and-concacaf-in-threat-to-boycott-fifa-over-world-cup-plans?traffic_source=rss"
+        "title": "The waiting game: Gaza\u2019s CT scan shortage causing worries and worse",
+        "link": "https://www.aljazeera.com/features/2026/7/31/the-waiting-game-gazas-shortage-in-ct-scans-causing-worries-and-worse?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "'I want it so badly!' - Emotional Tamburlini faces nervous Solheim wait",
+        "link": "https://www.skysports.com/golf/news/12040/13568723/solheim-cup-chiara-tamburlini-faces-nervous-wait-over-team-europe-debut-after-emotional-aig-womens-open-missed-cut"
+      },
+      {
+        "title": "'Sort yourself out, Harry' - Nasser urges Brook to mature after captaincy snub",
+        "link": "https://www.skysports.com/cricket/news/12040/13568743/harry-brook-nasser-hussain-urges-england-white-ball-captain-to-mature-as-rob-key-confirms-captaincy-snub-unrelated-to-workload"
+      },
+      {
         "title": " 'Genuine concern' expressed for Saltburn members amid 'Clicky Ponting' scandal",
         "link": "https://www.skysports.com/cricket/news/12040/13568740/clicky-ponting-scandal-north-yorkshire-and-south-durham-cricket-league-expresses-genuine-concern-for-saltburn-members"
       },
       {
-        "title": "'Anything is possible' - Key open to Stokes Ashes return ",
+        "title": "'It would be a brilliant story' - Key open to Stokes making Ashes return",
         "link": "https://www.skysports.com/cricket/news/12040/13568702/ben-stokes-england-cricket-chief-rob-key-says-door-is-open-for-former-captain-to-return-for-home-2027-ashes-against-australia"
-      },
-      {
-        "title": "Stavley, Ghodoussi company makes offer for West Ham stake",
-        "link": "https://www.skysports.com/football/news/12040/13568730/west-ham-amanda-staveley-and-mehrdad-ghodoussis-pcp-capital-partners-make-offer-for-stake-in-championship-club"
-      },
-      {
-        "title": "AC Milan and Italy legend Baresi dies aged 66",
-        "link": "https://www.skysports.com/football/news/12040/13568705/franco-baresi-ac-milan-legend-and-world-cup-winner-with-italy-dies-aged-66"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "Diversions :: Spiral Galaxy\u2019s \u201cCosmic\u201d Influences",
+        "link": "https://aquariumdrunkard.com/2026/07/31/diversions-spiral-galaxys-cosmic-influences/"
+      },
       {
         "title": "Big Black :: Two Moonlins And Mother",
         "link": "https://aquariumdrunkard.com/2026/07/30/big-black-two-moonlins-and-mother/"
@@ -70,30 +74,26 @@
       {
         "title": "Vin Gordon with Lee Perry and The Upsetters :: Musical Bones",
         "link": "https://aquariumdrunkard.com/2026/07/29/vin-gordon-with-lee-perry-and-the-upsetters-musical-bones/"
-      },
-      {
-        "title": "Charlie Hunter Quartet :: Natty Dread",
-        "link": "https://aquariumdrunkard.com/2026/07/29/charlie-hunter-quartet-natty-dread/"
       }
     ],
     "bfi": [],
     "criterion": [],
     "rogerebert": [
       {
+        "title": "Home Entertainment Guide July 2026: Obsession, The Drama, Is God Is, More",
+        "link": "https://www.rogerebert.com/dvd-blu-ray/home-entertainment-guide-july-2026-obsession-the-drama-is-god-is-more"
+      },
+      {
+        "title": "Live Long and Prosper: A Personal Journey through the 2026 San Diego Comic-Con",
+        "link": "https://www.rogerebert.com/festivals/live-long-and-prosper-a-personal-journey-through-the-2026-san-diego-comic-con"
+      },
+      {
+        "title": "Fantasia 2026: Ferine, The Eyes, The Mutation",
+        "link": "https://www.rogerebert.com/festivals/fantasia-2026-ferine-the-eyes-the-mutation"
+      },
+      {
         "title": "Desire Is the Catalyst: Gregg Araki on \u201cI Want Your Sex\u201d",
         "link": "https://www.rogerebert.com/interviews/desire-is-the-catalyst-gregg-araki-on-i-want-your-sex"
-      },
-      {
-        "title": "Fantasia 2026: Permanent Damage, Godhead, Sour Minnows",
-        "link": "https://www.rogerebert.com/festivals/fantasia-2026-permanent-damage-godhead-sour-minnows"
-      },
-      {
-        "title": "Raise Your Hopeful Voice: Glen Hansard (1970-2026)",
-        "link": "https://www.rogerebert.com/tributes/raise-your-hopeful-voice-glen-hansard-1970-2026"
-      },
-      {
-        "title": "Season Two of \u201cDiarra from Detroit\u201d is Nancy Drew for Grown-Ups",
-        "link": "https://www.rogerebert.com/streaming/diarra-from-detroit-bet-season-2-tv-review-2026"
       }
     ],
     "filmcomment": [
@@ -116,6 +116,10 @@
     ],
     "mubi": [
       {
+        "title": "MUBI Podcast: Voci Italiane Contemporanee | Season 6",
+        "link": "https://mubi.com/en/notebook/posts/mubi-podcast-voci-italiane-contemporanee-season-6"
+      },
+      {
         "title": "Rushes | Venice Unveils Lineup, Paramount Delays Merger, Elon Musk Threatens His Own \u201cOdyssey\u201d",
         "link": "https://mubi.com/en/notebook/posts/rushes-venice-unveils-lineup-paramount-delays-merger-elon-musk-threatens-his-own-odyssey"
       },
@@ -126,10 +130,6 @@
       {
         "title": "\u201cThe Dziga Vertov Group Rises Again, and It Needs You\u201d: Jean-Pierre Gorin in New York",
         "link": "https://mubi.com/en/notebook/posts/the-dziga-vertov-group-rises-again-and-it-needs-you-jean-pierre-gorin-in-new-york"
-      },
-      {
-        "title": "Five Inspirations | Ratchapoom Boonbunchachoke",
-        "link": "https://mubi.com/en/notebook/posts/five-inspirations-ratchapoom-boonbunchachoke"
       }
     ],
     "reverseshot": [],
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "Nick Antosca Made \u2018Cape Fear\u2019 His Own with Scorsese and Spielberg\u2019s Blessing \u2014 and Their Notes",
+        "link": "https://www.indiewire.com/features/podcast/nick-antosca-on-cape-fear-scorsese-spielberg-1235206500/"
+      },
+      {
         "title": "\u2018Time Warp\u2019 Review: Young and Queer \u2018Rocky Horror\u2019 Fans Stage a Small-Town Drag Production Worthy of Christopher Guest",
         "link": "https://www.indiewire.com/criticism/movies/time-warp-review-local-rocky-horror-play-queer-doc-1235207691/"
       },
@@ -163,46 +167,42 @@
       {
         "title": "\u2018Boorman and the Devil\u2019 Trailer: David Kittredge\u2019s Brilliant Doc Gives \u2018Exorcist II\u2019 Its Due in Theaters",
         "link": "https://www.indiewire.com/news/trailers/boorman-and-the-devil-exorcist-2-doc-trailer-1235207688/"
-      },
-      {
-        "title": "How Ngozi Onwurah\u2019s Dystopian \u2018Welcome II the Terrordome\u2019 Went from Lost \u201990s Black Indie to Long-Overdue Rediscovery",
-        "link": "https://www.indiewire.com/features/interviews/welcome-ii-the-terrrordome-ngozi-onwurah-interview-1235207647/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018Black Zombie\u2019 Review: An Engaging Doc on How the Flesh-Eating Hordes of Screen Fame Obscured Painful Real-Life History",
-        "link": "https://variety.com/2026/film/reviews/black-zombie-review-1236823838/"
+        "title": "Irish Indie Film \u2018Lemonade,\u2019 Starring Barry Keoghan, Reveals First Images and Plot Details (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/global/irish-film-lemonade-barry-keoghan-first-images-plot-details-1236824265/"
       },
       {
-        "title": "\u2018Los Vampires\u2019 Review: Dueling Draculas Spar in an Alluring if Unevenly Executed Flashback to Early-Talkie Hollywood",
-        "link": "https://variety.com/2026/film/reviews/los-vampires-review-1236821582/"
+        "title": "LISTEN: Music Fans Shrug Off Ticket Price Hikes to Keep Summer Concert Business Humming",
+        "link": "https://variety.com/2026/music/news/live-music-summer-tour-luminate-report-ticket-price-1236823878/"
       },
       {
-        "title": "World Cup Boycott Backed by All 55 UEFA Countries as Asian, North and Central American, Caribbean Members Oppose FIFA Stake Sale",
-        "link": "https://variety.com/2026/sports/global/world-cup-boycott-opposition-fifa-plan-1236823227/"
+        "title": "Gary Oldman, \u2018Obsession\u2019 Director Curry Barker and \u2018Barbie\u2019 Producer Robbie Brenner Among Toronto Market Speakers",
+        "link": "https://variety.com/2026/film/global/gary-oldman-curry-barker-robbie-brenner-toronto-market-1236824949/"
       },
       {
-        "title": "Oscar-Qualifying Bengaluru International Short Film Festival Expands to 10 Arenas, Adds AI and Dance Competitions (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/news/bengaluru-short-film-festival-ai-dance-competitions-2026-1236824897/"
+        "title": "Inside Netflix and Prime Video\u2019s Fight to Reshape France\u2019s Streaming Rules: \u2018It\u2019s an Unsustainable Equation\u2019",
+        "link": "https://variety.com/2026/film/global/netflix-prime-video-fight-reshape-france-streaming-rules-1236824930/"
       }
     ],
     "hollywoodreporter": [
       {
+        "title": "Filmsaaz and Neozoon: Meet Filmmakers With Pseudonyms \u2013 and Political Movies \u2013\u00a0at Locarno",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/locarno-2026-political-films-filmsaaz-neozoon-pseudonyms-1236656984/"
+      },
+      {
+        "title": "The Reporter Who Won\u2019t Give Up On the Nancy Guthrie Kidnapping Story",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/brian-entin-nancy-guthrie-investigation-reporting-six-months-missing-1236658502/"
+      },
+      {
+        "title": "Gary Oldman, Curry Barker, \u2018Barbie\u2019 Producer Robbie Brenner to Keynote Toronto Film Festival",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/keynote-toronto-film-festival-2026-curry-barker-1236660766/"
+      },
+      {
         "title": "HBO Max Picks Up \u2018Friday the 13th\u2019 Prequel Series \u2018Crystal Lake\u2019 Across Europe",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/hbo-max-takes-horror-series-crystal-lake-for-europe-1236660755/"
-      },
-      {
-        "title": "ITV Bullish in First Results Since Confirming Sky Deal, Orders Share Buyback of $135M",
-        "link": "https://www.hollywoodreporter.com/business/business-news/itv-first-results-sky-deal-sharehold-buyback-studios-tv-1236660733/"
-      },
-      {
-        "title": "British YouTuber and Rapper Yung Filly Found Not Guilty of Raping Woman in Australia",
-        "link": "https://www.hollywoodreporter.com/news/general-news/youtube-yung-filly-found-not-guilty-rape-australia-trial-1236660096/"
-      },
-      {
-        "title": "Sony Pictures Sees Revenue Drop 13 Percent In Latest Quarter; Big Gains In Music",
-        "link": "https://www.hollywoodreporter.com/business/business-news/sony-pictures-q1-2026-results-1236660707/"
       }
     ],
     "larb": [],
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "A \u201cHellish Cloud\u201d Descended on Los Angeles in 1943",
+        "link": "https://nautil.us/a-hellish-cloud-descended-on-los-angeles-in-1943-1283256/"
+      },
+      {
         "title": "Microfossils Help Crack Mystery More Than 100 Million Years in the Making",
         "link": "https://nautil.us/microfossils-help-crack-mystery-more-than-100-million-years-in-the-making-1283251/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "Curiosity Rover Finds \u201cSea of Polygons\u201d on Martian Surface",
         "link": "https://nautil.us/curiosity-rover-finds-sea-of-polygons-on-martian-surface-1283236/"
-      },
-      {
-        "title": "The Odyssey of the Stone Age Maltese",
-        "link": "https://nautil.us/the-odyssey-of-the-stone-age-maltese-1283223/"
       }
     ],
     "worksinprogress": [],
