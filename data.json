@@ -1,40 +1,40 @@
 {
-  "last_updated": "2026-07-31 21:59 UTC",
+  "last_updated": "2026-08-01 02:08 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Fifa scraps controversial World Cup investment plan",
+        "link": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
         "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Watch: Moroccan police clash with migrants near border with Spain's Ceuta",
-        "link": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss"
+        "title": "Labour's Bev Craig elected Greater Manchester mayor, succeeding Andy Burnham",
+        "link": "https://www.bbc.co.uk/news/articles/cy74n1n1lnxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Fifa executive says staff 'deceived' by Infantino plans",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "No sentence long enough for jailed funeral director Robert Bush, say families",
-        "link": "https://www.bbc.co.uk/news/articles/cre4nlez9nyo?at_medium=RSS&at_campaign=rss"
+        "title": "Police release Nancy Guthrie ransom notes in latest bid to find kidnappers",
+        "link": "https://www.bbc.co.uk/news/articles/ce973re9404o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Children face higher threat of US deportation as legal support deal expires",
-        "link": "https://www.aljazeera.com/news/2026/7/31/children-face-higher-threat-of-us-deportation-as-legal-support-deal-expires?traffic_source=rss"
+        "title": "US military says F-35B jet fighter crashes in California, pilot safe",
+        "link": "https://www.aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss"
       },
       {
-        "title": "Cambridge students on why they protested at graduation ceremony",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/cambridge-students-on-why-they-protested-at-graduation-ceremony?traffic_source=rss"
+        "title": "Why has Infantino scrapped FIFA\u2019s World Cup investment plan? What to know",
+        "link": "https://www.aljazeera.com/sports/2026/8/1/why-has-infantino-scrapped-fifas-world-cup-investment-plan-what-to-know?traffic_source=rss"
       },
       {
-        "title": "Powerful El Nino to intensify heat on \u2018a planet already on fire\u2019: UN",
-        "link": "https://www.aljazeera.com/news/2026/7/31/powerful-el-nino-to-intensify-heat-on-a-planet-already-on-fire-un?traffic_source=rss"
+        "title": "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss"
       },
       {
-        "title": "Venezuela government and opposition to hold talks aimed at path to election",
-        "link": "https://www.aljazeera.com/news/2026/7/31/venezuela-govt-and-opposition-to-hold-talks-aimed-at-path-to-elections?traffic_source=rss"
+        "title": "Trump administration to dismiss Reflecting Pool charges against David Hearn",
+        "link": "https://www.aljazeera.com/news/2026/8/1/trump-administration-to-dismiss-reflecting-pool-charges-against-david-hearn?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -48,12 +48,12 @@
         "link": "https://www.skysports.com/live-blog/12040/13566034/commonwealth-games-glasgow-2026-live-news-schedule-updates-results-todays-events-as-england-scotland-wales-northern-ireland-aim-for-medals"
       },
       {
-        "title": "American Affair flies the flag for Goldie at Goodwood",
-        "link": "https://www.skysports.com/racing/news/12040/13568836/american-affair-flies-the-flag-for-goldie-at-goodwood"
+        "title": "Papers: Real Madrid open to Arsenal target Vinicius Jr leaving club",
+        "link": "https://www.skysports.com/football/news/12040/13568924/vinicius-junior-transfer-news-real-madrid-open-to-possibility-of-arsenal-target-leaving-paper-talk"
       },
       {
-        "title": "Doyle: Owen can Dream big in the Stewards' Cup",
-        "link": "https://www.skysports.com/racing/news/12040/13568847/hollie-doyle-dream-chance-for-james-owen-in-the-stewards-cup"
+        "title": "American Affair flies the flag for Goldie at Goodwood",
+        "link": "https://www.skysports.com/racing/news/12040/13568836/american-affair-flies-the-flag-for-goldie-at-goodwood"
       }
     ],
     "pitchfork": [],
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "For Rising Stars, Good Taste Comes at a Cost \u2014 Superhero Films Are Just One Way to Satiate It",
+        "link": "https://www.indiewire.com/awards/industry/superhero-films-brand-deals-bankable-awards-contenders-1235208021/"
+      },
+      {
         "title": "How a Tiny Pez Dispenser Became TV\u2019s Most Important Story Breadcrumb on \u2018Silo\u2019",
         "link": "https://www.indiewire.com/features/craft/silo-season-3-memory-pez-rebecca-ferguson-interview-1235207963/"
       },
@@ -163,46 +167,42 @@
       {
         "title": "IndieWire Names Brent Lang Editor-in-Chief, as Longtime Leader Dana Harris-Bridson Departs",
         "link": "https://www.indiewire.com/news/breaking-news/indiewire-editor-in-chief-brent-lang-1235207906/"
-      },
-      {
-        "title": "\u2018Nightborn\u2019 Review: Rupert Grint and Seidi Haarla Raise a Bloodthirsty Baby in a Shudder Movie About the Horrors of Motherhood",
-        "link": "https://www.indiewire.com/criticism/movies/nightborn-review-shudder-horror-movie-1235207895/"
       }
     ],
     "variety": [
       {
-        "title": "Olivia Wilde and Cooper Hoffman Used Pain Scale Ratings to Prep BDSM Scenes in \u2018I Want Your Sex\u2019: She \u2018Hit Him Really Hard and\u2019 It Was \u2018Only a Seven or Eight\u2019",
-        "link": "https://variety.com/2026/artisans/news/i-want-your-sex-olivia-wilde-cooper-hoffman-sex-scenes-prep-1236825024/"
+        "title": "Javier Bardem Politely Warned \u2018Cape Fear\u2019 Co-Star About Grabbing Her Hair During Attack Scene and Apologized in Advance: \u2018I\u2019m So Sorry, My Love\u2019",
+        "link": "https://variety.com/2026/tv/news/javier-bardem-cape-fear-finale-grabs-hair-lily-collias-1236825394/"
       },
       {
-        "title": "John Oliver Extends His HBO Contract to Continue \u2018Last Week Tonight\u2019 Through 2027",
-        "link": "https://variety.com/2026/tv/news/john-oliver-hbo-contract-last-week-tonight-through-2027-1236825361/"
+        "title": "\u2018Spider-Man: Brand New Day\u2019 Leaks Online: Millions Watched Bootleg Before It Was Taken Down",
+        "link": "https://variety.com/2026/film/news/spider-man-brand-new-day-leaked-high-quality-1236825389/"
       },
       {
-        "title": "Tom Corson Promoted to Chief Operating Officer at Warner Music Group",
-        "link": "https://variety.com/2026/music/news/tom-corson-promoted-coo-warner-music-group-1236825348/"
+        "title": "\u2018The Devil\u2019s Mouth\u2019 Director Breaks Down His Bloody, One-Location Shark Movie, Those \u2018Demanding\u2019 Stunts and Why Kathryn Newton and Lana Condor Wanted to Switch Roles",
+        "link": "https://variety.com/2026/film/news/devils-mouth-bloody-shark-movie-stunts-lana-condor-1236825182/"
       },
       {
-        "title": "You Can Now Land New York\u2019s Toughest Restaurant Reservations Through DoorDash",
-        "link": "https://variety.com/2026/shopping/news/doordash-reservations-new-york-dashpass-membership-1236825342/"
+        "title": "\u2018Cape Fear\u2019 Creator Nick Antosca on That Shocking Final Sequence and Making Big Changes From Scorsese\u2019s Version",
+        "link": "https://variety.com/2026/tv/features/cape-fear-finale-max-cady-1236812603/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Bravo VP Talks Amanda\u2019s TV Future After \u2018Summer House\u2019 Exit, West\u2019s Departure and \u2018In the City\u2019 Season 2: \u201cI\u2019m Optimistic\u201d",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/bravo-vp-amanda-west-summer-house-exit-in-the-city-season-2-1236659055/"
+        "title": "All of the Guest Stars and Cameos on HBO Max\u2019s \u2018Life, Larry and the Pursuit of Unhappiness\u2019 (So Far)",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/larry-and-the-pursuit-of-unhappiness-guest-stars-cameos-1236651445/"
       },
       {
-        "title": "Sheriff in Nancy Guthrie Case Releases Ransom Notes: \u201cShe Perished Shortly After She Was Taken\u201d",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/nancy-guthrie-ransom-notes-released-sheriff-chris-nanos-1236661130/"
+        "title": "FIFA Boss Infantino Scraps World Cup Sell Off Plans After Backlash",
+        "link": "https://www.hollywoodreporter.com/news/general-news/fifa-infantino-scraps-world-cup-sell-off-plans-1236661306/"
       },
       {
-        "title": "Sam Fender and Olivia Dean Have the Longest-Running No. 1 in U.K. History",
-        "link": "https://www.hollywoodreporter.com/music/music-industry-news/sam-fender-olivia-dean-uk-charts-record-1236661078/"
+        "title": "Taylor Sheridan Returning for an On-Camera Role in \u2018Lioness\u2019 Season 3",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/taylor-sheridan-on-camera-role-lioness-season-3-1236661181/"
       },
       {
-        "title": "\u2018Sugar\u2019 Star Tony Dalton Breaks Down That Duel in the Desert and Accidentally Punching Colin Farrell",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/sugar-tony-dalton-punching-colin-farrell-interview-1236656140/"
+        "title": "John Galliano, Controversy and All, to Take Spotlight at 2027 Met Gala and Costume Institute Exhibition",
+        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/john-galliano-met-gala-2027-museum-exhibition-controversy-1236661277/"
       }
     ],
     "larb": [],
