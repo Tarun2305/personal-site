@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01 05:48 UTC",
+  "last_updated": "2026-08-01 08:08 UTC",
   "feeds": {
     "bbc": [
       {
@@ -21,6 +21,10 @@
     ],
     "aljazeera": [
       {
+        "title": "FIFA World Cup plan fallout: AFC reacts as Infantino scraps investment push",
+        "link": "https://www.aljazeera.com/sports/2026/8/1/fifa-world-cup-plan-fallout-afc-react-as-fifa-scrap-investment-push?traffic_source=rss"
+      },
+      {
         "title": "Protesters detained at rally in support of Pakistan-administered Kashmir",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/protesters-detained-at-rally-in-support-of-pakistan-administered-kashmir?traffic_source=rss"
       },
@@ -31,14 +35,14 @@
       {
         "title": "Peru\u2019s ex-president Humala released after conviction overturned",
         "link": "https://www.aljazeera.com/news/2026/8/1/perus-ex-president-humala-released-after-conviction-overturned?traffic_source=rss"
-      },
-      {
-        "title": "Yemen\u2019s Houthis deny plan to charge ships transiting Red Sea",
-        "link": "https://www.aljazeera.com/news/2026/8/1/yemens-houthis-deny-plan-to-charge-ships-transiting-red-sea?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "Haaderr and Suspicious Mindz clash at Doncaster",
+        "link": "https://www.skysports.com/racing/news/12040/13568835/today-on-sky-sports-racing-doncaster-and-lingfield-park"
+      },
       {
         "title": "Leeds thrash Toulouse as Wigan beat Leigh",
         "link": "https://www.skysports.com/rugby-league/news/12040/13568845/super-league-leeds-rhinos-thrash-toulouse-olympique-as-wigan-warriors-beat-leigh-leopards-and-hull-kr-defeat-bradford-bulls"
@@ -50,10 +54,6 @@
       {
         "title": "Papers: Real Madrid open to Arsenal target Vinicius Jr leaving club",
         "link": "https://www.skysports.com/football/news/12040/13568924/vinicius-junior-transfer-news-real-madrid-open-to-possibility-of-arsenal-target-leaving-paper-talk"
-      },
-      {
-        "title": "American Affair flies the flag for Goldie at Goodwood",
-        "link": "https://www.skysports.com/racing/news/12040/13568836/american-affair-flies-the-flag-for-goldie-at-goodwood"
       }
     ],
     "pitchfork": [],
@@ -171,6 +171,10 @@
     ],
     "variety": [
       {
+        "title": "FIFA Chief Gianni Infantino on the Ropes as He Ditches Controversial $20 Billion Private Investment Plan",
+        "link": "https://variety.com/2026/biz/global/fifa-gianni-infantino-ditches-private-investment-plan-1236825512/"
+      },
+      {
         "title": "Tiger Shroff to Star in Viccky Jain\u2019s VJ Frames Launch Title, Directed by Remo D\u2019Souza, With Abhishek Banerjee, Elvish Yadav Also Set (EXCLUSIVE)",
         "link": "https://variety.com/2026/film/news/tiger-shroff-viccky-jain-vj-frames-1236825325/"
       },
@@ -181,10 +185,6 @@
       {
         "title": "\u2018Spider-Man: Brand New Day\u2019 Leaks Online: Millions Watched Bootleg Before It Was Taken Down",
         "link": "https://variety.com/2026/film/news/spider-man-brand-new-day-leaked-high-quality-1236825389/"
-      },
-      {
-        "title": "\u2018The Devil\u2019s Mouth\u2019 Director Breaks Down His Bloody, One-Location Shark Movie, Those \u2018Demanding\u2019 Stunts and Why Kathryn Newton and Lana Condor Wanted to Switch Roles",
-        "link": "https://variety.com/2026/film/news/devils-mouth-bloody-shark-movie-stunts-lana-condor-1236825182/"
       }
     ],
     "hollywoodreporter": [
