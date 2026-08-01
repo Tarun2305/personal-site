@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-08-01 15:55 UTC",
+  "last_updated": "2026-08-01 18:58 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
         "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Call for 'full review' as pressure grows on Infantino",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
         "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Sir John Curtice: The 'Burnham bounce' is real but it's not massive",
-        "link": "https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss"
+        "title": "William and Kate bring children to Commonwealth Games",
+        "link": "https://www.bbc.co.uk/news/articles/cz7d1xpn5e8o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "India cracks down on protesters accused of \u2018abusing\u2019 Modi",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/india-cracks-down-on-protesters-accused-of-abusing-modi?traffic_source=rss"
+        "title": "At least three killed in explosion near cafe in Russia\u2019s Moscow",
+        "link": "https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss"
       },
       {
-        "title": "Israeli strike destroys Gaza hospital warehouse",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss"
+        "title": "\u2018Marathon\u2019 shines light on Gaza\u2019s orphaned children and humanitarian crisis",
+        "link": "https://www.aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis?traffic_source=rss"
       },
       {
-        "title": "Infantino\u2019s FIFA crisis: What is reaction to World Cup investment U-turn?",
-        "link": "https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss"
+        "title": "Trump pledges to pursue \u2018anti-weaponisation\u2019 fund amid Blanche standoff",
+        "link": "https://www.aljazeera.com/news/2026/8/1/trump-pledges-to-pursue-anti-weaponisation-fund-amid-blanche-standoff?traffic_source=rss"
       },
       {
-        "title": "Is Spain being punished?",
-        "link": "https://www.aljazeera.com/opinions/2026/8/1/is-spain-being-punished?traffic_source=rss"
+        "title": "At least 9 people killed in Russian missile attacks on Kyiv",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Everton latest: Toffees interested in Man Utd youngster Wheatley",
-        "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+        "title": "Staveley-led consortium agrees deal for minority stake in West Ham",
+        "link": "https://www.skysports.com/football/news/12040/13569061/west-ham-vanessa-gold-agrees-to-sell-stake-in-championship-club-to-former-newcastle-co-owner-amanda-staveley-led-consortium"
       },
       {
-        "title": "Man City latest: Maresca's first game ends in penalty shoot-out loss to Inter",
-        "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "title": "Evening Saigon wins Stewards' Cup at Goodwood",
+        "link": "https://www.skysports.com/racing/news/12040/13569075/goodwood-evening-saigon-continues-magical-week-for-wathnan-racing-with-stewards-cup-win-as-goodie-two-shoes-also-prevails"
       },
       {
-        "title": "Tottenham latest: De Zerbi admits uncertainty over Richarlison future",
-        "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "title": "Warrington go fourth with win over Castleford, Saints beaten by York in thriller",
+        "link": "https://www.skysports.com/rugby-league/castleford-vs-warrington/report/63300"
       },
       {
-        "title": "Crowley to retire from riding and start training",
-        "link": "https://www.skysports.com/racing/news/12040/13569034/jockey-jim-crowley-announces-retirement-from-the-saddle-due-to-injury-and-plans-to-start-training"
+        "title": "Welbeck completes move to Chelsea",
+        "link": "https://www.skysports.com/football/news/12040/13568440/chelsea-transfer-news-danny-welbeck-completes-move-to-stamford-bridge-from-brighton-for-undisclosed-fee"
       }
     ],
     "pitchfork": [],
@@ -171,38 +171,38 @@
     ],
     "variety": [
       {
-        "title": "Box Office: \u2018Spider-Man: Brand New Day\u2019 Breaks Opening Day Record With $168 Million",
-        "link": "https://variety.com/2026/film/news/box-office-spider-man-brand-new-day-opening-day-record-1236825606/"
+        "title": "Vin Diesel Says \u2018Fast Forever\u2019 Has the \u2018Best Script I Have Read in Decades\u2019: \u2018I Am Still Crying\u2019",
+        "link": "https://variety.com/2026/film/news/vin-diesel-fast-forever-best-script-1236825704/"
       },
       {
-        "title": "Massive Attack Duo Banned From Singapore Over Palestinian Flag Display",
-        "link": "https://variety.com/2026/music/news/massive-attack-duo-banned-singapore-palestinian-flag-1236825534/"
+        "title": "Juliette Lewis on Fiery \u2018Cape Fear\u2019 Finale, \u2018Nostalgic\u2019 Nods to 1991 Film and Why Crystal Will \u2018Haunt\u2019 Max Forever",
+        "link": "https://variety.com/2026/tv/news/juliette-lewis-cape-fear-finale-crystal-death-1991-movie-1236818597/"
       },
       {
-        "title": "\u2018The Inbetweeners\u2019 Reunion Movie in the Works at Netflix With Original Lead Cast to Return",
-        "link": "https://variety.com/2026/film/global/the-inbetweeners-reunion-movie-netflix-original-lead-cast-1236825532/"
+        "title": "The Rolling Stones \u2018Behind the Song\u2019: See Mick Jagger and Producer Andrew Watt\u2019s Deep Dive on the Creation of \u2018Mr. Charm\u2019 (EXCLUSIVE)",
+        "link": "https://variety.com/2026/music/news/rolling-stones-behind-the-song-mick-jagger-andrew-watts-mr-charm-1236825650/"
       },
       {
-        "title": "FIFA Chief Gianni Infantino on the Ropes as He Ditches Controversial $20 Billion Private Investment Plan",
-        "link": "https://variety.com/2026/biz/global/fifa-gianni-infantino-ditches-private-investment-plan-1236825512/"
+        "title": "Richard L. O\u2019Connor, Emmy-Winning Producer and \u2018The Muppet Movie\u2019 Executive, Dies at 96",
+        "link": "https://variety.com/2026/film/news/richard-l-oconnor-dead-the-muppet-movie-on-golden-pond-1236825613/"
       }
     ],
     "hollywoodreporter": [
       {
+        "title": "Charlie Hunnam Adopted Kittens While Filming \u2018Monster\u2019 to Decompress From \u201cDarkest Realm\u201d of Playing Ed Gein",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/charlie-hunman-transforming-ed-gein-netflix-monster-1236661207/"
+      },
+      {
+        "title": "How Rufus Sewell Found a TV Role Worth Staying For",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/rufus-sewell-the-diplomat-emmys-1236661206/"
+      },
+      {
+        "title": "Did Zendaya Just Troll the Internet With Her \u2018Spider-Man: Brand New Day\u2019 Press Tour Looks?",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/zendaya-trolls-internet-spider-man-brand-new-day-looks-1236658581/"
+      },
+      {
         "title": "Richard L. O\u2019Connor, Emmy-Winning Producer, Dies at 96",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/richard-oconnor-producer-golden-pond-1236661403/"
-      },
-      {
-        "title": "\u2018Spider-Man: Brand New Day\u2019 Leaps to Record $168M First Day for Historic Opening Weekend",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-opening-weekend-box-office-friday-1236661359/"
-      },
-      {
-        "title": "The Leopard Takes Over Locarno Again \u2013\u00a0and It Is Different From Other Film Festival Animal Symbols",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/locarno-film-festival-leopard-mascot-symbol-1236658975/"
-      },
-      {
-        "title": "Lego Just Released Its First \u2018The X-Files\u2019 Set, Complete With Mulder and Scully Minifigures",
-        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/x-files-lego-set-release-price-buy-mulder-scully-figures-1236654559/"
       }
     ],
     "larb": [],
@@ -299,7 +299,7 @@
     "worksinprogress": [],
     "noema": [
       {
-        "title": "AI Has Already Entered The \u2018Loss Of Control\u2019 Transition",
+        "title": "AI Has Entered The \u2018Loss Of Control\u2019 Transition",
         "link": "https://www.noemamag.com/ai-has-already-entered-the-loss-of-control-transition"
       },
       {
