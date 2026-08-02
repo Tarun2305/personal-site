@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-08-02 13:05 UTC",
+  "last_updated": "2026-08-02 15:55 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-        "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
+        "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
+        "link": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Continued drought could cause shortage of certain foods, head of farmers' union says",
+        "title": "Man admits killing Scottish woman found in suitcase, Greek police say",
+        "link": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Prolonged drought could cause shortage of some foods, farmers' union head says",
         "link": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "The shadowy gang recruiting teenage hitmen to kill across Europe",
-        "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
-        "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss"
+        "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+        "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "South Korea has hottest day on record amid extreme weather globally",
-        "link": "https://www.aljazeera.com/news/2026/8/2/south-korea-has-hottest-day-on-record-amid-extreme-weather-globally?traffic_source=rss"
+        "title": "How to end the \u2018Hormuz war\u2019",
+        "link": "https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz?traffic_source=rss"
       },
       {
-        "title": "At least five dead, 41 missing after ferry catches fire off Indonesia",
-        "link": "https://www.aljazeera.com/news/2026/8/2/at-least-five-dead-41-missing-after-ferry-catches-fire-off-indonesia?traffic_source=rss"
+        "title": "Ukrainian farmers use temporary storage to revive grain exports",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/ukrainian-farmers-use-temporary-storage-to-revive-grain-exports?traffic_source=rss"
       },
       {
-        "title": "Why has EU called an emergency meeting on Spain migrant surge?",
-        "link": "https://www.aljazeera.com/news/2026/8/2/why-has-the-eu-called-an-emergency-meeting-on-spain-migrants-surge?traffic_source=rss"
+        "title": "Heatwave forces nuclear shutdown in Hungary",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss"
       },
       {
-        "title": "Spanish Ceuta witnesses a deadly \u2018game\u2019 for Moroccan migrants",
-        "link": "https://www.aljazeera.com/features/2026/8/2/spanish-ceuta-witnesses-a-deadly-game-for-moroccan-migrants?traffic_source=rss"
+        "title": "Tanks, troops and space",
+        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/2/tanks-troops-and-space?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "AIG Women's Open LIVE! Korda with strong start as chasers eye leader Noh",
+        "title": "Blue Bolt confirms superiority over Precise at Deauville",
+        "link": "https://www.skysports.com/racing/news/12040/13569200/prix-rothschild-blue-bolt-confirms-superiority-over-precise-in-deauville-group-1"
+      },
+      {
+        "title": "Dunkley leads Trent Rockets past SunRisers Leeds",
+        "link": "https://www.skysports.com/cricket/news/12040/13569158/the-hundred-sophia-dunkley-fifty-fires-trent-rockets-past-sunrisers-leeds-despite-annabel-sutherland-heroics"
+      },
+      {
+        "title": "AIG Women's Open LIVE! Noh bogeys give Woad, Hull hope in major thriller",
         "link": "https://www.skysports.com/golf/live-blog/12040/13568986/aig-womens-open-live-latest-scores-updates-highlights-from-final-round-as-lottie-woad-charley-hull-chase-major-win"
       },
       {
         "title": "Today on Sky Sports Racing: Blue Bolt and Precise clash again in Prix Rothschild",
         "link": "https://www.skysports.com/racing/news/12040/13568987/today-on-sky-sports-racing-chester-yarmouth-and-deauville-feature-live-on-sunday"
-      },
-      {
-        "title": "York Knights claim first win over St Helens in 80 years",
-        "link": "https://www.skysports.com/watch/video/13569096/york-knights-34-32-st-helens-rugby-super-league-highlights"
-      },
-      {
-        "title": "Wolves move into fourth with dominant display over Tigers",
-        "link": "https://www.skysports.com/watch/video/13569073/castleford-tigers-18-48-warrington-wolves-rugby-super-league-highlights"
       }
     ],
     "pitchfork": [],
@@ -171,23 +171,31 @@
     ],
     "variety": [
       {
+        "title": "\u2018Spider-Man: Brand New Day\u2019 Swings to Mind-Blowing $355 Million Debut, Second-Biggest Opening Weekend in Box Office History",
+        "link": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-box-office-opening-weekend-1236825953/"
+      },
+      {
+        "title": "Stassi Schroeder Takes Us Inside That Explosive \u2018House of Stassi\u2019 Finale: \u2018I Felt Like Julius Caesar\u2019",
+        "link": "https://variety.com/2026/tv/news/house-of-stassi-finale-stassi-schroeder-fight-beau-clark-katie-maloney-hulu-1236825637/"
+      },
+      {
         "title": "\u2018Hacks\u2019 Stars Hannah Einbinder and Paul W. Downs on the Legacy of \u2018Hacks\u2019 and Which Character Needs a Spinoff First",
         "link": "https://variety.com/2026/tv/awards/hacks-hannah-einbinder-paul-w-downs-legacy-spinoff-1236825927/"
       },
       {
         "title": "Nicole Kidman and Sandra Bullock Surprise Fans at \u2018Practical Magic\u2019 Screening in Hollywood Forever Cemetery for L.A.\u2019s Cinespia",
         "link": "https://variety.com/2026/film/news/nicole-kidman-sandra-bullock-practical-magic-cinespia-screening-1236825330/"
-      },
-      {
-        "title": "Toymaker Hasbro Reimagines Most Iconic Board Games With Spider-Man-Themed Graphics and Gameplay",
-        "link": "https://variety.com/2026/shopping/news/best-spider-man-board-games-hasbro-monopoly-buy-online-1236825826/"
-      },
-      {
-        "title": "\u2018It: Welcome to Derry\u2019 Creator Says Season 2 Will \u2018Not\u2019 Shy Away From the \u2018Horrible\u2019 Cultural Themes of the 1930s: It\u2019s the \u2018Heart of Our Story\u2019",
-        "link": "https://variety.com/2026/tv/news/it-welcome-to-derry-season-2-update-cultural-themes-1930s-1236825738/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "\u2018Spider-Man: Brand New Day\u2019 Soars to $355M for Second-Biggest Opening Weekend Ever",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-opening-weekend-second-1236661703/"
+      },
+      {
+        "title": "\u2018The Days Off\u2019 Is a \u201cLove Letter to That Internet That No Longer Quite Exists\u201d (Locarno Trailer)",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/locarno-2026-the-days-off-film-trailer-los-dias-libres-web-1236659990/"
+      },
       {
         "title": "Sandra Bullock and Nicole Kidman Make Surprise Appearance at \u2018Practical Magic\u2019 Screening",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/sandra-bullock-nicole-kidman-practical-magic-appearance-1236661508/"
@@ -195,14 +203,6 @@
       {
         "title": "\u2018Wonder Man\u2019 Star Yahya Abdul-Mateen II Reacts to Marvel Series Cancellation: \u201cSee You at the Emmys\u201d",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/wonder-man-canceled-yahya-abdul-mateen-ii-reacts-marvel-1236661484/"
-      },
-      {
-        "title": "Gavin Newsom Reportedly Concerned About State Antitrust Suit Against Paramount-Warner Bros. Merger",
-        "link": "https://www.hollywoodreporter.com/business/business-news/gavin-newsom-concerned-state-suit-paramount-warner-bros-1236661514/"
-      },
-      {
-        "title": "K-pop Girl Group IVE is Ready for Their Next Big Adventure",
-        "link": "https://www.hollywoodreporter.com/music/music-features/k-pop-girl-group-ive-show-what-i-am-tour-interview-1236661491/"
       }
     ],
     "larb": [],
