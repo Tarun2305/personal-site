@@ -1,44 +1,48 @@
 {
-  "last_updated": "2026-08-02 08:10 UTC",
+  "last_updated": "2026-08-02 10:28 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
+        "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
         "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The shadowy gang recruiting teenage hitmen to kill across Europe",
+        "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
         "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
-        "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss"
+        "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
+        "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "At least three dead in Idaho shopping mall mass shooting",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/at-least-three-dead-in-idaho-shopping-mall-mass-shooting?traffic_source=rss"
+        "title": "Residents of Spain\u2019s Ceuta shut down far-right anti-migrant rally",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/2-08-sv-ceuta-cancel-farright-protests-es?traffic_source=rss"
       },
       {
-        "title": "Gaza students overcome Israel\u2019s genocide to mark Tawjihi results",
-        "link": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss"
+        "title": "A quiet day in Harare after Zimbabwe\u2019s shutdown call",
+        "link": "https://www.aljazeera.com/news/2026/8/2/a-quiet-day-in-harare-after-zimbabwes-shutdown-call?traffic_source=rss"
       },
       {
-        "title": "Three dead including female bomber in Moscow restaurant attack",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack?traffic_source=rss"
+        "title": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
+        "link": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss"
       },
       {
-        "title": "Why isn\u2019t anyone challenging Infantino for FIFA\u2019s top job?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/why-isnt-anyone-challenging-infantino-for-fifas-top-job?traffic_source=rss"
+        "title": "How Davutoglu helped shape Erdogan\u2019s Turkiye but failed to challenge it",
+        "link": "https://www.aljazeera.com/features/2026/8/2/how-davutoglu-helped-shape-erdogans-turkiye-but-failed-to-challenge-it?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "AIG Women's Open LIVE! Have your say on winner as early starters chase Noh",
+        "link": "https://www.skysports.com/golf/live-blog/12040/13568986/aig-womens-open-live-latest-scores-updates-highlights-from-final-round-as-lottie-woad-charley-hull-chase-major-win"
+      },
       {
         "title": "Today on Sky Sports Racing: Blue Bolt and Precise clash again in Prix Rothschild",
         "link": "https://www.skysports.com/racing/news/12040/13568987/today-on-sky-sports-racing-chester-yarmouth-and-deauville-feature-live-on-sunday"
@@ -50,10 +54,6 @@
       {
         "title": "Wolves move into fourth with dominant display over Tigers",
         "link": "https://www.skysports.com/watch/video/13569073/castleford-tigers-18-48-warrington-wolves-rugby-super-league-highlights"
-      },
-      {
-        "title": "Wakefield see off Dragons to climb back to second",
-        "link": "https://www.skysports.com/watch/video/13569121/catalans-dragons-12-32-wakefield-trinity-super-league-highlights"
       }
     ],
     "pitchfork": [],
