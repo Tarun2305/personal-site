@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02 15:55 UTC",
+  "last_updated": "2026-08-02 18:59 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,7 +7,7 @@
         "link": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Man admits killing Scottish woman found in suitcase, Greek police say",
+        "title": "Man admits transporting Scottish woman's body in suitcase, Greek police say",
         "link": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -15,26 +15,26 @@
         "link": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-        "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
+        "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths ",
+        "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "How to end the \u2018Hormuz war\u2019",
-        "link": "https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz?traffic_source=rss"
+        "title": "Two helicopters collide mid-air while tackling wildfires in Greece",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss"
       },
       {
-        "title": "Ukrainian farmers use temporary storage to revive grain exports",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/ukrainian-farmers-use-temporary-storage-to-revive-grain-exports?traffic_source=rss"
+        "title": "Ukrainian drone attacks kill eight in response to Russian missiles",
+        "link": "https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss"
       },
       {
-        "title": "Heatwave forces nuclear shutdown in Hungary",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss"
+        "title": "\u2018Iron fist\u2019 doesn\u2019t work with Iran: Former US hostage in Tehran",
+        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/2/iron-fist-doesnt-work-with-iran-former-us-hostage-in-tehran?traffic_source=rss"
       },
       {
-        "title": "Tanks, troops and space",
-        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/2/tanks-troops-and-space?traffic_source=rss"
+        "title": "Republican senator says former son-in-law should resign from US Congress",
+        "link": "https://www.aljazeera.com/news/2026/8/2/republican-senator-says-former-son-in-law-should-resign-from-us-congress?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -44,16 +44,16 @@
         "link": "https://www.skysports.com/racing/news/12040/13569200/prix-rothschild-blue-bolt-confirms-superiority-over-precise-in-deauville-group-1"
       },
       {
-        "title": "Dunkley leads Trent Rockets past SunRisers Leeds",
+        "title": "Dunkley leads Trent Rockets past SunRisers Leeds as MI London remain winless",
         "link": "https://www.skysports.com/cricket/news/12040/13569158/the-hundred-sophia-dunkley-fifty-fires-trent-rockets-past-sunrisers-leeds-despite-annabel-sutherland-heroics"
       },
       {
-        "title": "AIG Women's Open LIVE! Noh bogeys give Woad, Hull hope in major thriller",
-        "link": "https://www.skysports.com/golf/live-blog/12040/13568986/aig-womens-open-live-latest-scores-updates-highlights-from-final-round-as-lottie-woad-charley-hull-chase-major-win"
+        "title": "Isak and Wirtz start for Liverpool vs Leeds LIVE!",
+        "link": "https://www.skysports.com/football/liverpool-vs-leeds-united/live/554987"
       },
       {
-        "title": "Today on Sky Sports Racing: Blue Bolt and Precise clash again in Prix Rothschild",
-        "link": "https://www.skysports.com/racing/news/12040/13568987/today-on-sky-sports-racing-chester-yarmouth-and-deauville-feature-live-on-sunday"
+        "title": "AIG Women's Open LIVE! Kuwaki pips Henseleit to major after play-off drama",
+        "link": "https://www.skysports.com/golf/live-blog/12040/13568986/aig-womens-open-live-latest-scores-updates-highlights-from-final-round-as-lottie-woad-charley-hull-chase-major-win"
       }
     ],
     "pitchfork": [],
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018Batman: Caped Crusader\u2019 Season 2 Is a Masterful Sequel About the Heroes We Need Now",
+        "link": "https://www.indiewire.com/criticism/shows/batman-caped-crusader-season-2-review-outstanding-sequel-1235207962/"
+      },
+      {
         "title": "\u2018Butcher, Baker, Nightmare Maker\u2019 Is the Deranged Cult Slasher Every Horror Fan Should Have on Tap",
         "link": "https://www.indiewire.com/features/best-of/butcher-baker-nightmare-maker-1981-cult-film-1235208050/"
       },
@@ -163,46 +167,42 @@
       {
         "title": "How a Tiny Pez Dispenser Became TV\u2019s Most Important Story Breadcrumb on \u2018Silo\u2019",
         "link": "https://www.indiewire.com/features/craft/silo-season-3-memory-pez-rebecca-ferguson-interview-1235207963/"
-      },
-      {
-        "title": "Emily Wilson vs. Christopher Nolan, and Why Literary Translators Don\u2019t Make the Best Film Critics",
-        "link": "https://www.indiewire.com/features/podcast/emily-wilson-takes-aim-christopher-nolan-the-odyssey-1235207916/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018Spider-Man: Brand New Day\u2019 Swings to Mind-Blowing $355 Million Debut, Second-Biggest Opening Weekend in Box Office History",
-        "link": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-box-office-opening-weekend-1236825953/"
+        "title": "\u2018Hadestown\u2019 Parts Ways With Hades Actor Geno Segers After Online Controversy",
+        "link": "https://variety.com/2026/theater/news/broadways-hadestown-geno-segers-online-controversy-1236826009/"
       },
       {
-        "title": "Stassi Schroeder Takes Us Inside That Explosive \u2018House of Stassi\u2019 Finale: \u2018I Felt Like Julius Caesar\u2019",
-        "link": "https://variety.com/2026/tv/news/house-of-stassi-finale-stassi-schroeder-fight-beau-clark-katie-maloney-hulu-1236825637/"
+        "title": "\u2018Spider-Man: Brand New Day\u2019 Obliterates Expectations With $927 Million Global Debut",
+        "link": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-global-debut-nears-1-billion-1236825975/"
       },
       {
-        "title": "\u2018Hacks\u2019 Stars Hannah Einbinder and Paul W. Downs on the Legacy of \u2018Hacks\u2019 and Which Character Needs a Spinoff First",
-        "link": "https://variety.com/2026/tv/awards/hacks-hannah-einbinder-paul-w-downs-legacy-spinoff-1236825927/"
+        "title": "\u2018Wonder Man\u2019 Co-Creator Says \u2018Contracts Were Signed, Schedules Were Cleared\u2019 Before Marvel Series Was Canceled: \u2018This Is Not a Marketing Stunt\u2019",
+        "link": "https://variety.com/2026/tv/news/wonder-man-canceled-co-creator-reaction-marvel-disney-1236825977/"
       },
       {
-        "title": "Nicole Kidman and Sandra Bullock Surprise Fans at \u2018Practical Magic\u2019 Screening in Hollywood Forever Cemetery for L.A.\u2019s Cinespia",
-        "link": "https://variety.com/2026/film/news/nicole-kidman-sandra-bullock-practical-magic-cinespia-screening-1236825330/"
+        "title": "\u2018Spider-Man: Brand New Day\u2019 and \u2018The Odyssey\u2019 Power Biggest Collective Weekend in Box Office History With $430 Million",
+        "link": "https://variety.com/2026/film/box-office/the-odyssey-spiderman-biggest-box-office-weekend-history-1236825132/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018Spider-Man: Brand New Day\u2019 Soars to $355M for Second-Biggest Opening Weekend Ever",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-opening-weekend-second-1236661703/"
+        "title": "Nancy Guthrie Case Haunted by Sheriff\u2019s Department\u2019s Possible Mistakes",
+        "link": "https://www.hollywoodreporter.com/news/general-news/nancy-guthrie-case-haunted-possible-mistakes-sheriff-1236661720/"
       },
       {
-        "title": "\u2018The Days Off\u2019 Is a \u201cLove Letter to That Internet That No Longer Quite Exists\u201d (Locarno Trailer)",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/locarno-2026-the-days-off-film-trailer-los-dias-libres-web-1236659990/"
+        "title": "Sally Field Won Her First Emmy for 1976\u2019s \u2018Sybil\u2019",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/sally-field-first-emmy-sybil-1236661223/"
       },
       {
-        "title": "Sandra Bullock and Nicole Kidman Make Surprise Appearance at \u2018Practical Magic\u2019 Screening",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/sandra-bullock-nicole-kidman-practical-magic-appearance-1236661508/"
+        "title": "\u2018Hadestown\u2019 Parts Ways With Actor Geno Segers After Online Outrage",
+        "link": "https://www.hollywoodreporter.com/lifestyle/arts/hadestown-parts-ways-geno-segers-online-outrage-casting-1236661742/"
       },
       {
-        "title": "\u2018Wonder Man\u2019 Star Yahya Abdul-Mateen II Reacts to Marvel Series Cancellation: \u201cSee You at the Emmys\u201d",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/wonder-man-canceled-yahya-abdul-mateen-ii-reacts-marvel-1236661484/"
+        "title": "\u2018Gabby Dollhouse\u2019 Casts Gabby\u2019s Little Sister for Netflix Series (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/gabby-dollhouse-casts-gabby-sister-doozie-netflix-1236661729/"
       }
     ],
     "larb": [],
