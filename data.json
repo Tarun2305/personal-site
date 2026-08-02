@@ -1,7 +1,11 @@
 {
-  "last_updated": "2026-08-02 18:59 UTC",
+  "last_updated": "2026-08-02 21:48 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+        "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
         "link": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss"
@@ -13,47 +17,43 @@
       {
         "title": "Prolonged drought could cause shortage of some foods, farmers' union head says",
         "link": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths ",
-        "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Two helicopters collide mid-air while tackling wildfires in Greece",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss"
+        "title": "Local volunteers help rebuild destroyed Christian monastery in Lebanon",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/local-volunteers-help-rebuild-destroyed-christian-monastery-in-lebanon?traffic_source=rss"
       },
       {
-        "title": "Ukrainian drone attacks kill eight in response to Russian missiles",
-        "link": "https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss"
+        "title": "UK PM Burnham vows to be \u2018relentless\u2019 on Channel migrant crossings",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/uk-pm-burnham-vows-to-be-relentless-on-channel-migrant-crossings?traffic_source=rss"
       },
       {
-        "title": "\u2018Iron fist\u2019 doesn\u2019t work with Iran: Former US hostage in Tehran",
-        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/2/iron-fist-doesnt-work-with-iran-former-us-hostage-in-tehran?traffic_source=rss"
+        "title": "Venezuela and the Dominican Republic say they will work to restore ties",
+        "link": "https://www.aljazeera.com/news/2026/8/2/venezuela-and-the-dominican-republic-say-they-will-work-to-restore-ties?traffic_source=rss"
       },
       {
-        "title": "Republican senator says former son-in-law should resign from US Congress",
-        "link": "https://www.aljazeera.com/news/2026/8/2/republican-senator-says-former-son-in-law-should-resign-from-us-congress?traffic_source=rss"
+        "title": "Is Washington dictating the agenda for talks in Venezuela?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/8/2/is-washington-dictating-the-agenda-for-talks-in-venezuela?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "'Missed opportunity' for Hull and Woad for maiden major win",
+        "link": "https://www.skysports.com/golf/news/12040/13569222/charley-hull-and-lottie-woad-will-see-aig-womens-open-final-round-as-missed-opportunity-in-bid-for-maiden-major-title"
+      },
+      {
         "title": "Blue Bolt confirms superiority over Precise at Deauville",
         "link": "https://www.skysports.com/racing/news/12040/13569200/prix-rothschild-blue-bolt-confirms-superiority-over-precise-in-deauville-group-1"
       },
       {
+        "title": "Highlights: Kuwaki wins first major title in tense play-off",
+        "link": "https://www.skysports.com/watch/video/13569261/aig-womens-open-day-four-highlights"
+      },
+      {
         "title": "Dunkley leads Trent Rockets past SunRisers Leeds as MI London remain winless",
         "link": "https://www.skysports.com/cricket/news/12040/13569158/the-hundred-sophia-dunkley-fifty-fires-trent-rockets-past-sunrisers-leeds-despite-annabel-sutherland-heroics"
-      },
-      {
-        "title": "Isak and Wirtz start for Liverpool vs Leeds LIVE!",
-        "link": "https://www.skysports.com/football/liverpool-vs-leeds-united/live/554987"
-      },
-      {
-        "title": "AIG Women's Open LIVE! Kuwaki pips Henseleit to major after play-off drama",
-        "link": "https://www.skysports.com/golf/live-blog/12040/13568986/aig-womens-open-live-latest-scores-updates-highlights-from-final-round-as-lottie-woad-charley-hull-chase-major-win"
       }
     ],
     "pitchfork": [],
@@ -171,23 +171,31 @@
     ],
     "variety": [
       {
+        "title": "Ariana Grande to Take \u2018Step Back From Visibility\u2019 After Tour Ends Amid \u2018Public Scrutiny,\u2019 Drops Out of \u2018Sunday in the Park With George\u2019 Musical",
+        "link": "https://variety.com/2026/music/news/ariana-grande-step-back-public-scrutiny-sunday-in-the-park-1236826037/"
+      },
+      {
+        "title": "Morgan Wallen Returns to No. 1, Charli xcx Earns Top Three Debut on Albums Chart",
+        "link": "https://variety.com/2026/music/news/morgan-wallen-returns-no-1-charli-xcx-top-three-chart-1236826032/"
+      },
+      {
         "title": "\u2018Hadestown\u2019 Parts Ways With Hades Actor Geno Segers After Online Controversy",
         "link": "https://variety.com/2026/theater/news/broadways-hadestown-geno-segers-online-controversy-1236826009/"
       },
       {
         "title": "\u2018Spider-Man: Brand New Day\u2019 Obliterates Expectations With $927 Million Global Debut",
         "link": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-global-debut-nears-1-billion-1236825975/"
-      },
-      {
-        "title": "\u2018Wonder Man\u2019 Co-Creator Says \u2018Contracts Were Signed, Schedules Were Cleared\u2019 Before Marvel Series Was Canceled: \u2018This Is Not a Marketing Stunt\u2019",
-        "link": "https://variety.com/2026/tv/news/wonder-man-canceled-co-creator-reaction-marvel-disney-1236825977/"
-      },
-      {
-        "title": "\u2018Spider-Man: Brand New Day\u2019 and \u2018The Odyssey\u2019 Power Biggest Collective Weekend in Box Office History With $430 Million",
-        "link": "https://variety.com/2026/film/box-office/the-odyssey-spiderman-biggest-box-office-weekend-history-1236825132/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "Morgan Wallen\u2019s Year-Old Album Manages to Climb Back Atop the Charts",
+        "link": "https://www.hollywoodreporter.com/music/music-industry-news/morgan-wallen-im-the-problem-number-one-year-later-1236661829/"
+      },
+      {
+        "title": "Ariana Grande to \u201cStep Back From Visibility\u201d After Tour Ends Amid \u201cOngoing Public Scrutiny\u201d",
+        "link": "https://www.hollywoodreporter.com/music/music-news/ariana-grande-step-back-from-visibility-public-scrutiny-1236661834/"
+      },
       {
         "title": "Nancy Guthrie Case Haunted by Sheriff\u2019s Department\u2019s Possible Mistakes",
         "link": "https://www.hollywoodreporter.com/news/general-news/nancy-guthrie-case-haunted-possible-mistakes-sheriff-1236661720/"
@@ -195,14 +203,6 @@
       {
         "title": "Sally Field Won Her First Emmy for 1976\u2019s \u2018Sybil\u2019",
         "link": "https://www.hollywoodreporter.com/tv/tv-features/sally-field-first-emmy-sybil-1236661223/"
-      },
-      {
-        "title": "\u2018Hadestown\u2019 Parts Ways With Actor Geno Segers After Online Outrage",
-        "link": "https://www.hollywoodreporter.com/lifestyle/arts/hadestown-parts-ways-geno-segers-online-outrage-casting-1236661742/"
-      },
-      {
-        "title": "\u2018Gabby Dollhouse\u2019 Casts Gabby\u2019s Little Sister for Netflix Series (Exclusive)",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/gabby-dollhouse-casts-gabby-sister-doozie-netflix-1236661729/"
       }
     ],
     "larb": [],
