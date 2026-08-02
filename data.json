@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02 10:28 UTC",
+  "last_updated": "2026-08-02 13:05 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,40 +7,40 @@
         "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "Continued drought could cause shortage of certain foods, head of farmers' union says",
+        "link": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "The shadowy gang recruiting teenage hitmen to kill across Europe",
         "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-        "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
-        "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss"
+        "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+        "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Residents of Spain\u2019s Ceuta shut down far-right anti-migrant rally",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/2-08-sv-ceuta-cancel-farright-protests-es?traffic_source=rss"
+        "title": "South Korea has hottest day on record amid extreme weather globally",
+        "link": "https://www.aljazeera.com/news/2026/8/2/south-korea-has-hottest-day-on-record-amid-extreme-weather-globally?traffic_source=rss"
       },
       {
-        "title": "A quiet day in Harare after Zimbabwe\u2019s shutdown call",
-        "link": "https://www.aljazeera.com/news/2026/8/2/a-quiet-day-in-harare-after-zimbabwes-shutdown-call?traffic_source=rss"
+        "title": "At least five dead, 41 missing after ferry catches fire off Indonesia",
+        "link": "https://www.aljazeera.com/news/2026/8/2/at-least-five-dead-41-missing-after-ferry-catches-fire-off-indonesia?traffic_source=rss"
       },
       {
-        "title": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
-        "link": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss"
+        "title": "Why has EU called an emergency meeting on Spain migrant surge?",
+        "link": "https://www.aljazeera.com/news/2026/8/2/why-has-the-eu-called-an-emergency-meeting-on-spain-migrants-surge?traffic_source=rss"
       },
       {
-        "title": "How Davutoglu helped shape Erdogan\u2019s Turkiye but failed to challenge it",
-        "link": "https://www.aljazeera.com/features/2026/8/2/how-davutoglu-helped-shape-erdogans-turkiye-but-failed-to-challenge-it?traffic_source=rss"
+        "title": "Spanish Ceuta witnesses a deadly \u2018game\u2019 for Moroccan migrants",
+        "link": "https://www.aljazeera.com/features/2026/8/2/spanish-ceuta-witnesses-a-deadly-game-for-moroccan-migrants?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "AIG Women's Open LIVE! Have your say on winner as early starters chase Noh",
+        "title": "AIG Women's Open LIVE! Korda with strong start as chasers eye leader Noh",
         "link": "https://www.skysports.com/golf/live-blog/12040/13568986/aig-womens-open-live-latest-scores-updates-highlights-from-final-round-as-lottie-woad-charley-hull-chase-major-win"
       },
       {
