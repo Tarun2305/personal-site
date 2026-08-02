@@ -1,40 +1,40 @@
 {
-  "last_updated": "2026-08-02 02:05 UTC",
+  "last_updated": "2026-08-02 05:49 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-        "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss"
+        "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+        "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss"
+        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+        "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
         "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Emotional Kerr delivers moment Glasgow 2026 has waited for with men's mile gold",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/ckge35ywjvyo?at_medium=RSS&at_campaign=rss"
+        "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Gunman kills several at Idaho fast-food restaurant",
-        "link": "https://www.aljazeera.com/news/2026/8/2/gunman-kills-several-at-idaho-fast-food-restaurant?traffic_source=rss"
+        "title": "At least three dead in Idaho shopping mall mass shooting",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/at-least-three-dead-in-idaho-shopping-mall-mass-shooting?traffic_source=rss"
       },
       {
-        "title": "Hungary plans to shut down only nuclear power plant amid drought",
-        "link": "https://www.aljazeera.com/news/2026/8/2/hungary-plans-to-shut-down-only-nuclear-power-plant-amid-drought?traffic_source=rss"
+        "title": "Gaza students overcome Israel\u2019s genocide to celebrate Tawjihi results",
+        "link": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Tehran warns of \u2018decisive\u2019 response to any US \u2018aggression\u2019",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss"
+        "title": "Three dead including female bomber in Moscow restaurant attack",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack?traffic_source=rss"
       },
       {
-        "title": "Singapore bans UK band Massive Attack over Palestinian flag",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/singapore-bans-uk-band-massive-attack-over-palestinian-flag?traffic_source=rss"
+        "title": "Why isn\u2019t anyone challenging Infantino for FIFA\u2019s top job?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/why-isnt-anyone-challenging-infantino-for-fifas-top-job?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -171,6 +171,10 @@
     ],
     "variety": [
       {
+        "title": "Toymaker Hasbro Reimagines Most Iconic Board Games With Spider-Man-Themed Graphics and Gameplay",
+        "link": "https://variety.com/2026/shopping/news/best-spider-man-board-games-hasbro-monopoly-buy-online-1236825826/"
+      },
+      {
         "title": "\u2018It: Welcome to Derry\u2019 Creator Says Season 2 Will \u2018Not\u2019 Shy Away From the \u2018Horrible\u2019 Cultural Themes of the 1930s: It\u2019s the \u2018Heart of Our Story\u2019",
         "link": "https://variety.com/2026/tv/news/it-welcome-to-derry-season-2-update-cultural-themes-1930s-1236825738/"
       },
@@ -181,13 +185,13 @@
       {
         "title": "Vincent Pastore, Who Played \u2018Big Pussy\u2019 on \u2018The Sopranos\u2019, Dies at 80",
         "link": "https://variety.com/2026/tv/news/vincent-pastore-dead-big-pussy-the-sopranos-hbo-1236825791/"
-      },
-      {
-        "title": "Lollapalooza Shortens Wolf Alice and Cortis Sets, Delays Several More Amid Intense Flooding",
-        "link": "https://variety.com/2026/music/news/lollapalooza-delays-flooding-wolf-alice-cortis-1236825734/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "Sandra Bullock and Nicole Kidman Make Surprise Appearance at \u2018Practical Magic\u2019 Screening",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/sandra-bullock-nicole-kidman-practical-magic-appearance-1236661508/"
+      },
       {
         "title": "\u2018Wonder Man\u2019 Star Yahya Abdul-Mateen II Reacts to Marvel Series Cancellation: \u201cSee You at the Emmys\u201d",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/wonder-man-canceled-yahya-abdul-mateen-ii-reacts-marvel-1236661484/"
@@ -199,10 +203,6 @@
       {
         "title": "K-pop Girl Group IVE is Ready for Their Next Big Adventure",
         "link": "https://www.hollywoodreporter.com/music/music-features/k-pop-girl-group-ive-show-what-i-am-tour-interview-1236661491/"
-      },
-      {
-        "title": "Scott Hylands, Star of TV\u2019s \u2018Night Heat\u2019 on Both Sides of the Border, Dies at 83",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/scott-hylands-dead-night-heat-canadian-actor-1236661528/"
       }
     ],
     "larb": [],
