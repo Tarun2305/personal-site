@@ -1,9 +1,13 @@
 {
-  "last_updated": "2026-08-03 17:05 UTC",
+  "last_updated": "2026-08-03 19:22 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "English FA set to withdraw support for Fifa president Infantino",
+        "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+        "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Infantino opponents threaten 'non co-operation' with Fifa",
         "link": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -13,47 +17,43 @@
       {
         "title": "France hits out at Reform UK plan to return migrants using Navy",
         "link": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Inside city gripped by deadly protests in Pakistan-administered Kashmir",
-        "link": "https://www.bbc.co.uk/news/videos/cm2gwmy9gppo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Uncertainty on Iranians\u2019 minds as Trump fluctuates on war and talk",
-        "link": "https://www.aljazeera.com/news/2026/8/3/uncertainty-on-iranians-minds-as-trump-fluctuates-on-war-and-talk?traffic_source=rss"
+        "title": "US announces first two deaths from cyclospora outbreak",
+        "link": "https://www.aljazeera.com/news/2026/8/3/us-announces-first-two-deaths-from-cyclospora-outbreak?traffic_source=rss"
       },
       {
-        "title": "Inside the Palestine Action protests",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/inside-the-palestine-action-protests?traffic_source=rss"
+        "title": "Can Netanyahu survive Israel\u2019s most consequential election?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss"
       },
       {
-        "title": "Iraqi Kurdish regional leader meets Syrian president in Damascus",
-        "link": "https://www.aljazeera.com/news/2026/8/3/iraqi-kurdish-regional-leader-meets-syrian-president-in-damascus?traffic_source=rss"
+        "title": "Israel top court hears challenge to UNRWA ban",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/israel-top-court-hears-challenge-to-unrwa-ban?traffic_source=rss"
       },
       {
-        "title": "Romanian navy blasts riverbed to protect nuclear plant",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/romanian-navy-blasts-riverbed-to-protect-nuclear-plant?traffic_source=rss"
+        "title": "Drone slams into Russian beach, killing at least 7 people",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/drone-slams-into-russian-beach-killing-at-least-7-people?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Hearn wants \u00a31m per-year deal for Pollock from Northampton",
-        "link": "https://www.skysports.com/rugby-union/news/12040/13569479/henry-pollock-eddie-hearn-says-england-star-is-worth-1m-per-year-deal-amid-contract-talks-with-northampton"
+        "title": "Serena to resume comeback alongside sister Venus in Cincinnati",
+        "link": "https://www.skysports.com/tennis/news/12040/13569496/serena-williams-given-wild-card-for-cincinnati-open-womens-doubles-alongside-sister-venus-as-comeback-continues"
       },
       {
-        "title": "Maguire handed Solheim Cup return as Europe's captain's picks revealed",
-        "link": "https://www.skysports.com/golf/news/12040/13569331/solheim-cup-2026-leona-maguire-handed-team-europe-captains-pick-as-anna-nordqvist-adds-three-rookies-to-her-line-up"
+        "title": "Graham stars as Welsh Fire upset Southern Brave in last-ball thriller ",
+        "link": "https://www.skysports.com/cricket/news/12040/13569492/the-hundred-welsh-fire-upset-southern-brave-in-last-ball-thriller-as-heather-graham-stars-with-bat-and-ball"
       },
       {
-        "title": "Nordqvist reveals 'difficult conversations' with players missing out on Solheim Cup",
-        "link": "https://www.skysports.com/golf/live-blog/12040/13569335/solheim-cup-2026-team-europe-captains-picks-live-anna-nordqvist-names-players-to-complete-line-up-to-face-team-usa"
+        "title": "Eala beats Pegula at DC Open to claim first WTA Tour title",
+        "link": "https://www.skysports.com/tennis/news/12040/13569516/alexandra-eala-rising-filipina-star-beats-jessica-pegula-in-dc-open-final-to-claim-first-wta-tour-title"
       },
       {
-        "title": "All you need to know about the 2026 Solheim Cup",
-        "link": "https://www.skysports.com/golf/news/12040/13313909/solheim-cup-2026-teams-captains-venue-format-and-how-players-will-qualify-for-europe-vs-usa-in-the-netherlands"
+        "title": "Raducanu to miss US Open ",
+        "link": "https://www.skysports.com/tennis/news/12040/13569501/emma-raducanu-former-champion-to-miss-2026-us-open-with-stress-fracture-in-right-leg-as-injury-woes-continue"
       }
     ],
     "pitchfork": [],
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018Teenage Sex and Death at Camp Miasma\u2019 Review: Jane Schoenbrun\u2019s Affectionate Ode to Slashers, Orgasms, and Gillian Anderson",
+        "link": "https://www.indiewire.com/criticism/movies/teenage-sex-and-death-at-camp-miasma-review-jane-schoenbrun-1235193695/"
+      },
+      {
+        "title": "At 66, Gregg Araki Is Still Indie Film\u2019s Youthful Rebel",
+        "link": "https://www.indiewire.com/features/podcast/gregg-araki-i-want-your-sex-filmmaker-toolkit-1235207180/"
+      },
+      {
         "title": "\u2018Once Upon a Time in Harlem,\u2019 \u2018Rehearsals for a Revolution,\u2019 \u2018Barbara Forever\u2019 Receive 2026 Albie Awards",
         "link": "https://www.indiewire.com/awards/results/maysles-center-albie-awards-2026-winners-1235208175/"
       },
       {
         "title": "\u2018Bad Lieutenant: Tokyo\u2019 First Look: Takashi Miike Returns with a Japanese Neo-Noir Saga",
         "link": "https://www.indiewire.com/news/obituary/bad-lieutenant-tokyo-first-look-images-takashi-miike-1235208040/"
-      },
-      {
-        "title": "\u2018Der Fan\u2019 Trailer: The 1982 Cult German Cannibal Horror Movie Gets Its First-Ever U.S. Theatrical Release",
-        "link": "https://www.indiewire.com/news/trailers/der-fan-trailer-1982-german-cult-horror-movie-restored-1235208168/"
-      },
-      {
-        "title": "Eli Roth Reveals How He Made the \u2018Saving Private Ryan\u2019 of Splatter Movies with \u2018Ice Cream Man\u2019",
-        "link": "https://www.indiewire.com/features/interviews/eli-roth-ice-cream-man-massacre-scene-spielberg-influence-1235207522/"
       }
     ],
     "variety": [
       {
-        "title": "Spain\u2019s RTVE Joins Netflix, Universal on F\u00e9lix Viscarret\u2019s ETA Drama \u2018Blanco\u2019",
-        "link": "https://variety.com/2026/film/markets-festivals/rtve-netflix-universal-felix-viscarret-blanco-1236826445/"
+        "title": "Jimmy Fallon is Nearly Last Late-Night Host Standing Amid Summer Hiatus",
+        "link": "https://variety.com/2026/tv/news/jimmy-fallon-last-late-night-host-standing-summer-hiatus-1236826644/"
       },
       {
-        "title": "\u2018Movies Aren\u2019t Dead After All\u2019: Sony Pictures Boss Tom Rothman on Historic \u2018Spider-Man\u2019 Box Office and Losing Tarantino\u2019s Cliff Booth Sequel to Netflix",
-        "link": "https://variety.com/2026/film/news/sony-tom-rothman-spider-man-brand-new-day-box-office-record-1236826285/"
+        "title": "This \u2018Spider-Man\u2019 Art Book Explores the Making of \u2018Brand New Day,\u2019 From Early Concept Sketches to Final Production Designs",
+        "link": "https://variety.com/2026/shopping/news/spider-man-brand-new-day-art-book-sketches-1236826647/"
       },
       {
-        "title": "CBS Bets Tony Dokoupil\u2019s \u2018Big Question\u2019 Segment Makes Sizable Difference in Evening-News Battle",
-        "link": "https://variety.com/2026/tv/news/tony-dokoupil-big-question-cbs-evening-news-ratings-1236826124/"
+        "title": "Costume Designer Arianne Phillips on How Madonna Inspired \u2018I Want Your Sex,\u2019 and Finding Olivia Wilde\u2019s Frustrated Artist Look for \u2018The Invite\u2019",
+        "link": "https://variety.com/2026/artisans/news/costumes-i-want-your-sex-the-invite-1236824429/"
       },
       {
-        "title": "\u2018Sex Lives of College Girls\u2019 Star Gavin Leatherwood Joins Nina Dobrev in Rom-Com \u2018It Happened One Summer,\u2019 Adapted From BookTok Hit",
-        "link": "https://variety.com/2026/film/global/gavin-leatherwood-nina-dobrev-rom-com-happened-one-summer-1236826343/"
+        "title": "Every \u2018Spider-Man\u2019 Movie Ranked From Worst to Best",
+        "link": "https://variety.com/lists/spider-man-movies-ranked-best-worst/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Jaafar Jackson Set to Join Will Smith in Action Thriller \u2018Supermax\u2019",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/jaafar-jackson-action-thriller-supermax-1236663127/"
+        "title": "\u2018DINKS,\u2019 Improvised Multi-Cam Comedy From Marta Kauffman, a Go at Prime Video",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/amazon-dinks-comedy-marta-kauffman-1236663226/"
       },
       {
-        "title": "\u2018Practical Magic 2\u2019 Inspires Official Merchandise From Charlotte Tilbury, Wayfair and More (Exclusive)",
-        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/practical-magic-2-movie-merch-fashion-home-beauty-products-1236662368/"
+        "title": "Michelle Pfeiffer, Elle Fanning and Rhea Seehorn Break Down Their Emmy-Nominated Performances at THR\u2019s Women of Apple TV Event",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/michelle-pfeiffer-elle-fanning-emmys-women-of-apple-tv-1236662305/"
       },
       {
-        "title": "Gavin Leatherwood Joins Nina Dobrev in Film Adaptation of BookTok Hit \u2018It Happened One Summer\u2019",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/gavin-leatherwood-nina-dobrev-it-happened-one-summer-film-1236663112/"
+        "title": "How Top Hollywood Companies Toasted Next Generation on National Intern Day (Sans Alcohol)",
+        "link": "https://www.hollywoodreporter.com/business/business-news/top-hollywood-companies-national-intern-day-1236661159/"
       },
       {
-        "title": "\u2018Scrabble,\u2019 \u2018Trivial Pursuit\u2019 and \u2018Police 24/7\u2019 Renewed at The CW",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/cw-renews-scrabble-trivial-pursuit-police-24-7-1236663078/"
+        "title": "5 Reasons \u2018Spider-Man: Brand New Day\u2019 Crushed Superhero Fatigue",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-superhero-fatigue-1236663071/"
       }
     ],
     "larb": [],
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "Less Protein, Not More, May Lead to Healthier Aging",
+        "link": "https://nautil.us/less-protein-not-more-may-lead-to-healthier-aging-1283315/"
+      },
+      {
         "title": "How Dreaming Drains Your Energy",
         "link": "https://nautil.us/how-dreaming-drains-your-energy-1283306/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "How Invasive Rats Mess with Coral Reef Food Webs",
         "link": "https://nautil.us/how-invasive-rats-mess-with-coral-reef-food-webs-1283294/"
-      },
-      {
-        "title": "You\u2019re Carrying \u201cGhost DNA\u201d From Extinct Hominins",
-        "link": "https://nautil.us/youre-carrying-ghost-dna-from-extinct-hominins-1283291/"
       }
     ],
     "worksinprogress": [],
