@@ -1,44 +1,48 @@
 {
-  "last_updated": "2026-08-02 21:48 UTC",
+  "last_updated": "2026-08-03 02:07 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Trump suggests new talks with Iran to begin on Monday",
+        "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
         "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny  ",
+        "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
         "link": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Man admits transporting Scottish woman's body in suitcase, Greek police say",
-        "link": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Prolonged drought could cause shortage of some foods, farmers' union head says",
-        "link": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Local volunteers help rebuild destroyed Christian monastery in Lebanon",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/local-volunteers-help-rebuild-destroyed-christian-monastery-in-lebanon?traffic_source=rss"
+        "title": "Japan and US confirm rare joint intervention to prop up yen",
+        "link": "https://www.aljazeera.com/economy/2026/8/3/japan-and-us-confirm-rare-joint-intervention-to-prop-up-yen?traffic_source=rss"
       },
       {
-        "title": "UK PM Burnham vows to be \u2018relentless\u2019 on Channel migrant crossings",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/uk-pm-burnham-vows-to-be-relentless-on-channel-migrant-crossings?traffic_source=rss"
+        "title": "Suicide bombing kills at least 14 people in Pakistan\u2019s Swat Valley",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/suicide-bombing-kills-at-least-14-people-in-pakistans-swat-valley?traffic_source=rss"
       },
       {
-        "title": "Venezuela and the Dominican Republic say they will work to restore ties",
-        "link": "https://www.aljazeera.com/news/2026/8/2/venezuela-and-the-dominican-republic-say-they-will-work-to-restore-ties?traffic_source=rss"
+        "title": "Iran war live: Trump says talks to resume; Tehran urges US to honour MoU",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss"
       },
       {
-        "title": "Is Washington dictating the agenda for talks in Venezuela?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/8/2/is-washington-dictating-the-agenda-for-talks-in-venezuela?traffic_source=rss"
+        "title": "Trump says new round of Iran talks will begin Monday",
+        "link": "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "Liverpool collapse as Leeds come from 2-0 down to win",
+        "link": "https://www.skysports.com/football/liverpool-vs-leeds-united/report/554987"
+      },
       {
         "title": "'Missed opportunity' for Hull and Woad for maiden major win",
         "link": "https://www.skysports.com/golf/news/12040/13569222/charley-hull-and-lottie-woad-will-see-aig-womens-open-final-round-as-missed-opportunity-in-bid-for-maiden-major-title"
@@ -50,10 +54,6 @@
       {
         "title": "Highlights: Kuwaki wins first major title in tense play-off",
         "link": "https://www.skysports.com/watch/video/13569261/aig-womens-open-day-four-highlights"
-      },
-      {
-        "title": "Dunkley leads Trent Rockets past SunRisers Leeds as MI London remain winless",
-        "link": "https://www.skysports.com/cricket/news/12040/13569158/the-hundred-sophia-dunkley-fifty-fires-trent-rockets-past-sunrisers-leeds-despite-annabel-sutherland-heroics"
       }
     ],
     "pitchfork": [],
@@ -171,20 +171,20 @@
     ],
     "variety": [
       {
-        "title": "Ariana Grande to Take \u2018Step Back From Visibility\u2019 After Tour Ends Amid \u2018Public Scrutiny,\u2019 Drops Out of \u2018Sunday in the Park With George\u2019 Musical",
-        "link": "https://variety.com/2026/music/news/ariana-grande-step-back-public-scrutiny-sunday-in-the-park-1236826037/"
+        "title": "\u2018House of the Dragon\u2019: Gayle Rankin on That \u2018F \u2014 ed Up\u2019 Aemond-Alys-Alicent Scene, \u2018Unbearable\u2019 Family Dinner and Dragon Egg Plans",
+        "link": "https://variety.com/2026/tv/news/house-of-the-dragon-aemond-alys-rivers-alicent-sex-eggs-1236824981/"
       },
       {
-        "title": "Morgan Wallen Returns to No. 1, Charli xcx Earns Top Three Debut on Albums Chart",
-        "link": "https://variety.com/2026/music/news/morgan-wallen-returns-no-1-charli-xcx-top-three-chart-1236826032/"
+        "title": "\u2018Jimmy\u2019 Review: Woozily Seductive Mood Piece Wanders Europe in Pursuit of James Baldwin\u2019s Spirit",
+        "link": "https://variety.com/2026/film/reviews/jimmy-review-1236826059/"
       },
       {
-        "title": "\u2018Hadestown\u2019 Parts Ways With Hades Actor Geno Segers After Online Controversy",
-        "link": "https://variety.com/2026/theater/news/broadways-hadestown-geno-segers-online-controversy-1236826009/"
+        "title": "Phil Collins Says He Almost Died in 2024 From Alcohol Abuse: \u2018People Were Coming to Say Goodbye\u2019",
+        "link": "https://variety.com/2026/music/news/phil-collins-almost-died-2024-alcohol-abuse-1236826098/"
       },
       {
-        "title": "\u2018Spider-Man: Brand New Day\u2019 Obliterates Expectations With $927 Million Global Debut",
-        "link": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-global-debut-nears-1-billion-1236825975/"
+        "title": "Pima County Sheriff\u2019s Department Made Several Mistakes During Search for Nancy Guthrie, New Report Claims",
+        "link": "https://variety.com/2026/tv/news/pima-county-sheriff-department-mistakes-nancy-guthrie-1236826065/"
       }
     ],
     "hollywoodreporter": [
