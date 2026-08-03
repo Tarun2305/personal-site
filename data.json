@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-08-03 06:13 UTC",
+  "last_updated": "2026-08-03 12:15 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Trump suggests new talks with Iran to begin on Monday",
-        "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss"
+        "title": "English FA set to withdraw support for Fifa president Infantino",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "How parents and pupils took on 'cruel', 'authoritarian' schools - and won",
-        "link": "https://www.bbc.co.uk/news/articles/cgje8d1p419o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Woman has pioneering womb surgery to fix 'miracle' baby with intestines outside its body",
+        "title": "Mother has ground-breaking surgery while pregnant to treat baby",
         "link": "https://www.bbc.co.uk/news/articles/c86ngegz9qno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
-        "link": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss"
+        "title": "Reform UK's Richard Tice investigated by parliamentary standards watchdog",
+        "link": "https://www.bbc.co.uk/news/articles/ceqe24qjgzdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "BBC reports from inside city gripped by deadly protests in Pakistan-administered Kashmir",
+        "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Grid failure plunges Cuba into nationwide blackout",
-        "link": "https://www.aljazeera.com/news/2026/8/3/grid-failure-plunges-cuba-into-nationwide-blackout?traffic_source=rss"
+        "title": "Pakistan-administered Kashmir elections and protests \u2013 all you need to know",
+        "link": "https://www.aljazeera.com/news/2026/8/3/pakistan-administered-kashmir-elections-and-protests-all-you-need-to-know?traffic_source=rss"
       },
       {
-        "title": "Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations",
-        "link": "https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss"
+        "title": "Ukraine strikes Russia\u2019s biggest retailer again",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-ukraine-strikes-wildberies-russia?traffic_source=rss"
       },
       {
-        "title": "Trump pauses \u2018massive attack\u2019 on Iran, says new talks to begin",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss"
+        "title": "Israel defies Trump\u2019s peace plan as it escalates deadly attacks on Gaza",
+        "link": "https://www.aljazeera.com/news/2026/8/3/israel-defies-trumps-peace-plan-as-it-escalates-deadly-attacks-on-gaza?traffic_source=rss"
       },
       {
-        "title": "Brazil\u2019s Lula launches reelection bid amid foreign interference concerns",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/brazils-lula-launches-reelection-bid-amid-foreign-interference-concerns?traffic_source=rss"
+        "title": "US cricket player Reddy receives eight-year ban for match-fixing",
+        "link": "https://www.aljazeera.com/sports/2026/8/3/us-cricket-player-reddy-receives-eight-year-ban-for-match-fixing?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Pegula leads Eala as rain suspends DC Open final",
-        "link": "https://www.skysports.com/tennis/news/12040/13569195/jessica-pegula-leads-alexandra-eala-in-rain-affected-dc-open-final-as-kristina-liutova-16-wins-memphis-classic"
+        "title": "Can Mount be the third midfielder Man Utd are looking for?",
+        "link": "https://www.skysports.com/football/news/12040/13569342/mason-mount-can-manchester-uniteds-pre-season-revelation-be-a-big-part-of-michael-carricks-midfield-overhaul"
       },
       {
-        "title": "Will Verstappen, Alonso trigger F1 'silly season' chaos?",
-        "link": "https://www.skysports.com/f1/news/12040/13568774/how-max-verstappen-and-fernando-alonso-could-trigger-formula-1-silly-season-chaos-if-either-departs-current-seat"
+        "title": "Newcastle reject Guimaraes bid from Arsenal",
+        "link": "https://www.skysports.com/football/news/12040/13557961/bruno-guimaraes-arsenal-bid-rejected-by-newcastle-with-magpies-determined-to-keep-captain-and-brazil-international-midfielder"
       },
       {
-        "title": "Today on Sky Sports Racing: Dark Cloud Rising and Lord Roxby clash at Ripon ",
-        "link": "https://www.skysports.com/racing/news/12040/13569078/today-on-sky-sports-racing-ripon-and-windsor-feature-live-on-monday"
+        "title": "USA cricketer Akhilesh Reddy given eight-year ban under anti-corruption code",
+        "link": "https://www.skysports.com/cricket/news/12040/13569369/usa-cricketer-bodugum-akhilesh-reddy-banned-for-eight-years-by-icc-tribunal-for-anti-corruption-rule-violations"
       },
       {
-        "title": "Liverpool collapse as Leeds come from 2-0 down to win",
-        "link": "https://www.skysports.com/football/liverpool-vs-leeds-united/report/554987"
+        "title": "Tzolis unfazed by Vini Jr rumours as fitness champion settles into Arsenal",
+        "link": "https://www.skysports.com/football/news/12040/13568811/christos-tzolis-interview-new-arsenal-signing-discusses-vinicius-jr-rumours-winning-the-pre-season-fitness-tests-and-leonidas-nickname"
       }
     ],
     "pitchfork": [],
@@ -116,6 +116,10 @@
     ],
     "mubi": [
       {
+        "title": "What Does a Christopher Nolan Movie Want?",
+        "link": "https://mubi.com/en/notebook/posts/what-does-a-christopher-nolan-movie-want"
+      },
+      {
         "title": "MUBI Podcast: Voci Italiane Contemporanee | Season 6",
         "link": "https://mubi.com/en/notebook/posts/mubi-podcast-voci-italiane-contemporanee-season-6"
       },
@@ -126,10 +130,6 @@
       {
         "title": "An Obligation to Look: Cinema in the Aftermath of War",
         "link": "https://mubi.com/en/notebook/posts/an-obligation-to-look-cinema-in-the-aftermath-of-war"
-      },
-      {
-        "title": "\u201cThe Dziga Vertov Group Rises Again, and It Needs You\u201d: Jean-Pierre Gorin in New York",
-        "link": "https://mubi.com/en/notebook/posts/the-dziga-vertov-group-rises-again-and-it-needs-you-jean-pierre-gorin-in-new-york"
       }
     ],
     "reverseshot": [],
@@ -171,42 +171,50 @@
     ],
     "variety": [
       {
-        "title": "China Box Office: \u2018Spider-Man: Brand New Day\u2019 Swings to Massive $121 Million Five-Day Opening",
-        "link": "https://variety.com/2026/film/box-office/china-box-office-spider-man-brand-new-day-121-million-1236826171/"
+        "title": "CBS News Correspondent Trevor Phillips Says Editor-in-Chief Bari Weiss: \u2018Will Either Change the World or Crash and Burn\u2019",
+        "link": "https://variety.com/2026/tv/global/cbs-news-trevor-phillips-bari-weiss-change-the-world-1236826236/"
       },
       {
-        "title": "Imtiaz Ali, Anurag Kashyap Team to Present Coming-of-Age Film \u2018Bobby Beauty Parlour\u2019 (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/news/imtiaz-ali-anurag-kashyap-bobby-beauty-parlour-1236825106/"
+        "title": "\u2018Peaky Blinders\u2019 Helps U.K. Region Land Official Production Hub Status From British Film Commission",
+        "link": "https://variety.com/2026/tv/global/peaky-blinders-uk-west-midlands-official-production-hub-1236826227/"
       },
       {
-        "title": "\u2018House of the Dragon\u2019: Gayle Rankin on That \u2018F \u2014 ed Up\u2019 Aemond-Alys-Alicent Scene, \u2018Unbearable\u2019 Family Dinner and Dragon Egg Plans",
-        "link": "https://variety.com/2026/tv/news/house-of-the-dragon-aemond-alys-rivers-alicent-sex-eggs-1236824981/"
+        "title": "\u2018Sunday in the Park with George\u2019 Producers Confirm Summer 2027 Show Will Go On \u2018As Planned\u2019 After Ariana Grande Exits",
+        "link": "https://variety.com/2026/theater/global/sunday-in-the-park-with-george-summer-2027-launch-1236826224/"
       },
       {
-        "title": "\u2018Jimmy\u2019 Review: Woozily Seductive Mood Piece Wanders Europe in Pursuit of James Baldwin\u2019s Spirit",
-        "link": "https://variety.com/2026/film/reviews/jimmy-review-1236826059/"
+        "title": "Zee Shareholders Approve $330 Million Capital Raise Before Indian Regulator Bars Company From Markets",
+        "link": "https://variety.com/2026/tv/news/zee-shareholders-approve-fund-raise-sebi-market-ban-1236826217/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "John Oliver Says Taco Bell Has the Moral High Ground Over Trump Administration Amid \u201cExplosive Diarrhea\u201d Parasite Crisis",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/john-oliver-parasite-outbreak-trump-kennedy-1236662384/"
+        "title": "Christopher Nolan China Interview Goes Viral Over Frank Views on Critics, Christian Themes in \u2018The Odyssey,\u2019 Being a \u201cBard for a Civilization at Dusk\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/christopher-nolan-china-interview-zhong-shu-the-odyssey-1236662897/"
       },
       {
-        "title": "Morgan Wallen\u2019s Year-Old Album Manages to Climb Back Atop the Charts",
-        "link": "https://www.hollywoodreporter.com/music/music-industry-news/morgan-wallen-im-the-problem-number-one-year-later-1236661829/"
+        "title": "Sarajevo Unveils Open Air Program, Including Diego Luna\u2019s \u2018Ashes,\u2019 \u2018Minotaur\u2019 and \u2018No Good Men\u2019",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/sarajevo-open-air-programme-ashes-minotaur-fatherland-film-1236662895/"
       },
       {
-        "title": "Ariana Grande to \u201cStep Back From Visibility\u201d After Tour Ends Amid \u201cOngoing Public Scrutiny\u201d",
-        "link": "https://www.hollywoodreporter.com/music/music-news/ariana-grande-step-back-from-visibility-public-scrutiny-1236661834/"
+        "title": "In \u2018Donkey Princess,\u2019 a Young Royal Travels Through Worlds \u2013 and Film Genres \u2013 in Search of Love (Exclusive Trailer)",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/donkey-princess-film-trailer-locarno-leon-cocina-fantasy-1236661413/"
       },
       {
-        "title": "Nancy Guthrie Case Haunted by Sheriff\u2019s Department\u2019s Possible Mistakes",
-        "link": "https://www.hollywoodreporter.com/news/general-news/nancy-guthrie-case-haunted-possible-mistakes-sheriff-1236661720/"
+        "title": "Woody Harrelson to Receive Honorary Heart of Sarajevo at Bosnian Film Festival",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/woody-harrelson-honorary-heart-of-sarajevo-film-festival-1236662872/"
       }
     ],
     "larb": [],
     "aeon": [
+      {
+        "title": "Ani Liu: eye heart womb",
+        "link": "https://aeon.co/videos/transforming-scientific-enquiry-and-human-bodies-into-visceral-art"
+      },
+      {
+        "title": "Thucydides the perspicacious",
+        "link": "https://aeon.co/essays/thucydides-account-of-war-is-as-timely-as-it-is-misunderstood"
+      },
       {
         "title": "Resist the technocrats",
         "link": "https://aeon.co/essays/are-we-witnessing-the-end-of-the-technocratic-international"
@@ -214,17 +222,17 @@
       {
         "title": "Mud below, sun above",
         "link": "https://aeon.co/videos/the-workforce-of-elderly-women-recycling-what-vietnam-throws-away"
-      },
-      {
-        "title": "How art invented humanity",
-        "link": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around"
-      },
-      {
-        "title": "How to spot pseudoscience",
-        "link": "https://aeon.co/videos/three-handy-tools-for-separating-pseudoscience-from-the-real-deal"
       }
     ],
     "psyche": [
+      {
+        "title": "Teddy",
+        "link": "https://psyche.co/videos/birth-doulas-are-almost-exclusively-female-enter-teddy"
+      },
+      {
+        "title": "Why we should learn to embrace the middlebrow",
+        "link": "https://psyche.co/ideas/why-we-should-learn-to-embrace-the-middlebrow"
+      },
       {
         "title": "Hoarding: how it impacted my life",
         "link": "https://psyche.co/videos/why-people-hoard-and-how-you-can-help-them"
@@ -232,14 +240,6 @@
       {
         "title": "In praise of not-quite-friends",
         "link": "https://psyche.co/notes-to-self/in-praise-of-the-not-quite-friends-who-make-us-smile"
-      },
-      {
-        "title": "After the performance",
-        "link": "https://psyche.co/portraits/the-nba-superstar-carmelo-anthony-on-life-after-basketball"
-      },
-      {
-        "title": "Your deepest regrets help you see yourself more clearly",
-        "link": "https://psyche.co/ideas/your-deepest-regrets-help-you-see-yourself-more-clearly"
       }
     ],
     "publicdomainreview": [
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "How Invasive Rats Mess with Coral Reef Food Webs",
+        "link": "https://nautil.us/how-invasive-rats-mess-with-coral-reef-food-webs-1283294/"
+      },
+      {
         "title": "You\u2019re Carrying \u201cGhost DNA\u201d From Extinct Hominins",
         "link": "https://nautil.us/youre-carrying-ghost-dna-from-extinct-hominins-1283291/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "Which Fish Species Will Invade the Mediterranean Next?",
         "link": "https://nautil.us/which-fish-species-will-invade-the-mediterranean-next-1283283/"
-      },
-      {
-        "title": "High Blood Pressure in Pregnant Women Is Rising Across the Country",
-        "link": "https://nautil.us/high-blood-pressure-in-pregnant-women-is-rising-across-the-country-1283279/"
       }
     ],
     "worksinprogress": [],
