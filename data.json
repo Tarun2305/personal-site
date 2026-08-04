@@ -1,25 +1,33 @@
 {
-  "last_updated": "2026-08-04 05:41 UTC",
+  "last_updated": "2026-08-04 08:26 UTC",
   "feeds": {
     "bbc": [
-      {
-        "title": "PC Harper's mother 'devastated' his killers set for early release under revised plans",
-        "link": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss"
-      },
       {
         "title": "Breast cancer checks missing most women under 50 who are at risk, says study",
         "link": "https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "EU calls for stronger borders after Ceuta migrant crossings",
-        "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss"
+        "title": "Analysis: Trump challenged by cold reality from top allies",
+        "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "There's a reason child vaccination rates are falling - and it's not social media",
         "link": "https://www.bbc.co.uk/news/articles/c0qvlw2dd0no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "EU calls for stronger borders after Ceuta migrant crossings",
+        "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
+      {
+        "title": "UFC\u2019s Allan Nascimento dead aged 34 after apparent heart attack",
+        "link": "https://www.aljazeera.com/sports/2026/8/4/ufcs-allan-nascimento-dead-aged-34-after-apparent-heart-attack?traffic_source=rss"
+      },
+      {
+        "title": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
+        "link": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss"
+      },
       {
         "title": "Why are the Washington wildfires so severe? Spokane fires explained",
         "link": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss"
@@ -27,33 +35,25 @@
       {
         "title": "Bodycam video shows firefighters battling blaze in Spokane, US",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss"
-      },
-      {
-        "title": "Colombia\u2019s Petro repeats vote fraud claims days before handing over power",
-        "link": "https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power?traffic_source=rss"
-      },
-      {
-        "title": "Pochettino agrees to coach men\u2019s US Soccer through 2030 World Cup",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/pochettino-agrees-to-coach-mens-us-soccer-through-2030-world-cup?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Perfect Nation and Avionics face off in Ffos Las feature",
-        "link": "https://www.skysports.com/racing/news/12040/13569355/today-on-sky-sports-racing-perfect-nation-and-avionics-face-off-in-ffos-las-feature-with-lingfield-also-live-on-tuesday"
+        "title": "FREE Scottish Premiership highlights",
+        "link": "https://www.skysports.com/football/live-blog/12040/13567422/scottish-premiership-goals-and-free-match-highlights-of-every-game-in-2026-27-season"
       },
       {
-        "title": "F1 2027 calendar contingency plans in place amid Middle East conflict",
-        "link": "https://www.skysports.com/f1/news/12040/13569381/f1-2027-calendar-contingency-plans-in-place-for-next-years-formula-1-schedule-amid-us-israel-war-with-iran"
+        "title": "FREE STREAM: Good Morning Transfers on Sky Sports News",
+        "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours"
       },
       {
-        "title": "Short guides Welsh Fire to crucial win over Southern Brave",
-        "link": "https://www.skysports.com/cricket/news/12040/13569493/the-hundred-matt-short-stars-with-bat-as-welsh-fire-beat-southern-brave-to-go-level-at-top-of-table"
+        "title": "'Hull must step up and lead Team Europe at Solheim Cup'",
+        "link": "https://www.skysports.com/golf/news/12040/13569570/solheim-cup-2026-charley-hull-must-step-up-and-lead-team-europe-in-netherlands-says-dame-laura-davies"
       },
       {
-        "title": "Nygren header hands Celtic all three points in title defence opener",
-        "link": "https://www.skysports.com/watch/video/13569554/celtic-1-0-dundee-scottish-premiership-highlights"
+        "title": "UFC fighter Nascimento dies aged 34",
+        "link": "https://www.skysports.com/mma/news/12040/13569592/allan-nascimento-ufc-fighter-dies-aged-34-after-suffering-apparent-heart-attack-in-his-sleep"
       }
     ],
     "pitchfork": [],
@@ -116,6 +116,10 @@
     ],
     "mubi": [
       {
+        "title": "Turbulent Waters: The Cinema of Jean Epstein",
+        "link": "https://mubi.com/en/notebook/posts/turbulent-waters-the-cinema-of-jean-epstein"
+      },
+      {
         "title": "What Does a Christopher Nolan Movie Want?",
         "link": "https://mubi.com/en/notebook/posts/what-does-a-christopher-nolan-movie-want"
       },
@@ -126,10 +130,6 @@
       {
         "title": "Rushes | Venice Unveils Lineup, Paramount Delays Merger, Elon Musk Threatens His Own \u201cOdyssey\u201d",
         "link": "https://mubi.com/en/notebook/posts/rushes-venice-unveils-lineup-paramount-delays-merger-elon-musk-threatens-his-own-odyssey"
-      },
-      {
-        "title": "An Obligation to Look: Cinema in the Aftermath of War",
-        "link": "https://mubi.com/en/notebook/posts/an-obligation-to-look-cinema-in-the-aftermath-of-war"
       }
     ],
     "reverseshot": [],
@@ -171,23 +171,31 @@
     ],
     "variety": [
       {
-        "title": "India\u2019s Yash Raj Films Launches Raah Records With Aman Single \u2018Jaadugari\u2019 (EXCLUSIVE)",
-        "link": "https://variety.com/2026/music/news/yash-raj-films-raah-records-launch-aman-jaadugari-1236826261/"
+        "title": "Haugesund New Nordic Films Unveils French Focus Including a Case Study on \u2018Ibelin,\u2019 From \u2018The Imitation Game\u2019 Director Morten Tyldum (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/global/morten-tyldum-les-valseurs-french-focus-haugesund-1236826569/"
       },
       {
-        "title": "Geno Segers Apologizes For Transgender Comments After \u2018Hadestown\u2019 Exit: \u2018I Recognize the Impact of My Statements\u2019",
-        "link": "https://variety.com/2026/theater/news/geno-segers-apology-transgender-comments-hadestown-1236827212/"
+        "title": "Hwang Bo-reum, Lee Geum-yi Among Authors in Busan Story Market\u2019s 2026 Selections",
+        "link": "https://variety.com/2026/film/markets-festivals/hwang-bo-reum-lee-geum-yi-busan-story-market-1236827371/"
       },
       {
-        "title": "Mary Rivera, \u2018Spider-Man: No Way Home\u2019 Actress, Dies at 82",
-        "link": "https://variety.com/2026/film/obituaries-people-news/mary-rivera-dead-spider-man-no-way-home-neds-grandma-1236827154/"
+        "title": "Shudder Nabs U.S. Rights to \u2018Bloody Tennis\u2019 and Horror Film Grabs Buyers in Other Major Territories Ahead of Locarno World Premiere (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/global/bloody-tennis-shudder-major-territories-sales-locarno-1236826572/"
       },
       {
-        "title": "\u2018Ice Cream Man\u2019 Review: Eli Roth\u2019s Children-of-the-Damned Splatter Movie Is No Treat",
-        "link": "https://variety.com/2026/film/reviews/ice-cream-man-review-eli-roth-1236826106/"
+        "title": "Tadanobu Asano, Yukino Kishii\u2019s Cannes Title \u2018All the Lovers in the Night\u2019 Lands North American Distribution (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/news/tadanobu-asano-all-the-lovers-in-the-night-north-america-sales-1236827351/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "Alan Ritchson on What He Learned About Fame From Working With Arnold Schwarzenegger",
+        "link": "https://www.hollywoodreporter.com/news/general-news/alan-ritchson-arnold-schwarzenegger-movie-man-with-the-bag-1236657941/"
+      },
+      {
+        "title": "Cabo Verde Looks Beyond the World Cup, Ivory Coast Gets Animated, Zimbabwe Has Ambition: A Chat With Locarno Open Doors Film Producers",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/locarno-open-doors-2026-producers-africa-film-projects-talk-1236659967/"
+      },
       {
         "title": "Ariana Grande Wants to \u201cClear the Air\u201d About Upcoming Break From Public Eye: \u201cNot a Reactive or Impulsive Thing\u201d",
         "link": "https://www.hollywoodreporter.com/music/music-news/ariana-grande-clarifies-why-step-back-public-eye-after-tour-1236663495/"
@@ -195,14 +203,6 @@
       {
         "title": "\u2018Ice Cream Man\u2019 Review: Eli Roth\u2019s Small-Town Horror Flick Is for Diehard Slasher Fans, and Absolutely No One Else",
         "link": "https://www.hollywoodreporter.com/movies/movie-reviews/ice-cream-man-review-eli-roth-1236660197/"
-      },
-      {
-        "title": "Disney+ Sets Release Date for Season 2 of Hit Thriller Series \u2018Made in Korea\u2019",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/disney-release-date-made-in-korea-1236663432/"
-      },
-      {
-        "title": "Atarashii Gakko! on Their New Album \u2018From Tokyo With Love\u2019 and Their Global Evolution",
-        "link": "https://www.hollywoodreporter.com/music/music-features/atarashii-gakko-from-tokyo-with-love-album-interview-1236657573/"
       }
     ],
     "larb": [],
