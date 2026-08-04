@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04 19:21 UTC",
+  "last_updated": "2026-08-04 22:06 UTC",
   "feeds": {
     "bbc": [
       {
@@ -21,39 +21,39 @@
     ],
     "aljazeera": [
       {
-        "title": "DOJ sends monitors to Michigan poll sites as lawmakers warn of partisan aim",
-        "link": "https://www.aljazeera.com/news/2026/8/4/doj-sends-monitors-to-michigan-poll-sites-as-lawmakers-warn-of-partisan-aim?traffic_source=rss"
+        "title": "How the far right weaponised the Ceuta crisis",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/how-the-far-right-weaponised-the-ceuta-crisis?traffic_source=rss"
       },
       {
-        "title": "Mass funeral held for 112 members of two Palestinian families",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/mass-funeral-held-for-112-members-of-two-palestinian-families?traffic_source=rss"
+        "title": "Funeral for family killed in US strike on Iran\u2019s Qeshm Island",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss"
       },
       {
-        "title": "\u2018Maximum use\u2019: Iran boosts military strength during ceasefire with US",
-        "link": "https://www.aljazeera.com/news/2026/8/4/maximum-use-iran-boosts-military-strength-during-ceasefire-with-us?traffic_source=rss"
+        "title": "Death toll rises to 87 in India\u2019s flood-stricken Assam",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_death-toll-rises-to-87-in-assam-040826?traffic_source=rss"
       },
       {
-        "title": "Rubio: Progress made to reopen Strait of Hormuz",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/rubio-progress-made-to-reopen-strait-of-hormuz?traffic_source=rss"
+        "title": "Six years on, Beirut blast families still await justice",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/six-years-on-beirut-blast-families-still-await-justice?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Draper in tears amid injury concern during defeat in Montreal",
+        "link": "https://www.skysports.com/tennis/news/12040/13569819/jack-draper-in-tears-amid-injury-concern-during-defeat-to-terence-atmane-on-return-to-action-in-montreal"
+      },
+      {
+        "title": "Brook stars as SunRisers thrash Spirit after setting record Hundred total",
+        "link": "https://www.skysports.com/cricket/news/12040/13569782/the-hundred-sunrisers-leeds-thrash-london-spirit-after-scoring-241-to-set-highest-total-in-tournament-history"
+      },
+      {
+        "title": "Several athletes 'unaccounted for' after Commonwealth Games in Glasgow",
+        "link": "https://www.skysports.com/athletics/news/12040/13569853/commonwealth-games-several-athletes-unaccounted-for-after-glasgow-event-according-to-police-scotland"
+      },
+      {
         "title": "Sutherland leads SunRisers to tight win over Spirit",
         "link": "https://www.skysports.com/cricket/news/12040/13569781/the-hundred-sunrisers-leeds-claim-tight-win-over-london-spirit-as-annabel-sutherland-stars-with-bat-at-headingley"
-      },
-      {
-        "title": "Falcons make Robinson highest-paid running back in NFL history",
-        "link": "https://www.skysports.com/nfl/news/12040/13569829/atlanta-falcons-agree-deal-to-make-bijan-robinson-highest-paid-running-back-in-nfl-history"
-      },
-      {
-        "title": "FREE STREAM: The Transfer Show on Sky Sports News",
-        "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours"
-      },
-      {
-        "title": "FIFA boss Infantino to hold crisis meeting with senior staff tomorrow",
-        "link": "https://www.skysports.com/football/news/12040/13569849/gianni-infantino-fifa-president-asks-senior-staff-to-attend-crisis-meeting-in-morocco-on-wednesday"
       }
     ],
     "pitchfork": [],
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "How \u2018The Diplomat\u2019 Supporting Stars Allison Janney and Bradley Whitford Stole the Show in Season 3",
+        "link": "https://www.indiewire.com/awards/consider-this/the-diplomat-allison-janney-bradley-whitford-emmy-interview-1235208041/"
+      },
+      {
         "title": "Will Gluck Just Wants to Make Movies About Relationships \u2014 Including the Wild Ones Like in \u2018One Night Only\u2019",
         "link": "https://www.indiewire.com/features/interviews/one-night-only-will-gluck-interview-relationship-movies-1235208210/"
       },
@@ -163,46 +167,42 @@
       {
         "title": "Kent Jones and His Love of Actors Make \u2018Late Fame\u2019 One of the Best Films of 2026",
         "link": "https://www.indiewire.com/features/interviews/late-fame-director-kent-jones-interview-willem-dafoe-1235207994/"
-      },
-      {
-        "title": "\u2018La Bola Negra\u2019 Moves to October as Netflix Extends Theatrical Window for Oscar Hopeful to 47 Days",
-        "link": "https://www.indiewire.com/news/general-news/la-bola-negra-netflix-awards-season-release-date-1235201936/"
       }
     ],
     "variety": [
       {
-        "title": "Disney\u2019s Next Big Thing: Malachi Barton on \u2018Camp Rock 3,\u2019 Doomscrolling on TikTok and Not Hiding His Faith in God",
-        "link": "https://variety.com/2026/tv/features/malachi-barton-camp-rock-3-disney-faith-god-1236826142/"
+        "title": "Naomi Watts\u2019 Secret \u2018Spider-Man: Brand New Day\u2019 Role Reunited Her With Tom Holland, 12 Years After \u2018The Impossible\u2019: \u2018From Playing Your Mom to Your AI\u2019",
+        "link": "https://variety.com/2026/film/news/naomi-watts-spider-man-brand-new-day-role-tom-holland-reunion-1236827951/"
       },
       {
-        "title": "Variety\u2019s 10 Assistants to Watch in 2026",
-        "link": "https://variety.com/lists/variety-10-assistants-to-watch-2026/"
+        "title": "Audrey Nuna Signs to Republic Records (EXCLUSIVE)",
+        "link": "https://variety.com/2026/music/news/audrey-nuna-signs-to-republic-records-superhuman-single-1236827842/"
       },
       {
-        "title": "\u2018The Voice\u2019 Celebrity Edition to Air on NBC in 2027, With Host Keke Palmer and Judges Joe Jonas, Queen Latifah, Riley Green",
-        "link": "https://variety.com/2026/tv/news/the-voice-celebrity-nbc-2027-host-keke-palmer-joe-jonas-1236827720/"
+        "title": "Cate Blanchett, Nina Hoss on the Friendship Driving \u2018Elektra/Persona\u2019 at London\u2019s National Theatre: \u2018There\u2019s a Lot of Masking and Unmasking\u2019",
+        "link": "https://variety.com/2026/theater/news/cate-blanchett-nina-hoss-friendship-elektra-persona-national-theatre-1236827936/"
       },
       {
-        "title": "UFC Lost $30 Million on White House Fight on Donald Trump\u2019s Birthday",
-        "link": "https://variety.com/2026/tv/news/ufc-freedom-250-lost-30-million-white-house-donald-trump-1236827704/"
+        "title": "Leslie Iwerks on \u2018Disney Worldbuilders\u2019 and How Jennifer Lee, James Cameron and Jared Bush Carry Forward Walt Disney\u2019s Legacy",
+        "link": "https://variety.com/2026/artisans/news/leslie-iwerks-disney-worldbuilders-jennifer-lee-1236826968/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018Real Housewives\u2019 Star Teresa Giudice Opens Up: \u201cI Never in a Million Years Thought I Would Go to Prison\u201d",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/teresa-giudice-talks-fraud-prison-rhonj-bravo-1236661747/"
+        "title": "David Zaslav\u2019s Summer Camp Dreams Fizzle Out",
+        "link": "https://www.hollywoodreporter.com/business/business-news/david-zaslav-loses-summer-camp-purchase-private-equity-1236660646/"
       },
       {
-        "title": "Celebrity \u2018Voice\u2019 Season Set for 2027 on NBC",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/the-voice-celebrity-version-nbc-1236664023/"
+        "title": "How to Get Sold-Out Outside Lands 2026 Tickets",
+        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/outside-lands-2026-tickets-music-festival-passes-discount-code-1236664137/"
       },
       {
-        "title": "\u2018Dancing With the Stars: The Next Pro\u2019 Cast: All the Dancers Vying for a Spot on Season 35",
-        "link": "https://www.hollywoodreporter.com/lists/dancing-with-the-stars-next-pro-cast-judges/"
+        "title": "\u2018Spider-Man: Brand New Day\u2019 Star Jacob Batalon Talks the Ending, Spidey Tracker and the Scene That Shut Down Filming",
+        "link": "https://www.hollywoodreporter.com/movies/movie-features/spider-man-brand-new-day-jacob-batalon-ending-handshake-1236664173/"
       },
       {
-        "title": "\u2018Monster: The Lizzie Borden Story\u2019 Unveils First Look, Sets Netflix Release Date",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/monster-lizzie-borden-photos-release-date-netflix-1236663852/"
+        "title": "Anya Taylor-Joy Explains Why Method Actors Are Almost Always Men",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/anya-taylor-joy-method-actors-men-1236664205/"
       }
     ],
     "larb": [],
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "These Ancient Sea Worms Have \u201cBiometal\u201d Jaws",
+        "link": "https://nautil.us/these-ancient-sea-worms-have-biometal-jaws-1283391/"
+      },
+      {
         "title": "Rec League Sports May be Better at Building Strong Bones Than Weightlifting",
         "link": "https://nautil.us/rec-league-sports-may-be-better-at-building-strong-bones-than-weightlifting-1283384/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "Check Out Rare Images of Borneo\u2019s \u201cGhosts of the Forest\u201d",
         "link": "https://nautil.us/check-out-rare-images-of-borneos-ghosts-of-the-forest-1283351/"
-      },
-      {
-        "title": "An Explosion of Feces May Have Triggered Earth\u2019s Explosion of Species",
-        "link": "https://nautil.us/an-explosion-of-feces-may-have-triggered-earths-explosion-of-species-1283343/"
       }
     ],
     "worksinprogress": [],
