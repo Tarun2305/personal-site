@@ -1,44 +1,52 @@
 {
-  "last_updated": "2026-08-04 13:53 UTC",
+  "last_updated": "2026-08-04 16:47 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "More than 150 migrants rescued after boat catches fire in Channel",
-        "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss"
+        "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+        "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Prison overcrowding crisis limits ability to cut early releases, minister says",
-        "link": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss"
+        "title": "More than 170 migrants rescued after boat catches fire in Channel",
+        "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
         "link": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Top Fifa official Wenger says scrapping World Cup plan 'absolutely necessary'",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss"
+        "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+        "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Twelve years after ISIL\u2019s massacres, thousands of Yazidis seek justice",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/twelve-years-after-isils-massacres-thousands-of-yazidis-seek-justice?traffic_source=rss"
+        "title": "UEFA\u2019s threatened legal action against Infantino and FIFA: What we know",
+        "link": "https://www.aljazeera.com/sports/2026/8/4/uefas-threatened-legal-action-against-infantino-and-fifa-what-we-know?traffic_source=rss"
       },
       {
-        "title": "More than 150 people rescued in English Channel after boat catches fire",
-        "link": "https://www.aljazeera.com/news/2026/8/4/more-than-150-people-rescued-in-english-channel-after-boat-catches-fire?traffic_source=rss"
+        "title": "India denies involvement in ex-Bangladesh PM Hasina\u2019s planned speech",
+        "link": "https://www.aljazeera.com/news/2026/8/4/india-denies-involvement-in-ex-bangladesh-pm-hasinas-planned-speech?traffic_source=rss"
       },
       {
-        "title": "Six years after Beirut blast, families fight for truth",
-        "link": "https://www.aljazeera.com/features/2026/8/4/six-years-after-beirut-blast-families-fight-for-truth?traffic_source=rss"
+        "title": "Photos: Guatemala\u2019s Fuego volcano erupts, forcing evacuations",
+        "link": "https://www.aljazeera.com/gallery/2026/8/4/photos-guatemalas-fuego-volcano-erupts-forcing-evacuations?traffic_source=rss"
       },
       {
-        "title": "Seventh round of Israel-Lebanon talks begins \u2013 what\u2019s on the agenda?",
-        "link": "https://www.aljazeera.com/news/2026/8/4/seventh-round-of-israel-lebanon-talks-begins-whats-on-the-agenda?traffic_source=rss"
+        "title": "War on Iran: Trump says Iran has one \u2018last chance\u2019",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/war-on-iran-trump-says-iran-has-one-last-chance?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "Why have Barcelona broken transfer records to sign Kerolin?",
+        "link": "https://www.skysports.com/football/news/12040/13566568/kerolin-nicoli-transfer-news-man-city-forward-joins-barcelona-as-womens-super-leagues-most-expensive-export"
+      },
+      {
+        "title": "Raducanu could benefit ending her season following US Open withdrawal",
+        "link": "https://www.skysports.com/tennis/news/12040/13569697/emma-raducanu-british-no-1-could-end-her-season-after-us-open-withdrawal-with-stress-fracture"
+      },
       {
         "title": "Bra-padding claims spark Tour de France Femmes controversy",
         "link": "https://www.skysports.com/cycling/news/12040/13569727/tour-de-france-femmes-padded-bra-claims-lead-to-controversy-and-extra-clothing-checks-for-female-riders"
@@ -46,14 +54,6 @@
       {
         "title": "Race to make Donald's 2027 Ryder Cup team begins this month",
         "link": "https://www.skysports.com/golf/news/12040/13569724/ryder-cup-2027-team-europe-qualifying-schedule-for-adare-manor-confirmed-and-to-start-from-british-masters"
-      },
-      {
-        "title": "New Zealand's tour of South Africa to be shown live on Sky Sports as part of new deal",
-        "link": "https://www.skysports.com/rugby-union/news/12040/13569639/new-zealands-tour-of-south-africa-to-be-shown-live-on-sky-sports-as-part-of-new-five-year-sanzaar-deal"
-      },
-      {
-        "title": "Stokes confirms England coach ambitions, questions Brook captaincy snub",
-        "link": "https://www.skysports.com/cricket/news/12040/13569631/ben-stokes-former-england-captain-confirms-ambition-to-coach-side-in-future-and-has-say-on-brendon-mccullum-test-exit-captaincy-calls"
       }
     ],
     "pitchfork": [],
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
-        "title": "\u2018The Frighteners\u2019 Turns 30: How Peter Jackson\u2019s Lost Horror Movie Helped Build W\u0113t\u0101 and Pave the Way for \u2018Lord of the Rings\u2019",
-        "link": "https://www.indiewire.com/features/interviews/the-frighteners-oral-history-peter-jackson-cult-movie-30-1235208228/"
+        "title": "After Row K Collapse, Maude Apatow\u2019s Directorial Debut \u2018Poetic License\u2019 Finds a New Home",
+        "link": "https://www.indiewire.com/news/breaking-news/maude-apatow-poetic-license-release-1235208511/"
       },
       {
-        "title": "Honest Conversations About AI in Film Often Feel Impossible. IndieWire and Andreessen Horowitz, Cultural Leadership Fund Tackled the Challenge",
-        "link": "https://www.indiewire.com/news/events/indiewire-andreessen-horowitz-cannes-event-watch-1235207514/"
+        "title": "Kent Jones and His Love of Actors Make \u2018Late Fame\u2019 One of the Best Films of 2026",
+        "link": "https://www.indiewire.com/features/interviews/late-fame-director-kent-jones-interview-willem-dafoe-1235207994/"
       },
       {
-        "title": "\u2018Teenage Sex and Death at Camp Miasma\u2019 Review: Jane Schoenbrun\u2019s Affectionate Ode to Slashers, Orgasms, and Gillian Anderson",
-        "link": "https://www.indiewire.com/criticism/movies/teenage-sex-and-death-at-camp-miasma-review-jane-schoenbrun-1235193695/"
+        "title": "\u2018La Bola Negra\u2019 Moves to October as Netflix Extends Theatrical Window for Oscar Hopeful to 47 Days",
+        "link": "https://www.indiewire.com/news/general-news/la-bola-negra-netflix-awards-season-release-date-1235201936/"
       },
       {
-        "title": "At 66, Gregg Araki Is Still Indie Film\u2019s Youthful Rebel",
-        "link": "https://www.indiewire.com/features/podcast/gregg-araki-i-want-your-sex-filmmaker-toolkit-1235207180/"
+        "title": "\u2018Godzilla Minus Zero\u2019 Will World Premiere at This Year\u2019s New York Film Festival",
+        "link": "https://www.indiewire.com/news/festivals/godzilla-minus-zero-world-premiere-new-york-film-festival-1235208254/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018The Day of the Jackal\u2019 Producer Carnival Films Acquires Television Rights to Sarah Pinborough\u2019s Murder Mystery \u2018They Say a Girl Died Here\u2019 (EXCLUSIVE)",
-        "link": "https://variety.com/2026/tv/global/sarah-pinborough-they-say-a-girl-died-here-carnival-films-1236827382/"
+        "title": "Eli Roth Got Sick of Studio Notes and Shrinking Residuals, With \u2018Ice Cream Man\u2019 He\u2019s Going Into Business for Himself",
+        "link": "https://variety.com/2026/film/news/eli-roth-studio-notes-shrinking-residuals-ice-cream-man-borderlands-1236827569/"
       },
       {
-        "title": "San Sebasti\u00e1n Sets Jos\u00e9 Giovanni Retrospective Honoring French Crime Cinema Pioneer",
-        "link": "https://variety.com/2026/film/global/san-sebastian-jose-giovanni-retrospective-1236827399/"
+        "title": "Hollywood\u2019s New Leaders: Class of 2026",
+        "link": "https://variety.com/lists/new-leaders-2026/"
       },
       {
-        "title": "Tokyo\u2019s TIFFCOM 2026 Expands IP Market, Adds AI and Anime Conferences",
-        "link": "https://variety.com/2026/film/markets-festivals/tokyo-tiffcom-2026-ip-market-ai-anime-conferences-1236827466/"
+        "title": "Brittany Snow Joins Sydney Sweeney in \u2018The Housemaid\u2019s Secret\u2019",
+        "link": "https://variety.com/2026/film/news/brittany-snow-the-housemaids-secret-sydney-sweeney-1236826813/"
       },
       {
-        "title": "Todrick Hall\u2019s \u2018Midnight\u2019 Announces Full Cast and Creative Team Ahead of New York Premiere (EXCLUSIVE)",
-        "link": "https://variety.com/2026/legit/news/todrick-hall-midnight-full-cast-off-broadway-run-1236827451/"
+        "title": "Martin Scorsese and Susan Sarandon Squash Their Children\u2019s Internet Beef in New Jack Henry Robbins Sketch (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/news/martin-scorsese-susan-sarandon-jack-henry-robbins-sketch-1236827159/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "George R.R. Martin Says He Battled Depression This Year: \u201cThe Worst May Be Yet to Come\u201d",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/george-r-r-martin-depression-winds-of-winter-1236663654/"
+        "title": "Brittany Snow Joins Sydney Sweeney in Lionsgate\u2019s \u2018The Housemaid\u2019 Sequel",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/brittany-snow-joins-sydney-sweeney-the-housemaid-sequel-1236663842/"
       },
       {
-        "title": "The Box Office Comeback Finally Happened: \u201cWe\u2019re All Breathing a Hell of a Lot Easier\u201d",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/box-office-2026-spider-man-odyssey-1236663643/"
+        "title": "Maude Apatow Directorial Debut \u2018Poetic License\u2019 Lands at Sony Classics After Row K Debacle",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/poetic-license-maude-apatow-sony-classics-1236607104/"
       },
       {
-        "title": "Back in the Room Where It Happens: Why \u2018Hamilton\u2019 Is Sparking Even More Joy for Leslie Odom Jr. This Time Around",
-        "link": "https://www.hollywoodreporter.com/lifestyle/arts/leslie-odom-jr-hamilton-london-west-end-interview-return-1236662892/"
+        "title": "\u2018Sterling Point\u2019 Review: Amazon\u2019s Summertime YA Drama Brims with Heart, Humor and Personality",
+        "link": "https://www.hollywoodreporter.com/tv/tv-reviews/sterling-point-review-amazon-1236661069/"
       },
       {
-        "title": "Leonardo DiCaprio and Jeff Bezos Are Teaming to Save Endangered Species With $200M Initiative",
-        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/leonardo-dicaprio-jeff-bezos-earth-fund-endangered-species-1236663520/"
+        "title": "\u2018Spider-Man: Brand New Day\u2019 Hits $1 Billion Globally With Second-Fastest Pace Ever",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-billion-global-box-office-1236663765/"
       }
     ],
     "larb": [],
@@ -280,20 +280,20 @@
     ],
     "nautilus": [
       {
+        "title": "What Do People Think About?",
+        "link": "https://nautil.us/what-do-people-think-about-1283364/"
+      },
+      {
+        "title": "Check Out Rare Images of Borneo\u2019s \u201cGhosts of the Forest\u201d",
+        "link": "https://nautil.us/check-out-rare-images-of-borneos-ghosts-of-the-forest-1283351/"
+      },
+      {
+        "title": "An Explosion of Feces May Have Triggered Earth\u2019s Explosion of Species",
+        "link": "https://nautil.us/an-explosion-of-feces-may-have-triggered-earths-explosion-of-species-1283343/"
+      },
+      {
         "title": "The Virtue of Being Simple",
         "link": "https://nautil.us/the-virtue-of-being-simple-1283320/"
-      },
-      {
-        "title": "55 Years Ago, an Apollo 15 Astronaut Dropped a Hammer on the Moon",
-        "link": "https://nautil.us/55-years-ago-an-apollo-15-astronaut-dropped-a-hammer-on-the-moon-1283339/"
-      },
-      {
-        "title": "Better Posture Linked to Better Decision Making and Mood",
-        "link": "https://nautil.us/better-posture-linked-to-better-decision-making-and-mood-1283327/"
-      },
-      {
-        "title": "Less Protein, Not More, May Lead to Healthier Aging",
-        "link": "https://nautil.us/less-protein-not-more-may-lead-to-healthier-aging-1283315/"
       }
     ],
     "worksinprogress": [],
