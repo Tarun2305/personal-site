@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04 11:17 UTC",
+  "last_updated": "2026-08-04 13:53 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,58 +7,62 @@
         "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
+        "title": "Prison overcrowding crisis limits ability to cut early releases, minister says",
+        "link": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
         "link": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Analysis: Trump challenged by cold reality from top allies",
-        "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Breast cancer checks missing most women under 50 who are at risk, says study",
-        "link": "https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss"
+        "title": "Top Fifa official Wenger says scrapping World Cup plan 'absolutely necessary'",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "\u2018One last chance\u2019: The times Trump threatened Iran, said deal imminent",
-        "link": "https://www.aljazeera.com/features/2026/8/4/one-last-chance-the-times-trump-threatened-iran-said-deal-imminent?traffic_source=rss"
+        "title": "Twelve years after ISIL\u2019s massacres, thousands of Yazidis seek justice",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/twelve-years-after-isils-massacres-thousands-of-yazidis-seek-justice?traffic_source=rss"
       },
       {
-        "title": "Italy suspends free movement with Spain: Is Schengen in crisis after Ceuta?",
-        "link": "https://www.aljazeera.com/news/2026/8/4/italy-suspends-free-movement-with-spain-is-schengen-in-crisis-after-ceuta?traffic_source=rss"
+        "title": "More than 150 people rescued in English Channel after boat catches fire",
+        "link": "https://www.aljazeera.com/news/2026/8/4/more-than-150-people-rescued-in-english-channel-after-boat-catches-fire?traffic_source=rss"
       },
       {
-        "title": "Tech giant Palantir posts \u2018otherworldly\u2019 growth despite criticism over Gaza",
-        "link": "https://www.aljazeera.com/news/2026/8/4/tech-giant-palantir-posts-otherworldly-growth-despite-criticism-over-gaza?traffic_source=rss"
+        "title": "Six years after Beirut blast, families fight for truth",
+        "link": "https://www.aljazeera.com/features/2026/8/4/six-years-after-beirut-blast-families-fight-for-truth?traffic_source=rss"
       },
       {
-        "title": "Palestinian patients return to Gaza as thousands still await evacuation",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/palestinian-patients-return-to-gaza-as-thousands-still-await-evacuation?traffic_source=rss"
+        "title": "Seventh round of Israel-Lebanon talks begins \u2013 what\u2019s on the agenda?",
+        "link": "https://www.aljazeera.com/news/2026/8/4/seventh-round-of-israel-lebanon-talks-begins-whats-on-the-agenda?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Stokes confirms England coach ambitions, reveals McCullum exit 'surprise'",
+        "title": "Bra-padding claims spark Tour de France Femmes controversy",
+        "link": "https://www.skysports.com/cycling/news/12040/13569727/tour-de-france-femmes-padded-bra-claims-lead-to-controversy-and-extra-clothing-checks-for-female-riders"
+      },
+      {
+        "title": "Race to make Donald's 2027 Ryder Cup team begins this month",
+        "link": "https://www.skysports.com/golf/news/12040/13569724/ryder-cup-2027-team-europe-qualifying-schedule-for-adare-manor-confirmed-and-to-start-from-british-masters"
+      },
+      {
+        "title": "New Zealand's tour of South Africa to be shown live on Sky Sports as part of new deal",
+        "link": "https://www.skysports.com/rugby-union/news/12040/13569639/new-zealands-tour-of-south-africa-to-be-shown-live-on-sky-sports-as-part-of-new-five-year-sanzaar-deal"
+      },
+      {
+        "title": "Stokes confirms England coach ambitions, questions Brook captaincy snub",
         "link": "https://www.skysports.com/cricket/news/12040/13569631/ben-stokes-former-england-captain-confirms-ambition-to-coach-side-in-future-and-has-say-on-brendon-mccullum-test-exit-captaincy-calls"
-      },
-      {
-        "title": "FREE Scottish Premiership highlights",
-        "link": "https://www.skysports.com/football/live-blog/12040/13567422/scottish-premiership-goals-and-free-match-highlights-of-every-game-in-2026-27-season"
-      },
-      {
-        "title": "'Hull must step up and lead Team Europe at Solheim Cup'",
-        "link": "https://www.skysports.com/golf/news/12040/13569570/solheim-cup-2026-charley-hull-must-step-up-and-lead-team-europe-in-netherlands-says-dame-laura-davies"
-      },
-      {
-        "title": "UFC fighter Nascimento dies aged 34",
-        "link": "https://www.skysports.com/mma/news/12040/13569592/allan-nascimento-ufc-fighter-dies-aged-34-after-suffering-apparent-heart-attack-in-his-sleep"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "Dog Days of Aquarium Drunkard III",
+        "link": "https://aquariumdrunkard.com/2026/08/04/dog-days-of-aquarium-drunkard-iii/"
+      },
       {
         "title": "Twenty Years Inside The Eraser",
         "link": "https://aquariumdrunkard.com/2026/08/03/twenty-years-inside-the-eraser/"
@@ -70,30 +74,26 @@
       {
         "title": "Big Black :: Two Moonlins And Mother",
         "link": "https://aquariumdrunkard.com/2026/07/30/big-black-two-moonlins-and-mother/"
-      },
-      {
-        "title": "The Aquarium Drunkard Show: SIRIUS/XMU (7pm PDT, Channel 35)",
-        "link": "https://aquariumdrunkard.com/2026/07/29/the-aquarium-drunkard-show-sirius-xmu-7pm-pdt-channel-35-180/"
       }
     ],
     "bfi": [],
     "criterion": [],
     "rogerebert": [
       {
+        "title": "The People from the Sea: How \u201cThe Odyssey\u201d is About America",
+        "link": "https://www.rogerebert.com/features/the-people-from-the-sea-how-the-odyssey-is-about-america"
+      },
+      {
+        "title": "Short Films in Focus: Warsha",
+        "link": "https://www.rogerebert.com/short-films-in-focus/short-films-in-focus-warsha"
+      },
+      {
+        "title": "\u201cSterling Point\u201d Might Be Your Next Messy Teen Drama Escape",
+        "link": "https://www.rogerebert.com/streaming/sterling-point-prime-video-tv-review-2026"
+      },
+      {
         "title": "USA Network\u2019s \u201cAnna Pigeon\u201d Is a Satisfying TV Throwback",
         "link": "https://www.rogerebert.com/streaming/anna-pigeon-usa-tv-review-2026"
-      },
-      {
-        "title": "The Unloved, Part 152: The Milagro Beanfield War",
-        "link": "https://www.rogerebert.com/the-unloved/the-unloved-part-152-the-milagro-beanfield-war"
-      },
-      {
-        "title": "A-List Cast Continues to Make \u201cLioness\u201d the Queen of the Streaming Jungle",
-        "link": "https://www.rogerebert.com/streaming/lioness-season-3-zoe-saldana-taylor-sheridan-paramount-plus-tv-review-2026"
-      },
-      {
-        "title": "Home Entertainment Guide July 2026: Obsession, The Drama, Is God Is, More",
-        "link": "https://www.rogerebert.com/dvd-blu-ray/home-entertainment-guide-july-2026-obsession-the-drama-is-god-is-more"
       }
     ],
     "filmcomment": [
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018The Frighteners\u2019 Turns 30: How Peter Jackson\u2019s Lost Horror Movie Helped Build W\u0113t\u0101 and Pave the Way for \u2018Lord of the Rings\u2019",
+        "link": "https://www.indiewire.com/features/interviews/the-frighteners-oral-history-peter-jackson-cult-movie-30-1235208228/"
+      },
+      {
         "title": "Honest Conversations About AI in Film Often Feel Impossible. IndieWire and Andreessen Horowitz, Cultural Leadership Fund Tackled the Challenge",
         "link": "https://www.indiewire.com/news/events/indiewire-andreessen-horowitz-cannes-event-watch-1235207514/"
       },
@@ -163,46 +167,42 @@
       {
         "title": "At 66, Gregg Araki Is Still Indie Film\u2019s Youthful Rebel",
         "link": "https://www.indiewire.com/features/podcast/gregg-araki-i-want-your-sex-filmmaker-toolkit-1235207180/"
-      },
-      {
-        "title": "\u2018Once Upon a Time in Harlem,\u2019 \u2018Rehearsals for a Revolution,\u2019 \u2018Barbara Forever\u2019 Receive 2026 Albie Awards",
-        "link": "https://www.indiewire.com/awards/results/maysles-center-albie-awards-2026-winners-1235208175/"
       }
     ],
     "variety": [
       {
-        "title": "David Ellison Says Opposition to Paramount-Warner Bros. Is Over His Control of CNN, Claims He Will Not \u2018Bend Newsrooms to My Views\u2019",
-        "link": "https://variety.com/2026/tv/news/david-ellison-cnn-paramount-warner-bros-trusted-steward-1236827405/"
+        "title": "\u2018The Day of the Jackal\u2019 Producer Carnival Films Acquires Television Rights to Sarah Pinborough\u2019s Murder Mystery \u2018They Say a Girl Died Here\u2019 (EXCLUSIVE)",
+        "link": "https://variety.com/2026/tv/global/sarah-pinborough-they-say-a-girl-died-here-carnival-films-1236827382/"
       },
       {
-        "title": "Jesse Eisenberg\u2019s Musical Comedy \u2018The Debut,\u2019 Starring Julianne Moore, to Close London Film Festival",
-        "link": "https://variety.com/2026/film/global/jesse-eisenberg-the-debut-london-film-festival-1236827396/"
+        "title": "San Sebasti\u00e1n Sets Jos\u00e9 Giovanni Retrospective Honoring French Crime Cinema Pioneer",
+        "link": "https://variety.com/2026/film/global/san-sebastian-jose-giovanni-retrospective-1236827399/"
       },
       {
-        "title": "\u2018Spider-Man: Brand New Day\u2019 Dominates U.K. and Ireland Box Office With Massive Launch",
-        "link": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-uk-ireland-box-office-1236827406/"
+        "title": "Tokyo\u2019s TIFFCOM 2026 Expands IP Market, Adds AI and Anime Conferences",
+        "link": "https://variety.com/2026/film/markets-festivals/tokyo-tiffcom-2026-ip-market-ai-anime-conferences-1236827466/"
       },
       {
-        "title": "Spotify Notches 300 Million Premium Subscribers",
-        "link": "https://variety.com/2026/music/news/spotify-300-million-subscribers-q2-2026-earnings-1236826641/"
+        "title": "Todrick Hall\u2019s \u2018Midnight\u2019 Announces Full Cast and Creative Team Ahead of New York Premiere (EXCLUSIVE)",
+        "link": "https://variety.com/2026/legit/news/todrick-hall-midnight-full-cast-off-broadway-run-1236827451/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Spotify Hits Milestone of 300 Million Premium Subscribers",
-        "link": "https://www.hollywoodreporter.com/business/business-news/spotify-hits-300-million-premium-subscribers-milestone-1236663618/"
+        "title": "George R.R. Martin Says He Battled Depression This Year: \u201cThe Worst May Be Yet to Come\u201d",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/george-r-r-martin-depression-winds-of-winter-1236663654/"
       },
       {
-        "title": "Jesse Eisenberg Musical \u2018The Debut\u2019 Set to Close London Film Festival",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/jesse-eisenberg-the-debut-london-film-festival-movie-close-1236663587/"
+        "title": "The Box Office Comeback Finally Happened: \u201cWe\u2019re All Breathing a Hell of a Lot Easier\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/box-office-2026-spider-man-odyssey-1236663643/"
       },
       {
-        "title": "Mary Rivera, Ned\u2019s Grandma in \u2018Spider-Man: No Way Home,\u2019 Dies at 82",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/mary-rivera-dead-spider-man-no-way-home-actres-was-82-1236663580/"
+        "title": "Back in the Room Where It Happens: Why \u2018Hamilton\u2019 Is Sparking Even More Joy for Leslie Odom Jr. This Time Around",
+        "link": "https://www.hollywoodreporter.com/lifestyle/arts/leslie-odom-jr-hamilton-london-west-end-interview-return-1236662892/"
       },
       {
-        "title": "Serena Rossi to Receive Venice Fest\u2019s Passion for Film Award",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/serena-rossi-campari-venice-passion-for-film-award-1236663605/"
+        "title": "Leonardo DiCaprio and Jeff Bezos Are Teaming to Save Endangered Species With $200M Initiative",
+        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/leonardo-dicaprio-jeff-bezos-earth-fund-endangered-species-1236663520/"
       }
     ],
     "larb": [],
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "The Virtue of Being Simple",
+        "link": "https://nautil.us/the-virtue-of-being-simple-1283320/"
+      },
+      {
         "title": "55 Years Ago, an Apollo 15 Astronaut Dropped a Hammer on the Moon",
         "link": "https://nautil.us/55-years-ago-an-apollo-15-astronaut-dropped-a-hammer-on-the-moon-1283339/"
       },
@@ -290,29 +294,25 @@
       {
         "title": "Less Protein, Not More, May Lead to Healthier Aging",
         "link": "https://nautil.us/less-protein-not-more-may-lead-to-healthier-aging-1283315/"
-      },
-      {
-        "title": "How Dreaming Drains Your Energy",
-        "link": "https://nautil.us/how-dreaming-drains-your-energy-1283306/"
       }
     ],
     "worksinprogress": [],
     "noema": [
       {
+        "title": "How To Give Everyday People A Say In AI Governance",
+        "link": "https://www.noemamag.com/how-to-give-everyday-people-a-say-in-ai-governance"
+      },
+      {
         "title": "AI Has Entered The \u2018Loss Of Control\u2019 Transition",
         "link": "https://www.noemamag.com/ai-has-already-entered-the-loss-of-control-transition"
       },
       {
-        "title": "The Rise And Fall Of Liberal Democracy\u2019s Shared Fiction",
+        "title": "The Rise & Fall Of Liberal Democracy\u2019s Shared Fiction",
         "link": "https://www.noemamag.com/the-rise-and-fall-of-liberal-democracys-shared-fiction"
       },
       {
         "title": "Inside The Lab Growing Mutant Bacteria To Terraform Earth",
         "link": "https://www.noemamag.com/inside-the-lab-growing-mutant-bacteria-to-terraform-earth"
-      },
-      {
-        "title": "The 2026 Berggruen Prize Essay Competition Topic: \u2018A New Axial Age?\u2019",
-        "link": "https://www.noemamag.com/the-2026-berggruen-prize-essay-competition-topic-a-new-axial-age"
       }
     ]
   }
