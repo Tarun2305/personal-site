@@ -1,10 +1,14 @@
 {
-  "last_updated": "2026-08-05 16:27 UTC",
+  "last_updated": "2026-08-05 19:19 UTC",
   "feeds": {
     "bbc": [
       {
         "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
         "link": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Woman arrested after four stabbed in central London",
+        "link": "https://www.bbc.co.uk/news/articles/cn0nk17881yo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Family 'devastated' by death of girl, 9, as man charged with murder",
@@ -13,47 +17,43 @@
       {
         "title": "Anthropic AI used fake profiles to target people in hack then hid the evidence",
         "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Police chief considers joining legal action over PC Harper killers' early release",
-        "link": "https://www.bbc.co.uk/news/articles/cx2v5kj9zzko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Top Arab, Muslim diplomats launch plan to protect Jerusalem religious sites",
-        "link": "https://www.aljazeera.com/news/2026/8/5/arab-and-muslim-ministers-launch-plan-to-protect-jerusalem-religious-sites?traffic_source=rss"
+        "title": "Malaysia vows not to return Rohingya refugees to Myanmar if lives at risk",
+        "link": "https://www.aljazeera.com/news/2026/8/5/malaysia-will-not-return-rohingya-refugees-to-myanmar-if-lives-are-at-risk?traffic_source=rss"
       },
       {
-        "title": "UK tribunal confirms professor\u2019s anti-Zionism is legally protected belief",
-        "link": "https://www.aljazeera.com/news/2026/8/5/uk-tribunal-confirms-professors-anti-zionism-is-legally-protected-belief?traffic_source=rss"
+        "title": "US law enforcement reports deadly mass shooting in North Carolina",
+        "link": "https://www.aljazeera.com/news/2026/8/5/us-law-enforcement-reports-deadly-mass-shooting-in-north-carolina?traffic_source=rss"
       },
       {
-        "title": "War on Iran: US-Iran deal edges closer",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/war-on-iran-us-iran-deal-edges-closer?traffic_source=rss"
+        "title": "Is the conflict between Russia and Ukraine deepening?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/8/5/is-the-conflict-between-russia-and-ukraine-deepening?traffic_source=rss"
       },
       {
-        "title": "Germany investigates explosive device attached to drone at Leipzig airport",
-        "link": "https://www.aljazeera.com/news/2026/8/5/germany-investigates-explosive-device-attached-to-drone-at-leipzig-airport?traffic_source=rss"
+        "title": "Photos: Israeli forces raid occupied West Bank\u2019s Qalandiya refugee camp",
+        "link": "https://www.aljazeera.com/gallery/2026/8/5/photos-israeli-forces-raid-occupied-west-banks-qalandiya-refugee-camp?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Palace latest: Eagles set to sign Tomiyasu",
-        "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+        "title": "Newcastle appoint Jaissle as Howe's successor",
+        "link": "https://www.skysports.com/football/news/12040/13568428/newcastle-united-appoint-matthias-jaissle-as-head-coach-following-eddie-howes-departure-from-st-james-park"
       },
       {
-        "title": "Bournemouth latest: Striker attracting interest after impressing in pre-season",
-        "link": "https://www.skysports.com/football/live-blog/12040/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+        "title": "Who is Jaissle? What Newcastle fans can expect from Howe's replacement",
+        "link": "https://www.skysports.com/football/news/12040/13568347/matthias-jaissle-to-newcastle-who-is-the-coach-set-to-replace-eddie-howe-at-st-james-park-and-what-can-we-expect"
       },
       {
-        "title": "Celtic boss O'Neill in hospital after undergoing 'small procedure'",
-        "link": "https://www.skysports.com/football/news/12040/13570119/martin-oneill-celtic-manager-in-hospital-after-small-procedure-as-club-expect-return-home-in-coming-days"
+        "title": "Argentina fly-half Albornoz hit with four-game ban over ugly England scenes",
+        "link": "https://www.skysports.com/rugby-union/news/12040/13570147/nations-championship-argentina-fly-half-albornoz-hit-with-four-game-ban-over-ugly-england-scenes-in-santiago-del-estero"
       },
       {
-        "title": "Spurs latest: Atletico set for Romero approach with Moore close to loan exit",
-        "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "title": "Rockets all but qualified with win over Phoenix as Fire stay in the hunt",
+        "link": "https://www.skysports.com/cricket/news/12040/13570083/the-hundred-trent-rockets-all-but-qualified-in-womens-competition-with-win-over-birmingham-phoenix"
       }
     ],
     "pitchfork": [],
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
+        "title": "The 2026 Student Academy Awards Are Coming to the Toronto International Film Festival",
+        "link": "https://www.indiewire.com/awards/results/2026-student-academy-awards-winners-tiff-1235208822/"
+      },
+      {
+        "title": "Indie Film\u2019s Next Money Doesn\u2019t Want Your Passion Project",
+        "link": "https://www.indiewire.com/features/commentary/indie-film-investors-dont-want-your-passion-project-1235208806/"
+      },
+      {
         "title": "\u2018The Shards\u2019 Review: Ryan Murphy\u2019s Unboring Bret Easton Ellis Adaptation Never Comes Together",
         "link": "https://www.indiewire.com/criticism/shows/the-shards-review-ryan-murphy-bret-easton-ellis-series-1235208379/"
       },
       {
         "title": "NYFF Reveals Main Slate: Sandra H\u00fcller in \u2018Rose,\u2019 Andrew Haigh\u2019s \u2018A Long Winter,\u2019 Mike Leigh\u2019s \u2018Tender Loving Care,\u2019 and Cannes Favorites",
         "link": "https://www.indiewire.com/news/festivals/nyff-reveals-main-slate-2026-movies-1235208529/"
-      },
-      {
-        "title": "TIFF Launches Docs Like Alex Gibney\u2019s \u2018Musk,\u2019 Barbara Kopple\u2019s \u2018Union Town,\u2019 and Megan Rapinoe Opener",
-        "link": "https://www.indiewire.com/news/festivals/tiff-2026-launches-docs-elon-musk-edward-said-megan-rapinoe-1235208626/"
-      },
-      {
-        "title": "\u2018What Waits Beyond the Edge of the Known World?\u2019: Laika\u2019s \u2018Wildwood\u2019 Poster Teases  Portland-Set Stop-Motion Adventure",
-        "link": "https://www.indiewire.com/news/general-news/wildwood-poster-laika-stop-motion-movie-1235208575/"
       }
     ],
     "variety": [
       {
-        "title": "Ted Sarandos Meets Prime Minister Narendra Modi, Unveils Netflix India Storytelling Initiative",
-        "link": "https://variety.com/2026/tv/news/ted-sarandos-narendra-modi-netflix-india-storytelling-initiative-1236828464/"
+        "title": "Sienna Spiro on Writing Candidly as a Young Woman, While Being Frank About Adoring Sinatra and Twiggy: \u2018Being 20 Is Just Tricky, Period\u2019",
+        "link": "https://variety.com/2026/music/news/sienna-spiro-visitor-interview-1236826145/"
       },
       {
-        "title": "ABC News Digital Workers Unionize With WGA East in Unanimous Vote",
-        "link": "https://variety.com/2026/tv/news/abc-news-digital-wga-east-union-1236827549/"
+        "title": "\u2018Gilmore Girls\u2019 Documentary Set at HBO Max With Lauren Graham, Never-Before-Seen Footage and More",
+        "link": "https://variety.com/2026/tv/news/gilmore-girls-documentary-hbo-max-1236828437/"
       },
       {
-        "title": "\u2018One Night Only\u2019 Review: Monica Barbaro and Callum Turner Are Too Hot for This Sexless Sex Comedy",
-        "link": "https://variety.com/2026/film/news/one-night-only-review-1236828254/"
+        "title": "Olivia Rodrigo Slams Trump for \u2018Defunding\u2019 Planned Parenthood: \u2018We\u2019ll Never Stop Fighting\u2019",
+        "link": "https://variety.com/2026/music/news/olivia-rodrigo-slams-donald-trump-planned-parenthood-1236828564/"
       },
       {
-        "title": "\u2018Martin\u2019 Spinoff \u2018The Varnell Hill Show\u2019 Sets September Release Date, Drops First Look Photos",
-        "link": "https://variety.com/2026/tv/news/martin-spinoff-varnell-hill-show-release-date-1236828346/"
+        "title": "\u2018The Five Star Weekend\u2019 Renewed for Season 2 After Becoming Peacock\u2019s Most-Watched Scripted Series Ever",
+        "link": "https://variety.com/2026/tv/news/the-five-star-weekend-renewed-season-2-peacock-1236828505/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018One Night Only\u2019 Review: Monica Barbaro and Callum Turner Sparkle in a Rom-Com Sweeter and Sexier Than Its Contrived Script Deserves",
-        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/one-night-only-review-monica-barbaro-callum-turner-1236664648/"
+        "title": "Perez Hilton Hospitalized After Appearing to Harm Himself on Livestream",
+        "link": "https://www.hollywoodreporter.com/news/general-news/police-respond-perez-hilton-home-harm-himself-livestream-1236664590/"
       },
       {
-        "title": "NY Film Festival Reveals 2026 Main Slate With Cannes Winners \u2018Minotaur,\u2019 \u2018Fatherland\u2019 and \u2018All of a Sudden\u2019",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/2026-ny-film-festival-main-slate-1236664850/"
+        "title": "\u2018Gilmore Girls\u2019 Documentary Filming for HBO Max",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/gilmore-girls-documentary-hbo-max-1236664946/"
       },
       {
-        "title": "\u2018The Shards\u2019 Review: Ryan Murphy and Bret Easton Ellis Team Up for FX\u2019s Predictably Excess-Soaked Tale of Prep-School Sex, Drugs and Murder",
-        "link": "https://www.hollywoodreporter.com/tv/tv-reviews/the-shards-review-ryan-murphy-bret-easton-ellis-fx-hulu-1236661222/"
+        "title": "Paramount+ Scored With Dad Shows. Now It\u2019s Coming for the Ladies",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/paramount-buying-shows-1236664870/"
       },
       {
-        "title": "\u2018The Green Eyes\u2019 Is a Refugee Adventure Drama for Our Time (Exclusive Trailer)",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/the-green-eyes-film-trailer-les-yeux-verts-locarno-2026-1236664672/"
+        "title": "More than 50 Dishes Were Created for \u2018The Bear\u2019 Season Four, and 5 Other Fun Facts",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/the-bear-season-four-fun-facts-1236664101/"
       }
     ],
     "larb": [],
@@ -280,20 +280,20 @@
     ],
     "nautilus": [
       {
+        "title": "Mountain Lions Make Roads Safer",
+        "link": "https://nautil.us/mountain-lions-make-roads-safer-1283388/"
+      },
+      {
+        "title": "What Happens When You Put an AI-Powered Banana Casino in a Monkey Reserve?",
+        "link": "https://nautil.us/what-happens-when-you-put-an-ai-powered-banana-casino-in-a-monkey-reserve-1283416/"
+      },
+      {
         "title": "This Image from the Dark Energy Camera Is a Bit Van Gogh, No?",
         "link": "https://nautil.us/this-image-from-the-dark-energy-camera-is-a-bit-van-gogh-no-1283412/"
       },
       {
         "title": "People With This Neanderthal Hormone Receptor Have More Muscle Mass",
         "link": "https://nautil.us/people-with-this-neanderthal-hormone-receptor-have-more-muscle-mass-1283409/"
-      },
-      {
-        "title": "Here\u2019s Why There Aren\u2019t Any Tiny Dinosaurs",
-        "link": "https://nautil.us/heres-why-there-arent-any-tiny-dinosaurs-1283402/"
-      },
-      {
-        "title": "A New Toad Species Emerges from the La Brea Tar Pits",
-        "link": "https://nautil.us/a-new-toad-species-emerges-from-the-la-brea-tar-pits-1283396/"
       }
     ],
     "worksinprogress": [],
