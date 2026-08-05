@@ -1,10 +1,14 @@
 {
-  "last_updated": "2026-08-05 08:24 UTC",
+  "last_updated": "2026-08-05 11:13 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Burnham 'looking into' conducting Epstein inquiry, says victims minister",
-        "link": "https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&at_campaign=rss"
+        "title": "Police chief considers joining legal action over PC Harper killers' early release",
+        "link": "https://www.bbc.co.uk/news/articles/cx2v5kj9zzko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ex-MP urges Tories to block council candidate jailed for antisemitic abuse against her",
+        "link": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds",
@@ -13,47 +17,43 @@
       {
         "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
         "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Temperatures to drop briefly ahead of potential new UK heatwave",
-        "link": "https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Why the Trump administration is helping support Japan\u2019s weakening yen",
-        "link": "https://www.aljazeera.com/economy/2026/8/5/why-the-trump-administration-is-helping-support-japans-weakening-yen?traffic_source=rss"
+        "title": "Vozinha moves on from World Cup, says \u2018Colo-Colo is the best moment\u2019",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/vozinha-moves-on-from-world-cup-says-colo-colo-is-the-best?traffic_source=rss"
       },
       {
-        "title": "Pakistan and Uganda athletes \u2018missing\u2019 after Commonwealth Games",
-        "link": "https://www.aljazeera.com/sports/2026/8/5/pakistan-and-uganda-athletes-missing-after-commonwealth-games?traffic_source=rss"
+        "title": "Israeli raid deepens fears across West Bank refugee camps",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-raid-deepens-fears-across-west-bank-refugee-camps?traffic_source=rss"
       },
       {
-        "title": "Nigeria cannot build safe schools in unsafe communities",
-        "link": "https://www.aljazeera.com/opinions/2026/8/5/nigeria-cannot-build-safe-schools-in-unsafe-communities?traffic_source=rss"
+        "title": "India\u2019s severe monsoon season causes more than 100 deaths since July",
+        "link": "https://www.aljazeera.com/news/2026/8/5/indias-severe-monsoon-season-causes-more-than-100-deaths-since-july?traffic_source=rss"
       },
       {
-        "title": "Alcaraz withdraws from Cincinnati event as doubts grow over US Open defence",
-        "link": "https://www.aljazeera.com/sports/2026/8/5/alcaraz-withdraws-from-cincinnati-event-as-doubts-grow-over-us-open-defence?traffic_source=rss"
+        "title": "How Israeli restrictions on Palestinians\u2019 movement break up the West Bank",
+        "link": "https://www.aljazeera.com/opinions/2026/8/5/how-israeli-restrictions-on-palestinians-movement-break-up-the-west-bank?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Arsenal agree \u00a375m Guimaraes fee",
+        "title": "Liverpool explore deal for PSG winger Mbaye",
+        "link": "https://www.skysports.com/football/news/12040/13569955/ibrahim-mbaye-liverpool-explore-deal-for-paris-saint-germain-winger"
+      },
+      {
+        "title": "Arsenal agree fee for Guimaraes",
         "link": "https://www.skysports.com/football/news/12040/13569653/bruno-guimaraes-transfer-news-arsenal-agree-75m-fee-for-newcastle-midfielder"
       },
       {
-        "title": "Alcaraz withdraws from Cincinnati Open",
-        "link": "https://www.skysports.com/tennis/news/12040/13569917/carlos-alcaraz-withdraws-from-cincinnati-open-due-to-ongoing-wrist-injury-with-worries-over-us-open-defence"
+        "title": "The latest transfer news on Guimaraes, Diomande,  Vinicius Jr and more...",
+        "link": "https://www.skysports.com/watch/video/13569966/transfer-update-the-latest-on-gumaraes-diomande-vinicius-jr-and-more"
       },
       {
-        "title": "Silca Bay and Sea Suite face off as Brighton Festival begins",
-        "link": "https://www.skysports.com/racing/news/12040/13569452/today-on-sky-sports-racing-silca-bay-and-sea-suite-face-off-as-brighton-festival-begins"
-      },
-      {
-        "title": "Draper in tears amid injury concern during defeat in Montreal",
-        "link": "https://www.skysports.com/tennis/news/12040/13569819/jack-draper-in-tears-amid-injury-concern-during-defeat-to-terence-atmane-on-return-to-action-in-montreal"
+        "title": "Yokota targets 'special memories' as he seals Rangers move",
+        "link": "https://www.skysports.com/football/news/12040/13569962/rangers-transfer-news-daisuke-yokota-joins-from-hannover-96-to-become-derek-mcinnes-ninth-summer-signing"
       }
     ],
     "pitchfork": [],
@@ -171,23 +171,31 @@
     ],
     "variety": [
       {
-        "title": "\u2018Ted Lasso\u2019 Season 4 Is Both a Promising Reboot and a Tedious Sequel: TV Review",
-        "link": "https://variety.com/2026/tv/reviews/ted-lasso-season-4-review-1236827749/"
+        "title": "Prateek Kuhad to Make Feature Film Acting Debut in Marginal MediaWorks, D36 and Jugaad\u2019s \u2018Drowning,\u2019 Directed by Dar Gai (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/news/prateek-kuhad-feature-film-acting-debut-drowning-dar-gai-1236828131/"
       },
       {
-        "title": "\u2018The Blacklist Was a Plague\u2019 \u2014 Locarno Retrospective Curator Ehsan Khoshbakht Talks About What We Can Learn From the Intolerance of the Past",
-        "link": "https://variety.com/2026/film/global/blacklist-locarno-retrospective-ehsan-khoshbakht-red-scare-1236827487/"
+        "title": "Disney Streaming Profit Doubles in June Quarter, Company Shifting Consumer Products to Studios Division",
+        "link": "https://variety.com/2026/tv/news/disney-streaming-earnings-q3-2026-consumer-products-shift-1236827893/"
       },
       {
-        "title": "Locarno Open Doors 2026: Next Gen African Tales of Miraculous Snowfalls, Lost Dreams, an African Keyboard Prodigy and New Heroes\u00a0",
-        "link": "https://variety.com/2026/film/global/locarno-open-doors-ique-langa-suzannah-mirghani-1236827734/"
+        "title": "\u2018The Mummy\u2019 Poster Ads Banned From London Underground After Advertising Watchdog Cites \u2018Distressing\u2019 Imagery",
+        "link": "https://variety.com/2026/film/news/the-mummy-poster-ads-banned-london-underground-1236828159/"
       },
       {
-        "title": "How Genesis Is Using Korean Hospitality and the Power of Sports to Build a New Kind of Luxury Brand",
-        "link": "https://variety.com/2026/shopping/news/genesis-automotive-pga-tour-golf-sponsorship-activation-1236724155/"
+        "title": "Alba Rohrwacher-Starrer \u2018A Common Story\u2019 Gets Boarded by True Colours Ahead of its Venice and Toronto Premieres (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/festivals/true-colours-sales-rohrwacher-a-common-story-venice-toronto-1236828154/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "\u2018Toy Story 5\u2019 and Theme Parks Power Disney in Latest Quarter, as Company Teases Big Changes Ahead",
+        "link": "https://www.hollywoodreporter.com/business/business-news/toy-story-5-theme-parks-power-disney-latest-earnings-report-1236664400/"
+      },
+      {
+        "title": "Disney and TikTok Ink Wide-Ranging Deal, Videos From Tech Platform Will Be Added to Disney+",
+        "link": "https://www.hollywoodreporter.com/business/digital/tiktok-disney-plus-streaming-video-deal-1236664455/"
+      },
       {
         "title": "Inside \u2018I Is Another\u2019: The True(ish) Story of the Man Who Massaged a Nazi and Maybe Saved Lives",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/i-is-another-film-stars-claes-bang-heinrich-himmler-masseur-1236652894/"
@@ -195,18 +203,14 @@
       {
         "title": "\u2018Ted Lasso\u2019 Review: Season 4 of Apple\u2019s Hit Soccer Dramedy Struggles to Find Anywhere Interesting Left to Go",
         "link": "https://www.hollywoodreporter.com/tv/tv-reviews/ted-lasso-review-season-4-apple-jason-sudeikis-1236664138/"
-      },
-      {
-        "title": "Maria B\u00e4ck on \u2018Brave New Love,\u2019 Her Provocative Take on Motherhood, Desire and Modern Romance",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/brave-new-love-film-locarno-2026-love-triangle-interview-1236661782/"
-      },
-      {
-        "title": "What David Ellison Is Really Up to",
-        "link": "https://www.hollywoodreporter.com/business/business-news/david-ellison-paramount-merger-rob-bonta-lawsuit-ag-1236664494/"
       }
     ],
     "larb": [],
     "aeon": [
+      {
+        "title": "The last ice age",
+        "link": "https://aeon.co/videos/as-glaciers-melt-a-writer-considers-what-stories-can-do-that-data-cannot"
+      },
       {
         "title": "Towards an AI for Africa",
         "link": "https://aeon.co/essays/an-ai-for-africa-would-be-built-on-hunhu-ubuntu-ethics"
@@ -218,13 +222,13 @@
       {
         "title": "Thucydides the perspicacious",
         "link": "https://aeon.co/essays/thucydides-account-of-war-is-as-timely-as-it-is-misunderstood"
-      },
-      {
-        "title": "Resist the technocrats",
-        "link": "https://aeon.co/essays/are-we-witnessing-the-end-of-the-technocratic-international"
       }
     ],
     "psyche": [
+      {
+        "title": "How to enter a state of flow",
+        "link": "https://psyche.co/guides/how-to-enter-a-state-of-flow"
+      },
       {
         "title": "Free-range fraud",
         "link": "https://psyche.co/turning-points/my-double-life-came-to-a-head-when-i-pretended-to-be-vegan"
@@ -236,10 +240,6 @@
       {
         "title": "Why we should learn to embrace the middlebrow",
         "link": "https://psyche.co/ideas/why-we-should-learn-to-embrace-the-middlebrow"
-      },
-      {
-        "title": "Hoarding: how it impacted my life",
-        "link": "https://psyche.co/videos/why-people-hoard-and-how-you-can-help-them"
       }
     ],
     "publicdomainreview": [
