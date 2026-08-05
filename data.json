@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05 05:39 UTC",
+  "last_updated": "2026-08-05 08:24 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,38 +7,46 @@
         "link": "https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Russian ballistic missile strike on Kyiv kills 14 and injures 22, officials say",
-        "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds",
         "link": "https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Temperatures to drop briefly ahead of next UK heatwave ",
+        "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
+        "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Temperatures to drop briefly ahead of potential new UK heatwave",
         "link": "https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Bangladesh Truth Seeker",
-        "link": "https://www.aljazeera.com/video/witness/2026/8/5/bangladesh-truth-seeker?traffic_source=rss"
+        "title": "Why the Trump administration is helping support Japan\u2019s weakening yen",
+        "link": "https://www.aljazeera.com/economy/2026/8/5/why-the-trump-administration-is-helping-support-japans-weakening-yen?traffic_source=rss"
       },
       {
-        "title": "Explosions across Kyiv as Russian missiles strike Ukraine\u2019s capital",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/explosions-across-kyiv-as-russian-missiles-strike-ukraines-capital?traffic_source=rss"
+        "title": "Pakistan and Uganda athletes \u2018missing\u2019 after Commonwealth Games",
+        "link": "https://www.aljazeera.com/sports/2026/8/5/pakistan-and-uganda-athletes-missing-after-commonwealth-games?traffic_source=rss"
       },
       {
-        "title": "Has a US court just set the grounds for another January 6 insurrection?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/has-a-us-court-just-set-the-grounds-for-another-january-6-insurrection?traffic_source=rss"
+        "title": "Nigeria cannot build safe schools in unsafe communities",
+        "link": "https://www.aljazeera.com/opinions/2026/8/5/nigeria-cannot-build-safe-schools-in-unsafe-communities?traffic_source=rss"
       },
       {
-        "title": "Bolivia sends troops to stop Brazilian gang violence along border",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/bolivia-sends-troops-to-stop-brazilian-gang-violence-along-border?traffic_source=rss"
+        "title": "Alcaraz withdraws from Cincinnati event as doubts grow over US Open defence",
+        "link": "https://www.aljazeera.com/sports/2026/8/5/alcaraz-withdraws-from-cincinnati-event-as-doubts-grow-over-us-open-defence?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "Arsenal agree \u00a375m Guimaraes fee",
+        "link": "https://www.skysports.com/football/news/12040/13569653/bruno-guimaraes-transfer-news-arsenal-agree-75m-fee-for-newcastle-midfielder"
+      },
+      {
+        "title": "Alcaraz withdraws from Cincinnati Open",
+        "link": "https://www.skysports.com/tennis/news/12040/13569917/carlos-alcaraz-withdraws-from-cincinnati-open-due-to-ongoing-wrist-injury-with-worries-over-us-open-defence"
+      },
       {
         "title": "Silca Bay and Sea Suite face off as Brighton Festival begins",
         "link": "https://www.skysports.com/racing/news/12040/13569452/today-on-sky-sports-racing-silca-bay-and-sea-suite-face-off-as-brighton-festival-begins"
@@ -46,14 +54,6 @@
       {
         "title": "Draper in tears amid injury concern during defeat in Montreal",
         "link": "https://www.skysports.com/tennis/news/12040/13569819/jack-draper-in-tears-amid-injury-concern-during-defeat-to-terence-atmane-on-return-to-action-in-montreal"
-      },
-      {
-        "title": "Brook stars as SunRisers thrash Spirit after setting record Hundred total",
-        "link": "https://www.skysports.com/cricket/news/12040/13569782/the-hundred-sunrisers-leeds-thrash-london-spirit-after-scoring-241-to-set-highest-total-in-tournament-history"
-      },
-      {
-        "title": "The dangerous jobs of Callum Walsh \u2013 the making of a fighter ",
-        "link": "https://www.skysports.com/boxing/news/12040/13569883/callum-walsh-from-working-on-fishing-boats-to-ferocious-sparring-at-the-wild-card-gym-the-making-of-a-fighter"
       }
     ],
     "pitchfork": [],
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018Ted Lasso\u2019 Season 4 Review: Jason Sudeikis\u2019 Cheery Coach Is Still Off His Game",
+        "link": "https://www.indiewire.com/criticism/shows/ted-lasso-season-4-review-1235208098/"
+      },
+      {
         "title": "Juliette Lewis Recalls Robert De Niro on Set of Scorsese\u2019s \u2018Cape Fear\u2019: \u2018He Had an Organ Player and Was Speaking in Tongues\u2019",
         "link": "https://www.indiewire.com/features/interviews/juliette-lewis-cape-fear-finale-robert-de-niro-scorsese-1235208568/"
       },
@@ -163,46 +167,42 @@
       {
         "title": "Will Gluck Just Wants to Make Movies About Relationships \u2014 Including the Wild Ones Like in \u2018One Night Only\u2019",
         "link": "https://www.indiewire.com/features/interviews/one-night-only-will-gluck-interview-relationship-movies-1235208210/"
-      },
-      {
-        "title": "After Row K Collapse, Maude Apatow\u2019s Directorial Debut \u2018Poetic License\u2019 Finds a New Home",
-        "link": "https://www.indiewire.com/news/breaking-news/maude-apatow-poetic-license-release-1235208511/"
       }
     ],
     "variety": [
       {
+        "title": "\u2018Ted Lasso\u2019 Season 4 Is Both a Promising Reboot and a Tedious Sequel: TV Review",
+        "link": "https://variety.com/2026/tv/reviews/ted-lasso-season-4-review-1236827749/"
+      },
+      {
+        "title": "\u2018The Blacklist Was a Plague\u2019 \u2014 Locarno Retrospective Curator Ehsan Khoshbakht Talks About What We Can Learn From the Intolerance of the Past",
+        "link": "https://variety.com/2026/film/global/blacklist-locarno-retrospective-ehsan-khoshbakht-red-scare-1236827487/"
+      },
+      {
+        "title": "Locarno Open Doors 2026: Next Gen African Tales of Miraculous Snowfalls, Lost Dreams, an African Keyboard Prodigy and New Heroes\u00a0",
+        "link": "https://variety.com/2026/film/global/locarno-open-doors-ique-langa-suzannah-mirghani-1236827734/"
+      },
+      {
         "title": "How Genesis Is Using Korean Hospitality and the Power of Sports to Build a New Kind of Luxury Brand",
         "link": "https://variety.com/2026/shopping/news/genesis-automotive-pga-tour-golf-sponsorship-activation-1236724155/"
-      },
-      {
-        "title": "Perez Hilton: Disturbing Livestream Frightens Fans, Rushed to Hospital After Police Investigation",
-        "link": "https://variety.com/2026/tv/news/perez-hilton-livestream-police-miami-home-1236828090/"
-      },
-      {
-        "title": "Eli Roth Admits \u2018Ice Cream Man\u2019 Features AI-Assisted Shots After Suggesting Otherwise: \u2018I Misspoke\u2019",
-        "link": "https://variety.com/2026/film/news/eli-roth-ice-cream-man-ai-generated-shots-1236828000/"
-      },
-      {
-        "title": "ESPN Taps Creators to Help Promote the NFL Season and its First Super Bowl Telecast",
-        "link": "https://variety.com/2026/tv/news/espn-creators-nfl-diana-flores-chase-murman-simone-scott-1236827688/"
       }
     ],
     "hollywoodreporter": [
       {
+        "title": "Inside \u2018I Is Another\u2019: The True(ish) Story of the Man Who Massaged a Nazi and Maybe Saved Lives",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/i-is-another-film-stars-claes-bang-heinrich-himmler-masseur-1236652894/"
+      },
+      {
+        "title": "\u2018Ted Lasso\u2019 Review: Season 4 of Apple\u2019s Hit Soccer Dramedy Struggles to Find Anywhere Interesting Left to Go",
+        "link": "https://www.hollywoodreporter.com/tv/tv-reviews/ted-lasso-review-season-4-apple-jason-sudeikis-1236664138/"
+      },
+      {
+        "title": "Maria B\u00e4ck on \u2018Brave New Love,\u2019 Her Provocative Take on Motherhood, Desire and Modern Romance",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/brave-new-love-film-locarno-2026-love-triangle-interview-1236661782/"
+      },
+      {
         "title": "What David Ellison Is Really Up to",
         "link": "https://www.hollywoodreporter.com/business/business-news/david-ellison-paramount-merger-rob-bonta-lawsuit-ag-1236664494/"
-      },
-      {
-        "title": "Police Respond to Perez Hilton\u2019s Miami Home After He Appeared to Harm Himself on Livestream",
-        "link": "https://www.hollywoodreporter.com/news/general-news/police-respond-perez-hilton-home-harm-himself-livestream-1236664590/"
-      },
-      {
-        "title": "\u2018Ted Lasso\u2019 Makes Long-Awaited Return: When and Where to Watch Season 4 Online",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-ted-lasso-season-4-online-free-trial-apple-tv-1236664333/"
-      },
-      {
-        "title": "The Highest-Grossing Theater for \u2018The Odyssey\u2019 in 70MM Hadn\u2019t Screened a New Movie in 35 Years",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/alex-theatre-the-odyssey-70mm-box-office-1236664347/"
       }
     ],
     "larb": [],
