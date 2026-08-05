@@ -1,44 +1,48 @@
 {
-  "last_updated": "2026-08-05 01:53 UTC",
+  "last_updated": "2026-08-05 05:39 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-        "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss"
+        "title": "Burnham 'looking into' conducting Epstein inquiry, says victims minister",
+        "link": "https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Temperatures to drop briefly ahead of next UK heatwave ",
-        "link": "https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss"
+        "title": "Russian ballistic missile strike on Kyiv kills 14 and injures 22, officials say",
+        "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds",
         "link": "https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
-        "link": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&at_campaign=rss"
+        "title": "Temperatures to drop briefly ahead of next UK heatwave ",
+        "link": "https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Armed man arrested at Trump\u2019s LA golf course ahead of president\u2019s visit",
-        "link": "https://www.aljazeera.com/news/2026/8/5/armed-man-arrested-at-trumps-la-golf-course-ahead-of-presidents-visit?traffic_source=rss"
+        "title": "Bangladesh Truth Seeker",
+        "link": "https://www.aljazeera.com/video/witness/2026/8/5/bangladesh-truth-seeker?traffic_source=rss"
       },
       {
-        "title": "Ceuta and Melilla: Why Europe\u2019s African border remains a flashpoint",
-        "link": "https://www.aljazeera.com/news/2026/8/5/ceuta-and-melilla-why-europes-african-border-remains-a-flashpoint?traffic_source=rss"
+        "title": "Explosions across Kyiv as Russian missiles strike Ukraine\u2019s capital",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/explosions-across-kyiv-as-russian-missiles-strike-ukraines-capital?traffic_source=rss"
       },
       {
-        "title": "Ukrainian man chased by exploding drone recounts his terror",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/ukrainian-man-chased-by-exploding-drone-recounts-his-terror?traffic_source=rss"
+        "title": "Has a US court just set the grounds for another January 6 insurrection?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/has-a-us-court-just-set-the-grounds-for-another-january-6-insurrection?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Tehran-Oman talks on Hormuz \u2018positive\u2019; ship hit in Red Sea",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss"
+        "title": "Bolivia sends troops to stop Brazilian gang violence along border",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/bolivia-sends-troops-to-stop-brazilian-gang-violence-along-border?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "Silca Bay and Sea Suite face off as Brighton Festival begins",
+        "link": "https://www.skysports.com/racing/news/12040/13569452/today-on-sky-sports-racing-silca-bay-and-sea-suite-face-off-as-brighton-festival-begins"
+      },
       {
         "title": "Draper in tears amid injury concern during defeat in Montreal",
         "link": "https://www.skysports.com/tennis/news/12040/13569819/jack-draper-in-tears-amid-injury-concern-during-defeat-to-terence-atmane-on-return-to-action-in-montreal"
@@ -48,12 +52,8 @@
         "link": "https://www.skysports.com/cricket/news/12040/13569782/the-hundred-sunrisers-leeds-thrash-london-spirit-after-scoring-241-to-set-highest-total-in-tournament-history"
       },
       {
-        "title": "Several athletes 'unaccounted for' after Commonwealth Games in Glasgow",
-        "link": "https://www.skysports.com/athletics/news/12040/13569853/commonwealth-games-several-athletes-unaccounted-for-after-glasgow-event-according-to-police-scotland"
-      },
-      {
-        "title": "Sutherland leads SunRisers to tight win over Spirit",
-        "link": "https://www.skysports.com/cricket/news/12040/13569781/the-hundred-sunrisers-leeds-claim-tight-win-over-london-spirit-as-annabel-sutherland-stars-with-bat-at-headingley"
+        "title": "The dangerous jobs of Callum Walsh \u2013 the making of a fighter ",
+        "link": "https://www.skysports.com/boxing/news/12040/13569883/callum-walsh-from-working-on-fishing-boats-to-ferocious-sparring-at-the-wild-card-gym-the-making-of-a-fighter"
       }
     ],
     "pitchfork": [],
@@ -171,23 +171,31 @@
     ],
     "variety": [
       {
-        "title": "Lindsey Buckingham, Madison Beer, Kiernan Shipka and Tiffani Thiessen Named As Presenters for Variety\u2019s Power of Young Hollywood",
-        "link": "https://variety.com/2026/biz/news/madison-beer-kiernan-shipka-power-of-young-hollywood-1236828051/"
+        "title": "How Genesis Is Using Korean Hospitality and the Power of Sports to Build a New Kind of Luxury Brand",
+        "link": "https://variety.com/2026/shopping/news/genesis-automotive-pga-tour-golf-sponsorship-activation-1236724155/"
       },
       {
-        "title": "Cannibalism Comedy-Horror \u2018Ali & Ben\u2019s Spicy Meats,\u2019 Starring Amir Nafis, Signs Abnormal Studios for Worldwide Sales (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/news/cannibalism-comedy-ali-bens-spicy-meats-abnormal-studios-worldwide-sales-1236827535/"
+        "title": "Perez Hilton: Disturbing Livestream Frightens Fans, Rushed to Hospital After Police Investigation",
+        "link": "https://variety.com/2026/tv/news/perez-hilton-livestream-police-miami-home-1236828090/"
       },
       {
-        "title": "LISTEN: National Comedy Center\u2019s Journey Gunderson on Preserving Humor as History",
-        "link": "https://variety.com/2026/tv/news/national-comedy-center-journey-gunderson-lucille-ball-fest-1236828038/"
+        "title": "Eli Roth Admits \u2018Ice Cream Man\u2019 Features AI-Assisted Shots After Suggesting Otherwise: \u2018I Misspoke\u2019",
+        "link": "https://variety.com/2026/film/news/eli-roth-ice-cream-man-ai-generated-shots-1236828000/"
       },
       {
-        "title": "Inside Google\u2019s Efforts to Get Creatives Hooked on AI",
-        "link": "https://variety.com/2026/film/news/inside-googles-efforts-creatives-hooked-on-ai-1236827944/"
+        "title": "ESPN Taps Creators to Help Promote the NFL Season and its First Super Bowl Telecast",
+        "link": "https://variety.com/2026/tv/news/espn-creators-nfl-diana-flores-chase-murman-simone-scott-1236827688/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "What David Ellison Is Really Up to",
+        "link": "https://www.hollywoodreporter.com/business/business-news/david-ellison-paramount-merger-rob-bonta-lawsuit-ag-1236664494/"
+      },
+      {
+        "title": "Police Respond to Perez Hilton\u2019s Miami Home After He Appeared to Harm Himself on Livestream",
+        "link": "https://www.hollywoodreporter.com/news/general-news/police-respond-perez-hilton-home-harm-himself-livestream-1236664590/"
+      },
       {
         "title": "\u2018Ted Lasso\u2019 Makes Long-Awaited Return: When and Where to Watch Season 4 Online",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-ted-lasso-season-4-online-free-trial-apple-tv-1236664333/"
@@ -195,14 +203,6 @@
       {
         "title": "The Highest-Grossing Theater for \u2018The Odyssey\u2019 in 70MM Hadn\u2019t Screened a New Movie in 35 Years",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/alex-theatre-the-odyssey-70mm-box-office-1236664347/"
-      },
-      {
-        "title": "\u2018Soulm8te\u2019 Director Kate Dolan on Her Twisty Journey After \u2018M3GAN 2.0\u2019 and What That Ending Could Mean",
-        "link": "https://www.hollywoodreporter.com/movies/movie-features/soulm8te-director-nixed-theatrical-release-interview-ending-1236661828/"
-      },
-      {
-        "title": "David Zaslav\u2019s Summer Camp Dreams Fizzle Out",
-        "link": "https://www.hollywoodreporter.com/business/business-news/david-zaslav-loses-summer-camp-purchase-private-equity-1236660646/"
       }
     ],
     "larb": [],
