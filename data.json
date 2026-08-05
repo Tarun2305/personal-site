@@ -1,7 +1,11 @@
 {
-  "last_updated": "2026-08-05 11:13 UTC",
+  "last_updated": "2026-08-05 13:50 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Family 'devastated' by death of girl, 9, injured on Scottish industrial estate",
+        "link": "https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Police chief considers joining legal action over PC Harper killers' early release",
         "link": "https://www.bbc.co.uk/news/articles/cx2v5kj9zzko?at_medium=RSS&at_campaign=rss"
@@ -11,30 +15,26 @@
         "link": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds",
-        "link": "https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
-        "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss"
+        "title": "Anthropic AI used fake profiles to target people in hack - then hid the evidence",
+        "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Vozinha moves on from World Cup, says \u2018Colo-Colo is the best moment\u2019",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/vozinha-moves-on-from-world-cup-says-colo-colo-is-the-best?traffic_source=rss"
+        "title": "Iraq faces crisis as Shia armed groups defy disarmament",
+        "link": "https://www.aljazeera.com/news/2026/8/5/iraq-faces-crisis-as-shia-armed-groups-defy-disarmament?traffic_source=rss"
       },
       {
-        "title": "Israeli raid deepens fears across West Bank refugee camps",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-raid-deepens-fears-across-west-bank-refugee-camps?traffic_source=rss"
+        "title": "Former heavyweight champ \u2060Parker cleared to fight again after doping ban",
+        "link": "https://www.aljazeera.com/sports/2026/8/5/former-heavyweight-champ-%e2%81%a0parker-cleared-to-fight-again-after-doping-ban?traffic_source=rss"
       },
       {
-        "title": "India\u2019s severe monsoon season causes more than 100 deaths since July",
-        "link": "https://www.aljazeera.com/news/2026/8/5/indias-severe-monsoon-season-causes-more-than-100-deaths-since-july?traffic_source=rss"
+        "title": "UN rights chief says Iran executed at least 56 people since March",
+        "link": "https://www.aljazeera.com/news/2026/8/5/un-rights-chief-says-iran-executed-at-least-56-people-since-march?traffic_source=rss"
       },
       {
-        "title": "How Israeli restrictions on Palestinians\u2019 movement break up the West Bank",
-        "link": "https://www.aljazeera.com/opinions/2026/8/5/how-israeli-restrictions-on-palestinians-movement-break-up-the-west-bank?traffic_source=rss"
+        "title": "Pakistan\u2019s Khan in jail for 3 years: PTI rallies over \u2018arbitrary detention\u2019",
+        "link": "https://www.aljazeera.com/news/2026/8/5/pakistans-khan-in-jail-for-3-years-pti-amnesty-slam-solitary-confinement?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -60,6 +60,10 @@
     "quietus": [],
     "aquariumdrunkard": [
       {
+        "title": "Transmissions :: Awake, My Soul",
+        "link": "https://aquariumdrunkard.com/2026/08/05/transmissions-awake-my-soul/"
+      },
+      {
         "title": "Dog Days of Aquarium Drunkard III",
         "link": "https://aquariumdrunkard.com/2026/08/04/dog-days-of-aquarium-drunkard-iii/"
       },
@@ -70,30 +74,26 @@
       {
         "title": "Diversions :: Spiral Galaxy\u2019s \u201cCosmic\u201d Influences",
         "link": "https://aquariumdrunkard.com/2026/07/31/diversions-spiral-galaxys-cosmic-influences/"
-      },
-      {
-        "title": "Big Black :: Two Moonlins And Mother",
-        "link": "https://aquariumdrunkard.com/2026/07/30/big-black-two-moonlins-and-mother/"
       }
     ],
     "bfi": [],
     "criterion": [],
     "rogerebert": [
       {
-        "title": "The People from the Sea: How \u201cThe Odyssey\u201d is About America",
-        "link": "https://www.rogerebert.com/features/the-people-from-the-sea-how-the-odyssey-is-about-america"
+        "title": "Apple TV+\u2019s \u201cTed Lasso\u201d Gets Back on the Pitch For a Welcome Season 4",
+        "link": "https://www.rogerebert.com/streaming/ted-lasso-season-4-jason-sudeikis-apple-tv-review-2026"
       },
       {
-        "title": "Short Films in Focus: Warsha",
-        "link": "https://www.rogerebert.com/short-films-in-focus/short-films-in-focus-warsha"
+        "title": "\u201cStar Wars: Visions Presents \u2013 The Ninth Jedi\u201d Expands the Animated Potential of a Galaxy Far, Far Waway",
+        "link": "https://www.rogerebert.com/streaming/star-wars-visions-presents-the-ninth-jedi-disney-plus-tv-review-2026"
       },
       {
-        "title": "\u201cSterling Point\u201d Might Be Your Next Messy Teen Drama Escape",
-        "link": "https://www.rogerebert.com/streaming/sterling-point-prime-video-tv-review-2026"
+        "title": "Female Filmmakers in Focus: Julia Hart on \u201cDon\u2019t Say Good Luck\u201d",
+        "link": "https://www.rogerebert.com/interviews/female-filmmakers-in-focus-julia-hart-on-dont-say-good-luck"
       },
       {
-        "title": "USA Network\u2019s \u201cAnna Pigeon\u201d Is a Satisfying TV Throwback",
-        "link": "https://www.rogerebert.com/streaming/anna-pigeon-usa-tv-review-2026"
+        "title": "Silhouettes and Warnings: On Reading Ray Bradbury\u2019s \u201cThere Will Come Soft Rains\u201d On the Exact Day When It\u2019s Set",
+        "link": "https://www.rogerebert.com/mzs/silhouettes-and-warnings-on-reading-ray-bradburys-there-will-come-soft-rains-on-the-exact-day-when-its-set"
       }
     ],
     "filmcomment": [
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018Wildwood\u2019 Poster Teases Laika\u2019s Portland-Set Stop-Motion Adventure",
+        "link": "https://www.indiewire.com/news/general-news/wildwood-poster-laika-stop-motion-movie-1235208575/"
+      },
+      {
         "title": "\u2018Ted Lasso\u2019 Season 4 Review: Jason Sudeikis\u2019 Cheery Coach Is Still Off His Game",
         "link": "https://www.indiewire.com/criticism/shows/ted-lasso-season-4-review-1235208098/"
       },
@@ -163,46 +167,42 @@
       {
         "title": "How \u2018The Diplomat\u2019 Supporting Stars Allison Janney and Bradley Whitford Stole the Show in Season 3",
         "link": "https://www.indiewire.com/awards/consider-this/the-diplomat-allison-janney-bradley-whitford-emmy-interview-1235208041/"
-      },
-      {
-        "title": "Will Gluck Just Wants to Make Movies About Relationships \u2014 Including the Wild Ones Like in \u2018One Night Only\u2019",
-        "link": "https://www.indiewire.com/features/interviews/one-night-only-will-gluck-interview-relationship-movies-1235208210/"
       }
     ],
     "variety": [
       {
-        "title": "Prateek Kuhad to Make Feature Film Acting Debut in Marginal MediaWorks, D36 and Jugaad\u2019s \u2018Drowning,\u2019 Directed by Dar Gai (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/news/prateek-kuhad-feature-film-acting-debut-drowning-dar-gai-1236828131/"
+        "title": "Sophie Fleur de Bruijn, Whose Spec Script \u2018The One Month Mark\u2019 Sold to Apple With Jennifer Lawrence Attached, Signs With CAA (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/news/sophie-fleur-de-bruijn-mark-apple-jennifer-lawrence-caa-1236828191/"
       },
       {
-        "title": "Disney Streaming Profit Doubles in June Quarter, Company Shifting Consumer Products to Studios Division",
-        "link": "https://variety.com/2026/tv/news/disney-streaming-earnings-q3-2026-consumer-products-shift-1236827893/"
+        "title": "Disney Says Commercials for Super Bowl LXI Have Sold Out",
+        "link": "https://variety.com/2026/tv/news/disney-super-bowl-commercials-sell-out-1236828270/"
       },
       {
-        "title": "\u2018The Mummy\u2019 Poster Ads Banned From London Underground After Advertising Watchdog Cites \u2018Distressing\u2019 Imagery",
-        "link": "https://variety.com/2026/film/news/the-mummy-poster-ads-banned-london-underground-1236828159/"
+        "title": "Disney Looking to Launch Free Streaming Channels as CEO Josh D\u2019Amaro Doubles Down on the Streaming Biz",
+        "link": "https://variety.com/2026/tv/news/disney-free-streaming-channels-launch-josh-damaro-1236828249/"
       },
       {
-        "title": "Alba Rohrwacher-Starrer \u2018A Common Story\u2019 Gets Boarded by True Colours Ahead of its Venice and Toronto Premieres (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/festivals/true-colours-sales-rohrwacher-a-common-story-venice-toronto-1236828154/"
+        "title": "Prime Video\u2019s Stunning Drama \u2019Sterling Point\u2019 Elevates the YA Genre Beyond the Mundane: TV Review",
+        "link": "https://variety.com/2026/tv/reviews/sterling-point-review-prime-video-1236827553/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018Toy Story 5\u2019 and Theme Parks Power Disney in Latest Quarter, as Company Teases Big Changes Ahead",
-        "link": "https://www.hollywoodreporter.com/business/business-news/toy-story-5-theme-parks-power-disney-latest-earnings-report-1236664400/"
+        "title": "Disney Has Already Sold All Its Ads For Next Year\u2019s Super Bowl",
+        "link": "https://www.hollywoodreporter.com/business/business-news/2027-super-bowl-ads-sold-out-espn-disney-1236664715/"
       },
       {
-        "title": "Disney and TikTok Ink Wide-Ranging Deal, Videos From Tech Platform Will Be Added to Disney+",
-        "link": "https://www.hollywoodreporter.com/business/digital/tiktok-disney-plus-streaming-video-deal-1236664455/"
+        "title": "Chris Wallace: States Are Playing Politics With the Law to Block Paramount\u2019s Warner Bros. Deal",
+        "link": "https://www.hollywoodreporter.com/business/business-news/chris-wallace-paramount-warner-bros-deal-1236664373/"
       },
       {
-        "title": "Inside \u2018I Is Another\u2019: The True(ish) Story of the Man Who Massaged a Nazi and Maybe Saved Lives",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/i-is-another-film-stars-claes-bang-heinrich-himmler-masseur-1236652894/"
+        "title": "Disney Is \u201cExploring\u201d Launching Its Own FAST Offering",
+        "link": "https://www.hollywoodreporter.com/business/digital/disney-exploring-launching-fast-offering-1236664717/"
       },
       {
-        "title": "\u2018Ted Lasso\u2019 Review: Season 4 of Apple\u2019s Hit Soccer Dramedy Struggles to Find Anywhere Interesting Left to Go",
-        "link": "https://www.hollywoodreporter.com/tv/tv-reviews/ted-lasso-review-season-4-apple-jason-sudeikis-1236664138/"
+        "title": "\u2018Babylon Berlin\u2019 Going Out With a Bang, and A Warning for Democracy",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/babylon-berlin-final-season-warning-for-democracy-1236664666/"
       }
     ],
     "larb": [],
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "A New Toad Species Emerges from the La Brea Tar Pits",
+        "link": "https://nautil.us/a-new-toad-species-emerges-from-the-la-brea-tar-pits-1283396/"
+      },
+      {
         "title": "These Ancient Sea Worms Have \u201cBiometal\u201d Jaws",
         "link": "https://nautil.us/these-ancient-sea-worms-have-biometal-jaws-1283391/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "What Do People Think About?",
         "link": "https://nautil.us/what-do-people-think-about-1283364/"
-      },
-      {
-        "title": "Check Out Rare Images of Borneo\u2019s \u201cGhosts of the Forest\u201d",
-        "link": "https://nautil.us/check-out-rare-images-of-borneos-ghosts-of-the-forest-1283351/"
       }
     ],
     "worksinprogress": [],
