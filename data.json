@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05 19:19 UTC",
+  "last_updated": "2026-08-05 22:07 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,53 +7,53 @@
         "link": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "Fifa admits mistakes but Infantino remains president",
+        "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Woman arrested after four stabbed in central London",
         "link": "https://www.bbc.co.uk/news/articles/cn0nk17881yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Family 'devastated' by death of girl, 9, as man charged with murder",
-        "link": "https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Anthropic AI used fake profiles to target people in hack then hid the evidence",
-        "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss"
+        "title": "University of Cambridge professor at centre of plagiarism row resigns",
+        "link": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Malaysia vows not to return Rohingya refugees to Myanmar if lives at risk",
-        "link": "https://www.aljazeera.com/news/2026/8/5/malaysia-will-not-return-rohingya-refugees-to-myanmar-if-lives-are-at-risk?traffic_source=rss"
+        "title": "US man arrested at Trump\u2019s golf course charged with multiple felonies",
+        "link": "https://www.aljazeera.com/news/2026/8/5/us-man-arrested-at-trumps-golf-course-charged-with-multiple-felonies?traffic_source=rss"
       },
       {
-        "title": "US law enforcement reports deadly mass shooting in North Carolina",
-        "link": "https://www.aljazeera.com/news/2026/8/5/us-law-enforcement-reports-deadly-mass-shooting-in-north-carolina?traffic_source=rss"
+        "title": "Israeli forces raid camp in occupied West Bank",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-forces-raid-camp-in-occupied-west-bank-2?traffic_source=rss"
       },
       {
-        "title": "Is the conflict between Russia and Ukraine deepening?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/8/5/is-the-conflict-between-russia-and-ukraine-deepening?traffic_source=rss"
+        "title": "Clashes on anniversary of Imran Khan imprisonment",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-clip-teargas-ik-protests-pk?traffic_source=rss"
       },
       {
-        "title": "Photos: Israeli forces raid occupied West Bank\u2019s Qalandiya refugee camp",
-        "link": "https://www.aljazeera.com/gallery/2026/8/5/photos-israeli-forces-raid-occupied-west-banks-qalandiya-refugee-camp?traffic_source=rss"
+        "title": "El-Sayed wins Michigan Democratic Senate primary",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary-2?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Newcastle appoint Jaissle as Howe's successor",
-        "link": "https://www.skysports.com/football/news/12040/13568428/newcastle-united-appoint-matthias-jaissle-as-head-coach-following-eddie-howes-departure-from-st-james-park"
+        "title": "Rockets march on after easy win while Buttler makes history in The Hundred",
+        "link": "https://www.skysports.com/cricket/news/12040/13570084/the-hundred-trent-rockets-continue-dominant-form-with-fifth-straight-win-as-jos-buttler-makes-history-for-manchester-super-giants"
       },
       {
-        "title": "Who is Jaissle? What Newcastle fans can expect from Howe's replacement",
-        "link": "https://www.skysports.com/football/news/12040/13568347/matthias-jaissle-to-newcastle-who-is-the-coach-set-to-replace-eddie-howe-at-st-james-park-and-what-can-we-expect"
+        "title": "Infantino remains FIFA president following crisis meeting",
+        "link": "https://www.skysports.com/football/news/12040/13570210/gianni-infantino-fifa-leaders-back-under-fire-president-following-crisis-meeting-as-he-apologises-for-mistakes-over-world-cup-sell-off"
       },
       {
-        "title": "Argentina fly-half Albornoz hit with four-game ban over ugly England scenes",
-        "link": "https://www.skysports.com/rugby-union/news/12040/13570147/nations-championship-argentina-fly-half-albornoz-hit-with-four-game-ban-over-ugly-england-scenes-in-santiago-del-estero"
+        "title": "Everton latest: Norgaard completes move from Arsenal",
+        "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
       },
       {
-        "title": "Rockets all but qualified with win over Phoenix as Fire stay in the hunt",
-        "link": "https://www.skysports.com/cricket/news/12040/13570083/the-hundred-trent-rockets-all-but-qualified-in-womens-competition-with-win-over-birmingham-phoenix"
+        "title": "Castleford head coach Carr to miss the game against Hull KR",
+        "link": "https://www.skysports.com/rugby-league/news/12040/13570199/ryan-carr-castleford-tigers-head-coach-to-miss-hull-kr-clash-due-to-personal-reasons"
       }
     ],
     "pitchfork": [],
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018One Night Only\u2019 Review: Fascism Gets Off Easy in This Flirty Humiliation Ritual for Will Gluck Fans",
+        "link": "https://www.indiewire.com/criticism/movies/one-night-only-review-will-gluck-1235208629/"
+      },
+      {
+        "title": "\u2018Sterling Point\u2019 Review: Megan Park\u2019s Teen Drama Is a Delightful Summer Escape \u2014 and Honest Where It Counts",
+        "link": "https://www.indiewire.com/criticism/shows/sterling-point-review-megan-park-amazon-series-ella-rubin-1235208696/"
+      },
+      {
+        "title": "\u2018Super Troopers 3\u2019 Review: A Cult Comedy Franchise Takes a Mustache Ride Toward Mediocrity",
+        "link": "https://www.indiewire.com/criticism/movies/super-troopers-3-review-1235208571/"
+      },
+      {
         "title": "The 2026 Student Academy Awards Are Coming to the Toronto International Film Festival",
         "link": "https://www.indiewire.com/awards/results/2026-student-academy-awards-winners-tiff-1235208822/"
-      },
-      {
-        "title": "Indie Film\u2019s Next Money Doesn\u2019t Want Your Passion Project",
-        "link": "https://www.indiewire.com/features/commentary/indie-film-investors-dont-want-your-passion-project-1235208806/"
-      },
-      {
-        "title": "\u2018The Shards\u2019 Review: Ryan Murphy\u2019s Unboring Bret Easton Ellis Adaptation Never Comes Together",
-        "link": "https://www.indiewire.com/criticism/shows/the-shards-review-ryan-murphy-bret-easton-ellis-series-1235208379/"
-      },
-      {
-        "title": "NYFF Reveals Main Slate: Sandra H\u00fcller in \u2018Rose,\u2019 Andrew Haigh\u2019s \u2018A Long Winter,\u2019 Mike Leigh\u2019s \u2018Tender Loving Care,\u2019 and Cannes Favorites",
-        "link": "https://www.indiewire.com/news/festivals/nyff-reveals-main-slate-2026-movies-1235208529/"
       }
     ],
     "variety": [
       {
-        "title": "Sienna Spiro on Writing Candidly as a Young Woman, While Being Frank About Adoring Sinatra and Twiggy: \u2018Being 20 Is Just Tricky, Period\u2019",
-        "link": "https://variety.com/2026/music/news/sienna-spiro-visitor-interview-1236826145/"
+        "title": "Vampire Mockumentary \u2018I Love Paris\u2019 Takes Top Honors at 2026 Fantasia Film Festival Audience Awards",
+        "link": "https://variety.com/2026/film/festivals/i-love-paris-2026-fantasia-film-festival-audience-awards-1236828704/"
       },
       {
-        "title": "\u2018Gilmore Girls\u2019 Documentary Set at HBO Max With Lauren Graham, Never-Before-Seen Footage and More",
-        "link": "https://variety.com/2026/tv/news/gilmore-girls-documentary-hbo-max-1236828437/"
+        "title": "\u2018Mustache\u2019 Review: A Delightfully Anxious Pakistani American Coming-of-Age Comedy",
+        "link": "https://variety.com/2026/film/news/mustache-review-1236827903/"
       },
       {
-        "title": "Olivia Rodrigo Slams Trump for \u2018Defunding\u2019 Planned Parenthood: \u2018We\u2019ll Never Stop Fighting\u2019",
-        "link": "https://variety.com/2026/music/news/olivia-rodrigo-slams-donald-trump-planned-parenthood-1236828564/"
+        "title": "\u2018Soulm8te\u2019 Review: Fembot Goes Rogue in Polished but Predictable Tech Thriller",
+        "link": "https://variety.com/2026/film/reviews/soulm8te-review-1236828635/"
       },
       {
-        "title": "\u2018The Five Star Weekend\u2019 Renewed for Season 2 After Becoming Peacock\u2019s Most-Watched Scripted Series Ever",
-        "link": "https://variety.com/2026/tv/news/the-five-star-weekend-renewed-season-2-peacock-1236828505/"
+        "title": "Music Industry Moves: Alicia Keys Signs With CAA in All Areas; SONA\u2019s Emerging Songwriter Award Nominations Now Open",
+        "link": "https://variety.com/2026/music/news/alicia-keys-signs-with-caa-1236828699/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Perez Hilton Hospitalized After Appearing to Harm Himself on Livestream",
-        "link": "https://www.hollywoodreporter.com/news/general-news/police-respond-perez-hilton-home-harm-himself-livestream-1236664590/"
+        "title": "\u2018KPop Demon Hunters\u2019 Merch Expands With Lego Set Designed in Record Time",
+        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/kpop-demon-hunters-lego-set-release-price-buy-online-amazon-1236665054/"
       },
       {
-        "title": "\u2018Gilmore Girls\u2019 Documentary Filming for HBO Max",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/gilmore-girls-documentary-hbo-max-1236664946/"
+        "title": "Billionaire Rick Caruso Brings Back Palisades Village After Wildfire: \u201cThis Is One Chapter of the Comeback Story\u201d",
+        "link": "https://www.hollywoodreporter.com/business/business-news/rick-caruso-palisades-village-return-wildfire-1236665321/"
       },
       {
-        "title": "Paramount+ Scored With Dad Shows. Now It\u2019s Coming for the Ladies",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/paramount-buying-shows-1236664870/"
+        "title": "Isabella Rossellini Gets Emotional Honoring Her Family Legacy at Locarno\u2019s Opening Night",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/isabella-rossellini-award-refugee-film-open-locarno-2026-1236663754/"
       },
       {
-        "title": "More than 50 Dishes Were Created for \u2018The Bear\u2019 Season Four, and 5 Other Fun Facts",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/the-bear-season-four-fun-facts-1236664101/"
+        "title": "Inside \u2018Sterling Point\u2019: Why Megan Park\u2019s YA Series Trades Tired Tropes for a Refreshing Dose of Realism",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/inside-sterling-point-megan-park-ya-series-cast-producers-1236664341/"
       }
     ],
     "larb": [],
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "Three Things to Avoid in Middle Age If You Want to Stave Off Dementia",
+        "link": "https://nautil.us/three-things-to-avoid-in-middle-age-if-you-want-to-stave-off-dementia-1283422/"
+      },
+      {
         "title": "Mountain Lions Make Roads Safer",
         "link": "https://nautil.us/mountain-lions-make-roads-safer-1283388/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "This Image from the Dark Energy Camera Is a Bit Van Gogh, No?",
         "link": "https://nautil.us/this-image-from-the-dark-energy-camera-is-a-bit-van-gogh-no-1283412/"
-      },
-      {
-        "title": "People With This Neanderthal Hormone Receptor Have More Muscle Mass",
-        "link": "https://nautil.us/people-with-this-neanderthal-hormone-receptor-have-more-muscle-mass-1283409/"
       }
     ],
     "worksinprogress": [],
@@ -311,7 +311,7 @@
         "link": "https://www.noemamag.com/the-rise-and-fall-of-liberal-democracys-shared-fiction"
       },
       {
-        "title": "Inside The Lab Growing Mutant Bacteria To Terraform Earth",
+        "title": "Growing Mutant Bacteria To Save Earth",
         "link": "https://www.noemamag.com/inside-the-lab-growing-mutant-bacteria-to-terraform-earth"
       }
     ]
