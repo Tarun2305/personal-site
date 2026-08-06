@@ -1,40 +1,40 @@
 {
-  "last_updated": "2026-08-05 22:07 UTC",
+  "last_updated": "2026-08-06 01:55 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Infantino sorry for errors but stays Fifa president",
+        "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
         "link": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Fifa admits mistakes but Infantino remains president",
-        "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Woman arrested after four stabbed in central London",
-        "link": "https://www.bbc.co.uk/news/articles/cn0nk17881yo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "University of Cambridge professor at centre of plagiarism row resigns",
         "link": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Jailed funeral boss angers families with 'apology'",
+        "link": "https://www.bbc.co.uk/news/articles/c79gxqynwd3o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "US man arrested at Trump\u2019s golf course charged with multiple felonies",
-        "link": "https://www.aljazeera.com/news/2026/8/5/us-man-arrested-at-trumps-golf-course-charged-with-multiple-felonies?traffic_source=rss"
+        "title": "Mexican influencer shot dead during livestream",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/mexican-influencer-shot-dead-during-livestream-2?traffic_source=rss"
       },
       {
-        "title": "Israeli forces raid camp in occupied West Bank",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-forces-raid-camp-in-occupied-west-bank-2?traffic_source=rss"
+        "title": "Meta\u2019s AI model follows rivals in revealing hacks of outside systems",
+        "link": "https://www.aljazeera.com/news/2026/8/6/metas-ai-model-follows-rivals-in-revealing-hacks-of-outside-systems?traffic_source=rss"
       },
       {
-        "title": "Clashes on anniversary of Imran Khan imprisonment",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-clip-teargas-ik-protests-pk?traffic_source=rss"
+        "title": "FAA says Trump\u2019s Marine One briefly flew too close to passenger jet",
+        "link": "https://www.aljazeera.com/news/2026/8/6/faa-says-trumps-marine-one-briefly-flew-too-close-to-passenger-jet?traffic_source=rss"
       },
       {
-        "title": "El-Sayed wins Michigan Democratic Senate primary",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary-2?traffic_source=rss"
+        "title": "Mamdani praises El-Sayed\u2019s victory, rejects \u2018mini Mamdani\u2019 trope",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/mamdani-praises-el-sayeds-victory-rejects-mini-mamdani-trope?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -60,6 +60,10 @@
     "quietus": [],
     "aquariumdrunkard": [
       {
+        "title": "The Aquarium Drunkard Show: SIRIUS/XMU (7pm PDT, Channel 35)",
+        "link": "https://aquariumdrunkard.com/2026/08/05/the-aquarium-drunkard-show-sirius-xmu-7pm-pdt-channel-35-181/"
+      },
+      {
         "title": "Transmissions :: Awake, My Soul",
         "link": "https://aquariumdrunkard.com/2026/08/05/transmissions-awake-my-soul/"
       },
@@ -70,10 +74,6 @@
       {
         "title": "Twenty Years Inside The Eraser",
         "link": "https://aquariumdrunkard.com/2026/08/03/twenty-years-inside-the-eraser/"
-      },
-      {
-        "title": "Diversions :: Spiral Galaxy\u2019s \u201cCosmic\u201d Influences",
-        "link": "https://aquariumdrunkard.com/2026/07/31/diversions-spiral-galaxys-cosmic-influences/"
       }
     ],
     "bfi": [],
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "Some of TV\u2019s Top Stars Have Yet to Win an Emmy",
+        "link": "https://www.indiewire.com/awards/consider-this/tv-stars-who-have-yet-to-win-an-emmy-1235209046/"
+      },
+      {
         "title": "\u2018One Night Only\u2019 Review: Fascism Gets Off Easy in This Flirty Humiliation Ritual for Will Gluck Fans",
         "link": "https://www.indiewire.com/criticism/movies/one-night-only-review-will-gluck-1235208629/"
       },
@@ -163,13 +167,17 @@
       {
         "title": "\u2018Super Troopers 3\u2019 Review: A Cult Comedy Franchise Takes a Mustache Ride Toward Mediocrity",
         "link": "https://www.indiewire.com/criticism/movies/super-troopers-3-review-1235208571/"
-      },
-      {
-        "title": "The 2026 Student Academy Awards Are Coming to the Toronto International Film Festival",
-        "link": "https://www.indiewire.com/awards/results/2026-student-academy-awards-winners-tiff-1235208822/"
       }
     ],
     "variety": [
+      {
+        "title": "Regal Cinemas CEO Eduardo Acuna Backs Paramount-Warner Bros. Merger, Says Antitrust Trial \u2018Creates More Uncertainty and Distraction\u2019",
+        "link": "https://variety.com/2026/film/news/regal-cinemas-ceo-supports-paramount-warner-bros-merger-1236828802/"
+      },
+      {
+        "title": "Bella Thorne and Zendaya Got Pitted Against Each Other During Disney Fame and Snuck Off Set to \u2018Hash It Out\u2019 After Things \u2018Got Pretty Bad\u2019",
+        "link": "https://variety.com/2026/tv/news/zendaya-bella-thorne-feud-disney-pitted-against-each-other-1236828507/"
+      },
       {
         "title": "Vampire Mockumentary \u2018I Love Paris\u2019 Takes Top Honors at 2026 Fantasia Film Festival Audience Awards",
         "link": "https://variety.com/2026/film/festivals/i-love-paris-2026-fantasia-film-festival-audience-awards-1236828704/"
@@ -177,32 +185,24 @@
       {
         "title": "\u2018Mustache\u2019 Review: A Delightfully Anxious Pakistani American Coming-of-Age Comedy",
         "link": "https://variety.com/2026/film/news/mustache-review-1236827903/"
-      },
-      {
-        "title": "\u2018Soulm8te\u2019 Review: Fembot Goes Rogue in Polished but Predictable Tech Thriller",
-        "link": "https://variety.com/2026/film/reviews/soulm8te-review-1236828635/"
-      },
-      {
-        "title": "Music Industry Moves: Alicia Keys Signs With CAA in All Areas; SONA\u2019s Emerging Songwriter Award Nominations Now Open",
-        "link": "https://variety.com/2026/music/news/alicia-keys-signs-with-caa-1236828699/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018KPop Demon Hunters\u2019 Merch Expands With Lego Set Designed in Record Time",
-        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/kpop-demon-hunters-lego-set-release-price-buy-online-amazon-1236665054/"
+        "title": "Regal Cinemas CEO Is Now Team Ellison, Too",
+        "link": "https://www.hollywoodreporter.com/business/business-news/regal-cinemas-ceo-paramount-warner-bros-1236665588/"
       },
       {
-        "title": "Billionaire Rick Caruso Brings Back Palisades Village After Wildfire: \u201cThis Is One Chapter of the Comeback Story\u201d",
-        "link": "https://www.hollywoodreporter.com/business/business-news/rick-caruso-palisades-village-return-wildfire-1236665321/"
+        "title": "Paramount, Warners Bros. Staffers In Limbo and \u201cDenial\u201d as Merger Deal Drags On",
+        "link": "https://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-1236664783/"
       },
       {
-        "title": "Isabella Rossellini Gets Emotional Honoring Her Family Legacy at Locarno\u2019s Opening Night",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/isabella-rossellini-award-refugee-film-open-locarno-2026-1236663754/"
+        "title": "Scabby the Rat Stalks \u2018Chicago\u2019 Shows as PAs Decry Work Hour Cuts",
+        "link": "https://www.hollywoodreporter.com/business/business-news/chicago-med-chicago-fire-pa-union-work-hour-cuts-1236665233/"
       },
       {
-        "title": "Inside \u2018Sterling Point\u2019: Why Megan Park\u2019s YA Series Trades Tired Tropes for a Refreshing Dose of Realism",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/inside-sterling-point-megan-park-ya-series-cast-producers-1236664341/"
+        "title": "\u2018Spider-Man: Brand New Day\u2019 Lands Biggest Tuesday in Box Office History",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-biggest-tuesday-1236665110/"
       }
     ],
     "larb": [],
