@@ -1,44 +1,48 @@
 {
-  "last_updated": "2026-08-06 01:55 UTC",
+  "last_updated": "2026-08-06 05:41 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Infantino sorry for errors but stays Fifa president",
-        "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss"
+        "title": "Young women tell BBC of rape, assault and harassment at Army training college for teenagers",
+        "link": "https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
-        "link": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss"
+        "title": "Infantino sorry for errors but stays Fifa president",
+        "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "University of Cambridge professor at centre of plagiarism row resigns",
         "link": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Jailed funeral boss angers families with 'apology'",
-        "link": "https://www.bbc.co.uk/news/articles/c79gxqynwd3o?at_medium=RSS&at_campaign=rss"
+        "title": "Car washes and vape shops can still sponsor skilled foreign workers despite visa changes",
+        "link": "https://www.bbc.co.uk/news/articles/cj639rx147eo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Mexican influencer shot dead during livestream",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/mexican-influencer-shot-dead-during-livestream-2?traffic_source=rss"
+        "title": "Carney curses Infantino as FIFA backs its president",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/carney-curses-infantino-as-fifa-backs-its-president?traffic_source=rss"
       },
       {
-        "title": "Meta\u2019s AI model follows rivals in revealing hacks of outside systems",
-        "link": "https://www.aljazeera.com/news/2026/8/6/metas-ai-model-follows-rivals-in-revealing-hacks-of-outside-systems?traffic_source=rss"
+        "title": "Strait of Hormuz tolls would harm livelihoods worldwide, shipowners warn",
+        "link": "https://www.aljazeera.com/economy/2026/8/6/strait-of-hormuz-tolls-would-harm-livelihoods-worldwide-shipowners-warn?traffic_source=rss"
       },
       {
-        "title": "FAA says Trump\u2019s Marine One briefly flew too close to passenger jet",
-        "link": "https://www.aljazeera.com/news/2026/8/6/faa-says-trumps-marine-one-briefly-flew-too-close-to-passenger-jet?traffic_source=rss"
+        "title": "Trump attacks El-Sayed as \u2018hater of Jews\u2019 after Michigan win",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/trump-attacks-el-sayed-as-hater-of-jews-after-michigan-win?traffic_source=rss"
       },
       {
-        "title": "Mamdani praises El-Sayed\u2019s victory, rejects \u2018mini Mamdani\u2019 trope",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/mamdani-praises-el-sayeds-victory-rejects-mini-mamdani-trope?traffic_source=rss"
+        "title": "Could the Iran war derail Donald Trump\u2019s legacy?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/could-the-iran-war-derail-donald-trumps-legacy?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "Joe Ward: The unluckiest man in Irish boxing",
+        "link": "https://www.skysports.com/boxing/news/12040/13570207/joe-ward-the-unluckiest-man-in-irish-boxing-ive-been-through-it-all-and-now-i-can-fight-through-this"
+      },
       {
         "title": "Rockets march on after easy win while Buttler makes history in The Hundred",
         "link": "https://www.skysports.com/cricket/news/12040/13570084/the-hundred-trent-rockets-continue-dominant-form-with-fifth-straight-win-as-jos-buttler-makes-history-for-manchester-super-giants"
@@ -50,10 +54,6 @@
       {
         "title": "Everton latest: Norgaard completes move from Arsenal",
         "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-      },
-      {
-        "title": "Castleford head coach Carr to miss the game against Hull KR",
-        "link": "https://www.skysports.com/rugby-league/news/12040/13570199/ryan-carr-castleford-tigers-head-coach-to-miss-hull-kr-clash-due-to-personal-reasons"
       }
     ],
     "pitchfork": [],
@@ -171,38 +171,38 @@
     ],
     "variety": [
       {
+        "title": "Judge Dismisses Lawsuit From Paramount Streaming Subscribers Seeking to Block Warner Bros. Merger",
+        "link": "https://variety.com/2026/film/news/judge-dismisses-lawsuit-paramount-warner-bros-merger-1236828855/"
+      },
+      {
+        "title": "\u2018The Shards\u2019 Star Igby Rigney on Wooing Ryan Murphy, Never Meeting Bret Easton Ellis and Not Worrying About Sex Scenes: \u2018It\u2019s Like Doing a Dance Under a Microscope\u2019",
+        "link": "https://variety.com/2026/tv/news/the-shards-igby-rigney-bret-easton-ellis-1236828415/"
+      },
+      {
         "title": "Regal Cinemas CEO Eduardo Acuna Backs Paramount-Warner Bros. Merger, Says Antitrust Trial \u2018Creates More Uncertainty and Distraction\u2019",
         "link": "https://variety.com/2026/film/news/regal-cinemas-ceo-supports-paramount-warner-bros-merger-1236828802/"
       },
       {
         "title": "Bella Thorne and Zendaya Got Pitted Against Each Other During Disney Fame and Snuck Off Set to \u2018Hash It Out\u2019 After Things \u2018Got Pretty Bad\u2019",
         "link": "https://variety.com/2026/tv/news/zendaya-bella-thorne-feud-disney-pitted-against-each-other-1236828507/"
-      },
-      {
-        "title": "Vampire Mockumentary \u2018I Love Paris\u2019 Takes Top Honors at 2026 Fantasia Film Festival Audience Awards",
-        "link": "https://variety.com/2026/film/festivals/i-love-paris-2026-fantasia-film-festival-audience-awards-1236828704/"
-      },
-      {
-        "title": "\u2018Mustache\u2019 Review: A Delightfully Anxious Pakistani American Coming-of-Age Comedy",
-        "link": "https://variety.com/2026/film/news/mustache-review-1236827903/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "A$AP Rocky Gives Update on Rihanna\u2019s Next Album: \u201cShe Cooking\u201d",
+        "link": "https://www.hollywoodreporter.com/music/music-features/aap-rocky-update-rihanna-next-album-1236665651/"
+      },
+      {
+        "title": "Ryan Murphy Goes Inside \u2018The Shards\u2019: How Bret Easton Ellis\u2019 Dark Memoir of Love and Murder Was Made for TV: \u201cWe Saw 500 Actors for These Parts\u201d (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/the-shards-tv-secrets-ryan-murphy-interview-1236665572/"
+      },
       {
         "title": "Regal Cinemas CEO Is Now Team Ellison, Too",
         "link": "https://www.hollywoodreporter.com/business/business-news/regal-cinemas-ceo-paramount-warner-bros-1236665588/"
       },
       {
-        "title": "Paramount, Warners Bros. Staffers In Limbo and \u201cDenial\u201d as Merger Deal Drags On",
+        "title": "Paramount, Warners Bros. Staffers In Limbo and Denial as Merger Deal Drags On",
         "link": "https://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-1236664783/"
-      },
-      {
-        "title": "Scabby the Rat Stalks \u2018Chicago\u2019 Shows as PAs Decry Work Hour Cuts",
-        "link": "https://www.hollywoodreporter.com/business/business-news/chicago-med-chicago-fire-pa-union-work-hour-cuts-1236665233/"
-      },
-      {
-        "title": "\u2018Spider-Man: Brand New Day\u2019 Lands Biggest Tuesday in Box Office History",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-biggest-tuesday-1236665110/"
       }
     ],
     "larb": [],
