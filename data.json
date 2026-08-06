@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06 08:22 UTC",
+  "last_updated": "2026-08-06 11:14 UTC",
   "feeds": {
     "bbc": [
       {
@@ -11,49 +11,49 @@
         "link": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Infantino sorry for errors but stays Fifa president",
-        "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss"
+        "title": "Majority of England's rivers and lakes fail new environmental review",
+        "link": "https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Car washes and vape shops can still sponsor skilled foreign workers despite visa changes",
-        "link": "https://www.bbc.co.uk/news/articles/cj639rx147eo?at_medium=RSS&at_campaign=rss"
+        "title": "Meredith Kercher's sister criticises Amanda Knox's Edinburgh comedy show",
+        "link": "https://www.bbc.co.uk/news/articles/cy07pd7qe2ro?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones",
-        "link": "https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss"
+        "title": "Cambridge professor Jason Arday quits amid plagiarism allegations",
+        "link": "https://www.aljazeera.com/news/2026/8/6/cambridge-professor-jason-arday-quits-amid-plagiarism-allegations?traffic_source=rss"
       },
       {
-        "title": "Ex-Bangladesh cricket captain Shakib\u2019s home petrol-bombed in Hasina fallout",
-        "link": "https://www.aljazeera.com/sports/2026/8/6/ex-bangladesh-cricket-captain-shakibs-home-petrol-bombed-in-hasina-fallout?traffic_source=rss"
+        "title": "Hormuz deal \u2018close\u2019: What\u2019s the latest on each side\u2019s positions?",
+        "link": "https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions?traffic_source=rss"
       },
       {
-        "title": "Messi scores his first goals since World Cup as Inter Miami beat San Luis",
-        "link": "https://www.aljazeera.com/sports/2026/8/6/messi-scores-his-first-goals-since-world-cup-as-inter-miami-beat-san-luis?traffic_source=rss"
+        "title": "Uganda football star Owori killed, weeks after death of rugby\u2019s Gongodyo",
+        "link": "https://www.aljazeera.com/sports/2026/8/6/uganda-football-star-owori-killed-weeks-after-death-of-rugbys-gongodyo?traffic_source=rss"
       },
       {
-        "title": "Pakistan beat West Indies to end 8 away Test losing streak and draw series",
-        "link": "https://www.aljazeera.com/sports/2026/8/6/pakistan-beat-west-indies-to-end-8-away-test-losing-streak-and-draw-series?traffic_source=rss"
+        "title": "South Korea police raid football association over Hong appointment process",
+        "link": "https://www.aljazeera.com/sports/2026/8/6/south-korea-police-raid-football-association-over-hong-appointment-process?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "FREE STREAM: Good Morning Transfers on Sky Sports News",
-        "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours"
+        "title": "Why Jimenez\u2019s Wolves return means so much to fans",
+        "link": "https://www.skysports.com/football/news/12040/13568007/raul-jimenezs-wolves-return-mexican-strikers-comeback-aged-35-has-captured-supporters-imagination-at-molineux"
+      },
+      {
+        "title": "Bethell to miss Pakistan Test series as Pope recalled",
+        "link": "https://www.skysports.com/cricket/news/12040/13570252/jacob-bethell-to-miss-englands-test-series-against-pakistan-as-ollie-pope-and-brydon-carse-recalled-for-first-time-since-ashes"
+      },
+      {
+        "title": "McKenna wants to unify at 160lbs, and then fight at heavyweight!",
+        "link": "https://www.skysports.com/boxing/news/12040/13570330/aaron-mckenna-wants-to-unify-the-middleweight-championships-rise-through-divisions-and-then-fight-at-heavyweight"
       },
       {
         "title": "'Relieved, excited, and energised!' - Parker's plans revealed after drug ban lifted",
         "link": "https://www.skysports.com/boxing/news/12040/13570222/joseph-parker-relieved-after-drugs-ban-was-lifted-and-could-target-winner-of-daniel-dubois-vs-fabio-wardley-rematch"
-      },
-      {
-        "title": "Joe Ward: The unluckiest man in Irish boxing",
-        "link": "https://www.skysports.com/boxing/news/12040/13570207/joe-ward-the-unluckiest-man-in-irish-boxing-ive-been-through-it-all-and-now-i-can-fight-through-this"
-      },
-      {
-        "title": "Rockets march on after easy win while Buttler makes history in The Hundred",
-        "link": "https://www.skysports.com/cricket/news/12040/13570084/the-hundred-trent-rockets-continue-dominant-form-with-fifth-straight-win-as-jos-buttler-makes-history-for-manchester-super-giants"
       }
     ],
     "pitchfork": [],
@@ -171,42 +171,50 @@
     ],
     "variety": [
       {
-        "title": "ReelShort on Track for $1.05 Billion Revenue, First Profit at Scale in 2026, Media Partners Asia Report Finds",
-        "link": "https://variety.com/2026/tv/news/reelshort-1-billion-revenue-profit-2026-mpa-1236828885/"
+        "title": "Versant Sees Q2 Profit Fall on Revenue Declines, Despite Ad-Sales Improvements",
+        "link": "https://variety.com/2026/tv/news/versant-q2-profit-fall-earnings-ms-now-cnbc-1236828827/"
       },
       {
-        "title": "Judge Dismisses Lawsuit From Paramount Streaming Subscribers Seeking to Block Warner Bros. Merger",
-        "link": "https://variety.com/2026/film/news/judge-dismisses-lawsuit-paramount-warner-bros-merger-1236828855/"
+        "title": "Warner Bros. Discovery Q2 Profit Slumps on NBA Ads, Movie Schedule, Write-Downs",
+        "link": "https://variety.com/2026/tv/news/warner-bros-discovery-q2-profit-slumps-nba-ads-write-downs-1236828837/"
       },
       {
-        "title": "\u2018The Shards\u2019 Star Igby Rigney on Wooing Ryan Murphy, Never Meeting Bret Easton Ellis and Not Worrying About Sex Scenes: \u2018It\u2019s Like Doing a Dance Under a Microscope\u2019",
-        "link": "https://variety.com/2026/tv/news/the-shards-igby-rigney-bret-easton-ellis-1236828415/"
+        "title": "Nike Drops New Air Jordan 13 Retro \u2018Wings\u2019 Sneakers: Here\u2019s Where to Buy a Pair Online",
+        "link": "https://variety.com/2026/shopping/news/how-to-buy-nike-air-jordan-13-retro-wings-sneakers-shop-online-1236828845/"
       },
       {
-        "title": "Regal Cinemas CEO Eduardo Acuna Backs Paramount-Warner Bros. Merger, Says Antitrust Trial \u2018Creates More Uncertainty and Distraction\u2019",
-        "link": "https://variety.com/2026/film/news/regal-cinemas-ceo-supports-paramount-warner-bros-merger-1236828802/"
+        "title": "Isabella Rossellini\u00a0Talks Lynch, \u2018Green Porno\u2019 and How Animals Became Her Favorite \u2018Muses\u2019: \u2018They Fascinate Me\u2019",
+        "link": "https://variety.com/2026/awards/actors/isabella-rossellini-lynch-green-porno-animals-locarno-1236828878/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Busan Film Festival to Honor Michelle Yeoh as Asian Filmmaker of the Year",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/busan-festival-michelle-yeoh-asian-filmmaker-of-the-year-1236665699/"
+        "title": "Versant Posts Lower Second Quarter Revenues and Profits After Comcast Spinoff",
+        "link": "https://www.hollywoodreporter.com/business/business-news/versant-first-quarter-profits-1236665742/"
       },
       {
-        "title": "Soft Ad Market, World Cup Competition Hit Germany\u2019s ProSiebenSat.1 Results",
-        "link": "https://www.hollywoodreporter.com/business/business-news/soft-ad-market-world-cup-competition-hit-prosiebensat-1-1236665701/"
+        "title": "Warner Bros. Discovery Q2 Content Revenue Crashes on Rough Box Office Comps",
+        "link": "https://www.hollywoodreporter.com/business/business-news/warner-bros-discovery-q2-earnings-supergirl-the-bride-bomb-1236665002/"
       },
       {
-        "title": "Locarno Honoree Sigurj\u00f3n Sighvatsson on AI, Netflix and Why Cannes \u201cDoesn\u2019t Know What It Is Anymore\u201d",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/twin-peaks-producer-netflix-films-cannes-venice-mega-cinema-1236650081/"
+        "title": "How Vicky McClure Became the Reigning Queen of the British Police Procedural",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/vicky-mcclure-trigger-point-interview-line-of-duty-tv-film-1236664669/"
       },
       {
-        "title": "A$AP Rocky Gives Update on Rihanna\u2019s Next Album: \u201cShe Cooking\u201d",
-        "link": "https://www.hollywoodreporter.com/music/music-features/aap-rocky-update-rihanna-next-album-1236665651/"
+        "title": "Brian Cox, James D\u2019Arcy Among First Guests on Rosie Fellner\u2019s \u2018Tea With Rosie\u2019 Podcast (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/business/digital/brian-cox-james-darcy-tea-with-rosie-podcast-series-show-1236665719/"
       }
     ],
     "larb": [],
     "aeon": [
+      {
+        "title": "The great arc",
+        "link": "https://aeon.co/videos/pariss-business-district-boasts-imposing-art-but-who-is-it-for"
+      },
+      {
+        "title": "Culture clash",
+        "link": "https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash"
+      },
       {
         "title": "The last ice age",
         "link": "https://aeon.co/videos/as-glaciers-melt-a-writer-considers-what-stories-can-do-that-data-cannot"
@@ -214,32 +222,24 @@
       {
         "title": "Towards an AI for Africa",
         "link": "https://aeon.co/essays/an-ai-for-africa-would-be-built-on-hunhu-ubuntu-ethics"
-      },
-      {
-        "title": "Ani Liu: eye heart womb",
-        "link": "https://aeon.co/videos/transforming-scientific-enquiry-and-human-bodies-into-visceral-art"
-      },
-      {
-        "title": "Thucydides the perspicacious",
-        "link": "https://aeon.co/essays/thucydides-account-of-war-is-as-timely-as-it-is-misunderstood"
       }
     ],
     "psyche": [
       {
+        "title": "How to cultivate compassion",
+        "link": "https://psyche.co/videos/why-nurturing-your-compassionate-side-is-simple-and-deeply-beneficial"
+      },
+      {
+        "title": "Climbing gives me a break from my brain",
+        "link": "https://psyche.co/notes-to-self/climbing-gives-me-a-much-needed-break-from-my-brain"
+      },
+      {
+        "title": "Mother Teresa was virtuous, but she was wrong about virtue",
+        "link": "https://psyche.co/ideas/mother-teresa-was-virtuous-but-she-was-wrong-about-virtue"
+      },
+      {
         "title": "How to enter a state of flow",
         "link": "https://psyche.co/guides/how-to-enter-a-state-of-flow"
-      },
-      {
-        "title": "Free-range fraud",
-        "link": "https://psyche.co/turning-points/my-double-life-came-to-a-head-when-i-pretended-to-be-vegan"
-      },
-      {
-        "title": "Teddy",
-        "link": "https://psyche.co/videos/birth-doulas-are-almost-exclusively-female-enter-teddy"
-      },
-      {
-        "title": "Why we should learn to embrace the middlebrow",
-        "link": "https://psyche.co/ideas/why-we-should-learn-to-embrace-the-middlebrow"
       }
     ],
     "publicdomainreview": [
