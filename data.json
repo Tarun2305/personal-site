@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06 05:41 UTC",
+  "last_updated": "2026-08-06 08:22 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,12 +7,12 @@
         "link": "https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Infantino sorry for errors but stays Fifa president",
-        "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss"
+        "title": "Cambridge professor at centre of plagiarism row resigns",
+        "link": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "University of Cambridge professor at centre of plagiarism row resigns",
-        "link": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss"
+        "title": "Infantino sorry for errors but stays Fifa president",
+        "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Car washes and vape shops can still sponsor skilled foreign workers despite visa changes",
@@ -21,24 +21,32 @@
     ],
     "aljazeera": [
       {
-        "title": "Carney curses Infantino as FIFA backs its president",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/carney-curses-infantino-as-fifa-backs-its-president?traffic_source=rss"
+        "title": "Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones",
+        "link": "https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss"
       },
       {
-        "title": "Strait of Hormuz tolls would harm livelihoods worldwide, shipowners warn",
-        "link": "https://www.aljazeera.com/economy/2026/8/6/strait-of-hormuz-tolls-would-harm-livelihoods-worldwide-shipowners-warn?traffic_source=rss"
+        "title": "Ex-Bangladesh cricket captain Shakib\u2019s home petrol-bombed in Hasina fallout",
+        "link": "https://www.aljazeera.com/sports/2026/8/6/ex-bangladesh-cricket-captain-shakibs-home-petrol-bombed-in-hasina-fallout?traffic_source=rss"
       },
       {
-        "title": "Trump attacks El-Sayed as \u2018hater of Jews\u2019 after Michigan win",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/trump-attacks-el-sayed-as-hater-of-jews-after-michigan-win?traffic_source=rss"
+        "title": "Messi scores his first goals since World Cup as Inter Miami beat San Luis",
+        "link": "https://www.aljazeera.com/sports/2026/8/6/messi-scores-his-first-goals-since-world-cup-as-inter-miami-beat-san-luis?traffic_source=rss"
       },
       {
-        "title": "Could the Iran war derail Donald Trump\u2019s legacy?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/could-the-iran-war-derail-donald-trumps-legacy?traffic_source=rss"
+        "title": "Pakistan beat West Indies to end 8 away Test losing streak and draw series",
+        "link": "https://www.aljazeera.com/sports/2026/8/6/pakistan-beat-west-indies-to-end-8-away-test-losing-streak-and-draw-series?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "FREE STREAM: Good Morning Transfers on Sky Sports News",
+        "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours"
+      },
+      {
+        "title": "'Relieved, excited, and energised!' - Parker's plans revealed after drug ban lifted",
+        "link": "https://www.skysports.com/boxing/news/12040/13570222/joseph-parker-relieved-after-drugs-ban-was-lifted-and-could-target-winner-of-daniel-dubois-vs-fabio-wardley-rematch"
+      },
       {
         "title": "Joe Ward: The unluckiest man in Irish boxing",
         "link": "https://www.skysports.com/boxing/news/12040/13570207/joe-ward-the-unluckiest-man-in-irish-boxing-ive-been-through-it-all-and-now-i-can-fight-through-this"
@@ -46,14 +54,6 @@
       {
         "title": "Rockets march on after easy win while Buttler makes history in The Hundred",
         "link": "https://www.skysports.com/cricket/news/12040/13570084/the-hundred-trent-rockets-continue-dominant-form-with-fifth-straight-win-as-jos-buttler-makes-history-for-manchester-super-giants"
-      },
-      {
-        "title": "Infantino remains FIFA president following crisis meeting",
-        "link": "https://www.skysports.com/football/news/12040/13570210/gianni-infantino-fifa-leaders-back-under-fire-president-following-crisis-meeting-as-he-apologises-for-mistakes-over-world-cup-sell-off"
-      },
-      {
-        "title": "Everton latest: Norgaard completes move from Arsenal",
-        "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
       }
     ],
     "pitchfork": [],
@@ -116,6 +116,10 @@
     ],
     "mubi": [
       {
+        "title": "This Dystopian Future: A Conversation with Tsai Ming-liang",
+        "link": "https://mubi.com/en/notebook/posts/this-dystopian-future-a-conversation-with-tsai-ming-liang"
+      },
+      {
         "title": "Turbulent Waters: The Cinema of Jean Epstein",
         "link": "https://mubi.com/en/notebook/posts/turbulent-waters-the-cinema-of-jean-epstein"
       },
@@ -126,10 +130,6 @@
       {
         "title": "MUBI Podcast: Voci Italiane Contemporanee | Season 6",
         "link": "https://mubi.com/en/notebook/posts/mubi-podcast-voci-italiane-contemporanee-season-6"
-      },
-      {
-        "title": "Rushes | Venice Unveils Lineup, Paramount Delays Merger, Elon Musk Threatens His Own \u201cOdyssey\u201d",
-        "link": "https://mubi.com/en/notebook/posts/rushes-venice-unveils-lineup-paramount-delays-merger-elon-musk-threatens-his-own-odyssey"
       }
     ],
     "reverseshot": [],
@@ -171,6 +171,10 @@
     ],
     "variety": [
       {
+        "title": "ReelShort on Track for $1.05 Billion Revenue, First Profit at Scale in 2026, Media Partners Asia Report Finds",
+        "link": "https://variety.com/2026/tv/news/reelshort-1-billion-revenue-profit-2026-mpa-1236828885/"
+      },
+      {
         "title": "Judge Dismisses Lawsuit From Paramount Streaming Subscribers Seeking to Block Warner Bros. Merger",
         "link": "https://variety.com/2026/film/news/judge-dismisses-lawsuit-paramount-warner-bros-merger-1236828855/"
       },
@@ -181,28 +185,24 @@
       {
         "title": "Regal Cinemas CEO Eduardo Acuna Backs Paramount-Warner Bros. Merger, Says Antitrust Trial \u2018Creates More Uncertainty and Distraction\u2019",
         "link": "https://variety.com/2026/film/news/regal-cinemas-ceo-supports-paramount-warner-bros-merger-1236828802/"
-      },
-      {
-        "title": "Bella Thorne and Zendaya Got Pitted Against Each Other During Disney Fame and Snuck Off Set to \u2018Hash It Out\u2019 After Things \u2018Got Pretty Bad\u2019",
-        "link": "https://variety.com/2026/tv/news/zendaya-bella-thorne-feud-disney-pitted-against-each-other-1236828507/"
       }
     ],
     "hollywoodreporter": [
       {
+        "title": "Busan Film Festival to Honor Michelle Yeoh as Asian Filmmaker of the Year",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/busan-festival-michelle-yeoh-asian-filmmaker-of-the-year-1236665699/"
+      },
+      {
+        "title": "Soft Ad Market, World Cup Competition Hit Germany\u2019s ProSiebenSat.1 Results",
+        "link": "https://www.hollywoodreporter.com/business/business-news/soft-ad-market-world-cup-competition-hit-prosiebensat-1-1236665701/"
+      },
+      {
+        "title": "Locarno Honoree Sigurj\u00f3n Sighvatsson on AI, Netflix and Why Cannes \u201cDoesn\u2019t Know What It Is Anymore\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/twin-peaks-producer-netflix-films-cannes-venice-mega-cinema-1236650081/"
+      },
+      {
         "title": "A$AP Rocky Gives Update on Rihanna\u2019s Next Album: \u201cShe Cooking\u201d",
         "link": "https://www.hollywoodreporter.com/music/music-features/aap-rocky-update-rihanna-next-album-1236665651/"
-      },
-      {
-        "title": "Ryan Murphy Goes Inside \u2018The Shards\u2019: How Bret Easton Ellis\u2019 Dark Memoir of Love and Murder Was Made for TV: \u201cWe Saw 500 Actors for These Parts\u201d (Exclusive)",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/the-shards-tv-secrets-ryan-murphy-interview-1236665572/"
-      },
-      {
-        "title": "Regal Cinemas CEO Is Now Team Ellison, Too",
-        "link": "https://www.hollywoodreporter.com/business/business-news/regal-cinemas-ceo-paramount-warner-bros-1236665588/"
-      },
-      {
-        "title": "Paramount, Warners Bros. Staffers In Limbo and Denial as Merger Deal Drags On",
-        "link": "https://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-1236664783/"
       }
     ],
     "larb": [],
