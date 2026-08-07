@@ -1,46 +1,50 @@
 {
-  "last_updated": "2026-08-07 07:03 UTC",
+  "last_updated": "2026-08-07 09:54 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Thai pupil describes harrowing moment teacher was shot in front of her",
+        "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
         "link": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "England footballer Ivan Toney charged with assault at Soho nightclub",
+        "link": "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Arrests in Norfolk town as disorder continues for third night",
         "link": "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Meta fined $567m in largest child safety ruling against social media giant",
-        "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-        "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "\u2018Still searching for truth\u2019: Daughter of Sikh activist killed 30 years ago",
-        "link": "https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss"
+        "title": "Several killed after student opens fire inside Thailand school",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/several-killed-after-student-opens-fire-inside-thailand-school?traffic_source=rss"
       },
       {
-        "title": "Bodies of climbers killed in avalanche retrieved from Broad Peak",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/bodies-of-climbers-killed-in-avalanche-retrieved-from-broad-peak?traffic_source=rss"
+        "title": "The other classroom: Returning to sacred knowledge",
+        "link": "https://www.aljazeera.com/features/longform/2026/8/7/the-other-classroom-returning-to-sacred-knowledge?traffic_source=rss"
       },
       {
-        "title": "Mexico deploys troops to secure avocado region after US halts imports",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss"
+        "title": "Africa backs Infantino as CAF unanimously votes in FIFA president\u2019s favour",
+        "link": "https://www.aljazeera.com/sports/2026/8/7/africa-backs-infantino-as-caf-unanimously-votes-if-fifa-presidents-favour?traffic_source=rss"
       },
       {
-        "title": "Record-high heat soars through South Korea",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/record-high-heat-soars-through-south-korea?traffic_source=rss"
+        "title": "Earthquake strikes as doctors perform surgery",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/earthquake-strikes-as-doctors-perform-surgery?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Tenbob Tommy chases the hat-trick at Brighton",
+        "title": "Gibbs' Lions deal makes him NFL's highest-paid running back ever",
+        "link": "https://www.skysports.com/nfl/news/12040/13570572/jahmyr-gibbs-new-detroit-lions-deal-makes-him-nfls-highest-paid-running-back-in-history-days-after-bijan-robinsons-falcons-contract"
+      },
+      {
+        "title": "Tenbob Tommy chases hat-trick at Brighton",
         "link": "https://www.skysports.com/racing/news/12040/13570134/today-on-sky-sports-racing-brighton-summer-festival"
       },
       {
@@ -48,12 +52,8 @@
         "link": "https://www.skysports.com/nfl/news/12040/13570561/nfl-undrafted-quarterback-haynes-king-leads-carolina-panthers-to-33-30-comeback-win-vs-arizona-cardinals-in160hall-of-fame-game"
       },
       {
-        "title": "Is red-hot Norrie now favourite to win Montreal? Brit dumps out third seed De Minaur",
-        "link": "https://www.skysports.com/tennis/news/12040/13570424/national-bank-open-is-red-hot-cameron-norrie-now-favourite-to-win-montreal-brit-dumps-out-third-seed-alex-de-minaur"
-      },
-      {
-        "title": "Hearts humbled by Benfica as Hibs secure vital win; Motherwell held in Helsinki",
-        "link": "https://www.skysports.com/football/news/12040/13570541/benfica-thrash-hearts-as-hibernian-beat-shkendija-motherwell-earn-valuable-draw-at-hjk-helsinki"
+        "title": "England striker Toney charged with assault",
+        "link": "https://www.skysports.com/football/news/12040/13570613/ivan-toney-england-striker-charged-with-assault-causing-actual-bodily-harm"
       }
     ],
     "pitchfork": [],
@@ -133,7 +133,24 @@
       }
     ],
     "reverseshot": [],
-    "sensesofcinema": [],
+    "sensesofcinema": [
+      {
+        "title": "Filmmaking at the end of the world: The Quiet Earth",
+        "link": "https://www.sensesofcinema.com/2026/cteq/filmmaking-at-the-end-of-the-world-the-quiet-earth/"
+      },
+      {
+        "title": "Crimes Against Reality: Speculation and the New Red Order",
+        "link": "https://www.sensesofcinema.com/2026/feature-articles/crimes-against-reality-speculation-and-the-new-red-order/"
+      },
+      {
+        "title": "Consent Puzzles in the Oslo Stories Trilogy by Dag Johan Haugerud",
+        "link": "https://www.sensesofcinema.com/2026/feature-articles/consent-puzzles-in-the-oslo-stories-trilogy-by-dag-johan-haugerud/"
+      },
+      {
+        "title": "An Interview with Giulio Bertelli",
+        "link": "https://www.sensesofcinema.com/2026/interviews/an-interview-with-giulio-bertelli/"
+      }
+    ],
     "indiewire": [
       {
         "title": "For Emmy Nominee Betty Gilpin, \u2018Widow\u2019s Bay\u2019 Is \u2018the Ultimate F**k You to Safe, Algorithm-Friendly, ChatGPT\u2019 TV",
@@ -154,23 +171,31 @@
     ],
     "variety": [
       {
-        "title": "Ricky Gervais\u2019 Netflix Animated Comedy \u2018Alley Cats\u2019 Is Surprisingly Bittersweet: TV Review",
-        "link": "https://variety.com/2026/tv/reviews/alley-cats-review-ricky-gervais-netflix-1236829439/"
+        "title": "Bella Thorne Is Also Directing and Writing the \u2018Spring Breakers\u2019 Sequel She\u2019s Starring In: \u2018From Start to Finish, It\u2019s Lit as F\u2014\u2019",
+        "link": "https://variety.com/2026/film/news/bella-thorne-directing-writing-spring-breakers-sequel-1236829801/"
       },
       {
-        "title": "\u2018The Last House\u2019 Review: Wagner Moura and Greta Lee Bring Conviction to a Suitably Stifling Stay-at-Home Thriller",
-        "link": "https://variety.com/2026/film/reviews/the-last-house-review-1236828947/"
+        "title": "Danny DeVito-Produced Heist Comedy \u2018Drag\u2019 Boards Blue Finch Films for International Sales (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/news/danny-devito-drag-blue-finch-films-sales-1236829816/"
       },
       {
-        "title": "\u2018La Koreana,\u2019 a Banner New Talent Title From Spain, Brought to Market at Locarno by Producers Lazona Zinema and Estibaliz Urresola\u2019s Sirimiri (EXCLUSIVE)\u00a0",
-        "link": "https://variety.com/2026/film/global/la-koreana-lazona-zinema-estebaliz-urresola-1236829726/"
+        "title": "Claes Bang Plays a Masseur of Nazi Leader Heinrich Himmler in \u2018I Is Another\u2019 \u2014 but John Paul in \u2018Bad Sisters\u2019 Is Still One of His \u2018Worst Characters\u2019\u00a0",
+        "link": "https://variety.com/2026/film/global/claes-bang-masseur-nazi-heinrich-himmler-i-is-another-1236829157/"
       },
       {
-        "title": "Locarno\u2019s Alliance 4 Development Welcomes Queer Musical, Eco Body Horror and Bruce LaBruce\u2019s Melodrama with Monica Bellucci and B\u00e9atrice Dalle",
-        "link": "https://variety.com/2026/film/global/alliance-4-development-bruce-labruce-monica-bellucci-1236828965/"
+        "title": "Locarno\u2019s Match Me! Projects Push New Voices, Timely Relevance and Authenticity as a Younger Generation Moves Center Stage\u00a0",
+        "link": "https://variety.com/2026/film/global/locarno-match-me-2026-producers-highlights-1236829354/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "Power. People. Data. But in Which Order? At Locarno Pro, a Film Panel Had Widely Different Thoughts",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/locarno-pro-2026-power-people-data-panel-mk2-lucky-red-ida-1236668743/"
+      },
+      {
+        "title": "\u2018At Night\u2019 Features \u201cStories Women Share Together But Rarely to an Audience\u201d (Exclusive Locarno Clip)",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/at-night-film-trailer-locarno-2026-female-friendships-1236657984/"
+      },
       {
         "title": "Meet Nicolaas Schmidt, the German Filmmaker Who Thinks \u201cPlain Banality Is Stimulating as F***\u201d",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/locarno-september-afternoon-film-without-action-dialogue-1236661700/"
@@ -178,14 +203,6 @@
       {
         "title": "\u2018Alley Cats\u2019 Review: Ricky Gervais\u2019 Half-Crass, Half-Sappy, Mostly Unmemorable Netflix Cartoon",
         "link": "https://www.hollywoodreporter.com/tv/tv-reviews/alley-cats-review-ricky-gervais-netflix-1236665348/"
-      },
-      {
-        "title": "\u2018The Last House\u2019 Review: Greta Lee and Wagner Moura in a Claustrophobic Netflix Thriller Most Effective While the Threat Remains Unknown",
-        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-last-house-review-greta-lee-wagner-moura-netflix-1236666386/"
-      },
-      {
-        "title": "What Is It Like to Portray Nazi Heinrich Himmler? Martin M\u00fcller Shares His Experience on \u2018I Is Another\u2019",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/nazi-heinrich-himmler-i-is-another-film-actor-locarno-2026-1236652895/"
       }
     ],
     "larb": [],
@@ -213,12 +230,12 @@
         "link": "https://psyche.co/videos/why-nurturing-your-compassionate-side-is-simple-and-deeply-beneficial"
       },
       {
-        "title": "Climbing gives me a break from my brain",
-        "link": "https://psyche.co/notes-to-self/climbing-gives-me-a-much-needed-break-from-my-brain"
-      },
-      {
         "title": "Mother Teresa was virtuous, but she was wrong about virtue",
         "link": "https://psyche.co/ideas/mother-teresa-was-virtuous-but-she-was-wrong-about-virtue"
+      },
+      {
+        "title": "Climbing gives me a break from my brain",
+        "link": "https://psyche.co/notes-to-self/climbing-gives-me-a-much-needed-break-from-my-brain"
       },
       {
         "title": "How to enter a state of flow",
