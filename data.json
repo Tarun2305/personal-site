@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06 23:52 UTC",
+  "last_updated": "2026-08-07 02:18 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,34 +7,34 @@
         "link": "https://www.bbc.co.uk/news/articles/cn5nlvdxpwpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Meta fined $567m in largest child safety ruling against social media giant",
         "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Arrests in Norfolk town as disorder continues for third night",
-        "link": "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss"
+        "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Boxer charged with killing aid worker in Greece after his wife gave police 'key' details",
+        "link": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "How Abdul El-Sayed\u2019s \u2018extraordinary\u2019 win stunned pro-Israel establishment",
-        "link": "https://www.aljazeera.com/news/2026/8/6/how-abdul-el-sayeds-extraordinary-win-stunned-pro-israel-establishment?traffic_source=rss"
+        "title": "Israeli raid in West Bank\u2019s Qalandiya injures 51 Palestinians",
+        "link": "https://www.aljazeera.com/news/2026/8/7/israeli-raid-in-west-banks-qalandiya-injures-51-palestinians?traffic_source=rss"
       },
       {
-        "title": "Far-right fitness clubs mask extremist recruitment, experts warn",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/aje-onl-nf_nationalism-3-0-nils-adler-060826?traffic_source=rss"
+        "title": "New Mexico court orders Meta to pay $567m over harm to youths",
+        "link": "https://www.aljazeera.com/news/2026/8/7/new-mexico-court-orders-meta-to-pay-567m-over-harm-to-youths?traffic_source=rss"
       },
       {
-        "title": "Trump signs new executive orders seeking to limit US birthright citizenship",
-        "link": "https://www.aljazeera.com/news/2026/8/6/trump-signs-new-executive-orders-seeking-to-limit-birthright-citizenship?traffic_source=rss"
+        "title": "Brazil formally accuses 16 people over 2024 Voepass deadly plane crash",
+        "link": "https://www.aljazeera.com/news/2026/8/7/brazil-formally-accuses-16-people-over-2024-voepass-deadly-plane-crash?traffic_source=rss"
       },
       {
-        "title": "Toronto police arrest two in US Consulate shooting investigation",
-        "link": "https://www.aljazeera.com/news/2026/8/6/toronto-police-arrest-two-in-us-consulate-shooting-investigation?traffic_source=rss"
+        "title": "Police in Argentina use tear gas to stop protesters",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/police-in-argentina-use-tear-gas-to-stop-protesters?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -171,6 +171,10 @@
     ],
     "variety": [
       {
+        "title": "\u2018The Big Bang Theory\u2019 Star Melissa Rauch on Her Larger-Than-Life Surprise Role on \u2018Stuart Fails to Save the Universe\u2019",
+        "link": "https://variety.com/2026/tv/news/melissa-rauch-stuart-fails-to-save-the-universe-role-1236829612/"
+      },
+      {
         "title": "LISTEN: Fear, Loathing and Endless Potential: AI4 Conference Takes Stock of Transformative Technologies",
         "link": "https://variety.com/2026/digital/news/ai4-conference-fear-loathing-daily-variety-podcast-1236829536/"
       },
@@ -181,10 +185,6 @@
       {
         "title": "After U.K. Approval of Paramount-WBD Deal, European Media Leaders Rally Behind David Ellison: \u2018The Industry Will Be Stronger\u2019",
         "link": "https://variety.com/2026/film/global/uk-approval-paramount-wbd-european-leaders-david-ellison-1236829488/"
-      },
-      {
-        "title": "\u2018Michael\u2019 Boosts Lionsgate Quarterly Results as Studio Narrows Loss to $29 Million",
-        "link": "https://variety.com/2026/film/news/lionsgate-q2-2026-michael-narrows-loss-1236829508/"
       }
     ],
     "hollywoodreporter": [
@@ -230,12 +230,12 @@
         "link": "https://psyche.co/videos/why-nurturing-your-compassionate-side-is-simple-and-deeply-beneficial"
       },
       {
-        "title": "Climbing gives me a break from my brain",
-        "link": "https://psyche.co/notes-to-self/climbing-gives-me-a-much-needed-break-from-my-brain"
-      },
-      {
         "title": "Mother Teresa was virtuous, but she was wrong about virtue",
         "link": "https://psyche.co/ideas/mother-teresa-was-virtuous-but-she-was-wrong-about-virtue"
+      },
+      {
+        "title": "Climbing gives me a break from my brain",
+        "link": "https://psyche.co/notes-to-self/climbing-gives-me-a-much-needed-break-from-my-brain"
       },
       {
         "title": "How to enter a state of flow",
