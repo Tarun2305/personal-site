@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-08-07 04:50 UTC",
+  "last_updated": "2026-08-07 07:03 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
+        "link": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Arrests in Norfolk town as disorder continues for third night",
+        "link": "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Meta fined $567m in largest child safety ruling against social media giant",
         "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
@@ -9,36 +17,36 @@
       {
         "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
         "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Arrests in Norfolk town as disorder continues for third night",
-        "link": "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Artificial Intelligence used to design brand new viruses",
-        "link": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Anti-Muslim US Congressman Andy Ogles loses congressional primary",
-        "link": "https://www.aljazeera.com/news/2026/8/7/anti-muslim-us-congressman-andy-ogles-loses-congressional-primary?traffic_source=rss"
+        "title": "\u2018Still searching for truth\u2019: Daughter of Sikh activist killed 30 years ago",
+        "link": "https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss"
       },
       {
-        "title": "AI used to create viruses not found in nature for first time",
-        "link": "https://www.aljazeera.com/economy/2026/8/7/ai-used-to-create-viruses-not-found-in-nature-for-first-time?traffic_source=rss"
+        "title": "Bodies of climbers killed in avalanche retrieved from Broad Peak",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/bodies-of-climbers-killed-in-avalanche-retrieved-from-broad-peak?traffic_source=rss"
       },
       {
-        "title": "More than one million affected by floods in India\u2019s Assam state",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/more-than-one-million-affected-by-floods-in-indias-assam-state?traffic_source=rss"
+        "title": "Mexico deploys troops to secure avocado region after US halts imports",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss"
       },
       {
-        "title": "Exclusive report with the 308 people rescued by Nigerian forces",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/exclusive-report-with-the-308-people-rescued-by-nigerian-forces?traffic_source=rss"
+        "title": "Record-high heat soars through South Korea",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/record-high-heat-soars-through-south-korea?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "Tenbob Tommy chases the hat-trick at Brighton",
+        "link": "https://www.skysports.com/racing/news/12040/13570134/today-on-sky-sports-racing-brighton-summer-festival"
+      },
+      {
+        "title": "Undrafted King leads Panthers to comeback win vs Cardinals in\u00a0Hall of Fame game",
+        "link": "https://www.skysports.com/nfl/news/12040/13570561/nfl-undrafted-quarterback-haynes-king-leads-carolina-panthers-to-33-30-comeback-win-vs-arizona-cardinals-in160hall-of-fame-game"
+      },
       {
         "title": "Is red-hot Norrie now favourite to win Montreal? Brit dumps out third seed De Minaur",
         "link": "https://www.skysports.com/tennis/news/12040/13570424/national-bank-open-is-red-hot-cameron-norrie-now-favourite-to-win-montreal-brit-dumps-out-third-seed-alex-de-minaur"
@@ -46,14 +54,6 @@
       {
         "title": "Hearts humbled by Benfica as Hibs secure vital win; Motherwell held in Helsinki",
         "link": "https://www.skysports.com/football/news/12040/13570541/benfica-thrash-hearts-as-hibernian-beat-shkendija-motherwell-earn-valuable-draw-at-hjk-helsinki"
-      },
-      {
-        "title": "Barron scores hat-trick as Hull FC end losing run with win over St Helens",
-        "link": "https://www.skysports.com/rugby-league/st-helens-vs-hull/report/63303"
-      },
-      {
-        "title": "Walsall shock Bristol City in Carabao Cup curtain raiser",
-        "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two"
       }
     ],
     "pitchfork": [],
@@ -133,24 +133,7 @@
       }
     ],
     "reverseshot": [],
-    "sensesofcinema": [
-      {
-        "title": "Filmmaking at the end of the world: The Quiet Earth",
-        "link": "https://www.sensesofcinema.com/2026/cteq/filmmaking-at-the-end-of-the-world-the-quiet-earth/"
-      },
-      {
-        "title": "Crimes Against Reality: Speculation and the New Red Order",
-        "link": "https://www.sensesofcinema.com/2026/feature-articles/crimes-against-reality-speculation-and-the-new-red-order/"
-      },
-      {
-        "title": "Consent Puzzles in the Oslo Stories Trilogy by Dag Johan Haugerud",
-        "link": "https://www.sensesofcinema.com/2026/feature-articles/consent-puzzles-in-the-oslo-stories-trilogy-by-dag-johan-haugerud/"
-      },
-      {
-        "title": "An Interview with Giulio Bertelli",
-        "link": "https://www.sensesofcinema.com/2026/interviews/an-interview-with-giulio-bertelli/"
-      }
-    ],
+    "sensesofcinema": [],
     "indiewire": [
       {
         "title": "For Emmy Nominee Betty Gilpin, \u2018Widow\u2019s Bay\u2019 Is \u2018the Ultimate F**k You to Safe, Algorithm-Friendly, ChatGPT\u2019 TV",
@@ -171,38 +154,38 @@
     ],
     "variety": [
       {
-        "title": "\u2018The Big Bang Theory\u2019 Star Melissa Rauch on Her Larger-Than-Life Surprise Role on \u2018Stuart Fails to Save the Universe\u2019",
-        "link": "https://variety.com/2026/tv/news/melissa-rauch-stuart-fails-to-save-the-universe-role-1236829612/"
+        "title": "Ricky Gervais\u2019 Netflix Animated Comedy \u2018Alley Cats\u2019 Is Surprisingly Bittersweet: TV Review",
+        "link": "https://variety.com/2026/tv/reviews/alley-cats-review-ricky-gervais-netflix-1236829439/"
       },
       {
-        "title": "LISTEN: Fear, Loathing and Endless Potential: AI4 Conference Takes Stock of Transformative Technologies",
-        "link": "https://variety.com/2026/digital/news/ai4-conference-fear-loathing-daily-variety-podcast-1236829536/"
+        "title": "\u2018The Last House\u2019 Review: Wagner Moura and Greta Lee Bring Conviction to a Suitably Stifling Stay-at-Home Thriller",
+        "link": "https://variety.com/2026/film/reviews/the-last-house-review-1236828947/"
       },
       {
-        "title": "\u2018Michael 2\u2019 Eyes Filming Start \u2018Towards the End of this Year\u2019 or Early 2027 as Lionsgate Teases Release Date",
-        "link": "https://variety.com/2026/film/news/michael-2-filming-start-release-date-1236829530/"
+        "title": "\u2018La Koreana,\u2019 a Banner New Talent Title From Spain, Brought to Market at Locarno by Producers Lazona Zinema and Estibaliz Urresola\u2019s Sirimiri (EXCLUSIVE)\u00a0",
+        "link": "https://variety.com/2026/film/global/la-koreana-lazona-zinema-estebaliz-urresola-1236829726/"
       },
       {
-        "title": "After U.K. Approval of Paramount-WBD Deal, European Media Leaders Rally Behind David Ellison: \u2018The Industry Will Be Stronger\u2019",
-        "link": "https://variety.com/2026/film/global/uk-approval-paramount-wbd-european-leaders-david-ellison-1236829488/"
+        "title": "Locarno\u2019s Alliance 4 Development Welcomes Queer Musical, Eco Body Horror and Bruce LaBruce\u2019s Melodrama with Monica Bellucci and B\u00e9atrice Dalle",
+        "link": "https://variety.com/2026/film/global/alliance-4-development-bruce-labruce-monica-bellucci-1236828965/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "T-Mobile Offering Free Samsung Galaxy Z Fold8, $1,900 Phone Seen Throughout \u2018Spider-Man: Brand New Day\u2019",
-        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/samsung-galaxy-z-fold-8-release-free-t-mobile-phone-deals-1236661293/"
+        "title": "Meet Nicolaas Schmidt, the German Filmmaker Who Thinks \u201cPlain Banality Is Stimulating as F***\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/locarno-september-afternoon-film-without-action-dialogue-1236661700/"
       },
       {
-        "title": "\u2018Spider-Man: Brand New Day\u2019 Scores Biggest First Week in Box Office History",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-biggest-first-week-1236668259/"
+        "title": "\u2018Alley Cats\u2019 Review: Ricky Gervais\u2019 Half-Crass, Half-Sappy, Mostly Unmemorable Netflix Cartoon",
+        "link": "https://www.hollywoodreporter.com/tv/tv-reviews/alley-cats-review-ricky-gervais-netflix-1236665348/"
       },
       {
-        "title": "Morgan Freeman Will \u201cOverlook Some of the Glitches\u201d in a Script If They \u201cPay You Enough\u201d",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/morgan-freeman-overlook-mediocre-script-pay-enough-1236668210/"
+        "title": "\u2018The Last House\u2019 Review: Greta Lee and Wagner Moura in a Claustrophobic Netflix Thriller Most Effective While the Threat Remains Unknown",
+        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-last-house-review-greta-lee-wagner-moura-netflix-1236666386/"
       },
       {
-        "title": "Eli Roth Talks the Unrated Gamble of \u2018Ice Cream Man\u2019 and What He Hopes the Town Learns From \u2018Obsession\u2019",
-        "link": "https://www.hollywoodreporter.com/movies/movie-features/eli-roth-talks-the-unrated-gamble-of-ice-cream-man-1236666881/"
+        "title": "What Is It Like to Portray Nazi Heinrich Himmler? Martin M\u00fcller Shares His Experience on \u2018I Is Another\u2019",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/nazi-heinrich-himmler-i-is-another-film-actor-locarno-2026-1236652895/"
       }
     ],
     "larb": [],
