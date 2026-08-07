@@ -1,64 +1,68 @@
 {
-  "last_updated": "2026-08-07 12:45 UTC",
+  "last_updated": "2026-08-07 15:48 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Academics call for independent inquiry into Jason Arday's Cambridge appointment",
+        "title": "Serial sex offender guilty of murdering two women and raping third",
+        "link": "https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How police let a registered sex offender murder and attack women",
+        "link": "https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Cambridge to review process for hiring senior academics after Jason Arday resignation",
         "link": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
-        "link": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "England footballer Ivan Toney charged with assault at Soho nightclub",
-        "link": "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "How a 90-second power outage sparked  chaos for rail commuters",
-        "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss"
+        "title": "Streeting 'sickened' by sex abuse claims at Army college",
+        "link": "https://www.bbc.co.uk/news/articles/c8en51le9e1o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Iran\u2019s grip on trade is a potent weapon, but it has an expiry date",
-        "link": "https://www.aljazeera.com/opinions/2026/8/7/irans-grip-on-trade-is-a-potent-weapon-but-it-has-an-expiry-date?traffic_source=rss"
+        "title": "Sri Lanka prisoners riot leaving 3 dead, 23 injured in chaos",
+        "link": "https://www.aljazeera.com/news/2026/8/7/sri-lanka-prisoners-riot-leaving-3-dead-23-injured-in-chaos?traffic_source=rss"
       },
       {
-        "title": "Argentina and Mexico join Africa in backing FIFA\u2019s Infantino: What to know",
-        "link": "https://www.aljazeera.com/sports/2026/8/7/fifas-infantino-backed-by-argentina-and-mexico-deepening-world-cup-divide?traffic_source=rss"
+        "title": "Two civilians killed in Houthi strike on Marib, says Yemen\u2019s government",
+        "link": "https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss"
       },
       {
-        "title": "First school for robots opens in China",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/first-school-for-robots-opens-in-china?traffic_source=rss"
+        "title": "Imade",
+        "link": "https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss"
       },
       {
-        "title": "Cricket\u2019s Shakib, an Hasina ally, will face trial in Bangladesh if secure",
-        "link": "https://www.aljazeera.com/sports/2026/8/7/crickets-shakib-an-hasani-ally-will-face-trial-in-bangladesh-if-secure?traffic_source=rss"
+        "title": "Diego Maradona bloated, bedridden and resigned before death, says masseur",
+        "link": "https://www.aljazeera.com/sports/2026/8/7/diego-maradona-bloated-bedridden-and-resigned-before-death-says-masseur?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "McKenna: Once I become world champion I\u2019m going to take over",
-        "link": "https://www.skysports.com/boxing/news/12040/13570642/aaron-mckenna-makes-weight-for-etinosa-oliha-title-fight-once-i-become-world-champion-im-going-to-take-over"
+        "title": "Shergar Cup Sprint tips: Kate, Sam and Jamie are taking on Ascot favourite",
+        "link": "https://www.skysports.com/racing/news/12040/13570705/weekend-winners-kate-tracey-sam-boswell-and-jamie-lynch-have-their-say-on-saturdays-shergar-cup-sprint-at-ascot"
       },
       {
-        "title": "Van Barneveld fined and suspended in latest Darts Regulation Authority case list",
-        "link": "https://www.skysports.com/darts/news/12040/13570629/van-barneveld-fined-and-suspended-over-inappropriate-behaviour-and-offensive-language-in-latest-darts-regulation-authority-case-list"
+        "title": "Doyle: Thunder Call a big player in Ascot's Shergar Cup",
+        "link": "https://www.skysports.com/racing/news/12040/13570698/hollie-doyle-expect-thunder-call-to-play-a-part-in-shergar-cup-at-ascot-live-on-sky-sports-racing-on-saturday"
       },
       {
-        "title": "Massey-Ellis retires from officiating to take up new role with FA",
-        "link": "https://www.skysports.com/football/news/12040/13570628/sian-massey-ellis"
+        "title": "Draper will play Cincinnati Open despite arm injury fears",
+        "link": "https://www.skysports.com/tennis/news/12040/13570654/jack-draper-confirmed-for-cincinnati-open-despite-being-left-in-tears-following-defeat-at-the-national-bank-open-in-montreal"
       },
       {
-        "title": "The Hundred permutations: Who needs what to qualify?",
-        "link": "https://www.skysports.com/cricket/news/12040/13570124/the-hundred-2026-permutations-who-needs-what-to-qualify-for-final-stages-of-mens-and-womens-competitions"
+        "title": "Draper confirmed for Cincinnati Open ahead of US Open",
+        "link": "https://www.skysports.com/tennis/live-blog/12040/13523297/jack-draper-tennis-results-next-match-news-ranking-video-and-how-to-watch-on-sky-sports-tennis"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "Twisted Teens :: Florida Water Blues",
+        "link": "https://aquariumdrunkard.com/2026/08/07/twisted-teens-florida-water-blues/"
+      },
       {
         "title": "Pax Nicholas and the Nettey Family :: Na Teef Know De Road of Teef",
         "link": "https://aquariumdrunkard.com/2026/08/06/pax-nicholas-and-the-nettey-family-na-teef-know-de-road-of-teef/"
@@ -70,15 +74,19 @@
       {
         "title": "Transmissions :: Awake, My Soul",
         "link": "https://aquariumdrunkard.com/2026/08/05/transmissions-awake-my-soul/"
-      },
-      {
-        "title": "Dog Days of Aquarium Drunkard III",
-        "link": "https://aquariumdrunkard.com/2026/08/04/dog-days-of-aquarium-drunkard-iii/"
       }
     ],
     "bfi": [],
     "criterion": [],
     "rogerebert": [
+      {
+        "title": "Mediocre \u201cAlley Cats\u201d is for Hardcore Ricky Gervais Fans Only",
+        "link": "https://www.rogerebert.com/streaming/mediocre-alley-cats-is-for-hardcore-ricky-gervais-fans-only"
+      },
+      {
+        "title": "A Man of Letters: Kent Jones on \u201cLate Fame\u201d",
+        "link": "https://www.rogerebert.com/interviews/late-fame-kent-jones-interview"
+      },
       {
         "title": "Book Excerpt: The Otherworld: The Mythic Dimensions of Christophe Gans by Scout Tafoya",
         "link": "https://www.rogerebert.com/books/book-excerpt-the-otherworld-the-mythic-dimensions-of-christophe-gans-by-scout-tafoya"
@@ -86,14 +94,6 @@
       {
         "title": "All is Well in Our World: On Todd Haynes\u2019 \u201cSafe\u201d",
         "link": "https://www.rogerebert.com/dvd-blu-ray/safe-criterion-reappreciation"
-      },
-      {
-        "title": "It\u2019s Libidinal: Hannah Einbinder and Jane Schoenbrun on \u201cTeenage Sex and Death at Camp Miasma\u201d",
-        "link": "https://www.rogerebert.com/interviews/its-libidinal-hannah-einbinder-and-jane-schoenbrun-on-teenage-sex-and-death-at-camp-miasma"
-      },
-      {
-        "title": "Happy Birthday Tibetan Buddhist Scholar and Professor Robert Thurman (1941-2026)",
-        "link": "https://www.rogerebert.com/chazs-blog/happy-birthday-tibetan-buddhist-scholar-and-professor-robert-thurman-1941-2026"
       }
     ],
     "filmcomment": [
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
+        "title": "The Secret Is Out: \u2018Sugar\u2019 Season 2 Got Good",
+        "link": "https://www.indiewire.com/criticism/shows/sugar-season-2-good-colin-farrell-1235209140/"
+      },
+      {
+        "title": "\u2018I Rarely Wake Up Dreaming\u2019 Review: A Young Queer Couple Tries to Evacuate Kyiv in Isabelle Stever\u2019s Remarkable Portrait of Gender During Wartime",
+        "link": "https://www.indiewire.com/criticism/movies/i-rarely-wake-up-dreaming-movie-review-isabelle-stever-1235209251/"
+      },
+      {
+        "title": "\u2018The Last House\u2019 Review: Wagner Moura and Greta Lee Are Locked Inside by the Rain in Ridiculous Netflix Thriller",
+        "link": "https://www.indiewire.com/criticism/movies/the-last-house-netflix-movie-review-wagner-moura-greta-lee-1235209086/"
+      },
+      {
         "title": "For Emmy Nominee Betty Gilpin, \u2018Widow\u2019s Bay\u2019 Is \u2018the Ultimate F**k You to Safe, Algorithm-Friendly, ChatGPT\u2019 TV",
         "link": "https://www.indiewire.com/awards/consider-this/betty-gilpin-on-widows-bay-best-line-readings-interview-1235208776/"
-      },
-      {
-        "title": "How Faithful Is \u2018Tony\u2019 to Anthony Bourdain\u2019s Life?",
-        "link": "https://www.indiewire.com/features/interviews/tony-real-vs-fiction-a24-anthony-bourdain-biopic-1235209198/"
-      },
-      {
-        "title": "Casting Director Kim Taylor-Coleman Re-Elected as President of the Academy Foundation Board",
-        "link": "https://www.indiewire.com/awards/industry/kim-taylor-coleman-president-academy-foundation-board-2026-1235209260/"
-      },
-      {
-        "title": "\u2018The Only Living Pickpocket in New York\u2019 Trailer: John Turturro Is an Aging Thief in a New Era of Crime",
-        "link": "https://www.indiewire.com/news/trailers/the-only-living-pickpocket-in-new-york-trailer-1235209214/"
       }
     ],
     "variety": [
       {
-        "title": "Lionsgate CEO Wants to See Paramount-Warner Bros. Merger Close Soon: \u2018Uncertainty and Delay\u2019 Are \u2018Not Good for Anybody\u2019",
-        "link": "https://variety.com/2026/film/news/lionsgate-ceo-supports-paramount-warner-bros-merger-1236829897/"
+        "title": "\u2018PAW Patrol: The Dino Movie\u2019 Review: The Dog-Cop Franchise Pushes an ACAB Message, Only It\u2019s All Canines Are Benevolent",
+        "link": "https://variety.com/2026/film/reviews/paw-patrol-the-dino-movie-review-1236829876/"
       },
       {
-        "title": "Take-Two Interactive Reaches $1.4 Billion in Sales During \u2018GTA 6\u2019 Preorder Opening Quarter",
-        "link": "https://variety.com/2026/gaming/news/gta-6-preorder-sales-take-two-earnings-1236829396/"
+        "title": "\u2018Bridgette Wrona and the Whisper Creek Murders\u2019 Wraps From Little Spark Films; YA Mystery Follows Podcaster Hunting a Serial Killer (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/news/bridgette-wrona-and-the-whisper-creek-murders-wraps-1236829987/"
       },
       {
-        "title": "\u2018The Blue Trail\u2019 Director Gabriel Mascaro and Top Brazilian Producer Paula Cosenza Launch Trema, Set First Slate (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/global/gabriel-mascaro-paula-cosenza-trema-1236829859/"
+        "title": "New Radicals\u2019 Gregg Alexander Soft-Relaunches Band With \u2018One Night Only\u2019 Movie Song Ahead of Their First Album in 28 Years",
+        "link": "https://variety.com/2026/music/news/new-radicals-gregg-alexander-one-night-only-new-album-1236829633/"
       },
       {
-        "title": "Starz Revenue Declines 4% in Q2 as Streaming Stabilizes, Company Takes $147 Million Charge Related to Ending Universal Output Deal",
-        "link": "https://variety.com/2026/tv/news/starz-q2-2026-earnings-streaming-universal-deal-termination-1236829362/"
+        "title": "\u2018The Odyssey\u2019 and \u2018Spider-Man: Brand New Day\u2019 Power $239 Million U.K., Ireland July Box Office",
+        "link": "https://variety.com/2026/film/box-office/the-odyssey-spider-man-july-uk-ireland-july-box-office-1236829985/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Sarajevo Unveils B\u00e9la Tarr Tribute Program for Former Students of His Film School",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/sarajevo-film-festival-bela-tarr-tribute-hungary-director-1236668802/"
+        "title": "Denis C\u00f4t\u00e9 on Making \u2018Nobody\u2019s Violence,\u2019 His Assisted-Death Drama, While Fighting for His Own Life",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/locarno-2026-film-interview-denis-cote-nobodys-violence-1236653382/"
       },
       {
-        "title": "Luca Guadagnino to Receive Venice Festival\u2019s Glory to the Filmmaker Award",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-venice-film-festival-glory-filmmaker-award-1236668792/"
+        "title": "William Orbit, Grammy-Winning Producer for Madonna, Blur and Britney Spears, Dies at 69",
+        "link": "https://www.hollywoodreporter.com/music/music-industry-news/william-orbit-dead-grammy-music-producer-madonna-1236668859/"
       },
       {
-        "title": "Starz Posts First Quarter Revenue Dip as Digital-Led Strategy Shows Momentum",
-        "link": "https://www.hollywoodreporter.com/business/business-news/starz-first-quarter-revenue-1236668793/"
+        "title": "John Waters Is Aging Disgracefully, Thank Goodness",
+        "link": "https://www.hollywoodreporter.com/movies/movie-features/john-waters-turning-80-jokes-mosswood-meltdown-interview-1236666439/"
       },
       {
-        "title": "Werner Herzog to Receive San Sebastian Film Festival\u2019s Donostia Award",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/werner-herzog-san-sebastian-film-festival-donostia-award-1236668785/"
+        "title": "\u2018Southern Charm\u2019 Star Craig Conover Set for Indie Dramedy \u2018Caroline Fletcher\u2019 (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/news/general-news/southern-charm-star-craig-conover-set-for-indie-dramedy-caroline-fletcher-exclusive-1236663114/"
       }
     ],
     "larb": [],
@@ -230,12 +230,12 @@
         "link": "https://psyche.co/videos/why-nurturing-your-compassionate-side-is-simple-and-deeply-beneficial"
       },
       {
-        "title": "Climbing gives me a break from my brain",
-        "link": "https://psyche.co/notes-to-self/climbing-gives-me-a-much-needed-break-from-my-brain"
-      },
-      {
         "title": "Mother Teresa was virtuous, but she was wrong about virtue",
         "link": "https://psyche.co/ideas/mother-teresa-was-virtuous-but-she-was-wrong-about-virtue"
+      },
+      {
+        "title": "Climbing gives me a break from my brain",
+        "link": "https://psyche.co/notes-to-self/climbing-gives-me-a-much-needed-break-from-my-brain"
       },
       {
         "title": "How to enter a state of flow",
@@ -262,6 +262,10 @@
     ],
     "quanta": [
       {
+        "title": "Neutrinos From Deep Inside Earth Provide a New Picture of the Mantle",
+        "link": "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/"
+      },
+      {
         "title": "How Does Touch Lead To Pain Or Pleasure?",
         "link": "https://www.quantamagazine.org/how-does-touch-lead-to-pain-or-pleasure-20260806/"
       },
@@ -272,13 +276,13 @@
       {
         "title": "Why the Legendary Erd\u0151s Problems Are Falling to AI",
         "link": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/"
-      },
-      {
-        "title": "Is AI Reasoning Right for the Wrong Reasons?",
-        "link": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/"
       }
     ],
     "nautilus": [
+      {
+        "title": "Pesticide Exposure at Work May Increase Motor Neurone Disease Risk",
+        "link": "https://nautil.us/pesticide-exposure-at-work-may-increase-motor-neurone-disease-risk-1283457/"
+      },
       {
         "title": "Financial Struggle Can Age Your Brain",
         "link": "https://nautil.us/financial-struggle-can-age-your-brain-1283464/"
@@ -290,14 +294,14 @@
       {
         "title": "A One-Two Punch: New Drug Overfeeds\u2014Then Starves\u2014Cancer Cells",
         "link": "https://nautil.us/a-one-two-punch-new-drug-overfeeds-then-starves-cancer-cells-1283471/"
-      },
-      {
-        "title": "Your Big Brain Wouldn\u2019t Be Possible Without Sugar",
-        "link": "https://nautil.us/your-big-brain-wouldnt-be-possible-without-sugar-1283454/"
       }
     ],
     "worksinprogress": [],
     "noema": [
+      {
+        "title": "From The Trap Of Geopolitics To A Geo-Civilizational Paradigm",
+        "link": "https://www.noemamag.com/from-the-trap-of-geopolitics-to-a-geo-civilizational-paradigm"
+      },
       {
         "title": "Why Is Everyone In Tech So Sad?",
         "link": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad"
@@ -309,10 +313,6 @@
       {
         "title": "AI Has Entered The \u2018Loss Of Control\u2019 Transition",
         "link": "https://www.noemamag.com/ai-has-already-entered-the-loss-of-control-transition"
-      },
-      {
-        "title": "The Rise & Fall Of Liberal Democracy\u2019s Shared Fiction",
-        "link": "https://www.noemamag.com/the-rise-and-fall-of-liberal-democracys-shared-fiction"
       }
     ]
   }
