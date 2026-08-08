@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08 04:06 UTC",
+  "last_updated": "2026-08-08 06:39 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,7 +7,7 @@
         "link": "https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Counter-terror police reopen attempted burglary probe as part of Widdecombe inquiry",
+        "title": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
         "link": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -21,24 +21,32 @@
     ],
     "aljazeera": [
       {
-        "title": "Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation",
-        "link": "https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss"
+        "title": "NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules",
+        "link": "https://www.aljazeera.com/sports/2026/8/8/nba-star-brandon-clarke-died-from-heroin-cocaine-effects-examiner-rules?traffic_source=rss"
       },
       {
-        "title": "US Senate passes Russia sanctions that could hurt India and China",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss"
+        "title": "Hundreds camp on sweltering Rome street amid tussle over squatted building",
+        "link": "https://www.aljazeera.com/news/2026/8/8/hundreds-camp-on-sweltering-rome-street-amid-tussle-over-squatted-building?traffic_source=rss"
       },
       {
-        "title": "Submerged Indonesian village re-emerges as drought lowers water levels",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss"
+        "title": "Bangladesh say Shakib will not play cricket again after Hasina event",
+        "link": "https://www.aljazeera.com/sports/2026/8/8/bangladesh-say-shakib-will-not-play-cricket-again-after-hasina-event?traffic_source=rss"
       },
       {
-        "title": "US courts clear way for deportations of South Sudan, Myanmar nationals",
-        "link": "https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss"
+        "title": "Violence is driving Palestinian Christians out of their Holy Land",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/violence-is-driving-palestinian-christians-out-of-their-holy-land?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "Today on Sky Sports Racing: Ascot stages Shergar Cup meeting",
+        "link": "https://www.skysports.com/racing/news/12040/13570627/today-on-sky-sports-racing-ascot-stages-shergar-cup-meeting-with-lingfield-also-live-on-saturday"
+      },
+      {
+        "title": "'I'd rather fight Aaron for world title' - Walsh dismisses Stevie McKenna call-out",
+        "link": "https://www.skysports.com/boxing/news/12040/13570679/callum-walsh-aaron-mckenna-world-title-fight-makes-sense-fighting-stephen-mckenna-doesnt"
+      },
       {
         "title": "Araujo set for surprise Liverpool loan move",
         "link": "https://www.skysports.com/football/news/12040/13570871/ronald-araujo-transfer-news-liverpool-agree-loan-deal-for-barcelona-defender-to-add-depth-at-centre-back"
@@ -46,14 +54,6 @@
       {
         "title": "Papers: Arsenal could hijack Liverpool's move for Barcola",
         "link": "https://www.skysports.com/football/news/12040/13570879/bradley-barcola-transfer-news-arsenal-could-hijack-liverpools-move-for-psg-winger-paper-talk"
-      },
-      {
-        "title": "Late winner sees Leeds edge Wakefield ",
-        "link": "https://www.skysports.com/watch/video/13570851/wakefield-trinity-22-24-leeds-rhinos-super-league-highlights"
-      },
-      {
-        "title": "Debut Lankshear goal sees Boro past Wrexham as Wolves & Stevenage progress ",
-        "link": "https://www.skysports.com/football/news/12040/13570859/carabao-cup-will-lankshear-strike-sees-middlesbrough-past-wrexham-as-wolves-beat-port-vale-and-stevenage-edge-wycombe"
       }
     ],
     "pitchfork": [],
@@ -171,6 +171,10 @@
     ],
     "variety": [
       {
+        "title": "Taylor Swift Song \u2018August\u2019 Removed From Trump TikTok Video",
+        "link": "https://variety.com/2026/music/news/taylor-swift-song-august-removed-trump-tiktok-video-1236830512/"
+      },
+      {
         "title": "Behind the Scenes of Obama\u2019s Acting Cameo in \u2018Life, Larry\u2019: Blaming Larry David for His Tan Suit Debacle, Improvising Lines and Ranting About Ketchup",
         "link": "https://variety.com/2026/tv/news/obama-larry-david-show-tan-suit-1236829485/"
       },
@@ -181,28 +185,24 @@
       {
         "title": "Stanley Tucci on Why His Emmy-Nominated \u2018Tucci In Italy\u2019 Is Moving to the United Kingdom Next Season",
         "link": "https://variety.com/2026/tv/awards/stanley-tucci-nat-geo-italy-moving-uk-next-season-why-1236830482/"
-      },
-      {
-        "title": "\u2018The Last House\u2019 Ending Breakdown: Why Is the Family Trapped Inside Their Home?",
-        "link": "https://variety.com/2026/film/news/the-last-house-ending-explained-why-family-trapped-inside-1236806415/"
       }
     ],
     "hollywoodreporter": [
       {
+        "title": "No, Brian Eno Is Not Behind the Film Soundtrack for \u2018At Night.\u2019 Experimental Musician Elvin Brandhi Is.",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/at-night-film-soundrack-elvin-brandhi-not-brian-eno-locarno-1236666314/"
+      },
+      {
+        "title": "\u2018Asphalt Guerrilla\u2019 Blends Fact, Fiction, AI and a Story About Filmmaking to Hold Up a Mirror to Our Time",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/asphalt-guerrilla-film-interview-locarno-2026-ai-radicalism-1236668855/"
+      },
+      {
+        "title": "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/forgotten-spaceman-locarno-film-about-afghanistan-cosmonaut-1236663264/"
+      },
+      {
         "title": "Dwayne Johnson Addresses \u2018Moana\u2019 Mixed Reviews After Film Underperformed at Box Office",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/dwayne-johnson-moana-mixed-reviews-film-underperformed-1236669273/"
-      },
-      {
-        "title": "Jake T. Austin Says He Wasn\u2019t Invited to Partake in \u2018Wizards of Waverly Place\u2019 Revival: \u201cDisappointed\u201d",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/jake-t-austin-wizards-of-waverly-place-revival-1236669268/"
-      },
-      {
-        "title": "Keen Ruffalo Never Intended to Get Into the Family Business",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/keen-ruffalo-sterling-point-next-big-thing-interview-1236666276/"
-      },
-      {
-        "title": "Spencer Pratt Joins the Chat on the Federal Film and Television Tax Incentive",
-        "link": "https://www.hollywoodreporter.com/business/business-news/spencer-pratt-federal-film-tv-tax-incentive-1236669201/"
       }
     ],
     "larb": [],
