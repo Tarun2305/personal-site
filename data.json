@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-08-08 06:39 UTC",
+  "last_updated": "2026-08-08 09:30 UTC",
   "feeds": {
     "bbc": [
-      {
-        "title": "Police officers investigated over handling of sex offender who murdered two women",
-        "link": "https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss"
-      },
       {
         "title": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
         "link": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Infantino denies claims Uefa paid off alleged 'lover' ",
+        "title": "Infantino denies claims Uefa paid off alleged 'lover' when he was general secretary",
         "link": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Finding \u2018The Spider\u2019: the months-long hunt for a wanted spy chief",
+        "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
@@ -21,39 +21,39 @@
     ],
     "aljazeera": [
       {
-        "title": "NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules",
-        "link": "https://www.aljazeera.com/sports/2026/8/8/nba-star-brandon-clarke-died-from-heroin-cocaine-effects-examiner-rules?traffic_source=rss"
+        "title": "Messi will decide when he retires, says Argentina FA chief",
+        "link": "https://www.aljazeera.com/sports/2026/8/8/argentina-fa-chief-says-messi-is-the-only-one-to-decide-when-he-retires?traffic_source=rss"
       },
       {
-        "title": "Hundreds camp on sweltering Rome street amid tussle over squatted building",
-        "link": "https://www.aljazeera.com/news/2026/8/8/hundreds-camp-on-sweltering-rome-street-amid-tussle-over-squatted-building?traffic_source=rss"
+        "title": "Typhoon Dolphin hits Japan, heads towards China",
+        "link": "https://www.aljazeera.com/news/2026/8/8/typhoon-dolphin-hits-japan-heads-towards-china?traffic_source=rss"
       },
       {
-        "title": "Bangladesh say Shakib will not play cricket again after Hasina event",
-        "link": "https://www.aljazeera.com/sports/2026/8/8/bangladesh-say-shakib-will-not-play-cricket-again-after-hasina-event?traffic_source=rss"
+        "title": "Afghanistan\u2019s Rashid takes six wickets in ODI thrashing of Ireland",
+        "link": "https://www.aljazeera.com/sports/2026/8/8/afghanistans-rashid-takes-six-wickets-in-odi-thrashing-of-ireland?traffic_source=rss"
       },
       {
-        "title": "Violence is driving Palestinian Christians out of their Holy Land",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/violence-is-driving-palestinian-christians-out-of-their-holy-land?traffic_source=rss"
+        "title": "South Korea FA apologises over \u2018sexual services\u2019 allegations",
+        "link": "https://www.aljazeera.com/sports/2026/8/8/south-korea-football-association-apologises-over-sexual-services-allegations?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Today on Sky Sports Racing: Ascot stages Shergar Cup meeting",
-        "link": "https://www.skysports.com/racing/news/12040/13570627/today-on-sky-sports-racing-ascot-stages-shergar-cup-meeting-with-lingfield-also-live-on-saturday"
-      },
-      {
         "title": "'I'd rather fight Aaron for world title' - Walsh dismisses Stevie McKenna call-out",
         "link": "https://www.skysports.com/boxing/news/12040/13570679/callum-walsh-aaron-mckenna-world-title-fight-makes-sense-fighting-stephen-mckenna-doesnt"
       },
       {
-        "title": "Araujo set for surprise Liverpool loan move",
-        "link": "https://www.skysports.com/football/news/12040/13570871/ronald-araujo-transfer-news-liverpool-agree-loan-deal-for-barcelona-defender-to-add-depth-at-centre-back"
+        "title": "Today on Sky Sports Racing: Ascot stages Shergar Cup meeting",
+        "link": "https://www.skysports.com/racing/news/12040/13570627/today-on-sky-sports-racing-ascot-stages-shergar-cup-meeting-with-lingfield-also-live-on-saturday"
       },
       {
-        "title": "Papers: Arsenal could hijack Liverpool's move for Barcola",
-        "link": "https://www.skysports.com/football/news/12040/13570879/bradley-barcola-transfer-news-arsenal-could-hijack-liverpools-move-for-psg-winger-paper-talk"
+        "title": "Brit Smith keeps pressure on leader Hossler after Wyndham Championship R2",
+        "link": "https://www.skysports.com/watch/video/13570878/wyndham-championship-day-two-highlights"
+      },
+      {
+        "title": "Leigh Leopards boost play-off hopes with 22-14 win over York Knights",
+        "link": "https://www.skysports.com/watch/video/13570874/leigh-leopards-22-14-york-knights-super-league-highlights"
       }
     ],
     "pitchfork": [],
@@ -171,20 +171,20 @@
     ],
     "variety": [
       {
+        "title": "Satyajit Ray\u2019s \u2018Goopy Gyne Bagha Byne\u2019 Making to be Chronicled in Srijit Mukherji\u2019s \u2018Maharaja Tomare Selam\u2019",
+        "link": "https://variety.com/2026/film/news/satyajit-ray-goopy-gyne-bagha-byne-maharaja-tomare-selam-1236830536/"
+      },
+      {
+        "title": "\u2018I Rarely Wake Up Dreaming\u2019 Review: An Affecting Trans Relationship Drama Brings Fresh Perspective to the War in Ukraine",
+        "link": "https://variety.com/2026/film/news/i-rarely-wake-up-dreaming-review-1236830181/"
+      },
+      {
         "title": "Taylor Swift Song \u2018August\u2019 Removed From Trump TikTok Video",
         "link": "https://variety.com/2026/music/news/taylor-swift-song-august-removed-trump-tiktok-video-1236830512/"
       },
       {
         "title": "Behind the Scenes of Obama\u2019s Acting Cameo in \u2018Life, Larry\u2019: Blaming Larry David for His Tan Suit Debacle, Improvising Lines and Ranting About Ketchup",
         "link": "https://variety.com/2026/tv/news/obama-larry-david-show-tan-suit-1236829485/"
-      },
-      {
-        "title": "\u2018Power Book III: Raising Kanan\u2019 Creator Sascha Penn and Stars Patina Miller and Mekai Curtis on the Deadly Series Finale and \u2018Power: Origins\u2019",
-        "link": "https://variety.com/2026/tv/features/raising-kanan-series-finale-how-raq-dies-power-origins-spinoff-1236829538/"
-      },
-      {
-        "title": "Stanley Tucci on Why His Emmy-Nominated \u2018Tucci In Italy\u2019 Is Moving to the United Kingdom Next Season",
-        "link": "https://variety.com/2026/tv/awards/stanley-tucci-nat-geo-italy-moving-uk-next-season-why-1236830482/"
       }
     ],
     "hollywoodreporter": [
@@ -230,12 +230,12 @@
         "link": "https://psyche.co/videos/why-nurturing-your-compassionate-side-is-simple-and-deeply-beneficial"
       },
       {
-        "title": "Climbing gives me a break from my brain",
-        "link": "https://psyche.co/notes-to-self/climbing-gives-me-a-much-needed-break-from-my-brain"
-      },
-      {
         "title": "Mother Teresa was virtuous, but she was wrong about virtue",
         "link": "https://psyche.co/ideas/mother-teresa-was-virtuous-but-she-was-wrong-about-virtue"
+      },
+      {
+        "title": "Climbing gives me a break from my brain",
+        "link": "https://psyche.co/notes-to-self/climbing-gives-me-a-much-needed-break-from-my-brain"
       },
       {
         "title": "How to enter a state of flow",
