@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08 01:05 UTC",
+  "last_updated": "2026-08-08 04:06 UTC",
   "feeds": {
     "bbc": [
       {
@@ -15,26 +15,26 @@
         "link": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
-        "link": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss"
+        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+        "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "De la Espriella sworn in as Colombia\u2019s leader, vows armed group crackdown",
-        "link": "https://www.aljazeera.com/news/2026/8/8/de-la-espriella-sworn-in-as-colombia-leader-vows-crackdown-on-armed-groups?traffic_source=rss"
+        "title": "Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation",
+        "link": "https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss"
       },
       {
-        "title": "Sudan\u2019s war threatens an \u2018entire generation\u2019s\u2019 future, UN warns",
-        "link": "https://www.aljazeera.com/news/2026/8/8/sudans-war-threatens-an-entire-generations-future-un-warns?traffic_source=rss"
+        "title": "US Senate passes Russia sanctions that could hurt India and China",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss"
       },
       {
-        "title": "Puerto Rico rations water as severe drought leaves reservoirs depleted",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/puerto-rico-rations-water-as-severe-drought-leaves-reservoirs-depleted?traffic_source=rss"
+        "title": "Submerged Indonesian village re-emerges as drought lowers water levels",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss"
       },
       {
-        "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
-        "link": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss"
+        "title": "US courts clear way for deportations of South Sudan, Myanmar nationals",
+        "link": "https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "How Can 1980\u2019s \u2018The Return of the King\u2019 Spoil Everything \u2014 and Ruin Nothing?",
+        "link": "https://www.indiewire.com/features/best-of/return-of-the-king-animated-sequel-1980-after-dark-1235209547/"
+      },
+      {
         "title": "\u2018Teenage Sex and Death at Camp Miasma\u2019 Is Bloodthirsty for Artifice",
         "link": "https://www.indiewire.com/features/interviews/teenage-sex-and-death-at-camp-miasma-jane-schoenbrun-1235209271/"
       },
@@ -163,13 +167,13 @@
       {
         "title": "\u2018Paradise\u2019 Director Hanelle M. Culpepper on Why Great Sci-Fi Shows Sweat the Small Stuff",
         "link": "https://www.indiewire.com/awards/consider-this/paradise-hanelle-m-culpepper-season-2-finale-interview-1235209275/"
-      },
-      {
-        "title": "\u2019Donkey Princess\u2019 Review: A French Fairytale Gets a Stunning Reimagining from Two Animation Legends",
-        "link": "https://www.indiewire.com/criticism/movies/donkey-princess-review-locarno-1235209491/"
       }
     ],
     "variety": [
+      {
+        "title": "Behind the Scenes of Obama\u2019s Acting Cameo in \u2018Life, Larry\u2019: Blaming Larry David for His Tan Suit Debacle, Improvising Lines and Ranting About Ketchup",
+        "link": "https://variety.com/2026/tv/news/obama-larry-david-show-tan-suit-1236829485/"
+      },
       {
         "title": "\u2018Power Book III: Raising Kanan\u2019 Creator Sascha Penn and Stars Patina Miller and Mekai Curtis on the Deadly Series Finale and \u2018Power: Origins\u2019",
         "link": "https://variety.com/2026/tv/features/raising-kanan-series-finale-how-raq-dies-power-origins-spinoff-1236829538/"
@@ -181,13 +185,13 @@
       {
         "title": "\u2018The Last House\u2019 Ending Breakdown: Why Is the Family Trapped Inside Their Home?",
         "link": "https://variety.com/2026/film/news/the-last-house-ending-explained-why-family-trapped-inside-1236806415/"
-      },
-      {
-        "title": "\u2018One Night Only\u2019 Director Will Gluck Cut Out \u2018So Much Nudity\u2019 Because People Dislike Sex on Screen: \u2018It Takes You Out of the Movie\u2019",
-        "link": "https://variety.com/2026/film/features/one-night-only-director-removed-nudity-1236827870/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "Dwayne Johnson Addresses \u2018Moana\u2019 Mixed Reviews After Film Underperformed at Box Office",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/dwayne-johnson-moana-mixed-reviews-film-underperformed-1236669273/"
+      },
       {
         "title": "Jake T. Austin Says He Wasn\u2019t Invited to Partake in \u2018Wizards of Waverly Place\u2019 Revival: \u201cDisappointed\u201d",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/jake-t-austin-wizards-of-waverly-place-revival-1236669268/"
@@ -199,10 +203,6 @@
       {
         "title": "Spencer Pratt Joins the Chat on the Federal Film and Television Tax Incentive",
         "link": "https://www.hollywoodreporter.com/business/business-news/spencer-pratt-federal-film-tv-tax-incentive-1236669201/"
-      },
-      {
-        "title": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/netflix-man-inside-billboard-last-house-1236669147/"
       }
     ],
     "larb": [],
