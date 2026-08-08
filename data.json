@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08 09:30 UTC",
+  "last_updated": "2026-08-08 12:32 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,53 +7,53 @@
         "link": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "Simon Levy victims urged to come forward as police accused of 'litany of failures'",
+        "link": "https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Infantino denies claims Uefa paid off alleged 'lover' when he was general secretary",
         "link": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Finding \u2018The Spider\u2019: the months-long hunt for a wanted spy chief",
+        "title": "Chasing a ghost: how BBC tracked a fugitive spy chief after months-long hunt",
         "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-        "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Messi will decide when he retires, says Argentina FA chief",
-        "link": "https://www.aljazeera.com/sports/2026/8/8/argentina-fa-chief-says-messi-is-the-only-one-to-decide-when-he-retires?traffic_source=rss"
+        "title": "Police bodycam and CCTV catches Idaho mall shooting as it unfolds",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/police-bodycam-and-cctv-catches-idaho-mall-shooting-as-it-unfolds?traffic_source=rss"
       },
       {
-        "title": "Typhoon Dolphin hits Japan, heads towards China",
-        "link": "https://www.aljazeera.com/news/2026/8/8/typhoon-dolphin-hits-japan-heads-towards-china?traffic_source=rss"
+        "title": "Atletico Madrid will not sell Alvarez amid Barcelona interest, says Simeone",
+        "link": "https://www.aljazeera.com/sports/2026/8/8/atletico-madrid-will-not-sell-alvarez-amid-barcelona-interest-says-simeone?traffic_source=rss"
       },
       {
-        "title": "Afghanistan\u2019s Rashid takes six wickets in ODI thrashing of Ireland",
-        "link": "https://www.aljazeera.com/sports/2026/8/8/afghanistans-rashid-takes-six-wickets-in-odi-thrashing-of-ireland?traffic_source=rss"
+        "title": "Arsenal complete signing of Newcastle midfielder Bruno Guimaraes",
+        "link": "https://www.aljazeera.com/sports/2026/8/8/arsenal-complete-signing-of-newcastle-midfielder-bruno-guimaraes?traffic_source=rss"
       },
       {
-        "title": "South Korea FA apologises over \u2018sexual services\u2019 allegations",
-        "link": "https://www.aljazeera.com/sports/2026/8/8/south-korea-football-association-apologises-over-sexual-services-allegations?traffic_source=rss"
+        "title": "\u2018Hi friends\u2019: Modi\u2019s curious campaign to win over Gen Z",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/hi-friends-modis-curious-campaign-to-win-over-gen-z?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "'I'm your warrior' - Guimaraes moves to Arsenal from Newcastle for \u00a375m",
+        "link": "https://www.skysports.com/football/news/12040/13570096/bruno-guimaraes-arsenal-sign-midfielder-in-75m-transfer-as-newcastle-surpass-240m-in-player-sales-this-summer"
+      },
+      {
+        "title": "Chelsea vs AC Milan LIVE! ",
+        "link": "https://www.skysports.com/football/live-blog/12040/13570761/chelsea-vs-ac-milan-live-pre-season-friendly-team-news-preview-score-updates-and-live-blog-from-jakarta"
+      },
+      {
+        "title": "Bruno Guimaraes' FIERY clashes against Rice and Arsenal!",
+        "link": "https://www.skysports.com/watch/video/13561965/bruno-guimaraes-when-arsenal-target-took-on-gunners-in-fiery-clash"
+      },
+      {
         "title": "'I'd rather fight Aaron for world title' - Walsh dismisses Stevie McKenna call-out",
         "link": "https://www.skysports.com/boxing/news/12040/13570679/callum-walsh-aaron-mckenna-world-title-fight-makes-sense-fighting-stephen-mckenna-doesnt"
-      },
-      {
-        "title": "Today on Sky Sports Racing: Ascot stages Shergar Cup meeting",
-        "link": "https://www.skysports.com/racing/news/12040/13570627/today-on-sky-sports-racing-ascot-stages-shergar-cup-meeting-with-lingfield-also-live-on-saturday"
-      },
-      {
-        "title": "Brit Smith keeps pressure on leader Hossler after Wyndham Championship R2",
-        "link": "https://www.skysports.com/watch/video/13570878/wyndham-championship-day-two-highlights"
-      },
-      {
-        "title": "Leigh Leopards boost play-off hopes with 22-14 win over York Knights",
-        "link": "https://www.skysports.com/watch/video/13570874/leigh-leopards-22-14-york-knights-super-league-highlights"
       }
     ],
     "pitchfork": [],
@@ -133,24 +133,7 @@
       }
     ],
     "reverseshot": [],
-    "sensesofcinema": [
-      {
-        "title": "Filmmaking at the end of the world: The Quiet Earth",
-        "link": "https://www.sensesofcinema.com/2026/cteq/filmmaking-at-the-end-of-the-world-the-quiet-earth/"
-      },
-      {
-        "title": "Crimes Against Reality: Speculation and the New Red Order",
-        "link": "https://www.sensesofcinema.com/2026/feature-articles/crimes-against-reality-speculation-and-the-new-red-order/"
-      },
-      {
-        "title": "Consent Puzzles in the Oslo Stories Trilogy by Dag Johan Haugerud",
-        "link": "https://www.sensesofcinema.com/2026/feature-articles/consent-puzzles-in-the-oslo-stories-trilogy-by-dag-johan-haugerud/"
-      },
-      {
-        "title": "An Interview with Giulio Bertelli",
-        "link": "https://www.sensesofcinema.com/2026/interviews/an-interview-with-giulio-bertelli/"
-      }
-    ],
+    "sensesofcinema": [],
     "indiewire": [
       {
         "title": "How Can 1980\u2019s \u2018The Return of the King\u2019 Spoil Everything \u2014 and Ruin Nothing?",
@@ -171,6 +154,10 @@
     ],
     "variety": [
       {
+        "title": "\u2018Kettic\u00e8\u2019 Review: An Amusing, Original Portrait of Adolescent Ennui Against a Backdrop of Adult Cluelessness",
+        "link": "https://variety.com/2026/film/reviews/kettice-review-1236830542/"
+      },
+      {
         "title": "Satyajit Ray\u2019s \u2018Goopy Gyne Bagha Byne\u2019 Making to be Chronicled in Srijit Mukherji\u2019s \u2018Maharaja Tomare Selam\u2019",
         "link": "https://variety.com/2026/film/news/satyajit-ray-goopy-gyne-bagha-byne-maharaja-tomare-selam-1236830536/"
       },
@@ -181,13 +168,13 @@
       {
         "title": "Taylor Swift Song \u2018August\u2019 Removed From Trump TikTok Video",
         "link": "https://variety.com/2026/music/news/taylor-swift-song-august-removed-trump-tiktok-video-1236830512/"
-      },
-      {
-        "title": "Behind the Scenes of Obama\u2019s Acting Cameo in \u2018Life, Larry\u2019: Blaming Larry David for His Tan Suit Debacle, Improvising Lines and Ranting About Ketchup",
-        "link": "https://variety.com/2026/tv/news/obama-larry-david-show-tan-suit-1236829485/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "Monica Bellucci Plays a Mother Who Yells and Is the \u201cVictim of a Social Role\u201d in Luca Guadagnino-Produced \u2018Kettic\u00e8\u2019",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/monica-bellucci-luca-guadagnino-film-kettice-locarno-2026-1236669217/"
+      },
       {
         "title": "No, Brian Eno Is Not Behind the Film Soundtrack for \u2018At Night.\u2019 Experimental Musician Elvin Brandhi Is.",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/at-night-film-soundrack-elvin-brandhi-not-brian-eno-locarno-1236666314/"
@@ -199,10 +186,6 @@
       {
         "title": "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/forgotten-spaceman-locarno-film-about-afghanistan-cosmonaut-1236663264/"
-      },
-      {
-        "title": "Dwayne Johnson Addresses \u2018Moana\u2019 Mixed Reviews After Film Underperformed at Box Office",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/dwayne-johnson-moana-mixed-reviews-film-underperformed-1236669273/"
       }
     ],
     "larb": [],
@@ -230,12 +213,12 @@
         "link": "https://psyche.co/videos/why-nurturing-your-compassionate-side-is-simple-and-deeply-beneficial"
       },
       {
-        "title": "Mother Teresa was virtuous, but she was wrong about virtue",
-        "link": "https://psyche.co/ideas/mother-teresa-was-virtuous-but-she-was-wrong-about-virtue"
-      },
-      {
         "title": "Climbing gives me a break from my brain",
         "link": "https://psyche.co/notes-to-self/climbing-gives-me-a-much-needed-break-from-my-brain"
+      },
+      {
+        "title": "Mother Teresa was virtuous, but she was wrong about virtue",
+        "link": "https://psyche.co/ideas/mother-teresa-was-virtuous-but-she-was-wrong-about-virtue"
       },
       {
         "title": "How to enter a state of flow",
@@ -280,6 +263,10 @@
     ],
     "nautilus": [
       {
+        "title": "Inside the Not-So-Dumb Head of the Dodo Bird",
+        "link": "https://nautil.us/inside-the-not-so-dumb-head-of-the-dodo-bird-1283522/"
+      },
+      {
         "title": "Viagra May Slow the Spread of Cancer",
         "link": "https://nautil.us/viagra-may-slow-the-spread-of-cancer-1283519/"
       },
@@ -290,10 +277,6 @@
       {
         "title": "Depression Linked to Shrinking Brain Region in Older Adults",
         "link": "https://nautil.us/depression-linked-to-shrinking-brain-region-in-older-adults-1283490/"
-      },
-      {
-        "title": "Could Physics Help Us Solve the Mystery of Aging?",
-        "link": "https://nautil.us/could-physics-help-us-solve-the-mystery-of-aging-1283486/"
       }
     ],
     "worksinprogress": [],
