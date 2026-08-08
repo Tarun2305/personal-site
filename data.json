@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08 12:32 UTC",
+  "last_updated": "2026-08-08 15:21 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,53 +7,53 @@
         "link": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Simon Levy victims urged to come forward as police accused of 'litany of failures'",
+        "title": "Victims urged to come forward as police accused of 'litany of failures' over murderer and rapist",
         "link": "https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Infantino denies claims Uefa paid off alleged 'lover' when he was general secretary",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Chasing a ghost: how BBC tracked a fugitive spy chief after months-long hunt",
         "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Infantino denies claims Uefa paid off alleged 'lover' when he was general secretary",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Police bodycam and CCTV catches Idaho mall shooting as it unfolds",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/police-bodycam-and-cctv-catches-idaho-mall-shooting-as-it-unfolds?traffic_source=rss"
+        "title": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
+        "link": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss"
       },
       {
-        "title": "Atletico Madrid will not sell Alvarez amid Barcelona interest, says Simeone",
-        "link": "https://www.aljazeera.com/sports/2026/8/8/atletico-madrid-will-not-sell-alvarez-amid-barcelona-interest-says-simeone?traffic_source=rss"
+        "title": "Iraq\u2019s Kurdish region wants to stay out of regional conflicts: PM Barzani",
+        "link": "https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss"
       },
       {
-        "title": "Arsenal complete signing of Newcastle midfielder Bruno Guimaraes",
-        "link": "https://www.aljazeera.com/sports/2026/8/8/arsenal-complete-signing-of-newcastle-midfielder-bruno-guimaraes?traffic_source=rss"
+        "title": "Lionel Messi\u2019s father dies aged 68 after a long illness",
+        "link": "https://www.aljazeera.com/sports/2026/8/8/lionel-messis-father-dies-aged-68-after-a-long-illness?traffic_source=rss"
       },
       {
-        "title": "\u2018Hi friends\u2019: Modi\u2019s curious campaign to win over Gen Z",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/hi-friends-modis-curious-campaign-to-win-over-gen-z?traffic_source=rss"
+        "title": "War on Iran: Phase II: Day 28",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "'I'm your warrior' - Guimaraes moves to Arsenal from Newcastle for \u00a375m",
-        "link": "https://www.skysports.com/football/news/12040/13570096/bruno-guimaraes-arsenal-sign-midfielder-in-75m-transfer-as-newcastle-surpass-240m-in-player-sales-this-summer"
+        "title": "Huddersfield Giants to leave home for Dewsbury amid major investment",
+        "link": "https://www.skysports.com/rugby-league/news/12040/13570935/huddersfield-giants-moving-to-dewsbury-super-league-side-switching-home-from-2027-season-onwards"
       },
       {
-        "title": "Chelsea vs AC Milan LIVE! ",
-        "link": "https://www.skysports.com/football/live-blog/12040/13570761/chelsea-vs-ac-milan-live-pre-season-friendly-team-news-preview-score-updates-and-live-blog-from-jakarta"
+        "title": "Nicholls pays tribute as Big Buck's dies aged 23",
+        "link": "https://www.skysports.com/racing/news/12040/13570985/big-bucks-paul-nicholls-pays-tribute-as-legendary-stayer-dies-aged-23"
       },
       {
-        "title": "Bruno Guimaraes' FIERY clashes against Rice and Arsenal!",
-        "link": "https://www.skysports.com/watch/video/13561965/bruno-guimaraes-when-arsenal-target-took-on-gunners-in-fiery-clash"
+        "title": "Australia survive late Japan rally as new coach Kiss makes winning start",
+        "link": "https://www.skysports.com/rugby-union/news/12040/13570951/australia-edge-japan-35-32-to-give-les-kiss-winning-start-in-first-match-as-head-coach"
       },
       {
-        "title": "'I'd rather fight Aaron for world title' - Walsh dismisses Stevie McKenna call-out",
-        "link": "https://www.skysports.com/boxing/news/12040/13570679/callum-walsh-aaron-mckenna-world-title-fight-makes-sense-fighting-stephen-mckenna-doesnt"
+        "title": "Joao Pedro nets double as Chelsea bounce back to beat Milan",
+        "link": "https://www.skysports.com/football/news/12040/13570780/chelsea-3-0-ac-milan-joao-pedro-nets-double-as-much-improved-blues-bounce-back-to-beat-ruben-amorims-side"
       }
     ],
     "pitchfork": [],
@@ -133,8 +133,33 @@
       }
     ],
     "reverseshot": [],
-    "sensesofcinema": [],
+    "sensesofcinema": [
+      {
+        "title": "Filmmaking at the end of the world: The Quiet Earth",
+        "link": "https://www.sensesofcinema.com/2026/cteq/filmmaking-at-the-end-of-the-world-the-quiet-earth/"
+      },
+      {
+        "title": "Crimes Against Reality: Speculation and the New Red Order",
+        "link": "https://www.sensesofcinema.com/2026/feature-articles/crimes-against-reality-speculation-and-the-new-red-order/"
+      },
+      {
+        "title": "Consent Puzzles in the Oslo Stories Trilogy by Dag Johan Haugerud",
+        "link": "https://www.sensesofcinema.com/2026/feature-articles/consent-puzzles-in-the-oslo-stories-trilogy-by-dag-johan-haugerud/"
+      },
+      {
+        "title": "An Interview with Giulio Bertelli",
+        "link": "https://www.sensesofcinema.com/2026/interviews/an-interview-with-giulio-bertelli/"
+      }
+    ],
     "indiewire": [
+      {
+        "title": "Why Do Most Biopics Stink? \u2018Tony\u2019 and \u2018BlackBerry\u2019 Director Matt Johnson Explains",
+        "link": "https://www.indiewire.com/features/interviews/tony-matt-johnson-biopic-trap-1235209344/"
+      },
+      {
+        "title": "\u2018Camp Miasma\u2019 Raises an Important Question: How Are Our Favorite Slasher Franchises Doing?",
+        "link": "https://www.indiewire.com/features/general/slasher-movie-franchises-current-past-1235209317/"
+      },
       {
         "title": "How Can 1980\u2019s \u2018The Return of the King\u2019 Spoil Everything \u2014 and Ruin Nothing?",
         "link": "https://www.indiewire.com/features/best-of/return-of-the-king-animated-sequel-1980-after-dark-1235209547/"
@@ -142,14 +167,6 @@
       {
         "title": "\u2018Teenage Sex and Death at Camp Miasma\u2019 Is Bloodthirsty for Artifice",
         "link": "https://www.indiewire.com/features/interviews/teenage-sex-and-death-at-camp-miasma-jane-schoenbrun-1235209271/"
-      },
-      {
-        "title": "16 Years at IndieWire, and My Last Issue of In Development",
-        "link": "https://www.indiewire.com/news/analysis/in-development-16-years-at-indiewire-my-last-issue-1235209512/"
-      },
-      {
-        "title": "\u2018Paradise\u2019 Director Hanelle M. Culpepper on Why Great Sci-Fi Shows Sweat the Small Stuff",
-        "link": "https://www.indiewire.com/awards/consider-this/paradise-hanelle-m-culpepper-season-2-finale-interview-1235209275/"
       }
     ],
     "variety": [
@@ -172,20 +189,20 @@
     ],
     "hollywoodreporter": [
       {
+        "title": "\u2018My Life With the Walter Boys\u2019 Star Ashby Gentry on Alex\u2019s Healing Journey, New Love Triangle and \u201cPicking Up the Pieces\u201d in Season 4",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/my-life-with-the-walter-boys-ashby-gentry-alex-season-3-1236663390/"
+      },
+      {
+        "title": "Does Guthrie Family Have Grounds to Sue Pima County Over Alleged Investigation Missteps?",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/nancy-guthrie-kidnapping-can-savannah-sue-pima-county-1236664152/"
+      },
+      {
         "title": "Monica Bellucci Plays a Mother Who Yells and Is the \u201cVictim of a Social Role\u201d in Luca Guadagnino-Produced \u2018Kettic\u00e8\u2019",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/monica-bellucci-luca-guadagnino-film-kettice-locarno-2026-1236669217/"
       },
       {
         "title": "No, Brian Eno Is Not Behind the Film Soundtrack for \u2018At Night.\u2019 Experimental Musician Elvin Brandhi Is.",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/at-night-film-soundrack-elvin-brandhi-not-brian-eno-locarno-1236666314/"
-      },
-      {
-        "title": "\u2018Asphalt Guerrilla\u2019 Blends Fact, Fiction, AI and a Story About Filmmaking to Hold Up a Mirror to Our Time",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/asphalt-guerrilla-film-interview-locarno-2026-ai-radicalism-1236668855/"
-      },
-      {
-        "title": "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/forgotten-spaceman-locarno-film-about-afghanistan-cosmonaut-1236663264/"
       }
     ],
     "larb": [],
@@ -263,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "New Observatory Captures More Than Half a Million Galaxies in a Single Image",
+        "link": "https://nautil.us/new-observatory-captures-more-than-half-a-million-galaxies-in-a-single-image-1283526/"
+      },
+      {
         "title": "Inside the Not-So-Dumb Head of the Dodo Bird",
         "link": "https://nautil.us/inside-the-not-so-dumb-head-of-the-dodo-bird-1283522/"
       },
@@ -273,10 +294,6 @@
       {
         "title": "This Paradoxical Desert Landscape Is Filled with Fresh Water",
         "link": "https://nautil.us/this-paradoxical-desert-landscape-is-filled-with-fresh-water-1283495/"
-      },
-      {
-        "title": "Depression Linked to Shrinking Brain Region in Older Adults",
-        "link": "https://nautil.us/depression-linked-to-shrinking-brain-region-in-older-adults-1283490/"
       }
     ],
     "worksinprogress": [],
