@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-08-08 15:21 UTC",
+  "last_updated": "2026-08-08 18:26 UTC",
   "feeds": {
     "bbc": [
-      {
-        "title": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
-        "link": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss"
-      },
       {
         "title": "Victims urged to come forward as police accused of 'litany of failures' over murderer and rapist",
         "link": "https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Chasing a ghost: how BBC tracked a fugitive spy chief after months-long hunt",
+        "title": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
+        "link": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Chasing a ghost: How BBC tracked a fugitive spy chief after months-long hunt",
         "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Infantino denies claims Uefa paid off alleged 'lover' when he was general secretary",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss"
+        "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+        "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
-        "link": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss"
+        "title": "Gaza health chief urges action to \u2018save\u2019 Dr Abu Safia before it\u2019s too late",
+        "link": "https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss"
       },
       {
-        "title": "Iraq\u2019s Kurdish region wants to stay out of regional conflicts: PM Barzani",
-        "link": "https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss"
+        "title": "British Columbia issues evacuation orders ahead of fast-moving wildfires",
+        "link": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss"
       },
       {
-        "title": "Lionel Messi\u2019s father dies aged 68 after a long illness",
-        "link": "https://www.aljazeera.com/sports/2026/8/8/lionel-messis-father-dies-aged-68-after-a-long-illness?traffic_source=rss"
+        "title": "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
+        "link": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss"
       },
       {
-        "title": "War on Iran: Phase II: Day 28",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss"
+        "title": "Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?",
+        "link": "https://www.aljazeera.com/news/2026/8/8/saudi-pakistan-turkiye-pact-a-new-shield-or-strategic-signal?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Mbeumo scores in encouraging Man Utd draw with PSG but Mount injured",
+        "link": "https://www.skysports.com/football/paris-saint-germain-vs-manchester-united/report/555766"
+      },
+      {
+        "title": "Newcastle take on Valencia in Jaissle's first game in charge LIVE!",
+        "link": "https://www.skysports.com/football/live-blog/12040/13571193/valencia-vs-newcastle-live-pre-season-fixture-score-live-updates-and-team-news"
+      },
+      {
+        "title": "'Took him off both his feet!' | Stevie McKenna with HUGE first-round KO",
+        "link": "https://www.skysports.com/watch/video/13571184/zuffa-boxing-10-stevie-mckenna-with-huge-first-round-knockout"
+      },
+      {
         "title": "Huddersfield Giants to leave home for Dewsbury amid major investment",
         "link": "https://www.skysports.com/rugby-league/news/12040/13570935/huddersfield-giants-moving-to-dewsbury-super-league-side-switching-home-from-2027-season-onwards"
-      },
-      {
-        "title": "Nicholls pays tribute as Big Buck's dies aged 23",
-        "link": "https://www.skysports.com/racing/news/12040/13570985/big-bucks-paul-nicholls-pays-tribute-as-legendary-stayer-dies-aged-23"
-      },
-      {
-        "title": "Australia survive late Japan rally as new coach Kiss makes winning start",
-        "link": "https://www.skysports.com/rugby-union/news/12040/13570951/australia-edge-japan-35-32-to-give-les-kiss-winning-start-in-first-match-as-head-coach"
-      },
-      {
-        "title": "Joao Pedro nets double as Chelsea bounce back to beat Milan",
-        "link": "https://www.skysports.com/football/news/12040/13570780/chelsea-3-0-ac-milan-joao-pedro-nets-double-as-much-improved-blues-bounce-back-to-beat-ruben-amorims-side"
       }
     ],
     "pitchfork": [],
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "As \u2018Tromeo & Juliet\u2019 Turns 30, Lloyd Kaufman Measures His Success in Fan Tattoos",
+        "link": "https://www.indiewire.com/features/interviews/tromeo-and-juliet-30th-anniversary-interview-1235209607/"
+      },
+      {
         "title": "Why Do Most Biopics Stink? \u2018Tony\u2019 and \u2018BlackBerry\u2019 Director Matt Johnson Explains",
         "link": "https://www.indiewire.com/features/interviews/tony-matt-johnson-biopic-trap-1235209344/"
       },
@@ -163,46 +167,42 @@
       {
         "title": "How Can 1980\u2019s \u2018The Return of the King\u2019 Spoil Everything \u2014 and Ruin Nothing?",
         "link": "https://www.indiewire.com/features/best-of/return-of-the-king-animated-sequel-1980-after-dark-1235209547/"
-      },
-      {
-        "title": "\u2018Teenage Sex and Death at Camp Miasma\u2019 Is Bloodthirsty for Artifice",
-        "link": "https://www.indiewire.com/features/interviews/teenage-sex-and-death-at-camp-miasma-jane-schoenbrun-1235209271/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018Kettic\u00e8\u2019 Review: An Amusing, Original Portrait of Adolescent Ennui Against a Backdrop of Adult Cluelessness",
-        "link": "https://variety.com/2026/film/reviews/kettice-review-1236830542/"
+        "title": "Anthony Michael Hall Says John Hughes Wanted a \u2018Breakfast Club\u2019 Sequel Where the Original Cast Is \u2018In Their 30s\u2019",
+        "link": "https://variety.com/2026/film/news/anthony-michael-hall-john-hughes-breakfast-club-sequel-1236830655/"
       },
       {
-        "title": "Satyajit Ray\u2019s \u2018Goopy Gyne Bagha Byne\u2019 Making to be Chronicled in Srijit Mukherji\u2019s \u2018Maharaja Tomare Selam\u2019",
-        "link": "https://variety.com/2026/film/news/satyajit-ray-goopy-gyne-bagha-byne-maharaja-tomare-selam-1236830536/"
+        "title": "\u2018Cookie Queens\u2019 Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble",
+        "link": "https://variety.com/2026/film/reviews/cookie-queens-review-prince-harry-meghan-markle-1236830251/"
       },
       {
-        "title": "\u2018I Rarely Wake Up Dreaming\u2019 Review: An Affecting Trans Relationship Drama Brings Fresh Perspective to the War in Ukraine",
-        "link": "https://variety.com/2026/film/news/i-rarely-wake-up-dreaming-review-1236830181/"
+        "title": "Bill Maher\u2019s Joke About Ariana Grande\u2019s Weight Draws Groans From \u2018Real Time\u2019 Audience",
+        "link": "https://variety.com/2026/tv/news/bill-maher-joke-ariana-grande-weight-real-time-1236830643/"
       },
       {
-        "title": "Taylor Swift Song \u2018August\u2019 Removed From Trump TikTok Video",
-        "link": "https://variety.com/2026/music/news/taylor-swift-song-august-removed-trump-tiktok-video-1236830512/"
+        "title": "Giovanni Tortorici on Working With Monica Bellucci Who Plays an \u2018Eccentric\u2019 Aristocratic Matron in His Luca Guadagnino-Produced Film \u2018Kettic\u00e8\u2019",
+        "link": "https://variety.com/2026/film/festivals/giovanni-tortorici-monica-bellucci-luca-guadagnino-kettice-1236828928/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018My Life With the Walter Boys\u2019 Star Ashby Gentry on Alex\u2019s Healing Journey, New Love Triangle and \u201cPicking Up the Pieces\u201d in Season 4",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/my-life-with-the-walter-boys-ashby-gentry-alex-season-3-1236663390/"
+        "title": "Inside the \u2018Summer House\u2019 Scandal That Turned Bravo\u2019s Little Show Into a Big (Emmy-Nominated) Deal",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/inside-summer-house-scandal-1236668939/"
       },
       {
-        "title": "Does Guthrie Family Have Grounds to Sue Pima County Over Alleged Investigation Missteps?",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/nancy-guthrie-kidnapping-can-savannah-sue-pima-county-1236664152/"
+        "title": "40 Years Ago, Rob Reiner Turned Stephen King\u2019s Most Personal Story Into a Surprise Hit",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/rob-reiner-stephen-king-the-body-1236664309/"
       },
       {
-        "title": "Monica Bellucci Plays a Mother Who Yells and Is the \u201cVictim of a Social Role\u201d in Luca Guadagnino-Produced \u2018Kettic\u00e8\u2019",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/monica-bellucci-luca-guadagnino-film-kettice-locarno-2026-1236669217/"
+        "title": "Ariana Madix on Season Eight\u2019s \u201cDiabolical\u201d Casa Amor Twist and How She Stays Ready for Whatever On Set",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/ariana-madix-love-island-usa-casa-amor-twist-1236666089/"
       },
       {
-        "title": "No, Brian Eno Is Not Behind the Film Soundtrack for \u2018At Night.\u2019 Experimental Musician Elvin Brandhi Is.",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/at-night-film-soundrack-elvin-brandhi-not-brian-eno-locarno-1236666314/"
+        "title": "Olivia Wilde Says She Fought for \u2018The Invite\u2019 to Get a Cinema Release: \u201cThey Bribe You to Not Take Theatrical\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/olivia-wilde-wanted-the-invite-cinema-run-streaming-bribe-1236669287/"
       }
     ],
     "larb": [],
@@ -230,12 +230,12 @@
         "link": "https://psyche.co/videos/why-nurturing-your-compassionate-side-is-simple-and-deeply-beneficial"
       },
       {
-        "title": "Climbing gives me a break from my brain",
-        "link": "https://psyche.co/notes-to-self/climbing-gives-me-a-much-needed-break-from-my-brain"
-      },
-      {
         "title": "Mother Teresa was virtuous, but she was wrong about virtue",
         "link": "https://psyche.co/ideas/mother-teresa-was-virtuous-but-she-was-wrong-about-virtue"
+      },
+      {
+        "title": "Climbing gives me a break from my brain",
+        "link": "https://psyche.co/notes-to-self/climbing-gives-me-a-much-needed-break-from-my-brain"
       },
       {
         "title": "How to enter a state of flow",
