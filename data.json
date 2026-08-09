@@ -1,9 +1,13 @@
 {
-  "last_updated": "2026-08-09 09:31 UTC",
+  "last_updated": "2026-08-09 12:35 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Suspected crime boss Daniel Kinahan to be returned to Ireland in high-security operation",
+        "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+        "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation ",
         "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -11,54 +15,54 @@
         "link": "https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Killed a month after his wedding - why PC Andrew Harper's story touched so many",
-        "link": "https://www.bbc.co.uk/news/articles/c4gvrnyrjn0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
-        "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss"
+        "title": "How weight-loss medication is changing relationships with alcohol",
+        "link": "https://www.bbc.co.uk/news/articles/cr7kmlg0lxpo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "It won\u2019t be Trump who kills the ICC",
-        "link": "https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss"
+        "title": "Nigeria mass weddings ease financial burden for couples",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/nigeria-mass-weddings-ease-financial-burden-for-couples?traffic_source=rss"
       },
       {
-        "title": "Women\u2019s Day in South Africa turns 70 with equality still out of reach",
-        "link": "https://www.aljazeera.com/opinions/2026/8/9/womens-day-in-south-africa-turns-70-with-equality-still-out-of-reach?traffic_source=rss"
+        "title": "Which other countries could join the Turkiye-Saudi-Pakistan defence pact?",
+        "link": "https://www.aljazeera.com/news/2026/8/9/which-other-countries-could-join-the-turkiye-saudi-pakistan-defence-pact?traffic_source=rss"
       },
       {
-        "title": "Flight cancellations, evacuations as China braces for Typhoon Dolphin",
-        "link": "https://www.aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin?traffic_source=rss"
+        "title": "\u2018US and Iran are talking past each other\u2019 in indirect negotiations",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/us-and-iran-are-talking-past-each-other-in-indirect-negotiations?traffic_source=rss"
       },
       {
-        "title": "Saudi Arabia says fire extinguished at Aramco facility in Jizan",
-        "link": "https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss"
+        "title": "Hundreds forced onto Rome streets amid crackdown on squatted building",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-forced-onto-rome-streets-amid-crackdown-on-squatted-building?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Five-time Super League winner Makinson to retire at end of 2026 campaign",
+        "link": "https://www.skysports.com/rugby-league/news/12040/13571338/tommy-makinson-catalans-dragons-wing-and-former-st-helens-try-machine-announces-he-will-retire-at-end-of-2026-campaign"
+      },
+      {
         "title": "Thorslund ends Johnson's undisputed run to become world champion again",
         "link": "https://www.skysports.com/boxing/news/12040/13571294/dina-thorslund-ends-cherneka-johnsons-undisputed-run-to-become-world-champion-again-after-return-following-miscarriage"
       },
       {
-        "title": "In-form Norrie defeated in Montreal while Sabalenka suffers shock loss",
-        "link": "https://www.skysports.com/tennis/news/12040/13571288/national-bank-open-in-form-cam-norrie-defeated-by-arthur-fils-in-montreal-while-aryna-sabalenka-suffers-shock-canadian-open-loss"
+        "title": "Semenyo and Marmoush combine twice to give City lead vs Atletico LIVE!",
+        "link": "https://www.skysports.com/football/manchester-city-vs-atletico-madrid/live/559827"
       },
       {
-        "title": "McKenna vows middleweight domination as heir to Golovkin and Canelo",
-        "link": "https://www.skysports.com/boxing/news/12040/13571270/aaron-mckenna-vows-middleweight-domination-as-heir-to-gennadiy-golovkin-and-canelo-alvarez-after-world-title-win"
-      },
-      {
-        "title": "True Love seeks Prix Maurice de Gheest crown at Deauville",
-        "link": "https://www.skysports.com/racing/news/12040/13570933/today-on-sky-sports-racing-true-love-seeks-prix-maurice-de-gheest-crown-at-deauville"
+        "title": "Odegaard back for Arsenal vs Dortmund LIVE!",
+        "link": "https://www.skysports.com/football/live-blog/12040/13571163/arsenal-vs-borussia-dortmund-live-pre-season-friendly-team-news-preview-score-updates-and-live-blog"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "Beverly Glenn-Copeland :: Light of the Heavens",
+        "link": "https://aquariumdrunkard.com/2026/08/09/beverly-glenn-copeland-light-of-the-heavens/"
+      },
       {
         "title": "Twisted Teens :: Florida Water Blues",
         "link": "https://aquariumdrunkard.com/2026/08/07/twisted-teens-florida-water-blues/"
@@ -70,10 +74,6 @@
       {
         "title": "The Aquarium Drunkard Show: SIRIUS/XMU (7pm PDT, Channel 35)",
         "link": "https://aquariumdrunkard.com/2026/08/05/the-aquarium-drunkard-show-sirius-xmu-7pm-pdt-channel-35-181/"
-      },
-      {
-        "title": "Transmissions :: Awake, My Soul",
-        "link": "https://aquariumdrunkard.com/2026/08/05/transmissions-awake-my-soul/"
       }
     ],
     "bfi": [],
@@ -133,7 +133,24 @@
       }
     ],
     "reverseshot": [],
-    "sensesofcinema": [],
+    "sensesofcinema": [
+      {
+        "title": "Filmmaking at the end of the world: The Quiet Earth",
+        "link": "https://www.sensesofcinema.com/2026/cteq/filmmaking-at-the-end-of-the-world-the-quiet-earth/"
+      },
+      {
+        "title": "Crimes Against Reality: Speculation and the New Red Order",
+        "link": "https://www.sensesofcinema.com/2026/feature-articles/crimes-against-reality-speculation-and-the-new-red-order/"
+      },
+      {
+        "title": "Consent Puzzles in the Oslo Stories Trilogy by Dag Johan Haugerud",
+        "link": "https://www.sensesofcinema.com/2026/feature-articles/consent-puzzles-in-the-oslo-stories-trilogy-by-dag-johan-haugerud/"
+      },
+      {
+        "title": "An Interview with Giulio Bertelli",
+        "link": "https://www.sensesofcinema.com/2026/interviews/an-interview-with-giulio-bertelli/"
+      }
+    ],
     "indiewire": [
       {
         "title": "How a Grassroots Campaign Helped Bring Back the Cinerama Dome",
@@ -172,6 +189,10 @@
     ],
     "hollywoodreporter": [
       {
+        "title": "James Gray Says Actors \u201cDictate the Style\u201d of Films and Explains Why, When People Talk in a Cinema, \u201cYou Want to Kill Them\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/james-gray-actors-dictate-film-style-cinema-dream-locarno-1236669660/"
+      },
+      {
         "title": "Luca Guadagnino Explains Why He Just Had to Produce Giovanni Tortorici\u2019s Coming-of-Age Drama \u2018Kettic\u00e8\u2019 in a \u201cSterile\u201d Italian Film Landscape",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-produce-kettice-film-sterile-italy-locarno-1236669247/"
       },
@@ -182,10 +203,6 @@
       {
         "title": "\u2018Objet a\u2019 Explores Desire and Control in an Age When We \u201cTouch Flat Screens More Than Our Lover\u2019s Skin\u201d",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/objet-a-film-interview-desire-control-touch-locarno-2026-1236669493/"
-      },
-      {
-        "title": "Whitney Houston\u2019s Sister-in-Law Pat Houston Personally Approved Singer\u2019s New Barbie Doll",
-        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/whitney-houston-official-barbie-doll-release-buy-online-1236665168/"
       }
     ],
     "larb": [],
@@ -213,12 +230,12 @@
         "link": "https://psyche.co/videos/why-nurturing-your-compassionate-side-is-simple-and-deeply-beneficial"
       },
       {
-        "title": "Climbing gives me a break from my brain",
-        "link": "https://psyche.co/notes-to-self/climbing-gives-me-a-much-needed-break-from-my-brain"
-      },
-      {
         "title": "Mother Teresa was virtuous, but she was wrong about virtue",
         "link": "https://psyche.co/ideas/mother-teresa-was-virtuous-but-she-was-wrong-about-virtue"
+      },
+      {
+        "title": "Climbing gives me a break from my brain",
+        "link": "https://psyche.co/notes-to-self/climbing-gives-me-a-much-needed-break-from-my-brain"
       },
       {
         "title": "How to enter a state of flow",
@@ -263,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "Taxi Drivers Rarely Die of Alzheimer\u2019s\u2014How Complex Mental Maps and Spatial Reasoning Protect Your Brain",
+        "link": "https://nautil.us/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-1283501/"
+      },
+      {
         "title": "New Observatory Captures More Than Half a Million Galaxies in a Single Image",
         "link": "https://nautil.us/new-observatory-captures-more-than-half-a-million-galaxies-in-a-single-image-1283526/"
       },
@@ -273,10 +294,6 @@
       {
         "title": "Viagra May Slow the Spread of Cancer",
         "link": "https://nautil.us/viagra-may-slow-the-spread-of-cancer-1283519/"
-      },
-      {
-        "title": "This Paradoxical Desert Landscape Is Filled with Fresh Water",
-        "link": "https://nautil.us/this-paradoxical-desert-landscape-is-filled-with-fresh-water-1283495/"
       }
     ],
     "worksinprogress": [],
