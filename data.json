@@ -1,44 +1,52 @@
 {
-  "last_updated": "2026-08-09 06:42 UTC",
+  "last_updated": "2026-08-09 09:31 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Suspected crime boss Daniel Kinahan to be returned to Ireland in high-security operation",
+        "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Andy Burnham to embark on cost of living tour through the UK",
         "link": "https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Fifa criticises campaign to oust president Infantino",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Killed a month after his wedding - why PC Andrew Harper's death touched so many",
+        "title": "Killed a month after his wedding - why PC Andrew Harper's story touched so many",
         "link": "https://www.bbc.co.uk/news/articles/c4gvrnyrjn0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
-        "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss"
+        "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
+        "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Wildfire forces thousands of evacuations in Western Canada",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfire-forces-thousands-of-evacuations-in-western-canada?traffic_source=rss"
+        "title": "It won\u2019t be Trump who kills the ICC",
+        "link": "https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss"
       },
       {
-        "title": "Lionel Messi returns to Argentina after father Jorge\u2019s death",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss"
+        "title": "Women\u2019s Day in South Africa turns 70 with equality still out of reach",
+        "link": "https://www.aljazeera.com/opinions/2026/8/9/womens-day-in-south-africa-turns-70-with-equality-still-out-of-reach?traffic_source=rss"
       },
       {
-        "title": "Iran issues new demands as Pezeshkian seeks deal",
-        "link": "https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss"
+        "title": "Flight cancellations, evacuations as China braces for Typhoon Dolphin",
+        "link": "https://www.aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin?traffic_source=rss"
       },
       {
-        "title": "\u2018Very painful\u2019: Joe Biden\u2019s cancer has spread, son Hunter says",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-clip-biden-cancer-us?traffic_source=rss"
+        "title": "Saudi Arabia says fire extinguished at Aramco facility in Jizan",
+        "link": "https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "Thorslund ends Johnson's undisputed run to become world champion again",
+        "link": "https://www.skysports.com/boxing/news/12040/13571294/dina-thorslund-ends-cherneka-johnsons-undisputed-run-to-become-world-champion-again-after-return-following-miscarriage"
+      },
+      {
+        "title": "In-form Norrie defeated in Montreal while Sabalenka suffers shock loss",
+        "link": "https://www.skysports.com/tennis/news/12040/13571288/national-bank-open-in-form-cam-norrie-defeated-by-arthur-fils-in-montreal-while-aryna-sabalenka-suffers-shock-canadian-open-loss"
+      },
       {
         "title": "McKenna vows middleweight domination as heir to Golovkin and Canelo",
         "link": "https://www.skysports.com/boxing/news/12040/13571270/aaron-mckenna-vows-middleweight-domination-as-heir-to-gennadiy-golovkin-and-canelo-alvarez-after-world-title-win"
@@ -46,14 +54,6 @@
       {
         "title": "True Love seeks Prix Maurice de Gheest crown at Deauville",
         "link": "https://www.skysports.com/racing/news/12040/13570933/today-on-sky-sports-racing-true-love-seeks-prix-maurice-de-gheest-crown-at-deauville"
-      },
-      {
-        "title": "Wyndham Championship | Day three highlights as Brennan and Hossler share lead",
-        "link": "https://www.skysports.com/watch/video/13571286/wyndham-championship-day-three-highlights"
-      },
-      {
-        "title": "Papers: Romero open to joining Arsenal but Spurs resist",
-        "link": "https://www.skysports.com/football/news/12040/13571259/cristian-romero-open-to-joining-arsenal-but-tottenham-adamant-their-defender-will-not-cross-the-north-london-divide-paper-talk"
       }
     ],
     "pitchfork": [],
@@ -133,24 +133,7 @@
       }
     ],
     "reverseshot": [],
-    "sensesofcinema": [
-      {
-        "title": "Filmmaking at the end of the world: The Quiet Earth",
-        "link": "https://www.sensesofcinema.com/2026/cteq/filmmaking-at-the-end-of-the-world-the-quiet-earth/"
-      },
-      {
-        "title": "Crimes Against Reality: Speculation and the New Red Order",
-        "link": "https://www.sensesofcinema.com/2026/feature-articles/crimes-against-reality-speculation-and-the-new-red-order/"
-      },
-      {
-        "title": "Consent Puzzles in the Oslo Stories Trilogy by Dag Johan Haugerud",
-        "link": "https://www.sensesofcinema.com/2026/feature-articles/consent-puzzles-in-the-oslo-stories-trilogy-by-dag-johan-haugerud/"
-      },
-      {
-        "title": "An Interview with Giulio Bertelli",
-        "link": "https://www.sensesofcinema.com/2026/interviews/an-interview-with-giulio-bertelli/"
-      }
-    ],
+    "sensesofcinema": [],
     "indiewire": [
       {
         "title": "How a Grassroots Campaign Helped Bring Back the Cinerama Dome",
@@ -171,23 +154,31 @@
     ],
     "variety": [
       {
+        "title": "\u2018Donkey Princess\u2019 Review: A Princess Escapes the Kingdom, but Not the Patriarchy, in an Inventive, Shape-Shifting Fairytale",
+        "link": "https://variety.com/2026/film/news/donkey-princess-review-1236830559/"
+      },
+      {
+        "title": "Naseeruddin Shah, Gurvinder Singh Turn a Village\u2019s Real Grief Into Locarno Competition Title \u2018Rehmat\u2019: \u2018It\u2019s Important That These Films Get Made\u2019",
+        "link": "https://variety.com/2026/film/festivals/naseeruddin-shah-gurvinder-singh-rehmat-locarno-1236830761/"
+      },
+      {
         "title": "Mahesh Babu\u2019s Look in S.S. Rajamouli\u2019s \u2018Varanasi\u2019 Unveiled",
         "link": "https://variety.com/2026/film/news/mahesh-babu-look-ss-rajamouli-varanasi-1236830753/"
       },
       {
         "title": "Whitney Houston Gets Her Own Barbie, Recreating Iconic \u2018I Wanna Dance With Somebody\u2019 Look",
         "link": "https://variety.com/2026/shopping/news/whitney-houston-barbie-buy-online-1236830603/"
-      },
-      {
-        "title": "Gina Prince-Bythewood Discusses the Worldbuilding of \u2018Children of Blood and Bone\u2019 and Praises Author Tomi Adeyemi as a \u2018Genius\u2019",
-        "link": "https://variety.com/2026/film/news/gina-prince-bythewood-children-of-blood-and-bone-tomi-adeyemi-mvaaff-1236830592/"
-      },
-      {
-        "title": "Andrew Lloyd Webber Is \u2018Gutted\u2019 on \u2018Cats: The Jellicle Ball\u2019 Closing Night: Producing on Broadway Is \u2018Unsustainable\u2019",
-        "link": "https://variety.com/2026/legit/news/andrew-lloyd-webber-cats-the-jellicle-ball-closing-night-1236830708/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "Luca Guadagnino Explains Why He Just Had to Produce Giovanni Tortorici\u2019s Coming-of-Age Drama \u2018Kettic\u00e8\u2019 in a \u201cSterile\u201d Italian Film Landscape",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-produce-kettice-film-sterile-italy-locarno-1236669247/"
+      },
+      {
+        "title": "In \u2018Demons,\u2019 Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/demons-film-trailer-russia-ukraine-relationship-locarno-1236666538/"
+      },
       {
         "title": "\u2018Objet a\u2019 Explores Desire and Control in an Age When We \u201cTouch Flat Screens More Than Our Lover\u2019s Skin\u201d",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/objet-a-film-interview-desire-control-touch-locarno-2026-1236669493/"
@@ -195,14 +186,6 @@
       {
         "title": "Whitney Houston\u2019s Sister-in-Law Pat Houston Personally Approved Singer\u2019s New Barbie Doll",
         "link": "https://www.hollywoodreporter.com/lifestyle/shopping/whitney-houston-official-barbie-doll-release-buy-online-1236665168/"
-      },
-      {
-        "title": "The \u2018One Night Only\u2019 Writer and Producer Have Seen Your Questions and Have (Some of) the Answers",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/one-night-only-writer-producer-no-premarital-sex-law-rules-1236669498/"
-      },
-      {
-        "title": "\u2018Heated Rivalry\u2019 Author Rachel Reid Pushes Back Against Season 2 Casting Criticism",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-rachel-reid-season-2-casting-criticism-1236669555/"
       }
     ],
     "larb": [],
