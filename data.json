@@ -1,25 +1,33 @@
 {
-  "last_updated": "2026-08-10 04:24 UTC",
+  "last_updated": "2026-08-10 07:17 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-        "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss"
+        "title": "Travelodge staff gave domestic abuser key to his victim's room",
+        "link": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
         "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Evidence that South African special forces murdered top detective shared with BBC",
-        "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss"
+        "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+        "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "China evacuates one million from homes as massive storm arrives",
-        "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss"
+        "title": "Evidence that South African special forces murdered top detective shared with BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
+      {
+        "title": "What\u2019s driving unrest in Pakistan-administered Kashmir?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/whats-driving-unrest-in-pakistan-administered-kashmir?traffic_source=rss"
+      },
+      {
+        "title": "Wildfires bear down on homes in Canada\u2019s Okanagan region",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/wildfires-bear-down-on-homes-in-canadas-okanagan-region?traffic_source=rss"
+      },
       {
         "title": "Trump names Will Scharf as White House counsel ahead of midterms",
         "link": "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
@@ -27,18 +35,18 @@
       {
         "title": "Brazilian player falls into tunnel celebrating goal",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/brazilian-player-falls-into-tunnel-celebrating-goal?traffic_source=rss"
-      },
-      {
-        "title": "Trump signals shift to economic pressure on Iran over new military strikes",
-        "link": "https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss"
-      },
-      {
-        "title": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz",
-        "link": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "Hodgkinson: Home European gold would mean almost as much as Olympic title",
+        "link": "https://www.skysports.com/live-blog/12040/13571552/european-athletics-championships-2026-updates-from-birmingham-as-keely-hodgkinson-dina-asher-smith-katarina-johnson-thompson-compete"
+      },
+      {
+        "title": "Today on Sky Sports Racing: Badri chases four-timer at Windsor",
+        "link": "https://www.skysports.com/racing/news/12040/13571329/today-on-sky-sports-racing-flat-action-from-windsor-live-on-monday-evening-with-badri-chasing-a-four-timer"
+      },
       {
         "title": "Brennan secures FedEx Cup Playoffs spot with Wyndham Championship win",
         "link": "https://www.skysports.com/golf/news/12040/13571521/wyndham-championship-michael-brennan-secures-fedex-playoffs-spot-with-victory"
@@ -46,14 +54,6 @@
       {
         "title": "Papers: Man Utd and Arsenal chase Club Brugge full-back Seys",
         "link": "https://www.skysports.com/football/news/12040/13571517/manchester-united-and-arsenal-among-several-clubs-chasing-club-brugge-left-back-joaquin-seys"
-      },
-      {
-        "title": "Rahm reigns again after Niemann wins LIV Golf New York",
-        "link": "https://www.skysports.com/golf/news/12040/13571516/liv-golf-jon-rahm-clinches-third-straight-title-after-joaquin-niemann-wins-in-new-york"
-      },
-      {
-        "title": "'Very pathetic' - Koepka fumes after missing FedExCup Playoffs",
-        "link": "https://www.skysports.com/golf/news/12040/13571491/brooks-koepka-fumes-after-pathetic-wyndham-championship-performance-costs-him-place-in-fedexcup-playoffs"
       }
     ],
     "pitchfork": [],
@@ -171,38 +171,38 @@
     ],
     "variety": [
       {
-        "title": "\u2018House of the Dragon\u2019 Star Phia Saban on Helaena\u2019s Finale \u2018Tragedy\u2019 and Changes to Maelor Storyline",
-        "link": "https://variety.com/2026/tv/news/helaena-death-explained-house-of-the-dragon-finale-death-explained-phia-saban-1236830274/"
+        "title": "\u2018Primo Viaggio,\u2019 Presented Last Year at Locarno\u2019s Alliance 4 Development, Has Wrapped and Heading for Venice Gap-Financing Market (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/global/primo-viaggio-nanni-moretti-halley-locarno-wraps-1236830544/"
       },
       {
-        "title": "\u2018House of the Dragon\u2019 Star Emma D\u2019Arcy and Creator Ryan Condal on Rhaenyra-Daenerys Finale Connection and What All That Death Means for Season 4",
-        "link": "https://variety.com/2026/tv/news/house-of-the-dragon-finale-rhaenyra-season-4-tumbleton-battle-1236830373/"
+        "title": "\u2018Letters From the Silenced Country,\u2019 Documentary About Oppression in Belarus, Boarded by Filmotor Ahead of Venice Premiere (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/global/venice-letters-from-the-silenced-country-filmotor-1236831072/"
       },
       {
-        "title": "\u2018House of the Dragon\u2019 Star James Norton on the Irony of Ormund\u2019s [SPOILER], His \u2018Oddly Intimate\u2019 Dynamic With Roddy the Ruin and Why His Love for Daeron Needed to Feel \u2018Real\u2019",
-        "link": "https://variety.com/2026/tv/news/james-norton-ormund-death-house-of-the-dragon-finale-1236830726/"
+        "title": "Ritesh Sidhwani and Farhan Akhtar Launch Excel Origins, Initiative to Discover Filmmakers Under 30, as India\u2019s Excel Entertainment Marks 25th Anniversary (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/news/farhan-akhtar-ritesh-sidhwani-excel-origins-1236830778/"
       },
       {
-        "title": "\u2018Widow\u2019s Bay,\u2019 \u2018Fallout\u2019 and \u2018Hacks\u2019 Among Set Decorators Society of America TV Award Winners",
-        "link": "https://variety.com/2026/artisans/news/set-decorators-society-of-america-tv-award-winners-full-list-1236830970/"
+        "title": "Korea Box Office: \u2018The Odyssey\u2019 Bests \u2018Spider-Man: Brand New Day\u2019",
+        "link": "https://variety.com/2026/film/box-office/korea-box-office-the-odyssey-spider-man-brand-new-day-1236831065/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "\u2018Tear Gas\u2019 Is a Fiction Film Shot Inside Georgia Anti-Government Protests. And It Is \u201can Act of Resistance\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/tear-gas-georgia-fiction-film-shot-in-real-protests-locarno-1236663941/"
+      },
+      {
+        "title": "China Box Office: \u2018Spider-Man\u2019 Holds No. 1 as \u2018The Odyssey\u2019 Storms Previews",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/china-box-office-spider-man-christopher-nolan-the-odyssey-1236669960/"
+      },
       {
         "title": "Aubrey Plaza and Christopher Abbott Are Parents to a Baby Daughter",
         "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/aubrey-plaza-christopher-abbott-baby-girl-1236669891/"
       },
       {
-        "title": "Tedde Moore, Who Played Ralphie\u2019s Teacher in \u2018A Christmas Story,\u2019 Dies at 79",
+        "title": "Tedde Moore, Ralphie\u2019s Teacher in \u2018A Christmas Story,\u2019 Dies at 79",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/tedde-moore-dead-a-christmas-story-teacher-ralphie-1236669867/"
-      },
-      {
-        "title": "\u2018House of the Dragon\u2019 Star Shares the Bright Side of That Tragic Finale Twist",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/house-of-the-dragon-season-3-finale-death-interview-1236669852/"
-      },
-      {
-        "title": "\u2018House of the Dragon\u2019 Boss Explains Finale\u2019s Big Book Change",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/house-of-the-dragon-seasson-finale-targaryen-book-change-1236669847/"
       }
     ],
     "larb": [],
@@ -230,12 +230,12 @@
         "link": "https://psyche.co/videos/why-nurturing-your-compassionate-side-is-simple-and-deeply-beneficial"
       },
       {
-        "title": "Climbing gives me a break from my brain",
-        "link": "https://psyche.co/notes-to-self/climbing-gives-me-a-much-needed-break-from-my-brain"
-      },
-      {
         "title": "Mother Teresa was virtuous, but she was wrong about virtue",
         "link": "https://psyche.co/ideas/mother-teresa-was-virtuous-but-she-was-wrong-about-virtue"
+      },
+      {
+        "title": "Climbing gives me a break from my brain",
+        "link": "https://psyche.co/notes-to-self/climbing-gives-me-a-much-needed-break-from-my-brain"
       },
       {
         "title": "How to enter a state of flow",
