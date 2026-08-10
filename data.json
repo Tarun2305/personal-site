@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10 18:46 UTC",
+  "last_updated": "2026-08-10 21:34 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,38 +7,46 @@
         "link": "https://www.bbc.co.uk/news/articles/c70gk2dl5jyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "30 years later, a former rival will stand trial for Tupac's murder",
-        "link": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss"
+        "title": "New Forest firefighting to continue overnight as cars abandoned",
+        "link": "https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Record 230 people cross Channel in one small boat",
         "link": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Consortium including Jeff Bezos advances talks for stake in Liverpool FC",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss"
+        "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+        "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Oman trying to contain extensive oil spill from stricken tanker",
-        "link": "https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker?traffic_source=rss"
+        "title": "Wildfires burn across Indonesia as officials cite El Nino as a cause",
+        "link": "https://www.aljazeera.com/news/2026/8/10/wildfires-burn-across-indonesia-as-officials-cite-el-nino-as-a-cause?traffic_source=rss"
       },
       {
-        "title": "Zuckerberg\u2019s yacht crew did not hear call for help, says spokesperson",
-        "link": "https://www.aljazeera.com/news/2026/8/10/zuckerbergs-yacht-crew-did-not-hear-call-for-help-says-spokesperson?traffic_source=rss"
+        "title": "Turkiye approves pardon-like bill for thousands of PKK fighters",
+        "link": "https://www.aljazeera.com/news/2026/8/10/turkiye-approves-pardon-like-bill-for-thousands-of-pkk-fighters?traffic_source=rss"
       },
       {
-        "title": "Palestinian club football to restart in September after Gaza war suspension",
-        "link": "https://www.aljazeera.com/sports/2026/8/10/palestinian-club-football-to-restart-in-september-after-gaza-war-suspension?traffic_source=rss"
+        "title": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan",
+        "link": "https://www.aljazeera.com/news/2026/8/10/trump-says-relationship-is-good-even-as-netanyahu-rejects-gaza-peace-plan?traffic_source=rss"
       },
       {
-        "title": "Iran\u2019s president says Khamenei is in \u2018perfect health\u2019",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/irans-president-says-khamenei-is-in-perfect?traffic_source=rss"
+        "title": "US appeals court says social media addiction lawsuits can proceed",
+        "link": "https://www.aljazeera.com/news/2026/8/10/us-appeals-court-says-social-media-addiction-lawsuits-can-proceed?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "Rockets relying on others to avoid Eliminator after loss to Brave",
+        "link": "https://www.skysports.com/cricket/news/12040/13571707/the-hundred-trent-rockets-relying-on-others-to-avoid-eliminator-after-loss-to-southern-brave"
+      },
+      {
+        "title": "Britain's Hunt claims European Championships 100m gold",
+        "link": "https://www.skysports.com/live-blog/12040/13571552/european-athletics-championships-2026-updates-from-birmingham-as-keely-hodgkinson-dina-asher-smith-katarina-johnson-thompson-compete"
+      },
       {
         "title": "Liverpool sign Araujo from Barcelona",
         "link": "https://www.skysports.com/football/news/12040/13570899/ronald-araujo-transfer-news-liverpool-complete-deal-to-sign-barcelona-defender-on-loan-with-option-to-buy"
@@ -46,14 +54,6 @@
       {
         "title": "Sciver-Brunt helps Trent Rockets Women into Hundred final",
         "link": "https://www.skysports.com/cricket/news/12040/13571706/the-hundred-nat-sciver-brunt-helps-trent-rockets-women-into-final-after-exciting-victory-over-southern-brave"
-      },
-      {
-        "title": "Rangers meeting Q&A: McInnes-Klopp compared, club failure admission & new signings update",
-        "link": "https://www.skysports.com/football/news/12040/13571632/rangers-meeting-qa-derek-mcinnes-jurgen-klopp-comparison-club-became-used-to-finishing-second-admission-and-new-signings-update"
-      },
-      {
-        "title": "Man City in Bouaddi talks and Chelsea's Fernandez also an option",
-        "link": "https://www.skysports.com/football/news/12040/13571742/man-city-transfer-news-talks-ongoing-with-lilles-ayyoub-bouaddi-but-rodri-to-barcelona-talks-inactive-with-enzo-fernandez-also-an-option"
       }
     ],
     "pitchfork": [],
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
-        "title": "Do Movie Sequels Really Make More Money? 25 Years of Box Office Data Reveals Mixed Results",
-        "link": "https://www.indiewire.com/news/box-office/do-movie-sequels-actually-make-more-money-1235207177/"
+        "title": "Could \u2018Spider-Man: Brand New Day\u2019 Be the First Film to Surpass $1 Billion Domestic?",
+        "link": "https://www.indiewire.com/news/box-office/could-spider-man-brand-new-day-surpass-1-billion-domestic-1235209822/"
       },
       {
-        "title": "Who Thought Using a Podcast Hosted by AI Dogs to Promote \u2018The End of Oak Street\u2019 Was a Good Idea?",
-        "link": "https://www.indiewire.com/news/general-news/end-of-oak-street-ai-dogs-podcast-1235209765/"
+        "title": "IndieWire Expands Future of Filmmaking\u00a0with\u00a0Return of\u00a0Los Angeles\u00a0Summit in October, Lynne Howard Promoted to IndieWire SVP Operations\u00a0",
+        "link": "https://www.indiewire.com/news/events/indiewire-future-of-filmmaking-summit-2026-tickets-on-sale-1235209528/"
       },
       {
-        "title": "\u2018Paper Tiger\u2019 Teaser: James Gray\u2019s Tragic New York Thriller Is One of the Year\u2019s Best-Directed Movies",
-        "link": "https://www.indiewire.com/news/trailers/paper-tiger-teaser-trailer-james-gray-movie-watch-1235208969/"
+        "title": "Brady Corbet Looks Back on \u2018Mysterious Skin,\u2019 Which He Knew Was Destined to Be an \u2018Important Movie\u2019",
+        "link": "https://www.indiewire.com/features/interviews/brady-corbet-mysterious-skin-interview-1235209735/"
       },
       {
-        "title": "Know Your Movie Sequel Terms, from Requel to Revival, Legacyquel to Threequel, and More",
-        "link": "https://www.indiewire.com/features/general/movie-sequel-terms-definitions-examples-1235209152/"
+        "title": "\u2018Pluribus\u2019 Star Karolina Wydra on the Vince Gilligan Note That \u2018Terrified\u2019 Her and How Rhea Seehorn Saved Her",
+        "link": "https://www.indiewire.com/awards/consider-this/pluribus-karolina-wydra-vince-gilligan-note-terrified-emmy-1235209427/"
       }
     ],
     "variety": [
       {
-        "title": "UTA Signs \u2018Forgotten Island\u2019 Writer-Director Januel Mercado (EXCLUSIVE)",
-        "link": "https://variety.com/2026/biz/news/uta-signs-forgotten-island-writer-director-januel-mercado-1236831450/"
+        "title": "Jacob Elordi in Talks to Star in Ari Aster\u2019s \u2018Scapegoat\u2019 With Scarlett Johansson",
+        "link": "https://variety.com/2026/film/news/jacob-elordi-ari-aster-scapegoat-scarlett-johansson-1236831657/"
       },
       {
-        "title": "Jerry Katzman, Former William Morris President, Dies at 89",
-        "link": "https://variety.com/2026/tv/news/jerry-katzman-dead-william-morris-1236831499/"
+        "title": "\u2018Teenage Sex and Death at Camp Miasma\u2019: Hannah Einbinder and Jane Schoenbrun on the Future of Queer Cinema",
+        "link": "https://variety.com/2026/film/news/hannah-einbinder-jane-schoenbrun-teenage-sex-death-camp-miasma-1236824641/"
       },
       {
-        "title": "\u2018Emily in Paris\u2019: How Lily Collins\u2019 Bob Haircut Inspired a Season 5 Full Style Makeover",
-        "link": "https://variety.com/2026/artisans/news/emily-in-paris-red-blazer-bob-haircut-costumes-1236831358/"
+        "title": "Damon Wayans Reunites With \u2018In Living Color\u2019 Co-Star David Alan Grier in \u2018St. Denis Medical\u2019 Season 3 Premiere",
+        "link": "https://variety.com/2026/tv/news/damon-wayans-in-living-color-st-denis-medical-1236831408/"
       },
       {
-        "title": "Mark Zuckerberg Says He\u2019s Surprised the \u2018Discourse\u2019 From AI Companies \u2018Is So Filled With Doom\u2019",
-        "link": "https://variety.com/2026/biz/news/meta-ai-manifesto-mark-zuckerberg-1236831435/"
+        "title": "How \u2018Euphoria\u2019 Makeup Artist Used Red Lips and Black Eyeliner to Reflect Jules\u2019 Power, Maturity and Sexuality",
+        "link": "https://variety.com/2026/artisans/news/euphoria-makeup-jules-rue-cassie-1236831354/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "How Lachlan Murdoch Courted Roku to Seal a $22 Billion Deal",
-        "link": "https://www.hollywoodreporter.com/business/business-news/how-roku-sold-fox-background-inside-story-1236670139/"
+        "title": "Kidnapping Survivor Turns True Crime Investigator in New Series: How to Watch \u2018Somebody Knows Something\u2019",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/watch-somebody-knows-something-kara-robinson-true-crime-doc-1236670453/"
       },
       {
-        "title": "Jerry Katzman, Former William Morris President, Dies at 89",
-        "link": "https://www.hollywoodreporter.com/business/business-news/jerry-katzman-dead-william-morris-president-1236670357/"
+        "title": "Spotify\u2019s New Ad-Skipping Feature Is Not Scaring Off Podcast Advertisers Yet",
+        "link": "https://www.hollywoodreporter.com/business/digital/spotify-new-ad-skipping-feature-1236670480/"
       },
       {
-        "title": "Emmy Predictions via Feinberg Forecast: Scott\u2019s Take One Week Before Final Voting",
-        "link": "https://www.hollywoodreporter.com/lists/emmys-2026-winners-predictions-feinberg-forecast/"
+        "title": "\u2018The Last House\u2019 Star Wagner Moura Talks the Netflix Chart-Topper and Why He Believes the Tide Is Turning for Latino Actors",
+        "link": "https://www.hollywoodreporter.com/movies/movie-features/the-last-house-star-wagner-moura-1236670385/"
       },
       {
-        "title": "\u2018Ascension\u2019 Thriller From Alfonso Cuaron Lands at Apple TV, Caitriona Balfe Starring",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/apple-tv-ascension-series-caitriona-balfe-alfons-cuaron-1236670311/"
+        "title": "Jon Cypher, Actor in \u2018Cinderella,\u2019 \u2018Hill Street Blues\u2019 and \u2018Major Dad,\u2019 Dies at 94",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/jon-cypher-dead-hill-street-blues-major-dad-cinderella-1236670478/"
       }
     ],
     "larb": [],
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "Here\u2019s the Crater SpaceX\u2019s Rocket Left on the Moon",
+        "link": "https://nautil.us/heres-the-crater-spacexs-rocket-left-on-the-moon-1283581/"
+      },
+      {
         "title": "Turtle Sex Determination Just Got a Lot Weirder",
         "link": "https://nautil.us/turtle-sex-determination-just-got-a-lot-weirder-1283575/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "When Dreaming Gets Your Heart Moving",
         "link": "https://nautil.us/when-dreaming-gets-your-heart-moving-1283546/"
-      },
-      {
-        "title": "This Supernova Death of a Star Broke All the Rules",
-        "link": "https://nautil.us/this-supernova-death-of-a-star-broke-all-the-rules-1283530/"
       }
     ],
     "worksinprogress": [],
