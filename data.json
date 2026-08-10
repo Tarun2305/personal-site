@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10 12:52 UTC",
+  "last_updated": "2026-08-10 15:53 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,58 +7,62 @@
         "link": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'Dust devil' spins through London park",
-        "link": "https://www.bbc.co.uk/news/videos/c07r0njvpm1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Travelodge staff gave domestic abuser key to his victim's room",
         "link": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Evidence that South African special forces murdered top detective shared with BBC",
-        "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss"
+        "title": "Consortium including Jeff Bezos advances talks for stake in Liverpool FC",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ex-Cambridge professor Jason Arday cancels live event after plagiarism row",
+        "link": "https://www.bbc.co.uk/news/articles/cd7lj3703epo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Taiwan holds military drills to prepare for invasion by China",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/taiwan-holds-military-drills-to-prepare-for-invasion-by-china?traffic_source=rss"
+        "title": "Oil prices, stocks surge as Hormuz closure drags on",
+        "link": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-stocks-surge-as-hormuz-closure-drags-on?traffic_source=rss"
       },
       {
-        "title": "Former MP opens fire in Thailand\u2019s second shooting within days",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/former-mp-opens-fire-in-thailands-second-shooting-within-days?traffic_source=rss"
+        "title": "Earthquake with 7.4 magnitude hits Colombia, killing at least 20",
+        "link": "https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20?traffic_source=rss"
       },
       {
-        "title": "\u2018Long-range sanctions\u2019: Ukraine hopes strikes cause Russia fear and losses",
-        "link": "https://www.aljazeera.com/news/2026/8/10/long-range-sanctions-ukraine-hopes-strikes-cause-russia-fear-and-losses?traffic_source=rss"
+        "title": "Indian police attack protesters seeking action over \u2018exam irregularities\u2019",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/indian-police-attack-protesters-seeking-action-over-exam?traffic_source=rss"
       },
       {
-        "title": "UEFA Super Cup \u2013 PSG vs Aston Villa: Prediction, start time, how to watch",
-        "link": "https://www.aljazeera.com/sports/2026/8/10/uefa-super-cup-psg-vs-aston-villa-prediction-start-time-how-to-watch?traffic_source=rss"
+        "title": "Ben-Gvir posts AI video of starving Palestinian ahead of elections",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Stella issues rivals warning over McLaren 'momentum' in title battles",
-        "link": "https://www.skysports.com/f1/news/12040/13571601/mclaren-boss-andrea-stella-issues-warning-to-rivals-over-momentum-in-f1-title-battle-following-lando-norris-win"
+        "title": "Rangers meeting Q&A: McInnes-Klopp compared, club failure admission & new signings update",
+        "link": "https://www.skysports.com/football/news/12040/13571632/rangers-meeting-qa-derek-mcinnes-jurgen-klopp-comparison-club-became-used-to-finishing-second-admission-and-new-signings-update"
       },
       {
-        "title": "Palace latest: \u00a335m but zero goals - 'expensive mistake' Johnson to leave",
-        "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+        "title": "Scotland, Netherlands criticise Cricket World Cup format changes ",
+        "link": "https://www.skysports.com/cricket/news/12040/13571677/cricket-world-cup-scotland-and-netherlands-criticise-format-changes-to-50-over-tournament-announced-by-icc"
       },
       {
-        "title": "Amazon founder Bezos nears deal to buy stake in Liverpool",
-        "link": "https://www.skysports.com/football/news/12040/13571596/liverpool-amazon-founder-jeff-bezos-nears-deal-to-buy-stake-with-consortium-led-by-amit-bhatia"
+        "title": "Man City latest: Marmoush will decide Etihad future, says Maresca",
+        "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       {
-        "title": "Super League's Final Charge: Play-off spots taking shape with five rounds left ",
-        "link": "https://www.skysports.com/rugby-league/news/12040/13570739/super-leagues-final-charge-leeds-rhinos-wakefield-trinity-wigan-warriors-warrington-wolves-hull-kr-leigh-leopards-and-st-helens-in-contention"
+        "title": "'Dubois has ingredients to replace Taylor as face of boxing'",
+        "link": "https://www.skysports.com/boxing/news/12040/13571639/caroline-dubois-britains-lightweight-world-champion-has-ingredients-to-succeed-katie-taylor-as-face-of-boxing-says-nakisa-bidarian"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "Wau Wau Collectif :: Teranga",
+        "link": "https://aquariumdrunkard.com/2026/08/10/wau-wau-collectif-teranga/"
+      },
       {
         "title": "The Durutti Column :: Renascent",
         "link": "https://aquariumdrunkard.com/2026/08/10/the-durutti-column-renascent/"
@@ -70,15 +74,15 @@
       {
         "title": "Twisted Teens :: Florida Water Blues",
         "link": "https://aquariumdrunkard.com/2026/08/07/twisted-teens-florida-water-blues/"
-      },
-      {
-        "title": "Pax Nicholas and the Nettey Family :: Na Teef Know De Road of Teef",
-        "link": "https://aquariumdrunkard.com/2026/08/06/pax-nicholas-and-the-nettey-family-na-teef-know-de-road-of-teef/"
       }
     ],
     "bfi": [],
     "criterion": [],
     "rogerebert": [
+      {
+        "title": "A Comedy Legacy: Broken Lizard on \u201cSuper Troopers 3\u201d",
+        "link": "https://www.rogerebert.com/interviews/a-comedy-legacy-broken-lizard-on-super-troopers-3"
+      },
       {
         "title": "Mediocre \u201cAlley Cats\u201d is for Hardcore Ricky Gervais Fans Only",
         "link": "https://www.rogerebert.com/streaming/mediocre-alley-cats-is-for-hardcore-ricky-gervais-fans-only"
@@ -90,10 +94,6 @@
       {
         "title": "Book Excerpt: The Otherworld: The Mythic Dimensions of Christophe Gans by Scout Tafoya",
         "link": "https://www.rogerebert.com/books/book-excerpt-the-otherworld-the-mythic-dimensions-of-christophe-gans-by-scout-tafoya"
-      },
-      {
-        "title": "All is Well in Our World: On Todd Haynes\u2019 \u201cSafe\u201d",
-        "link": "https://www.rogerebert.com/dvd-blu-ray/safe-criterion-reappreciation"
       }
     ],
     "filmcomment": [
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
+        "title": "Know Your Movie Sequel Terms, from Requel to Revival, Legacyquel to Threequel, and More",
+        "link": "https://www.indiewire.com/features/general/movie-sequel-terms-definitions-examples-1235209152/"
+      },
+      {
+        "title": "Welcome to IndieWire\u2019s Sequels Week",
+        "link": "https://www.indiewire.com/features/general/indiewire-sequels-week-landing-page-schedule-1235208220/"
+      },
+      {
         "title": "\u2018Hearing\u2019 Review: Vietnamese Slow-Burn Is a Feast for the Senses",
         "link": "https://www.indiewire.com/criticism/movies/hearing-review-le-bao-1235209703/"
       },
       {
         "title": "How a Grassroots Campaign Helped Bring Back the Cinerama Dome",
         "link": "https://www.indiewire.com/features/podcast/how-ben-steinberg-saved-cinerama-dome-1235209487/"
-      },
-      {
-        "title": "As \u2018Tromeo & Juliet\u2019 Turns 30, Lloyd Kaufman Measures His Success in Fan Tattoos",
-        "link": "https://www.indiewire.com/features/interviews/tromeo-and-juliet-30th-anniversary-interview-1235209607/"
-      },
-      {
-        "title": "Why Do Most Biopics Stink? \u2018Tony\u2019 and \u2018BlackBerry\u2019 Director Matt Johnson Explains",
-        "link": "https://www.indiewire.com/features/interviews/tony-matt-johnson-biopic-trap-1235209344/"
       }
     ],
     "variety": [
       {
-        "title": "Jeremy Irons, Keke Palmer, Alan Cumming and More Attached to Projects Launching at Toronto Market",
-        "link": "https://variety.com/2026/film/global/jeremy-irons-keke-palmer-alan-cumming-toronto-market-1236831198/"
+        "title": "Kasie Hunt Takes Lead Role in CNN\u2019s Fight to Keep Viewers From Toggling to Second Screen",
+        "link": "https://variety.com/2026/tv/news/kasie-hunt-cnn-fight-second-screen-1236830940/"
       },
       {
-        "title": "Locarno Open Doors: Talemwa Pius\u2019 \u2018A Vineyard for a Lobster\u2019 and Mohammed Sheikh\u2019s \u2018Accept My Plea for a Burial\u2019 Win Top Prizes at Festival\u2019s Africa Industry Focus",
-        "link": "https://variety.com/2026/film/global/locarno-open-doors-winners-talemwa-pius-mohammed-sheikh-1236831175/"
+        "title": "Awards Season Shuffles to 2027: From Denzel Washington\u2019s \u2018Here Comes the Flood\u2019 to Joel Coen\u2019s \u2018Jack of Spades,\u2019 Plus A24\u2019s Mystery Drop (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/awards/here-comes-the-flood-saturn-return-2027-a24-surprise-drop-1236830961/"
       },
       {
-        "title": "How Norway\u2019s \u00d8yafestivalen Became One of Europe\u2019s Best Music Fests: Balancing Huge Headliners With Homegrown Artists, Prioritizing Gender Parity and More",
-        "link": "https://variety.com/2026/music/global/norway-oyafestivalen-europe-best-music-fests-1236830561/"
+        "title": "Rohit Sharma, Ajay Devgn, Madhuri Dixit Nene and A.R. Rahman Lead Sony Pictures Networks India Content Slate",
+        "link": "https://variety.com/2026/tv/news/rohit-sharma-ajay-devgn-ar-rahman-sony-india-content-slate-1236831242/"
       },
       {
-        "title": "Pippa Harris and James Wilson to Headline London Film Festival Industry Forum",
-        "link": "https://variety.com/2026/film/global/london-film-festival-pippa-harris-james-wilson-industry-1236831108/"
+        "title": "\u2018Harry Potter\u2019 Series Star Bel Powley Says \u2018I Strongly Disagree With J.K. Rowling\u2019s Views on Gender\u2019: \u2018The Trans Community Deserve Safety and Dignity\u2019",
+        "link": "https://variety.com/2026/tv/global/harry-potter-bel-powley-jk-rowling-trans-views-strongly-disagree-1236831289/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Julianne Moore Will Return to the Stage In World Premiere of \u2018Faydra\u2019 (Exclusive)",
-        "link": "https://www.hollywoodreporter.com/lifestyle/arts/julianne-moore-faydra-1236668901/"
+        "title": "Nikki From \u2018Obsession\u2019 Is Coming to Universal\u2019s Halloween Horror Nights",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/nikki-obsession-universal-halloween-horror-nights-1236670138/"
       },
       {
-        "title": "Keke Palmer, Deepa Mehta, Jacob Tremblay, and Jeremy Irons Projects Set for TIFF Financing Market",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/tiff-market-keke-palmer-jacob-tremblay-jeremy-irons-films-1236670064/"
+        "title": "President Obama\u2019s New Podcast Is Focused on the Books That Shaped Him",
+        "link": "https://www.hollywoodreporter.com/business/digital/president-obama-new-podcast-books-1236666022/"
       },
       {
-        "title": "And the Winners Are\u2026 Locarno Open Doors Program Unveils 2026 Awards",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/locarno-open-doors-winners-2026-unveiled-1236669682/"
+        "title": "Paramount Nabs $37 Million-Plus in California Tax Credits to Shoot In State Amid Battle With AG",
+        "link": "https://www.hollywoodreporter.com/business/business-news/paramount-nabs-37m-in-california-tax-credits-as-other-states-court-company-1236669332/"
       },
       {
-        "title": "Can FIFA Boss Infantino Survive?",
-        "link": "https://www.hollywoodreporter.com/news/general-news/fifa-boss-gianni-infantino-president-resign-uefa-boycott-1236670035/"
+        "title": "James Gray Rejects Men Not Being \u201cAllowed to Engage With the Tender Side\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/james-gray-men-tender-movies-locarno-interview-1236670049/"
       }
     ],
     "larb": [],
@@ -262,6 +262,10 @@
     ],
     "quanta": [
       {
+        "title": "Why Are Rivers So Mathematical?",
+        "link": "https://www.quantamagazine.org/why-are-rivers-so-mathematical-20260810/"
+      },
+      {
         "title": "Neutrinos From Deep Inside Earth Provide a New Picture of the Mantle",
         "link": "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/"
       },
@@ -272,13 +276,13 @@
       {
         "title": "Corals Spin Tiny Vortices to Get Oxygen, but Not if It\u2019s Too Hot",
         "link": "https://www.quantamagazine.org/corals-spin-tiny-vortices-to-get-oxygen-but-not-if-its-too-hot-20260805/"
-      },
-      {
-        "title": "Why the Legendary Erd\u0151s Problems Are Falling to AI",
-        "link": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/"
       }
     ],
     "nautilus": [
+      {
+        "title": "When Dreaming Gets Your Heart Moving",
+        "link": "https://nautil.us/when-dreaming-gets-your-heart-moving-1283546/"
+      },
       {
         "title": "This Supernova Death of a Star Broke All the Rules",
         "link": "https://nautil.us/this-supernova-death-of-a-star-broke-all-the-rules-1283530/"
@@ -290,10 +294,6 @@
       {
         "title": "New Observatory Captures More Than Half a Million Galaxies in a Single Image",
         "link": "https://nautil.us/new-observatory-captures-more-than-half-a-million-galaxies-in-a-single-image-1283526/"
-      },
-      {
-        "title": "Inside the Not-So-Dumb Head of the Dodo Bird",
-        "link": "https://nautil.us/inside-the-not-so-dumb-head-of-the-dodo-bird-1283522/"
       }
     ],
     "worksinprogress": [],
