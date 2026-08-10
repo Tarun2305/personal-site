@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-08-10 07:17 UTC",
+  "last_updated": "2026-08-10 10:11 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Record 230 people cross Channel in one small boat",
+        "link": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Travelodge staff gave domestic abuser key to his victim's room",
         "link": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
+        "title": "Thames Water gave finance boss a \u00a31m signing-on fee",
+        "link": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ban on 'subscription traps' brought forward by three months",
         "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-        "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Evidence that South African special forces murdered top detective shared with BBC",
-        "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "What\u2019s driving unrest in Pakistan-administered Kashmir?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/whats-driving-unrest-in-pakistan-administered-kashmir?traffic_source=rss"
+        "title": "Osaka, Gauff race into Canadian Open quarters as Rybakina survives scare",
+        "link": "https://www.aljazeera.com/sports/2026/8/10/osaka-gauff-race-into-canadian-open-quarters-as-rybakina-survives-scare?traffic_source=rss"
       },
       {
-        "title": "Wildfires bear down on homes in Canada\u2019s Okanagan region",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/wildfires-bear-down-on-homes-in-canadas-okanagan-region?traffic_source=rss"
+        "title": "Anguished locals watch as Israel demolishes homes in southern Lebanon",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/anguished-locals-watch-as-israel-demolishes-homes-in-southern-lebanon?traffic_source=rss"
       },
       {
-        "title": "Trump names Will Scharf as White House counsel ahead of midterms",
-        "link": "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
+        "title": "\u2018Like the movies\u2019: How Ukraine\u2019s ground robots are changing rules of war",
+        "link": "https://www.aljazeera.com/news/2026/8/10/like-the-movies-how-ukraines-ground-robots-are-changing-rules-of-war?traffic_source=rss"
       },
       {
-        "title": "Brazilian player falls into tunnel celebrating goal",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/brazilian-player-falls-into-tunnel-celebrating-goal?traffic_source=rss"
+        "title": "China evacuates a million from homes as Typhoon Dolphin arrives",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/china-evacuates-a-million-from-homes-as-typhoon-dolphin-arrives?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Super League's Final Charge: Play-off spots taking shape with five rounds left ",
+        "link": "https://www.skysports.com/rugby-league/news/12040/13570739/super-leagues-final-charge-leeds-rhinos-wakefield-trinity-wigan-warriors-warrington-wolves-hull-kr-leigh-leopards-and-st-helens-in-contention"
+      },
+      {
+        "title": "Palace latest: '\u00a335m but zero goals - Johnson to leave after underwhelming Eagles spell' ",
+        "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+      },
+      {
+        "title": "Sunderland latest: Wrexham agree \u00a38m deal to sign Black Cats 'keeper",
+        "link": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      {
         "title": "Hodgkinson: Home European gold would mean almost as much as Olympic title",
         "link": "https://www.skysports.com/live-blog/12040/13571552/european-athletics-championships-2026-updates-from-birmingham-as-keely-hodgkinson-dina-asher-smith-katarina-johnson-thompson-compete"
-      },
-      {
-        "title": "Today on Sky Sports Racing: Badri chases four-timer at Windsor",
-        "link": "https://www.skysports.com/racing/news/12040/13571329/today-on-sky-sports-racing-flat-action-from-windsor-live-on-monday-evening-with-badri-chasing-a-four-timer"
-      },
-      {
-        "title": "Brennan secures FedEx Cup Playoffs spot with Wyndham Championship win",
-        "link": "https://www.skysports.com/golf/news/12040/13571521/wyndham-championship-michael-brennan-secures-fedex-playoffs-spot-with-victory"
-      },
-      {
-        "title": "Papers: Man Utd and Arsenal chase Club Brugge full-back Seys",
-        "link": "https://www.skysports.com/football/news/12040/13571517/manchester-united-and-arsenal-among-several-clubs-chasing-club-brugge-left-back-joaquin-seys"
       }
     ],
     "pitchfork": [],
@@ -171,23 +171,31 @@
     ],
     "variety": [
       {
-        "title": "\u2018Primo Viaggio,\u2019 Presented Last Year at Locarno\u2019s Alliance 4 Development, Has Wrapped and Heading for Venice Gap-Financing Market (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/global/primo-viaggio-nanni-moretti-halley-locarno-wraps-1236830544/"
+        "title": "Pippa Harris and James Wilson to Headline London Film Festival Industry Forum",
+        "link": "https://variety.com/2026/film/global/london-film-festival-pippa-harris-james-wilson-industry-1236831108/"
       },
       {
-        "title": "\u2018Letters From the Silenced Country,\u2019 Documentary About Oppression in Belarus, Boarded by Filmotor Ahead of Venice Premiere (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/global/venice-letters-from-the-silenced-country-filmotor-1236831072/"
+        "title": "A Female Sniper Battles ISIS in First Teaser for Venice Title \u2018No Paradise if You Are Killed by a Woman\u2019 (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/global/no-paradise-if-you-are-killed-by-a-woman-isis-film-teaser-1236831131/"
       },
       {
-        "title": "Ritesh Sidhwani and Farhan Akhtar Launch Excel Origins, Initiative to Discover Filmmakers Under 30, as India\u2019s Excel Entertainment Marks 25th Anniversary (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/news/farhan-akhtar-ritesh-sidhwani-excel-origins-1236830778/"
+        "title": "Netflix Sets \u2018Ad Vitam\u2019 Sequel With Guillaume Canet",
+        "link": "https://variety.com/2026/film/global/netflix-ad-vitam-sequel-guillaume-canet-1236831135/"
       },
       {
-        "title": "Korea Box Office: \u2018The Odyssey\u2019 Bests \u2018Spider-Man: Brand New Day\u2019",
-        "link": "https://variety.com/2026/film/box-office/korea-box-office-the-odyssey-spider-man-brand-new-day-1236831065/"
+        "title": "Latin Quarter Distribution Acquires World Rights to Jos\u00e9 Dell\u2019Acqua Uruguayan Crime Thriller \u2018Maltrato Animal\u2019 (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/global/latin-quarter-distribution-locarno-uruguay-maltrato-animal-1236831088/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "Beatles Films Producer Pippa Harris, \u2018The Zone of Interest\u2019s James Wilson to Headline London Film Festival Industry Forum",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/beatles-pippa-harris-james-wilson-producers-lff-festival-1236670013/"
+      },
+      {
+        "title": "Marco Perego, in the Presence of Wife\u00a0Zoe Salda\u00f1a, Tells Locarno Pro: Don\u2019t Produce Indie Film for the Money",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/marco-perego-locarno-pro-dont-produce-indie-films-for-money-1236669978/"
+      },
       {
         "title": "\u2018Tear Gas\u2019 Is a Fiction Film Shot Inside Georgia Anti-Government Protests. And It Is \u201can Act of Resistance\u201d",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/tear-gas-georgia-fiction-film-shot-in-real-protests-locarno-1236663941/"
@@ -195,18 +203,18 @@
       {
         "title": "China Box Office: \u2018Spider-Man\u2019 Holds No. 1 as \u2018The Odyssey\u2019 Storms Previews",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/china-box-office-spider-man-christopher-nolan-the-odyssey-1236669960/"
-      },
-      {
-        "title": "Aubrey Plaza and Christopher Abbott Are Parents to a Baby Daughter",
-        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/aubrey-plaza-christopher-abbott-baby-girl-1236669891/"
-      },
-      {
-        "title": "Tedde Moore, Ralphie\u2019s Teacher in \u2018A Christmas Story,\u2019 Dies at 79",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/tedde-moore-dead-a-christmas-story-teacher-ralphie-1236669867/"
       }
     ],
     "larb": [],
     "aeon": [
+      {
+        "title": "Khosheutovsky khurul",
+        "link": "https://aeon.co/videos/the-strange-circuitous-history-of-europes-oldest-buddhist-temple"
+      },
+      {
+        "title": "How we meet the future",
+        "link": "https://aeon.co/essays/when-is-stereotyping-a-handy-tool-and-when-is-it-a-sin"
+      },
       {
         "title": "Sasquatch science",
         "link": "https://aeon.co/essays/the-surprisingly-scientific-methods-of-bigfooters"
@@ -214,17 +222,17 @@
       {
         "title": "The great arc",
         "link": "https://aeon.co/videos/pariss-business-district-boasts-imposing-art-but-who-is-it-for"
-      },
-      {
-        "title": "Culture clash",
-        "link": "https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash"
-      },
-      {
-        "title": "The last ice age",
-        "link": "https://aeon.co/videos/as-glaciers-melt-a-writer-considers-what-stories-can-do-that-data-cannot"
       }
     ],
     "psyche": [
+      {
+        "title": "A portrait of Liliana Porter",
+        "link": "https://psyche.co/videos/whimsy-and-tragedy-exist-side-by-side-in-liliana-porters-art"
+      },
+      {
+        "title": "How to think like a Hegelian",
+        "link": "https://psyche.co/guides/how-to-think-like-a-hegelian"
+      },
       {
         "title": "How to cultivate compassion",
         "link": "https://psyche.co/videos/why-nurturing-your-compassionate-side-is-simple-and-deeply-beneficial"
@@ -232,14 +240,6 @@
       {
         "title": "Mother Teresa was virtuous, but she was wrong about virtue",
         "link": "https://psyche.co/ideas/mother-teresa-was-virtuous-but-she-was-wrong-about-virtue"
-      },
-      {
-        "title": "Climbing gives me a break from my brain",
-        "link": "https://psyche.co/notes-to-self/climbing-gives-me-a-much-needed-break-from-my-brain"
-      },
-      {
-        "title": "How to enter a state of flow",
-        "link": "https://psyche.co/guides/how-to-enter-a-state-of-flow"
       }
     ],
     "publicdomainreview": [
