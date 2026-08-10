@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-08-10 15:53 UTC",
+  "last_updated": "2026-08-10 18:46 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "More than two-thirds of England now in drought ",
+        "link": "https://www.bbc.co.uk/news/articles/c70gk2dl5jyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "30 years later, a former rival will stand trial for Tupac's murder",
+        "link": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Record 230 people cross Channel in one small boat",
         "link": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Travelodge staff gave domestic abuser key to his victim's room",
-        "link": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Consortium including Jeff Bezos advances talks for stake in Liverpool FC",
         "link": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Ex-Cambridge professor Jason Arday cancels live event after plagiarism row",
-        "link": "https://www.bbc.co.uk/news/articles/cd7lj3703epo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Oil prices, stocks surge as Hormuz closure drags on",
-        "link": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-stocks-surge-as-hormuz-closure-drags-on?traffic_source=rss"
+        "title": "Oman trying to contain extensive oil spill from stricken tanker",
+        "link": "https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker?traffic_source=rss"
       },
       {
-        "title": "Earthquake with 7.4 magnitude hits Colombia, killing at least 20",
-        "link": "https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20?traffic_source=rss"
+        "title": "Zuckerberg\u2019s yacht crew did not hear call for help, says spokesperson",
+        "link": "https://www.aljazeera.com/news/2026/8/10/zuckerbergs-yacht-crew-did-not-hear-call-for-help-says-spokesperson?traffic_source=rss"
       },
       {
-        "title": "Indian police attack protesters seeking action over \u2018exam irregularities\u2019",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/indian-police-attack-protesters-seeking-action-over-exam?traffic_source=rss"
+        "title": "Palestinian club football to restart in September after Gaza war suspension",
+        "link": "https://www.aljazeera.com/sports/2026/8/10/palestinian-club-football-to-restart-in-september-after-gaza-war-suspension?traffic_source=rss"
       },
       {
-        "title": "Ben-Gvir posts AI video of starving Palestinian ahead of elections",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections?traffic_source=rss"
+        "title": "Iran\u2019s president says Khamenei is in \u2018perfect health\u2019",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/irans-president-says-khamenei-is-in-perfect?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Liverpool sign Araujo from Barcelona",
+        "link": "https://www.skysports.com/football/news/12040/13570899/ronald-araujo-transfer-news-liverpool-complete-deal-to-sign-barcelona-defender-on-loan-with-option-to-buy"
+      },
+      {
+        "title": "Sciver-Brunt helps Trent Rockets Women into Hundred final",
+        "link": "https://www.skysports.com/cricket/news/12040/13571706/the-hundred-nat-sciver-brunt-helps-trent-rockets-women-into-final-after-exciting-victory-over-southern-brave"
+      },
+      {
         "title": "Rangers meeting Q&A: McInnes-Klopp compared, club failure admission & new signings update",
         "link": "https://www.skysports.com/football/news/12040/13571632/rangers-meeting-qa-derek-mcinnes-jurgen-klopp-comparison-club-became-used-to-finishing-second-admission-and-new-signings-update"
       },
       {
-        "title": "Scotland, Netherlands criticise Cricket World Cup format changes ",
-        "link": "https://www.skysports.com/cricket/news/12040/13571677/cricket-world-cup-scotland-and-netherlands-criticise-format-changes-to-50-over-tournament-announced-by-icc"
-      },
-      {
-        "title": "Man City latest: Marmoush will decide Etihad future, says Maresca",
-        "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      {
-        "title": "'Dubois has ingredients to replace Taylor as face of boxing'",
-        "link": "https://www.skysports.com/boxing/news/12040/13571639/caroline-dubois-britains-lightweight-world-champion-has-ingredients-to-succeed-katie-taylor-as-face-of-boxing-says-nakisa-bidarian"
+        "title": "Man City in Bouaddi talks and Chelsea's Fernandez also an option",
+        "link": "https://www.skysports.com/football/news/12040/13571742/man-city-transfer-news-talks-ongoing-with-lilles-ayyoub-bouaddi-but-rodri-to-barcelona-talks-inactive-with-enzo-fernandez-also-an-option"
       }
     ],
     "pitchfork": [],
@@ -80,6 +80,10 @@
     "criterion": [],
     "rogerebert": [
       {
+        "title": "\u201cIt\u2019s Always Sunny in Philadelphia\u201d Finds More Comedic Highs in Confident 18th Season",
+        "link": "https://www.rogerebert.com/streaming/its-always-sunny-in-philadelphia-finds-more-comedic-highs-in-confident-18th-season"
+      },
+      {
         "title": "A Comedy Legacy: Broken Lizard on \u201cSuper Troopers 3\u201d",
         "link": "https://www.rogerebert.com/interviews/a-comedy-legacy-broken-lizard-on-super-troopers-3"
       },
@@ -90,10 +94,6 @@
       {
         "title": "A Man of Letters: Kent Jones on \u201cLate Fame\u201d",
         "link": "https://www.rogerebert.com/interviews/late-fame-kent-jones-interview"
-      },
-      {
-        "title": "Book Excerpt: The Otherworld: The Mythic Dimensions of Christophe Gans by Scout Tafoya",
-        "link": "https://www.rogerebert.com/books/book-excerpt-the-otherworld-the-mythic-dimensions-of-christophe-gans-by-scout-tafoya"
       }
     ],
     "filmcomment": [
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
+        "title": "Do Movie Sequels Really Make More Money? 25 Years of Box Office Data Reveals Mixed Results",
+        "link": "https://www.indiewire.com/news/box-office/do-movie-sequels-actually-make-more-money-1235207177/"
+      },
+      {
+        "title": "Who Thought Using a Podcast Hosted by AI Dogs to Promote \u2018The End of Oak Street\u2019 Was a Good Idea?",
+        "link": "https://www.indiewire.com/news/general-news/end-of-oak-street-ai-dogs-podcast-1235209765/"
+      },
+      {
+        "title": "\u2018Paper Tiger\u2019 Teaser: James Gray\u2019s Tragic New York Thriller Is One of the Year\u2019s Best-Directed Movies",
+        "link": "https://www.indiewire.com/news/trailers/paper-tiger-teaser-trailer-james-gray-movie-watch-1235208969/"
+      },
+      {
         "title": "Know Your Movie Sequel Terms, from Requel to Revival, Legacyquel to Threequel, and More",
         "link": "https://www.indiewire.com/features/general/movie-sequel-terms-definitions-examples-1235209152/"
-      },
-      {
-        "title": "Welcome to IndieWire\u2019s Sequels Week",
-        "link": "https://www.indiewire.com/features/general/indiewire-sequels-week-landing-page-schedule-1235208220/"
-      },
-      {
-        "title": "\u2018Hearing\u2019 Review: Vietnamese Slow-Burn Is a Feast for the Senses",
-        "link": "https://www.indiewire.com/criticism/movies/hearing-review-le-bao-1235209703/"
-      },
-      {
-        "title": "How a Grassroots Campaign Helped Bring Back the Cinerama Dome",
-        "link": "https://www.indiewire.com/features/podcast/how-ben-steinberg-saved-cinerama-dome-1235209487/"
       }
     ],
     "variety": [
       {
-        "title": "Kasie Hunt Takes Lead Role in CNN\u2019s Fight to Keep Viewers From Toggling to Second Screen",
-        "link": "https://variety.com/2026/tv/news/kasie-hunt-cnn-fight-second-screen-1236830940/"
+        "title": "UTA Signs \u2018Forgotten Island\u2019 Writer-Director Januel Mercado (EXCLUSIVE)",
+        "link": "https://variety.com/2026/biz/news/uta-signs-forgotten-island-writer-director-januel-mercado-1236831450/"
       },
       {
-        "title": "Awards Season Shuffles to 2027: From Denzel Washington\u2019s \u2018Here Comes the Flood\u2019 to Joel Coen\u2019s \u2018Jack of Spades,\u2019 Plus A24\u2019s Mystery Drop (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/awards/here-comes-the-flood-saturn-return-2027-a24-surprise-drop-1236830961/"
+        "title": "Jerry Katzman, Former William Morris President, Dies at 89",
+        "link": "https://variety.com/2026/tv/news/jerry-katzman-dead-william-morris-1236831499/"
       },
       {
-        "title": "Rohit Sharma, Ajay Devgn, Madhuri Dixit Nene and A.R. Rahman Lead Sony Pictures Networks India Content Slate",
-        "link": "https://variety.com/2026/tv/news/rohit-sharma-ajay-devgn-ar-rahman-sony-india-content-slate-1236831242/"
+        "title": "\u2018Emily in Paris\u2019: How Lily Collins\u2019 Bob Haircut Inspired a Season 5 Full Style Makeover",
+        "link": "https://variety.com/2026/artisans/news/emily-in-paris-red-blazer-bob-haircut-costumes-1236831358/"
       },
       {
-        "title": "\u2018Harry Potter\u2019 Series Star Bel Powley Says \u2018I Strongly Disagree With J.K. Rowling\u2019s Views on Gender\u2019: \u2018The Trans Community Deserve Safety and Dignity\u2019",
-        "link": "https://variety.com/2026/tv/global/harry-potter-bel-powley-jk-rowling-trans-views-strongly-disagree-1236831289/"
+        "title": "Mark Zuckerberg Says He\u2019s Surprised the \u2018Discourse\u2019 From AI Companies \u2018Is So Filled With Doom\u2019",
+        "link": "https://variety.com/2026/biz/news/meta-ai-manifesto-mark-zuckerberg-1236831435/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Nikki From \u2018Obsession\u2019 Is Coming to Universal\u2019s Halloween Horror Nights",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/nikki-obsession-universal-halloween-horror-nights-1236670138/"
+        "title": "How Lachlan Murdoch Courted Roku to Seal a $22 Billion Deal",
+        "link": "https://www.hollywoodreporter.com/business/business-news/how-roku-sold-fox-background-inside-story-1236670139/"
       },
       {
-        "title": "President Obama\u2019s New Podcast Is Focused on the Books That Shaped Him",
-        "link": "https://www.hollywoodreporter.com/business/digital/president-obama-new-podcast-books-1236666022/"
+        "title": "Jerry Katzman, Former William Morris President, Dies at 89",
+        "link": "https://www.hollywoodreporter.com/business/business-news/jerry-katzman-dead-william-morris-president-1236670357/"
       },
       {
-        "title": "Paramount Nabs $37 Million-Plus in California Tax Credits to Shoot In State Amid Battle With AG",
-        "link": "https://www.hollywoodreporter.com/business/business-news/paramount-nabs-37m-in-california-tax-credits-as-other-states-court-company-1236669332/"
+        "title": "Emmy Predictions via Feinberg Forecast: Scott\u2019s Take One Week Before Final Voting",
+        "link": "https://www.hollywoodreporter.com/lists/emmys-2026-winners-predictions-feinberg-forecast/"
       },
       {
-        "title": "James Gray Rejects Men Not Being \u201cAllowed to Engage With the Tender Side\u201d",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/james-gray-men-tender-movies-locarno-interview-1236670049/"
+        "title": "\u2018Ascension\u2019 Thriller From Alfonso Cuaron Lands at Apple TV, Caitriona Balfe Starring",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/apple-tv-ascension-series-caitriona-balfe-alfons-cuaron-1236670311/"
       }
     ],
     "larb": [],
@@ -280,20 +280,20 @@
     ],
     "nautilus": [
       {
+        "title": "Turtle Sex Determination Just Got a Lot Weirder",
+        "link": "https://nautil.us/turtle-sex-determination-just-got-a-lot-weirder-1283575/"
+      },
+      {
+        "title": "30 Minutes, 3 Exercises: A Routine for an Aging Brain",
+        "link": "https://nautil.us/30-minutes-3-exercises-a-routine-for-an-aging-brain-1283557/"
+      },
+      {
         "title": "When Dreaming Gets Your Heart Moving",
         "link": "https://nautil.us/when-dreaming-gets-your-heart-moving-1283546/"
       },
       {
         "title": "This Supernova Death of a Star Broke All the Rules",
         "link": "https://nautil.us/this-supernova-death-of-a-star-broke-all-the-rules-1283530/"
-      },
-      {
-        "title": "Taxi Drivers Rarely Die of Alzheimer\u2019s\u2014How Complex Mental Maps and Spatial Reasoning Protect Your Brain",
-        "link": "https://nautil.us/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-1283501/"
-      },
-      {
-        "title": "New Observatory Captures More Than Half a Million Galaxies in a Single Image",
-        "link": "https://nautil.us/new-observatory-captures-more-than-half-a-million-galaxies-in-a-single-image-1283526/"
       }
     ],
     "worksinprogress": [],
