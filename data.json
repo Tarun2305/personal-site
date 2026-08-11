@@ -1,44 +1,48 @@
 {
-  "last_updated": "2026-08-11 18:52 UTC",
+  "last_updated": "2026-08-11 21:38 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again",
+        "link": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Summer 2026 on course to be UK's hottest on record, says Met Office",
         "link": "https://www.bbc.co.uk/weather/articles/cn8n9pg54m1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Burnham 'confident' early release of PC Harper's killers can be halted",
-        "link": "https://www.bbc.co.uk/news/articles/cevmkkg791yo?at_medium=RSS&at_campaign=rss"
+        "title": "Police chiefs call for PM to prevent early release of PC Harper's killers",
+        "link": "https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Eclipse chasers scramble for glasses as stocks run low",
         "link": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: Was Trump smuggled out of Air Force One in a catering truck?",
-        "link": "https://www.bbc.co.uk/news/videos/cj3672ljgzro?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Brazil\u2019s Supreme Court to weigh cases that could weaken Amazon protections",
-        "link": "https://www.aljazeera.com/news/2026/8/11/brazils-supreme-court-to-weigh-cases-that-could-weaken-amazon-protections?traffic_source=rss"
+        "title": "Father and sons forced to manually clear rubble in Gaza",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/father-and-sons-forced-to-manually-clear-rubble-in-gaza?traffic_source=rss"
       },
       {
-        "title": "Syrian court sentences Bashar al-Assad and Atef Najib to death",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/syrian-court-sentences-bashar-al-assad-and-atef-najib-to-death?traffic_source=rss"
+        "title": "Relatives mourn victims of Pakistan avalanche",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/relatives-mourn-victims-of-pakistan-avalanche?traffic_source=rss"
       },
       {
-        "title": "US jury in Luigi Mangione murder trial to remain anonymous",
-        "link": "https://www.aljazeera.com/news/2026/8/11/us-jury-in-luigi-mangione-murder-trial-to-remain-anonymous?traffic_source=rss"
+        "title": "Pakistan interior minister in Tehran amid talks to reopen Hormuz",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz?traffic_source=rss"
       },
       {
-        "title": "Russia frees ex-US Marine Robert Gilman from detention",
-        "link": "https://www.aljazeera.com/news/2026/8/11/russia-frees-ex-us-marine-robert-gilman-from-detention?traffic_source=rss"
+        "title": "In Gaza\u2019s tents, widows face war\u2019s harshest realities alone",
+        "link": "https://www.aljazeera.com/news/2026/8/11/in-gazas-tents-widows-face-wars-harshest-realities-alone?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "Super Giants rout SunRisers to move to cusp of Hundred eliminator",
+        "link": "https://www.skysports.com/cricket/news/12040/13572032/the-hundred-manchester-super-giants-rout-sunrisers-leeds-to-move-to-cusp-of-eliminator-in-mens-tournament"
+      },
       {
         "title": "SunRisers beat Super Giants to reach Hundred eliminator",
         "link": "https://www.skysports.com/cricket/news/12040/13572031/the-hundred-sunrisers-leeds-beat-manchester-super-giants-in-decisive-game-to-set-up-eliminator-match-up-with-southern-brave"
@@ -50,10 +54,6 @@
       {
         "title": "Floodlights to be on throughout Hundred matches for solar eclipse",
         "link": "https://www.skysports.com/cricket/news/12040/13572042/solar-eclipse-floodlights-to-be-turned-on-during-uk-sports-events-including-the-hundred-and-kempton-racing"
-      },
-      {
-        "title": "Inter Milan in talks over Spurs and England defender Spence",
-        "link": "https://www.skysports.com/football/news/12040/13572037/djed-spence-transfer-news-inter-milan-in-talks-to-sign-spurs-and-england-defender"
       }
     ],
     "pitchfork": [],
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018House of the Dragon\u2019 Only Wants to Get More Unhinged from Here",
+        "link": "https://www.indiewire.com/features/interviews/house-of-the-dragon-season-3-final-ryan-condal-interview-1235209273/"
+      },
+      {
+        "title": "Inside the Noah Wyle and Shawn Hatosy Relationship That Anchors \u2018The Pitt\u2019 Season 2",
+        "link": "https://www.indiewire.com/awards/consider-this/noah-wyle-shawn-hatosy-relationship-the-pitt-interview-emmy-1235209667/"
+      },
+      {
+        "title": "\u2018Language Is a Construct, Man\u2019: Why We May Never Get Another Spiritual Sequel Like Richard Linklater\u2019s \u2018Everybody Wants Some!!\u2019",
+        "link": "https://www.indiewire.com/features/commentary/everybody-wants-some-best-spiritual-movie-sequel-1235209880/"
+      },
+      {
         "title": "Copyright Is for Suckers: A Brief History of Unofficial Movie Sequels",
-        "link": "https://www.indiewire.com/criticism/movies/history-of-unofficial-movie-sequels-1235209659/"
-      },
-      {
-        "title": "\u2018The Influencer Project\u2019 Trailer: Chiara King Blurs Fact and Fiction in a Viral Nightmare About Visibility",
-        "link": "https://www.indiewire.com/news/trailers/the-influencer-project-trailer-chiara-king-horror-1235209925/"
-      },
-      {
-        "title": "Paramount Positions \u2018Possession\u2019 Remake with Callum Turner and Margaret Qualley as Summer Blockbuster",
-        "link": "https://www.indiewire.com/news/general-news/possession-remake-release-date-1235209951/"
-      },
-      {
-        "title": "A New Free Seminar Teaches Documentary Filmmakers When and How to Opt Out of AI",
-        "link": "https://www.indiewire.com/news/business/free-seminar-documentary-filmmakers-how-to-opt-out-ai-1235209818/"
+        "link": "https://www.indiewire.com/features/commentary/history-of-unofficial-movie-sequels-1235209659/"
       }
     ],
     "variety": [
       {
-        "title": "Julie Andrews Turned Down \u2018Princess Diaries 3\u2019 Offer Because \u2018I Think I\u2019m Retired\u2019 From On-Screen Acting: \u2018They Asked Me All Last Year\u2019 If I\u2019d Return",
-        "link": "https://variety.com/2026/film/news/julie-andrews-rejected-princess-diaries-3-offer-retired-1236832252/"
+        "title": "Rod Stewart Cancels Upcoming Tour Dates Following Coronary Stent Procedure",
+        "link": "https://variety.com/2026/music/news/rod-stewart-cancels-tour-dates-coronary-stent-procedure-1236832530/"
       },
       {
-        "title": "\u2018The Daily Show\u2019 Releases Audition Tapes for John Oliver, Michael Che, Current Hosts and More",
-        "link": "https://variety.com/2026/tv/news/the-daily-show-audition-tapes-john-oliver-michael-che-1236832272/"
+        "title": "Nicholas Hoult to Play Gilderoy Lockhart in \u2018Harry Potter\u2019 HBO Series Season 2",
+        "link": "https://variety.com/2026/tv/news/nicholas-hoult-gilderoy-lockhart-harry-potter-hbo-1236832274/"
       },
       {
-        "title": "\u2018The Odyssey\u2019 Photo Books Reveal Behind-the-Scenes Secrets of Filming the Trojan Horse, Battles and More",
-        "link": "https://variety.com/2026/artisans/news/the-odyssey-christopher-nolan-book-photos-1236832103/"
+        "title": "How Vera Drew, Louise Weard and More Trans and Nonbinary Filmmakers Are Taking Control of Their Stories Outside the Studio System: \u2018We\u2019re Creating a New Industry\u2019",
+        "link": "https://variety.com/2026/film/features/vera-drew-louise-weard-jane-schoenbrun-trans-nonbinary-filmmakers-studio-system-new-industry-1236831911/"
       },
       {
-        "title": "Ann Hui Named Camellia Award Recipient at Busan Film Festival \u2013 Global Bulletin",
-        "link": "https://variety.com/2026/film/festivals/ann-hui-camellia-award-biff-licchavi-cinema-festival-1236832309/"
+        "title": "The Writers Lab Adds Los Angeles-Based Intensive, Announces Writers for Fall 2026 Cohorts",
+        "link": "https://variety.com/2026/film/news/the-writers-lab-los-angeles-intensive-fall-cohorts-1236831539/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018Dancing With the Stars: The Next Pro\u2019 Cast: All the Dancers Vying for a Spot on Season 35",
-        "link": "https://www.hollywoodreporter.com/lists/dancing-with-the-stars-next-pro-cast-judges/"
+        "title": "\u2018Let\u2019s Marry Harry\u2019 Star Says Producers Added Sex Sounds to Dramatize Kissing Scene: \u201cCertainly Was Not Us\u201d",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/lets-marry-harry-jowsey-netflix-fake-sex-sounds-kissing-scene-1236671465/"
       },
       {
-        "title": "Broadway Box Office: \u2018Death of a Salesman,\u2019 \u2018Cats: The Jellicle Ball\u2019 End Runs on a High",
-        "link": "https://www.hollywoodreporter.com/business/business-news/broadway-box-office-death-salesman-cats-the-jellicle-ball-1236671126/"
+        "title": "Lionsgate Stock Slips After Report of Activist Investor Pushing Sale",
+        "link": "https://www.hollywoodreporter.com/business/business-news/lionsgate-activist-investor-sale-1236671497/"
       },
       {
-        "title": "How Julie Andrews\u2019 Singing Poodle Inspired New Children\u2019s Book With Daughter",
-        "link": "https://www.hollywoodreporter.com/lifestyle/arts/julie-andrews-shy-childrens-book-daughter-disney-doc-1236670135/"
+        "title": "Would David Ellison Really Just Pick Up His Hollywood Studios and Leave California?",
+        "link": "https://www.hollywoodreporter.com/business/business-news/david-ellison-paramount-california-move-1236671417/"
       },
       {
-        "title": "Inside \u2018Dreams in Nightmares,\u2019 a Vibrant Reinvention of the American Road Movie",
-        "link": "https://www.hollywoodreporter.com/movies/movie-features/dreams-in-nightmares-exclusive-shatara-michelle-ford-1236670557/"
+        "title": "\u2018Calabasas Confidential\u2019 Star Nicole Sahebi Signs With CAA (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/business/business-news/nicole-sahebi-signs-caa-1236671347/"
       }
     ],
     "larb": [],
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "\u201cWe Wanted to Create An Experience of Microscopic Awe\u201d: A Radical New View of Sacred Plants",
+        "link": "https://nautil.us/we-wanted-to-create-an-experience-of-microscopic-awe-a-radical-new-view-of-sacred-plants-1283647/"
+      },
+      {
         "title": "Who Keeps Spreading the Seeds of This Parasitic Plant?",
         "link": "https://nautil.us/who-keeps-spreading-the-seeds-of-this-parasitic-plant-1283643/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "The Soviets Drilled the Deepest Hole Ever",
         "link": "https://nautil.us/the-soviets-drilled-the-deepest-hole-ever-1283561/"
-      },
-      {
-        "title": "An Astrobiologist\u2019s Guide to the Best Sci-Fi Reads",
-        "link": "https://nautil.us/an-astrobiologists-guide-to-the-best-sci-fi-reads-1283590/"
       }
     ],
     "worksinprogress": [],
