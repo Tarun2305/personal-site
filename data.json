@@ -1,7 +1,11 @@
 {
-  "last_updated": "2026-08-11 04:13 UTC",
+  "last_updated": "2026-08-11 06:54 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "PM asks justice secretary to find way to keep PC Harper's killers in jail",
+        "link": "https://www.bbc.co.uk/news/articles/crrv1zlgd9ko?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Amber heat health alerts for almost all of England as next heatwave begins",
         "link": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss"
@@ -11,49 +15,45 @@
         "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "New Forest firefighting to continue overnight as cars abandoned",
-        "link": "https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "At least 132 killed in Colombia's largest  earthquake in years",
         "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Where did all the money go if the US is running out of weapons?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/where-did-all-the-money-go-if-the-us-is-running-out-of-weapons?traffic_source=rss"
+        "title": "Yemen\u2019s Houthis launch ballistic missile attacks on al-Makha and Marib",
+        "link": "https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss"
       },
       {
-        "title": "Colombia\u2019s far-right government recognises Israeli claim over Golan Heights",
-        "link": "https://www.aljazeera.com/news/2026/8/11/colombias-far-right-government-recognises-israeli-claim-over-golan-heights?traffic_source=rss"
+        "title": "Somali referee arrives for UEFA Super Cup after World Cup exclusion",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_somali-referee-arrives-for-uefa-super-cup-110826?traffic_source=rss"
       },
       {
-        "title": "Trump demands compensation from Iran as talks on Strait of Hormuz continue",
-        "link": "https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss"
+        "title": "Family watches helplessly as Colombia quake destroys home",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/family-watches-helplessly-as-colombia-quake-destroys-home?traffic_source=rss"
       },
       {
-        "title": "Trump orders fewer childhood vaccinations including splitting up MMR",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_trump-orders-fewer-child-vaccines-and-splitting-mmr-100826?traffic_source=rss"
+        "title": "Trump\u2019s media company reports $238m loss",
+        "link": "https://www.aljazeera.com/news/2026/8/11/trumps-media-company-reports-238m-loss?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Rockets relying on others to avoid Eliminator after loss to Brave",
-        "link": "https://www.skysports.com/cricket/news/12040/13571707/the-hundred-trent-rockets-relying-on-others-to-avoid-eliminator-after-loss-to-southern-brave"
+        "title": "Trump warns of 'terrible mistake' if FIFA replaces Infantino",
+        "link": "https://www.skysports.com/football/news/12040/13571834/gianni-infantino-donald-trump-warns-of-terrible-mistake-if-fifa-replaces-under-pressure-president"
       },
       {
-        "title": "Britain's Hunt claims European Championships 100m gold",
-        "link": "https://www.skysports.com/live-blog/12040/13571552/european-athletics-championships-2026-updates-from-birmingham-as-keely-hodgkinson-dina-asher-smith-katarina-johnson-thompson-compete"
+        "title": "England's World Cup place guaranteed but West Indies need to qualify",
+        "link": "https://www.skysports.com/cricket/news/12040/13571828/england-guaranteed-place-in-2027-cricket-world-cup-but-west-indies-will-have-to-enter-qualifying-tournament-again"
       },
       {
-        "title": "Papers: Aston Villa interested in Endrick loan from Real Madrid",
-        "link": "https://www.skysports.com/football/news/12040/13571792/aston-villa-keen-on-loan-deal-for-real-madrid-wonderkid-endrick-paper-talk"
+        "title": "Swiatek cruises into Canadian Open semis with 64-minute-win over Shnaider",
+        "link": "https://www.skysports.com/watch/video/13571824/diana-shnaider-vs-iga-swiatek-canadian-open-highlights"
       },
       {
-        "title": "Liverpool sign Araujo from Barcelona",
-        "link": "https://www.skysports.com/football/news/12040/13570899/ronald-araujo-transfer-news-liverpool-complete-deal-to-sign-barcelona-defender-on-loan-with-option-to-buy"
+        "title": "McKenna is 'locked in' on Walsh showdown after viral KO win",
+        "link": "https://www.skysports.com/boxing/news/12040/13571739/stevie-mckenna-is-locked-in-on-all-irish-showdown-with-callum-walsh-after-viral-ko-win-says-manager-mike-borao"
       }
     ],
     "pitchfork": [],
@@ -171,23 +171,31 @@
     ],
     "variety": [
       {
-        "title": "Boxing Legend Chris John Joins Silver Media Group for Animated Series \u2018Dragon\u2019s Dojo\u2019 (EXCLUSIVE)",
-        "link": "https://variety.com/2026/tv/news/boxing-legend-chris-john-animated-series-dragons-dojo-1236831269/"
+        "title": "\u2018Spider-Man: Brand New Day,\u2019 \u2018The Odyssey\u2019 Battle Atop U.K., Ireland Box Office",
+        "link": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-the-odyssey-uk-ireland-box-office-1236831811/"
       },
       {
-        "title": "Bill Bellamy to Receive Icon Award at Whats Funny Comedy Festival, Co-Founded by Lil Rel Howery",
-        "link": "https://variety.com/2026/scene/news/bill-bellamy-icon-award-whats-funny-comedy-festival-lil-rel-howery-1236831692/"
+        "title": "Gramado Film Festival Hosts the First International Meeting of Cities",
+        "link": "https://variety.com/2026/film/global/gramado-fest-hosts-international-meeting-of-cities-1236831694/"
       },
       {
-        "title": "Ella Langley\u2019s \u2018Choosin\u2019 Texas\u2019 Spends 17th Week at No. 1, Now Solely Holds Fourth Place Spot Among All-Time Hot 100 Streaks",
-        "link": "https://variety.com/2026/music/news/ella-langley-choosin-texas-17th-week-hot-100-1236831734/"
+        "title": "Gramado Film Festival Launches New Talent Drive",
+        "link": "https://variety.com/2026/film/global/gramado-festival-brazil-filmmaker-residency-1236831267/"
       },
       {
-        "title": "Demi Lovato to Make \u2018Camp Rock 3\u2019 Cameo Appearance",
-        "link": "https://variety.com/2026/tv/news/demi-lovato-camp-rock-3-cameo-1236831732/"
+        "title": "Heritage Monday at the Locarno Film Festival Sees a Future in the Past",
+        "link": "https://variety.com/2026/film/global/heritage-monday-locarno-film-festival-classic-films-1236831717/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "European Broadcast Giant RTL Group Bets on Streaming to Fuel Growth",
+        "link": "https://www.hollywoodreporter.com/business/business-news/fremantle-parent-rtl-group-bets-on-streaming-to-fuel-growth-1236670765/"
+      },
+      {
+        "title": "Ann Hui to Receive Busan Film Festival\u2019s Camellia Award",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/ann-hui-2026-busan-film-festival-camellia-award-1236670749/"
+      },
       {
         "title": "\u2018Camp Rock 3\u2019 Director on Bringing the Jonas Brothers Back \u2014 and Those Surprise Star Cameos",
         "link": "https://www.hollywoodreporter.com/tv/tv-features/camp-rock-3-jonas-brothers-demi-lovato-milo-manheim-1236670313/"
@@ -195,14 +203,6 @@
       {
         "title": "The Best Student Discounts on Streaming Services, Subscriptions and Tech",
         "link": "https://www.hollywoodreporter.com/lifestyle/shopping/best-student-discounts-streaming-services-subscriptions-1236670616/"
-      },
-      {
-        "title": "Chris Evans Teases \u201cBrutal\u201d \u2018Avengers: Doomsday\u2019 Storyline for Captain America",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/chris-evans-teases-avengers-doomsday-arc-captain-america-1236670567/"
-      },
-      {
-        "title": "Netflix Adds Logan Marshall-Green, Scott Bakula and More to \u2018The Sticks,\u2019 Shares First-Look at Hockey Drama",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-the-sticks-logan-marshall-green-scott-bakula-hockey-1236670476/"
       }
     ],
     "larb": [],
