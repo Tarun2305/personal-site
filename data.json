@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12 09:55 UTC",
+  "last_updated": "2026-08-12 12:53 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,38 +7,42 @@
         "link": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Woman attacked by Simon Levy feels betrayed he was allowed to attack more women",
-        "link": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss"
+        "title": "Burnham says disposable BBQ ban under consideration",
+        "link": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Burnham to chair Cobra meeting on extreme heat as temperatures surge again",
-        "link": "https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss"
+        "title": "Jasper Carrott says family is 'so proud' of Lucy Davis after cancer diagnosis",
+        "link": "https://www.bbc.co.uk/news/articles/cy9w2d2ry0wo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Trump confirms he switched planes after Nato summit because of possible threat ",
-        "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss"
+        "title": "Cambridge review into Jason Arday post will be independent, university says",
+        "link": "https://www.bbc.co.uk/news/articles/cn4npy3w1p2o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "More than 100 passengers rescued after Indonesia ferry fire",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/more-than-100-passengers-rescued-after-indonesia-ferry-fire?traffic_source=rss"
+        "title": "Egyptian student livestreams his kidnapping",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/egyptian-student-livestreams-his-kidnapping?traffic_source=rss"
       },
       {
-        "title": "Pogba suffers new injury setback with Monaco future now in doubt",
-        "link": "https://www.aljazeera.com/sports/2026/8/12/pogba-suffers-new-injury-setback-with-monaco-future-now-in-doubt?traffic_source=rss"
+        "title": "Top Iranian commander visited Iraq to discuss disarmament plan: Source",
+        "link": "https://www.aljazeera.com/news/2026/8/12/top-iranian-commander-visited-iraq-to-discuss-disarmament-plan-source?traffic_source=rss"
       },
       {
-        "title": "Zambia\u2019s president rallies for second term ahead of election",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/zambias-president-rallies-for-second-term-ahead-of-election?traffic_source=rss"
+        "title": "Rare solar eclipse to sweep across Europe and the Arctic",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/rare-solar-eclipse-to-sweep-across-europe-and-the-arctic?traffic_source=rss"
       },
       {
-        "title": "A hydrogen-powered vehicle sets new land speed record",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/a-hydrogen-powered-vehicle-sets-new-land-speed-record?traffic_source=rss"
+        "title": "Putin warns of tit-for-tat seizures of European vessels",
+        "link": "https://www.aljazeera.com/news/2026/8/12/putin-warns-of-tit-for-tat-seizures-of-european-vessels?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "Tielemans: I did not expect to leave Aston Villa for Man Utd this summer",
+        "link": "https://www.skysports.com/football/news/12040/13572176/youri-tielemans-man-utd-midfield-on-joining-the-club-reuniting-with-marcus-rashford-and-jonny-evans-and-belgiums-world-cup-campaign"
+      },
       {
         "title": "What next for Birmingham City? Why Davies is changing his approach",
         "link": "https://www.skysports.com/football/news/12040/13566218/chris-davies-interview-birmingham-city-managers-tactical-change-could-take-this-ambitious-club-up-from-the-championship"
@@ -50,15 +54,15 @@
       {
         "title": "Sky Sports agrees deal to show Laver Cup from London's O2 in September",
         "link": "https://www.skysports.com/tennis/news/12040/13571896/laver-cup-sky-sports-to-show-europe-vs-rest-of-the-world-from-londons-o2-in-september"
-      },
-      {
-        "title": "Jodar on course for tennis history as Rybakina fights past Osaka",
-        "link": "https://www.skysports.com/tennis/news/12040/13572099/canadian-open-rafael-jodar-on-course-for-mens-tennis-history-as-elena-rybakina-fights-back-to-beat-naomi-osaka"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "Transmissions :: Dust-to-Digital",
+        "link": "https://aquariumdrunkard.com/2026/08/12/transmissions-dust-to-digital/"
+      },
       {
         "title": "Nick Hakim :: I Can See",
         "link": "https://aquariumdrunkard.com/2026/08/11/nick-hakim-i-can-see/"
@@ -70,10 +74,6 @@
       {
         "title": "Wau Wau Collectif :: Teranga",
         "link": "https://aquariumdrunkard.com/2026/08/10/wau-wau-collectif-teranga/"
-      },
-      {
-        "title": "The Durutti Column :: Renascent",
-        "link": "https://aquariumdrunkard.com/2026/08/10/the-durutti-column-renascent/"
       }
     ],
     "bfi": [],
@@ -171,42 +171,46 @@
     ],
     "variety": [
       {
-        "title": "\u2018SNL U.K.\u2019 Season 2 Sets September Date",
-        "link": "https://variety.com/2026/tv/news/snl-uk-season-2-september-1236829143/"
+        "title": "Peter Chan\u2019s Toronto-Bound \u2018The Road Not Taken\u2019 Boards Moebius Entertainment for International Sales",
+        "link": "https://variety.com/2026/film/news/peter-chan-toronto-the-road-not-taken-moebius-entertainment-1236832879/"
       },
       {
-        "title": "\u2018In Flames\u2019 Director Zarrar Kahn Returns to Toronto With Gym-Incel Rom-Com \u2018The Lion Does Not Concern Himself,\u2019 Trailer Unveiled (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/festivals/zarrar-kahn-lion-does-not-concern-himself-toronto-trailer-1236832800/"
+        "title": "Jeremy Strong Wrote to Mark Zuckerberg After Being Cast in \u2018Social Reckoning\u2019 Even Though \u2018He\u2019s a Reviled Person\u2019; Actor Spent 7 Months Talking in Polish Accent for Next Role",
+        "link": "https://variety.com/2026/film/news/jeremy-strong-marck-zuckerberg-method-acting-social-reckoning-1236832516/"
       },
       {
-        "title": "U.K.\u2019s Largest Harry Potter Store Opening in London Ahead of HBO Series Launch",
-        "link": "https://variety.com/2026/tv/global/uk-largest-harry-potter-store-opening-in-london-1236832791/"
+        "title": "\u2018The Best Mother in the World\u2019 Standout Shirley Cruz to Star in Clara Ferrer and Tain\u00e1 Bevilacqua\u2019s Trans Coming-of-Age \u2018The She-Devil\u2019 (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/global/shirley-cruz-clara-ferrer-taina-bevilacqua-the-she-devil-1236832820/"
       },
       {
-        "title": "AI-Generated Turkish Series \u2018Castle Walls\u2019 Launches on Prime Video in What Is Being Touted as a Worldwide Streaming First \u2013 Trailer (EXCLUSIVE)",
-        "link": "https://variety.com/2026/tv/global/ai-generated-turkish-tv-series-castle-walls-prime-video-first-1236832779/"
+        "title": "Beatrice Gibson Questions Motherhood and Womanhood in Her Debut Feature \u2018At Night\u2019",
+        "link": "https://variety.com/2026/film/global/beatrice-gibson-at-night-locarno-film-festival-1236832813/"
       }
     ],
     "hollywoodreporter": [
       {
+        "title": "B\u00e9is and Disney\u2019s Travel Collab Takes Fans From Plane to Park",
+        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/disney-beis-luggage-collab-carry-on-suitcases-weekender-bag-1236671773/"
+      },
+      {
+        "title": "Alex Cooper\u2019s Unwell Receives Investment From Patrick Whitesell\u2019s Firm at $500 Million Valuation",
+        "link": "https://www.hollywoodreporter.com/business/digital/alex-cooper-unwell-investment-patrick-whitesell-500-million-1236671737/"
+      },
+      {
+        "title": "\u2018Demons\u2019 Explores the Russia-Ukraine Relationship via Borscht, Blood and Graves (Exclusive Trailer)",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/demons-film-trailer-locarno-2026-ukraine-russia-metaphor-1236671904/"
+      },
+      {
         "title": "\u2018SNL UK\u2019 Sets Season 2 Return on Sky",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/snl-uk-season-2-return-date-premiere-sky-now-episodes-1236671898/"
-      },
-      {
-        "title": "Lee Daniels, Nadine Labaki, Marina Abramovic Win Liberatum Pioneer Awards (Exclusive)",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/lee-daniels-nadine-labaki-marina-abramovic-liberatum-awards-1236670800/"
-      },
-      {
-        "title": "Makeup Oscar Record Holder Recalls Turning Jim Carrey Into the Grinch, Transforming Jacko for \u2018Thriller\u2019 and Playing King Kong",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/jim-carrey-grinch-michael-jackson-thriller-makeup-qa-1236654780/"
-      },
-      {
-        "title": "Crunchyroll, Sony Nab Makoto Shinkai\u2019s Untitled Next Anime Film for Global Release",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/crunchyroll-sony-makoto-shinkai-next-film-global-release-1236671844/"
       }
     ],
     "larb": [],
     "aeon": [
+      {
+        "title": "Bouncy brothers",
+        "link": "https://aeon.co/videos/a-tale-of-brotherhood-bouncy-castles-and-the-american-dream"
+      },
       {
         "title": "A second sexual revolution",
         "link": "https://aeon.co/essays/how-shere-hite-listened-to-womens-sexual-desires-and-dislikes"
@@ -218,13 +222,13 @@
       {
         "title": "How we meet the future",
         "link": "https://aeon.co/essays/when-is-stereotyping-a-handy-tool-and-when-is-it-a-sin"
-      },
-      {
-        "title": "Sasquatch science",
-        "link": "https://aeon.co/essays/the-surprisingly-scientific-methods-of-bigfooters"
       }
     ],
     "psyche": [
+      {
+        "title": "Two actors, no director, one dreamlike play",
+        "link": "https://psyche.co/turning-points/how-acting-in-a-surreal-play-in-my-pyjamas-healed-my-heartache"
+      },
       {
         "title": "Being in a crowd doesn\u2019t make you part of a mindless mob",
         "link": "https://psyche.co/ideas/being-in-a-crowd-doesnt-make-you-part-of-a-mindless-mob"
@@ -236,10 +240,6 @@
       {
         "title": "How to think like a Hegelian",
         "link": "https://psyche.co/guides/how-to-think-like-a-hegelian"
-      },
-      {
-        "title": "How to cultivate compassion",
-        "link": "https://psyche.co/videos/why-nurturing-your-compassionate-side-is-simple-and-deeply-beneficial"
       }
     ],
     "publicdomainreview": [
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "This Lion-Like Nebula Has Cosmic Dust for a Mane and a Dying Star for a Face",
+        "link": "https://nautil.us/this-lion-like-nebula-has-cosmic-dust-for-a-mane-and-a-dying-star-for-a-face-1283675/"
+      },
+      {
         "title": "How Our Attraction to Natural Fixes Can Stymie Climate Progress",
         "link": "https://nautil.us/how-our-attraction-to-natural-fixes-can-stymie-climate-progress-1283671/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "Who Keeps Spreading the Seeds of This Parasitic Plant?",
         "link": "https://nautil.us/who-keeps-spreading-the-seeds-of-this-parasitic-plant-1283643/"
-      },
-      {
-        "title": "Researchers Return to a Forgotten Forest Experiment 30 Years Later\u2014With \u201cAstounding\u201d Results",
-        "link": "https://nautil.us/researchers-return-to-a-forgotten-forest-experiment-30-years-later-with-astounding-results-1283623/"
       }
     ],
     "worksinprogress": [],
