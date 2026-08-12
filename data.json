@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12 01:17 UTC",
+  "last_updated": "2026-08-12 04:42 UTC",
   "feeds": {
     "bbc": [
       {
@@ -21,20 +21,20 @@
     ],
     "aljazeera": [
       {
-        "title": "N Korea launches ballistic missile as S Korea, US plan military drills",
-        "link": "https://www.aljazeera.com/news/2026/8/12/n-korea-launches-ballistic-missile-as-s-korea-us-plan-military-drills?traffic_source=rss"
+        "title": "Trump says secret plane switch \u2018up to the Secret Service\u2019",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/trump-says-secret-plane-switch-up-to-the-secret?traffic_source=rss"
       },
       {
-        "title": "Iran war live: US fires missiles at cargo ship violating Iran blockade",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss"
+        "title": "Drone strikes power station near Libya\u2019s largest oil refinery",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-strikes-power-station-near-libyas-largest-oil-refinery?traffic_source=rss"
       },
       {
-        "title": "Cargo ship in flames after Houthi attack in Bab al-Mandeb strait",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/cargo-ship-in-flames-after-houthi-attack-in-bab-al-mandeb-strait?traffic_source=rss"
+        "title": "Russia frees ex-US marine Gilman jailed since 2022",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/russia-frees-ex-us-marine-gilman-jailed-since-2022?traffic_source=rss"
       },
       {
-        "title": "Colombia scrambles to find survivors after deadly earthquake",
-        "link": "https://www.aljazeera.com/features/longform/2026/8/11/colombia-scrambles-to-find-survivors-after-deadly-earthquake?traffic_source=rss"
+        "title": "Oil prices rise as attacks dent hopes for Strait of Hormuz reopening",
+        "link": "https://www.aljazeera.com/economy/2026/8/12/oil-prices-rise-as-attacks-dent-hopes-for-strait-of-hormuz-reopening?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -171,23 +171,31 @@
     ],
     "variety": [
       {
+        "title": "WGA Slams David Ellison\u2019s Plan to Pull Paramount From California: \u2018This Type of Behavior Is Precisely Why the Merger Should Be Blocked\u2019",
+        "link": "https://variety.com/2026/film/news/wga-david-ellison-paramount-move-california-warner-bros-1236832685/"
+      },
+      {
+        "title": "Jenna Ortega \u2018Would Go All Day\u2019 Without Food or Water as a Child Star to Make Sure She Wasn\u2019t \u2018In the Way of Anybody\u2019",
+        "link": "https://variety.com/2026/tv/news/jenna-ortega-all-day-without-food-water-child-star-1236832697/"
+      },
+      {
         "title": "\u2018The Brink of War\u2019 Review: Reagan and Gorbachev Engage in Unengaging Verbal Battle",
         "link": "https://variety.com/2026/film/news/the-brink-of-war-review-1236831938/"
       },
       {
         "title": "John Hinckley Jr. Shares New Message to Jodie Foster, 45 Years After Trying to Assassinate Ronald Reagan to Impress Her: \u2018I Wish Her Well\u2019",
         "link": "https://variety.com/2026/film/news/john-hinckley-jr-message-jodie-foster-ronald-reagan-1236832616/"
-      },
-      {
-        "title": "Zoe Salda\u00f1a\u00a0Says It\u2019s \u2018Frustrating\u2019 When Political Questions Only Get Asked to Actors of Color and Women: \u2018That\u2019s Incredibly Limiting\u2019",
-        "link": "https://variety.com/2026/film/news/zoe-saldana-political-questions-women-of-color-white-men-1236832484/"
-      },
-      {
-        "title": "\u2018Assassin\u2019s Creed\u2019 Creator\u2019s New Action-Adventure Game \u20181666: Amsterdam\u2019 Sets Early Access Release (Gaming News Roundup)",
-        "link": "https://variety.com/2026/digital/news/gaming-news-roundup-week-of-august-10-1236831438/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "Jason Sudeikis Makes Cameo at Mumford & Sons Concert to Perform \u2018Ted Lasso\u2019 Theme Song",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/jason-sudeikis-performs-ted-lasso-song-mumford-sons-concert-1236671796/"
+      },
+      {
+        "title": "Paramount Has Spent 100 Years in Hollywood. David Ellison Loved That. Until He Didn\u2019t",
+        "link": "https://www.hollywoodreporter.com/business/business-news/paramount-david-ellison-1236671648/"
+      },
       {
         "title": "\u2018The Brink of War\u2019 Review: Jeff Daniels Makes an Unpersuasive Ronald Reagan in Talky Historical Drama About Nuclear Summit With Gorbachev",
         "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-brink-of-war-review-jeff-daniels-ronald-reagan-1236670267/"
@@ -195,14 +203,6 @@
       {
         "title": "Bill Jersey, Two-Time Oscar-Nominated Documentarian, Dies at 99",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/bill-jersey-dead-documentarian-time-for-burning-jim-crow-1236671735/"
-      },
-      {
-        "title": "Rod Stewart Cancels Farewell Tour Dates After Coronary Stent Procedure",
-        "link": "https://www.hollywoodreporter.com/music/music-news/rod-stewart-cancels-tour-dates-stent-procedure-1236671694/"
-      },
-      {
-        "title": "Nicholas Hoult Boards \u2018Harry Potter\u2019 Season 2 as Gilderoy Lockhart",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/nicholas-hoult-harry-potter-season-2-hbo-gilderoy-lockhart-1236671608/"
       }
     ],
     "larb": [],
