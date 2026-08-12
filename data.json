@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-08-12 04:42 UTC",
+  "last_updated": "2026-08-12 07:13 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Early release scheme risks more serious crimes, probation chief warns",
+        "link": "https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again",
         "link": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "More weather records as UK heat set to spike again",
-        "link": "https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Police chiefs call for PM to prevent early release of PC Harper's killers",
-        "link": "https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "UK to get best eclipse since 1999 as Moon blocks out Sun across Europe",
         "link": "https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Three ways to watch the solar eclipse safely without glasses",
+        "link": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Trump says secret plane switch \u2018up to the Secret Service\u2019",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/trump-says-secret-plane-switch-up-to-the-secret?traffic_source=rss"
+        "title": "At least 15 dead, dozens missing as ferry capsizes in Zimbabwe",
+        "link": "https://www.aljazeera.com/news/2026/8/12/at-least-15-dead-dozens-missing-as-ferry-capsizes-in-zimbabwe?traffic_source=rss"
       },
       {
-        "title": "Drone strikes power station near Libya\u2019s largest oil refinery",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-strikes-power-station-near-libyas-largest-oil-refinery?traffic_source=rss"
+        "title": "Why have several nations raised red flags over Indian farm exports?",
+        "link": "https://www.aljazeera.com/news/2026/8/12/why-have-several-nations-raised-red-flags-over-indian-farm-exports?traffic_source=rss"
       },
       {
-        "title": "Russia frees ex-US marine Gilman jailed since 2022",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/russia-frees-ex-us-marine-gilman-jailed-since-2022?traffic_source=rss"
+        "title": "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
+        "link": "https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss"
       },
       {
-        "title": "Oil prices rise as attacks dent hopes for Strait of Hormuz reopening",
-        "link": "https://www.aljazeera.com/economy/2026/8/12/oil-prices-rise-as-attacks-dent-hopes-for-strait-of-hormuz-reopening?traffic_source=rss"
+        "title": "Can Trump keep his \u2018irritation\u2019 with Netanyahu in check?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_-trump-keep-his-irritation-with-netanyahu-in-check-120826?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Jets' Stiggers in hospital after collapsing during practice",
-        "link": "https://www.skysports.com/nfl/news/12040/13572096/nfl-new-york-jets-cornerback-qwantez-stiggers-taking-to-hospital-after-collapsing-in-joint-practice-with-tampa-bay-buccaneers"
+        "title": "Jodar on course for tennis history as Rybakina fights past Osaka",
+        "link": "https://www.skysports.com/tennis/news/12040/13572099/canadian-open-rafael-jodar-on-course-for-mens-tennis-history-as-elena-rybakina-fights-back-to-beat-naomi-osaka"
       },
       {
-        "title": "Super Giants rout SunRisers to move to cusp of Hundred eliminator",
-        "link": "https://www.skysports.com/cricket/news/12040/13572032/the-hundred-manchester-super-giants-rout-sunrisers-leeds-to-move-to-cusp-of-eliminator-in-mens-tournament"
+        "title": "Today on Sky Sports Racing: Ffos Las hosts six-race card",
+        "link": "https://www.skysports.com/racing/news/12040/13571636/today-on-sky-sports-racing-ffos-las-hosts-six-race-card-live-on-wednesday"
       },
       {
-        "title": "Sharks 0-54 New Zealand | Highlights",
-        "link": "https://www.skysports.com/watch/video/13572095/durban-sharks-0-54-new-zealand-highlights"
+        "title": "Rybakina to meet Gauff in semis after Osaka fightback",
+        "link": "https://www.skysports.com/watch/video/13572134/elena-rybakina-vs-naomi-osaka-canadian-open-highlights"
       },
       {
-        "title": "SunRisers beat Super Giants to reach Hundred eliminator",
-        "link": "https://www.skysports.com/cricket/news/12040/13572031/the-hundred-sunrisers-leeds-beat-manchester-super-giants-in-decisive-game-to-set-up-eliminator-match-up-with-southern-brave"
+        "title": "'Everyone can have an opinion' - F1 president responds to regulations criticism",
+        "link": "https://www.skysports.com/f1/news/12040/13569682/f1-2026-regulations-stefano-domenicali-responds-to-criticism-about-current-power-unit-regulations"
       }
     ],
     "pitchfork": [],
@@ -171,23 +171,31 @@
     ],
     "variety": [
       {
+        "title": "Oscar Nominee Barkhad Abdi, Jim Deddes Lead Teddy Cherim\u2019s \u2018Maalstroom\u2019; First-Look Image Released (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/global/barkhad-abdi-jim-deddes-teddy-cherims-maalstroom-1236832364/"
+      },
+      {
+        "title": "Caleb Landry Jones on the Five-Year Battle to Make \u2018Down the Arm of God,\u2019 Confronting Prejudices Against Homelessness and How Luc Besson Saved the Film",
+        "link": "https://variety.com/2026/film/global/caleb-landry-jones-down-the-arm-of-god-luc-besson-1236827771/"
+      },
+      {
+        "title": "Hansal Mehta, Siddharth Bodke on \u2018Scam 2010\u2019 as First Look Unveiled for SonyLIV Series: \u2018A Story About Ambition, Influence and Arrogance\u2019 (EXCLUSIVE)",
+        "link": "https://variety.com/2026/tv/news/hansal-mehta-scam-2010-first-look-sonyliv-1236832223/"
+      },
+      {
         "title": "WGA Slams David Ellison\u2019s Plan to Pull Paramount From California: \u2018This Type of Behavior Is Precisely Why the Merger Should Be Blocked\u2019",
         "link": "https://variety.com/2026/film/news/wga-david-ellison-paramount-move-california-warner-bros-1236832685/"
-      },
-      {
-        "title": "Jenna Ortega \u2018Would Go All Day\u2019 Without Food or Water as a Child Star to Make Sure She Wasn\u2019t \u2018In the Way of Anybody\u2019",
-        "link": "https://variety.com/2026/tv/news/jenna-ortega-all-day-without-food-water-child-star-1236832697/"
-      },
-      {
-        "title": "\u2018The Brink of War\u2019 Review: Reagan and Gorbachev Engage in Unengaging Verbal Battle",
-        "link": "https://variety.com/2026/film/news/the-brink-of-war-review-1236831938/"
-      },
-      {
-        "title": "John Hinckley Jr. Shares New Message to Jodie Foster, 45 Years After Trying to Assassinate Ronald Reagan to Impress Her: \u2018I Wish Her Well\u2019",
-        "link": "https://variety.com/2026/film/news/john-hinckley-jr-message-jodie-foster-ronald-reagan-1236832616/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "Makeup Oscar Record Holder Recalls Turning Jim Carrey Into the Grinch, Transforming Jacko for \u2018Thriller\u2019 and Playing King Kong",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/jim-carrey-grinch-michael-jackson-thriller-makeup-qa-1236654780/"
+      },
+      {
+        "title": "Crunchyroll, Sony Nab Makoto Shinkai\u2019s Untitled Next Anime Film for Global Release",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/crunchyroll-sony-makoto-shinkai-next-film-global-release-1236671844/"
+      },
       {
         "title": "Jason Sudeikis Makes Cameo at Mumford & Sons Concert to Perform \u2018Ted Lasso\u2019 Theme Song",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/jason-sudeikis-performs-ted-lasso-song-mumford-sons-concert-1236671796/"
@@ -195,14 +203,6 @@
       {
         "title": "Paramount Has Spent 100 Years in Hollywood. David Ellison Loved That. Until He Didn\u2019t",
         "link": "https://www.hollywoodreporter.com/business/business-news/paramount-david-ellison-1236671648/"
-      },
-      {
-        "title": "\u2018The Brink of War\u2019 Review: Jeff Daniels Makes an Unpersuasive Ronald Reagan in Talky Historical Drama About Nuclear Summit With Gorbachev",
-        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-brink-of-war-review-jeff-daniels-ronald-reagan-1236670267/"
-      },
-      {
-        "title": "Bill Jersey, Two-Time Oscar-Nominated Documentarian, Dies at 99",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/bill-jersey-dead-documentarian-time-for-burning-jim-crow-1236671735/"
       }
     ],
     "larb": [],
