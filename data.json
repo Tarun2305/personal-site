@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-08-12 15:53 UTC",
+  "last_updated": "2026-08-12 18:52 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Three ways to watch the solar eclipse safely without glasses",
-        "link": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&at_campaign=rss"
+        "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+        "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ann Widdecombe's loved ones gather for her funeral",
+        "link": "https://www.bbc.co.uk/news/articles/cvgwz81w892o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Double killer and rapist given whole life sentence",
         "link": "https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Burnham considers disposable BBQ ban over wildfire risks",
+        "title": "Burnham urges shops not to sell disposable BBQs over wildfire risks",
         "link": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Jasper Carrott says family is 'so proud' of Lucy Davis after cancer diagnosis",
-        "link": "https://www.bbc.co.uk/news/articles/cy9w2d2ry0wo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Europe prepares for first total solar eclipse in 27 years",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/europe-prepares-for-first-total-solar-eclipse-in-27-years?traffic_source=rss"
+        "title": "Paramount Skydance mulls CNN sale amid antitrust merger challenge",
+        "link": "https://www.aljazeera.com/economy/2026/8/12/paramount-skydance-mulls-cnn-sale-amid-antitrust-merger-challenge?traffic_source=rss"
       },
       {
-        "title": "Colombia declares three days of mourning after deadly earthquake",
-        "link": "https://www.aljazeera.com/news/2026/8/12/colombia-declares-three-days-of-mourning-after-deadly-earthquake?traffic_source=rss"
+        "title": "DR Congo Ebola outbreak set to become deadliest on record, WHO warns",
+        "link": "https://www.aljazeera.com/news/2026/8/12/dr-congo-ebola-outbreak-set-to-become-deadliest-on-record-who-warns?traffic_source=rss"
       },
       {
-        "title": "Is Russia\u2019s economy cracking despite the Iran war windfall?",
-        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss"
+        "title": "Lebanese families demand release of detainees held by Israel",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/lebanese-families-demand-release-of-detainees-held-by-israel?traffic_source=rss"
       },
       {
-        "title": "WHO chief says Trump vaccine push goes against \u2018decades of evidence\u2019",
-        "link": "https://www.aljazeera.com/news/2026/8/12/who-chief-says-trump-vaccine-push-goes-against-decades-of-evidence?traffic_source=rss"
+        "title": "Mount Etna eruption disrupts travel at Italy\u2019s Catania airport",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/mount-etna-eruption-disrupts-travel-at-italys-catania-airport?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Pre-season: Newcastle vs Everton team news LIVE!",
+        "title": "Birmingham Phoenix win battle to avoid Hundred wooden spoon vs MI London",
+        "link": "https://www.skysports.com/cricket/news/12040/13572320/the-hundred-ellyse-perrys-half-century-sees-birmingham-phoenix-win-battle-to-avoid-wooden-spoon-vs-mi-london"
+      },
+      {
+        "title": "Jesus misses early sitter for Arsenal against Como LIVE!",
+        "link": "https://www.skysports.com/football/arsenal-vs-como/live/562442"
+      },
+      {
+        "title": "Everton hit three past wide open Newcastle LIVE!",
         "link": "https://www.skysports.com/football/newcastle-united-vs-everton/live/568648"
       },
       {
         "title": "O'Sullivan's poor start to season continues with early China Open loss",
         "link": "https://www.skysports.com/snooker/news/12040/13572300/ronnie-osullivan-the-rockets-poor-start-to-snooker-season-continues-with-shock-early-china-open-loss-to-noppon-saengkham"
-      },
-      {
-        "title": "Cadillac sack team principal Lowdon as Budkowski takes charge",
-        "link": "https://www.skysports.com/f1/news/12040/13572275/cadillac-appoint-marcin-budkowski-as-team-principal-following-f1-2026-newcomers-sudden-sacking-of-graeme-lowdon"
-      },
-      {
-        "title": "Fery feels 'no added pressure' despite being British No 1 as he returns",
-        "link": "https://www.skysports.com/tennis/news/12040/13572237/arthur-fery-feels-no-added-pressure-despite-being-british-no-1-as-he-returns-to-action-at-cincinnati-open"
       }
     ],
     "pitchfork": [],
@@ -116,6 +116,10 @@
     ],
     "mubi": [
       {
+        "title": "Rushes | TIFF Reveals Full Lineup, Vimeo To End VOD Service, R.I.P. Grace \u201cMambo Girl\u201d Chang",
+        "link": "https://mubi.com/en/notebook/posts/rushes-tiff-reveals-full-lineup-vimeo-to-end-vod-service-r-i-p-grace-mambo-girl-chang"
+      },
+      {
         "title": "Ky\u014dko Kagawa in One Shot",
         "link": "https://mubi.com/en/notebook/posts/kyoko-kagawa-in-one-shot"
       },
@@ -126,10 +130,6 @@
       {
         "title": "Turbulent Waters: The Cinema of Jean Epstein",
         "link": "https://mubi.com/en/notebook/posts/turbulent-waters-the-cinema-of-jean-epstein"
-      },
-      {
-        "title": "What Does a Christopher Nolan Movie Want?",
-        "link": "https://mubi.com/en/notebook/posts/what-does-a-christopher-nolan-movie-want"
       }
     ],
     "reverseshot": [],
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
-        "title": "\u2018Coyote vs. Acme\u2019 Review: Thank Goodness This Clever Comedy About the Evils of Corporate Greed Was Rescued from Corporate Hell",
-        "link": "https://www.indiewire.com/criticism/movies/coyote-vs-acme-review-looney-tunes-live-action-comedy-1235209439/"
+        "title": "Sundance 2026 Movies Sold: Michal Marczak\u2019s Doc \u2018Closure\u2019 Lands at 1-2 Special",
+        "link": "https://www.indiewire.com/news/festivals/sundance-2026-movies-sold-so-far-1235174095/"
       },
       {
-        "title": "\u2018Don\u2019t Say Good Luck\u2019 Review: Melanie Lynskey and Sunny Sandler Are Trying to Break Your Heart",
-        "link": "https://www.indiewire.com/criticism/movies/dont-say-good-luck-review-lynskey-sandler-netflix-1235209747/"
+        "title": "Anders Danielsen Lie Revisits the Making of \u2018Oslo, August 31st\u2019",
+        "link": "https://www.indiewire.com/features/interviews/anders-danielsen-lie-interview-making-oslo-august-31st-1235209755/"
       },
       {
-        "title": "\u2018The End of Oak Street\u2019 Review: David Robert Mitchell Delivers the Biggest Surprise of the Summer with the Best Dinosaur Movie Since 1993",
-        "link": "https://www.indiewire.com/criticism/movies/the-end-of-oak-street-dinosaur-movie-review-1235210068/"
+        "title": "American Film Market Expands to Include AI and Tech Companies",
+        "link": "https://www.indiewire.com/news/business/american-film-market-afm-expands-ai-tech-companies-1235210223/"
       },
       {
-        "title": "From \u2018Father Knows Best\u2019 to \u2018Final Destination\u2019: How Legacy Sequels Took Over the World",
-        "link": "https://www.indiewire.com/features/interviews/history-of-legacy-movie-sequels-1235209720/"
+        "title": "With \u2018Charlie and the Chocolate Factory,\u2019 Netflix Has Just Scheduled Its Third Theatrical Release in the Span of 12 Months",
+        "link": "https://www.indiewire.com/news/breaking-news/charlie-and-the-chocolate-factory-netflix-theaters-1235210208/"
       }
     ],
     "variety": [
       {
-        "title": "American Film Market Expands With Launch of AFM House, Site of Its Innovation Hub (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/global/american-film-market-afm-house-innovation-hub-1236832881/"
+        "title": "Nick Reiner Indicted for Murders of Parents Rob and Michele Reiner",
+        "link": "https://variety.com/2026/film/news/nick-reiner-indicted-murders-rob-michele-reiner-1236833176/"
       },
       {
-        "title": "Box Office: \u2018End of Oak Street\u2019 Targets $25 Million Debut, \u2018Spider-Man: Brand New Day\u2019 to Remain No. 1",
-        "link": "https://variety.com/2026/film/box-office/end-of-oak-street-box-office-projections-spiderman-continues-domination-1236832153/"
+        "title": "The Band Perry\u2019s Family Feud Lights Up: Neil Perry Says He Was \u2018Terminated\u2019 From Sibling Trio, as Kimberly Perry\u2019s Husband Stepped In to Make It a Marital Duo",
+        "link": "https://variety.com/2026/music/news/band-perry-feud-neil-terminated-kimberly-husband-1236833122/"
       },
       {
-        "title": "Quest Marks, Former Bravo Marketer, Joins The Shop as VP, Creative",
-        "link": "https://variety.com/2026/tv/news/quest-marks-joins-the-shop-vp-creative-bravo-1236833042/"
+        "title": "Travis Kelce Speaks Out on Wedding to Taylor Swift: \u2018Best Night of My Life\u2019 and \u2018It Was Cool to Live Out My Childhood Dream\u2019 of Being in MSG",
+        "link": "https://variety.com/2026/music/news/travis-kelce-interview-taylor-swift-wedding-best-night-1236833147/"
       },
       {
-        "title": "\u2018Don\u2019t Say Good Luck\u2019 Review: Sunny Sandler and Melanie Lynskey Give Genuine Soul to Netflix\u2019s Mother-Daughter Heartbreaker",
-        "link": "https://variety.com/2026/film/reviews/dont-say-good-luck-review-1236832816/"
+        "title": "How \u2018Meet the Press,\u2019 TV\u2019s Longest-Running Program, Continues to Take the Nation\u2019s Political Pulse",
+        "link": "https://variety.com/2026/tv/news/meet-the-press-tv-longest-running-program-nbc-100-1236832645/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Jenna Ortega on Why She\u2019d Go \u201cAll Day\u201d Without Eating or Drinking on Set in Early Career",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/jenna-ortega-acting-mistake-no-drinking-eating-set-1236672056/"
+        "title": "Perez Hilton Signs Over Temporary Custody of His Children to His Mother Amid Hospitalization",
+        "link": "https://www.hollywoodreporter.com/news/general-news/perez-hilton-temporary-custody-children-mother-1236672256/"
       },
       {
-        "title": "\u2018Neagley\u2019 Trailer Brings \u2018Reacher\u2019-Style Action to the Windy City",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/neagley-trailer-reacher-spinoff-maria-sten-prime-video-1236672063/"
+        "title": "Netflix\u2019s \u2018Charlie vs. the Chocolate Factory\u2019 Lands Wide Theatrical Release",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/charlie-vs-the-chocolate-factory-movie-netflix-release-date-1236672112/"
       },
       {
-        "title": "Relax, Hollywood, Nikki Finke Didn\u2019t Write a Memoir",
-        "link": "https://www.hollywoodreporter.com/lifestyle/arts/nikki-finke-memoir-1236671754/"
+        "title": "A Late \u2018Pinky & The Brain\u2019 Writer\u2019s Movie Is Now Getting Made \u2014 by His Son and With Puppets",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/a-late-pinky-the-brain-writers-script-is-finally-getting-made-1236670539/"
       },
       {
-        "title": "Ben Affleck, Kerry Washington Are Distraught Parents Trying to Save Kidnapped Son in \u2018Animals\u2019 Trailer",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/ben-affleck-kerry-washington-animals-trailer-1236672033/"
+        "title": "How an Abandoned Shopping Mall Was Transformed into the Las Vegas Strip for \u2018Fallout\u2019 Season Two",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/abandoned-mall-transformed-las-vegas-fallout-season-two-1236671538/"
       }
     ],
     "larb": [],
@@ -280,20 +280,20 @@
     ],
     "nautilus": [
       {
+        "title": "Is It Better to Have a Lot of Casual Friends or a Few Close Ones?",
+        "link": "https://nautil.us/is-it-better-to-have-a-lot-of-casual-friends-or-a-few-close-ones-1283691/"
+      },
+      {
+        "title": "First Ever \u201cBlack Hole Star\u201d Discovered at the Dawn of Time",
+        "link": "https://nautil.us/first-ever-black-hole-star-discovered-at-the-dawn-of-time-1283700/"
+      },
+      {
+        "title": "Loner Kids May Be Happier Than You Think",
+        "link": "https://nautil.us/loner-kids-may-be-happier-than-you-think-1283688/"
+      },
+      {
         "title": "There\u2019s No Link Between Crime and Unauthorized Immigration",
         "link": "https://nautil.us/theres-no-link-between-crime-and-unauthorized-immigration-1283680/"
-      },
-      {
-        "title": "This Lion-Like Nebula Has Cosmic Dust for a Mane and a Dying Star for a Face",
-        "link": "https://nautil.us/this-lion-like-nebula-has-cosmic-dust-for-a-mane-and-a-dying-star-for-a-face-1283675/"
-      },
-      {
-        "title": "How Our Attraction to Natural Fixes Can Stymie Climate Progress",
-        "link": "https://nautil.us/how-our-attraction-to-natural-fixes-can-stymie-climate-progress-1283671/"
-      },
-      {
-        "title": "\u201cWe Wanted to Create An Experience of Microscopic Awe\u201d: A Radical New View of Sacred Plants",
-        "link": "https://nautil.us/we-wanted-to-create-an-experience-of-microscopic-awe-a-radical-new-view-of-sacred-plants-1283647/"
       }
     ],
     "worksinprogress": [],
