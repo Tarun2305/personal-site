@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-08-13 15:52 UTC",
+  "last_updated": "2026-08-13 18:53 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Water bills set to rise for many after firms permitted extra funding",
-        "link": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss"
+        "title": "Aerial footage shows derailed train",
+        "link": "https://www.bbc.co.uk/news/videos/cn5np5x00edo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Son pays tribute to dad, 102, who died after allegedly being assaulted in pub",
+        "title": "UK sees hottest day of the year as 38.1C recorded in Kew Gardens",
+        "link": "https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Five key takeaways from results day 2026",
+        "link": "https://www.bbc.co.uk/news/articles/clyqpqxv04go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Son of 102-year-old says father 'pushed off stage' after complaining about noise",
         "link": "https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "The key signs you may have damaged your eyes by looking at the eclipse",
-        "link": "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-        "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Turkiye\u2019s AK Party turns 25: A journey of change and renewal",
-        "link": "https://www.aljazeera.com/opinions/2026/8/13/turkiyes-ak-party-turns-25-a-journey-of-change-and-renewal?traffic_source=rss"
+        "title": "Europe swelters in latest wave of extreme heat",
+        "link": "https://www.aljazeera.com/news/2026/8/13/europe-swelters-in-latest-wave-of-extreme-heat?traffic_source=rss"
       },
       {
-        "title": "Iran says Strait of Hormuz under its control, rejects Trump claims",
-        "link": "https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss"
+        "title": "Carrick urges Manchester United to sign more transfers to boost title bid",
+        "link": "https://www.aljazeera.com/sports/2026/8/13/carrick-urges-manchester-united-to-sign-more-transfers-to-boost-title-bid?traffic_source=rss"
       },
       {
-        "title": "Pro-Palestine football fans lament West Ham for signing Manor Solomon",
-        "link": "https://www.aljazeera.com/news/2026/8/13/pro-palestine-football-fans-lament-west-ham-for-signing-manor-solomon?traffic_source=rss"
+        "title": "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students",
+        "link": "https://www.aljazeera.com/news/2026/8/13/judge-nixes-trump-lawsuit-alleging-harvard-did-not-protect-jewish-students?traffic_source=rss"
       },
       {
-        "title": "Oman says massive oil spill reaches coastline: What damage could it do?",
-        "link": "https://www.aljazeera.com/news/2026/8/13/oman-says-massive-oil-spill-reaches-coastline-what-damage-could-it-do?traffic_source=rss"
+        "title": "Poland arrests man who allegedly tried to kill Ukrainian American",
+        "link": "https://www.aljazeera.com/news/2026/8/13/poland-arrests-man-who-allegedly-tried-to-kill-ukrainian-american?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Celtic sign midfielder Baur on an initial four-year deal",
-        "link": "https://www.skysports.com/football/news/12040/13566197/mika-baur-celtic-sign-germany-u21-midfielder-from-paderborn-on-initial-four-year-deal"
+        "title": "McIlroy makes woeful start to FedExCup Playoffs as Spieth shares early lead",
+        "link": "https://www.skysports.com/golf/news/12040/13572655/fedexcup-playoffs-rory-mcilroy-makes-woeful-start-at-fedex-st-jude-championship-with-four-over-par-opening-round"
       },
       {
-        "title": "Richards to face Kalajdzic showdown on Fisher bill",
-        "link": "https://www.skysports.com/boxing/news/12040/13572483/craig-richards-vs-radivoje-kalajdzic-lee-cutler-vs-louis-greene-added-to-johnny-fisher-boxing-bill-at-copper-box-arena"
+        "title": "Leicester City up for sale for more than \u00a3200m",
+        "link": "https://www.skysports.com/football/news/12040/13572696/leicester-city-for-sale-thai-owners-king-power-put-club-on-market-for-more-than-200m"
       },
       {
-        "title": "Cutler and Greene share intense face-off on Sky Sports News!",
-        "link": "https://www.skysports.com/watch/video/13572644/zuffa-boxing-11-lee-cutler-and-louis-greene-share-intense-face-off-on-sky-sports-news"
+        "title": "Draper beaten in Cincinnati first round after blowing second-set lead",
+        "link": "https://www.skysports.com/tennis/news/12040/13572651/cincinnati-open-jack-draper-beaten-by-martin-landaluce-in-first-round-after-blowing-six-set-point-chances-to-level-match"
       },
       {
-        "title": "Brighton latest: Genoa make contact over Ferguson loan",
-        "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+        "title": "Doyle: Coppull can strike in the Hungerford",
+        "link": "https://www.skysports.com/racing/news/12040/13572701/hollie-doyle-clive-cox-can-take-out-the-newbury-feature-with-talented-colt-coppull"
       }
     ],
     "pitchfork": [],
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
+        "title": "Will Poulter and Noah Centineo Went to Ohio to Immerse Themselves in the Addiction Recovery System for \u2018Union County\u2019",
+        "link": "https://www.indiewire.com/features/interviews/will-poulter-noah-centineo-sundance-union-county-1235174777/"
+      },
+      {
+        "title": "John Carpenter, Colman Domingo, and Charlize Theron to Be Honored at Academy Museum Gala",
+        "link": "https://www.indiewire.com/awards/industry/john-carpenter-charlize-theron-academy-museum-gala-1235210364/"
+      },
+      {
+        "title": "Rapturous New Trailer for \u2018Ken Russell\u2019s The Devils\u2019 Turns Up the Heat on the Movie Event of the Year",
+        "link": "https://www.indiewire.com/news/trailers/ken-russells-the-devils-restoration-trailer-1235210331/"
+      },
+      {
         "title": "NYFF Unveils 2026 Currents Lineup, Featuring Boundary-Pushing Cinema from Around the World",
         "link": "https://www.indiewire.com/news/festivals/nyff-2026-currents-lineup-1235210227/"
-      },
-      {
-        "title": "\u2018Sara Bareilles: Good Grief\u2019 Trailer: The Beloved Songwriter Returns to the Studio in New Documentary",
-        "link": "https://www.indiewire.com/news/trailers/sara-bareilles-good-grief-trailer-1235210259/"
-      },
-      {
-        "title": "\u2018Lanterns\u2019 Stars Kyle Chandler and Aaron Pierre Like Each Other a Lot More Than Hal Jordan and John Stewart Do",
-        "link": "https://www.indiewire.com/features/interviews/lanterns-kyle-chandler-aaron-pierre-interview-1235210265/"
-      },
-      {
-        "title": "The TV Academy Hall of Fame Is Not Worried About Whether or Not You Have Too Many Emmys",
-        "link": "https://www.indiewire.com/awards/consider-this/tv-academy-hall-of-fame-2026-legacy-award-1235210282/"
       }
     ],
     "variety": [
       {
-        "title": "Nicole Kidman Got Warned About Marrying Tom Cruise But Fired Back: \u2018I Don\u2019t Care. I\u2019m in Love\u2026 Of Course I\u2019ll Throw My Career Away\u2019",
-        "link": "https://variety.com/2026/film/news/nicole-kidman-tom-cruise-marriage-ruin-career-1236833719/"
+        "title": "Will Smith\u2019s \u2018King Richard\u2019 Co-Star Aunjanue Ellis-Taylor Defends the Oscars Slap: \u2018I Stand By That\u2019 Because the First Amendment Should Not \u2018Protect A\u2014holes\u2019",
+        "link": "https://variety.com/2026/film/news/aunjanue-ellis-taylor-will-smith-oscars-slap-1236834055/"
       },
       {
-        "title": "A Bulldog in Business: How Moving into the Booth Opened Other Doors for Dodger Great Orel Hershiser",
-        "link": "https://variety.com/2026/tv/news/orel-hershiser-bulldog-business-broadcasting-1236833448/"
+        "title": "\u2018La Gradiva,\u2019 Cannes Critics\u2019 Week Winner and French Oscar Hopeful, Sets U.S. Release Date and Reveals New Image (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/awards/la-gradiva-us-release-date-oscars-1236833967/"
       },
       {
-        "title": "Dodger Great Orel Hershiser on the Devotion to Broadcasting, Baseball and Faith That Led Him to Hollywood Walk of Fame",
-        "link": "https://variety.com/2026/tv/news/orel-hershiser-hollywood-walk-of-fame-baseball-broadcast-1236833444/"
+        "title": "Nara Smith Signs With CAA (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/news/nara-smith-caa-1236833979/"
       },
       {
-        "title": "\u2018Off Campus\u2019 Casts Shay Rudolph as Summer Di Laurentis in Season 2",
-        "link": "https://variety.com/2026/tv/news/off-campus-season-2-summer-di-laurentis-shay-rudolph-1236833849/"
+        "title": "How \u2018All Her Fault\u2019 Helped Put Peacock on the Map in Scripted Awards Conversations",
+        "link": "https://variety.com/2026/tv/awards/all-her-fault-emmy-noms-peacock-scripted-awards-1236833995/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Oscars: Switzerland Picks Gaza Doc \u2018Who is Still Alive\u2019 as Best International Feature Submission",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/switzerland-gaza-doc-2027-oscars-submission-1236672908/"
+        "title": "\u201cWe Don\u2019t See This as Entertainment\u201d: \u2018THR Presents\u2019 Q&A With Octavia Spencer on True Crime Docu-Series \u2018Lost Women of Alaska\u2019",
+        "link": "https://www.hollywoodreporter.com/tv/tv-videos/octavia-spencer-lost-women-of-alaska-emmy-nominee-narrator-1236668252/"
       },
       {
-        "title": "\u2018Spider-Man: Brand New Day\u2019 Becomes Fastest Movie to Hit $700M at Domestic Box Office",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-record-700-million-1236672909/"
+        "title": "Sally Field Recalls the Roles She Fought for the Hardest",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/sally-field-career-remarkably-bright-creatures-1236672565/"
       },
       {
-        "title": "Australian Medical Drama \u2018The F Ward\u2019 Sells to 100 Markets for Paramount",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/australian-medical-drama-the-f-ward-paramount-1236671821/"
+        "title": "\u2018House of the Dragon\u2019 Star on Narrowly Cheating Death: \u201cThey Can\u2019t Get Rid of Me That Easily\u201d",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/house-of-the-dragon-season-3-finale-sea-snake-steve-toussaint-1236673062/"
       },
       {
-        "title": "Disney and Macy\u2019s Mark 100th Thanksgiving Day Parade With Limited-Edition Product Line (Exclusive)",
-        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/disney-macys-100th-thanksgiving-day-parade-collection-buy-1236672771/"
+        "title": "What Showrunner Will Smith\u2019s Exit Means for \u2018Slow Horses\u2019 Season 6",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/slow-horses-showrunner-exit-season-six-1236670572/"
       }
     ],
     "larb": [],
@@ -230,12 +230,12 @@
         "link": "https://psyche.co/videos/talking-to-yourself-isnt-just-normal-it-can-be-beneficial"
       },
       {
-        "title": "Writing letters is a spiritual practice for our age of speed",
-        "link": "https://psyche.co/ideas/writing-letters-is-a-spiritual-practice-for-our-age-of-speed"
-      },
-      {
         "title": "The satisfaction of doing work that lasts",
         "link": "https://psyche.co/notes-to-self/the-deep-satisfaction-of-doing-work-that-lasts"
+      },
+      {
+        "title": "Writing letters is a spiritual practice for our age of speed",
+        "link": "https://psyche.co/ideas/writing-letters-is-a-spiritual-practice-for-our-age-of-speed"
       },
       {
         "title": "Two actors, no director, one dreamlike play",
@@ -280,20 +280,20 @@
     ],
     "nautilus": [
       {
+        "title": "Watch: Australian Dolphin Filmed Catching Fish with Shells",
+        "link": "https://nautil.us/watch-australian-dolphin-filmed-catching-fish-with-shells-1283734/"
+      },
+      {
+        "title": "Awe-Inspiring Images from This Year\u2019s Solar Eclipse",
+        "link": "https://nautil.us/awe-inspiring-images-from-this-years-solar-eclipse-1283740/"
+      },
+      {
+        "title": "We May Have Finally Identified the Brain\u2019s Language Network",
+        "link": "https://nautil.us/we-may-have-finally-identified-the-brains-language-network-1283730/"
+      },
+      {
         "title": "The Trouble with Cancer Screening",
         "link": "https://nautil.us/the-trouble-with-cancer-screening-1283638/"
-      },
-      {
-        "title": "An Ice Island as Big as Manhattan Just Broke Off Greenland",
-        "link": "https://nautil.us/an-ice-island-as-big-as-manhattan-just-broke-off-greenland-1283725/"
-      },
-      {
-        "title": "Extraordinary Experiences Are More Common Than You Think",
-        "link": "https://nautil.us/extraordinary-experiences-are-more-common-than-you-think-1283718/"
-      },
-      {
-        "title": "Is Cannabis Good for Your Heart?",
-        "link": "https://nautil.us/is-cannabis-good-for-your-heart-1283715/"
       }
     ],
     "worksinprogress": [],
