@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-08-13 04:46 UTC",
+  "last_updated": "2026-08-13 07:16 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Results day dawns for A-level, T-level and BTec students",
-        "link": "https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
         "link": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Moment 'surreal' solar eclipse seen in UK and Europe",
+        "link": "https://www.bbc.co.uk/news/videos/c5yr891pp5eo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Temperatures to soar to 38C as amber extreme heat warning comes into force",
         "link": "https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-        "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss"
+        "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Israeli settlers besiege Palestinian families in West Bank\u2019s Qusra",
-        "link": "https://www.aljazeera.com/news/2026/8/13/israeli-settlers-besiege-three-palestinian-families-in-occupied-west-bank?traffic_source=rss"
+        "title": "The US is now using the \u2018terrorist\u2019 label to interfere in Brazil\u2019s election",
+        "link": "https://www.aljazeera.com/opinions/2026/8/13/the-us-is-now-using-the-terrorist-label-to-interfere-in-brazils-election?traffic_source=rss"
       },
       {
-        "title": "Solar eclipse carves Eiffel Tower\u2019s silhouette in Paris sky",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/solar-eclipse-carves-eiffel-towers-silhouette-in-paris-sky?traffic_source=rss"
+        "title": "Will the Houthis shut down Saudi Arabian shipping?",
+        "link": "https://www.aljazeera.com/video/project-force-2/2026/8/13/will-the-houthis-shut-down-saudi-arabian-shipping?traffic_source=rss"
       },
       {
-        "title": "Olympic skateboarder times epic stunt with solar eclipse",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_skateboarder-times-epic-stunt-with-solar-eclipse-120826?traffic_source=rss"
+        "title": "Polls open in Zambia presidential election as economic reforms tested",
+        "link": "https://www.aljazeera.com/news/2026/8/13/polls-open-in-zambia-presidential-election-as-economic-reforms?traffic_source=rss"
       },
       {
-        "title": "Zimbabwe\u2019s land reform enters a new chapter",
-        "link": "https://www.aljazeera.com/news/2026/8/13/zimbabwes-land-reform-enters-a-new-chapter?traffic_source=rss"
+        "title": "Nearly 4 million Afghan children \u2018acutely malnourished\u2019",
+        "link": "https://www.aljazeera.com/news/2026/8/13/how-clinic-closures-left-3-7-million-afghan-children-acutely-malnourished?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Papers: Arsenal hold further talks over Villa's Konsa",
-        "link": "https://www.skysports.com/football/news/12040/13572412/arsenal-transfer-news-gunners-hold-further-talks-over-aston-villa-defender-ezri-konsa-paper-talk"
+        "title": "Gold medallist Thomas chases 'own legacy' after AJ comparisons",
+        "link": "https://www.skysports.com/boxing/news/12040/13572325/damar-thomas-unfazed-by-anthony-joshua-comparisons-as-commonwealth-games-gold-medallist-chases-own-legacy-ahead-of-la-olympics"
       },
       {
-        "title": "MI London's Hundred title defence over despite narrow win over Phoenix",
-        "link": "https://www.skysports.com/cricket/news/12040/13572322/the-hundred-mi-londons-title-defence-and-hopes-of-fourth-in-a-row-over-despite-narrow-win-over-birmingham-phoenix"
+        "title": "Jodar's bid for history halted in Nakashima defeat as Rybakina beats Gauff",
+        "link": "https://www.skysports.com/tennis/news/12040/13572450/canadian-open-rafael-jodar-bid-for-atp-rankings-history-put-on-hold-while-elena-rybakina-beats-coco-gauff-in-semi-finals"
       },
       {
-        "title": "Rashford absent in Leeds friendly win but still part of Man Utd plans",
-        "link": "https://www.skysports.com/football/manchester-united-vs-leeds-united/report/555721"
+        "title": "Today on Sky Sports Racing: Windsor and Lingfield feature on Thursday",
+        "link": "https://www.skysports.com/racing/news/12040/13571992/today-on-sky-sports-racing-windsor-and-lingfield-feature-live-on-thursday"
       },
       {
-        "title": "Guimaraes makes bow and Lewis-Skelly scores as Arsenal held by Como",
-        "link": "https://www.skysports.com/football/arsenal-vs-como/report/562442"
+        "title": "Where would Antonelli rank among surprise F1 title winners?",
+        "link": "https://www.skysports.com/f1/news/12040/13571878/kimi-antonelli-where-would-mercedes-driver-rank-among-surprise-f1-title-winners-in-recent-history"
       }
     ],
     "pitchfork": [],
@@ -171,6 +171,10 @@
     ],
     "variety": [
       {
+        "title": "\u2018Far From the Trees\u2019 Director Meritxell Colell on Turning Exile and Endangered Languages Into a \u2018Body of Memory\u2019",
+        "link": "https://variety.com/2026/global/global/far-from-the-trees-director-meritxell-colell-1236827380/"
+      },
+      {
         "title": "Ritchie Blackmore Performs With Deep Purple for First Time Since Acrimonious Split in Early \u201990s, After Warning Fans: \u2018I Have Not Played Rock Music in 25 Years\u2019",
         "link": "https://variety.com/2026/music/news/ritchie-blackmore-deep-purple-performs-smoke-on-the-water-1236833509/"
       },
@@ -181,10 +185,6 @@
       {
         "title": "Indian Freedom Fighter Bhagat Singh Series in Development at Collective Studios\u2019 Historyverse (EXCLUSIVE)",
         "link": "https://variety.com/2026/film/news/bhagat-singh-series-collective-studios-historyverse-1236833000/"
-      },
-      {
-        "title": "Hollywood\u2019s Top-Grossing Films of 2025 Show Limited Progress Toward Inclusion, Study Says: \u2018The Pace of Change Has Been Slow\u2019",
-        "link": "https://variety.com/2026/film/news/hollywood-diversity-study-annenberg-inclusion-initiative-1236833079/"
       }
     ],
     "hollywoodreporter": [
