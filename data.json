@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13 12:54 UTC",
+  "last_updated": "2026-08-13 15:52 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,7 +7,7 @@
         "link": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Man, 102, dies after alleged pub assault",
+        "title": "Son pays tribute to dad, 102, who died after allegedly being assaulted in pub",
         "link": "https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -15,50 +15,54 @@
         "link": "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Watch: Key moments from Karoline Leavitt's White House tenure as Trump says she will leave post",
-        "link": "https://www.bbc.co.uk/news/videos/c86nd59z7vqo?at_medium=RSS&at_campaign=rss"
+        "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+        "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Falling Danube flow forces shutdown of Romania\u2019s sole nuclear plant",
-        "link": "https://www.aljazeera.com/news/2026/8/13/falling-danube-flow-forces-shutdown-of-romanias-sole-nuclear-plant?traffic_source=rss"
+        "title": "Turkiye\u2019s AK Party turns 25: A journey of change and renewal",
+        "link": "https://www.aljazeera.com/opinions/2026/8/13/turkiyes-ak-party-turns-25-a-journey-of-change-and-renewal?traffic_source=rss"
       },
       {
-        "title": "Infantino\u2019s FIFA fate must go to an election, says Africa football chief",
-        "link": "https://www.aljazeera.com/sports/2026/8/13/infantinos-fifa-fate-must-go-to-an-election-says-african-football-chief?traffic_source=rss"
+        "title": "Iran says Strait of Hormuz under its control, rejects Trump claims",
+        "link": "https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss"
       },
       {
-        "title": "Five charts that explain the high cost of living in the UK",
-        "link": "https://www.aljazeera.com/news/2026/8/13/five-charts-that-explain-the-high-cost-of-living-in-the-uk?traffic_source=rss"
+        "title": "Pro-Palestine football fans lament West Ham for signing Manor Solomon",
+        "link": "https://www.aljazeera.com/news/2026/8/13/pro-palestine-football-fans-lament-west-ham-for-signing-manor-solomon?traffic_source=rss"
       },
       {
-        "title": "US-Iran talks in deadlock \u2013 what\u2019s the latest?",
-        "link": "https://www.aljazeera.com/news/2026/8/13/us-iran-talks-in-deadlock-whats-the-latest?traffic_source=rss"
+        "title": "Oman says massive oil spill reaches coastline: What damage could it do?",
+        "link": "https://www.aljazeera.com/news/2026/8/13/oman-says-massive-oil-spill-reaches-coastline-what-damage-could-it-do?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Australia exposed by Bangladesh in stunning start to first Test",
-        "link": "https://www.skysports.com/cricket/news/12040/13572532/australia-vs-bangladesh-hosts-humbled-on-first-day-of-test-skittled-for-198-as-hasan-mahmud-takes-six-first-innings-wickets"
+        "title": "Celtic sign midfielder Baur on an initial four-year deal",
+        "link": "https://www.skysports.com/football/news/12040/13566197/mika-baur-celtic-sign-germany-u21-midfielder-from-paderborn-on-initial-four-year-deal"
       },
       {
-        "title": "Could UK diaspora players represent India? | Bhatia closes in on Liverpool stake",
-        "link": "https://www.skysports.com/football/news/12040/13570292/devs-digest-will-british-indians-represent-india-national-team-amit-bhatia-closes-in-on-liverpool-stake-yan-dhandas-debut-revisited"
+        "title": "Richards to face Kalajdzic showdown on Fisher bill",
+        "link": "https://www.skysports.com/boxing/news/12040/13572483/craig-richards-vs-radivoje-kalajdzic-lee-cutler-vs-louis-greene-added-to-johnny-fisher-boxing-bill-at-copper-box-arena"
       },
       {
-        "title": "Spurs latest: PODCAST - A big summer for... Tottenham Hotspur",
-        "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "title": "Cutler and Greene share intense face-off on Sky Sports News!",
+        "link": "https://www.skysports.com/watch/video/13572644/zuffa-boxing-11-lee-cutler-and-louis-greene-share-intense-face-off-on-sky-sports-news"
       },
       {
-        "title": "O'Hara: Spurs should sign Rashford with De Zerbi 'perfect' for him",
-        "link": "https://www.skysports.com/football/news/12040/13572329/marcus-rashford-transfer-news-tottenham-should-sign-man-utd-forward-says-ex-spurs-midfielder-jamie-ohara"
+        "title": "Brighton latest: Genoa make contact over Ferguson loan",
+        "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "Don Cherry & Okay Temiz :: Music for Turkish Theater 1970",
+        "link": "https://aquariumdrunkard.com/2026/08/13/don-cherry-okay-temiz-music-for-turkish-theater-1970/"
+      },
       {
         "title": "In Gowan Ring :: The Glinting Spade",
         "link": "https://aquariumdrunkard.com/2026/08/13/in-gowan-ring-the-glinting-spade/"
@@ -70,30 +74,26 @@
       {
         "title": "Transmissions :: Dust-to-Digital",
         "link": "https://aquariumdrunkard.com/2026/08/12/transmissions-dust-to-digital/"
-      },
-      {
-        "title": "Nick Hakim :: I Can See",
-        "link": "https://aquariumdrunkard.com/2026/08/11/nick-hakim-i-can-see/"
       }
     ],
     "bfi": [],
     "criterion": [],
     "rogerebert": [
       {
+        "title": "Locarno 2026: Objet A, Tear Gas, Fire Flower (Hanabi)",
+        "link": "https://www.rogerebert.com/festivals/locarno-2026-objet-a-tear-gas-fire-flower-hanabi"
+      },
+      {
+        "title": "\u201cTires\u201d Has Developed into One of Netflix\u2019s Best Comedies in Season 3",
+        "link": "https://www.rogerebert.com/streaming/tires-season-3-shane-gillis-netflix-tv-review-2026"
+      },
+      {
+        "title": "Prophecy is Ragged and Dirty: David Cronenberg\u2019s \u201cCrash\u201d Turns 30",
+        "link": "https://www.rogerebert.com/features/prophecy-is-ragged-and-dirty-david-cronenbergs-crash-turns-30"
+      },
+      {
         "title": "Memories of Helen: The Heroic Despair of \u201cJohn Wick\u201d",
         "link": "https://www.rogerebert.com/mzs/memories-of-helen-the-heroic-despair-of-john-wick"
-      },
-      {
-        "title": "Season 4 of Prime Video\u2019s \u201cReacher\u201d Might Be the Best Yet",
-        "link": "https://www.rogerebert.com/streaming/season-4-of-prime-videos-reacher-might-be-the-best-yet"
-      },
-      {
-        "title": "\u201cIt\u2019s Always Sunny in Philadelphia\u201d Finds More Comedic Highs in Confident 18th Season",
-        "link": "https://www.rogerebert.com/streaming/its-always-sunny-in-philadelphia-finds-more-comedic-highs-in-confident-18th-season"
-      },
-      {
-        "title": "A Comedy Legacy: Broken Lizard on \u201cSuper Troopers 3\u201d",
-        "link": "https://www.rogerebert.com/interviews/a-comedy-legacy-broken-lizard-on-super-troopers-3"
       }
     ],
     "filmcomment": [
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
+        "title": "NYFF Unveils 2026 Currents Lineup, Featuring Boundary-Pushing Cinema from Around the World",
+        "link": "https://www.indiewire.com/news/festivals/nyff-2026-currents-lineup-1235210227/"
+      },
+      {
+        "title": "\u2018Sara Bareilles: Good Grief\u2019 Trailer: The Beloved Songwriter Returns to the Studio in New Documentary",
+        "link": "https://www.indiewire.com/news/trailers/sara-bareilles-good-grief-trailer-1235210259/"
+      },
+      {
+        "title": "\u2018Lanterns\u2019 Stars Kyle Chandler and Aaron Pierre Like Each Other a Lot More Than Hal Jordan and John Stewart Do",
+        "link": "https://www.indiewire.com/features/interviews/lanterns-kyle-chandler-aaron-pierre-interview-1235210265/"
+      },
+      {
         "title": "The TV Academy Hall of Fame Is Not Worried About Whether or Not You Have Too Many Emmys",
         "link": "https://www.indiewire.com/awards/consider-this/tv-academy-hall-of-fame-2026-legacy-award-1235210282/"
-      },
-      {
-        "title": "Cinematographer Michael Bauman Looked to His Own Roots for \u2018Monster: The Ed Gein Story\u2019",
-        "link": "https://www.indiewire.com/features/craft/michael-bauman-cinematography-ed-gein-story-ryan-murphy-1235208535/"
-      },
-      {
-        "title": "When Billie Joe Armstrong Asks You to Make a Green Day Movie, You Don\u2019t Say No",
-        "link": "https://www.indiewire.com/features/interviews/nimrods-green-day-movie-billie-joe-armstrong-interview-1235209998/"
-      },
-      {
-        "title": "Sundance 2026 Movies Sold: Michal Marczak\u2019s Doc \u2018Closure\u2019 Lands at 1-2 Special",
-        "link": "https://www.indiewire.com/news/festivals/sundance-2026-movies-sold-so-far-1235174095/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018Far From the Trees\u2019 Review: A Richly Contemplative Journey of Physical and Mental Meanderings, Beautifully Combining 4K Digital with Super 16",
-        "link": "https://variety.com/2026/film/reviews/far-from-the-trees-review-1236833672/"
+        "title": "Nicole Kidman Got Warned About Marrying Tom Cruise But Fired Back: \u2018I Don\u2019t Care. I\u2019m in Love\u2026 Of Course I\u2019ll Throw My Career Away\u2019",
+        "link": "https://variety.com/2026/film/news/nicole-kidman-tom-cruise-marriage-ruin-career-1236833719/"
       },
       {
-        "title": "David Letterman to Interview Matt Damon, Julia Roberts and More in \u2018My Next Guest\u2019 Season 7",
-        "link": "https://variety.com/2026/tv/news/david-letterman-interview-matt-damon-my-next-guest-1236833517/"
+        "title": "A Bulldog in Business: How Moving into the Booth Opened Other Doors for Dodger Great Orel Hershiser",
+        "link": "https://variety.com/2026/tv/news/orel-hershiser-bulldog-business-broadcasting-1236833448/"
       },
       {
-        "title": "\u2018How Long Gone\u2019 to Host Inaugural Awards Show \u2018The Goneies\u2019 in New York (EXCLUSIVE)",
-        "link": "https://variety.com/2026/legit/news/how-long-gone-awards-show-1236833524/"
+        "title": "Dodger Great Orel Hershiser on the Devotion to Broadcasting, Baseball and Faith That Led Him to Hollywood Walk of Fame",
+        "link": "https://variety.com/2026/tv/news/orel-hershiser-hollywood-walk-of-fame-baseball-broadcast-1236833444/"
       },
       {
-        "title": "San Sebasti\u00e1n Co-Production Forum: Celina Murga, Mariana Rond\u00f3n, Matias Mariani, Santiago Loza and Christopher Murray Among Selected",
-        "link": "https://variety.com/2026/film/global/san-sebastian-co-production-forum-3-1236833651/"
+        "title": "\u2018Off Campus\u2019 Casts Shay Rudolph as Summer Di Laurentis in Season 2",
+        "link": "https://variety.com/2026/tv/news/off-campus-season-2-summer-di-laurentis-shay-rudolph-1236833849/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018The State of Us\u2019 Directors on Platforming Positive Masculinity and Making a Gut-Wrenching British Indie: \u201cYou Have to Beg, Borrow and Steal\u201d",
-        "link": "https://www.hollywoodreporter.com/movies/movie-features/state-of-us-edinburgh-film-interview-howells-bottomley-uk-1236670057/"
+        "title": "Oscars: Switzerland Picks Gaza Doc \u2018Who is Still Alive\u2019 as Best International Feature Submission",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/switzerland-gaza-doc-2027-oscars-submission-1236672908/"
       },
       {
-        "title": "Matt Damon, Jimmy Kimmel Join David Letterman for \u2018My Next Guest Needs No Introduction\u2019 at Netflix",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/matt-damon-julia-roberts-david-letterman-my-next-guest-1236672478/"
+        "title": "\u2018Spider-Man: Brand New Day\u2019 Becomes Fastest Movie to Hit $700M at Domestic Box Office",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-record-700-million-1236672909/"
       },
       {
-        "title": "Lauryn Hill, Wyclef Jean, Shaboozey, Lenny Kravitz to Headline Global Citizen Festival",
-        "link": "https://www.hollywoodreporter.com/music/music-news/lauryn-hill-wyclef-jean-shaboozey-global-citizen-festival-1236672122/"
+        "title": "Australian Medical Drama \u2018The F Ward\u2019 Sells to 100 Markets for Paramount",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/australian-medical-drama-the-f-ward-paramount-1236671821/"
       },
       {
-        "title": "Oldenburg Festival to Honor Stunt Legend Zo\u00eb Bell",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/oldenburg-festival-honors-kill-bill-stunt-legend-zoe-bell-1236672844/"
+        "title": "Disney and Macy\u2019s Mark 100th Thanksgiving Day Parade With Limited-Edition Product Line (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/disney-macys-100th-thanksgiving-day-parade-collection-buy-1236672771/"
       }
     ],
     "larb": [],
@@ -230,12 +230,12 @@
         "link": "https://psyche.co/videos/talking-to-yourself-isnt-just-normal-it-can-be-beneficial"
       },
       {
-        "title": "The satisfaction of doing work that lasts",
-        "link": "https://psyche.co/notes-to-self/the-deep-satisfaction-of-doing-work-that-lasts"
-      },
-      {
         "title": "Writing letters is a spiritual practice for our age of speed",
         "link": "https://psyche.co/ideas/writing-letters-is-a-spiritual-practice-for-our-age-of-speed"
+      },
+      {
+        "title": "The satisfaction of doing work that lasts",
+        "link": "https://psyche.co/notes-to-self/the-deep-satisfaction-of-doing-work-that-lasts"
       },
       {
         "title": "Two actors, no director, one dreamlike play",
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "The Trouble with Cancer Screening",
+        "link": "https://nautil.us/the-trouble-with-cancer-screening-1283638/"
+      },
+      {
         "title": "An Ice Island as Big as Manhattan Just Broke Off Greenland",
         "link": "https://nautil.us/an-ice-island-as-big-as-manhattan-just-broke-off-greenland-1283725/"
       },
@@ -290,14 +294,14 @@
       {
         "title": "Is Cannabis Good for Your Heart?",
         "link": "https://nautil.us/is-cannabis-good-for-your-heart-1283715/"
-      },
-      {
-        "title": "Is It Better to Have a Lot of Casual Friends or a Few Close Ones?",
-        "link": "https://nautil.us/is-it-better-to-have-a-lot-of-casual-friends-or-a-few-close-ones-1283691/"
       }
     ],
     "worksinprogress": [],
     "noema": [
+      {
+        "title": "The Nature Of Free Will In The Age Of AI",
+        "link": "https://www.noemamag.com/the-nature-of-free-will-in-the-age-of-ai"
+      },
       {
         "title": "The Tantalizing Possibility Of Locating Consciousness In The Brain",
         "link": "https://www.noemamag.com/the-tantalizing-possibility-of-locating-consciousness-in-the-brain"
@@ -309,10 +313,6 @@
       {
         "title": "Why Is Everyone In Tech So Sad?",
         "link": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad"
-      },
-      {
-        "title": "How To Give Everyday People A Say In AI Governance",
-        "link": "https://www.noemamag.com/how-to-give-everyday-people-a-say-in-ai-governance"
       }
     ]
   }
