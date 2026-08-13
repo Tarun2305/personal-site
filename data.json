@@ -1,10 +1,14 @@
 {
-  "last_updated": "2026-08-13 18:53 UTC",
+  "last_updated": "2026-08-13 21:37 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Aerial footage shows derailed train",
-        "link": "https://www.bbc.co.uk/news/videos/cn5np5x00edo?at_medium=RSS&at_campaign=rss"
+        "title": "Two seriously hurt as passenger train derails in East Sussex",
+        "link": "https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Aerial footage shows homes engulfed in flames in Stourbridge",
+        "link": "https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "UK sees hottest day of the year as 38.1C recorded in Kew Gardens",
@@ -13,32 +17,32 @@
       {
         "title": "Five key takeaways from results day 2026",
         "link": "https://www.bbc.co.uk/news/articles/clyqpqxv04go?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Son of 102-year-old says father 'pushed off stage' after complaining about noise",
-        "link": "https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Europe swelters in latest wave of extreme heat",
-        "link": "https://www.aljazeera.com/news/2026/8/13/europe-swelters-in-latest-wave-of-extreme-heat?traffic_source=rss"
+        "title": "Tate supporters rally for brothers ahead of bail hearing in Miami",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/tate-supporters-rally-for-brothers-ahead-of-bail-hearing-in-miami?traffic_source=rss"
       },
       {
-        "title": "Carrick urges Manchester United to sign more transfers to boost title bid",
-        "link": "https://www.aljazeera.com/sports/2026/8/13/carrick-urges-manchester-united-to-sign-more-transfers-to-boost-title-bid?traffic_source=rss"
+        "title": "Israeli strikes in Gaza kill two, including police chief",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss"
       },
       {
-        "title": "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students",
-        "link": "https://www.aljazeera.com/news/2026/8/13/judge-nixes-trump-lawsuit-alleging-harvard-did-not-protect-jewish-students?traffic_source=rss"
+        "title": "Mexico says Colombia rejected its earthquake rescue team",
+        "link": "https://www.aljazeera.com/news/2026/8/13/mexico-says-colombia-rejected-its-earthquake-rescue-team?traffic_source=rss"
       },
       {
-        "title": "Poland arrests man who allegedly tried to kill Ukrainian American",
-        "link": "https://www.aljazeera.com/news/2026/8/13/poland-arrests-man-who-allegedly-tried-to-kill-ukrainian-american?traffic_source=rss"
+        "title": "What\u2019s at stake in Zambia\u2019s elections?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/8/13/whats-at-stake-in-zambias-elections?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "Gay out for duck as Pakistan impress against County Select XI",
+        "link": "https://www.skysports.com/cricket/news/12040/13572739/england-opener-emilio-gay-out-for-duck-as-pakistan-impress-against-county-select-xi-ahead-of-test-series"
+      },
       {
         "title": "McIlroy makes woeful start to FedExCup Playoffs as Spieth shares early lead",
         "link": "https://www.skysports.com/golf/news/12040/13572655/fedexcup-playoffs-rory-mcilroy-makes-woeful-start-at-fedex-st-jude-championship-with-four-over-par-opening-round"
@@ -50,10 +54,6 @@
       {
         "title": "Draper beaten in Cincinnati first round after blowing second-set lead",
         "link": "https://www.skysports.com/tennis/news/12040/13572651/cincinnati-open-jack-draper-beaten-by-martin-landaluce-in-first-round-after-blowing-six-set-point-chances-to-level-match"
-      },
-      {
-        "title": "Doyle: Coppull can strike in the Hungerford",
-        "link": "https://www.skysports.com/racing/news/12040/13572701/hollie-doyle-clive-cox-can-take-out-the-newbury-feature-with-talented-colt-coppull"
       }
     ],
     "pitchfork": [],
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
-        "title": "Will Poulter and Noah Centineo Went to Ohio to Immerse Themselves in the Addiction Recovery System for \u2018Union County\u2019",
-        "link": "https://www.indiewire.com/features/interviews/will-poulter-noah-centineo-sundance-union-county-1235174777/"
+        "title": "HBO Had Just Aired Its True Crime Mystery \u2018The Yogurt Shop Murders\u2019 When DNA Finally Nailed the Killer",
+        "link": "https://www.indiewire.com/awards/consider-this/hbo-true-crime-the-yogurt-shop-murders-killer-ending-1235210345/"
       },
       {
-        "title": "John Carpenter, Colman Domingo, and Charlize Theron to Be Honored at Academy Museum Gala",
-        "link": "https://www.indiewire.com/awards/industry/john-carpenter-charlize-theron-academy-museum-gala-1235210364/"
+        "title": "How \u2018Jimmy Kimmel Live!\u2019 Triumphantly Returned from a Strange Hiatus, Featuring a Save by Robert De Niro",
+        "link": "https://www.indiewire.com/awards/consider-this/jimmy-kimmel-live-returned-hiatus-robert-de-niro-1235210310/"
       },
       {
-        "title": "Rapturous New Trailer for \u2018Ken Russell\u2019s The Devils\u2019 Turns Up the Heat on the Movie Event of the Year",
-        "link": "https://www.indiewire.com/news/trailers/ken-russells-the-devils-restoration-trailer-1235210331/"
+        "title": "How the Enduring \u2018Ang Tanging Ina\u2019 Movie Franchise Molded Filipino Comedy Beyond a Good Laugh",
+        "link": "https://www.indiewire.com/features/commentary/how-ang-tanging-ina-movie-franchise-molded-filipino-comedy-1235209396/"
       },
       {
-        "title": "NYFF Unveils 2026 Currents Lineup, Featuring Boundary-Pushing Cinema from Around the World",
-        "link": "https://www.indiewire.com/news/festivals/nyff-2026-currents-lineup-1235210227/"
+        "title": "Joe Dante\u2019s \u2018Explorers\u2019 Got Lost in the Shadow of \u2018Back to the Future,\u2019 but Deserved Better",
+        "link": "https://www.indiewire.com/features/commentary/joe-dante-explorers-4k-uhd-vinegar-syndrome-1235203631/"
       }
     ],
     "variety": [
       {
-        "title": "Will Smith\u2019s \u2018King Richard\u2019 Co-Star Aunjanue Ellis-Taylor Defends the Oscars Slap: \u2018I Stand By That\u2019 Because the First Amendment Should Not \u2018Protect A\u2014holes\u2019",
-        "link": "https://variety.com/2026/film/news/aunjanue-ellis-taylor-will-smith-oscars-slap-1236834055/"
+        "title": "Warner Bros. Discovery CEO David Zaslav Beneficiary of $21.7 Million Stock Sale as Paramount Merger Is Stuck on Hold",
+        "link": "https://variety.com/2026/tv/news/warner-bros-discovery-david-zaslav-sells-21-7-million-stock-1236834226/"
       },
       {
-        "title": "\u2018La Gradiva,\u2019 Cannes Critics\u2019 Week Winner and French Oscar Hopeful, Sets U.S. Release Date and Reveals New Image (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/awards/la-gradiva-us-release-date-oscars-1236833967/"
+        "title": "Matthew McConaughey Says Acting in \u2018The Wedding Planner\u2019 With Jennifer Lopez Saved Him From Being Searched at U.S.-Mexico Border: \u2018They Let Me Go\u2019",
+        "link": "https://variety.com/2026/film/news/matthew-mcconaughey-wedding-planner-mexico-border-jennifer-lopez-1236833933/"
       },
       {
-        "title": "Nara Smith Signs With CAA (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/news/nara-smith-caa-1236833979/"
+        "title": "Tramell Tillman Says \u2018I Had to Sign NDAs\u2019 Before Even Meeting for \u2018Spider-Man: Brand New Day\u2019 Role: \u2018A Little Frustrating Because Everything Was Shrouded in Secrecy\u2019",
+        "link": "https://variety.com/2026/film/news/tramell-tillman-signed-ndas-spider-man-brand-new-day-role-meeting-1236834204/"
       },
       {
-        "title": "How \u2018All Her Fault\u2019 Helped Put Peacock on the Map in Scripted Awards Conversations",
-        "link": "https://variety.com/2026/tv/awards/all-her-fault-emmy-noms-peacock-scripted-awards-1236833995/"
+        "title": "Matthew McConaughey on Immortality, Shooting With Linklater and Nolan and Teaching His Film Students Not to Fear \u2018Doing Something Sh\u2014y\u2019",
+        "link": "https://variety.com/2026/film/features/matthew-mcconaughey-rivals-of-amziah-king-brothers-1236833422/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u201cWe Don\u2019t See This as Entertainment\u201d: \u2018THR Presents\u2019 Q&A With Octavia Spencer on True Crime Docu-Series \u2018Lost Women of Alaska\u2019",
-        "link": "https://www.hollywoodreporter.com/tv/tv-videos/octavia-spencer-lost-women-of-alaska-emmy-nominee-narrator-1236668252/"
+        "title": "When and Where to Watch \u2018Camp Rock 3\u2019",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/watch-camp-rock-3-release-date-cast-streaming-online-free-1236673128/"
       },
       {
-        "title": "Sally Field Recalls the Roles She Fought for the Hardest",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/sally-field-career-remarkably-bright-creatures-1236672565/"
+        "title": "Matthew McConaughey: \u2018How to Lose a Guy in 10 Days\u2019 Pays \u201cby Far\u201d My Best \u201cMailbox Money\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/matthew-mcconaughey-how-to-lose-a-guy-in-10-days-money-1236673140/"
       },
       {
-        "title": "\u2018House of the Dragon\u2019 Star on Narrowly Cheating Death: \u201cThey Can\u2019t Get Rid of Me That Easily\u201d",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/house-of-the-dragon-season-3-finale-sea-snake-steve-toussaint-1236673062/"
+        "title": "\u2018Ted Lasso\u2019 Season 4 Sets Premiere Day Viewing Record for Apple TV",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/ted-lasso-season-4-premiere-ratings-apple-tv-1236673077/"
       },
       {
-        "title": "What Showrunner Will Smith\u2019s Exit Means for \u2018Slow Horses\u2019 Season 6",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/slow-horses-showrunner-exit-season-six-1236670572/"
+        "title": "CBS News Pushes Into Live Events as \u2018Sunday Morning\u2019 Teams With 92nd Street Y (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/cbs-sunday-morning-teams-92y-live-interview-series-1236672349/"
       }
     ],
     "larb": [],
@@ -230,12 +230,12 @@
         "link": "https://psyche.co/videos/talking-to-yourself-isnt-just-normal-it-can-be-beneficial"
       },
       {
-        "title": "The satisfaction of doing work that lasts",
-        "link": "https://psyche.co/notes-to-self/the-deep-satisfaction-of-doing-work-that-lasts"
-      },
-      {
         "title": "Writing letters is a spiritual practice for our age of speed",
         "link": "https://psyche.co/ideas/writing-letters-is-a-spiritual-practice-for-our-age-of-speed"
+      },
+      {
+        "title": "The satisfaction of doing work that lasts",
+        "link": "https://psyche.co/notes-to-self/the-deep-satisfaction-of-doing-work-that-lasts"
       },
       {
         "title": "Two actors, no director, one dreamlike play",
@@ -280,20 +280,20 @@
     ],
     "nautilus": [
       {
+        "title": "Sprinting vs. Jogging: The Benefit Is in the Blood",
+        "link": "https://nautil.us/sprinting-vs-jogging-the-benefit-is-in-the-blood-1283767/"
+      },
+      {
+        "title": "The Quest to Understand the Forgotten Psychedelic",
+        "link": "https://nautil.us/the-quest-to-understand-the-forgotten-psychedelic-1283763/"
+      },
+      {
         "title": "Watch: Australian Dolphin Filmed Catching Fish with Shells",
         "link": "https://nautil.us/watch-australian-dolphin-filmed-catching-fish-with-shells-1283734/"
       },
       {
         "title": "Awe-Inspiring Images from This Year\u2019s Solar Eclipse",
         "link": "https://nautil.us/awe-inspiring-images-from-this-years-solar-eclipse-1283740/"
-      },
-      {
-        "title": "We May Have Finally Identified the Brain\u2019s Language Network",
-        "link": "https://nautil.us/we-may-have-finally-identified-the-brains-language-network-1283730/"
-      },
-      {
-        "title": "The Trouble with Cancer Screening",
-        "link": "https://nautil.us/the-trouble-with-cancer-screening-1283638/"
       }
     ],
     "worksinprogress": [],
