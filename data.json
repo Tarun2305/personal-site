@@ -1,40 +1,40 @@
 {
-  "last_updated": "2026-08-13 01:19 UTC",
+  "last_updated": "2026-08-13 04:46 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Results day dawns for A-level, T-level and BTec students",
+        "link": "https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
         "link": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "Temperatures to soar to 38C as amber extreme heat warning comes into force",
+        "link": "https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
         "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Students wait for A-level, T-level and BTec results",
-        "link": "https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Burnham urges shops not to sell disposable BBQs over wildfire risks",
-        "link": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Half a tonne of Erling Haaland branded cocaine seized in Ecuador",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_erling-haaland-branded-cocaine-seized-in-ecuador-120826?traffic_source=rss"
+        "title": "Israeli settlers besiege Palestinian families in West Bank\u2019s Qusra",
+        "link": "https://www.aljazeera.com/news/2026/8/13/israeli-settlers-besiege-three-palestinian-families-in-occupied-west-bank?traffic_source=rss"
       },
       {
-        "title": "Iran war live: US, Tehran exchange opposing claims over Hormuz control",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control?traffic_source=rss"
+        "title": "Solar eclipse carves Eiffel Tower\u2019s silhouette in Paris sky",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/solar-eclipse-carves-eiffel-towers-silhouette-in-paris-sky?traffic_source=rss"
       },
       {
-        "title": "Trump administration arrests Southern Poverty Law Center expert for fraud",
-        "link": "https://www.aljazeera.com/news/2026/8/12/trump-administration-arrests-southern-poverty-law-center-expert-for-fraud?traffic_source=rss"
+        "title": "Olympic skateboarder times epic stunt with solar eclipse",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_skateboarder-times-epic-stunt-with-solar-eclipse-120826?traffic_source=rss"
       },
       {
-        "title": "Media groups sue Trump over paid access to public social media posts",
-        "link": "https://www.aljazeera.com/economy/2026/8/12/media-groups-sue-trump-over-paid-access-to-public-social-media-posts?traffic_source=rss"
+        "title": "Zimbabwe\u2019s land reform enters a new chapter",
+        "link": "https://www.aljazeera.com/news/2026/8/13/zimbabwes-land-reform-enters-a-new-chapter?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -133,7 +133,24 @@
       }
     ],
     "reverseshot": [],
-    "sensesofcinema": [],
+    "sensesofcinema": [
+      {
+        "title": "Filmmaking at the end of the world: The Quiet Earth",
+        "link": "https://www.sensesofcinema.com/2026/cteq/filmmaking-at-the-end-of-the-world-the-quiet-earth/"
+      },
+      {
+        "title": "Crimes Against Reality: Speculation and the New Red Order",
+        "link": "https://www.sensesofcinema.com/2026/feature-articles/crimes-against-reality-speculation-and-the-new-red-order/"
+      },
+      {
+        "title": "Consent Puzzles in the Oslo Stories Trilogy by Dag Johan Haugerud",
+        "link": "https://www.sensesofcinema.com/2026/feature-articles/consent-puzzles-in-the-oslo-stories-trilogy-by-dag-johan-haugerud/"
+      },
+      {
+        "title": "An Interview with Giulio Bertelli",
+        "link": "https://www.sensesofcinema.com/2026/interviews/an-interview-with-giulio-bertelli/"
+      }
+    ],
     "indiewire": [
       {
         "title": "The TV Academy Hall of Fame Is Not Worried About Whether or Not You Have Too Many Emmys",
@@ -154,23 +171,31 @@
     ],
     "variety": [
       {
-        "title": "DGA and IATSE Push Rob Bonta to Allow Paramount-Warner Bros. Merger With Conditions",
-        "link": "https://variety.com/2026/film/news/dga-iatse-rob-bonta-paramount-settle-warner-bros-merger-1236833456/"
+        "title": "Ritchie Blackmore Performs With Deep Purple for First Time Since Acrimonious Split in Early \u201990s, After Warning Fans: \u2018I Have Not Played Rock Music in 25 Years\u2019",
+        "link": "https://variety.com/2026/music/news/ritchie-blackmore-deep-purple-performs-smoke-on-the-water-1236833509/"
       },
       {
-        "title": "\u2018Reacher\u2019 Season 4 Cast Guide: Who\u2019s Who in the Prime Video Action Series",
-        "link": "https://variety.com/lists/reacher-season-4-cast-characters/"
+        "title": "Andreas Dresen, Doris D\u00f6rrie Films to World Premiere  at Zurich Film Festival",
+        "link": "https://variety.com/2026/film/global/andreas-dresen-doris-dorrie-zurich-film-festival-1236833312/"
       },
       {
-        "title": "As \u2018The Comeback\u2019 and \u2018Hacks\u2019 End, Valerie Cherish and Deborah Vance Are Emmy Competitors for the First and Last Time",
-        "link": "https://variety.com/2026/tv/awards/deborah-vance-valerie-cherish-emmy-battle-hacks-comeback-1236833429/"
+        "title": "Indian Freedom Fighter Bhagat Singh Series in Development at Collective Studios\u2019 Historyverse (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/news/bhagat-singh-series-collective-studios-historyverse-1236833000/"
       },
       {
-        "title": "Phylicia Rashad on Her Historic Career and the Current State of TV: \u2018If There\u2019s Something on That I Don\u2019t Like, I Simply Don\u2019t Watch It\u2019",
-        "link": "https://variety.com/2026/scene/news/phylicia-rashad-on-legacy-and-humanity-1236831743/"
+        "title": "Hollywood\u2019s Top-Grossing Films of 2025 Show Limited Progress Toward Inclusion, Study Says: \u2018The Pace of Change Has Been Slow\u2019",
+        "link": "https://variety.com/2026/film/news/hollywood-diversity-study-annenberg-inclusion-initiative-1236833079/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "Zurich Film Fest Galas Set for Award Contenders \u2018I Play Rocky,\u2019 \u2018Possible Love,\u2019 \u2018Josephine\u2019",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/zurich-film-festival-2026-galas-lineup-1236672047/"
+      },
+      {
+        "title": "\u2018The Matrix\u2019 Director Lilly Wachowski Says Hollywood Won\u2019t Finance New Film With Trans Cast",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/matrix-lilly-wachowski-hollywood-wont-finance-film-trans-cast-1236672782/"
+      },
       {
         "title": "Where to Watch 2026 FedEx St. Jude Championship Online",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/watch-fedex-st-jude-championship-2026-golf-live-stream-free-1236672494/"
@@ -178,14 +203,6 @@
       {
         "title": "\u2018The Traitors: New Blood\u2019 Season 1 Cast: Meet the 22 Civilian Contestants",
         "link": "https://www.hollywoodreporter.com/lists/the-traitors-new-blood-season-1-full-cast/"
-      },
-      {
-        "title": "\u2018End of Oak Street\u2019 Box Office Aims to Take Bite Out of \u2018Spider-Man: Brand New Day\u2019",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/end-of-oak-street-box-office-spider-man-brand-new-day-paw-1236672604/"
-      },
-      {
-        "title": "California Pressured By Two Hollywood Unions to Settle Paramount-Warner Bros. Lawsuit",
-        "link": "https://www.hollywoodreporter.com/business/business-news/hollywood-unions-settlement-paramount-wbd-antitrust-fight-1236672718/"
       }
     ],
     "larb": [],
