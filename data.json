@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-08-12 21:38 UTC",
+  "last_updated": "2026-08-13 01:19 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Watch: Solar eclipse seen over UK skies",
-        "link": "https://www.bbc.co.uk/news/videos/cwym2w32rn0o?at_medium=RSS&at_campaign=rss"
+        "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
+        "link": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
         "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Double killer and rapist given whole life sentence",
-        "link": "https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss"
+        "title": "Students wait for A-level, T-level and BTec results",
+        "link": "https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Burnham urges shops not to sell disposable BBQs over wildfire risks",
@@ -21,39 +21,39 @@
     ],
     "aljazeera": [
       {
-        "title": "Thousands missing after Colombia quake as rescue continues",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-missing-after-colombia-quake-as-rescue-continues?traffic_source=rss"
+        "title": "Half a tonne of Erling Haaland branded cocaine seized in Ecuador",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_erling-haaland-branded-cocaine-seized-in-ecuador-120826?traffic_source=rss"
       },
       {
-        "title": "Morocco says working to prevent potential new Ceuta crossings surge",
-        "link": "https://www.aljazeera.com/news/2026/8/12/morocco-says-working-to-prevent-potential-new-ceuta-crossings-surge?traffic_source=rss"
+        "title": "Iran war live: US, Tehran exchange opposing claims over Hormuz control",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control?traffic_source=rss"
       },
       {
-        "title": "11-year-old boy shot by Israeli forces in Gaza",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss"
+        "title": "Trump administration arrests Southern Poverty Law Center expert for fraud",
+        "link": "https://www.aljazeera.com/news/2026/8/12/trump-administration-arrests-southern-poverty-law-center-expert-for-fraud?traffic_source=rss"
       },
       {
-        "title": "Drone attacks on energy infrastructure deepen Libya\u2019s energy crisis",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss"
+        "title": "Media groups sue Trump over paid access to public social media posts",
+        "link": "https://www.aljazeera.com/economy/2026/8/12/media-groups-sue-trump-over-paid-access-to-public-social-media-posts?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Papers: Arsenal hold further talks over Villa's Konsa",
+        "link": "https://www.skysports.com/football/news/12040/13572412/arsenal-transfer-news-gunners-hold-further-talks-over-aston-villa-defender-ezri-konsa-paper-talk"
+      },
+      {
         "title": "MI London's Hundred title defence over despite narrow win over Phoenix",
         "link": "https://www.skysports.com/cricket/news/12040/13572322/the-hundred-mi-londons-title-defence-and-hopes-of-fourth-in-a-row-over-despite-narrow-win-over-birmingham-phoenix"
       },
       {
-        "title": "Rashford does not feature in Leeds friendly win but still part of Man Utd plans",
+        "title": "Rashford absent in Leeds friendly win but still part of Man Utd plans",
         "link": "https://www.skysports.com/football/manchester-united-vs-leeds-united/report/555721"
       },
       {
         "title": "Guimaraes makes bow and Lewis-Skelly scores as Arsenal held by Como",
         "link": "https://www.skysports.com/football/arsenal-vs-como/report/562442"
-      },
-      {
-        "title": "Chelsea set Man City deadline to bid for Fernandez",
-        "link": "https://www.skysports.com/football/news/12040/13572395/enzo-fernandez-transfer-news-chelsea-set-man-city-deadline-to-bid-for-midfielder"
       }
     ],
     "pitchfork": [],
@@ -133,25 +133,12 @@
       }
     ],
     "reverseshot": [],
-    "sensesofcinema": [
-      {
-        "title": "Filmmaking at the end of the world: The Quiet Earth",
-        "link": "https://www.sensesofcinema.com/2026/cteq/filmmaking-at-the-end-of-the-world-the-quiet-earth/"
-      },
-      {
-        "title": "Crimes Against Reality: Speculation and the New Red Order",
-        "link": "https://www.sensesofcinema.com/2026/feature-articles/crimes-against-reality-speculation-and-the-new-red-order/"
-      },
-      {
-        "title": "Consent Puzzles in the Oslo Stories Trilogy by Dag Johan Haugerud",
-        "link": "https://www.sensesofcinema.com/2026/feature-articles/consent-puzzles-in-the-oslo-stories-trilogy-by-dag-johan-haugerud/"
-      },
-      {
-        "title": "An Interview with Giulio Bertelli",
-        "link": "https://www.sensesofcinema.com/2026/interviews/an-interview-with-giulio-bertelli/"
-      }
-    ],
+    "sensesofcinema": [],
     "indiewire": [
+      {
+        "title": "The TV Academy Hall of Fame Is Not Worried About Whether or Not You Have Too Many Emmys",
+        "link": "https://www.indiewire.com/awards/consider-this/tv-academy-hall-of-fame-2026-legacy-award-1235210282/"
+      },
       {
         "title": "Cinematographer Michael Bauman Looked to His Own Roots for \u2018Monster: The Ed Gein Story\u2019",
         "link": "https://www.indiewire.com/features/craft/michael-bauman-cinematography-ed-gein-story-ryan-murphy-1235208535/"
@@ -163,46 +150,42 @@
       {
         "title": "Sundance 2026 Movies Sold: Michal Marczak\u2019s Doc \u2018Closure\u2019 Lands at 1-2 Special",
         "link": "https://www.indiewire.com/news/festivals/sundance-2026-movies-sold-so-far-1235174095/"
-      },
-      {
-        "title": "Anders Danielsen Lie Revisits the Making of \u2018Oslo, August 31st\u2019",
-        "link": "https://www.indiewire.com/features/interviews/anders-danielsen-lie-interview-making-oslo-august-31st-1235209755/"
       }
     ],
     "variety": [
       {
-        "title": "Bob Chapek, Who Was Ousted as Disney\u2019s CEO, Pens Memoir in Which He Wonders if He Became \u2018The Scapegoat\u2019",
-        "link": "https://variety.com/2026/film/news/bob-chapek-ousted-disney-ceo-memoir-behind-the-castle-walls-1236833366/"
+        "title": "DGA and IATSE Push Rob Bonta to Allow Paramount-Warner Bros. Merger With Conditions",
+        "link": "https://variety.com/2026/film/news/dga-iatse-rob-bonta-paramount-settle-warner-bros-merger-1236833456/"
       },
       {
-        "title": "\u2018The Lincoln Lawyer\u2019 Spinoff Starring Cobie Smulders in the Works at Netflix",
-        "link": "https://variety.com/2026/tv/news/lincoln-lawyer-spinoff-starring-cobie-smulders-netflix-1236833363/"
+        "title": "\u2018Reacher\u2019 Season 4 Cast Guide: Who\u2019s Who in the Prime Video Action Series",
+        "link": "https://variety.com/lists/reacher-season-4-cast-characters/"
       },
       {
-        "title": "Walt Disney Studios Promotes Melissa Stone to Publicity Chief",
-        "link": "https://variety.com/2026/film/news/disney-studio-publicity-melissa-stone-1236833281/"
+        "title": "As \u2018The Comeback\u2019 and \u2018Hacks\u2019 End, Valerie Cherish and Deborah Vance Are Emmy Competitors for the First and Last Time",
+        "link": "https://variety.com/2026/tv/awards/deborah-vance-valerie-cherish-emmy-battle-hacks-comeback-1236833429/"
       },
       {
-        "title": "Charlie Hunnam on His Physical and Vocal Transformation to Play Ed Gein in \u2018Monster\u2019",
-        "link": "https://variety.com/2026/tv/features/charlie-hunnam-transformation-ed-gein-monster-1236833243/"
+        "title": "Phylicia Rashad on Her Historic Career and the Current State of TV: \u2018If There\u2019s Something on That I Don\u2019t Like, I Simply Don\u2019t Watch It\u2019",
+        "link": "https://variety.com/2026/scene/news/phylicia-rashad-on-legacy-and-humanity-1236831743/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Melissa Stone Named Senior VP of Publicity for Walt Disney Studios",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/melissa-stone-named-senior-vp-of-publicity-for-walt-disney-1236672424/"
+        "title": "Where to Watch 2026 FedEx St. Jude Championship Online",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/watch-fedex-st-jude-championship-2026-golf-live-stream-free-1236672494/"
       },
       {
-        "title": "Inside \u2018House of the Dragon\u2019 Season 3\u2019s Best Storyline: \u201cIt\u2019s a Bit Like a Boxing Ring\u201d",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/house-of-the-dragon-season-3-tumbleton-changes-finale-1236672400/"
+        "title": "\u2018The Traitors: New Blood\u2019 Season 1 Cast: Meet the 22 Civilian Contestants",
+        "link": "https://www.hollywoodreporter.com/lists/the-traitors-new-blood-season-1-full-cast/"
       },
       {
-        "title": "A Man Secured a Lost Billy Joel Interview. Then He Re-Created the Singer in AI. (Exclusive)",
-        "link": "https://www.hollywoodreporter.com/music/music-news/billy-joel-ai-documentary-watch-1236672250/"
+        "title": "\u2018End of Oak Street\u2019 Box Office Aims to Take Bite Out of \u2018Spider-Man: Brand New Day\u2019",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/end-of-oak-street-box-office-spider-man-brand-new-day-paw-1236672604/"
       },
       {
-        "title": "White House Press Secretary Karoline Leavitt to Step Down, Trump Reveals",
-        "link": "https://www.hollywoodreporter.com/news/politics-news/trumps-karoline-leavitt-white-house-press-secretary-exit-1236672387/"
+        "title": "California Pressured By Two Hollywood Unions to Settle Paramount-Warner Bros. Lawsuit",
+        "link": "https://www.hollywoodreporter.com/business/business-news/hollywood-unions-settlement-paramount-wbd-antitrust-fight-1236672718/"
       }
     ],
     "larb": [],
@@ -280,6 +263,10 @@
     ],
     "nautilus": [
       {
+        "title": "Extraordinary Experiences Are More Common Than You Think",
+        "link": "https://nautil.us/extraordinary-experiences-are-more-common-than-you-think-1283718/"
+      },
+      {
         "title": "Is Cannabis Good for Your Heart?",
         "link": "https://nautil.us/is-cannabis-good-for-your-heart-1283715/"
       },
@@ -290,10 +277,6 @@
       {
         "title": "First Ever \u201cBlack Hole Star\u201d Discovered at the Dawn of Time",
         "link": "https://nautil.us/first-ever-black-hole-star-discovered-at-the-dawn-of-time-1283700/"
-      },
-      {
-        "title": "Loner Kids May Be Happier Than You Think",
-        "link": "https://nautil.us/loner-kids-may-be-happier-than-you-think-1283688/"
       }
     ],
     "worksinprogress": [],
