@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13 07:16 UTC",
+  "last_updated": "2026-08-13 09:56 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,12 +7,12 @@
         "link": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Watch: Moment 'surreal' solar eclipse seen in UK and Europe",
+        "title": "Watch: Moment 'surreal' solar eclipse witnessed in UK and Europe",
         "link": "https://www.bbc.co.uk/news/videos/c5yr891pp5eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Temperatures to soar to 38C as amber extreme heat warning comes into force",
-        "link": "https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss"
+        "title": "UK economy grows between April and June but experts warn of challenges in coming months",
+        "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
@@ -21,39 +21,39 @@
     ],
     "aljazeera": [
       {
-        "title": "The US is now using the \u2018terrorist\u2019 label to interfere in Brazil\u2019s election",
-        "link": "https://www.aljazeera.com/opinions/2026/8/13/the-us-is-now-using-the-terrorist-label-to-interfere-in-brazils-election?traffic_source=rss"
+        "title": "FIFA\u2019s Infantino backed by six Arab federations including Qatar and Morocco",
+        "link": "https://www.aljazeera.com/sports/2026/8/13/fifas-infantino-backed-by-six-arab-federations-including-qatar-and-morocco?traffic_source=rss"
       },
       {
-        "title": "Will the Houthis shut down Saudi Arabian shipping?",
-        "link": "https://www.aljazeera.com/video/project-force-2/2026/8/13/will-the-houthis-shut-down-saudi-arabian-shipping?traffic_source=rss"
+        "title": "Pro-Palestine activists smear red paint on Danish defence company",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/pro-palestine-activists-smear-red-paint-on-danish-defence-company?traffic_source=rss"
       },
       {
-        "title": "Polls open in Zambia presidential election as economic reforms tested",
-        "link": "https://www.aljazeera.com/news/2026/8/13/polls-open-in-zambia-presidential-election-as-economic-reforms?traffic_source=rss"
+        "title": "Bangladesh humble Australia with worst total in contest as Hasan takes 6-55",
+        "link": "https://www.aljazeera.com/sports/2026/8/13/bangladesh-stun-australia-with-worst-total-in-contest-as-hasan-takes-6-55?traffic_source=rss"
       },
       {
-        "title": "Nearly 4 million Afghan children \u2018acutely malnourished\u2019",
-        "link": "https://www.aljazeera.com/news/2026/8/13/how-clinic-closures-left-3-7-million-afghan-children-acutely-malnourished?traffic_source=rss"
+        "title": "Photos: Hope fades in Colombia as teams dig for earthquake survivors",
+        "link": "https://www.aljazeera.com/gallery/2026/8/13/photos-hope-fades-in-colombia-as-teams-dig-for-earthquake-survivors?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Leeds Rhinos sign Lodge from NRL's Cowboys",
+        "link": "https://www.skysports.com/rugby-league/live-blog/12040/13303427/rugby-league-news-transfers-and-rumours-super-league-latest-and-highlights"
+      },
+      {
         "title": "Gold medallist Thomas chases 'own legacy' after AJ comparisons",
         "link": "https://www.skysports.com/boxing/news/12040/13572325/damar-thomas-unfazed-by-anthony-joshua-comparisons-as-commonwealth-games-gold-medallist-chases-own-legacy-ahead-of-la-olympics"
       },
       {
+        "title": "'Where has this tennis been?' | Swiatek beats Svitolina to reach first final of 2026",
+        "link": "https://www.skysports.com/watch/video/13572456/iga-swiatek-vs-elina-svitolina-canadian-open-highlights"
+      },
+      {
         "title": "Jodar's bid for history halted in Nakashima defeat as Rybakina beats Gauff",
         "link": "https://www.skysports.com/tennis/news/12040/13572450/canadian-open-rafael-jodar-bid-for-atp-rankings-history-put-on-hold-while-elena-rybakina-beats-coco-gauff-in-semi-finals"
-      },
-      {
-        "title": "Today on Sky Sports Racing: Windsor and Lingfield feature on Thursday",
-        "link": "https://www.skysports.com/racing/news/12040/13571992/today-on-sky-sports-racing-windsor-and-lingfield-feature-live-on-thursday"
-      },
-      {
-        "title": "Where would Antonelli rank among surprise F1 title winners?",
-        "link": "https://www.skysports.com/f1/news/12040/13571878/kimi-antonelli-where-would-mercedes-driver-rank-among-surprise-f1-title-winners-in-recent-history"
       }
     ],
     "pitchfork": [],
@@ -116,6 +116,10 @@
     ],
     "mubi": [
       {
+        "title": "\u201cHe Would Leave Me Totally Free\u201d: Isabelle Huppert on Claude Chabrol ",
+        "link": "https://mubi.com/en/notebook/posts/he-would-leave-me-totally-free-isabelle-huppert-on-claude-chabrol"
+      },
+      {
         "title": "Rushes | TIFF Reveals Full Lineup, Vimeo To End VOD Service, R.I.P. Grace \u201cMambo Girl\u201d Chang",
         "link": "https://mubi.com/en/notebook/posts/rushes-tiff-reveals-full-lineup-vimeo-to-end-vod-service-r-i-p-grace-mambo-girl-chang"
       },
@@ -126,10 +130,6 @@
       {
         "title": "This Dystopian Future: A Conversation with Tsai Ming-liang",
         "link": "https://mubi.com/en/notebook/posts/this-dystopian-future-a-conversation-with-tsai-ming-liang"
-      },
-      {
-        "title": "Turbulent Waters: The Cinema of Jean Epstein",
-        "link": "https://mubi.com/en/notebook/posts/turbulent-waters-the-cinema-of-jean-epstein"
       }
     ],
     "reverseshot": [],
@@ -171,23 +171,27 @@
     ],
     "variety": [
       {
-        "title": "\u2018Far From the Trees\u2019 Director Meritxell Colell on Turning Exile and Endangered Languages Into a \u2018Body of Memory\u2019",
-        "link": "https://variety.com/2026/global/global/far-from-the-trees-director-meritxell-colell-1236827380/"
+        "title": "\u2018Stranger Things\u2019 Star Noah Schnapp to Make Stage Debut in London (EXCLUSIVE)",
+        "link": "https://variety.com/2026/theater/global/noah-schnapp-stage-debut-in-london-affluenza-1236833391/"
       },
       {
-        "title": "Ritchie Blackmore Performs With Deep Purple for First Time Since Acrimonious Split in Early \u201990s, After Warning Fans: \u2018I Have Not Played Rock Music in 25 Years\u2019",
-        "link": "https://variety.com/2026/music/news/ritchie-blackmore-deep-purple-performs-smoke-on-the-water-1236833509/"
+        "title": "\u2018Drishyam\u2019 Producer Panorama Studios Invests in Indian Vertical Streaming Platform Rocket Reels (EXCLUSIVE)",
+        "link": "https://variety.com/2026/tv/news/drishyam-producer-panorama-studios-invests-rocket-reels-1236833577/"
       },
       {
-        "title": "Andreas Dresen, Doris D\u00f6rrie Films to World Premiere  at Zurich Film Festival",
-        "link": "https://variety.com/2026/film/global/andreas-dresen-doris-dorrie-zurich-film-festival-1236833312/"
+        "title": "BTS\u2019 V Reveals Right-Ear Hearing Loss Amid World Tour",
+        "link": "https://variety.com/2026/music/news/bts-v-hearing-loss-1236833589/"
       },
       {
-        "title": "Indian Freedom Fighter Bhagat Singh Series in Development at Collective Studios\u2019 Historyverse (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/news/bhagat-singh-series-collective-studios-historyverse-1236833000/"
+        "title": "Haugesund New Nordic Films Reveals Standout 36 Nordic Projects and 15 Fresh Pics Set to Woo 300 Industry Attendees",
+        "link": "https://variety.com/2026/film/global/haugesund-new-nordic-films-program-2-1236833549/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "Asia Argento Discusses Playing \u201ca Racist,\u201d Locarno Honor and Exec-Producing a Gia Carangi Doc",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/asia-argento-locarno-award-playing-racist-gia-carangi-doc-1236654775/"
+      },
       {
         "title": "Zurich Film Fest Galas Set for Award Contenders \u2018I Play Rocky,\u2019 \u2018Possible Love,\u2019 \u2018Josephine\u2019",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/zurich-film-festival-2026-galas-lineup-1236672047/"
@@ -199,10 +203,6 @@
       {
         "title": "Where to Watch 2026 FedEx St. Jude Championship Online",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/watch-fedex-st-jude-championship-2026-golf-live-stream-free-1236672494/"
-      },
-      {
-        "title": "\u2018The Traitors: New Blood\u2019 Season 1 Cast: Meet the 22 Civilian Contestants",
-        "link": "https://www.hollywoodreporter.com/lists/the-traitors-new-blood-season-1-full-cast/"
       }
     ],
     "larb": [],
