@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-08-14 18:43 UTC",
+  "last_updated": "2026-08-14 21:18 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+        "link": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Fires prompt national alert as 19 homes destroyed",
+        "link": "https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
         "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?",
-        "link": "https://www.bbc.co.uk/news/articles/cvgvjnyz8k7o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-        "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
-        "link": "https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss"
+        "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+        "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Luigi Mangione pleads guilty in UnitedHealthcare CEO\u2019s killing",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/luigi-mangione-pleads-guilty-in-unitedhealthcare-ceos-killing?traffic_source=rss"
+        "title": "Mount Etna eruption and volcanic ash shut Sicily\u2019s busiest airport",
+        "link": "https://www.aljazeera.com/news/2026/8/14/mount-etna-eruption-and-volcanic-ash-shut-sicilys-busiest-airport?traffic_source=rss"
       },
       {
-        "title": "British cyclist Finlay Tarling dies in Tour of Portugal crash aged 19",
-        "link": "https://www.aljazeera.com/sports/2026/8/14/british-cyclist-finlay-tarling-dies-in-tour-of-portugal-crash-aged-19?traffic_source=rss"
+        "title": "Former Cambridge professor accused of plagiarism found dead",
+        "link": "https://www.aljazeera.com/news/2026/8/14/former-cambridge-professor-accused-of-plagiarism-found-dead?traffic_source=rss"
       },
       {
-        "title": "Liverpool to sell minority stake to consortium including Jeff Bezos",
-        "link": "https://www.aljazeera.com/sports/2026/8/14/liverpool-to-sell-minority-stake-to-consortium-including-jeff-bezos?traffic_source=rss"
+        "title": "Son of Mexico\u2019s former president AMLO alleges US revoked his visa",
+        "link": "https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss"
       },
       {
-        "title": "Analysis: Israel\u2019s government can\u2019t disown West Bank settler violence",
-        "link": "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss"
+        "title": "New aerial video reveals huge scale of oil spill off Oman",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "FREE STREAM: The Transfer Show on Sky Sports News",
-        "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours"
+        "title": "Jimenez salvages point for Wolves on Molineux return",
+        "link": "https://www.skysports.com/football/wolverhampton-wanderers-vs-blackburn-rovers/report/560498"
       },
       {
-        "title": "Liverpool takeover Q&A: What do we know about Bezos' consortium?",
-        "link": "https://www.skysports.com/football/news/12040/13566630/liverpool-key-questions-answered-as-jeff-bezos-and-amit-bhatia-close-in-on-purchasing-strategic-minority-stake"
+        "title": "Werro holds off Hodgkinson to claim 800m gold as Brit settles for silver",
+        "link": "https://www.skysports.com/live-blog/12040/13571552/european-athletics-championships-2026-updates-from-birmingham-as-keely-hodgkinson-dina-asher-smith-katarina-johnson-thompson-compete"
       },
       {
-        "title": "Glave: From 2022 in a back brace to European champion - 'Delayed but not denied'",
-        "link": "https://www.skysports.com/athletics/news/12040/13572675/britains-romell-glave-from-being-in-a-back-brace-to-european-100m-champion-delayed-but-not-denied"
+        "title": "LATE DRAMA! Wolves hero Jimenez levels game after controversial penalty call",
+        "link": "https://www.skysports.com/watch/video/13573172/wolves-vs-blackburn-late-drama-raul-jimenez-levels-game-after-dramatic-penalty-call"
       },
       {
-        "title": "Stokes' Durham progress with Flintoff unable to repeat hundred heroics",
-        "link": "https://www.skysports.com/cricket/news/12040/13572961/ben-stokes-durham-reach-one-day-cup-semi-finals-with-rocky-flintoff-unable-to-repeat-hundred-heroics-for-lancashire"
+        "title": "Super Giants storm into Hundred men's final by beating SunRisers",
+        "link": "https://www.skysports.com/cricket/news/12040/13573109/the-hundred-manchester-super-giants-into-mens-final-with-eliminator-win-over-sunrisers-leeds-as-josh-tongue-and-paul-walter-star"
       }
     ],
     "pitchfork": [],
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
-        "title": "TIFF CEO Cameron Bailey Teases Toronto 2026 and How the New Market Will Stand Out from the Crowd",
-        "link": "https://www.indiewire.com/features/podcast/screen-talk-podcast-tiff-ceo-cameron-bailey-toronto-2026-1235210516/"
+        "title": "As Superhero Movies Get Blander, Animated Comic Book Adaptations Have Gotten More Interesting\u00a0",
+        "link": "https://www.indiewire.com/features/commentary/superhero-animated-series-better-than-movies-1235209517/"
       },
       {
-        "title": "Why the Podracing Sequence in \u2018The Phantom Menace\u2019 Epitomizes the Very Best of What Prequels Can Be",
-        "link": "https://www.indiewire.com/features/general/phantom-menace-podracing-best-prequels-sequence-1235210477/"
+        "title": "About That \u2018Super Bowl Moment\u2019 in the Middle of \u2018Teenage Sex and Death at Camp Miasma\u2019",
+        "link": "https://www.indiewire.com/features/craft/jane-schoenbrun-teenage-sex-and-death-at-camp-miasma-1235210237/"
       },
       {
-        "title": "Are the DGA and IATSE\u2019s Conditions for a Paramount Settlement Realistic? We Weigh All 9",
-        "link": "https://www.indiewire.com/news/business/dga-iatse-conditions-paramount-settlement-realistic-1235210398/"
+        "title": "\u2018Abbott Elementary\u2019 Is Always in the Right Ballpark \u2014 Literally So, for One Very Special Episode",
+        "link": "https://www.indiewire.com/features/interviews/abbott-elementary-director-randall-einhorn-phillies-game-1235210238/"
       },
       {
-        "title": "\u2018American Doctor\u2019 Review: Three Doctors Travel to Gaza in a Bracing and Essential Documentary About Treating the Despair of an Ongoing Genocide",
-        "link": "https://www.indiewire.com/criticism/movies/american-doctor-documentary-review-gaza-1235210500/"
+        "title": "Film Independent Scores Its Biggest Grant Ever \u2014 Exclusive",
+        "link": "https://www.indiewire.com/news/breaking-news/film-independent-biggest-grant-history-juan-devis-1235210522/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018Pretty Babies\u2019 Director Tyler-Marie Evans on Sex Work, Female Friendship and Finding Humanity Beyond Stereotypes",
-        "link": "https://variety.com/2026/film/global/pretty-babies-director-tyler-marie-evans-1236833628/"
+        "title": "\u2018Top Chef\u2019 Host Kristen Kish on How Her Fellow Judges and People Around Her \u2018Helped Me Get to a Place Where I Felt Like My Best Self\u2019",
+        "link": "https://variety.com/2026/tv/awards/top-chef-host-kristen-kish-podcast-interview-1236834230/"
       },
       {
-        "title": "DIRECTV Drops Price of Sports Genre Pack to Under $50 for First Month Just in Time for Fall Football Season",
-        "link": "https://variety.com/2026/shopping/news/directv-mysports-genre-pack-deal-pricing-channel-details-1236834741/"
+        "title": "\u2018Hacks\u2019 Star Lauren Weedman on Appearing Four Emmy-Nominated Comedies This Year and How Bell\u2019s Palsy Changed Her Career",
+        "link": "https://variety.com/2026/awards/news/hacks-lauren-weedman-bells-palsy-1236834102/"
       },
       {
-        "title": "Kate O\u2019Flynn on Her \u2018Widow\u2019s Bay\u2019 Breakout, Mike Leigh\u2019s Final Film and Her Emmy Nomination: \u2018I Felt Like an Ostrich\u2019",
-        "link": "https://variety.com/2026/tv/awards/kate-oflynn-widows-bay-emmys-mike-leigh-1236828796/"
+        "title": "Warner Bros. Discovery CEO David Zaslav Beneficiary of $27.1 Million in Stock Sales as Paramount Merger Is Stuck on Hold",
+        "link": "https://variety.com/2026/tv/news/warner-bros-discovery-david-zaslav-sells-27-million-stock-1236834226/"
       },
       {
-        "title": "California Bill to Subsidize Post-Production Advances as Commercials Bill Dies",
-        "link": "https://variety.com/2026/film/news/california-bill-post-production-commercials-1236834698/"
+        "title": "\u2018The Radio Doesn\u2019t Play Songs for Me Anymore\u2019: Tailgaters at the Foo Fighters\u2019 Stadium Tour Mourn the Dimming Light of Rock Music",
+        "link": "https://variety.com/2026/music/features/foo-fighters-tailgating-fans-debate-rock-music-concert-1236834649/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Josh Hartnett Jumps to CAA (Exclusive)",
-        "link": "https://www.hollywoodreporter.com/business/business-news/josh-hartnett-jumps-to-caa-exclusive-1236673767/"
+        "title": "\u2018Deli Boys\u2019 Canceled After Two Seasons on Hulu",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/deli-boys-canceled-hulu-2-seasons-1236673950/"
       },
       {
-        "title": "\u2018Your Friends and Neighbors\u2019 Showrunner Is Surprised Jon Hamm Didn\u2019t Get an Emmy Nod: \u201cA Performance That Should\u2019ve Been Recognized\u201d",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/your-friends-neighbors-showrunner-jon-hamm-emmy-snub-1236670573/"
+        "title": "Paramount Says It Has Secured All Global Clearances  to Close WBD Deal \u2026 Except for That Pesky Lawsuit",
+        "link": "https://www.hollywoodreporter.com/business/business-news/paramount-secures-global-clearances-wbd-deal-except-lawsuit-1236673941/"
       },
       {
-        "title": "Mark Rydell, Oscar-Nominated Director of \u2018On Golden Pond,\u2019 Dies at 97",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/mark-rydell-dead-golden-pond-cinderella-liberty-the-rose-1236673846/"
+        "title": "\u2018Stuart Fails to Save the Universe\u2019 Renewed for Second Season at HBO Max",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/stuart-fails-to-save-the-universe-renewed-season-2-hbo-max-1236673911/"
       },
       {
-        "title": "The War on Literature Depicted in \u2019The Librarians\u2019 Is Still Being Waged",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/the-librarians-war-literature-1236670583/"
+        "title": "How Oscar Isaac and Carey Mulligan Brought Their Own Backstories to the Lindsay-Josh Fight in \u2018Beef\u2019 Season 2",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/lee-sung-jin-beef-season-two-emmys-1236672641/"
       }
     ],
     "larb": [],
@@ -280,20 +280,20 @@
     ],
     "nautilus": [
       {
+        "title": "The Real \u201cMummy\u2019s Curse\u201d Lurks Online",
+        "link": "https://nautil.us/the-real-mummys-curse-lurks-online-1283802/"
+      },
+      {
+        "title": "Where Human Sleep Went Wrong",
+        "link": "https://nautil.us/where-human-sleep-went-wrong-1283797/"
+      },
+      {
         "title": "The Conditions on a US Aircraft Carrier Sound Concerning",
         "link": "https://nautil.us/the-conditions-on-a-us-aircraft-carrier-sound-concerning-1283806/"
       },
       {
         "title": "How Vipers Got Their Venom",
         "link": "https://nautil.us/how-vipers-got-their-venom-1283792/"
-      },
-      {
-        "title": "The Extraterrestrial Rings of Bronze Age Greece",
-        "link": "https://nautil.us/the-extraterrestrial-rings-of-bronze-age-greece-1283789/"
-      },
-      {
-        "title": "Extreme Space Weather Could Delay Your Next Flight",
-        "link": "https://nautil.us/extreme-space-weather-could-delay-your-next-flight-1283780/"
       }
     ],
     "worksinprogress": [],
