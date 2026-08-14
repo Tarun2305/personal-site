@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14 01:18 UTC",
+  "last_updated": "2026-08-14 04:43 UTC",
   "feeds": {
     "bbc": [
       {
@@ -21,20 +21,20 @@
     ],
     "aljazeera": [
       {
-        "title": "Israel\u2019s Katz hails settlers for \u2018holding onto\u2019 Palestinian land",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-katz-ganim-clip-mp4?traffic_source=rss"
+        "title": "Al Jazeera speaks to Count Binface as Farage claims Clacton victory",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-clacton-by-election-reported?traffic_source=rss"
       },
       {
-        "title": "UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz",
-        "link": "https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz?traffic_source=rss"
+        "title": "Water supply for three US states drips down, Lake Mead at record low",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/water-supply-for-three-us-states-drips-down-lake-mead-at-record-low?traffic_source=rss"
       },
       {
-        "title": "Yemen faces highest risk of returning to war since 2022 truce, UN warns",
-        "link": "https://www.aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns?traffic_source=rss"
+        "title": "Brazil begins exploring retaliatory options to new US tariffs",
+        "link": "https://www.aljazeera.com/news/2026/8/14/brazil-begins-exploring-retaliatory-options-to-new-us-tariffs?traffic_source=rss"
       },
       {
-        "title": "Iran war live: US eyes indefinite Iran naval blockade",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/8/14/iran-war-live-us-eyes-indefinite-iran-naval-blockade?traffic_source=rss"
+        "title": "Mali says 82 soldiers captured by armed groups have been freed",
+        "link": "https://www.aljazeera.com/news/2026/8/14/mali-says-82-soldiers-captured-by-armed-groups-have-been-freed?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -171,6 +171,10 @@
     ],
     "variety": [
       {
+        "title": "Phoebe Bridgers Leads Delighted Fans Around the Rink at a Rollerskating Listening Party for \u2018Lost Weekend\u2019",
+        "link": "https://variety.com/2026/music/news/phoebe-bridgers-rollerskating-release-party-qa-lost-weekend-1236834356/"
+      },
+      {
         "title": "Oscar Predictions: Supporting Actress \u2014 Is This the Year of Pen\u00e9lope Cruz?",
         "link": "https://variety.com/feature/2027-oscars-best-supporting-actress-predictions-1236834272/"
       },
@@ -181,28 +185,24 @@
       {
         "title": "Oscar Predictions: Best Actress \u2014 How Obsessed Will the Academy Become With Inde Navarrette?",
         "link": "https://variety.com/feature/2027-oscars-best-actress-predictions-1236834270/"
-      },
-      {
-        "title": "Oscar Predictions: Best Actor \u2014 The Most Competitive Category Awaits Leading Men Like Tom Cruise, Matt Damon and More",
-        "link": "https://variety.com/feature/2027-oscars-best-actor-predictions-1236834269/"
       }
     ],
     "hollywoodreporter": [
       {
+        "title": "Alexa Nikolas Wins Key Ruling In Defamation Case Against Bryan Freedman Over Smear Claims",
+        "link": "https://www.hollywoodreporter.com/business/business-news/alexa-nikolas-defamation-case-bryan-freedman-1236673163/"
+      },
+      {
+        "title": "Jenna Ortega\u2019s Sister Reacts to Public Discourse Over \u2018Wednesday\u2019 Star\u2019s Appearance",
+        "link": "https://www.hollywoodreporter.com/news/general-news/jenna-ortega-sister-reacts-discourse-actress-appearance-1236673428/"
+      },
+      {
+        "title": "\u2018American Horror Story\u2019 Season 13: Everything We Know",
+        "link": "https://www.hollywoodreporter.com/lists/american-horror-story-season-13-everything-we-know-guide/"
+      },
+      {
         "title": "The War Over Warner Bros. Is Splintering Hollywood\u2019s Labor World",
         "link": "https://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-labor-world-1236673223/"
-      },
-      {
-        "title": "Tyler Duckworth, \u2018The Challenge\u2019 Winner, Dies at 44",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/tyler-duckworth-dead-the-challenge-winner-44-1236673350/"
-      },
-      {
-        "title": "NY Film Festival Sets Currents Lineup Led by \u2018Bardi\u2019 World Premiere",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/ny-film-festival-2026-currents-lineup-1236673366/"
-      },
-      {
-        "title": "California Bill to Cap Concert Resale Ticket Prices Dies After Lobbying Frenzy",
-        "link": "https://www.hollywoodreporter.com/music/music-industry-news/california-bill-to-cap-concert-resale-ticket-prices-dies-1236673216/"
       }
     ],
     "larb": [],
