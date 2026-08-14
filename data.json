@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14 07:14 UTC",
+  "last_updated": "2026-08-14 09:53 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,75 +7,58 @@
         "link": "https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "NHS service admits data breach due to pager use",
-        "link": "https://www.bbc.co.uk/news/articles/clyj92j210do?at_medium=RSS&at_campaign=rss"
+        "title": "Watch: Video shows scale of devastation in Stourbridge",
+        "link": "https://www.bbc.co.uk/news/videos/cz7d50q40v3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Final day of heatwave for many before weekend cooldown",
-        "link": "https://www.bbc.co.uk/weather/articles/cgjepxqn0lvo?at_medium=RSS&at_campaign=rss"
+        "title": "'Unprecedented' rain in Japan kills six people",
+        "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-        "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss"
+        "title": "Mother jailed for killing baby by burning her with a hairdryer",
+        "link": "https://www.bbc.co.uk/news/articles/c62918ddg3lo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Flock adds safeguards to licence-plate readers after wave of stalking cases",
-        "link": "https://www.aljazeera.com/news/2026/8/14/flock-adds-safeguards-to-licence-plate-readers-after-wave-of-stalking-cases?traffic_source=rss"
+        "title": "New Zealand break ranks with Oceania as FIFA\u2019s Infantino divide grows",
+        "link": "https://www.aljazeera.com/sports/2026/8/14/new-zealand-break-ranks-with-oceania-as-fifas-infantino-divide-grows?traffic_source=rss"
       },
       {
-        "title": "North Korea fumes over upcoming US-South Korea military drills",
-        "link": "https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss"
+        "title": "Russia says hit Ukrainian railway and port facilities in new strikes",
+        "link": "https://www.aljazeera.com/news/2026/8/14/russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes?traffic_source=rss"
       },
       {
-        "title": "Fear and attacks grip Taybeh, the last all-Christian town in the West Bank",
-        "link": "https://www.aljazeera.com/features/2026/8/14/fear-and-attacks-grip-taybeh-the-last-all-christian-town-in-the-west-bank?traffic_source=rss"
+        "title": "Swiatek defeats Rybakina to claim Canadian Open title\u200b",
+        "link": "https://www.aljazeera.com/sports/2026/8/14/swiatek-defeats-rybakina-to-claim-canadian-open?traffic_source=rss"
       },
       {
-        "title": "Record rainfall leaves four dead, thousands stranded in Japan",
-        "link": "https://www.aljazeera.com/news/2026/8/14/record-rainfall-leaves-four-dead-thousands-stranded-in-japan?traffic_source=rss"
+        "title": "UK far-right leader Farage re-elected in boycotted by-election",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/uk-far-right-leader-farage-re-elected-in-boycotted-by-election?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Bowen: As long as West Ham get back to the PL, I don't care how we do it",
+        "link": "https://www.skysports.com/football/news/12040/13572527/jarrod-bowen-exclusive-west-ham-captain"
+      },
+      {
+        "title": "Tempers flare as Australia toil after Hasan's maiden Test ton",
+        "link": "https://www.skysports.com/cricket/news/12040/13572882/australia-vs-bangladesh-tanzid-hasans-maiden-test-century-leaves-tourists-in-charge-in-darwin"
+      },
+      {
+        "title": "Arsenal in talks with Leverkusen over Quansah",
+        "link": "https://www.skysports.com/football/news/12040/13572821/jarell-quansah-arsenal-in-talks-with-bayer-leverkusen-over-signing-england-and-former-liverpool-defender"
+      },
+      {
         "title": "The latest on transfers, Liverpool and Thomas Tuchel's England from the back pages",
         "link": "https://www.skysports.com/watch/video/13572832/paper-talk-the-latest-on-transfers-liverpool-and-tuchels-england"
-      },
-      {
-        "title": "Swiatek beats Rybakina to end title drought in Toronto",
-        "link": "https://www.skysports.com/tennis/news/12040/13572813/canadian-open-iga-swiatek-defeats-elena-rybakina-to-end-title-drought"
-      },
-      {
-        "title": "Today on Sky Sports Racing: Efsixteen returns in hot Newbury race",
-        "link": "https://www.skysports.com/racing/news/12040/13572338/today-on-sky-sports-racing-newbury-and-yarmouth-feature-live-on-friday-as-efsixteen-returns-in-hot-contest"
-      },
-      {
-        "title": "Records broken, huge sixes & stunning catches! | Best moments from The Hundred",
-        "link": "https://www.skysports.com/watch/video/13571696/best-moments-from-the-hundred-records-broken-huge-sixes-stunning-catches"
       }
     ],
     "pitchfork": [],
     "quietus": [],
-    "aquariumdrunkard": [
-      {
-        "title": "Don Cherry & Okay Temiz :: Music for Turkish Theater 1970",
-        "link": "https://aquariumdrunkard.com/2026/08/13/don-cherry-okay-temiz-music-for-turkish-theater-1970/"
-      },
-      {
-        "title": "In Gowan Ring :: The Glinting Spade",
-        "link": "https://aquariumdrunkard.com/2026/08/13/in-gowan-ring-the-glinting-spade/"
-      },
-      {
-        "title": "Jan & Dean :: Save for a Rainy Day",
-        "link": "https://aquariumdrunkard.com/2026/08/12/jan-dean-save-for-a-rainy-day/"
-      },
-      {
-        "title": "Transmissions :: Dust-to-Digital",
-        "link": "https://aquariumdrunkard.com/2026/08/12/transmissions-dust-to-digital/"
-      }
-    ],
+    "aquariumdrunkard": [],
     "bfi": [],
     "criterion": [],
     "rogerebert": [
@@ -116,6 +99,10 @@
     ],
     "mubi": [
       {
+        "title": "The Current Debate: An Uncomplicated Odyssey",
+        "link": "https://mubi.com/en/notebook/posts/the-current-debate-an-uncomplicated-odyssey"
+      },
+      {
         "title": "\u201cHe Would Leave Me Totally Free\u201d: Isabelle Huppert on Claude Chabrol ",
         "link": "https://mubi.com/en/notebook/posts/he-would-leave-me-totally-free-isabelle-huppert-on-claude-chabrol"
       },
@@ -126,31 +113,10 @@
       {
         "title": "Ky\u014dko Kagawa in One Shot",
         "link": "https://mubi.com/en/notebook/posts/kyoko-kagawa-in-one-shot"
-      },
-      {
-        "title": "This Dystopian Future: A Conversation with Tsai Ming-liang",
-        "link": "https://mubi.com/en/notebook/posts/this-dystopian-future-a-conversation-with-tsai-ming-liang"
       }
     ],
     "reverseshot": [],
-    "sensesofcinema": [
-      {
-        "title": "Filmmaking at the end of the world: The Quiet Earth",
-        "link": "https://www.sensesofcinema.com/2026/cteq/filmmaking-at-the-end-of-the-world-the-quiet-earth/"
-      },
-      {
-        "title": "Crimes Against Reality: Speculation and the New Red Order",
-        "link": "https://www.sensesofcinema.com/2026/feature-articles/crimes-against-reality-speculation-and-the-new-red-order/"
-      },
-      {
-        "title": "Consent Puzzles in the Oslo Stories Trilogy by Dag Johan Haugerud",
-        "link": "https://www.sensesofcinema.com/2026/feature-articles/consent-puzzles-in-the-oslo-stories-trilogy-by-dag-johan-haugerud/"
-      },
-      {
-        "title": "An Interview with Giulio Bertelli",
-        "link": "https://www.sensesofcinema.com/2026/interviews/an-interview-with-giulio-bertelli/"
-      }
-    ],
+    "sensesofcinema": [],
     "indiewire": [
       {
         "title": "HBO Had Just Aired Its True Crime Mystery \u2018The Yogurt Shop Murders\u2019 When DNA Finally Nailed the Killer",
@@ -171,25 +137,29 @@
     ],
     "variety": [
       {
-        "title": "COL AI Studios Launches to Expand Group\u2019s Global Distribution Network (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/news/col-ai-studios-launch-global-distribution-1236834136/"
+        "title": "Nigel Farage Documentary \u2018Where Does the Money Come From?\u2019 Set at U.K. Broadcaster 5 as Parliamentary Standards Watchdog Reopens Finance Probe",
+        "link": "https://variety.com/2026/tv/news/nigel-farage-documentary-5-standards-probe-1236834471/"
       },
       {
-        "title": "Troye Sivan Brings Nicole Kidman to the Club for \u2018She\u2019s the Best\u2019 Music Video",
-        "link": "https://variety.com/2026/music/news/troye-sivan-nicole-kidman-shes-the-best-music-video-1236834397/"
+        "title": "TV Academy Hall of Fame: Sheila Nevins, Absent Due to COVID, Thanks Dr. Fauci for the Vaccine; Bill Hader Pays Tribute to the \u2018South Park\u2019 Creators With a \u2018Fish Dick\u2019 Story and More",
+        "link": "https://variety.com/2026/tv/news/tv-academy-hall-of-fame-south-park-shiela-nevins-dr-fauci-1236834438/"
       },
       {
-        "title": "Phoebe Bridgers Leads Delighted Fans Around the Rink at a Rollerskating Listening Party for \u2018Lost Weekend\u2019",
-        "link": "https://variety.com/2026/music/news/phoebe-bridgers-rollerskating-release-party-qa-lost-weekend-1236834356/"
+        "title": "\u2018You Don\u2019t Belong Here\u2019 Review: A Potentially Involving Story Is Weakened by Airless Dialogue and a Misguided Finale",
+        "link": "https://variety.com/2026/film/reviews/you-dont-belong-here-review-1236834459/"
       },
       {
-        "title": "Oscar Predictions: Supporting Actress \u2014 Is This the Year of Pen\u00e9lope Cruz?",
-        "link": "https://variety.com/feature/2027-oscars-best-supporting-actress-predictions-1236834272/"
+        "title": "Fukada Koji, Jakrawal Nilthamrong, Boo Junfeng Films Win Busan Co-Production Fund",
+        "link": "https://variety.com/2026/film/markets-festivals/fukada-koji-jakrawal-nilthamrong-boo-junfeng-busan-fund-1236834448/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018The Ones With the Tempered Flowers\u2019 Documents a Woman Studying \u201cHer Body\u2019s Relationship to Self and Society\u201d in Tanzania",
+        "title": "Sarajevo Film Festival Boss Jovan Marjanovi\u0107 on Owning Its Powerful Origin Story: \u201cWe Connect This Legacy of War\u2026 and Build Bridges\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-features/sarajevo-film-festival-jovan-marjanovic-2026-interview-1236671995/"
+      },
+      {
+        "title": "\u2018The Ones With the Tempered Flowers\u2019 Will Document a Woman Studying \u201cHer Body\u2019s Relationship to Self and Society\u201d in Tanzania",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/the-ones-with-the-tempered-flowers-film-locarno-open-doors-1236672849/"
       },
       {
@@ -199,10 +169,6 @@
       {
         "title": "Alexa Nikolas Wins Key Ruling In Defamation Case Against Bryan Freedman Over Smear Claims",
         "link": "https://www.hollywoodreporter.com/business/business-news/alexa-nikolas-defamation-case-bryan-freedman-1236673163/"
-      },
-      {
-        "title": "Jenna Ortega\u2019s Sister Reacts to Public Discourse Over \u2018Wednesday\u2019 Star\u2019s Appearance",
-        "link": "https://www.hollywoodreporter.com/news/general-news/jenna-ortega-sister-reacts-discourse-actress-appearance-1236673428/"
       }
     ],
     "larb": [],
@@ -230,12 +196,12 @@
         "link": "https://psyche.co/videos/talking-to-yourself-isnt-just-normal-it-can-be-beneficial"
       },
       {
-        "title": "Writing letters is a spiritual practice for our age of speed",
-        "link": "https://psyche.co/ideas/writing-letters-is-a-spiritual-practice-for-our-age-of-speed"
-      },
-      {
         "title": "The satisfaction of doing work that lasts",
         "link": "https://psyche.co/notes-to-self/the-deep-satisfaction-of-doing-work-that-lasts"
+      },
+      {
+        "title": "Writing letters is a spiritual practice for our age of speed",
+        "link": "https://psyche.co/ideas/writing-letters-is-a-spiritual-practice-for-our-age-of-speed"
       },
       {
         "title": "Two actors, no director, one dreamlike play",
