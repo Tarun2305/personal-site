@@ -1,64 +1,81 @@
 {
-  "last_updated": "2026-08-14 09:53 UTC",
+  "last_updated": "2026-08-14 12:49 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Farage's by-election victory won't stop questions about finances",
-        "link": "https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss"
+        "title": "Watch: 'Carnage' in Stourbridge as houses destroyed by fire",
+        "link": "https://www.bbc.co.uk/news/videos/cj03gyzg2l7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Watch: Video shows scale of devastation in Stourbridge",
-        "link": "https://www.bbc.co.uk/news/videos/cz7d50q40v3o?at_medium=RSS&at_campaign=rss"
+        "title": "Farage faces renewed watchdog probe after Clacton by-election victory",
+        "link": "https://www.bbc.co.uk/news/articles/c62x1gr62m1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'Unprecedented' rain in Japan kills six people",
-        "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss"
+        "title": "Eurovision proposes new rules to reduce political voting",
+        "link": "https://www.bbc.co.uk/news/articles/czrjxyg8mzmo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Mother jailed for killing baby by burning her with a hairdryer",
-        "link": "https://www.bbc.co.uk/news/articles/c62918ddg3lo?at_medium=RSS&at_campaign=rss"
+        "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+        "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "New Zealand break ranks with Oceania as FIFA\u2019s Infantino divide grows",
-        "link": "https://www.aljazeera.com/sports/2026/8/14/new-zealand-break-ranks-with-oceania-as-fifas-infantino-divide-grows?traffic_source=rss"
+        "title": "Israeli soldiers prevent aid delivery to besieged Palestinians",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-prevent-aid-delivery-to-besieged-palestinians?traffic_source=rss"
       },
       {
-        "title": "Russia says hit Ukrainian railway and port facilities in new strikes",
-        "link": "https://www.aljazeera.com/news/2026/8/14/russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes?traffic_source=rss"
+        "title": "Israeli forces block activists from reaching besieged Qusra families",
+        "link": "https://www.aljazeera.com/news/2026/8/14/israeli-forces-block-activists-from-reaching-besieged-qusra-families?traffic_source=rss"
       },
       {
-        "title": "Swiatek defeats Rybakina to claim Canadian Open title\u200b",
-        "link": "https://www.aljazeera.com/sports/2026/8/14/swiatek-defeats-rybakina-to-claim-canadian-open?traffic_source=rss"
+        "title": "Rising Australian golfer Bang dies of brain haemorrhage in Thailand aged 18",
+        "link": "https://www.aljazeera.com/sports/2026/8/14/rising-australian-golfer-bang-dies-of-brain-haemorrhage-in-thailand-aged-18?traffic_source=rss"
       },
       {
-        "title": "UK far-right leader Farage re-elected in boycotted by-election",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/uk-far-right-leader-farage-re-elected-in-boycotted-by-election?traffic_source=rss"
+        "title": "Israeli PM Netanyahu calls UK \u2018the Islamic Republic of Britain\u2019",
+        "link": "https://www.aljazeera.com/news/2026/8/14/israeli-pm-netanyahu-calls-uk-the-islamic-republic-of?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Bowen: As long as West Ham get back to the PL, I don't care how we do it",
-        "link": "https://www.skysports.com/football/news/12040/13572527/jarrod-bowen-exclusive-west-ham-captain"
+        "title": "The Hundred eliminators LIVE! SunRisers take on Brave in women's match",
+        "link": "https://www.skysports.com/cricket/live-blog/12040/13572930/the-hundred-eliminators-sunrisers-leeds-vs-southern-brave-in-womens-match-before-manchester-super-giants-take-on-sunrisers-men"
       },
       {
-        "title": "Tempers flare as Australia toil after Hasan's maiden Test ton",
-        "link": "https://www.skysports.com/cricket/news/12040/13572882/australia-vs-bangladesh-tanzid-hasans-maiden-test-century-leaves-tourists-in-charge-in-darwin"
+        "title": "Bunting stunned by Smith in New Zealand Darts Masters upset",
+        "link": "https://www.skysports.com/darts/news/12040/13572929/new-zealand-darts-masters-stephen-bunting-dumped-out-by-raymond-smith-in-sensational-fashion"
       },
       {
-        "title": "Arsenal in talks with Leverkusen over Quansah",
-        "link": "https://www.skysports.com/football/news/12040/13572821/jarell-quansah-arsenal-in-talks-with-bayer-leverkusen-over-signing-england-and-former-liverpool-defender"
+        "title": "Rayif fancied to take Prix Jacques Le Marois prize",
+        "link": "https://www.skysports.com/racing/news/12040/13572927/weekend-winners-rayif-fancied-to-take-prix-jacques-le-marois-prize-at-deauville"
       },
       {
-        "title": "The latest on transfers, Liverpool and Thomas Tuchel's England from the back pages",
-        "link": "https://www.skysports.com/watch/video/13572832/paper-talk-the-latest-on-transfers-liverpool-and-tuchels-england"
+        "title": "Australian rookie golfer dies aged 18 after brain haemorrhage",
+        "link": "https://www.skysports.com/golf/news/12040/13572909/jessica-bang-australian-golfer-dies-aged-18-after-brain-haemorrhage"
       }
     ],
     "pitchfork": [],
     "quietus": [],
-    "aquariumdrunkard": [],
+    "aquariumdrunkard": [
+      {
+        "title": "Don Cherry & Okay Temiz :: Music for Turkish Theater 1970",
+        "link": "https://aquariumdrunkard.com/2026/08/13/don-cherry-okay-temiz-music-for-turkish-theater-1970/"
+      },
+      {
+        "title": "In Gowan Ring :: The Glinting Spade",
+        "link": "https://aquariumdrunkard.com/2026/08/13/in-gowan-ring-the-glinting-spade/"
+      },
+      {
+        "title": "Jan & Dean :: Save for a Rainy Day",
+        "link": "https://aquariumdrunkard.com/2026/08/12/jan-dean-save-for-a-rainy-day/"
+      },
+      {
+        "title": "Transmissions :: Dust-to-Digital",
+        "link": "https://aquariumdrunkard.com/2026/08/12/transmissions-dust-to-digital/"
+      }
+    ],
     "bfi": [],
     "criterion": [],
     "rogerebert": [
@@ -116,7 +133,24 @@
       }
     ],
     "reverseshot": [],
-    "sensesofcinema": [],
+    "sensesofcinema": [
+      {
+        "title": "Filmmaking at the end of the world: The Quiet Earth",
+        "link": "https://www.sensesofcinema.com/2026/cteq/filmmaking-at-the-end-of-the-world-the-quiet-earth/"
+      },
+      {
+        "title": "Crimes Against Reality: Speculation and the New Red Order",
+        "link": "https://www.sensesofcinema.com/2026/feature-articles/crimes-against-reality-speculation-and-the-new-red-order/"
+      },
+      {
+        "title": "Consent Puzzles in the Oslo Stories Trilogy by Dag Johan Haugerud",
+        "link": "https://www.sensesofcinema.com/2026/feature-articles/consent-puzzles-in-the-oslo-stories-trilogy-by-dag-johan-haugerud/"
+      },
+      {
+        "title": "An Interview with Giulio Bertelli",
+        "link": "https://www.sensesofcinema.com/2026/interviews/an-interview-with-giulio-bertelli/"
+      }
+    ],
     "indiewire": [
       {
         "title": "HBO Had Just Aired Its True Crime Mystery \u2018The Yogurt Shop Murders\u2019 When DNA Finally Nailed the Killer",
@@ -137,42 +171,46 @@
     ],
     "variety": [
       {
+        "title": "San Sebastian Adds Jesse Eisenberg, Fred Cavay\u00e9, Amanda Kernell Films to Golden Shell Race",
+        "link": "https://variety.com/2026/film/markets-festivals/san-sebastian-jesse-eisenberg-fred-cavaye-amanda-kernell-1236834484/"
+      },
+      {
+        "title": "Golden Lion Winner Milcho Manchevski Talks \u2018Giving a Voice\u2019 to Pulse Nightclub Survivors With \u2018Good People\u2019:\u00a0\u2018Our Job Was to Stay Out of the Way\u2019",
+        "link": "https://variety.com/2026/film/global/golden-lion-winner-milcho-manchevski-good-people-sarajevo-1236831946/"
+      },
+      {
+        "title": "\u2018The Devil Wears Prada 2\u2019 Is Drawing Tourists to Milan Prompting an 18% Increase in Visitors to the Film\u2019s Locations in Italy\u2019s Fashion Capital",
+        "link": "https://variety.com/2026/film/global/the-devil-wears-prada-2-tourists-milan-italy-fashion-1236833591/"
+      },
+      {
         "title": "Nigel Farage Documentary \u2018Where Does the Money Come From?\u2019 Set at U.K. Broadcaster 5 as Parliamentary Standards Watchdog Reopens Finance Probe",
         "link": "https://variety.com/2026/tv/news/nigel-farage-documentary-5-standards-probe-1236834471/"
-      },
-      {
-        "title": "TV Academy Hall of Fame: Sheila Nevins, Absent Due to COVID, Thanks Dr. Fauci for the Vaccine; Bill Hader Pays Tribute to the \u2018South Park\u2019 Creators With a \u2018Fish Dick\u2019 Story and More",
-        "link": "https://variety.com/2026/tv/news/tv-academy-hall-of-fame-south-park-shiela-nevins-dr-fauci-1236834438/"
-      },
-      {
-        "title": "\u2018You Don\u2019t Belong Here\u2019 Review: A Potentially Involving Story Is Weakened by Airless Dialogue and a Misguided Finale",
-        "link": "https://variety.com/2026/film/reviews/you-dont-belong-here-review-1236834459/"
-      },
-      {
-        "title": "Fukada Koji, Jakrawal Nilthamrong, Boo Junfeng Films Win Busan Co-Production Fund",
-        "link": "https://variety.com/2026/film/markets-festivals/fukada-koji-jakrawal-nilthamrong-boo-junfeng-busan-fund-1236834448/"
       }
     ],
     "hollywoodreporter": [
       {
+        "title": "\u2018Accept My Plea for Burial\u2019 Will Explore Moral Conflicts of Ordinary People Through a Somali Lens",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/accept-my-plea-for-burial-somalia-film-locarno-open-doors-1236673517/"
+      },
+      {
+        "title": "\u2018Come With Me,\u2019 Psychological Thriller Starring Theo Rossi and Ron Perlman, Sells to Vertical and Gets First Trailer (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/come-with-me-film-theo-rossi-ron-perlman-sale-trailer-1236672880/"
+      },
+      {
+        "title": "Michael Sheen and Director Simon Ryninks Reveal Their Personal Connections to Welsh Sci-Fi Caper \u2018Out There\u2019: \u201cThis Really Pushed Buttons for Me\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-features/michael-sheen-out-there-film-wales-ufo-edinburgh-festival-1236670866/"
+      },
+      {
         "title": "Sarajevo Film Festival Boss Jovan Marjanovi\u0107 on Owning Its Powerful Origin Story: \u201cWe Connect This Legacy of War\u2026 and Build Bridges\u201d",
         "link": "https://www.hollywoodreporter.com/movies/movie-features/sarajevo-film-festival-jovan-marjanovic-2026-interview-1236671995/"
-      },
-      {
-        "title": "\u2018The Ones With the Tempered Flowers\u2019 Will Document a Woman Studying \u201cHer Body\u2019s Relationship to Self and Society\u201d in Tanzania",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/the-ones-with-the-tempered-flowers-film-locarno-open-doors-1236672849/"
-      },
-      {
-        "title": "Busan Film Festival to Honor Its Founder Kim Dong-ho with Korean Cinema Award",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/busan-film-festival-founder-kim-dong-ho-korean-cinema-award-1236673433/"
-      },
-      {
-        "title": "Alexa Nikolas Wins Key Ruling In Defamation Case Against Bryan Freedman Over Smear Claims",
-        "link": "https://www.hollywoodreporter.com/business/business-news/alexa-nikolas-defamation-case-bryan-freedman-1236673163/"
       }
     ],
     "larb": [],
     "aeon": [
+      {
+        "title": "The neverending house",
+        "link": "https://aeon.co/essays/the-art-of-dwelling-in-santiagos-self-built-homes"
+      },
       {
         "title": "Where the earth meets the sky",
         "link": "https://aeon.co/videos/in-the-remote-desert-an-awe-inspiring-artwork-collapses-time-and-space"
@@ -184,10 +222,6 @@
       {
         "title": "Bouncy brothers",
         "link": "https://aeon.co/videos/a-tale-of-brotherhood-bouncy-castles-and-the-american-dream"
-      },
-      {
-        "title": "A second sexual revolution",
-        "link": "https://aeon.co/essays/how-shere-hite-listened-to-womens-sexual-desires-and-dislikes"
       }
     ],
     "psyche": [
@@ -196,12 +230,12 @@
         "link": "https://psyche.co/videos/talking-to-yourself-isnt-just-normal-it-can-be-beneficial"
       },
       {
-        "title": "The satisfaction of doing work that lasts",
-        "link": "https://psyche.co/notes-to-self/the-deep-satisfaction-of-doing-work-that-lasts"
-      },
-      {
         "title": "Writing letters is a spiritual practice for our age of speed",
         "link": "https://psyche.co/ideas/writing-letters-is-a-spiritual-practice-for-our-age-of-speed"
+      },
+      {
+        "title": "The satisfaction of doing work that lasts",
+        "link": "https://psyche.co/notes-to-self/the-deep-satisfaction-of-doing-work-that-lasts"
       },
       {
         "title": "Two actors, no director, one dreamlike play",
@@ -246,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "In Stunning Color, a Celestial \u201cTreasure Chest\u201d Full of Stars",
+        "link": "https://nautil.us/in-stunning-color-a-celestial-treasure-chest-full-of-stars-1283773/"
+      },
+      {
         "title": "Sprinting vs. Jogging: The Benefit Is in the Blood",
         "link": "https://nautil.us/sprinting-vs-jogging-the-benefit-is-in-the-blood-1283767/"
       },
@@ -256,10 +294,6 @@
       {
         "title": "Watch: Australian Dolphin Filmed Catching Fish with Shells",
         "link": "https://nautil.us/watch-australian-dolphin-filmed-catching-fish-with-shells-1283734/"
-      },
-      {
-        "title": "Awe-Inspiring Images from This Year\u2019s Solar Eclipse",
-        "link": "https://nautil.us/awe-inspiring-images-from-this-years-solar-eclipse-1283740/"
       }
     ],
     "worksinprogress": [],
