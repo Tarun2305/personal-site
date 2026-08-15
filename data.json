@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15 03:32 UTC",
+  "last_updated": "2026-08-15 06:25 UTC",
   "feeds": {
     "bbc": [
       {
@@ -11,7 +11,7 @@
         "link": "https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+        "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
         "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -21,24 +21,28 @@
     ],
     "aljazeera": [
       {
-        "title": "HRW says US civil rights enforcement reduced under Trump: What to know",
-        "link": "https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss"
+        "title": "Small-scale projects offer hope for Gaza farmers rebuilding lives",
+        "link": "https://www.aljazeera.com/economy/2026/8/15/small-scale-projects-offer-hope-for-gaza-farmers-rebuilding-lives?traffic_source=rss"
       },
       {
-        "title": "US President Trump says he will declare Strait of Hormuz US territory",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss"
+        "title": "How a Sudanese refugee became a head teacher in a Chadian camp",
+        "link": "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss"
       },
       {
-        "title": "Venezuela says 131 political prisoners freed amid post-Maduro talks",
-        "link": "https://www.aljazeera.com/news/2026/8/15/venezuela-says-131-political-prisoners-freed-amid-post-maduro-talks?traffic_source=rss"
+        "title": "Morocco boosts Ceuta security amid calls for mass migrant crossing",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss"
       },
       {
-        "title": "7.7-magnitude earthquake strikes eastern Indonesia",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-indonesia-quake-sv-mp4?traffic_source=rss"
+        "title": "On the ground in Indonesia following 7.7 magnitude earthquake",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/on-the-ground-in-indonesia-following-7-7-magnitude-earthquake?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "Never So Brave headlines Hungerford Stakes",
+        "link": "https://www.skysports.com/racing/news/12040/13572890/today-on-sky-sports-racing-deauville-doncaster-lingfield-newbury-and-ripon"
+      },
       {
         "title": "McIlroy toils as Scheffler produces stunning 61 at St Jude Championship",
         "link": "https://www.skysports.com/golf/news/12040/13573068/fedexcup-playoffs-scottie-scheffler-produces-stunning-round-of-61-at-fedex-st-jude-championship-as-rory-mcilroy-toils"
@@ -50,10 +54,6 @@
       {
         "title": "Jimenez salvages dramatic point for Wolves on Molineux return",
         "link": "https://www.skysports.com/football/wolverhampton-wanderers-vs-blackburn-rovers/report/560498"
-      },
-      {
-        "title": "Castleford claim much-needed Super League win at Hull FC",
-        "link": "https://www.skysports.com/rugby-league/hull-vs-castleford/report/63311"
       }
     ],
     "pitchfork": [],
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
+        "title": "Marvel Builds Out Its \u2018X-Men\u2019 with Adam Driver, Inde Naverette, Christopher Abbott, and More",
+        "link": "https://www.indiewire.com/news/breaking-news/marvel-cast-more-x-men-adam-driver-inde-navarette-maya-boyd-1235210601/"
+      },
+      {
+        "title": "Ralph Bakshi\u2019s \u2018The Lord of the Rings\u2019 Remains the Best Spiritual Sequel Ever Made",
+        "link": "https://www.indiewire.com/features/best-of/ralph-bakshi-the-lord-of-the-rings-spiritual-sequel-1235209591/"
+      },
+      {
         "title": "Top of the Line: We Are We Going, Where Have We Been?",
         "link": "https://www.indiewire.com/features/craft/teenage-sex-and-death-at-camp-miasma-craft-newsletter-1235210568/"
       },
       {
         "title": "As Superhero Movies Get Blander, Animated Comic Book Adaptations Have Gotten More Interesting\u00a0",
         "link": "https://www.indiewire.com/features/commentary/superhero-animated-series-better-than-movies-1235209517/"
-      },
-      {
-        "title": "About That \u2018Super Bowl Moment\u2019 in the Middle of \u2018Teenage Sex and Death at Camp Miasma\u2019",
-        "link": "https://www.indiewire.com/features/craft/jane-schoenbrun-teenage-sex-and-death-at-camp-miasma-1235210237/"
-      },
-      {
-        "title": "\u2018Abbott Elementary\u2019 Is Always in the Right Ballpark \u2014 Literally So, for One Very Special Episode",
-        "link": "https://www.indiewire.com/features/interviews/abbott-elementary-director-randall-einhorn-phillies-game-1235210238/"
       }
     ],
     "variety": [
       {
-        "title": "Sony Pictures Networks India Sets October Launch for New Tamil Channel Vizha (EXCLUSIVE)",
-        "link": "https://variety.com/2026/tv/news/sony-india-october-launch-tamil-channel-vizha-1236834489/"
+        "title": "\u2018Frozen 3\u2019 First Details: Anna and Kristoff Get Married, Olaf Gets a Girlfriend and a New Villain Emerges",
+        "link": "https://variety.com/2026/film/news/frozen-3-first-details-anna-kristoff-married-olaf-love-1236822955/"
       },
       {
-        "title": "\u2018Lilo & Stitch 2\u2019 Drops First Look of Pink Alien Angel in Live-Action Sequel",
-        "link": "https://variety.com/2026/film/news/lilo-and-stitch-2-angel-pink-alien-1236442313/"
+        "title": "Marvel\u2019s \u2018X-Men\u2019 Reboot Sets May 2028 Release Date",
+        "link": "https://variety.com/2026/film/news/x-men-release-date-marvel-reboot-1236816959/"
       },
       {
-        "title": "Pixar Sets Original Film \u2018Ghost Market\u2019 for Spring 2028",
-        "link": "https://variety.com/2026/film/news/pixar-sets-original-film-ono-ghost-market-2028-1236835033/"
+        "title": "\u2018Star Wars: Starfighter\u2019 Footage: Ryan Gosling Races Through the Galaxy With Young Sidekick",
+        "link": "https://variety.com/2026/film/news/star-wars-starfighter-trailer-ryan-gosling-1236712809/"
       },
       {
-        "title": "\u2018KPop Demon Hunters\u2019 Tour T-Shirts Drop Online Ahead of Global Concert Dates",
-        "link": "https://variety.com/2026/shopping/news/kpop-demon-hunters-official-tour-t-shirts-buy-online-1236835070/"
+        "title": "Disney\u2019s \u2018Hexed\u2019 Adds Walton Goggins and Jodie Foster to Cast",
+        "link": "https://variety.com/2026/film/news/hexed-cast-walton-goggins-jodie-foster-1236834882/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Lisa Kudrow and Mira Sorvino Bring \u2018Romy and Michele 2\u2019 to D23: \u201cWe\u2019re Officially Disney Princesses\u201d",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/lisa-kudrow-mira-sorvino-romy-and-michele-2-d23-1236673702/"
+        "title": "\u2018Frozen 3\u2019 \u201cRoyal Wedding\u201d Between Anna and Kristoff Is Crashed by New Villain in First-Look",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/frozen-3-royal-wedding-between-anna-and-kristoff-1236671593/"
       },
       {
-        "title": "Disney Reveals \u2018Lilo & Stitch 2\u2019 Will Feature Stitch\u2019s Pink Counterpart Angel",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/disney-reveals-lilo-stitch-2-will-angel-1236672809/"
+        "title": "\u2018Avengers: Doomsday\u2019 Footage Shows Off a \u201cBroken\u201d Doctor Doom",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-trailer-doctor-doom-1236673352/"
       },
       {
-        "title": "Disney Sets November 2029 Release For \u2018Coco 2,\u2019 Sequel Centered on a Teenage Miguel",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/coco-2-disney-sets-november-2029-release-1236672186/"
+        "title": "\u2018Ahsoka\u2019 Season 2 Brings the Force \u2014 and More Anakin Skywalker \u2014 with First Trailer",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/ahsoka-season-2-brings-the-force-first-trailer-1236672980/"
       },
       {
-        "title": "\u2018Incredibles 3\u2019 Gets First-Look As the Kids \u201cTake the Spotlight\u201d",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/incredibles-3-gets-first-look-as-the-kids-take-spotlight-1236671659/"
+        "title": "Kieran Culkin to Star in Animated Movie \u2018Clay\u2019 for Disney",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/kieran-culkin-to-star-in-animated-movie-clay-1236673989/"
       }
     ],
     "larb": [],
