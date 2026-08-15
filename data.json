@@ -1,14 +1,10 @@
 {
-  "last_updated": "2026-08-15 06:25 UTC",
+  "last_updated": "2026-08-15 09:19 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
-        "link": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Fires prompt national alert as 19 homes destroyed",
-        "link": "https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss"
+        "title": "Tributes paid to Jason Arday after ex-Cambridge professor found dead",
+        "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
@@ -17,43 +13,47 @@
       {
         "title": "Five years after the Taliban swept to power, does the West have any influence?",
         "link": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Heathrow Airport pipe leak causes flood disruption",
+        "link": "https://www.bbc.co.uk/news/articles/cgmkdr3gy07o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Small-scale projects offer hope for Gaza farmers rebuilding lives",
-        "link": "https://www.aljazeera.com/economy/2026/8/15/small-scale-projects-offer-hope-for-gaza-farmers-rebuilding-lives?traffic_source=rss"
+        "title": "Bangladesh rock Australia as historic Test win in sight",
+        "link": "https://www.aljazeera.com/sports/2026/8/15/bangladesh-rock-australia-as-historic-test-win-in-sight?traffic_source=rss"
       },
       {
-        "title": "How a Sudanese refugee became a head teacher in a Chadian camp",
-        "link": "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss"
+        "title": "FIFA World Cup and Olympics cited as Coe warns of politicians near sport",
+        "link": "https://www.aljazeera.com/sports/2026/8/15/coe-cites-olympics-and-fifa-world-cup-in-warning-on-interference-in-sport?traffic_source=rss"
       },
       {
-        "title": "Morocco boosts Ceuta security amid calls for mass migrant crossing",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss"
+        "title": "Venus Williams hits 13-game tennis losing streak with Cincinnati Open exit",
+        "link": "https://www.aljazeera.com/sports/2026/8/15/venus-williams-hits-13-game-tennis-losing-streak-with-cincinnati-open-exit?traffic_source=rss"
       },
       {
-        "title": "On the ground in Indonesia following 7.7 magnitude earthquake",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/on-the-ground-in-indonesia-following-7-7-magnitude-earthquake?traffic_source=rss"
+        "title": "The women India\u2019s biggest river project forgot",
+        "link": "https://www.aljazeera.com/features/longform/2026/8/15/the-women-indias-biggest-river-project-forgot?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "The Hundred Finals: All you need to know ",
+        "link": "https://www.skysports.com/cricket/news/12040/13572516/the-hundred-teams-venues-timings-for-eliminators-and-finals-with-trent-rockets-waiting-to-find-out-their-opponents"
+      },
+      {
+        "title": "Wallabies run riot! Australia rack up 56 points against Japan",
+        "link": "https://www.skysports.com/watch/video/13573219/australia-56-17-japan-highlights"
+      },
+      {
         "title": "Never So Brave headlines Hungerford Stakes",
         "link": "https://www.skysports.com/racing/news/12040/13572890/today-on-sky-sports-racing-deauville-doncaster-lingfield-newbury-and-ripon"
       },
       {
-        "title": "McIlroy toils as Scheffler produces stunning 61 at St Jude Championship",
-        "link": "https://www.skysports.com/golf/news/12040/13573068/fedexcup-playoffs-scottie-scheffler-produces-stunning-round-of-61-at-fedex-st-jude-championship-as-rory-mcilroy-toils"
-      },
-      {
-        "title": "Championship play-off changes, new managers & star players - the EFL is BACK! ",
-        "link": "https://www.skysports.com/football/news/12040/13571934/efl-2026-27-season-preview-championship-play-off-changes-new-managers-and-star-players"
-      },
-      {
-        "title": "Jimenez salvages dramatic point for Wolves on Molineux return",
-        "link": "https://www.skysports.com/football/wolverhampton-wanderers-vs-blackburn-rovers/report/560498"
+        "title": "Hull FC 14-18 Castleford Tigers | Super League highlights",
+        "link": "https://www.skysports.com/watch/video/13573184/hull-fc-14-18-castleford-tigers-super-league-highlights"
       }
     ],
     "pitchfork": [],
@@ -171,23 +171,27 @@
     ],
     "variety": [
       {
+        "title": "Ur\u0161a Menart Recalls Finding Inspiration on Influencers\u2019 Fake Tragic Life Stories for Intimate Dramedy \u2018Everything That\u2019s Wrong With You\u2019",
+        "link": "https://variety.com/2026/film/global/ursa-menart-everything-thats-wrong-with-you-influencers-1236833609/"
+      },
+      {
+        "title": "Zee Entertainment Wins Interim Relief to Proceed With $330 Million Capital Raise Despite Indian Regulator\u2019s Market Ban",
+        "link": "https://variety.com/2026/tv/news/zee-shareholders-approve-fund-raise-sebi-market-ban-1236826217/"
+      },
+      {
         "title": "\u2018Frozen 3\u2019 First Details: Anna and Kristoff Get Married, Olaf Gets a Girlfriend and a New Villain Emerges",
         "link": "https://variety.com/2026/film/news/frozen-3-first-details-anna-kristoff-married-olaf-love-1236822955/"
       },
       {
         "title": "Marvel\u2019s \u2018X-Men\u2019 Reboot Sets May 2028 Release Date",
         "link": "https://variety.com/2026/film/news/x-men-release-date-marvel-reboot-1236816959/"
-      },
-      {
-        "title": "\u2018Star Wars: Starfighter\u2019 Footage: Ryan Gosling Races Through the Galaxy With Young Sidekick",
-        "link": "https://variety.com/2026/film/news/star-wars-starfighter-trailer-ryan-gosling-1236712809/"
-      },
-      {
-        "title": "Disney\u2019s \u2018Hexed\u2019 Adds Walton Goggins and Jodie Foster to Cast",
-        "link": "https://variety.com/2026/film/news/hexed-cast-walton-goggins-jodie-foster-1236834882/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "\u2018I Live in V.I.,\u2019 a Social Class Satire From Nigeria, Will Dive Into Urban Alienation and Gentrification",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/i-live-in-v-i-social-satire-film-nigeria-locarno-open-doors-1236673552/"
+      },
       {
         "title": "\u2018Frozen 3\u2019 \u201cRoyal Wedding\u201d Between Anna and Kristoff Is Crashed by New Villain in First-Look",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/frozen-3-royal-wedding-between-anna-and-kristoff-1236671593/"
@@ -199,10 +203,6 @@
       {
         "title": "\u2018Ahsoka\u2019 Season 2 Brings the Force \u2014 and More Anakin Skywalker \u2014 with First Trailer",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/ahsoka-season-2-brings-the-force-first-trailer-1236672980/"
-      },
-      {
-        "title": "Kieran Culkin to Star in Animated Movie \u2018Clay\u2019 for Disney",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/kieran-culkin-to-star-in-animated-movie-clay-1236673989/"
       }
     ],
     "larb": [],
