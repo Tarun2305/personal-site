@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14 21:18 UTC",
+  "last_updated": "2026-08-15 00:50 UTC",
   "feeds": {
     "bbc": [
       {
@@ -15,45 +15,45 @@
         "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-        "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss"
+        "title": "Five years after the Taliban swept to power, does the West have any influence?",
+        "link": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Mount Etna eruption and volcanic ash shut Sicily\u2019s busiest airport",
-        "link": "https://www.aljazeera.com/news/2026/8/14/mount-etna-eruption-and-volcanic-ash-shut-sicilys-busiest-airport?traffic_source=rss"
+        "title": "Lula holds slim lead over Flavio Bolsonaro ahead of Brazil election",
+        "link": "https://www.aljazeera.com/news/2026/8/15/lula-holds-slim-lead-over-flavio-bolsonaro-ahead-of-brazil-election?traffic_source=rss"
       },
       {
-        "title": "Former Cambridge professor accused of plagiarism found dead",
-        "link": "https://www.aljazeera.com/news/2026/8/14/former-cambridge-professor-accused-of-plagiarism-found-dead?traffic_source=rss"
+        "title": "UN urges support for Afghan women\u2019s aid five years into Taliban rule",
+        "link": "https://www.aljazeera.com/news/2026/8/15/un-urges-support-for-afghan-womens-aid-five-years-into-taliban-rule?traffic_source=rss"
       },
       {
-        "title": "Son of Mexico\u2019s former president AMLO alleges US revoked his visa",
-        "link": "https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss"
+        "title": "Families angered by slow search for loved ones after Colombia quake",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-colombia-quake-reported-mp4?traffic_source=rss"
       },
       {
-        "title": "New aerial video reveals huge scale of oil spill off Oman",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss"
+        "title": "Iran war live: Trump vows to make Hormuz US territory \u2018pretty soon\u2019",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Jimenez salvages point for Wolves on Molineux return",
+        "title": "McIlroy toils as Scheffler produces stunning 61 at St Jude Championship",
+        "link": "https://www.skysports.com/golf/news/12040/13573068/fedexcup-playoffs-scottie-scheffler-produces-stunning-round-of-61-at-fedex-st-jude-championship-as-rory-mcilroy-toils"
+      },
+      {
+        "title": "Championship play-off changes, new managers & star players - the EFL is BACK! ",
+        "link": "https://www.skysports.com/football/news/12040/13571934/efl-2026-27-season-preview-championship-play-off-changes-new-managers-and-star-players"
+      },
+      {
+        "title": "Jimenez salvages dramatic point for Wolves on Molineux return",
         "link": "https://www.skysports.com/football/wolverhampton-wanderers-vs-blackburn-rovers/report/560498"
       },
       {
-        "title": "Werro holds off Hodgkinson to claim 800m gold as Brit settles for silver",
-        "link": "https://www.skysports.com/live-blog/12040/13571552/european-athletics-championships-2026-updates-from-birmingham-as-keely-hodgkinson-dina-asher-smith-katarina-johnson-thompson-compete"
-      },
-      {
-        "title": "LATE DRAMA! Wolves hero Jimenez levels game after controversial penalty call",
-        "link": "https://www.skysports.com/watch/video/13573172/wolves-vs-blackburn-late-drama-raul-jimenez-levels-game-after-dramatic-penalty-call"
-      },
-      {
-        "title": "Super Giants storm into Hundred men's final by beating SunRisers",
-        "link": "https://www.skysports.com/cricket/news/12040/13573109/the-hundred-manchester-super-giants-into-mens-final-with-eliminator-win-over-sunrisers-leeds-as-josh-tongue-and-paul-walter-star"
+        "title": "Castleford claim much-needed Super League win at Hull FC",
+        "link": "https://www.skysports.com/rugby-league/hull-vs-castleford/report/63311"
       }
     ],
     "pitchfork": [],
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "Top of the Line: We Are We Going, Where Have We Been?",
+        "link": "https://www.indiewire.com/features/craft/teenage-sex-and-death-at-camp-miasma-craft-newsletter-1235210568/"
+      },
+      {
         "title": "As Superhero Movies Get Blander, Animated Comic Book Adaptations Have Gotten More Interesting\u00a0",
         "link": "https://www.indiewire.com/features/commentary/superhero-animated-series-better-than-movies-1235209517/"
       },
@@ -163,46 +167,42 @@
       {
         "title": "\u2018Abbott Elementary\u2019 Is Always in the Right Ballpark \u2014 Literally So, for One Very Special Episode",
         "link": "https://www.indiewire.com/features/interviews/abbott-elementary-director-randall-einhorn-phillies-game-1235210238/"
-      },
-      {
-        "title": "Film Independent Scores Its Biggest Grant Ever \u2014 Exclusive",
-        "link": "https://www.indiewire.com/news/breaking-news/film-independent-biggest-grant-history-juan-devis-1235210522/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018Top Chef\u2019 Host Kristen Kish on How Her Fellow Judges and People Around Her \u2018Helped Me Get to a Place Where I Felt Like My Best Self\u2019",
-        "link": "https://variety.com/2026/tv/awards/top-chef-host-kristen-kish-podcast-interview-1236834230/"
+        "title": "Disney Is Launching a Romantasy Webcomics Series on Webtoon Inspired by Movies Including \u2018Beauty and the Beast\u2019",
+        "link": "https://variety.com/2026/digital/news/disney-cursed-love-webtoon-romantasy-webcomics-beauty-and-the-beast-1236834088/"
       },
       {
-        "title": "\u2018Hacks\u2019 Star Lauren Weedman on Appearing Four Emmy-Nominated Comedies This Year and How Bell\u2019s Palsy Changed Her Career",
-        "link": "https://variety.com/2026/awards/news/hacks-lauren-weedman-bells-palsy-1236834102/"
+        "title": "Emmys: Supporting Actress (Comedy) \u2014 Hannah Einbinder Defends Her Crown Against \u2018Widow\u2019s Bay\u2019",
+        "link": "https://variety.com/lists/emmys-2026-supporting-actress-comedy-predictions/"
       },
       {
-        "title": "Warner Bros. Discovery CEO David Zaslav Beneficiary of $27.1 Million in Stock Sales as Paramount Merger Is Stuck on Hold",
-        "link": "https://variety.com/2026/tv/news/warner-bros-discovery-david-zaslav-sells-27-million-stock-1236834226/"
+        "title": "\u2018Beef\u2019 Creator Lee Sung Jin on Abandoning His Tom Brady Heist Plot and the Finneas, Cailee Spaeny Emmy Snubs",
+        "link": "https://variety.com/2026/tv/awards/lee-sung-jin-beef-tom-brady-emmy-snubs-1236834964/"
       },
       {
-        "title": "\u2018The Radio Doesn\u2019t Play Songs for Me Anymore\u2019: Tailgaters at the Foo Fighters\u2019 Stadium Tour Mourn the Dimming Light of Rock Music",
-        "link": "https://variety.com/2026/music/features/foo-fighters-tailgating-fans-debate-rock-music-concert-1236834649/"
+        "title": "Ian Crafford, Editor of \u2018Hope and Glory,\u2019 \u2018Field of Dreams,\u2019 Dies at 82",
+        "link": "https://variety.com/2026/film/news/ian-crafford-dead-field-of-dreams-1236834958/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018Deli Boys\u2019 Canceled After Two Seasons on Hulu",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/deli-boys-canceled-hulu-2-seasons-1236673950/"
+        "title": "Anne Hathaway Says Films Where Dogs Die \u201cShould Automatically Be Rated R\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/anne-hathaway-films-dogs-die-rated-r-1236674062/"
       },
       {
-        "title": "Paramount Says It Has Secured All Global Clearances  to Close WBD Deal \u2026 Except for That Pesky Lawsuit",
-        "link": "https://www.hollywoodreporter.com/business/business-news/paramount-secures-global-clearances-wbd-deal-except-lawsuit-1236673941/"
+        "title": "Adam Scott Says Daughter Had to Watch His \u2018Office\u2019 Audition Tape in Acting Class: \u201cWhat Not to Do\u201d",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/adam-scott-daughter-office-audition-acting-class-example-1236674047/"
       },
       {
-        "title": "\u2018Stuart Fails to Save the Universe\u2019 Renewed for Second Season at HBO Max",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/stuart-fails-to-save-the-universe-renewed-season-2-hbo-max-1236673911/"
+        "title": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch",
+        "link": "https://www.hollywoodreporter.com/business/business-news/hollywood-californias-business-tax-credit-law-1236673980/"
       },
       {
-        "title": "How Oscar Isaac and Carey Mulligan Brought Their Own Backstories to the Lindsay-Josh Fight in \u2018Beef\u2019 Season 2",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/lee-sung-jin-beef-season-two-emmys-1236672641/"
+        "title": "Am\u00e9lie Hoeferle on Sisterhood, \u2018Sterling Point\u2019 and How She Found Her Love for Acting",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/amelie-hoeferle-sterling-point-love-for-acting-sisterhood-1236673127/"
       }
     ],
     "larb": [],
