@@ -1,81 +1,64 @@
 {
-  "last_updated": "2026-08-16 15:14 UTC",
+  "last_updated": "2026-08-16 18:18 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+        "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
         "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "People who fled Stourbridge fires start to return home",
-        "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss"
+        "title": "Emergency phone alert put domestic abuse victims at risk, campaigners say",
+        "link": "https://www.bbc.co.uk/news/articles/cwyllkz80dlo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Murder inquiry after man bitten by dog dies",
         "link": "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Calls for public inquiry into Jason Arday 'witch hunt'",
-        "link": "https://www.bbc.co.uk/news/articles/cwymmp30711o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii",
-        "link": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss"
+        "title": "Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss"
       },
       {
-        "title": "\u2018The Mediterranean is a bridge, not a border\u2019",
-        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/16/the-mediterranean-is-a-bridge-not-a?traffic_source=rss"
+        "title": "Israeli army besieges Palestinian homes in occupied West Bank",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss"
       },
       {
-        "title": "Ben-Gvir calls for nightly killings of Palestinians in Gaza",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/ben-gvir-calls-for-nightly-killings-of-palestinians-in-gaza?traffic_source=rss"
+        "title": "Why are sandwiches more regulated than AI?",
+        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/16/why-are-sandwiches-more-regulated-than-ai?traffic_source=rss"
       },
       {
-        "title": "What is Tokyo\u2019s Yasukuni Shrine, linked to Japan\u2019s wartime atrocities?",
-        "link": "https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities?traffic_source=rss"
+        "title": "\u2018Water and salt\u2019: Qusra residents trapped in Israeli settler siege",
+        "link": "https://www.aljazeera.com/news/2026/8/16/water-and-salt-qusra-residents-trapped-in-israeli-settler-siege?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Danish Golf Championship: Winther pips fellow dane H\u00f8jgaard in thrilling finish",
-        "link": "https://www.skysports.com/golf/news/12040/13573720/danish-golf-championship-jeff-winther-pips-fellow-dane-rasmus-h248jgaard-in-thrilling-finish-to-dp-world-tour-event"
+        "title": "Forest latest: Pre-season rounded off with Brest win",
+        "link": "https://www.skysports.com/football/live-blog/12040/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
       },
       {
-        "title": "The Hundred LIVE! Rockets chasing 92 to win women's final after SunRisers skittled",
-        "link": "https://www.skysports.com/cricket/live-blog/12040/13573620/the-hundred-finals-live-trent-rockets-vs-sunrisers-leeds-in-womens-match-before-rockets-take-on-manchester-super-giants-in-mens"
+        "title": "West Ham blow two-goal lead at Burnley to draw on Championship return",
+        "link": "https://www.skysports.com/football/burnley-vs-west-ham-united/report/560507"
       },
       {
-        "title": "Southampton baited over Spygate scandal in defeat at Watford",
-        "link": "https://www.skysports.com/football/watford-vs-southampton/report/560508"
+        "title": "Middlesex stun Durham to deny Stokes spot in One-Day Cup final",
+        "link": "https://www.skysports.com/cricket/news/12040/13573761/ben-stokes-durham-lose-one-day-cup-semi-final-to-middlesex-who-book-final-meeting-with-leicestershire"
       },
       {
-        "title": "It's three! Odegaard puts Arsenal in command against Man City LIVE!",
-        "link": "https://www.skysports.com/football/arsenal-vs-manchester-city/live/556659"
+        "title": "Arsenal thump Man City to send statement with Community Shield win",
+        "link": "https://www.skysports.com/football/arsenal-vs-manchester-city/report/556659"
       }
     ],
     "pitchfork": [],
     "quietus": [],
-    "aquariumdrunkard": [
-      {
-        "title": "Allah-Las :: Sirenas",
-        "link": "https://aquariumdrunkard.com/2026/08/14/allah-las-sirenas/"
-      },
-      {
-        "title": "Don Cherry & Okay Temiz :: Music for Turkish Theater 1970",
-        "link": "https://aquariumdrunkard.com/2026/08/13/don-cherry-okay-temiz-music-for-turkish-theater-1970/"
-      },
-      {
-        "title": "In Gowan Ring :: The Glinting Spade",
-        "link": "https://aquariumdrunkard.com/2026/08/13/in-gowan-ring-the-glinting-spade/"
-      },
-      {
-        "title": "Jan & Dean :: Save for a Rainy Day",
-        "link": "https://aquariumdrunkard.com/2026/08/12/jan-dean-save-for-a-rainy-day/"
-      }
-    ],
+    "aquariumdrunkard": [],
     "bfi": [],
     "criterion": [],
     "rogerebert": [
@@ -171,38 +154,38 @@
     ],
     "variety": [
       {
-        "title": "\u2018Mission\u2019 Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
-        "link": "https://variety.com/2026/film/reviews/mission-review-george-mackay-1236835601/"
+        "title": "\u2018The Sopranos\u2019 Star Drea de Matteo Says Starting an OnlyFans Was a \u2018Political Statement\u2019: \u2018F\u2014 You. I Don\u2019t Have to Work\u2019",
+        "link": "https://variety.com/2026/tv/news/the-sopranos-drea-de-matteo-onlyfans-political-statement-1236835657/"
       },
       {
-        "title": "Locarno Winner \u2018Forgotten Spaceman\u2019 Adds Khan & Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/festivals/forgotten-spaceman-locarno-leopard-tomorrow-khan-kumar-prism-eps-1236835604/"
+        "title": "Dolly Parton Skips Dollywood Ride Opening Amid Ongoing Health Problems: \u2018My Nashville Doctor Has Kinda Clipped My Wings\u2019",
+        "link": "https://variety.com/2026/music/news/dolly-parton-skips-dollywood-opening-health-issues-1236835632/"
       },
       {
-        "title": "\u2018Shame and Money\u2019 Director on Sundance-Winning Drama About a Kosovo Family in Free Fall: \u2018It\u2019s a Look Into the Past and a Warning to the Future\u2019",
-        "link": "https://variety.com/2026/film/global/shame-and-money-sundance-social-drama-kosovo-1236834517/"
+        "title": "Paul Mescal, Joseph Quinn, Barry Keoghan and Harris Dickinson Spotted Filming Beatles Biopic at Iconic Abbey Road Crosswalk",
+        "link": "https://variety.com/2026/film/news/paul-mescal-barry-keoghan-filming-beatles-biopic-abbey-road-1236835628/"
       },
       {
-        "title": "Ranveer Singh, Kalyani Priyadarshan\u2019s \u2018Pralay,\u2019 Produced by Ananya Birla and Hansal Mehta, Directed by Jai Mehta, Starts Filming",
-        "link": "https://variety.com/2026/film/news/ranveer-singh-kalyani-priyadarshan-pralay-mumbai-filming-1236835508/"
+        "title": "Box Office: \u2018Spider-Man: Brand New Day\u2019 Remains No. 1 With $70 Million, \u2018End of Oak Street\u2019 Debuts to $21 Million",
+        "link": "https://variety.com/2026/film/box-office/spiderman-box-office-brand-new-day-dominates-end-of-oak-street-debut-1236834084/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018Too Much Music\u2019 Is a Doc Project About Ghanaian Keyboardist Kiki Gyan \u2013 and About Who Controls Artists\u2019 Narratives",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/too-much-music-doc-film-ghana-kiki-gyan-locarno-open-doors-1236673554/"
+        "title": "The French Designer Behind the Sexiest Moments of Hollywood\u2019s Golden Age (Including That Marilyn Dress)",
+        "link": "https://www.hollywoodreporter.com/lifestyle/style/designer-marilyn-monroe-dress-hollywood-glamour-1236671256/"
       },
       {
-        "title": "Disney\u2019s Experiences Chief Talks Figment, the Tomorrowland Refresh and All That D23 News",
-        "link": "https://www.hollywoodreporter.com/business/business-news/disneys-experiences-tomorrowland-figment-refresh-d23-1236673154/"
+        "title": "Nick Reiner\u00a0Blocked From Trust Fund Due to \u201cSlayer Statute\u201d Amid Charges For Parents\u2019 Murder",
+        "link": "https://www.hollywoodreporter.com/news/general-news/nick-reiner-blocked-trust-fund-charges-parents-murder-1236674564/"
       },
       {
-        "title": "Netflix Fires Back Against Tyra Banks\u2019 \u2018America\u2019s Next Top Model\u2019 Docuseries Defamation Lawsuit",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-tyra-banks-antm-defamation-lawsuit-dismiss-1236674506/"
+        "title": "\u2018Spider-Man: Brand New Day\u2019 Hits $2B Globally to Top \u2018No Way Home\u2019 as Sony\u2019s Biggest Release",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-oak-street-paw-patrol-1236674347/"
       },
       {
-        "title": "\u2018RuPaul\u2019s Drag Race\u2019 Renewed for Season 19 at MTV",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/rupauls-drag-race-renewal-season-19-mtv-1236674246/"
+        "title": "\u201cIt Was a Bumpy Ride!\u201d: Jack Rowan and Director Kieron J. Walsh on the Many Lives of Head-Bopping, Troubles-Set \u2018Skintown\u2019",
+        "link": "https://www.hollywoodreporter.com/movies/movie-features/jack-rowan-kieron-j-walsh-interview-skintown-film-edinburgh-1236670964/"
       }
     ],
     "larb": [],
