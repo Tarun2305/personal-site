@@ -1,46 +1,46 @@
 {
-  "last_updated": "2026-08-16 06:27 UTC",
+  "last_updated": "2026-08-16 09:20 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Reform UK plans to overhaul welfare system to save \u00a350bn",
+        "title": "People who fled Stourbridge fires start to return home",
+        "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Reform proposes \u00a350bn welfare bill cut with changes to disability payments for millions",
         "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
-        "link": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss"
+        "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+        "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Ariana Grande leaves problems at home as her tour hits the UK",
         "link": "https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Jason Arday death 'tragedy on so many levels' says PM",
-        "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "How a simple lighter has become the backbone of life in Gaza",
-        "link": "https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss"
+        "title": "Cincinnati Open: Djokovic stunned by Tirante in second round",
+        "link": "https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss"
       },
       {
-        "title": "A nation divided: What do Israelis want in October\u2019s elections?",
-        "link": "https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss"
+        "title": "3-year-old girl rescued 100 hours after Colombia earthquake",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/3-year-old-girl-rescued-100-hours-after-colombia-earthquake?traffic_source=rss"
       },
       {
-        "title": "Indonesia\u2019s magnitude 7.7 quake kills at least 51, displaces thousands",
-        "link": "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss"
+        "title": "At least 12 people killed in Hungary bus crash",
+        "link": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss"
       },
       {
-        "title": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
-        "link": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss"
+        "title": "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
+        "link": "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Tennis scores: Norrie beaten by top seed Zverev in Cincinnati",
+        "title": "Tennis scores: Fery wins in Cincinnati on first appearance since Wimbledon heroics",
         "link": "https://www.skysports.com/tennis/scores-schedule"
       },
       {
@@ -52,7 +52,7 @@
         "link": "https://www.skysports.com/golf/news/12040/13573540/fedex-st-jude-championship-scottie-scheffler-retains-lead-ahead-of-final-round-as-rory-mcilroy-endures-another-tough-day"
       },
       {
-        "title": "Djokovic knocked out early in Cincinnati after struggling in sapping heat",
+        "title": "Djokovic struggles with heat in Cincinnati as Wimbledon hero Fery returns",
         "link": "https://www.skysports.com/tennis/news/12040/13573406/novak-djokovic-out-of-cincinnati-open-in-second-round-after-struggling-with-heat-and-humidity-against-thiago-agustin-tirante"
       }
     ],
@@ -171,6 +171,10 @@
     ],
     "variety": [
       {
+        "title": "\u2018Shame and Money\u2019 Director on Sundance-Winning Drama About a Kosovo Family in Free Fall: \u2018It\u2019s a Look Into the Past and a Warning to the Future\u2019",
+        "link": "https://variety.com/2026/film/global/shame-and-money-sundance-social-drama-kosovo-1236834517/"
+      },
+      {
         "title": "Ranveer Singh, Kalyani Priyadarshan\u2019s \u2018Pralay,\u2019 Produced by Ananya Birla and Hansal Mehta, Directed by Jai Mehta, Starts Filming",
         "link": "https://variety.com/2026/film/news/ranveer-singh-kalyani-priyadarshan-pralay-mumbai-filming-1236835508/"
       },
@@ -181,13 +185,13 @@
       {
         "title": "\u2018Monsters, Inc.\u2019 Themed Land Will Open at Disney World in 2027",
         "link": "https://variety.com/2026/film/news/monsters-inc-themed-land-will-disney-world-2027-1236834775/"
-      },
-      {
-        "title": "\u2018RuPaul\u2019s Drag Race,\u2019 \u2018All Stars\u2019 and \u2018Untucked\u2019 Renewed for New Seasons at MTV and Paramount+",
-        "link": "https://variety.com/2026/tv/news/rupaul-drag-race-all-stars-untucked-renewed-mtv-paramount-1236834928/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "\u2018Too Much Music\u2019 Is a Doc Project About Ghanaian Keyboardist Kiki Gyan \u2013 and About Who Controls Artists\u2019 Narratives",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/too-much-music-doc-film-ghana-kiki-gyan-locarno-open-doors-1236673554/"
+      },
       {
         "title": "Disney\u2019s Experiences Chief Talks Figment, the Tomorrowland Refresh and All That D23 News",
         "link": "https://www.hollywoodreporter.com/business/business-news/disneys-experiences-tomorrowland-figment-refresh-d23-1236673154/"
@@ -199,10 +203,6 @@
       {
         "title": "\u2018RuPaul\u2019s Drag Race\u2019 Renewed for Season 19 at MTV",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/rupauls-drag-race-renewal-season-19-mtv-1236674246/"
-      },
-      {
-        "title": "Disney and Epic Games Launch Game That Connects Star Wars Theme Park Ride to New Fortnite Adventure",
-        "link": "https://www.hollywoodreporter.com/business/digital/disney-epic-games-star-wars-theme-park-ride-fortnite-1236674132/"
       }
     ],
     "larb": [],
