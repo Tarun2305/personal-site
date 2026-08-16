@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15 21:13 UTC",
+  "last_updated": "2026-08-16 00:53 UTC",
   "feeds": {
     "bbc": [
       {
@@ -11,49 +11,49 @@
         "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Analysis: Arday's death will send shockwaves through a divided academia",
-        "link": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
         "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
+        "link": "https://www.bbc.co.uk/news/articles/c1w1yv987jqo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Qatar denies it is detaining three Iranian bomber pilots",
-        "link": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss"
+        "title": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss"
       },
       {
-        "title": "California tackles multiple wildfires as firefighter workforce faces strain",
-        "link": "https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss"
+        "title": "Yemen\u2019s government says Houthi strikes hit residential areas in Marib",
+        "link": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss"
       },
       {
-        "title": "Canadian petition to expel US ambassador gains over 170,000 signatures",
-        "link": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss"
+        "title": "At least five reported dead amid flooding in US state of Indiana",
+        "link": "https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss"
       },
       {
-        "title": "Moroccan Police Intercept Migrants Heading for Ceuta Enclave",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss"
+        "title": "Colombia asks Trump to suspend tariffs as country reels from earthquake",
+        "link": "https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Scheffler retains lead in Memphis as Burns stars and McIlroy toils again",
+        "link": "https://www.skysports.com/golf/news/12040/13573540/fedex-st-jude-championship-scottie-scheffler-retains-lead-ahead-of-final-round-as-rory-mcilroy-endures-another-tough-day"
+      },
+      {
+        "title": "Tennis scores: Norrie faces top seed Zverev in Cincinnati overnight",
+        "link": "https://www.skysports.com/tennis/scores-schedule"
+      },
+      {
+        "title": "Djokovic knocked out early in Cincinnati after struggling in sapping heat",
+        "link": "https://www.skysports.com/tennis/news/12040/13573406/novak-djokovic-out-of-cincinnati-open-in-second-round-after-struggling-with-heat-and-humidity-against-thiago-agustin-tirante"
+      },
+      {
         "title": "Papers: Lille head coach confirms Man City's Bouaddi talks",
         "link": "https://www.skysports.com/football/news/12040/13573576/man-city-transfer-news-ayyoub-bouaddi-talks-confirmed-by-lille-head-coach-davide-ancelotti-who-hopes-deal-falls-through"
-      },
-      {
-        "title": "Tributes paid to Tarling following British cyclist's death during Volta a Portugal",
-        "link": "https://www.skysports.com/cycling/news/12040/13573557/finlay-tarling-tributes-paid-to-british-cyclist-after-death-during-volta-a-portugal"
-      },
-      {
-        "title": "St Helens keep slim play-off hopes alive by stunning Wakefield",
-        "link": "https://www.skysports.com/rugby-league/news/12040/13573404/super-league-st-helens-keep-slim-play-off-hopes-alive-after-stirring-second-half-earns-46-16-win-over-wakefield-trinity"
-      },
-      {
-        "title": "SunRisers, Super Giants out to deny Rockets a Hundred double",
-        "link": "https://www.skysports.com/cricket/news/12040/13573509/the-hundred-trent-rockets-target-two-titles-at-lords-on-sunday-but-sunrisers-leeds-and-manchester-super-giants-stand-in-their-way"
       }
     ],
     "pitchfork": [],
@@ -171,38 +171,38 @@
     ],
     "variety": [
       {
+        "title": "\u2018RuPaul\u2019s Drag Race,\u2019 \u2018All Stars\u2019 and \u2018Untucked\u2019 Renewed for New Seasons at MTV and Paramount+",
+        "link": "https://variety.com/2026/tv/news/rupaul-drag-race-all-stars-untucked-renewed-mtv-paramount-1236834928/"
+      },
+      {
+        "title": "Disney Leaders Talk Streaming Strategy and Growth Drivers: Sports, Local Language, Vertical Media and Emerging Formats",
+        "link": "https://variety.com/2026/tv/news/d23-espn-disney-international-eric-schrier-carol-choi-1236835550/"
+      },
+      {
+        "title": "Slipknot Confirms Sid Wilson\u2019s Sudden Exit: \u2018We Wish Him the Best\u2019",
+        "link": "https://variety.com/2026/music/news/slipknot-confirms-sid-wilson-sudden-exit-1236835546/"
+      },
+      {
         "title": "Here\u2019s How to Watch Claressa Shields vs. Kaye Scott Boxing Live Online",
         "link": "https://variety.com/2026/shopping/news/how-to-watch-claressa-shields-vs-kaye-scott-boxing-live-online-1236833217/"
-      },
-      {
-        "title": "Director Frieda Luk on Olivia Luccardi\u2019s \u2018Sacred Creatures\u2019 Role and the Fine Line Between \u2018Crazy\u2019 and \u2018Enlightened\u2019",
-        "link": "https://variety.com/2026/film/festivals/director-frieda-luk-olivia-luccardi-sacred-creatures-1236835353/"
-      },
-      {
-        "title": "\u2018Lanterns\u2019 Bosses and Stars on How the Show\u2019s Grounded Approach Ushers in an \u2018Entirely Different Kind of Superhero\u2019",
-        "link": "https://variety.com/2026/tv/news/lanterns-creators-grounded-show-future-dcu-1236835494/"
-      },
-      {
-        "title": "\u2018How the F\u2014 Would You Get This Movie Made in America?\u2019 Christine Vachon, Film4, BBC Film Put \u2018Trainspotting,\u2019 \u2018Ratcatcher\u2019 and \u2018The Wicker Man\u2019 Through the 2026 Greenlight Test",
-        "link": "https://variety.com/2026/film/festivals/how-would-you-get-this-movie-made-vachon-film4-bbc-1236835455/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018The Beast in Me\u2019 Showrunner Knows That the Violent Murder Scene Was a \u201cPotential Tune-Out Point\u201d For Some Viewers",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/howard-gordon-the-beast-in-me-1236672642/"
+        "title": "\u2018RuPaul\u2019s Drag Race\u2019 Renewed for Season 19 at MTV",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/rupauls-drag-race-renewal-season-19-mtv-1236674246/"
       },
       {
-        "title": "The TikTok Comment That Let Megan Gallagher Know She Nailed the Representation of Motherhood in \u2018All Her Fault\u2019",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/tiktok-comment-all-her-fault-motherhood-tv-1236672638/"
+        "title": "Disney and Epic Games Launch Game That Connects Star Wars Theme Park Ride to New Fortnite Adventure",
+        "link": "https://www.hollywoodreporter.com/business/digital/disney-epic-games-star-wars-theme-park-ride-fortnite-1236674132/"
       },
       {
-        "title": "Hollywood Flashback: When Dudley Moore Intoxicated Audiences in \u2018Arthur\u2019",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/dudley-moore-author-1236671092/"
+        "title": "Selena Gomez\u2019s Attorney Fires Back at Wondermind Lawsuit: \u201cCompletely Meritless\u201d \u00a0",
+        "link": "https://www.hollywoodreporter.com/news/general-news/selena-gomez-responds-wondermind-lawsuit-completely-meritless-1236674411/"
       },
       {
-        "title": "Where to Stream UFC 330: Makhachev vs. Machado Garry",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-ufc-330-livestream-paramount-plus-free-trial-1236674118/"
+        "title": "CBS News Chief Correspondent Matt Gutman\u00a0Accused of Harassment in Wrongful-Termination Suit by Former ABC News Producer",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/cbs-news-matt-gutman-accused-harassment-abc-news-1236674408/"
       }
     ],
     "larb": [],
@@ -230,12 +230,12 @@
         "link": "https://psyche.co/videos/talking-to-yourself-isnt-just-normal-it-can-be-beneficial"
       },
       {
-        "title": "The satisfaction of doing work that lasts",
-        "link": "https://psyche.co/notes-to-self/the-deep-satisfaction-of-doing-work-that-lasts"
-      },
-      {
         "title": "Writing letters is a spiritual practice for our age of speed",
         "link": "https://psyche.co/ideas/writing-letters-is-a-spiritual-practice-for-our-age-of-speed"
+      },
+      {
+        "title": "The satisfaction of doing work that lasts",
+        "link": "https://psyche.co/notes-to-self/the-deep-satisfaction-of-doing-work-that-lasts"
       },
       {
         "title": "Two actors, no director, one dreamlike play",
