@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-08-16 12:24 UTC",
+  "last_updated": "2026-08-16 15:14 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "People who fled Stourbridge fires start to return home",
-        "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss"
+        "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
+        "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Reform proposes \u00a350bn welfare bill cut with changes to disability payments for millions",
-        "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss"
+        "title": "People who fled Stourbridge fires start to return home",
+        "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Murder inquiry after man bitten by dog dies",
         "link": "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Ariana Grande leaves problems at home as her tour hits the UK",
-        "link": "https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss"
+        "title": "Calls for public inquiry into Jason Arday 'witch hunt'",
+        "link": "https://www.bbc.co.uk/news/articles/cwymmp30711o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "\u2018Spearhead of annexation\u2019: Israel hands West Bank rule to civilian police",
-        "link": "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss"
+        "title": "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii",
+        "link": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss"
       },
       {
-        "title": "\u2018Limited options\u2019 for many Iranians as war with US chokes economy",
-        "link": "https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss"
+        "title": "\u2018The Mediterranean is a bridge, not a border\u2019",
+        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/16/the-mediterranean-is-a-bridge-not-a?traffic_source=rss"
       },
       {
-        "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
-        "link": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss"
+        "title": "Ben-Gvir calls for nightly killings of Palestinians in Gaza",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/ben-gvir-calls-for-nightly-killings-of-palestinians-in-gaza?traffic_source=rss"
       },
       {
-        "title": "Arsenal vs Manchester City LIVE: FA Community Shield",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/8/16/arsenal-vs-manchester-city-live-fa-community-shield?traffic_source=rss"
+        "title": "What is Tokyo\u2019s Yasukuni Shrine, linked to Japan\u2019s wartime atrocities?",
+        "link": "https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Arsenal vs Man City LIVE! Your views ahead of Community Shield...",
-        "link": "https://www.skysports.com/football/live-blog/12040/13573678/arsenal-vs-man-city-live-community-shield-commentary-live-score-and-team-news"
+        "title": "Danish Golf Championship: Winther pips fellow dane H\u00f8jgaard in thrilling finish",
+        "link": "https://www.skysports.com/golf/news/12040/13573720/danish-golf-championship-jeff-winther-pips-fellow-dane-rasmus-h248jgaard-in-thrilling-finish-to-dp-world-tour-event"
       },
       {
-        "title": "Tennis scores: Fery wins in Cincinnati on first appearance since Wimbledon heroics",
-        "link": "https://www.skysports.com/tennis/scores-schedule"
+        "title": "The Hundred LIVE! Rockets chasing 92 to win women's final after SunRisers skittled",
+        "link": "https://www.skysports.com/cricket/live-blog/12040/13573620/the-hundred-finals-live-trent-rockets-vs-sunrisers-leeds-in-womens-match-before-rockets-take-on-manchester-super-giants-in-mens"
       },
       {
-        "title": "Precise faces More Thunder in Prix Jacques le Marois",
-        "link": "https://www.skysports.com/racing/news/12040/13573208/today-on-sky-sports-racing-precise-faces-more-thunder-and-zeus-olympios-in-prix-jacques-le-marois"
+        "title": "Southampton baited over Spygate scandal in defeat at Watford",
+        "link": "https://www.skysports.com/football/watford-vs-southampton/report/560508"
       },
       {
-        "title": "Scheffler retains lead in Memphis as Burns stars and McIlroy toils again",
-        "link": "https://www.skysports.com/golf/news/12040/13573540/fedex-st-jude-championship-scottie-scheffler-retains-lead-ahead-of-final-round-as-rory-mcilroy-endures-another-tough-day"
+        "title": "It's three! Odegaard puts Arsenal in command against Man City LIVE!",
+        "link": "https://www.skysports.com/football/arsenal-vs-manchester-city/live/556659"
       }
     ],
     "pitchfork": [],
@@ -171,6 +171,10 @@
     ],
     "variety": [
       {
+        "title": "\u2018Mission\u2019 Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
+        "link": "https://variety.com/2026/film/reviews/mission-review-george-mackay-1236835601/"
+      },
+      {
         "title": "Locarno Winner \u2018Forgotten Spaceman\u2019 Adds Khan & Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)",
         "link": "https://variety.com/2026/film/festivals/forgotten-spaceman-locarno-leopard-tomorrow-khan-kumar-prism-eps-1236835604/"
       },
@@ -181,10 +185,6 @@
       {
         "title": "Ranveer Singh, Kalyani Priyadarshan\u2019s \u2018Pralay,\u2019 Produced by Ananya Birla and Hansal Mehta, Directed by Jai Mehta, Starts Filming",
         "link": "https://variety.com/2026/film/news/ranveer-singh-kalyani-priyadarshan-pralay-mumbai-filming-1236835508/"
-      },
-      {
-        "title": "\u2018The Pitt,\u2019 \u2018Hacks\u2019 and \u2018Beef\u2019 Among Astra TV Awards Winners",
-        "link": "https://variety.com/2026/awards/news/the-pitt-hacks-beef-astra-tv-awards-winners-1236835570/"
       }
     ],
     "hollywoodreporter": [
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "Female Treefrogs Get Overwhelmed by Too Many Noisy Male Suitors",
+        "link": "https://nautil.us/female-treefrogs-get-overwhelmed-by-too-many-noisy-male-suitors-1283821/"
+      },
+      {
         "title": "Is This the World\u2019s Oldest Image of a Mind\u2011altering Plant?",
         "link": "https://nautil.us/is-this-the-worlds-oldest-image-of-a-mind%e2%80%91altering-plant-1283811/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "Where Human Sleep Went Wrong",
         "link": "https://nautil.us/where-human-sleep-went-wrong-1283797/"
-      },
-      {
-        "title": "The Conditions on a US Aircraft Carrier Sound Concerning",
-        "link": "https://nautil.us/the-conditions-on-a-us-aircraft-carrier-sound-concerning-1283806/"
       }
     ],
     "worksinprogress": [],
