@@ -1,40 +1,40 @@
 {
-  "last_updated": "2026-08-16 00:53 UTC",
+  "last_updated": "2026-08-16 03:41 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Reform UK plan would overhaul welfare system with \u00a350bn in savings",
+        "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
         "link": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Jason Arday death 'tragedy on so many levels' says PM",
-        "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss"
+        "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+        "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-        "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
-        "link": "https://www.bbc.co.uk/news/articles/c1w1yv987jqo?at_medium=RSS&at_campaign=rss"
+        "title": "Ariana Grande leaves problems at home as her tour hits the UK",
+        "link": "https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss"
+        "title": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss"
       },
       {
-        "title": "Yemen\u2019s government says Houthi strikes hit residential areas in Marib",
-        "link": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss"
+        "title": "As petrol prices soar, electric bikes gain ground in Nigeria",
+        "link": "https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss"
       },
       {
-        "title": "At least five reported dead amid flooding in US state of Indiana",
-        "link": "https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss"
+        "title": "Army drops roses on Syrian crowds in a far cry from war",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss"
       },
       {
-        "title": "Colombia asks Trump to suspend tariffs as country reels from earthquake",
-        "link": "https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss"
+        "title": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
+        "link": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -189,6 +189,10 @@
     ],
     "hollywoodreporter": [
       {
+        "title": "Netflix Fires Back Against Tyra Banks\u2019 \u2018America\u2019s Next Top Model\u2019 Docuseries Defamation Lawsuit",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-tyra-banks-antm-defamation-lawsuit-dismiss-1236674506/"
+      },
+      {
         "title": "\u2018RuPaul\u2019s Drag Race\u2019 Renewed for Season 19 at MTV",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/rupauls-drag-race-renewal-season-19-mtv-1236674246/"
       },
@@ -199,10 +203,6 @@
       {
         "title": "Selena Gomez\u2019s Attorney Fires Back at Wondermind Lawsuit: \u201cCompletely Meritless\u201d \u00a0",
         "link": "https://www.hollywoodreporter.com/news/general-news/selena-gomez-responds-wondermind-lawsuit-completely-meritless-1236674411/"
-      },
-      {
-        "title": "CBS News Chief Correspondent Matt Gutman\u00a0Accused of Harassment in Wrongful-Termination Suit by Former ABC News Producer",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/cbs-news-matt-gutman-accused-harassment-abc-news-1236674408/"
       }
     ],
     "larb": [],
