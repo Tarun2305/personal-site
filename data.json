@@ -1,10 +1,14 @@
 {
-  "last_updated": "2026-08-17 15:18 UTC",
+  "last_updated": "2026-08-17 18:28 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+        "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
         "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Actors lead tributes to 'amazing' Hayden Panettiere after Heroes star dies aged 36",
+        "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
@@ -13,47 +17,43 @@
       {
         "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
         "link": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Emotional farewell to 'global, iconic superstar' Bonnie Tyler",
-        "link": "https://www.bbc.co.uk/news/articles/c171j051gejo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Iran signals readiness for \u2018US ground operations\u2019 as MoU expires",
-        "link": "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss"
+        "title": "CAIR slams Texas governor\u2019s \u2018anti-Muslim stunt\u2019 on airport washing stations",
+        "link": "https://www.aljazeera.com/news/2026/8/17/cair-slams-texas-governors-anti-muslim-stunt-on-airport-washing-stations?traffic_source=rss"
       },
       {
-        "title": "Boat sets sail from Bristol, aiming to break Israel\u2019s siege of Gaza",
-        "link": "https://www.aljazeera.com/news/2026/8/17/boat-sets-sail-from-bristol-aiming-to-break-israels-siege-of-gaza?traffic_source=rss"
+        "title": "Clashes between government and opposition fighters in Somalia\u2019s Baidoa",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/clashes-between-government-and-opposition-fighters-in-somalias-baidoa?traffic_source=rss"
       },
       {
-        "title": "Lula and Bolsonaro\u2019s son launch rival bids for Brazil presidency",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss"
+        "title": "Syria launches probe into death of \u2018White Helmet\u2019 rescuer in police custody",
+        "link": "https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss"
       },
       {
-        "title": "Global condemnation of Israeli settler violence against Palestinians",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/global-condemnation-of-israeli-settler-violence-against-palestinians?traffic_source=rss"
+        "title": "Explosion reported at school in Afghan capital Kabul",
+        "link": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "FREE STREAM: The Transfer Show on Sky Sports News",
+        "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours"
+      },
+      {
         "title": "Man Utd captain Fernandes not for sale despite Galatasaray interest",
         "link": "https://www.skysports.com/football/news/12040/13574095/bruno-fernandes-transfer-news-manchester-united-captain-not-for-sale-at-any-price-despite-galatasaray-interest"
       },
       {
+        "title": "How are Man Utd shaping up ahead of the new season?",
+        "link": "https://www.skysports.com/football/news/12040/13574077/manchester-uniteds-pre-season-analysed-joshua-zirkzee-resurgent-and-marcus-rashford-reunited-but-they-still-need-a-left-back"
+      },
+      {
         "title": "MCC Female Young Broadcaster of the Year joins Hundred final coverage",
         "link": "https://www.skysports.com/cricket/news/12040/13574033/rosa-simkin-2026-mcc-female-young-broadcaster-of-the-year-winner-joins-sky-sports-for-the-hundred-final-at-lords"
-      },
-      {
-        "title": "Arsenal's trip to Liverpool and Leeds vs Man Utd live on Sky Sports",
-        "link": "https://www.skysports.com/football/news/12040/13574076/premier-league-fixtures-on-sky-sports-liverpool-vs-man-city-and-arsenal-plus-leeds-vs-man-utd-live-in-october-and-november"
-      },
-      {
-        "title": "F1 is back...again! Rewatch the 2026 season defining moments so far",
-        "link": "https://www.skysports.com/watch/video/13572849/formula-one-story-of-the-2026-season"
       }
     ],
     "pitchfork": [],
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "Netflix Names Hollywood Veteran Katie Martin Kelley VP of Communications, Film",
+        "link": "https://www.indiewire.com/news/business/netflix-names-katie-martin-kelley-vp-communications-film-1235210788/"
+      },
+      {
         "title": "\u2018Dreams in Nightmares\u2019 Review: A Stunning New Spin on What the American Road Trip Film Can Be",
         "link": "https://www.indiewire.com/criticism/movies/dreams-in-nightmares-review-shatara-michelle-ford-1235030591/"
       },
@@ -163,46 +167,42 @@
       {
         "title": "\u2018It\u2019s Always Sunny\u2019 Season 18 Is for the Sickos",
         "link": "https://www.indiewire.com/criticism/shows/its-always-sunny-in-philadelphia-season-18-for-the-sickos-1235210525/"
-      },
-      {
-        "title": "\u2018Lanterns\u2019 Review: Episode 1 Lights Up Small-Town America with Big Mysteries and a Massive Twist \u2014 Spoilers",
-        "link": "https://www.indiewire.com/criticism/shows/lanterns-episode-1-review-hal-jordan-dead-explained-1235210338/"
       }
     ],
     "variety": [
       {
-        "title": "American Independent Film Production Is Dying. Jeff Nichols Wants to Save It.",
-        "link": "https://variety.com/2026/film/features/jeff-nichols-indie-film-margaret-qualley-drew-starkey-rumors-1236835974/"
+        "title": "BINI, SB19 and Lea Salonga Lead \u2018Forgotten Island\u2019 Soundtrack (EXCLUSIVE)",
+        "link": "https://variety.com/2026/artisans/news/bini-sb19-lea-salonga-lead-forgotten-island-full-tracklist-1236836531/"
       },
       {
-        "title": "Jonas Brothers Announce 45-City \u2018Burning Up\u2019 North American Tour Dates",
-        "link": "https://variety.com/2026/music/news/jonas-brothers-2026-burning-up-north-american-tour-dates-1236836312/"
+        "title": "Taylor Swift Praises Phoebe Bridgers\u2019 New Album \u2018Lost Weekend,\u2019 Calls It an \u2018Absolute Triumph in Every Way\u2019",
+        "link": "https://variety.com/2026/music/news/taylor-swift-praises-phoebe-bridgers-lost-weekend-triumph-1236836547/"
       },
       {
-        "title": "Amy Schumer to Star in and Produce Break-Up Comedy \u2018Best Divorce Ever\u2019 (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/global/amy-schumer-star-in-produce-comedy-best-divorce-ever-1236836178/"
+        "title": "\u00d8ya Festival 2026: The 10 Best Sets We Saw, From the Cure to Geese to Lily Allen",
+        "link": "https://variety.com/lists/oyafestivalen-2026-best-sets-the-cure-geese-lily-allen/"
       },
       {
-        "title": "Gillian Anderson Says Sony Exited \u2018The Salt Path\u2019 Distribution Deal After Authors\u2019 \u2018Fabrications\u2019 Exposed: \u2018It Felt Like Such a Betrayal\u2019",
-        "link": "https://variety.com/2026/film/global/gillian-anderson-sony-the-salt-path-1236836283/"
+        "title": "Instagram Head of Product Design Explains Thinking Behind That New Logo and Responds to Critics: \u2018It\u2019s Important for Us to Embrace the Future\u2019",
+        "link": "https://variety.com/2026/digital/news/instagram-designer-explains-new-logo-responds-to-critics-1236836340/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Disney Fans Can Now Shop D23 Event Collection Online in Limited Quantities",
-        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/d23-event-2026-product-collection-disney-store-release-date-1236674174/"
+        "title": "Zak Santiago Biopic Series \u2018Deacon\u2019 in the Works, Jonathan Lloyd Walker to Showrun (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/zak-santiago-biopic-series-deacon-1236675191/"
       },
       {
-        "title": "Toronto First Look: \u2018Black Sunflowers\u2019 Images Show Ukrainian Youth Coming of Age in Wartime (Exclusive)",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/toronto-black-sunflowers-first-look-1236674987/"
+        "title": "Rachel Bloom to Make Broadway Debut in \u2018The Imaginary Invalid\u2019",
+        "link": "https://www.hollywoodreporter.com/lifestyle/arts/rachel-bloom-broadway-debut-the-imaginary-invalid-1236675334/"
       },
       {
-        "title": "Alia Shawkat Has Thoughts About Actors Who Don\u2019t Work With Female Filmmakers",
-        "link": "https://www.hollywoodreporter.com/movies/movie-features/alia-shawkat-the-wrong-girls-actors-dont-work-female-filmmakers-1236673953/"
+        "title": "Salli Richardson Whitfield on Her Second Historical Emmy Nominations: \u201cFemale Directors Can Do Action\u201d",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/salli-richardson-whitfield-historical-emmy-nominations-1236675048/"
       },
       {
-        "title": "Motion Picture Association Inks AI IP Protection Deal With ByteDance",
-        "link": "https://www.hollywoodreporter.com/business/digital/mpa-inks-ai-video-ip-protection-bytedance-1236675016/"
+        "title": "Kirsten Jacobson Joins Writ Large as Manager",
+        "link": "https://www.hollywoodreporter.com/business/business-news/kirsten-jacobson-writ-large-manager-1236675132/"
       }
     ],
     "larb": [],
@@ -238,8 +238,8 @@
         "link": "https://psyche.co/videos/talking-to-yourself-isnt-just-normal-it-can-be-beneficial"
       },
       {
-        "title": "The satisfaction of doing work that lasts",
-        "link": "https://psyche.co/notes-to-self/the-deep-satisfaction-of-doing-work-that-lasts"
+        "title": "Writing letters is a spiritual practice for our age of speed",
+        "link": "https://psyche.co/ideas/writing-letters-is-a-spiritual-practice-for-our-age-of-speed"
       }
     ],
     "publicdomainreview": [
@@ -280,20 +280,20 @@
     ],
     "nautilus": [
       {
+        "title": "Massive Prehistoric Crocodylians Took a Brutal Approach to Hunting",
+        "link": "https://nautil.us/massive-prehistoric-crocodylians-took-a-brutal-approach-to-hunting-1283897/"
+      },
+      {
+        "title": "What Bird Song Can Tell Us About the Nature of Dreams",
+        "link": "https://nautil.us/what-bird-song-can-tell-us-about-the-nature-of-dreams-1283860/"
+      },
+      {
         "title": "How Coffee Affects Your Sex Hormone Levels",
         "link": "https://nautil.us/how-coffee-affects-your-sex-hormone-levels-1283854/"
       },
       {
         "title": "A Peek Inside the Black Box of Epigenetic Clocks",
         "link": "https://nautil.us/a-peek-inside-the-black-box-of-epigenetic-clocks-1283841/"
-      },
-      {
-        "title": "Female Treefrogs Get Overwhelmed by Too Many Noisy Male Suitors",
-        "link": "https://nautil.us/female-treefrogs-get-overwhelmed-by-too-many-noisy-male-suitors-1283821/"
-      },
-      {
-        "title": "Is This the World\u2019s Oldest Image of a Mind\u2011altering Plant?",
-        "link": "https://nautil.us/is-this-the-worlds-oldest-image-of-a-mind%e2%80%91altering-plant-1283811/"
       }
     ],
     "worksinprogress": [],
