@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17 06:39 UTC",
+  "last_updated": "2026-08-17 09:33 UTC",
   "feeds": {
     "bbc": [
       {
@@ -11,49 +11,49 @@
         "link": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "UK to turn cooler with rain after exceptional heat and dry spell",
+        "title": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
         "link": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Five teenagers dead and four injured after car drives on wrong side of motorway",
-        "link": "https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&at_campaign=rss"
+        "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
+        "link": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Japan\u2019s economy slows, missing growth forecasts",
-        "link": "https://www.aljazeera.com/economy/2026/8/17/japans-economy-slows-missing-growth-forecasts?traffic_source=rss"
+        "title": "Will India\u2019s \u2018Cockroach\u2019 movement force Modi\u2019s BJP to rethink its politics?",
+        "link": "https://www.aljazeera.com/news/2026/8/17/has-indias-cockroach-movement-forced-modis-bjp-to-recalibrate-agenda?traffic_source=rss"
       },
       {
-        "title": "Cameroon dominates Malawi to win first Women\u2019s Africa Cup of Nations title",
-        "link": "https://www.aljazeera.com/sports/2026/8/17/cameroon-dominates-malawi-to-win-first-womens-africa-cup-of-nations-title?traffic_source=rss"
+        "title": "Photos: Rising energy prices disrupt education on Cambodia\u2019s Tonle Sap lake",
+        "link": "https://www.aljazeera.com/gallery/2026/8/17/photos-rising-energy-prices-disrupt-education-on-cambodias-tonle-sap-lake?traffic_source=rss"
       },
       {
-        "title": "At least seven dead in \u2018stampede-like\u2019 incident at India temple",
-        "link": "https://www.aljazeera.com/news/2026/8/17/at-least-six-dead-in-stampede-like-incident-at-india-temple?traffic_source=rss"
+        "title": "Scottie Scheffler wins St Jude Championship by eight shots",
+        "link": "https://www.aljazeera.com/sports/2026/8/17/scottie-scheffler-wins-st-jude-championship-by-eight-shots?traffic_source=rss"
       },
       {
-        "title": "Iran\u2019s top negotiator declares victory in war against the US and Israel",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss"
+        "title": "Cincinnati Open: Sabalenka takes six match points to defeat Gibson",
+        "link": "https://www.aljazeera.com/sports/2026/8/17/cincinnati-open-sabalenka-takes-six-match-points-to-defeat-gibson?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Rogers on playing with 'artist' Palmer and getting Chelsea back to the top",
+        "link": "https://www.skysports.com/football/news/12040/13572952/chelseas-morgan-rogers-relishing-prospect-of-playing-with-cole-palmer-as-he-targets-premier-league-and-champions-league-glory"
+      },
+      {
+        "title": "Have your say: Defeat to Arsenal and Rodri departing - should City be concerned?",
+        "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      {
         "title": "All you need to know about the US Open Tennis - live on Sky Sports!",
         "link": "https://www.skysports.com/tennis/news/12040/13571651/all-you-need-to-know-about-the-us-open-tennis-live-on-sky-sports-including-dates-schedule-winners-and-tv-times"
       },
       {
-        "title": "Root made 'grown up' call on curfew but does he have the feel for captaincy?",
-        "link": "https://www.skysports.com/cricket/news/12040/13573762/joe-root-england-test-captain-right-to-remove-curfew-says-nasser-hussain-ahead-of-three-test-pakistan-series"
-      },
-      {
-        "title": "Who's really in F1's title race and what factors will decide fight?",
-        "link": "https://www.skysports.com/f1/news/12040/13572982/f1-title-race-assessing-rivals-to-kimi-antonelli-and-factors-that-will-decide-2026-fight-ahead-of-dutch-gp-season-resumption"
-      },
-      {
-        "title": "Lingfield, Windsor and Wolverhampton feature on Monday",
-        "link": "https://www.skysports.com/racing/news/12040/13573655/today-on-sky-sports-racing-lingfield-windsor-and-wolverhampton-host-live-action"
+        "title": "Shields delivers DRAMATIC sixth-round stoppage",
+        "link": "https://www.skysports.com/watch/video/13573617/claressa-shields-delivers-sixth-round-stoppage-against-kaye-scott-to-unify-middleweight-division"
       }
     ],
     "pitchfork": [],
@@ -116,6 +116,10 @@
     ],
     "mubi": [
       {
+        "title": "Remembering 4Columns",
+        "link": "https://mubi.com/en/notebook/posts/remembering-4columns"
+      },
+      {
         "title": "The Current Debate: An Uncomplicated Odyssey",
         "link": "https://mubi.com/en/notebook/posts/the-current-debate-an-uncomplicated-odyssey"
       },
@@ -126,10 +130,6 @@
       {
         "title": "Rushes | TIFF Reveals Full Lineup, Vimeo To End VOD Service, R.I.P. Grace \u201cMambo Girl\u201d Chang",
         "link": "https://mubi.com/en/notebook/posts/rushes-tiff-reveals-full-lineup-vimeo-to-end-vod-service-r-i-p-grace-mambo-girl-chang"
-      },
-      {
-        "title": "Ky\u014dko Kagawa in One Shot",
-        "link": "https://mubi.com/en/notebook/posts/kyoko-kagawa-in-one-shot"
       }
     ],
     "reverseshot": [],
@@ -171,23 +171,31 @@
     ],
     "variety": [
       {
-        "title": "China Box Office: \u2018Once Upon a Time in the Middle East\u2019 Dominates With $70 Million Weekend as Christopher Nolan\u2019s \u2018The Odyssey\u2019 Debuts Second",
-        "link": "https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-the-odyssey-1236836046/"
+        "title": "Deluxe Media and Tohokushinsha Film Corporation Set Strategic Asia-Pacific Localization Partnership (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/news/deluxe-tohokushinsha-apac-localization-partnership-1236836079/"
       },
       {
-        "title": "Hollywood Failed Hayden Panettiere",
-        "link": "https://variety.com/2026/film/news/hayden-panettiere-death-hollywood-sexual-predators-1236836037/"
+        "title": "\u2018Heartstopper\u2019 Star Rhea Norwood, \u2018Enola Holmes\u2019 Actor Susan Wokoma, \u2018Dear England\u2019 Writer James Graham Join U.K. National Youth Theatre\u2019s 70th Anniversary Show (EXCLUSIVE)",
+        "link": "https://variety.com/2026/theater/news/rhea-norwood-susan-wokoma-james-graham-national-youth-theatre-1236835453/"
       },
       {
-        "title": "John Oliver Brutally Mocks Trump for Sacrificing Staff in Airplane-Swap Incident",
-        "link": "https://variety.com/2026/tv/news/john-oliver-mocks-trump-sacrificing-staff-airplane-swap-incident-iran-1236836013/"
+        "title": "\u2018Snapshot\u2019 Review: A Nifty Calling-Card Debut Refashions the Jack the Ripper Story as Found-Footage Horror",
+        "link": "https://variety.com/2026/film/news/snapshot-review-1236835669/"
       },
       {
-        "title": "Hayden Panettiere, \u2018Heroes\u2019 and \u2018Scream\u2019 Star, Dies at 36",
-        "link": "https://variety.com/2026/film/news/hayden-panettiere-dead-heroes-scream-1236835999/"
+        "title": "Mexico\u2019s Madrefoca Boards \u2018Isabel Hern\u00e1ndez\u2019 as Zoe Films Builds Festival Momentum (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/markets-festivals/madrefoca-isabel-hernandez-zoe-films-san-sebastian-1236833977/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "\u2018Vigil\u2019 Season 3 Trailer: Suranne Jones and Rose Leslie Investigate a Murder at an Arctic Research Station \u2013 and They Can\u2019t Trust Anybody",
+        "link": "https://www.hollywoodreporter.com/news/general-news/vigil-season-3-trailer-premiere-suranne-jones-rose-leslie-1236674918/"
+      },
+      {
+        "title": "In \u2018Oasis,\u2019 a School Spirals Into Violence \u2013 and Three Outcasts Take Refuge in a Forest (Exclusive Trailer)",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/oasis-film-trailer-venice-school-outcasts-violence-forest-1236674663/"
+      },
       {
         "title": "Bob Iger Takes Victory Lap As He\u2019s Named a Disney Legend, Applauds New CEO Josh D\u2019Amaro: \u201cYou\u2019re Wearing That Title Really Well\u201d",
         "link": "https://www.hollywoodreporter.com/business/business-news/bob-iger-disney-legend-josh-damaro-d23-1236674802/"
@@ -195,14 +203,6 @@
       {
         "title": "Hayden Panettiere, Actress on \u2018Heroes\u2019 and \u2018Nashville,\u2019 Dies at 36",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/hayden-panettiere-dead-actress-heroes-nashville-scream-1236674794/"
-      },
-      {
-        "title": "Alex Cooper Departing Talent Agency UTA",
-        "link": "https://www.hollywoodreporter.com/business/digital/alex-cooper-departing-talent-agency-uta-1236674749/"
-      },
-      {
-        "title": "Paul Mescal, Joseph Quinn, Barry Keoghan and Harris Dickinson Seen Recreating \u2018Abbey Road\u2019 Album Cover",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/sam-mendes-beatles-biopic-recreates-abbey-road-album-cover-1236674685/"
       }
     ],
     "larb": [],
