@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-08-18 06:30 UTC",
+  "last_updated": "2026-08-18 09:24 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Russia warns UK will pay for supplying drones to Ukraine",
+        "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
         "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Russia warns UK over supplying drones to Ukraine",
-        "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Fifa official sacked after Infantino plan criticism",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss"
+        "title": "British couple on honeymoon killed in helicopter crash on Greek island",
+        "link": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Inside secret police warehouse as Germany targets small boats gangs",
@@ -21,39 +21,39 @@
     ],
     "aljazeera": [
       {
-        "title": "Trump says N Korea\u2019s Kim has responded to his request for a conversation",
-        "link": "https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss"
+        "title": "Pakistan top court orders Imran Khan\u2019s hospital transfer amid access battle",
+        "link": "https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss"
       },
       {
-        "title": "Can Trump limit birthright citizenship? Legal experts are doubtful",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/can-trump-limit-birthright-citizenship-legal-experts-are-doubtful?traffic_source=rss"
+        "title": "Cincinnati Open: Williams sisters fall in doubles while Zverev advances",
+        "link": "https://www.aljazeera.com/sports/2026/8/18/cincinnati-open-williams-sisters-fall-in-doubles-while-zverev-advances?traffic_source=rss"
       },
       {
-        "title": "A hero\u2019s welcome as Cameroon parades its first Women\u2019s AFCON title",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/a-heros-welcome-as-cameroon-parades-its-first-womens-afcon-title?traffic_source=rss"
+        "title": "Trump lashes out at CNN reporter over South Korea question",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss"
       },
       {
-        "title": "Hichilema wins second term as president of copper-rich Zambia",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-zambia-elections-sv?traffic_source=rss"
+        "title": "Syrian court sentences Wassim al-Assad to death",
+        "link": "https://www.aljazeera.com/news/2026/8/18/syrian-court-sentences-wassim-al-assad-to?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Australia make big batting change after shock Bangladesh loss ",
-        "link": "https://www.skysports.com/cricket/news/12040/13574220/australia-vs-bangladesh-hosts-drop-opener-jake-weatherald-but-keep-faith-in-marnus-labuschagne-for-must-win-second-test"
+        "title": "US Amateur champion Whaley and Poulter's son named in GB&I Walker Cup team",
+        "link": "https://www.skysports.com/golf/news/12040/13574036/walker-cup-us-amateur-champion-jack-whaley-makes-gbi-team-alongside-ian-poulters-son-luke"
       },
       {
-        "title": "'Nothing's eternal' Pep opens up on time at Man City in NEW documentary series",
-        "link": "https://www.skysports.com/watch/video/13574225/pep-guardiola-accepts-time-at-man-city-not-eternal-in-new-documentary-series"
+        "title": "England begin new Test cricket era with old captain and no Stokes",
+        "link": "https://www.skysports.com/cricket/news/12040/13574255/joe-roots-second-tenure-as-england-test-cricket-captain-begins-against-pakistan-with-no-ben-stokes-and-victories-vital"
       },
       {
-        "title": "Williams sisters lose tie-break thriller in first doubles reunion since 2022",
-        "link": "https://www.skysports.com/tennis/news/12040/13574212/cincinnati-open-serena-williams-and-sister-venus-williams-lose-thriller-in-first-doubles-match-together-since-2022"
+        "title": "LeBron misses hole-in-one by just a few feet!",
+        "link": "https://www.skysports.com/watch/video/13574262/lebron-james-misses-hole-in-one-by-just-a-few-feet"
       },
       {
-        "title": "Chepstow, Lingfield and Wolverhampton host today's live racing action",
-        "link": "https://www.skysports.com/racing/news/12040/13573965/today-on-sky-sports-racing-chepstow-lingfield-and-wolverhampton-host-action"
+        "title": "Sky Sports and The Fast and the Curious announce new partnership",
+        "link": "https://www.skysports.com/f1/news/12040/13574066/the-fast-and-the-curious-sky-sports-announces-new-partnership-ahead-of-f1s-return-to-action-at-dutch-gp"
       }
     ],
     "pitchfork": [],
@@ -171,20 +171,20 @@
     ],
     "variety": [
       {
+        "title": "Sundance Breakout \u2018Thelma\u2019 Set for Mandarin Remake by Stars Collective, Titled \u2018Grandma, Please\u2019 (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/news/sundance-hit-thelma-mandarin-remake-stars-collective-1236836962/"
+      },
+      {
+        "title": "\u2018Spider-Man: Brand New Day,\u2019 \u2018The Odyssey\u2019 Continue Tussle Atop U.K., Ireland Box Office",
+        "link": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-the-odyssey-continue-tussle-uk-ireland-box-office-1236836944/"
+      },
+      {
         "title": "Rosie O\u2019Donnell Shines in \u2018Jimmy Kimmel Live\u2019 Hosting Debut, Attacks \u2018Mango Mussolini\u2019 Trump and Gives Moving Hayden Panettiere Tribute",
         "link": "https://variety.com/2026/tv/news/rosie-o-donnell-hosts-jimmy-kimmel-live-slams-trump-1236836907/"
       },
       {
         "title": "Vin Diesel Says \u2018Fast Forever\u2019 Starts Shooting in December",
         "link": "https://variety.com/2026/film/news/vin-diesel-fast-forever-starts-shooting-december-1236836906/"
-      },
-      {
-        "title": "Michelle Rodriguez Remembers Hayden Panettiere After Co-Hosting World Music Awards: \u2018Can\u2019t Stand How Many Young People Are Leaving Us Lately\u2019",
-        "link": "https://variety.com/2026/film/news/michelle-rodriguez-hayden-panettiere-world-music-awards-1236836885/"
-      },
-      {
-        "title": "Jeanie Buss Seeks to Contest Sale of Los Angeles Lakers to Bob Iger and Josh Kushner: Report",
-        "link": "https://variety.com/2026/tv/news/jeanie-buss-lakers-sale-bob-iger-josh-kushner-1236836879/"
       }
     ],
     "hollywoodreporter": [
@@ -238,8 +238,8 @@
         "link": "https://psyche.co/videos/talking-to-yourself-isnt-just-normal-it-can-be-beneficial"
       },
       {
-        "title": "Writing letters is a spiritual practice for our age of speed",
-        "link": "https://psyche.co/ideas/writing-letters-is-a-spiritual-practice-for-our-age-of-speed"
+        "title": "The satisfaction of doing work that lasts",
+        "link": "https://psyche.co/notes-to-self/the-deep-satisfaction-of-doing-work-that-lasts"
       }
     ],
     "publicdomainreview": [
