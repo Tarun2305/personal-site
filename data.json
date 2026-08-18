@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18 12:31 UTC",
+  "last_updated": "2026-08-18 15:23 UTC",
   "feeds": {
     "bbc": [
       {
@@ -11,34 +11,38 @@
         "link": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-        "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss"
+        "title": "Serco employee charged with misconduct over sharing asylum seeker addresses in Thetford",
+        "link": "https://www.bbc.co.uk/news/articles/cly8mpp9r8no?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Inside secret police warehouse as Germany targets small boats gangs",
-        "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss"
+        "title": "PM says he's not embarrassed about hoax message exchange",
+        "link": "https://www.bbc.co.uk/news/articles/c5y34zrg668o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Russia protests Japan PM\u2019s comments after Putin\u2019s Kuril visit",
-        "link": "https://www.aljazeera.com/news/2026/8/18/russia-protests-japan-pms-comments-after-putins-kuril-visit?traffic_source=rss"
+        "title": "Iran clubs face Qatar and UAE sides at neutral venues in Champions League",
+        "link": "https://www.aljazeera.com/sports/2026/8/18/iran-clubs-to-play-qatar-and-uae-champions-league-games-at-neutral-venues?traffic_source=rss"
       },
       {
-        "title": "Why has Trump threatened to bomb Oman \u2013 for a second time?",
-        "link": "https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time?traffic_source=rss"
+        "title": "US cites India on voter IDs, but are elections under Modi clean?",
+        "link": "https://www.aljazeera.com/news/2026/8/18/us-cites-india-on-voter-ids-but-are-elections-under-modi-clean?traffic_source=rss"
       },
       {
-        "title": "Premier League what to know: Schedule, prediction, transfers and more",
-        "link": "https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss"
+        "title": "Why is Russia threatening UK with \u2018consequences\u2019 over Ukraine drones?",
+        "link": "https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss"
       },
       {
-        "title": "What to know about California\u2019s special election to replace Eric Swalwell",
-        "link": "https://www.aljazeera.com/news/2026/8/18/what-to-know-about-californias-special-election-to-replace-eric-swalwell?traffic_source=rss"
+        "title": "Patrick Vieira appointed Senegal head coach with AFCON qualifiers looming",
+        "link": "https://www.aljazeera.com/sports/2026/8/18/patrick-vieira-appointed-senegal-head-coach-with-afcon-qualifiers-looming?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "Albon signs one-year contract extension with Williams",
+        "link": "https://www.skysports.com/f1/news/12040/13574380/alex-albon-williams-driver-signs-one-year-contract-extension-to-remain-with-team-for-2027-f1-season"
+      },
       {
         "title": "Kevin Blake's tips for opening day of York's Ebor Festival",
         "link": "https://www.skysports.com/racing/news/12040/13574345/kevin-blakes-ebor-festival-tips-sky-sports-racing-expert-looks-ahead-to-yorks-opening-day-with-three-selections"
@@ -50,15 +54,15 @@
       {
         "title": "US Amateur champion Whaley and Poulter's son named in GB&I Walker Cup team",
         "link": "https://www.skysports.com/golf/news/12040/13574036/walker-cup-us-amateur-champion-jack-whaley-makes-gbi-team-alongside-ian-poulters-son-luke"
-      },
-      {
-        "title": "The Premier League is back! All 20 clubs assessed",
-        "link": "https://www.skysports.com/football/news/12040/13572964/premier-league-season-preview-each-clubs-pre-season-preparations-analysed-ahead-of-new-campaigns-kick-off-this-friday"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "Black Rock :: The Bar-Kays at Wattstax",
+        "link": "https://aquariumdrunkard.com/2026/08/18/black-rock-the-bar-kays-at-wattstax/"
+      },
       {
         "title": "Akusmi :: Terra Incognita",
         "link": "https://aquariumdrunkard.com/2026/08/17/akusmi-terra-incognita/"
@@ -70,30 +74,26 @@
       {
         "title": "Radio Free Aquarium Drunkard :: August 2026",
         "link": "https://aquariumdrunkard.com/2026/08/16/radio-free-aquarium-drunkard-august-2026/"
-      },
-      {
-        "title": "Allah-Las :: Sirenas",
-        "link": "https://aquariumdrunkard.com/2026/08/14/allah-las-sirenas/"
       }
     ],
     "bfi": [],
     "criterion": [],
     "rogerebert": [
       {
+        "title": "Locarno Film Festival 2026: 17 Urgent Hollywood Blacklist Films",
+        "link": "https://www.rogerebert.com/festivals/locarno-film-festival-2026-17-urgent-hollywood-blacklist-films"
+      },
+      {
+        "title": "Gorgeous Platformer \u201cDuskfade\u201d Has Echoes of \u201cKingdom Hearts\u201d",
+        "link": "https://www.rogerebert.com/features/gorgeous-platformer-duskfade-has-echoes-of-kingdom-hearts"
+      },
+      {
+        "title": "An Incredible Light: Hayden Panettiere (1989-2026)",
+        "link": "https://www.rogerebert.com/tributes/an-incredible-light-hayden-panettiere-1989-2026"
+      },
+      {
         "title": "How I Spent Another Summer Vacation At The Drive-In",
         "link": "https://www.rogerebert.com/features/how-i-spent-another-summer-vacation-at-the-drive-in"
-      },
-      {
-        "title": "Locarno 2026: I Rarely Wake Up Dreaming, Hearing, Bruton",
-        "link": "https://www.rogerebert.com/festivals/locarno-2026-i-rarely-wake-up-dreaming-hearing-bruton"
-      },
-      {
-        "title": "Locarno 2026: Nowhere To Lay My Eyes, At Night, Nobody\u2019s Violence",
-        "link": "https://www.rogerebert.com/festivals/locarno-2026-nowhere-to-lay-my-eyes-at-night-nobodys-violence"
-      },
-      {
-        "title": "Regina Taylor to Perform \u201cExhibit\u201d at Atlanta Black Theatre Festival",
-        "link": "https://www.rogerebert.com/chazs-blog/regina-taylor-to-perform-exhibit-at-atlanta-black-theatre-festival"
       }
     ],
     "filmcomment": [
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
+        "title": "Ken Russell\u2019s Restored \u2018The Devils\u2019 Will Scandalize Audiences at NYFF After Its Cannes and TIFF Premieres",
+        "link": "https://www.indiewire.com/news/festivals/nyff-2026-revivals-ken-russell-the-devils-1235210928/"
+      },
+      {
+        "title": "SXSW 2027 Shifts Film Premieres from Paramount Theatre to ACL Live, Adds Podcast Festival",
+        "link": "https://www.indiewire.com/news/festivals/sxsw-2027-venue-changes-podcast-festival-1235211013/"
+      },
+      {
+        "title": "The Film Independent Spirit Awards Are Adding Categories for Creators and International Features",
+        "link": "https://www.indiewire.com/awards/industry/independent-spirit-awards-categories-creators-international-1235211062/"
+      },
+      {
         "title": "\u2018The Devils\u2019: Everything You Need to Know About the Unlikely Restoration of Ken Russell\u2019s Scandalous, Sexually Charged Film",
         "link": "https://www.indiewire.com/news/general-news/the-devils-ken-russell-directors-cut-explained-censored-nuns-sex-1235210957/"
-      },
-      {
-        "title": "\u2018The Rivals of Amziah King\u2019 Wasn\u2019t the Sleeper Indie Box Office Darling We Hoped",
-        "link": "https://www.indiewire.com/news/box-office/rivals-amziah-king-box-office-black-bear-1235210853/"
-      },
-      {
-        "title": "Hayden Panettiere Should Be Remembered for Her Performances, Not the Tabloid Press Trying to Solve Her Tragic Death",
-        "link": "https://www.indiewire.com/features/commentary/hayden-panettiere-remembered-for-work-not-tabloid-press-1235211018/"
-      },
-      {
-        "title": "Why \u2018The Wrong Girls\u2019 Had to Exist Inside the Shaggy L.A. Mainstream Hollywood Could Never See",
-        "link": "https://www.indiewire.com/features/interviews/the-wrong-girls-dylan-meyer-maggie-mclean-interview-1235210708/"
       }
     ],
     "variety": [
       {
-        "title": "ABC Files First Amendment Lawsuit Against FCC",
-        "link": "https://variety.com/2026/tv/news/abc-first-amendment-lawsuit-fcc-1236837028/"
+        "title": "Ascend Literary Management Signs \u2018Average Joe\u2019 Creator Robb Cullen (EXCLUSIVE)",
+        "link": "https://variety.com/2026/tv/news/ascend-literary-management-robb-cullen-1236837126/"
       },
       {
-        "title": "Peacock Raises Prices Across All Plans, NBCU\u2019s Fourth Increase in Four Years",
-        "link": "https://variety.com/2026/tv/news/peacock-raises-prices-fourth-time-in-four-years-1236837016/"
+        "title": "Shakira, Global Citizen, Live Nation and CAF Commit $1.25 Million to Rebuild Schools in Colombia Following Earthquake",
+        "link": "https://variety.com/2026/music/news/shakira-million-schools-colombia-earthquake-1236837163/"
       },
       {
-        "title": "\u2018Ice Princess\u2019 Director Remembers Stars Hayden Panettiere and Michelle Trachtenberg as an \u2018Amazing Pair\u2019: \u2018Two Shining Talents, Gone Far Too Soon\u2019",
-        "link": "https://variety.com/2026/film/global/ice-princess-director-honors-hayden-panettiere-michelle-trachtenberg-1236837006/"
+        "title": "Stella Lefty on the Rise of \u2018Boston\u2019 and Her Sudden Fame: \u2018When I First Started Writing Songs, No One Cared!\u2019",
+        "link": "https://variety.com/2026/music/news/stella-lefty-boston-sudden-fame-1236836537/"
       },
       {
-        "title": "Oscars: Taiwan Selects \u2018A Foggy Tale\u2019 for International Feature Race",
-        "link": "https://variety.com/2026/film/awards/oscars-taiwan-a-foggy-tale-international-feature-1236837005/"
+        "title": "SXSW Sets Podcast Festival, Locals-Only Perks and Changes in Music Venues for 2027 Event in Austin",
+        "link": "https://variety.com/2026/film/news/sxsw-podcast-austin-perks-1236836769/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Peacock Reveals Another Price Hike After NBCU Streamer\u2019s First Profitable Quarter",
-        "link": "https://www.hollywoodreporter.com/business/business-news/peacock-price-hike-nbcuniversal-2-1236675963/"
+        "title": "Jay Shetty Remembers Hayden Panettiere, Reflects on Their Emotional Interview: \u201cYou Were the Brave One\u201d",
+        "link": "https://www.hollywoodreporter.com/news/general-news/jay-shetty-remembers-hayden-panettiere-1236676031/"
       },
       {
-        "title": "\u2018How to Change the World,\u2019 Exec Produced by Mark Cuban, Puts Spotlight on Social Entrepreneurs (Exclusive)",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/how-to-change-the-world-youtube-series-mark-cuban-1236675908/"
+        "title": "Oldenburg Names First Titles for 2026 Selection",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/2026-oldenburg-film-festival-first-selections-1236676019/"
       },
       {
-        "title": "\u2018Ice Princess\u2019 Director Pays Tribute to Hayden Panettiere, Michelle Trachtenberg: \u201cTwo Shining Talents, Gone Far Too Soon\u201d",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/hayden-panettiere-michelle-trachtenberg-ice-princess-homage-1236675943/"
+        "title": "Jonathan Daviss\u00a0Thinks You Will Be Surprised With His Post-\u2018Outer Banks\u2019 Role",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/jonathan-daviss-outer-banks-snoop-dogg-biopic-interview-1236672818/"
       },
       {
-        "title": "\u201cI Don\u2019t Believe Cinema Is Dying\u201d: Asghar Farhadi on War, Hope and Receiving Sarajevo\u2019s Most Prestigious Honor",
-        "link": "https://www.hollywoodreporter.com/movies/movie-features/asghar-farhadi-director-film-war-iran-sarajevo-interview-1236675940/"
+        "title": "Madonna, Taylor Swift Lead 2026 VMA Nominations",
+        "link": "https://www.hollywoodreporter.com/music/music-news/2026-vmas-nominations-madonna-taylor-swift-lead-1236675785/"
       }
     ],
     "larb": [],
@@ -280,20 +280,20 @@
     ],
     "nautilus": [
       {
+        "title": "How the Narwhal Got Its Twisted Tusk",
+        "link": "https://nautil.us/how-the-narwhal-got-its-twisted-tusk-1283930/"
+      },
+      {
+        "title": "A Dazzling Image of a Dying Star, Featuring the Great Recycling System of the Cosmos",
+        "link": "https://nautil.us/a-dazzling-image-of-a-dying-star-featuring-the-great-recycling-system-of-the-cosmos-1283923/"
+      },
+      {
         "title": "Is Immortality Possible?",
         "link": "https://nautil.us/is-immortality-possible-1283865/"
       },
       {
         "title": "Everything You Believe About Taking a Full Course of Antibiotics and Bacterial Resistance Is Wrong",
         "link": "https://nautil.us/everything-you-believe-about-taking-a-full-course-of-antibiotics-and-bacterial-resistance-is-wrong-1283911/"
-      },
-      {
-        "title": "These Mammoth Ivory Carvings May Be the \u201cFind of the Year\u201d",
-        "link": "https://nautil.us/these-mammoth-ivory-carvings-may-be-the-find-of-the-year-1283903/"
-      },
-      {
-        "title": "Our Ancient Ancestors in the Middle East Loved Dining on Lizards and Snakes",
-        "link": "https://nautil.us/our-ancient-ancestors-in-the-middle-east-loved-dining-on-lizards-and-snakes-1283857/"
       }
     ],
     "worksinprogress": [],
