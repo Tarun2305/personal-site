@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-08-18 09:24 UTC",
+  "last_updated": "2026-08-18 12:31 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Russia warns UK will pay for supplying drones to Ukraine",
+        "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
         "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-        "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "British couple on honeymoon killed in helicopter crash on Greek island",
         "link": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+        "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Inside secret police warehouse as Germany targets small boats gangs",
@@ -21,39 +21,39 @@
     ],
     "aljazeera": [
       {
-        "title": "Pakistan top court orders Imran Khan\u2019s hospital transfer amid access battle",
-        "link": "https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss"
+        "title": "Russia protests Japan PM\u2019s comments after Putin\u2019s Kuril visit",
+        "link": "https://www.aljazeera.com/news/2026/8/18/russia-protests-japan-pms-comments-after-putins-kuril-visit?traffic_source=rss"
       },
       {
-        "title": "Cincinnati Open: Williams sisters fall in doubles while Zverev advances",
-        "link": "https://www.aljazeera.com/sports/2026/8/18/cincinnati-open-williams-sisters-fall-in-doubles-while-zverev-advances?traffic_source=rss"
+        "title": "Why has Trump threatened to bomb Oman \u2013 for a second time?",
+        "link": "https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time?traffic_source=rss"
       },
       {
-        "title": "Trump lashes out at CNN reporter over South Korea question",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss"
+        "title": "Premier League what to know: Schedule, prediction, transfers and more",
+        "link": "https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss"
       },
       {
-        "title": "Syrian court sentences Wassim al-Assad to death",
-        "link": "https://www.aljazeera.com/news/2026/8/18/syrian-court-sentences-wassim-al-assad-to?traffic_source=rss"
+        "title": "What to know about California\u2019s special election to replace Eric Swalwell",
+        "link": "https://www.aljazeera.com/news/2026/8/18/what-to-know-about-californias-special-election-to-replace-eric-swalwell?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Kevin Blake's tips for opening day of York's Ebor Festival",
+        "link": "https://www.skysports.com/racing/news/12040/13574345/kevin-blakes-ebor-festival-tips-sky-sports-racing-expert-looks-ahead-to-yorks-opening-day-with-three-selections"
+      },
+      {
+        "title": "What next for LIV Golf? Timeline from big beginnings to uncertain future ",
+        "link": "https://www.skysports.com/golf/news/12040/13574263/liv-golf-league-timeline-key-moments-from-breakaway-circuits-history-rivalry-with-the-pga-tour-and-what-happens-next"
+      },
+      {
         "title": "US Amateur champion Whaley and Poulter's son named in GB&I Walker Cup team",
         "link": "https://www.skysports.com/golf/news/12040/13574036/walker-cup-us-amateur-champion-jack-whaley-makes-gbi-team-alongside-ian-poulters-son-luke"
       },
       {
-        "title": "England begin new Test cricket era with old captain and no Stokes",
-        "link": "https://www.skysports.com/cricket/news/12040/13574255/joe-roots-second-tenure-as-england-test-cricket-captain-begins-against-pakistan-with-no-ben-stokes-and-victories-vital"
-      },
-      {
-        "title": "LeBron misses hole-in-one by just a few feet!",
-        "link": "https://www.skysports.com/watch/video/13574262/lebron-james-misses-hole-in-one-by-just-a-few-feet"
-      },
-      {
-        "title": "Sky Sports and The Fast and the Curious announce new partnership",
-        "link": "https://www.skysports.com/f1/news/12040/13574066/the-fast-and-the-curious-sky-sports-announces-new-partnership-ahead-of-f1s-return-to-action-at-dutch-gp"
+        "title": "The Premier League is back! All 20 clubs assessed",
+        "link": "https://www.skysports.com/football/news/12040/13572964/premier-league-season-preview-each-clubs-pre-season-preparations-analysed-ahead-of-new-campaigns-kick-off-this-friday"
       }
     ],
     "pitchfork": [],
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018The Devils\u2019: Everything You Need to Know About the Unlikely Restoration of Ken Russell\u2019s Scandalous, Sexually Charged Film",
+        "link": "https://www.indiewire.com/news/general-news/the-devils-ken-russell-directors-cut-explained-censored-nuns-sex-1235210957/"
+      },
+      {
         "title": "\u2018The Rivals of Amziah King\u2019 Wasn\u2019t the Sleeper Indie Box Office Darling We Hoped",
         "link": "https://www.indiewire.com/news/box-office/rivals-amziah-king-box-office-black-bear-1235210853/"
       },
@@ -163,50 +167,50 @@
       {
         "title": "Why \u2018The Wrong Girls\u2019 Had to Exist Inside the Shaggy L.A. Mainstream Hollywood Could Never See",
         "link": "https://www.indiewire.com/features/interviews/the-wrong-girls-dylan-meyer-maggie-mclean-interview-1235210708/"
-      },
-      {
-        "title": "\u2018My Brother\u2019s Wedding\u2019 Restoration Trailer: Charles Burnett\u2019s Nearly Lost Masterpiece Gets the Version It Deserves",
-        "link": "https://www.indiewire.com/news/trailers/my-brothers-wedding-4k-restoration-trailer-charles-burnett-1235210852/"
       }
     ],
     "variety": [
       {
-        "title": "Sundance Breakout \u2018Thelma\u2019 Set for Mandarin Remake by Stars Collective, Titled \u2018Grandma, Please\u2019 (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/news/sundance-hit-thelma-mandarin-remake-stars-collective-1236836962/"
+        "title": "ABC Files First Amendment Lawsuit Against FCC",
+        "link": "https://variety.com/2026/tv/news/abc-first-amendment-lawsuit-fcc-1236837028/"
       },
       {
-        "title": "\u2018Spider-Man: Brand New Day,\u2019 \u2018The Odyssey\u2019 Continue Tussle Atop U.K., Ireland Box Office",
-        "link": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-the-odyssey-continue-tussle-uk-ireland-box-office-1236836944/"
+        "title": "Peacock Raises Prices Across All Plans, NBCU\u2019s Fourth Increase in Four Years",
+        "link": "https://variety.com/2026/tv/news/peacock-raises-prices-fourth-time-in-four-years-1236837016/"
       },
       {
-        "title": "Rosie O\u2019Donnell Shines in \u2018Jimmy Kimmel Live\u2019 Hosting Debut, Attacks \u2018Mango Mussolini\u2019 Trump and Gives Moving Hayden Panettiere Tribute",
-        "link": "https://variety.com/2026/tv/news/rosie-o-donnell-hosts-jimmy-kimmel-live-slams-trump-1236836907/"
+        "title": "\u2018Ice Princess\u2019 Director Remembers Stars Hayden Panettiere and Michelle Trachtenberg as an \u2018Amazing Pair\u2019: \u2018Two Shining Talents, Gone Far Too Soon\u2019",
+        "link": "https://variety.com/2026/film/global/ice-princess-director-honors-hayden-panettiere-michelle-trachtenberg-1236837006/"
       },
       {
-        "title": "Vin Diesel Says \u2018Fast Forever\u2019 Starts Shooting in December",
-        "link": "https://variety.com/2026/film/news/vin-diesel-fast-forever-starts-shooting-december-1236836906/"
+        "title": "Oscars: Taiwan Selects \u2018A Foggy Tale\u2019 for International Feature Race",
+        "link": "https://variety.com/2026/film/awards/oscars-taiwan-a-foggy-tale-international-feature-1236837005/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018Scream 4\u2019 Casting Director Recalls Hayden Panettiere\u2019s \u201cFierce Warrior Nature\u201d Helping Her Land Role",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/hayden-panettiere-scream-4-casting-director-tribute-death-1236675810/"
+        "title": "Peacock Reveals Another Price Hike After NBCU Streamer\u2019s First Profitable Quarter",
+        "link": "https://www.hollywoodreporter.com/business/business-news/peacock-price-hike-nbcuniversal-2-1236675963/"
       },
       {
-        "title": "Tupac Murder Trial Begins as Prosecution Calls Rapper\u2019s Death \u201cAn Act of Revenge\u201d",
-        "link": "https://www.hollywoodreporter.com/music/music-news/tupac-murder-trial-begins-opening-statements-1236675547/"
+        "title": "\u2018How to Change the World,\u2019 Exec Produced by Mark Cuban, Puts Spotlight on Social Entrepreneurs (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/how-to-change-the-world-youtube-series-mark-cuban-1236675908/"
       },
       {
-        "title": "Hayden Panettiere\u2019s Talent Never Got the Next Chapter It Deserved",
-        "link": "https://www.hollywoodreporter.com/tv/tv-reviews/hayden-panettiere-critic-appreciation-heroes-nashville-1236675569/"
+        "title": "\u2018Ice Princess\u2019 Director Pays Tribute to Hayden Panettiere, Michelle Trachtenberg: \u201cTwo Shining Talents, Gone Far Too Soon\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/hayden-panettiere-michelle-trachtenberg-ice-princess-homage-1236675943/"
       },
       {
-        "title": "Lisa Kudrow on Watching \u2018Friends\u2019 After Matthew Perry\u2019s Death, \u2018Romy & Michele\u2019 Sequel and Why \u2018The Comeback\u2019 May Be \u201cHighlight\u201d of Her Career",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/lisa-kudrow-friends-romy-michele-sequel-the-comeback-interview-1236675072/"
+        "title": "\u201cI Don\u2019t Believe Cinema Is Dying\u201d: Asghar Farhadi on War, Hope and Receiving Sarajevo\u2019s Most Prestigious Honor",
+        "link": "https://www.hollywoodreporter.com/movies/movie-features/asghar-farhadi-director-film-war-iran-sarajevo-interview-1236675940/"
       }
     ],
     "larb": [],
     "aeon": [
+      {
+        "title": "In praise of zealotry",
+        "link": "https://aeon.co/essays/polite-debate-has-privilege-the-marginalised-need-zealotry"
+      },
       {
         "title": "The World Famous Gopher Hole Museum",
         "link": "https://aeon.co/videos/torrington-has-some-240-residents-and-one-unusual-tourist-attraction"
@@ -218,13 +222,17 @@
       {
         "title": "The neverending house",
         "link": "https://aeon.co/essays/the-art-of-dwelling-in-santiagos-self-built-homes"
-      },
-      {
-        "title": "Where the earth meets the sky",
-        "link": "https://aeon.co/videos/in-the-remote-desert-an-awe-inspiring-artwork-collapses-time-and-space"
       }
     ],
     "psyche": [
+      {
+        "title": "Don\u2019t let nature slip out of reach",
+        "link": "https://psyche.co/notes-to-self/its-not-too-late-to-strengthen-your-ties-to-nature"
+      },
+      {
+        "title": "Glass eggs",
+        "link": "https://psyche.co/turning-points/the-grief-and-fragile-hope-of-deciding-to-freeze-my-eggs"
+      },
       {
         "title": "The peak-end rule",
         "link": "https://psyche.co/videos/to-make-better-memories-prioritise-high-peaks-and-happy-endings"
@@ -232,14 +240,6 @@
       {
         "title": "Sometimes, the road to virtue comes by way of vice",
         "link": "https://psyche.co/ideas/sometimes-the-road-to-virtue-comes-by-way-of-vice"
-      },
-      {
-        "title": "The impact of self-talk",
-        "link": "https://psyche.co/videos/talking-to-yourself-isnt-just-normal-it-can-be-beneficial"
-      },
-      {
-        "title": "The satisfaction of doing work that lasts",
-        "link": "https://psyche.co/notes-to-self/the-deep-satisfaction-of-doing-work-that-lasts"
       }
     ],
     "publicdomainreview": [
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "Is Immortality Possible?",
+        "link": "https://nautil.us/is-immortality-possible-1283865/"
+      },
+      {
         "title": "Everything You Believe About Taking a Full Course of Antibiotics and Bacterial Resistance Is Wrong",
         "link": "https://nautil.us/everything-you-believe-about-taking-a-full-course-of-antibiotics-and-bacterial-resistance-is-wrong-1283911/"
       },
@@ -290,16 +294,12 @@
       {
         "title": "Our Ancient Ancestors in the Middle East Loved Dining on Lizards and Snakes",
         "link": "https://nautil.us/our-ancient-ancestors-in-the-middle-east-loved-dining-on-lizards-and-snakes-1283857/"
-      },
-      {
-        "title": "Massive Prehistoric Crocodylians Took a Brutal Approach to Hunting",
-        "link": "https://nautil.us/massive-prehistoric-crocodylians-took-a-brutal-approach-to-hunting-1283897/"
       }
     ],
     "worksinprogress": [],
     "noema": [
       {
-        "title": "AI Needs Public Feedback at Scale Before It\u2019s Too Late",
+        "title": "AI Needs Public Feedback At Scale Before It\u2019s Too Late",
         "link": "https://www.noemamag.com/ai-needs-public-feedback-at-scale-before-its-too-late"
       },
       {
