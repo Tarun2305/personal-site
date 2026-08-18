@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18 15:23 UTC",
+  "last_updated": "2026-08-18 18:27 UTC",
   "feeds": {
     "bbc": [
       {
@@ -11,54 +11,58 @@
         "link": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Serco employee charged with misconduct over sharing asylum seeker addresses in Thetford",
-        "link": "https://www.bbc.co.uk/news/articles/cly8mpp9r8no?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "PM says he's not embarrassed about hoax message exchange",
         "link": "https://www.bbc.co.uk/news/articles/c5y34zrg668o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How soon will the drought be over?",
+        "link": "https://www.bbc.co.uk/news/articles/c0kmlrkypjpo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Iran clubs face Qatar and UAE sides at neutral venues in Champions League",
-        "link": "https://www.aljazeera.com/sports/2026/8/18/iran-clubs-to-play-qatar-and-uae-champions-league-games-at-neutral-venues?traffic_source=rss"
+        "title": "Nigeria hospital collapses after rain washed away its foundations",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/nigeria-hospital-collapses-after-rain-washed-away-its-foundations?traffic_source=rss"
       },
       {
-        "title": "US cites India on voter IDs, but are elections under Modi clean?",
-        "link": "https://www.aljazeera.com/news/2026/8/18/us-cites-india-on-voter-ids-but-are-elections-under-modi-clean?traffic_source=rss"
+        "title": "Analysis: Syrian airbase attack is an Israeli message to Damascus, Ankara",
+        "link": "https://www.aljazeera.com/features/2026/8/18/analysis-syrian-airbase-attack-is-an-israeli-message-to-damascus-ankara?traffic_source=rss"
       },
       {
-        "title": "Why is Russia threatening UK with \u2018consequences\u2019 over Ukraine drones?",
-        "link": "https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss"
+        "title": "The British state has recast protest as terrorism",
+        "link": "https://www.aljazeera.com/opinions/2026/8/18/the-british-state-has-recast-protest-as-terrorism?traffic_source=rss"
       },
       {
-        "title": "Patrick Vieira appointed Senegal head coach with AFCON qualifiers looming",
-        "link": "https://www.aljazeera.com/sports/2026/8/18/patrick-vieira-appointed-senegal-head-coach-with-afcon-qualifiers-looming?traffic_source=rss"
+        "title": "Tropical Storm Lala leaves Hawaii flooded and without power",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/tropical-storm-lala-leaves-hawaii-flooded-and-without-power?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Albon signs one-year contract extension with Williams",
-        "link": "https://www.skysports.com/f1/news/12040/13574380/alex-albon-williams-driver-signs-one-year-contract-extension-to-remain-with-team-for-2027-f1-season"
+        "title": "Hull KR vs Warrington LIVE! Build-up to tonight's Super League game",
+        "link": "https://www.skysports.com/rugby-league/live-blog/12040/13573960/hull-kr-v-warrington-wolves-live-super-league-updates-videos-analysis-scores-from-sewell-group-craven-park"
       },
       {
-        "title": "Kevin Blake's tips for opening day of York's Ebor Festival",
-        "link": "https://www.skysports.com/racing/news/12040/13574345/kevin-blakes-ebor-festival-tips-sky-sports-racing-expert-looks-ahead-to-yorks-opening-day-with-three-selections"
+        "title": "Venus Williams given US Open wild card - with another held potentially for Serena",
+        "link": "https://www.skysports.com/tennis/news/12040/13574466/us-open-venus-williams-given-flushing-meadows-wild-card-place-in-new-york-with-another-spot-held-potentially-for-serena"
       },
       {
-        "title": "What next for LIV Golf? Timeline from big beginnings to uncertain future ",
-        "link": "https://www.skysports.com/golf/news/12040/13574263/liv-golf-league-timeline-key-moments-from-breakaway-circuits-history-rivalry-with-the-pga-tour-and-what-happens-next"
+        "title": "Root won't 'rip up' Bazball blueprint as Babar is ruled out for Pakistan",
+        "link": "https://www.skysports.com/cricket/news/12040/13574451/joe-root-englands-returning-test-captain-says-bazball-blueprint-wont-be-ripped-up-ahead-of-pakistan-series"
       },
       {
-        "title": "US Amateur champion Whaley and Poulter's son named in GB&I Walker Cup team",
-        "link": "https://www.skysports.com/golf/news/12040/13574036/walker-cup-us-amateur-champion-jack-whaley-makes-gbi-team-alongside-ian-poulters-son-luke"
+        "title": "Rodri completes Barcelona move",
+        "link": "https://www.skysports.com/football/news/12040/13574286/rodri-transfer-news-barcelona-complete-65-4m-signing-of-spain-midfielder-from-man-city"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "Nina Winder-Lind :: Wild Love",
+        "link": "https://aquariumdrunkard.com/2026/08/18/nina-winder-lind-wild-love/"
+      },
       {
         "title": "Black Rock :: The Bar-Kays at Wattstax",
         "link": "https://aquariumdrunkard.com/2026/08/18/black-rock-the-bar-kays-at-wattstax/"
@@ -70,10 +74,6 @@
       {
         "title": "Sofie Birch :: Bivabippabualukka",
         "link": "https://aquariumdrunkard.com/2026/08/17/sofie-birch-bivabippabualukka/"
-      },
-      {
-        "title": "Radio Free Aquarium Drunkard :: August 2026",
-        "link": "https://aquariumdrunkard.com/2026/08/16/radio-free-aquarium-drunkard-august-2026/"
       }
     ],
     "bfi": [],
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
+        "title": "The Academy Announces Sean Baker and Samantha Quan as Chairs Overseeing Its New Marquee Theater List",
+        "link": "https://www.indiewire.com/awards/industry/sean-baker-samantha-quan-chair-academy-marquee-theater-list-1235211131/"
+      },
+      {
+        "title": "Fantastic Fest Unveils 2026 Lineup Headlined by \u2018Resident Evil,\u2019 \u2018Carrie,\u2019 and \u2018Wild Horse Nine\u2019",
+        "link": "https://www.indiewire.com/news/festivals/fantastic-fest-2026-lineup-resident-evil-carrie-1235210870/"
+      },
+      {
         "title": "Ken Russell\u2019s Restored \u2018The Devils\u2019 Will Scandalize Audiences at NYFF After Its Cannes and TIFF Premieres",
         "link": "https://www.indiewire.com/news/festivals/nyff-2026-revivals-ken-russell-the-devils-1235210928/"
       },
       {
         "title": "SXSW 2027 Shifts Film Premieres from Paramount Theatre to ACL Live, Adds Podcast Festival",
         "link": "https://www.indiewire.com/news/festivals/sxsw-2027-venue-changes-podcast-festival-1235211013/"
-      },
-      {
-        "title": "The Film Independent Spirit Awards Are Adding Categories for Creators and International Features",
-        "link": "https://www.indiewire.com/awards/industry/independent-spirit-awards-categories-creators-international-1235211062/"
-      },
-      {
-        "title": "\u2018The Devils\u2019: Everything You Need to Know About the Unlikely Restoration of Ken Russell\u2019s Scandalous, Sexually Charged Film",
-        "link": "https://www.indiewire.com/news/general-news/the-devils-ken-russell-directors-cut-explained-censored-nuns-sex-1235210957/"
       }
     ],
     "variety": [
       {
-        "title": "Ascend Literary Management Signs \u2018Average Joe\u2019 Creator Robb Cullen (EXCLUSIVE)",
-        "link": "https://variety.com/2026/tv/news/ascend-literary-management-robb-cullen-1236837126/"
+        "title": "Round Hill Music Sues Suno, Anthropic for Copyright Infringement, Seeking Up to $1 Billion in Damages",
+        "link": "https://variety.com/2026/biz/news/round-hill-music-sues-suno-anthropic-copyright-infringement-1236837467/"
       },
       {
-        "title": "Shakira, Global Citizen, Live Nation and CAF Commit $1.25 Million to Rebuild Schools in Colombia Following Earthquake",
-        "link": "https://variety.com/2026/music/news/shakira-million-schools-colombia-earthquake-1236837163/"
+        "title": "Cinemark Joins AMC Theatres and Regal in Supporting Paramount-Warner Bros. Discovery Merger",
+        "link": "https://variety.com/2026/film/news/cinemark-paramount-warner-bros-merger-amc-theatres-regal-1236836310/"
       },
       {
-        "title": "Stella Lefty on the Rise of \u2018Boston\u2019 and Her Sudden Fame: \u2018When I First Started Writing Songs, No One Cared!\u2019",
-        "link": "https://variety.com/2026/music/news/stella-lefty-boston-sudden-fame-1236836537/"
+        "title": "Ella Langley on Spotlighting Female Country Artists on Tour, Wanting to Work With Harry Styles and Miranda Lambert Advice",
+        "link": "https://variety.com/2026/music/news/ella-langley-female-openers-harry-styles-miranda-lambert-1236837420/"
       },
       {
-        "title": "SXSW Sets Podcast Festival, Locals-Only Perks and Changes in Music Venues for 2027 Event in Austin",
-        "link": "https://variety.com/2026/film/news/sxsw-podcast-austin-perks-1236836769/"
+        "title": "Kevin Hart and Henry Cavill\u2019s Netflix Spy Comedy Adds Jason Isaacs, Justine Lupe and Aja Naomi King (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/news/kevin-hart-henry-cavill-netflix-movie-jason-isaacs-justine-lupe-1236837383/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Jay Shetty Remembers Hayden Panettiere, Reflects on Their Emotional Interview: \u201cYou Were the Brave One\u201d",
-        "link": "https://www.hollywoodreporter.com/news/general-news/jay-shetty-remembers-hayden-panettiere-1236676031/"
+        "title": "THR\u00a0Live:\u00a0As Final Voting Is Underway, Which Shows Are Going to Win Emmy Gold?",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/thr-live-emmy-winners-final-voting-1236676152/"
       },
       {
-        "title": "Oldenburg Names First Titles for 2026 Selection",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/2026-oldenburg-film-festival-first-selections-1236676019/"
+        "title": "Film Academy\u2019s Pickford Center Set to Undergo Three-Year Renovation (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/film-academy-pickford-center-three-year-renovation-1236676178/"
       },
       {
-        "title": "Jonathan Daviss\u00a0Thinks You Will Be Surprised With His Post-\u2018Outer Banks\u2019 Role",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/jonathan-daviss-outer-banks-snoop-dogg-biopic-interview-1236672818/"
+        "title": "Major Theater Chain Cinemark Also Signals It Wants California to Settle With Paramount",
+        "link": "https://www.hollywoodreporter.com/business/business-news/cinemark-paramount-1236676229/"
       },
       {
-        "title": "Madonna, Taylor Swift Lead 2026 VMA Nominations",
-        "link": "https://www.hollywoodreporter.com/music/music-news/2026-vmas-nominations-madonna-taylor-swift-lead-1236675785/"
+        "title": "How \u2018Death by Lightning\u2019 Made James Garfield\u2019s Assassination Feel \u201cShakespearean\u201d",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/death-by-lightning-james-garfield-assassination-1236675058/"
       }
     ],
     "larb": [],
@@ -226,12 +226,12 @@
     ],
     "psyche": [
       {
-        "title": "Don\u2019t let nature slip out of reach",
-        "link": "https://psyche.co/notes-to-self/its-not-too-late-to-strengthen-your-ties-to-nature"
-      },
-      {
         "title": "Glass eggs",
         "link": "https://psyche.co/turning-points/the-grief-and-fragile-hope-of-deciding-to-freeze-my-eggs"
+      },
+      {
+        "title": "Don\u2019t let nature slip out of reach",
+        "link": "https://psyche.co/notes-to-self/its-not-too-late-to-strengthen-your-ties-to-nature"
       },
       {
         "title": "The peak-end rule",
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "How Paying Attention to Pain Could Help You Heal Faster",
+        "link": "https://nautil.us/how-paying-attention-to-pain-could-help-you-heal-faster-1283936/"
+      },
+      {
         "title": "How the Narwhal Got Its Twisted Tusk",
         "link": "https://nautil.us/how-the-narwhal-got-its-twisted-tusk-1283930/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "Is Immortality Possible?",
         "link": "https://nautil.us/is-immortality-possible-1283865/"
-      },
-      {
-        "title": "Everything You Believe About Taking a Full Course of Antibiotics and Bacterial Resistance Is Wrong",
-        "link": "https://nautil.us/everything-you-believe-about-taking-a-full-course-of-antibiotics-and-bacterial-resistance-is-wrong-1283911/"
       }
     ],
     "worksinprogress": [],
