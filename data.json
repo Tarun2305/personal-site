@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18 18:27 UTC",
+  "last_updated": "2026-08-18 21:16 UTC",
   "feeds": {
     "bbc": [
       {
@@ -21,39 +21,39 @@
     ],
     "aljazeera": [
       {
-        "title": "Nigeria hospital collapses after rain washed away its foundations",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/nigeria-hospital-collapses-after-rain-washed-away-its-foundations?traffic_source=rss"
+        "title": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
+        "link": "https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss"
       },
       {
-        "title": "Analysis: Syrian airbase attack is an Israeli message to Damascus, Ankara",
-        "link": "https://www.aljazeera.com/features/2026/8/18/analysis-syrian-airbase-attack-is-an-israeli-message-to-damascus-ankara?traffic_source=rss"
+        "title": "Jose Mourinho returns to Real Madrid in closed-door ceremony",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/jose-mourinho-returns-to-real-madrid-in-closed-door-ceremony?traffic_source=rss"
       },
       {
-        "title": "The British state has recast protest as terrorism",
-        "link": "https://www.aljazeera.com/opinions/2026/8/18/the-british-state-has-recast-protest-as-terrorism?traffic_source=rss"
+        "title": "Liberia to take 1,200 deportees from the US",
+        "link": "https://www.aljazeera.com/news/2026/8/18/liberia-to-take-1200-deportees-from-the-us?traffic_source=rss"
       },
       {
-        "title": "Tropical Storm Lala leaves Hawaii flooded and without power",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/tropical-storm-lala-leaves-hawaii-flooded-and-without-power?traffic_source=rss"
+        "title": "Russian missile strike kills 10 civilians in Kharkiv",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Hull KR vs Warrington LIVE! Build-up to tonight's Super League game",
+        "title": "Arteta: We want to be the best club in the world",
+        "link": "https://www.skysports.com/football/news/12040/13574486/mikel-arteta-arsenal-manager-says-we-want-to-make-gunners-the-best-club-in-the-world"
+      },
+      {
+        "title": "Hull KR vs Warrington LIVE! Wolves take control against Robins as Lewis sin-binned",
         "link": "https://www.skysports.com/rugby-league/live-blog/12040/13573960/hull-kr-v-warrington-wolves-live-super-league-updates-videos-analysis-scores-from-sewell-group-craven-park"
       },
       {
-        "title": "Venus Williams given US Open wild card - with another held potentially for Serena",
-        "link": "https://www.skysports.com/tennis/news/12040/13574466/us-open-venus-williams-given-flushing-meadows-wild-card-place-in-new-york-with-another-spot-held-potentially-for-serena"
+        "title": "Former world snooker champion Dott in court accused of child sex abuse",
+        "link": "https://www.skysports.com/snooker/news/12040/13574479/graeme-dott-former-world-snooker-champion-in-court-accused-of-child-sex-abuse"
       },
       {
-        "title": "Root won't 'rip up' Bazball blueprint as Babar is ruled out for Pakistan",
-        "link": "https://www.skysports.com/cricket/news/12040/13574451/joe-root-englands-returning-test-captain-says-bazball-blueprint-wont-be-ripped-up-ahead-of-pakistan-series"
-      },
-      {
-        "title": "Rodri completes Barcelona move",
-        "link": "https://www.skysports.com/football/news/12040/13574286/rodri-transfer-news-barcelona-complete-65-4m-signing-of-spain-midfielder-from-man-city"
+        "title": "Ball to the face? Another lost game? | What causes Medvedev to throw racket at LED boards?",
+        "link": "https://www.skysports.com/watch/video/13574505/daniil-medvedev-lashes-racket-into-led-boards-after-completely-missing-brandon-nakashimas-serve"
       }
     ],
     "pitchfork": [],
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
+        "title": "Early YouTube Pioneer Felicia Day\u2019s \u2018The Guild\u2019 Movie Is About to Break a Kickstarter Record",
+        "link": "https://www.indiewire.com/features/craft/the-guild-ren-faired-felicia-day-kickstarter-interview-1235211080/"
+      },
+      {
+        "title": "\u2018Widow\u2019s Bay\u2019 Breakout Kate O\u2019Flynn Knows Patricia Is a \u2018Weirdo\u2019 \u2014 and That\u2019s Why People Love Her Character",
+        "link": "https://www.indiewire.com/awards/consider-this/widows-bay-kate-oflynn-patricia-weirdo-interview-1235210474/"
+      },
+      {
+        "title": "Cinemark Joins Regal and AMC in Supporting Paramount-Warner Bros. Merger as Movie Theaters\u2019 Opposition Crumbles",
+        "link": "https://www.indiewire.com/news/business/cinemark-regal-amc-support-paramount-warner-bros-merger-1235211181/"
+      },
+      {
         "title": "The Academy Announces Sean Baker and Samantha Quan as Chairs Overseeing Its New Marquee Theater List",
         "link": "https://www.indiewire.com/awards/industry/sean-baker-samantha-quan-chair-academy-marquee-theater-list-1235211131/"
-      },
-      {
-        "title": "Fantastic Fest Unveils 2026 Lineup Headlined by \u2018Resident Evil,\u2019 \u2018Carrie,\u2019 and \u2018Wild Horse Nine\u2019",
-        "link": "https://www.indiewire.com/news/festivals/fantastic-fest-2026-lineup-resident-evil-carrie-1235210870/"
-      },
-      {
-        "title": "Ken Russell\u2019s Restored \u2018The Devils\u2019 Will Scandalize Audiences at NYFF After Its Cannes and TIFF Premieres",
-        "link": "https://www.indiewire.com/news/festivals/nyff-2026-revivals-ken-russell-the-devils-1235210928/"
-      },
-      {
-        "title": "SXSW 2027 Shifts Film Premieres from Paramount Theatre to ACL Live, Adds Podcast Festival",
-        "link": "https://www.indiewire.com/news/festivals/sxsw-2027-venue-changes-podcast-festival-1235211013/"
       }
     ],
     "variety": [
       {
-        "title": "Round Hill Music Sues Suno, Anthropic for Copyright Infringement, Seeking Up to $1 Billion in Damages",
-        "link": "https://variety.com/2026/biz/news/round-hill-music-sues-suno-anthropic-copyright-infringement-1236837467/"
+        "title": "Why a Reunion Between the Two Rival TV Academies Is Long Overdue",
+        "link": "https://variety.com/2026/tv/awards/television-academy-emmys-reunion-national-arts-sciences-1236837695/"
       },
       {
-        "title": "Cinemark Joins AMC Theatres and Regal in Supporting Paramount-Warner Bros. Discovery Merger",
-        "link": "https://variety.com/2026/film/news/cinemark-paramount-warner-bros-merger-amc-theatres-regal-1236836310/"
+        "title": "Oscars Budget, \u2018Engaging\u2019 With AI and Hot Memorabilia: Inside the Academy\u2019s Annual All-Members Meeting (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/columns/oscars-youtube-ai-annual-budgets-member-meeting-1236837376/"
       },
       {
-        "title": "Ella Langley on Spotlighting Female Country Artists on Tour, Wanting to Work With Harry Styles and Miranda Lambert Advice",
-        "link": "https://variety.com/2026/music/news/ella-langley-female-openers-harry-styles-miranda-lambert-1236837420/"
+        "title": "Kat Dennings, Beth Behrs Set \u20182 Broke Girls\u2019 Reunion on \u2018Shifting Gears\u2019 Season 3",
+        "link": "https://variety.com/2026/tv/news/kat-dennings-beth-behrs-2-broke-girls-shifting-gears-1236837618/"
       },
       {
-        "title": "Kevin Hart and Henry Cavill\u2019s Netflix Spy Comedy Adds Jason Isaacs, Justine Lupe and Aja Naomi King (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/news/kevin-hart-henry-cavill-netflix-movie-jason-isaacs-justine-lupe-1236837383/"
+        "title": "Robin Williams\u2019 Kids Revive Instagram Account to Combat AI Slop: \u2018As Technology Evolves, We Want This to be a Safe, Trusted Place\u2019",
+        "link": "https://variety.com/2026/film/news/robin-williams-kids-revive-instagram-account-ai-slop-1236837661/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "THR\u00a0Live:\u00a0As Final Voting Is Underway, Which Shows Are Going to Win Emmy Gold?",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/thr-live-emmy-winners-final-voting-1236676152/"
+        "title": "Beth Behrs Joins ABC\u2019s \u2018Shifting Gears\u2019 for a \u20182 Broke Girls\u2019 Reunion",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/shifting-gears-beth-behrs-2-broke-girls-kat-dennings-1236676386/"
       },
       {
-        "title": "Film Academy\u2019s Pickford Center Set to Undergo Three-Year Renovation (Exclusive)",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/film-academy-pickford-center-three-year-renovation-1236676178/"
+        "title": "Paul M. Pollard, Who Handled a Camera on \u2018Bound for Glory\u2019 and \u2018Heaven\u2019s Gate,\u2019 Dies at 84",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/paul-pollard-dead-bound-for-glory-heavens-gate-camera-1236676485/"
       },
       {
-        "title": "Major Theater Chain Cinemark Also Signals It Wants California to Settle With Paramount",
-        "link": "https://www.hollywoodreporter.com/business/business-news/cinemark-paramount-1236676229/"
+        "title": "Michael Latt Legacy Fund Sets Third Cohort of Leading With Love Grantees",
+        "link": "https://www.hollywoodreporter.com/news/general-news/michael-latt-legacy-fund-leading-with-love-grantees-2026-1236672496/"
       },
       {
-        "title": "How \u2018Death by Lightning\u2019 Made James Garfield\u2019s Assassination Feel \u201cShakespearean\u201d",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/death-by-lightning-james-garfield-assassination-1236675058/"
+        "title": "Bill Rasmussen Founded ESPN and Left a Year Later. It Was Long Enough to Change TV Forever",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/how-espn-founder-bill-rasmussen-changed-tv-forever-1236676304/"
       }
     ],
     "larb": [],
@@ -226,12 +226,12 @@
     ],
     "psyche": [
       {
-        "title": "Glass eggs",
-        "link": "https://psyche.co/turning-points/the-grief-and-fragile-hope-of-deciding-to-freeze-my-eggs"
-      },
-      {
         "title": "Don\u2019t let nature slip out of reach",
         "link": "https://psyche.co/notes-to-self/its-not-too-late-to-strengthen-your-ties-to-nature"
+      },
+      {
+        "title": "Glass eggs",
+        "link": "https://psyche.co/turning-points/the-grief-and-fragile-hope-of-deciding-to-freeze-my-eggs"
       },
       {
         "title": "The peak-end rule",
@@ -280,20 +280,20 @@
     ],
     "nautilus": [
       {
+        "title": "The Wonders of the Male Human Pelvis",
+        "link": "https://nautil.us/the-wonders-of-the-male-human-pelvis-1283947/"
+      },
+      {
+        "title": "How Our Perceptions of Aging Can Affect Our Social Lives",
+        "link": "https://nautil.us/how-our-perceptions-of-aging-can-affect-our-social-lives-1283944/"
+      },
+      {
         "title": "How Paying Attention to Pain Could Help You Heal Faster",
         "link": "https://nautil.us/how-paying-attention-to-pain-could-help-you-heal-faster-1283936/"
       },
       {
         "title": "How the Narwhal Got Its Twisted Tusk",
         "link": "https://nautil.us/how-the-narwhal-got-its-twisted-tusk-1283930/"
-      },
-      {
-        "title": "A Dazzling Image of a Dying Star, Featuring the Great Recycling System of the Cosmos",
-        "link": "https://nautil.us/a-dazzling-image-of-a-dying-star-featuring-the-great-recycling-system-of-the-cosmos-1283923/"
-      },
-      {
-        "title": "Is Immortality Possible?",
-        "link": "https://nautil.us/is-immortality-possible-1283865/"
       }
     ],
     "worksinprogress": [],
