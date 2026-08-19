@@ -1,10 +1,14 @@
 {
-  "last_updated": "2026-08-19 00:50 UTC",
+  "last_updated": "2026-08-19 03:40 UTC",
   "feeds": {
     "bbc": [
       {
         "title": "Three dead after family get into difficulty in sea",
         "link": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Sacked Ukrainian defence minister calls for presidential election",
+        "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "'Everyone in for Christmas' - Burnham unveils rough sleeping plan",
@@ -13,28 +17,24 @@
       {
         "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
         "link": "https://www.bbc.co.uk/news/articles/c1l1r1zne1ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Camilla admits it was 'difficult' to keep King's cancer diagnosis a secret",
-        "link": "https://www.bbc.co.uk/news/articles/c80n48kg0vjo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Quebec separatist says no independence referendum while Trump in office",
-        "link": "https://www.aljazeera.com/news/2026/8/19/quebec-separatist-says-no-independence-referendum-while-trump-in-office?traffic_source=rss"
+        "title": "Trial begins that could force Meta to change Facebook and Instagram",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/trial-begins-that-could-force-meta-to-change-facebook-and-instagram?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Trump denies Iran talks, Tehran claims US \u2018begging\u2019",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss"
+        "title": "US, Canada reach trade deal to avert steep tariffs, Trump says",
+        "link": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss"
       },
       {
-        "title": "Al Jazeera reports from Indonesia\u2019s quake zone, desperate for help",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/al-jazeera-reports-from-indonesias-quake-zone-desperate-for-help?traffic_source=rss"
+        "title": "US refineries taking in half of Venezuela\u2019s oil output, official says",
+        "link": "https://www.aljazeera.com/news/2026/8/19/venezuela-oil-exports-surge-with-us-refineries-taking-in-half-of-output?traffic_source=rss"
       },
       {
-        "title": "Democrats call for USS Lincoln probe, question US Navy\u2019s readiness",
-        "link": "https://www.aljazeera.com/news/2026/8/18/democrats-call-for-uss-lincoln-probe-question-us-navys-readiness?traffic_source=rss"
+        "title": "How Ebola became the deadliest outbreak in DR Congo\u2019s history",
+        "link": "https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -171,6 +171,10 @@
     ],
     "variety": [
       {
+        "title": "\u2018Supergirl\u2019 Star David Krumholtz Posts and Deletes Plans to Retire From Acting: \u2018And Now, New Life\u2019",
+        "link": "https://variety.com/2026/film/news/david-krumholtz-posts-deletes-retire-from-acting-1236837871/"
+      },
+      {
         "title": "John Irvin, Director of \u2018Hamburger Hill,\u2019 \u2018Tinker Tailor Soldier Spy,\u2019 Dies at 86",
         "link": "https://variety.com/2026/film/news/john-irvin-dead-hamburger-hill-1236837824/"
       },
@@ -181,13 +185,17 @@
       {
         "title": "Felicia Day, Wil Wheaton on New Tabletop Gaming Show \u2018Conludo,\u2019 How \u2018The Guild\u2019 Reunion Movie Will Be Impacted by a Denied California Tax Credit",
         "link": "https://variety.com/2026/tv/news/felicia-day-wil-wheaton-the-guild-movie-show-conludo-1236837516/"
-      },
-      {
-        "title": "Walmart Touts Free Peacock Access for Walmart+ Members on Heels of Streamer\u2019s Latest Price Hike",
-        "link": "https://variety.com/2026/shopping/news/best-walmart-plus-deals-streaming-offers-1236040212/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "Anne Hathaway \u201cPushed Really Hard\u201d Trying to Get Julie Andrews to Return for \u2018Princess Diaries 3\u2019",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/anne-hathaway-pushed-julie-andrews-return-princess-diaries-3-1236676722/"
+      },
+      {
+        "title": "\u2018A Breed Apart\u2019 Director Recalls Hayden Panettiere\u2019s \u201cDark\u201d Energy on Set: \u201cShe Was Not OK\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/director-hayden-panettiere-dark-energy-brian-hickerson-1236676682/"
+      },
       {
         "title": "David Krumholtz Says He\u2019s Retiring from Acting in Shock Social Post: \u201cProfession Has Lost Its Gleam\u201d",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/david-krumholtz-retiring-acting-threads-post-hollywood-over-1236676672/"
@@ -195,14 +203,6 @@
       {
         "title": "For Jacob Whiteduck-Lavoie, Everyday on \u2018Sterling Point\u2018 Was the \u201cBest Day Ever\u201d",
         "link": "https://www.hollywoodreporter.com/tv/tv-features/jacob-whiteduck-lavoie-sterling-point-interview-1236676550/"
-      },
-      {
-        "title": "Inside the Fake Celebrity Podcast Scam Fooling Hollywood",
-        "link": "https://www.hollywoodreporter.com/news/general-news/celebrity-podcast-scam-bruce-vilanch-seth-rudetsky-1236676601/"
-      },
-      {
-        "title": "\u2018Down the Arm of God\u2019 Review: Caleb Landry Jones in a Sincere, if Heavy-Handed, Drama About a Texas Pastor Tackling Homelessness, and His Own Congregation",
-        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/down-the-arm-of-god-review-caleb-landry-jones-1236675972/"
       }
     ],
     "larb": [],
@@ -226,12 +226,12 @@
     ],
     "psyche": [
       {
-        "title": "Don\u2019t let nature slip out of reach",
-        "link": "https://psyche.co/notes-to-self/its-not-too-late-to-strengthen-your-ties-to-nature"
-      },
-      {
         "title": "Glass eggs",
         "link": "https://psyche.co/turning-points/the-grief-and-fragile-hope-of-deciding-to-freeze-my-eggs"
+      },
+      {
+        "title": "Don\u2019t let nature slip out of reach",
+        "link": "https://psyche.co/notes-to-self/its-not-too-late-to-strengthen-your-ties-to-nature"
       },
       {
         "title": "The peak-end rule",
