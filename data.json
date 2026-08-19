@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-08-19 06:31 UTC",
+  "last_updated": "2026-08-19 09:26 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "'Everyone in for Christmas' - Burnham unveils rough sleeping plan",
+        "title": "Jump in energy bills drives UK inflation to highest rate for four months",
+        "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Burnham unveils plan to get rough sleepers off streets for Christmas",
         "link": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Tennis player Nick Kyrgios suspended after testing positive for cocaine",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Sacked Ukrainian defence minister calls for presidential election",
         "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Demand for degree apprenticeships in England quadruples in three years",
-        "link": "https://www.bbc.co.uk/news/articles/ckg374p4e24o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Camilla admits it was 'difficult' to keep King's cancer diagnosis a secret",
-        "link": "https://www.bbc.co.uk/news/articles/c80n48kg0vjo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Lebanon no longer a safe haven for former Syrian regime officials",
-        "link": "https://www.aljazeera.com/features/2026/8/19/lebanon-no-longer-a-safe-haven-for-former-syrian-regime-officials?traffic_source=rss"
+        "title": "US pilot lands jet without front wheels after landing gear failure",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-pilot-lands-jet-without-front-wheels-after-landing-gear-failure?traffic_source=rss"
       },
       {
-        "title": "Former US official calls shift in relations with Syria \u2018surreal\u2019",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/former-us-official-calls-shift-in-relations-with-syria?traffic_source=rss"
+        "title": "Kelsey Mitchell ties WNBA scoring record in Fever win over Tempo",
+        "link": "https://www.aljazeera.com/sports/2026/8/19/kelsey-mitchell-ties-wnba-scoring-record-in-fever-win-over-tempo?traffic_source=rss"
       },
       {
-        "title": "South Korea, US scale back annual military drills after Trump\u2019s order",
-        "link": "https://www.aljazeera.com/news/2026/8/19/south-korea-us-scale-back-annual-military-drills-after-trumps-order?traffic_source=rss"
+        "title": "Ukraine\u2019s sacked defence minister calls for wartime elections",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/ukraines-sacked-defence-minister-calls-for-wartime-elections?traffic_source=rss"
       },
       {
-        "title": "Attackers go \u2018house to house\u2019 killing 25 villagers in central Nigeria",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/attackers-go-house-to-house-killing-25-villagers-in-central-nigeria?traffic_source=rss"
+        "title": "Breastfeeding in Gaza: Mothers seek help to provide for their babies",
+        "link": "https://www.aljazeera.com/features/2026/8/19/breastfeeding-in-gaza-mothers-seek-help-to-provide-for-their-babies?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Smugglers Haven and Muskerry Rock clash at Worcester",
-        "link": "https://www.skysports.com/racing/news/12040/13574145/today-on-sky-sports-racing-jumps-action-from-worcester"
+        "title": "Man Utd close to full agreement with Brighton for Baleba",
+        "link": "https://www.skysports.com/football/news/12040/13574619/carlos-baleba-transfer-manchester-united-close-to-full-agreement-with-brighton-for-cameroon-midfielder"
       },
       {
-        "title": "Gallagher gives cancer update: 'I have operation in September to get rid of this'",
-        "link": "https://www.skysports.com/boxing/news/12040/13574439/joe-gallagher-on-cancer-rollercoaster-after-january-setback-i-have-an-operation-in-september-to-get-rid-of-this"
+        "title": "Rangers sign Nedeljkovic from Aston Villa",
+        "link": "https://www.skysports.com/football/news/12040/13574334/kosta-nedeljkovic-rangers-sign-aston-villa-right-back-on-loan-with-4m-obligation-to-buy-serbia-international"
       },
       {
-        "title": "Arteta: We want to be the best club in the world",
-        "link": "https://www.skysports.com/football/news/12040/13574486/mikel-arteta-arsenal-manager-says-we-want-to-make-gunners-the-best-club-in-the-world"
+        "title": "Root returns as captain as England take on Pakistan at Headingley LIVE!",
+        "link": "https://www.skysports.com/cricket/live-blog/12040/13574594/england-vs-pakistan-first-test-day-one-live-cricket-score-updates-highlights-and-analysis-as-joe-root-returns-as-captain"
       },
       {
-        "title": "Gauff and Sabalenka impress to reach Cincinnati Open last 16",
-        "link": "https://www.skysports.com/tennis/news/12040/13574433/cincinnati-open-coco-gauff-impresses-in-win-over-ann-li-to-make-last-16-as-elina-svitolina-pulls-out-injured"
+        "title": "EFL latest: Stoke agree \u00a310m deal for Scotland striker Hirst",
+        "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two"
       }
     ],
     "pitchfork": [],
@@ -171,38 +171,38 @@
     ],
     "variety": [
       {
-        "title": "Kim Jong-kwan\u2019s \u2018The Table: Day and Night\u2019 to Open Busan",
-        "link": "https://variety.com/2026/film/festivals/kim-jong-kwan-table-day-and-night-busan-opening-film-1236837993/"
+        "title": "Yami Gautam Dhar\u2019s \u2018Nayyi Navelli\u2019 Sets October Release From Amazon MGM Studios, Colour Yellow (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/news/yami-gautam-dhar-nayyi-navelli-october-release-1236837564/"
       },
       {
-        "title": "\u2018Supergirl\u2019 Star David Krumholtz Posts and Deletes Plans to Retire From Acting: \u2018And Now, New Life\u2019",
-        "link": "https://variety.com/2026/film/news/david-krumholtz-posts-deletes-retire-from-acting-1236837871/"
+        "title": "San Sebasti\u00e1n Sets Fatih Akin\u2019s \u2018Ghost Song\u2019 as Opening Night Film \u00a0",
+        "link": "https://variety.com/2026/film/global/san-sebastian-fatih-akin-ghost-song-opening-film-1236838036/"
       },
       {
-        "title": "John Irvin, Director of \u2018Hamburger Hill,\u2019 \u2018Tinker Tailor Soldier Spy,\u2019 Dies at 86",
-        "link": "https://variety.com/2026/film/news/john-irvin-dead-hamburger-hill-1236837824/"
+        "title": "\u2018House of the Dragon\u2019 Directing Mentorship Alum Marcus Anthony Thomas Sets Cast for British Psychological Thriller \u2018Cast Me!\u2019 (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/global/marcus-anthony-thomas-psychological-thriller-cast-me-1236837237/"
       },
       {
-        "title": "\u2018Heroes\u2019 Creator Tim Kring Pays Tribute to Hayden Panettiere as a \u2018Singularly Talented Actor\u2019 With a \u2018Deep Understanding of Human Nature\u2019",
-        "link": "https://variety.com/2026/tv/news/heroes-tim-kring-tribute-hayden-panettiere-1236837796/"
+        "title": "Sci-Fi Horror Comedy \u2018Flapjax\u2019 Boards Blue Finch Films for Sales Ahead of Fantastic Fest Bow (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/news/sci-fi-horror-comedy-flapjax-blue-finch-fantastic-fest-1236837017/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Anne Hathaway \u201cPushed Really Hard\u201d Trying to Get Julie Andrews to Return for \u2018Princess Diaries 3\u2019",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/anne-hathaway-pushed-julie-andrews-return-princess-diaries-3-1236676722/"
+        "title": "San Sebastian Film Festival to Open With Fatih Akin\u2019s \u2018Ghost Song\u2019",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/san-sebastian-2026-fatih-akin-ghost-song-opening-film-1236676846/"
       },
       {
-        "title": "\u2018A Breed Apart\u2019 Director Recalls Hayden Panettiere\u2019s \u201cDark\u201d Energy on Set: \u201cShe Was Not OK\u201d",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/director-hayden-panettiere-dark-energy-brian-hickerson-1236676682/"
+        "title": "Sandra Wollner and \u2018Everytime\u2019 Hit Sarajevo on the Festival Circuit: \u201cYou Can Feel the History Here\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-features/sandra-wollner-everytime-sarajevo-film-festival-competition-1236676154/"
       },
       {
-        "title": "David Krumholtz Says He\u2019s Retiring from Acting in Shock Social Post: \u201cProfession Has Lost Its Gleam\u201d",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/david-krumholtz-retiring-acting-threads-post-hollywood-over-1236676672/"
+        "title": "Brad Pitt Joins Wim Wenders\u2019 Peter Zumthor Doc as Executive Producer (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/brad-pitt-exec-producer-on-wim-wenders-peter-zumthor-doc-1236676826/"
       },
       {
-        "title": "For Jacob Whiteduck-Lavoie, Everyday on \u2018Sterling Point\u2018 Was the \u201cBest Day Ever\u201d",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/jacob-whiteduck-lavoie-sterling-point-interview-1236676550/"
+        "title": "Oscars: Czech Republic Picks Doc \u2018If Pigeons Turned to Gold\u2019 as Best Int\u2019l Feature Submission",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/oscars-2027-czech-republic-doc-if-pigeons-turned-to-gold-1236676815/"
       }
     ],
     "larb": [],
