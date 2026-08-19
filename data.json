@@ -1,64 +1,68 @@
 {
-  "last_updated": "2026-08-19 12:31 UTC",
+  "last_updated": "2026-08-19 15:23 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Track defect found on approach to site of Lewes derailment, initial report says",
+        "link": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
         "link": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+        "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
         "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Jump in energy bills drives UK inflation to highest rate for four months",
         "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "PM unveils plan to get rough sleepers off streets for Christmas",
-        "link": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "In Ukraine, forcible military recruitment efforts escalate into violence",
-        "link": "https://www.aljazeera.com/news/2026/8/19/in-ukraine-forcible-military-recruitment-efforts-escalate-into-violence?traffic_source=rss"
+        "title": "Palestinian refugee and two relatives drown off English coast",
+        "link": "https://www.aljazeera.com/news/2026/8/19/three-people-from-palestinian-british-family-drown-off-uks-sussex-coast?traffic_source=rss"
       },
       {
-        "title": "Pakistan challenges top court order to move Imran Khan to private hospital",
-        "link": "https://www.aljazeera.com/news/2026/8/19/pakistan-challenges-top-court-order-to-move-imran-khan-to-private-hospital?traffic_source=rss"
+        "title": "Israel numbers Palestinian detainee foreheads: What we know",
+        "link": "https://www.aljazeera.com/news/2026/8/19/israel-numbers-palestinian-detainee-foreheads-what-we-know?traffic_source=rss"
       },
       {
-        "title": "Palestinians condemn Israeli step to advance illegal E1 settlement plan",
-        "link": "https://www.aljazeera.com/news/2026/8/19/palestinians-condemn-israeli-step-to-advance-illegal-e1-settlement-plan?traffic_source=rss"
+        "title": "Second Ukrainian national arrested over 2022 Nord Stream pipeline blast",
+        "link": "https://www.aljazeera.com/news/2026/8/19/second-ukrainian-national-arrested-over-2022-nord-stream-pipeline-blast?traffic_source=rss"
       },
       {
-        "title": "China\u2019s Unitree soars in market debut as investors bet on humanoid robots",
-        "link": "https://www.aljazeera.com/economy/2026/8/19/chinas-unitree-soars-in-market-debut-as-investors-bet-on-humanoid-robots?traffic_source=rss"
+        "title": "Premier League 2026-27 form guide: Title race, prediction, players to watch",
+        "link": "https://www.aljazeera.com/sports/2026/8/19/premier-league-2026-27-form-guide-title-race-prediction-players-to-watch?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Coventry latest: Striker becomes NINTH summer signing",
-        "link": "https://www.skysports.com/football/live-blog/12040/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+        "title": "Fisher opponent revealed ahead of Copper Box return",
+        "link": "https://www.skysports.com/boxing/news/12040/13574695/johnny-fishers-opponent-confirmed-as-michael-pirotton-ahead-of-return-of-the-romford-bull-on-sky-sports"
       },
       {
-        "title": "Transfer Centre LIVE! Fernandez, Konsa and Baleba latest",
-        "link": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours"
+        "title": "Arsenal agree \u00a351m deal to sign Aston Villa's Konsa",
+        "link": "https://www.skysports.com/football/news/12040/13574724/ezri-konsa-transfer-news-arsenal-agree-deal-with-aston-villa-to-sign-england-defender"
       },
       {
-        "title": "Liverpool latest: Highly-rated defender set for Spain loan",
-        "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "title": "Chelsea latest: Badiashile set to complete Napoli move",
+        "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       {
-        "title": "Pogba parts ways with Monaco",
-        "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip"
+        "title": "Robinson takes his fourth wicket as England surge vs Pakistan LIVE!",
+        "link": "https://www.skysports.com/cricket/live-blog/12040/13574594/england-vs-pakistan-first-test-day-one-live-cricket-score-updates-highlights-and-analysis-as-joe-root-returns-as-captain"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "The Grateful Dead :: Fillmore Auditorium, San Francisco, CA (7/3/66)",
+        "link": "https://aquariumdrunkard.com/2026/08/19/the-grateful-dead-fillmore-auditorium-san-francisco-ca-7-3-66/"
+      },
       {
         "title": "Shearwater :: The Aquarium Drunkard Interview",
         "link": "https://aquariumdrunkard.com/2026/08/19/shearwater-the-aquarium-drunkard-interview/"
@@ -70,15 +74,15 @@
       {
         "title": "Nina Winder-Lind :: Wild Love",
         "link": "https://aquariumdrunkard.com/2026/08/18/nina-winder-lind-wild-love/"
-      },
-      {
-        "title": "Black Rock :: The Bar-Kays at Wattstax",
-        "link": "https://aquariumdrunkard.com/2026/08/18/black-rock-the-bar-kays-at-wattstax/"
       }
     ],
     "bfi": [],
     "criterion": [],
     "rogerebert": [
+      {
+        "title": "I Was Compelled to Revisit: Rory Kennedy on \u201cFreefall: A Reckoning For Boeing\u201d",
+        "link": "https://www.rogerebert.com/interviews/downfall-case-against-boeing-rory-kennedy-interview"
+      },
       {
         "title": "Locarno Film Festival 2026: 17 Urgent Hollywood Blacklist Films",
         "link": "https://www.rogerebert.com/festivals/locarno-film-festival-2026-17-urgent-hollywood-blacklist-films"
@@ -90,10 +94,6 @@
       {
         "title": "An Incredible Light: Hayden Panettiere (1989-2026)",
         "link": "https://www.rogerebert.com/tributes/an-incredible-light-hayden-panettiere-1989-2026"
-      },
-      {
-        "title": "How I Spent Another Summer Vacation At The Drive-In",
-        "link": "https://www.rogerebert.com/features/how-i-spent-another-summer-vacation-at-the-drive-in"
       }
     ],
     "filmcomment": [
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018None of Us Knew What We Had\u2019: Jordana Brewster Looks Back at 25 Years of \u2018The Fast and the Furious\u2019",
+        "link": "https://www.indiewire.com/features/interviews/jordana-brewster-fast-and-the-furious-25th-anniversary-1235210010/"
+      },
+      {
+        "title": "Disney Is Finally Embracing \u2018Kingdom Hearts\u2019 \u2014 It May Be Biting Off More Than It Can Chew",
+        "link": "https://www.indiewire.com/features/commentary/disney-kingdom-hearts-series-commentary-1235211019/"
+      },
+      {
+        "title": "Better Call ABQ: Why Shooting in New Mexico Keeps the Ambition of \u2018Pluribus\u2019 Grounded",
+        "link": "https://www.indiewire.com/features/interviews/vince-gilligan-interview-pluribus-international-production-1235210785/"
+      },
+      {
         "title": "\u2018Wildwood\u2019 Trailer: Laika Heads to the Forest for an Epic Fantasy Adventure",
         "link": "https://www.indiewire.com/news/trailers/wildwood-trailer-laika-1235211327/"
-      },
-      {
-        "title": "\u2018Club Kid\u2019 Trailer: Jordan Firstman\u2019s Hugely Crowd-Pleasing, Heartfelt, Hilarious Debut Is A24\u2019s Next Big Thing",
-        "link": "https://www.indiewire.com/news/trailers/club-kid-trailer-jordan-firstman-a24-movie-1235211254/"
-      },
-      {
-        "title": "Disney and ABC Pushing Back on the Trump FCC Is a Sneaky, Low-Risk Move That Could Make Them Look Like Heroes",
-        "link": "https://www.indiewire.com/news/business/abc-pushing-back-trump-fcc-lawsuit-analysis-1235211108/"
-      },
-      {
-        "title": "Early YouTube Pioneer Felicia Day\u2019s \u2018The Guild\u2019 Movie Is About to Break a Kickstarter Record",
-        "link": "https://www.indiewire.com/features/craft/the-guild-ren-faired-felicia-day-kickstarter-interview-1235211080/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018Wildwood\u2019 Trailer: Carey Mulligan Voices a Grieving Mother Ready to Tear Apart an Enchanted Forest in New Laika Stop-Motion Film",
-        "link": "https://variety.com/2026/film/news/wildwood-trailer-new-stopmotion-laika-film-1236837290/"
+        "title": "\u2018The End of Times\u2019 Acquired by Split Screen Ahead of Venice Premiere (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/global/the-end-of-times-split-screen-venice-1236838224/"
       },
       {
-        "title": "\u2018Northbound\u2019 Review: Bruce Dern Revs Up a Road Movie With Its Hands Otherwise Firmly at Ten and Two",
-        "link": "https://variety.com/2026/film/reviews/northbound-review-bruce-dern-1236836684/"
+        "title": "\u2018Who Wants to Be a Millionaire\u2019 Ends Summer Run With Consecutive Weeks of Ratings Growth",
+        "link": "https://variety.com/2026/tv/news/who-wants-to-be-a-millionaire-summer-ratings-growth-1236837936/"
       },
       {
-        "title": "Ewan McGregor Says Next Obi-Wan Kenobi Project Could Be Tracking Down Yoda or a \u2018Big Love Story\u2019 With Wife Mary Elizabeth Winstead\u2019s \u2018Ahsoka\u2019 Character: \u2018There\u2019s Got to Be Something\u2019",
-        "link": "https://variety.com/2026/film/global/ewan-mcgregor-obi-wan-kenobi-project-ideas-yoda-ahsoka-1236838079/"
+        "title": "Jackbox Games Sets \u2018Party Pack 12,\u2019 \u2018Trivia Murder Party 3\u2019 Releases as CEO Teases New Streaming Service (EXCLUSIVE)",
+        "link": "https://variety.com/2026/gaming/news/jackbox-party-pack-12-trivia-murder-party-3-release-dates-1236838174/"
       },
       {
-        "title": "Producers Scout for K-pop Talent With U.S. Appeal During KCON Fan Festival in Los Angeles",
-        "link": "https://variety.com/2026/tv/news/girls-planet-2027-kim-sinyoung-kcon-music-tv-1236836519/"
+        "title": "Odyssey Entertainment Group Launches Original Content Division to Collaborate With Creators",
+        "link": "https://variety.com/2026/digital/news/odyssey-entertainment-originals-creators-kosinski-kasper-1236838207/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Busan Film Festival Sets Kim Jong-kwan\u2019s \u2018The Table: Day and Night\u2019 as Opening Film",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/busan-film-festival-kim-jong-kwans-the-table-day-and-night-opening-film-1236676903/"
+        "title": "Solange Knowles Pays Tribute to \u2018Bring It On: All or Nothing\u2018 Co-Star Hayden Panettiere: \u201cThe Light Surrounds You Now\u201c",
+        "link": "https://www.hollywoodreporter.com/news/general-news/solange-knowles-tribute-hayden-panettiere-bring-it-on-1236677008/"
       },
       {
-        "title": "RFK Jr.\u2019s Son Conor Kennedy Put on Russia\u2019s Most Wanted List",
-        "link": "https://www.hollywoodreporter.com/news/politics-news/rfk-jr-son-conor-kennedy-put-on-russian-most-wanted-list-1236676897/"
+        "title": "\u2018California Schemin\u201d Trailer: Two Scottish Rappers Con Their Way to a Record Deal in James McAvoy\u2019s Directorial Debut (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/california-schemin-trailer-james-mcavoy-directorial-debut-1236676347/"
       },
       {
-        "title": "Why Emily Watson Will Never Quit Sarajevo Film Festival",
-        "link": "https://www.hollywoodreporter.com/movies/movie-features/emily-watson-sarajevo-film-festival-jury-president-award-1236676828/"
+        "title": "\u2018Spider-Man: Brand New Day\u2019 Becomes Fastest Movie to Hit $800M at Domestic Box Office",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-800-million-1236676998/"
       },
       {
-        "title": "San Sebastian Film Festival to Open With Fatih Akin\u2019s \u2018Ghost Song\u2019",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/san-sebastian-2026-fatih-akin-ghost-song-opening-film-1236676846/"
+        "title": "MS NOW Reveals New Member Tier Prices In Bet On Loyalty",
+        "link": "https://www.hollywoodreporter.com/business/business-news/ms-now-member-tier-prices-1236676973/"
       }
     ],
     "larb": [],
@@ -262,6 +262,10 @@
     ],
     "quanta": [
       {
+        "title": "Building a Quantum Computer, One Fragile Qubit at a Time",
+        "link": "https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/"
+      },
+      {
         "title": "Theory of Fluids Enters the 21st Century",
         "link": "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/"
       },
@@ -272,13 +276,17 @@
       {
         "title": "Graduate Student Proves a Quantum Uncertainty Principle for Fractals",
         "link": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/"
-      },
-      {
-        "title": "Why Are Rivers So Mathematical?",
-        "link": "https://www.quantamagazine.org/why-are-rivers-so-mathematical-20260810/"
       }
     ],
     "nautilus": [
+      {
+        "title": "What a Blissful Psychedelic Trip Looks Like Inside the Brain",
+        "link": "https://nautil.us/what-a-blissful-psychedelic-trip-looks-like-inside-the-brain-1283982/"
+      },
+      {
+        "title": "TikTok Discovered a Blind, Pale, Worm-Like Fish",
+        "link": "https://nautil.us/tiktok-discovered-a-blind-pale-worm-like-fish-1283977/"
+      },
       {
         "title": "The Best Ocean Photos of the Year",
         "link": "https://nautil.us/the-best-ocean-photos-of-the-year-1283951/"
@@ -286,14 +294,6 @@
       {
         "title": "Why You Move Factors in to Whether It Protects You From Dementia",
         "link": "https://nautil.us/why-you-move-factors-in-to-whether-it-protects-you-from-dementia-1283940/"
-      },
-      {
-        "title": "The Wonders of the Male Human Pelvis",
-        "link": "https://nautil.us/the-wonders-of-the-male-human-pelvis-1283947/"
-      },
-      {
-        "title": "How Our Perceptions of Aging Can Affect Our Social Lives",
-        "link": "https://nautil.us/how-our-perceptions-of-aging-can-affect-our-social-lives-1283944/"
       }
     ],
     "worksinprogress": [],
