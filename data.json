@@ -1,47 +1,51 @@
 {
-  "last_updated": "2026-08-19 18:23 UTC",
+  "last_updated": "2026-08-19 21:18 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Track defect found on approach to site of Lewes derailment, initial report says",
-        "link": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss"
+        "title": "Couple and teenage daughter who died in water off Shoreham named by police",
+        "link": "https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
-        "link": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss"
+        "title": "Track defect found on approach to site of Lewes derailment, initial report says",
+        "link": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
         "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Salmonella outbreak: What we know so far ",
-        "link": "https://www.bbc.co.uk/news/articles/cp30gqnpqjqo?at_medium=RSS&at_campaign=rss"
+        "title": "People smuggler exposed by BBC investigation arrested and charged",
+        "link": "https://www.bbc.co.uk/news/articles/cx2ldeg93njo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Canada pledges $50m aid to Lebanon and condemns Israeli \u2018unlawful invasion\u2019",
-        "link": "https://www.aljazeera.com/news/2026/8/19/canada-pledges-50m-aid-to-lebanon-and-condemns-israeli-unlawful-invasion?traffic_source=rss"
+        "title": "USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts",
+        "link": "https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss"
       },
       {
-        "title": "Kennedy Center board says it won\u2019t try to immediately restore Trump\u2019s name",
-        "link": "https://www.aljazeera.com/news/2026/8/19/kennedy-center-board-says-it-wont-try-to-immediately-restore-trumps-name?traffic_source=rss"
+        "title": "Spain plans transfer of 500 migrant children from Ceuta to mainland",
+        "link": "https://www.aljazeera.com/news/2026/8/19/spain-plans-transfer-of-500-migrant-children-from-ceuta-to-mainland?traffic_source=rss"
       },
       {
-        "title": "Brazil bus crash kills at least 23 and injures five in Parana state",
-        "link": "https://www.aljazeera.com/news/2026/8/19/brazil-bus-crash-kills-at-least-23-and-injures-five-in-parana-state?traffic_source=rss"
+        "title": "Moderna, Merck unveil mRNA-based cancer vaccine that cuts spread",
+        "link": "https://www.aljazeera.com/news/2026/8/19/moderna-merck-unveil-mrna-based-cancer-vaccine-that-cuts-spread?traffic_source=rss"
       },
       {
-        "title": "NATO \u2018prepared\u2019 to defend allies amid report of Iranian strike plans",
-        "link": "https://www.aljazeera.com/news/2026/8/19/nato-prepared-to-defend-allies-amid-report-of-iranian-strike-plans?traffic_source=rss"
+        "title": "What\u2019s behind Israel\u2019s latest attack on Syria?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "FREE STREAM: The Transfer Show on Sky Sports News",
-        "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours"
+        "title": "England skittle Pakistan at Headingley on Root's return as Test captain",
+        "link": "https://www.skysports.com/cricket/news/12040/13574818/england-skittle-pakistan-for-171-on-joe-roots-return-as-test-captain-with-ollie-robinson-and-josh-tongue-taking-five-wicket-hauls-at-headingley"
+      },
+      {
+        "title": "Woman struggled to speak about alleged abuse by Dott, court told",
+        "link": "https://www.skysports.com/snooker/news/12040/13574834/woman-struggled-to-speak-about-alleged-abuse-by-graeme-dott-court-told"
       },
       {
         "title": "Kevin Blake's York tips: Ebor Festival day two picks",
@@ -50,10 +54,6 @@
       {
         "title": "Masters, Webb criticise FIFA over Balogun red card controversy ",
         "link": "https://www.skysports.com/football/news/12040/13574783/richard-masters-and-howard-webb-criticise-fifa-over-folarin-baloguns-red-card-controversy-at-2026-world-cup"
-      },
-      {
-        "title": "Item surprises big two for Juddmonte International glory",
-        "link": "https://www.skysports.com/racing/news/12040/13574761/item-surprises-big-two-for-juddmonte-international-glory"
       }
     ],
     "pitchfork": [],
@@ -133,76 +133,59 @@
       }
     ],
     "reverseshot": [],
-    "sensesofcinema": [
-      {
-        "title": "Filmmaking at the end of the world: The Quiet Earth",
-        "link": "https://www.sensesofcinema.com/2026/cteq/filmmaking-at-the-end-of-the-world-the-quiet-earth/"
-      },
-      {
-        "title": "Crimes Against Reality: Speculation and the New Red Order",
-        "link": "https://www.sensesofcinema.com/2026/feature-articles/crimes-against-reality-speculation-and-the-new-red-order/"
-      },
-      {
-        "title": "Consent Puzzles in the Oslo Stories Trilogy by Dag Johan Haugerud",
-        "link": "https://www.sensesofcinema.com/2026/feature-articles/consent-puzzles-in-the-oslo-stories-trilogy-by-dag-johan-haugerud/"
-      },
-      {
-        "title": "An Interview with Giulio Bertelli",
-        "link": "https://www.sensesofcinema.com/2026/interviews/an-interview-with-giulio-bertelli/"
-      }
-    ],
+    "sensesofcinema": [],
     "indiewire": [
       {
-        "title": "\u2018Brotherhood: A Cinematic Musical\u2019 Trailer: Broadway Star Mauricio Mart\u00ednez Leads a Melodic Immigration Saga",
-        "link": "https://www.indiewire.com/news/trailers/brotherhood-a-cinematic-musical-trailer-1235211243/"
+        "title": "Sorry, Brad Pitt and Robert Pattinson: Among 2027 Oscar Contenders Poised for Two Noms, Only Sandra H\u00fcller Has the Stuff",
+        "link": "https://www.indiewire.com/awards/predictions/oscars-2027-double-nominees-sandra-huller-robert-pattinson-brad-pitt-1235211354/"
       },
       {
-        "title": "Val Kilmer Resurrected by AI: \u2018As Deep as the Grave\u2019 Releases Seven Minutes of Footage Featuring Younger Version of Actor",
-        "link": "https://www.indiewire.com/news/business/val-kilmer-ai-movie-footage-as-deep-as-the-grave-1235211459/"
+        "title": "How the Cinematography of Nat Geo\u2019s \u2018Lion\u2019 Combats AI Slop with Patience, Imperfections, and Biscuits",
+        "link": "https://www.indiewire.com/features/craft/nat-geo-lion-cinematography-interview-sophie-darlington-1235211387/"
       },
       {
-        "title": "\u2018Insidious: Out of the Further\u2019 Review: Or When a Franchise Makes the Case for Its Own Death, Again",
-        "link": "https://www.indiewire.com/criticism/movies/insidious-out-of-the-further-movie-review-1235211474/"
+        "title": "James Gray Predicts \u2018Obscene\u2019 AI Push Will Fail and Shooting on Film Will Have a \u2018Vinyl\u2019 Comeback",
+        "link": "https://www.indiewire.com/features/interviews/ai-filmmaking-will-fail-james-gray-paper-tiger-director-1235211572/"
       },
       {
-        "title": "\u2018Tony\u2019 Review: Dominic Sessa Shines in a Briny, Bittersweet Coming-of-Age Comedy That Just Happens to Be About a Young Anthony Bourdain",
-        "link": "https://www.indiewire.com/criticism/movies/tony-movie-review-anthony-bourdain-1235207248/"
+        "title": "Indie Specialized Box Office: \u2018Teenage Sex and Death at Camp Miasma\u2019 and \u2018Tony\u2019 Nearly Tied After Expansion",
+        "link": "https://www.indiewire.com/news/box-office/indie-specialized-box-office-camp-miasma-tony-expansion-1235211578/"
       }
     ],
     "variety": [
       {
-        "title": "David Krumholtz Clarifies He\u2019s Putting Acting Career on Hold but Not \u2018Retiring or Quitting\u2019: Disappointments \u2018Are Starting to Sting More\u2019",
-        "link": "https://variety.com/2026/film/news/david-krumholtz-acting-career-on-hold-not-retiring-1236838449/"
+        "title": "\u2018Even Stevens\u2019 Star Christy Carlson Romano Says \u2018Early Fame Is Like CTE\u2019 After Hayden Panettiere\u2019s Death: \u2018Another Performer I Grew Up With, Gone Too Soon\u2019",
+        "link": "https://variety.com/2026/tv/news/christy-carlson-romano-hayden-panettiere-death-child-fame-cte-even-stevens-1236838299/"
       },
       {
-        "title": "Telemundo Executive Jos\u00e9 Su\u00e1rez Dies in Helicopter Crash at 55",
-        "link": "https://variety.com/2026/tv/news/telemundo-jose-suarez-dies-helicopter-crash-1236838453/"
+        "title": "Paramount-Warner Bros. Merger Will Cost 4,500 L.A. Production Jobs, Report Finds",
+        "link": "https://variety.com/2026/film/news/paramount-warner-bros-merger-la-job-loss-production-1236838567/"
       },
       {
-        "title": "\u2018Slow Horses\u2019 Actor Jack Lowden Unpacks River Cartwright and Why Pride Gets in His Way",
-        "link": "https://variety.com/2026/awards/news/slow-horses-actor-jack-lowden-river-cartwright-season-5-1236838202/"
+        "title": "LISTEN: How \u2018Dateline\u2019 Became a Content Dynamo for NBC News",
+        "link": "https://variety.com/2026/tv/news/dateline-dynamo-nbc-news-liz-cole-paul-ryan-nbc-100-1236837946/"
       },
       {
-        "title": "\u2018Widow\u2019s Bay\u2019 and Other Contenders Continue to Complicate Emmy\u2019s Comedy Conundrum",
-        "link": "https://variety.com/2026/tv/awards/widows-bay-emmys-comedy-contenders-conundrum-1236837738/"
+        "title": "\u2018Sons of Anarchy\u2019 Cast Reunites for FX Limited Series \u2018Legends\u2019",
+        "link": "https://variety.com/2026/tv/news/sons-of-anarchy-cast-reunion-fx-limited-series-legends-1236838557/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Liev Schreiber and \u2018Ukrainians in Exile\u2019 Director Janek Ambros Set for Lakes Noir Film Festival Tribute",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/liev-schreiber-lakes-noir-festival-tribute-1236676963/"
+        "title": "Paramount-Warner Bros. Merger Will Threaten $2.78 Billion in Economic Value, Says L.A. County",
+        "link": "https://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-study-economic-1236677088/"
       },
       {
-        "title": "Could \u2018Smiling Friends\u2019 Return After its Emmy Breakthrough? Its Creators Say The Odds are \u201cNot Zero\u201d",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/smiling-friends-return-emmys-1236676607/"
+        "title": "Georgian Director Ana Urushadze on Making Her Sarajevo Competition Film Before \u201cA Dead-End Situation\u201d Got Worse",
+        "link": "https://www.hollywoodreporter.com/movies/movie-features/ana-urushadze-supporting-role-georgia-sarajevo-film-1236677153/"
       },
       {
-        "title": "Edinburgh Film Festival Awards Go to \u2018Skintown\u2019 and \u2018Grief Room\u2019",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/edinburgh-film-festival-2026-awards-skintown-grief-room-1236676906/"
+        "title": "\u2018Sons of Anarchy\u2019 Spinoff \u2018Legends\u2019 Ordered With Charlie Hunnam, Original Cast Returning \u2014 With a Wild Twist",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/sons-of-anarchy-spin-off-legends-charlie-hunnam-1236677057/"
       },
       {
-        "title": "David Krumholtz Clarifies Status of Acting Career After Shocking Announcement: \u201cLet it Heal\u201d",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/david-krumholtz-acting-career-on-hold-announcement-retirement-1236677104/"
+        "title": "Between \u2018Off Campus\u2019 and \u2018The Shards,\u2019 Collegiate-Inspired Menswear Is Queued Up for Fall",
+        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/fall-2026-menswear-trends-preppy-aesthetic-mens-wearhouse-1236676668/"
       }
     ],
     "larb": [],
@@ -280,6 +263,10 @@
     ],
     "nautilus": [
       {
+        "title": "How Listening to Ocean Waves Can Predict Volcanic Eruptions",
+        "link": "https://nautil.us/how-listening-to-ocean-waves-can-predict-volcanic-eruptions-1284014/"
+      },
+      {
         "title": "The \u201cKerry Cow\u201d Wasn\u2019t a Cow at All\u2014And It Upends Stone Age Irish History",
         "link": "https://nautil.us/the-kerry-cow-wasnt-a-cow-at-all-and-it-upends-stone-age-irish-history-1283999/"
       },
@@ -290,10 +277,6 @@
       {
         "title": "What a Blissful Psychedelic Trip Looks Like Inside the Brain",
         "link": "https://nautil.us/what-a-blissful-psychedelic-trip-looks-like-inside-the-brain-1283982/"
-      },
-      {
-        "title": "TikTok Discovered a Blind, Pale, Worm-Like Fish",
-        "link": "https://nautil.us/tiktok-discovered-a-blind-pale-worm-like-fish-1283977/"
       }
     ],
     "worksinprogress": [],
