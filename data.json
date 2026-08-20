@@ -1,40 +1,40 @@
 {
-  "last_updated": "2026-08-19 21:18 UTC",
+  "last_updated": "2026-08-20 00:50 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Prince Harry and Meghan moving back to UK",
+        "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Couple and teenage daughter who died in water off Shoreham named by police",
         "link": "https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Track defect found on approach to site of Lewes derailment, initial report says",
-        "link": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-        "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "People smuggler exposed by BBC investigation arrested and charged",
         "link": "https://www.bbc.co.uk/news/articles/cx2ldeg93njo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Vaccine breakthrough stops cancer returning in trial",
+        "link": "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts",
-        "link": "https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss"
+        "title": "Publisher of US military newspaper resigns over differences with government",
+        "link": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss"
       },
       {
-        "title": "Spain plans transfer of 500 migrant children from Ceuta to mainland",
-        "link": "https://www.aljazeera.com/news/2026/8/19/spain-plans-transfer-of-500-migrant-children-from-ceuta-to-mainland?traffic_source=rss"
+        "title": "\u2018Tsunami\u2019 of emigration reshapes Israel\u2019s future, experts warn",
+        "link": "https://www.aljazeera.com/news/2026/8/20/tsunami-of-emigration-reshapes-israels-future-experts-warn?traffic_source=rss"
       },
       {
-        "title": "Moderna, Merck unveil mRNA-based cancer vaccine that cuts spread",
-        "link": "https://www.aljazeera.com/news/2026/8/19/moderna-merck-unveil-mrna-based-cancer-vaccine-that-cuts-spread?traffic_source=rss"
+        "title": "Harry Kane scores goal by winning Golden Shoe for the second time",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/harry-kane-scores-goal-by-winning-golden-shoe-for-the-second-time?traffic_source=rss"
       },
       {
-        "title": "What\u2019s behind Israel\u2019s latest attack on Syria?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss"
+        "title": "Nigeria\u2019s election campaign begins with Tinubu facing a reform test",
+        "link": "https://www.aljazeera.com/news/2026/8/20/nigerias-election-campaign-begins-with-tinubus-reform-test?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -80,20 +80,20 @@
     "criterion": [],
     "rogerebert": [
       {
+        "title": "Locarno Film Festival 2026 Wrap-up",
+        "link": "https://www.rogerebert.com/features/locarno-film-festival-2026-wrap-up"
+      },
+      {
+        "title": "Locarno 2026: You Don\u2019t Belong Here, Who Is Still Alive, Sixteen Moments of My Life, Letter From My Village",
+        "link": "https://www.rogerebert.com/features/locarno-2026-you-dont-belong-here-who-is-still-alive-sixteen-moments-of-my-life-letter-from-my-village"
+      },
+      {
         "title": "I Was Compelled to Revisit: Rory Kennedy on \u201cFreefall: A Reckoning For Boeing\u201d",
         "link": "https://www.rogerebert.com/interviews/downfall-case-against-boeing-rory-kennedy-interview"
       },
       {
         "title": "Locarno Film Festival 2026: 17 Urgent Hollywood Blacklist Films",
         "link": "https://www.rogerebert.com/festivals/locarno-film-festival-2026-17-urgent-hollywood-blacklist-films"
-      },
-      {
-        "title": "Gorgeous Platformer \u201cDuskfade\u201d Has Echoes of \u201cKingdom Hearts\u201d",
-        "link": "https://www.rogerebert.com/features/gorgeous-platformer-duskfade-has-echoes-of-kingdom-hearts"
-      },
-      {
-        "title": "An Incredible Light: Hayden Panettiere (1989-2026)",
-        "link": "https://www.rogerebert.com/tributes/an-incredible-light-hayden-panettiere-1989-2026"
       }
     ],
     "filmcomment": [
@@ -133,8 +133,33 @@
       }
     ],
     "reverseshot": [],
-    "sensesofcinema": [],
+    "sensesofcinema": [
+      {
+        "title": "Filmmaking at the end of the world: The Quiet Earth",
+        "link": "https://www.sensesofcinema.com/2026/cteq/filmmaking-at-the-end-of-the-world-the-quiet-earth/"
+      },
+      {
+        "title": "Crimes Against Reality: Speculation and the New Red Order",
+        "link": "https://www.sensesofcinema.com/2026/feature-articles/crimes-against-reality-speculation-and-the-new-red-order/"
+      },
+      {
+        "title": "Consent Puzzles in the Oslo Stories Trilogy by Dag Johan Haugerud",
+        "link": "https://www.sensesofcinema.com/2026/feature-articles/consent-puzzles-in-the-oslo-stories-trilogy-by-dag-johan-haugerud/"
+      },
+      {
+        "title": "An Interview with Giulio Bertelli",
+        "link": "https://www.sensesofcinema.com/2026/interviews/an-interview-with-giulio-bertelli/"
+      }
+    ],
     "indiewire": [
+      {
+        "title": "Bigger Than the Program: HBO\u2019s Perseverance Should Pay Off at the 2026 Emmys",
+        "link": "https://www.indiewire.com/awards/predictions/hbo-emmy-campaign-perseverance-should-pay-off-1235211458/"
+      },
+      {
+        "title": "Paramount\u2019s Purchase of Warner Bros. Could Cost 4,500 TV and Film Production Jobs and Hurt a Damaged Indie Film Biz",
+        "link": "https://www.indiewire.com/news/business/paramount-warner-bros-merger-4500-tv-film-production-jobs-lost-1235211693/"
+      },
       {
         "title": "Sorry, Brad Pitt and Robert Pattinson: Among 2027 Oscar Contenders Poised for Two Noms, Only Sandra H\u00fcller Has the Stuff",
         "link": "https://www.indiewire.com/awards/predictions/oscars-2027-double-nominees-sandra-huller-robert-pattinson-brad-pitt-1235211354/"
@@ -142,50 +167,42 @@
       {
         "title": "How the Cinematography of Nat Geo\u2019s \u2018Lion\u2019 Combats AI Slop with Patience, Imperfections, and Biscuits",
         "link": "https://www.indiewire.com/features/craft/nat-geo-lion-cinematography-interview-sophie-darlington-1235211387/"
-      },
-      {
-        "title": "James Gray Predicts \u2018Obscene\u2019 AI Push Will Fail and Shooting on Film Will Have a \u2018Vinyl\u2019 Comeback",
-        "link": "https://www.indiewire.com/features/interviews/ai-filmmaking-will-fail-james-gray-paper-tiger-director-1235211572/"
-      },
-      {
-        "title": "Indie Specialized Box Office: \u2018Teenage Sex and Death at Camp Miasma\u2019 and \u2018Tony\u2019 Nearly Tied After Expansion",
-        "link": "https://www.indiewire.com/news/box-office/indie-specialized-box-office-camp-miasma-tony-expansion-1235211578/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018Even Stevens\u2019 Star Christy Carlson Romano Says \u2018Early Fame Is Like CTE\u2019 After Hayden Panettiere\u2019s Death: \u2018Another Performer I Grew Up With, Gone Too Soon\u2019",
-        "link": "https://variety.com/2026/tv/news/christy-carlson-romano-hayden-panettiere-death-child-fame-cte-even-stevens-1236838299/"
+        "title": "Hayden Panettiere\u2019s Death: DEA Joins Investigation",
+        "link": "https://variety.com/2026/film/news/hayden-panettiere-death-dea-joins-investigation-1236838724/"
       },
       {
-        "title": "Paramount-Warner Bros. Merger Will Cost 4,500 L.A. Production Jobs, Report Finds",
-        "link": "https://variety.com/2026/film/news/paramount-warner-bros-merger-la-job-loss-production-1236838567/"
+        "title": "French Soccer Star Kylian Mbapp\u00e9 Debuts Gold Nike Cleats on Heels of World Cup Golden Boot Award Win",
+        "link": "https://variety.com/2026/shopping/athletes/kylian-mbappe-nike-mercurial-gold-soccer-cleats-buy-online-1236838580/"
       },
       {
-        "title": "LISTEN: How \u2018Dateline\u2019 Became a Content Dynamo for NBC News",
-        "link": "https://variety.com/2026/tv/news/dateline-dynamo-nbc-news-liz-cole-paul-ryan-nbc-100-1236837946/"
+        "title": "Dane Cook\u2019s Brother Stole $12 Million From Comedian, Hid Bricks of Cash in Pasta Sauce",
+        "link": "https://variety.com/2026/tv/news/dane-cook-brother-stole-12-million-cash-pasta-sauce-1236838675/"
       },
       {
-        "title": "\u2018Sons of Anarchy\u2019 Cast Reunites for FX Limited Series \u2018Legends\u2019",
-        "link": "https://variety.com/2026/tv/news/sons-of-anarchy-cast-reunion-fx-limited-series-legends-1236838557/"
+        "title": "Hayden Panettiere\u2019s \u2018Heroes\u2019 Dad Calls Out \u2018Predatory\u2019 Paparazzi Who \u2018Hunted\u2019 Her and the Press Who Asked \u2018Misogynistic\u2019 Questions When She Was a Teen",
+        "link": "https://variety.com/2026/tv/news/hayden-panettiere-heroes-dad-slams-paparazzi-media-hunting-her-1236838679/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Paramount-Warner Bros. Merger Will Threaten $2.78 Billion in Economic Value, Says L.A. County",
-        "link": "https://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-study-economic-1236677088/"
+        "title": "DEA Joins Investigation Into Hayden Panettiere\u2019s Death, Sources Say",
+        "link": "https://www.hollywoodreporter.com/news/general-news/dea-joins-investigation-hayden-panettiere-death-1236677456/"
       },
       {
-        "title": "Georgian Director Ana Urushadze on Making Her Sarajevo Competition Film Before \u201cA Dead-End Situation\u201d Got Worse",
-        "link": "https://www.hollywoodreporter.com/movies/movie-features/ana-urushadze-supporting-role-georgia-sarajevo-film-1236677153/"
+        "title": "How to Watch 2026 Little League World Series Live Online",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/watch-little-league-world-series-2026-baseball-stream-free-1236677338/"
       },
       {
-        "title": "\u2018Sons of Anarchy\u2019 Spinoff \u2018Legends\u2019 Ordered With Charlie Hunnam, Original Cast Returning \u2014 With a Wild Twist",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/sons-of-anarchy-spin-off-legends-charlie-hunnam-1236677057/"
+        "title": "Jack Coleman Remembers \u2018Heroes\u2019 Co-Star Hayden Panettiere, Says He\u2018s \u201cFilled With Sorrow, Regret and Anger\u201d Over Death",
+        "link": "https://www.hollywoodreporter.com/news/general-news/jack-coleman-heroes-hayden-panettiere-tribute-1236677430/"
       },
       {
-        "title": "Between \u2018Off Campus\u2019 and \u2018The Shards,\u2019 Collegiate-Inspired Menswear Is Queued Up for Fall",
-        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/fall-2026-menswear-trends-preppy-aesthetic-mens-wearhouse-1236676668/"
+        "title": "Ariana Grande Granted Expedited Subpoena in Lawsuit Over Leaked Music",
+        "link": "https://www.hollywoodreporter.com/music/music-industry-news/ariana-grande-granted-expedited-subpoena-in-hacker-lawsuit-1236677401/"
       }
     ],
     "larb": [],
@@ -263,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "Do Zoo Otters Love People Watching?",
+        "link": "https://nautil.us/do-zoo-otters-love-people-watching-1284025/"
+      },
+      {
         "title": "How Listening to Ocean Waves Can Predict Volcanic Eruptions",
         "link": "https://nautil.us/how-listening-to-ocean-waves-can-predict-volcanic-eruptions-1284014/"
       },
@@ -273,10 +294,6 @@
       {
         "title": "Why It Might Be Time to Rethink the Human Family Tree",
         "link": "https://nautil.us/why-it-might-be-time-to-rethink-the-human-family-tree-1283985/"
-      },
-      {
-        "title": "What a Blissful Psychedelic Trip Looks Like Inside the Brain",
-        "link": "https://nautil.us/what-a-blissful-psychedelic-trip-looks-like-inside-the-brain-1283982/"
       }
     ],
     "worksinprogress": [],
