@@ -1,40 +1,40 @@
 {
-  "last_updated": "2026-08-20 00:50 UTC",
+  "last_updated": "2026-08-20 03:39 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Prince Harry and Meghan moving back to UK",
+        "title": "Prince Harry and Meghan moving back to UK later this month",
         "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Couple and teenage daughter who died in water off Shoreham named by police",
-        "link": "https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "People smuggler exposed by BBC investigation arrested and charged",
-        "link": "https://www.bbc.co.uk/news/articles/cx2ldeg93njo?at_medium=RSS&at_campaign=rss"
+        "title": "Harry and Meghan are experts in surprise - but is their UK return forever?",
+        "link": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Vaccine breakthrough stops cancer returning in trial",
         "link": "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "People smuggler exposed by BBC investigation arrested and charged",
+        "link": "https://www.bbc.co.uk/news/articles/cx2ldeg93njo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Publisher of US military newspaper resigns over differences with government",
-        "link": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss"
+        "title": "Russian strike kills 3 in Ukraine as Zelenskyy faces pressure at home",
+        "link": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss"
       },
       {
-        "title": "\u2018Tsunami\u2019 of emigration reshapes Israel\u2019s future, experts warn",
-        "link": "https://www.aljazeera.com/news/2026/8/20/tsunami-of-emigration-reshapes-israels-future-experts-warn?traffic_source=rss"
+        "title": "Fears grow in Amazon village as Brazilian drug gangs push into Bolivia",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss"
       },
       {
-        "title": "Harry Kane scores goal by winning Golden Shoe for the second time",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/harry-kane-scores-goal-by-winning-golden-shoe-for-the-second-time?traffic_source=rss"
+        "title": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
+        "link": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss"
       },
       {
-        "title": "Nigeria\u2019s election campaign begins with Tinubu facing a reform test",
-        "link": "https://www.aljazeera.com/news/2026/8/20/nigerias-election-campaign-begins-with-tinubus-reform-test?traffic_source=rss"
+        "title": "Bodycam captures police team falling when deck collapses in Missouri",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -189,20 +189,20 @@
     ],
     "hollywoodreporter": [
       {
+        "title": "\u2018Spider-Man: Brand New Day\u2019 Aims to Swing Past \u2018Insidious\u2019 Sequel for Fourth Box Office Win",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-insidious-mutiny-1236677495/"
+      },
+      {
+        "title": "Did Alex Vindman Just Get Burned by the Larry David Curse?\u00a0",
+        "link": "https://www.hollywoodreporter.com/news/politics-news/alex-vindman-larry-david-curse-angie-nixon-florida-primary-1236677481/"
+      },
+      {
+        "title": "Hayden Panettiere\u2019s Neighbor Says She Called 911 Multiple Times to Report Disturbances With Star\u2019s Boyfriend",
+        "link": "https://www.hollywoodreporter.com/news/general-news/hayden-panettieres-neighbor-called-911-report-disturbances-1236677449/"
+      },
+      {
         "title": "DEA Joins Investigation Into Hayden Panettiere\u2019s Death, Sources Say",
         "link": "https://www.hollywoodreporter.com/news/general-news/dea-joins-investigation-hayden-panettiere-death-1236677456/"
-      },
-      {
-        "title": "How to Watch 2026 Little League World Series Live Online",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/watch-little-league-world-series-2026-baseball-stream-free-1236677338/"
-      },
-      {
-        "title": "Jack Coleman Remembers \u2018Heroes\u2019 Co-Star Hayden Panettiere, Says He\u2018s \u201cFilled With Sorrow, Regret and Anger\u201d Over Death",
-        "link": "https://www.hollywoodreporter.com/news/general-news/jack-coleman-heroes-hayden-panettiere-tribute-1236677430/"
-      },
-      {
-        "title": "Ariana Grande Granted Expedited Subpoena in Lawsuit Over Leaked Music",
-        "link": "https://www.hollywoodreporter.com/music/music-industry-news/ariana-grande-granted-expedited-subpoena-in-hacker-lawsuit-1236677401/"
       }
     ],
     "larb": [],
