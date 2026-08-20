@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-20 09:26 UTC",
+  "last_updated": "2026-08-20 12:33 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Prince Harry and Meghan moving back to UK later this month",
-        "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss"
+        "title": "Harry and Meghan's security arrangements a private matter, PM says",
+        "link": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
@@ -21,44 +21,48 @@
     ],
     "aljazeera": [
       {
-        "title": "Are Hormuz ships more willing to defy Iran or the US? What the data shows",
-        "link": "https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows?traffic_source=rss"
+        "title": "Bangladesh\u2019s government under pressure as youth demand jobs",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss"
       },
       {
-        "title": "Max Verstappen signs new F1 contract with Red Bull until 2030",
-        "link": "https://www.aljazeera.com/sports/2026/8/20/verstappen-signs-new-red-bull-contract-until-2030?traffic_source=rss"
+        "title": "Who was Hind Rajab and why is Israel investigating her killing?",
+        "link": "https://www.aljazeera.com/news/2026/8/20/who-was-hind-rajab-and-why-is-israel-investigating-her-killing?traffic_source=rss"
       },
       {
-        "title": "Heatwaves and energy crunch: Can Europe withstand a double shock?",
-        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/20/heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock?traffic_source=rss"
+        "title": "Israel is betting on Islamophobia to save its standing in the West",
+        "link": "https://www.aljazeera.com/opinions/2026/8/20/israel-is-betting-on-islamophobia-to-save-its-standing-in-the-west?traffic_source=rss"
       },
       {
-        "title": "Video shows Russian missile strike on Ukrainian capital",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss"
+        "title": "PSG forced to move opening league match as heatwave in France damages pitch",
+        "link": "https://www.aljazeera.com/sports/2026/8/20/psg-forced-to-move-opening-league-match-as-heatwave-in-france-damages-pitch?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "How does Arteta deliver step five of his Arsenal plan?",
-        "link": "https://www.skysports.com/football/news/12040/13574067/arsenal-will-mikel-artetas-side-make-more-history-and-record-back-to-back-premier-league-titles"
+        "title": "Palace latest: Sage provides update on Henderson fitness - and transfer targets",
+        "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
       },
       {
-        "title": "Aston Villa latest: More players sold?! Transfer plans analysed...",
-        "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "title": "Verstappen 'closer to retiring' than joining Red Bull rival",
+        "link": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts"
       },
       {
-        "title": "FREE STREAM: Good Morning Transfers on Sky Sports News",
-        "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours"
+        "title": "Price begins bid for second Australian Darts Masters title against Whitlock",
+        "link": "https://www.skysports.com/darts/news/12040/13574971/australian-darts-masters-gerwyn-price-begins-bid-for-second-title-against-legendary-simon-whitlock"
       },
       {
-        "title": "Inter Milan agree \u00a330m deal for Liverpool's Jones",
-        "link": "https://www.skysports.com/football/news/12040/13574174/curtis-jones-transfer-news-inter-milan-agree-30m-deal-to-sign-liverpool-midfielder"
+        "title": "Verstappen's hilarious contract announcement video!",
+        "link": "https://www.skysports.com/watch/video/13574929/formula-one-red-bull-announce-max-verstappens-re-signing-with-hilarious-social-media-video"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "Julia Holter :: Materia",
+        "link": "https://aquariumdrunkard.com/2026/08/20/julia-holter-materia/"
+      },
       {
         "title": "Chet Baker :: Daybreak (Jazzhus Montmartre, Copenhagen, Denmark, 1979)",
         "link": "https://aquariumdrunkard.com/2026/08/19/chet-baker-daybreak-jazzhus-montmartre-copenhagen-denmark-1979/"
@@ -70,10 +74,6 @@
       {
         "title": "Shearwater :: The Aquarium Drunkard Interview",
         "link": "https://aquariumdrunkard.com/2026/08/19/shearwater-the-aquarium-drunkard-interview/"
-      },
-      {
-        "title": "Transmissions :: Fred Thomas",
-        "link": "https://aquariumdrunkard.com/2026/08/19/transmissions-fred-thomas/"
       }
     ],
     "bfi": [],
@@ -171,42 +171,50 @@
     ],
     "variety": [
       {
-        "title": "San Sebasti\u00e1n Sets Micha\u00ebl R. Roskam\u2019s \u2018Le Faux Soir\u2019 as Closing Night Film",
-        "link": "https://variety.com/2026/film/global/san-sebastian-michael-roskam-le-faux-soir-closing-film-1236838841/"
+        "title": "Charter Closes $34.5 Billion Cox Deal in Cable Megamerger, Company to Adopt Cox Communications Name",
+        "link": "https://variety.com/2026/tv/news/charter-closes-cox-merger-new-company-name-1236838902/"
       },
       {
-        "title": "\u2018Game of Thrones\u2019 Play \u2018The Mad King\u2019 Reveals Behind-The-Scenes Secrets in Stage Transformation Video (EXCLUSIVE)",
-        "link": "https://variety.com/2026/theater/global/game-of-thrones-the-mad-king-behind-the-scenes-video-1236838551/"
+        "title": "Christine Vachon on Why Landing Pedro Pascal to Replace Joaquin Phoenix in \u2018De Noche\u2019 Gave Todd Haynes the \u2018Happy Ending\u2019 He Deserved",
+        "link": "https://variety.com/2026/film/global/christine-vachon-pedro-pascal-joaquin-phoenix-de-noche-1236838882/"
       },
       {
-        "title": "Toei, Shochiku, Kadokawa Among IP Holders Set for TIFFCOM\u2019s Tokyo Adaptation and Remake Market",
-        "link": "https://variety.com/2026/film/markets-festivals/toei-shochiku-kadokawa-ip-holders-tokyo-remake-market-1236838854/"
+        "title": "Mubi Set to Stream Manuela Martelli\u2019s \u2018The Meltdown\u2019 After Its Screening at San Sebasti\u00e1n (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/global/manuela-martelli-the-meltdown-mubi-san-sebastian-festival-1236838772/"
       },
       {
-        "title": "\u2018You Don\u2019t Belong Here\u2019 Director Florin \u015eerban Sets Next Feature After Winning Locarno\u2019s Golden Leopard (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/global/you-dont-belong-here-florin-serban-follow-up-locarno-1236838137/"
+        "title": "Asghar Farhadi Condemns Politicians and Media for Focus on \u2018Difference\u2019 and \u2018Hate\u2019: \u2018Why Do You Think a Mother in Afghanistan Is Different Than Your Mom?\u2019",
+        "link": "https://variety.com/2026/film/global/asghar-farhadi-condemns-politicians-media-difference-hate-1236838883/"
       }
     ],
     "hollywoodreporter": [
       {
+        "title": "Charter Communications Completes Cox, Liberty Broadband Deals, Creating New Cable Powerhouse",
+        "link": "https://www.hollywoodreporter.com/business/business-news/charter-communications-completes-cox-liberty-broadband-deal-1236677613/"
+      },
+      {
+        "title": "HBO Max Picks 12 European Writers for Script Engine Program",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/hbo-max-names-european-writers-for-script-engine-program-1236677587/"
+      },
+      {
+        "title": "San Sebastian to Close With \u2018Le Faux Soir,\u2019 About Media Hack in Nazi-Occupied Belgium",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/san-sebastian-closing-film-le-faux-soir-media-nazi-belgium-1236677581/"
+      },
+      {
         "title": "Jonathan Jackson Shares Touching Tribute to Hayden Panettiere: \u201cShe Had Such a Bright Light Within Her\u201d",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/jonathan-jackson-hayden-panettiere-nashville-1236677557/"
-      },
-      {
-        "title": "Naomi Watts to Receive Zurich Fest Golden Eye Award",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/naomi-watts-zurich-fest-golden-eye-award-the-housewife-1236676940/"
-      },
-      {
-        "title": "\u2018Spider-Man: Brand New Day\u2019 Aims to Swing Past \u2018Insidious\u2019 Sequel for Fourth Box Office Win",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-insidious-mutiny-1236677495/"
-      },
-      {
-        "title": "Did Alex Vindman Just Get Burned by the Larry David Curse?\u00a0",
-        "link": "https://www.hollywoodreporter.com/news/politics-news/alex-vindman-larry-david-curse-angie-nixon-florida-primary-1236677481/"
       }
     ],
     "larb": [],
     "aeon": [
+      {
+        "title": "A vocabulary for the future: touch",
+        "link": "https://aeon.co/videos/repulsion-at-the-core-of-attraction-on-the-paradox-of-touch"
+      },
+      {
+        "title": "Dolphins and other lovers",
+        "link": "https://aeon.co/essays/why-the-andoque-of-the-amazon-fear-the-seductive-dolphin"
+      },
       {
         "title": "The conscience files",
         "link": "https://aeon.co/videos/thieves-of-cursed-rocks-pen-letters-of-remorse-to-a-national-park"
@@ -214,17 +222,17 @@
       {
         "title": "In praise of zealotry",
         "link": "https://aeon.co/essays/polite-debate-has-privilege-the-marginalised-need-zealotry"
-      },
-      {
-        "title": "The World Famous Gopher Hole Museum",
-        "link": "https://aeon.co/videos/torrington-has-some-240-residents-and-one-unusual-tourist-attraction"
-      },
-      {
-        "title": "Worm munch matters",
-        "link": "https://aeon.co/essays/worm-munch-matters-the-new-acoustic-ecology-of-the-soil"
       }
     ],
     "psyche": [
+      {
+        "title": "Everything is going to be fine",
+        "link": "https://psyche.co/videos/youre-sure-that-society-is-spiralling-and-were-all-doomed-now-what"
+      },
+      {
+        "title": "How to rediscover your purpose later in life",
+        "link": "https://psyche.co/guides/how-to-rediscover-your-purpose-later-in-life"
+      },
       {
         "title": "Arabic has four words for sadness. Philosophy explains why",
         "link": "https://psyche.co/ideas/arabic-has-four-words-for-sadness-philosophy-explains-why"
@@ -232,14 +240,6 @@
       {
         "title": "Don\u2019t let nature slip out of reach",
         "link": "https://psyche.co/notes-to-self/its-not-too-late-to-strengthen-your-ties-to-nature"
-      },
-      {
-        "title": "Glass eggs",
-        "link": "https://psyche.co/turning-points/the-grief-and-fragile-hope-of-deciding-to-freeze-my-eggs"
-      },
-      {
-        "title": "The peak-end rule",
-        "link": "https://psyche.co/videos/to-make-better-memories-prioritise-high-peaks-and-happy-endings"
       }
     ],
     "publicdomainreview": [
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "The Return of a Discredited Pseudoscience",
+        "link": "https://nautil.us/the-return-of-a-discredited-pseudoscience-1283873/"
+      },
+      {
         "title": "Do Zoo Otters Love People Watching?",
         "link": "https://nautil.us/do-zoo-otters-love-people-watching-1284025/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "The \u201cKerry Cow\u201d Wasn\u2019t a Cow at All\u2014And It Upends Stone Age Irish History",
         "link": "https://nautil.us/the-kerry-cow-wasnt-a-cow-at-all-and-it-upends-stone-age-irish-history-1283999/"
-      },
-      {
-        "title": "Why It Might Be Time to Rethink the Human Family Tree",
-        "link": "https://nautil.us/why-it-might-be-time-to-rethink-the-human-family-tree-1283985/"
       }
     ],
     "worksinprogress": [],
