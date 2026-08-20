@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20 06:33 UTC",
+  "last_updated": "2026-08-20 09:26 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,53 +7,53 @@
         "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Harry and Meghan are experts in surprise - but is their UK return forever?",
+        "title": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
         "link": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
-        "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss"
+        "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
+        "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Giant whales move into Greenland waters as ice disappears",
-        "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss"
+        "title": "School 'deeply saddened' by death of family in sea off Shoreham",
+        "link": "https://www.bbc.co.uk/news/articles/c70gpggglllo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Australian anger as Israel drops World Central Kitchen deaths case",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/australian-anger-as-israel-drops-world-central-kitchen-deaths-case?traffic_source=rss"
+        "title": "Are Hormuz ships more willing to defy Iran or the US? What the data shows",
+        "link": "https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows?traffic_source=rss"
       },
       {
-        "title": "Exclusive: Pentagon sends \u2018political loyalty\u2019 survey to US allies",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss"
+        "title": "Max Verstappen signs new F1 contract with Red Bull until 2030",
+        "link": "https://www.aljazeera.com/sports/2026/8/20/verstappen-signs-new-red-bull-contract-until-2030?traffic_source=rss"
       },
       {
-        "title": "At least 6 killed in multiple Russian missile strikes across Ukraine",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss"
+        "title": "Heatwaves and energy crunch: Can Europe withstand a double shock?",
+        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/20/heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock?traffic_source=rss"
       },
       {
-        "title": "Trump vows \u2018economic warfare\u2019 on countries helping Iran",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss"
+        "title": "Video shows Russian missile strike on Ukrainian capital",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Spirited Gesture and Angel In My Heart clash at Newcastle",
-        "link": "https://www.skysports.com/racing/news/12040/13574643/today-on-sky-sports-racing-lingfield-park-and-newcastle"
+        "title": "How does Arteta deliver step five of his Arsenal plan?",
+        "link": "https://www.skysports.com/football/news/12040/13574067/arsenal-will-mikel-artetas-side-make-more-history-and-record-back-to-back-premier-league-titles"
       },
       {
-        "title": "Key questions and predictions as F1 returns",
-        "link": "https://www.skysports.com/f1/news/12040/13574080/formula-1-who-will-win-the-title-will-max-verstappen-leave-red-bull-key-questions-and-predictions-from-karun-chandhok-as-2026-season-resumes"
+        "title": "Aston Villa latest: More players sold?! Transfer plans analysed...",
+        "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       {
-        "title": "England skittle Pakistan at Headingley on Root's return as Test captain",
-        "link": "https://www.skysports.com/cricket/news/12040/13574818/england-skittle-pakistan-for-171-on-joe-roots-return-as-test-captain-with-ollie-robinson-and-josh-tongue-taking-five-wicket-hauls-at-headingley"
+        "title": "FREE STREAM: Good Morning Transfers on Sky Sports News",
+        "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours"
       },
       {
-        "title": "Woman struggled to speak about alleged abuse by Dott, court told",
-        "link": "https://www.skysports.com/snooker/news/12040/13574834/woman-struggled-to-speak-about-alleged-abuse-by-graeme-dott-court-told"
+        "title": "Inter Milan agree \u00a330m deal for Liverpool's Jones",
+        "link": "https://www.skysports.com/football/news/12040/13574174/curtis-jones-transfer-news-inter-milan-agree-30m-deal-to-sign-liverpool-midfielder"
       }
     ],
     "pitchfork": [],
@@ -116,6 +116,10 @@
     ],
     "mubi": [
       {
+        "title": "MUBI Podcast | \u201cRosebush Pruning\u201d: Riley Keogh Eats the Rich (and Survives \u201cMad Max\u201d)",
+        "link": "https://mubi.com/en/notebook/posts/mubi-podcast-rosebush-pruning-riley-keogh-eats-the-rich-and-survives-mad-max"
+      },
+      {
         "title": "Remembering 4Columns",
         "link": "https://mubi.com/en/notebook/posts/remembering-4columns"
       },
@@ -126,10 +130,6 @@
       {
         "title": "\u201cHe Would Leave Me Totally Free\u201d: Isabelle Huppert on Claude Chabrol ",
         "link": "https://mubi.com/en/notebook/posts/he-would-leave-me-totally-free-isabelle-huppert-on-claude-chabrol"
-      },
-      {
-        "title": "Rushes | TIFF Reveals Full Lineup, Vimeo To End VOD Service, R.I.P. Grace \u201cMambo Girl\u201d Chang",
-        "link": "https://mubi.com/en/notebook/posts/rushes-tiff-reveals-full-lineup-vimeo-to-end-vod-service-r-i-p-grace-mambo-girl-chang"
       }
     ],
     "reverseshot": [],
@@ -171,23 +171,27 @@
     ],
     "variety": [
       {
-        "title": "India\u2019s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
-        "link": "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805/"
+        "title": "San Sebasti\u00e1n Sets Micha\u00ebl R. Roskam\u2019s \u2018Le Faux Soir\u2019 as Closing Night Film",
+        "link": "https://variety.com/2026/film/global/san-sebastian-michael-roskam-le-faux-soir-closing-film-1236838841/"
       },
       {
-        "title": "Busan Festival Honors Ahn Sung-ki, Market Names Thailand Country of Honor",
-        "link": "https://variety.com/2026/film/markets-festivals/busan-festival-honor-ahn-sung-ki-market-thailand-country-of-honor-1236838811/"
+        "title": "\u2018Game of Thrones\u2019 Play \u2018The Mad King\u2019 Reveals Behind-The-Scenes Secrets in Stage Transformation Video (EXCLUSIVE)",
+        "link": "https://variety.com/2026/theater/global/game-of-thrones-the-mad-king-behind-the-scenes-video-1236838551/"
       },
       {
-        "title": "Manoj Bajpayee, Sudhir Mishra, Anubhav Sinha\u2019s Gandhi Film Unveils Plot, Adds Saurabh Shukla, Narendra Hirawat (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/news/manoj-bajpayee-gandhi-film-plot-cast-producer-1236838081/"
+        "title": "Toei, Shochiku, Kadokawa Among IP Holders Set for TIFFCOM\u2019s Tokyo Adaptation and Remake Market",
+        "link": "https://variety.com/2026/film/markets-festivals/toei-shochiku-kadokawa-ip-holders-tokyo-remake-market-1236838854/"
       },
       {
-        "title": "Josh Radnor Is \u2018Not Even a Little Bit\u2019 Close to His \u2018How I Met Your Mother\u2019 Co-Stars: \u2018You Just Go Out and Live Your Life\u2019",
-        "link": "https://variety.com/2026/tv/news/josh-radnor-not-close-how-i-met-your-mother-co-stars-1236838802/"
+        "title": "\u2018You Don\u2019t Belong Here\u2019 Director Florin \u015eerban Sets Next Feature After Winning Locarno\u2019s Golden Leopard (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/global/you-dont-belong-here-florin-serban-follow-up-locarno-1236838137/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "Jonathan Jackson Shares Touching Tribute to Hayden Panettiere: \u201cShe Had Such a Bright Light Within Her\u201d",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/jonathan-jackson-hayden-panettiere-nashville-1236677557/"
+      },
       {
         "title": "Naomi Watts to Receive Zurich Fest Golden Eye Award",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/naomi-watts-zurich-fest-golden-eye-award-the-housewife-1236676940/"
@@ -199,10 +203,6 @@
       {
         "title": "Did Alex Vindman Just Get Burned by the Larry David Curse?\u00a0",
         "link": "https://www.hollywoodreporter.com/news/politics-news/alex-vindman-larry-david-curse-angie-nixon-florida-primary-1236677481/"
-      },
-      {
-        "title": "Hayden Panettiere\u2019s Neighbor Says She Called 911 Multiple Times to Report Disturbances With Star\u2019s Boyfriend",
-        "link": "https://www.hollywoodreporter.com/news/general-news/hayden-panettieres-neighbor-called-911-report-disturbances-1236677449/"
       }
     ],
     "larb": [],
@@ -230,12 +230,12 @@
         "link": "https://psyche.co/ideas/arabic-has-four-words-for-sadness-philosophy-explains-why"
       },
       {
-        "title": "Glass eggs",
-        "link": "https://psyche.co/turning-points/the-grief-and-fragile-hope-of-deciding-to-freeze-my-eggs"
-      },
-      {
         "title": "Don\u2019t let nature slip out of reach",
         "link": "https://psyche.co/notes-to-self/its-not-too-late-to-strengthen-your-ties-to-nature"
+      },
+      {
+        "title": "Glass eggs",
+        "link": "https://psyche.co/turning-points/the-grief-and-fragile-hope-of-deciding-to-freeze-my-eggs"
       },
       {
         "title": "The peak-end rule",
