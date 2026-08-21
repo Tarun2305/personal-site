@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-08-21 00:54 UTC",
+  "last_updated": "2026-08-21 03:43 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Harry and Meghan's return to UK reignites questions over security",
-        "link": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: What does Harry's return mean for his fractured relationship with William?",
-        "link": "https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "El Ni\u00f1o set to be 'strongest in living memory', says Met Office",
+        "title": "El Ni\u00f1o weather system set to be 'strongest in living memory', warns Met Office",
         "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Meghan could return to acting once back in UK",
+        "link": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What happened to Harry and Meghan's American dream?",
+        "link": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "French becoming more effective in stopping small boat crossings, UK says",
@@ -21,20 +21,20 @@
     ],
     "aljazeera": [
       {
-        "title": "US deports nearly 2,300 Mexicans to Guatemala over Mexico\u2019s objections",
-        "link": "https://www.aljazeera.com/news/2026/8/21/us-deports-nearly-2300-mexicans-to-guatemala-over-mexicos-objections?traffic_source=rss"
+        "title": "Pakistan\u2019s Imran Khan moved to hospital after Supreme Court order",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss"
       },
       {
-        "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss"
+        "title": "After GERD, can Egypt shape Ethiopia\u2019s next Nile dams?",
+        "link": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss"
       },
       {
-        "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
-        "link": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss"
+        "title": "Brazil launches AI supercomputer push while balancing US and Chinese tech",
+        "link": "https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss"
       },
       {
-        "title": "US charges woman for allegedly plotting attack on New York State Capitol",
-        "link": "https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss"
+        "title": "Panama Canal to limit shipping ahead of extreme weather during El Nino",
+        "link": "https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -171,6 +171,10 @@
     ],
     "variety": [
       {
+        "title": "Chris Hansen Says He Refused to Sign His Rights Away in Order to Screen Robert Pattinson\u2019s \u2018Primetime\u2019",
+        "link": "https://variety.com/2026/film/awards/chris-hansen-a24-primetime-screening-refused-1236839630/"
+      },
+      {
         "title": "Jaafar Jackson: \u2018Michael\u2019 Sequel Will Give \u2018More Insight\u2019 Into Child Abuse Allegations and \u2018Let His Voice Be Heard\u2019",
         "link": "https://variety.com/2026/film/news/jaafar-jackson-michael-sequel-insight-child-abuse-allegations-1236839600/"
       },
@@ -181,28 +185,24 @@
       {
         "title": "How \u2018Star Trek: Strange New Worlds\u2019 Pulled Off That Madcap Puppet Episode",
         "link": "https://variety.com/2026/tv/news/star-trek-strange-new-worlds-puppet-episode-1236833011/"
-      },
-      {
-        "title": "Prime Video Unveils Landmark $2 Billion-Plus Investment in Latin American Entertainment",
-        "link": "https://variety.com/2026/film/global/prime-video-2-billion-investment-latin-america-1236839446/"
       }
     ],
     "hollywoodreporter": [
       {
+        "title": "Chris Hansen Didn\u2019t Watch \u2018Primetime\u2019 Screening Because \u201cA24 Wanted Me to Sign Away My Rights\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/chris-hansen-didnt-watch-primetime-a24-sign-his-rights-away-1236678240/"
+      },
+      {
+        "title": "Neon Sets Early Premium-Format Release for Na Hong-jin\u2019s \u2018Hope\u2019 (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/neon-premium-format-release-na-hong-jin-hope-1236678228/"
+      },
+      {
+        "title": "Gwyneth Paltrow Pokes Fun at That Viral Dinner Party Invite for OpenAI\u2019s Sam Altman",
+        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/gwyneth-paltrow-sam-altman-dinner-invite-openai-1236678196/"
+      },
+      {
         "title": "\u2018The Magic Faraway Tree\u2019 Review: Claire Foy and Andrew Garfield in an Exhaustingly Cutesy Kid Flick",
         "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-magic-faraway-tree-review-claire-foy-andrew-garfield-1236666316/"
-      },
-      {
-        "title": "Cameron Diaz\u2019s Netflix Action-Comedy \u2018Bad Day\u2019 Gets December Release and First Look",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/bad-day-cameron-diaz-netflix-release-first-look-1236678165/"
-      },
-      {
-        "title": "\u2018Lanterns\u2019 EP Damon Lindelof Weighs In on 2026\u2019s Adaptation Wars: \u201cShouldn\u2019t We Be Beyond This by Now?\u201d",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/lanterns-damon-lindelof-adaptations-1236677970/"
-      },
-      {
-        "title": "L.A. Mayoral Candidate Nithya Raman Says Legality of Paramount-Warner Bros. Merger \u201cShould Be Decided in Court\u201d",
-        "link": "https://www.hollywoodreporter.com/business/business-news/nithya-raman-paramount-warner-bros-court-1236678117/"
       }
     ],
     "larb": [],
