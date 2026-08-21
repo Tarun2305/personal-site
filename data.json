@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-08-21 03:43 UTC",
+  "last_updated": "2026-08-21 06:33 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "El Ni\u00f1o weather system set to be 'strongest in living memory', warns Met Office",
+        "title": "El Ni\u00f1o warming set to be 'strongest in living memory', warns Met Office",
         "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Will Harry's return heal deep-rooted rift with William?",
+        "link": "https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Meghan could return to acting once back in UK",
         "link": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "What happened to Harry and Meghan's American dream?",
-        "link": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "French becoming more effective in stopping small boat crossings, UK says",
-        "link": "https://www.bbc.co.uk/news/articles/c1d1v333ewxo?at_medium=RSS&at_campaign=rss"
+        "title": "Israeli settlers return to Kadim in West Bank two decades after it was evacuated",
+        "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Pakistan\u2019s Imran Khan moved to hospital after Supreme Court order",
+        "title": "Dozens of migrants land on Spanish coast surprising beachgoers",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/dozens-of-migrants-land-on-spanish-coast-surprising-beachgoers?traffic_source=rss"
+      },
+      {
+        "title": "Hong Kong Tiananmen activists found guilty of national security charges",
+        "link": "https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss"
+      },
+      {
+        "title": "Pakistan\u2019s Imran Khan back to prison after evaluation at hospital",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss"
       },
       {
         "title": "After GERD, can Egypt shape Ethiopia\u2019s next Nile dams?",
         "link": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss"
-      },
-      {
-        "title": "Brazil launches AI supercomputer push while balancing US and Chinese tech",
-        "link": "https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss"
-      },
-      {
-        "title": "Panama Canal to limit shipping ahead of extreme weather during El Nino",
-        "link": "https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Sixtygeesbaby and Safari Dream lock horns at Ffos Las",
+        "link": "https://www.skysports.com/racing/news/12040/13574798/today-on-sky-sports-racing-flat-action-from-ffos-las"
+      },
+      {
+        "title": "US Open Mixed Doubles Championship: Who's playing and what's the format?",
+        "link": "https://www.skysports.com/tennis/news/12040/13574982/us-open-mixed-doubles-championship-aryna-sabalenka-novak-djokovic-taking-part-but-who-else-is-playing-and-whats-the-format"
+      },
+      {
+        "title": "Football is back (with no hydration breaks!) - How to watch the new season",
+        "link": "https://www.skysports.com/football/news/12040/13572180/how-to-watch-or-stream-football-live-this-season-premier-league-efl-scottish-premiership-and-wsl-on-sky-sports-and-now"
+      },
+      {
         "title": "'Here we go!' - Romano helps Alcaraz announce US Open comeback",
         "link": "https://www.skysports.com/tennis/news/12040/13575157/carlos-alcaraz-fabrizio-romano-breaks-news-us-open-champion-is-to-make-comeback-from-wrist-injury-at-flushing-meadows"
-      },
-      {
-        "title": "Kevin Blake's 33/1 Nunthorpe pick: York day three tips",
-        "link": "https://www.skysports.com/racing/news/12040/13575113/kevin-blakes-ebor-festival-tips-sky-sports-racing-expert-picks-out-33-1-nunthorpe-stakes-fancy-on-day-three"
-      },
-      {
-        "title": "Play Super 6 to win \u00a31m! ",
-        "link": "https://www.skysports.com/football/live-blog/12040/13401137/huge-jackpots-to-win-with-super-6-how-to-play-tips-analysis-and-latest-winner-stories"
-      },
-      {
-        "title": "Doyle: French filly can land Nunthorpe",
-        "link": "https://www.skysports.com/racing/news/12040/13575155/hollie-doyle-conditions-favour-french-filly-in-the-nunthorpe"
       }
     ],
     "pitchfork": [],
@@ -171,6 +171,10 @@
     ],
     "variety": [
       {
+        "title": "Amazon MGM Studios Unveils Teaser for Kunal Kemmu\u2019s \u2018Vibe\u2019 (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/news/amazon-mgm-studios-kunal-kemmu-vibe-teaser-1236839782/"
+      },
+      {
         "title": "Chris Hansen Says He Refused to Sign His Rights Away in Order to Screen Robert Pattinson\u2019s \u2018Primetime\u2019",
         "link": "https://variety.com/2026/film/awards/chris-hansen-a24-primetime-screening-refused-1236839630/"
       },
@@ -181,13 +185,13 @@
       {
         "title": "Ariana Grande Blasts Trump Administration for Using \u2018We Can\u2019t Be Friends\u2019 in Social Post: \u2018Your Truth Is False\u2019",
         "link": "https://variety.com/2026/music/news/ariana-grande-slams-trump-we-cant-be-friends-tiktok-post-1236839607/"
-      },
-      {
-        "title": "How \u2018Star Trek: Strange New Worlds\u2019 Pulled Off That Madcap Puppet Episode",
-        "link": "https://variety.com/2026/tv/news/star-trek-strange-new-worlds-puppet-episode-1236833011/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "Billy Bob Thornton Says \u201cHolly\u00adwood Wasn\u2019t Nice\u201d to Taylor Sheridan, But That \u201cTexas Accepted\u201d Him",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/billy-bob-thornton-hollywood-wasnt-nice-taylor-sheridan-1236678230/"
+      },
       {
         "title": "Chris Hansen Didn\u2019t Watch \u2018Primetime\u2019 Screening Because \u201cA24 Wanted Me to Sign Away My Rights\u201d",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/chris-hansen-didnt-watch-primetime-a24-sign-his-rights-away-1236678240/"
@@ -199,10 +203,6 @@
       {
         "title": "Gwyneth Paltrow Pokes Fun at That Viral Dinner Party Invite for OpenAI\u2019s Sam Altman",
         "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/gwyneth-paltrow-sam-altman-dinner-invite-openai-1236678196/"
-      },
-      {
-        "title": "\u2018The Magic Faraway Tree\u2019 Review: Claire Foy and Andrew Garfield in an Exhaustingly Cutesy Kid Flick",
-        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-magic-faraway-tree-review-claire-foy-andrew-garfield-1236666316/"
       }
     ],
     "larb": [],
