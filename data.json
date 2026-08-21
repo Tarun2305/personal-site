@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21 06:33 UTC",
+  "last_updated": "2026-08-21 09:28 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,53 +7,53 @@
         "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Will Harry's return heal deep-rooted rift with William?",
-        "link": "https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Meghan could return to acting once back in UK",
         "link": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Israeli settlers return to Kadim in West Bank two decades after it was evacuated",
-        "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss"
+        "title": "Will Harry's return heal deep-rooted rift with William?",
+        "link": "https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "My life was changed by a terror attack - now survivors like me won't be forgotten",
+        "link": "https://www.bbc.co.uk/news/articles/cd0x91ym7veo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Dozens of migrants land on Spanish coast surprising beachgoers",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/dozens-of-migrants-land-on-spanish-coast-surprising-beachgoers?traffic_source=rss"
+        "title": "Swiatek into Cincinnati semis after Rybakina injury",
+        "link": "https://www.aljazeera.com/sports/2026/8/21/swiatek-into-cincinnati-semis-after-rybakina-injury?traffic_source=rss"
       },
       {
-        "title": "Hong Kong Tiananmen activists found guilty of national security charges",
-        "link": "https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss"
+        "title": "Australia charges man for passing Ukrainian military intel to Russia",
+        "link": "https://www.aljazeera.com/news/2026/8/21/australia-charges-man-for-passing-ukrainian-military-intel-to-russia?traffic_source=rss"
       },
       {
-        "title": "Pakistan\u2019s Imran Khan back to prison after evaluation at hospital",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss"
+        "title": "Sudan\u2019s displacement crisis deepens as violence escalates",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/sudans-displacement-crisis-deepens-as-violence-escalates?traffic_source=rss"
       },
       {
-        "title": "After GERD, can Egypt shape Ethiopia\u2019s next Nile dams?",
-        "link": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss"
+        "title": "Bangladesh expect \u2018harder\u2019 Australia challenge in second Test, says coach",
+        "link": "https://www.aljazeera.com/sports/2026/8/21/australia-bangladesh-cricket-second-test-mackay-simmons-cummins-renshaw?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Sixtygeesbaby and Safari Dream lock horns at Ffos Las",
-        "link": "https://www.skysports.com/racing/news/12040/13574798/today-on-sky-sports-racing-flat-action-from-ffos-las"
+        "title": "England to resume on 366-8 against Pakistan, leading by 195 LIVE!",
+        "link": "https://www.skysports.com/cricket/live-blog/12040/13575275/england-vs-pakistan-first-test-day-three-live-latest-cricket-score-updates-highlights-and-analysis-as-joe-root-returns-as-captain"
       },
       {
-        "title": "US Open Mixed Doubles Championship: Who's playing and what's the format?",
-        "link": "https://www.skysports.com/tennis/news/12040/13574982/us-open-mixed-doubles-championship-aryna-sabalenka-novak-djokovic-taking-part-but-who-else-is-playing-and-whats-the-format"
+        "title": "Spurs agree \u00a385m deal to sign Savinho from Man City",
+        "link": "https://www.skysports.com/football/news/12040/13575264/savinho-transfer-spurs-agree-85m-deal-to-sign-brazi-forward-from-manchester-city"
       },
       {
-        "title": "Football is back (with no hydration breaks!) - How to watch the new season",
-        "link": "https://www.skysports.com/football/news/12040/13572180/how-to-watch-or-stream-football-live-this-season-premier-league-efl-scottish-premiership-and-wsl-on-sky-sports-and-now"
+        "title": "Hadjar hopeful of Italian GP return after wrist injury",
+        "link": "https://www.skysports.com/f1/news/12040/13575278/isack-hadjar-red-bull-driver-hopeful-of-monza-return-after-wrist-injury-forces-him-out-of-dutch-grand-prix"
       },
       {
-        "title": "'Here we go!' - Romano helps Alcaraz announce US Open comeback",
-        "link": "https://www.skysports.com/tennis/news/12040/13575157/carlos-alcaraz-fabrizio-romano-breaks-news-us-open-champion-is-to-make-comeback-from-wrist-injury-at-flushing-meadows"
+        "title": " Could Tottenham Hotspur's Sarr be heading to Galatasaray?",
+        "link": "https://www.skysports.com/watch/video/13575263/paper-talk-could-spurs-pape-matar-sarr-be-heading-to-galatasaray"
       }
     ],
     "pitchfork": [],
@@ -116,6 +116,10 @@
     ],
     "mubi": [
       {
+        "title": "Movie Poster of the Week | The Film Posters of David Lance Goines",
+        "link": "https://mubi.com/en/notebook/posts/movie-poster-of-the-week-the-film-posters-of-david-lance-goines"
+      },
+      {
         "title": "MUBI Podcast | \u201cRosebush Pruning\u201d: Riley Keough Eats the Rich (and Survives \u201cMad Max\u201d)",
         "link": "https://mubi.com/en/notebook/posts/mubi-podcast-rosebush-pruning-riley-keogh-eats-the-rich-and-survives-mad-max"
       },
@@ -126,10 +130,6 @@
       {
         "title": "The Current Debate: An Uncomplicated Odyssey",
         "link": "https://mubi.com/en/notebook/posts/the-current-debate-an-uncomplicated-odyssey"
-      },
-      {
-        "title": "\u201cHe Would Leave Me Totally Free\u201d: Isabelle Huppert on Claude Chabrol ",
-        "link": "https://mubi.com/en/notebook/posts/he-would-leave-me-totally-free-isabelle-huppert-on-claude-chabrol"
       }
     ],
     "reverseshot": [],
@@ -171,20 +171,20 @@
     ],
     "variety": [
       {
-        "title": "Amazon MGM Studios Unveils Teaser for Kunal Kemmu\u2019s \u2018Vibe\u2019 (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/news/amazon-mgm-studios-kunal-kemmu-vibe-teaser-1236839782/"
+        "title": "Woody Harrelson Ready to Direct Another Live Film, Compares Jason Bateman\u2019s \u2018The Cackling of the Dodos\u2019 to Martin McDonagh and the Coen Brothers",
+        "link": "https://variety.com/2026/film/global/woody-harrelson-jason-bateman-martin-mcdonagh-coen-brothers-1236838548/"
       },
       {
-        "title": "Chris Hansen Says He Refused to Sign His Rights Away in Order to Screen Robert Pattinson\u2019s \u2018Primetime\u2019",
-        "link": "https://variety.com/2026/film/awards/chris-hansen-a24-primetime-screening-refused-1236839630/"
+        "title": "Sriram Raghavan Developing New Thriller in the \u2018Johnny Gaddaar\u2019 Zone for India\u2019s Matchbox Shots as \u2018Operation Safed Sagar\u2019 Soars on Netflix Charts (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/news/sriram-raghavan-johnny-gaddaar-thriller-matchbox-shots-1236839812/"
       },
       {
-        "title": "Jaafar Jackson: \u2018Michael\u2019 Sequel Will Give \u2018More Insight\u2019 Into Child Abuse Allegations and \u2018Let His Voice Be Heard\u2019",
-        "link": "https://variety.com/2026/film/news/jaafar-jackson-michael-sequel-insight-child-abuse-allegations-1236839600/"
+        "title": "Folk Horror \u2018Wolf Days,\u2019 Family Drama \u2018The First Week of August\u2019 Win at Sarajevo Industry Awards",
+        "link": "https://variety.com/2026/film/global/wolf-days-the-first-week-of-august-sarajevo-industry-awards-1236839656/"
       },
       {
-        "title": "Ariana Grande Blasts Trump Administration for Using \u2018We Can\u2019t Be Friends\u2019 in Social Post: \u2018Your Truth Is False\u2019",
-        "link": "https://variety.com/2026/music/news/ariana-grande-slams-trump-we-cant-be-friends-tiktok-post-1236839607/"
+        "title": "Jacob Elordi Ducks James Bond Question at London World Premiere of Ridley Scott\u2019s \u2018The Dog Stars\u2019 When Asked if He\u2019s Been Auditioning: \u2018I\u2019m Here on Holiday\u2019",
+        "link": "https://variety.com/2026/film/global/jacob-elordi-james-bond-ridley-scott-the-dog-stars-premiere-1236839014/"
       }
     ],
     "hollywoodreporter": [
@@ -238,8 +238,8 @@
         "link": "https://psyche.co/ideas/arabic-has-four-words-for-sadness-philosophy-explains-why"
       },
       {
-        "title": "Glass eggs",
-        "link": "https://psyche.co/turning-points/the-grief-and-fragile-hope-of-deciding-to-freeze-my-eggs"
+        "title": "Don\u2019t let nature slip out of reach",
+        "link": "https://psyche.co/notes-to-self/its-not-too-late-to-strengthen-your-ties-to-nature"
       }
     ],
     "publicdomainreview": [
