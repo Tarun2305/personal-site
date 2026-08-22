@@ -1,44 +1,52 @@
 {
-  "last_updated": "2026-08-22 03:35 UTC",
+  "last_updated": "2026-08-22 06:27 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
-        "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss"
+        "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+        "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
         "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "More students planning to live at home for university over 'insane' living costs",
-        "link": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss"
+        "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
+        "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
-        "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
+        "title": "More students planning to live at home for university over 'insane' living costs",
+        "link": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "US judge strikes down Trump immigrant visa ban affecting 75 countries",
-        "link": "https://www.aljazeera.com/news/2026/8/22/us-judge-strikes-down-trump-immigrant-visa-ban-affecting-75-countries?traffic_source=rss"
+        "title": "China\u2019s new moon mission could unlock secret of lunar ice: Why that matters",
+        "link": "https://www.aljazeera.com/news/2026/8/22/chinas-new-moon-mission-could-unlock-secret-of-lunar-ice-why-that-matters?traffic_source=rss"
       },
       {
-        "title": "Peru rescues people trapped by landslides on highway for nearly a week",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/peru-rescues-people-trapped-by-landslides-on-highway-for-nearly-a-week?traffic_source=rss"
+        "title": "\u2018It was a tsunami\u2019: Floods leave death trail in India\u2019s Assam",
+        "link": "https://www.aljazeera.com/news/2026/8/22/it-was-a-tsunami-floods-leave-death-trail-in-indias-assam?traffic_source=rss"
       },
       {
-        "title": "Palestinian-British girl, 6, dies days after family drowned off UK coast",
-        "link": "https://www.aljazeera.com/news/2026/8/22/palestinian-british-girl-6-dies-days-after-family-drowned-off-uk-coast?traffic_source=rss"
+        "title": "Inundated Philippine communities seek answers over flood control funds",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/inundated-philippine-communities-seek-answers-over-flood-control-funds?traffic_source=rss"
       },
       {
-        "title": "Iranian president says time to end war with US from \u2018position of strength\u2019",
-        "link": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss"
+        "title": "Palestinian teen shot and killed in West Bank attack, UN responds",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/palestinian-teen-shot-and-killed-in-west-bank-attack-un-responds?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "Today on Sky Sports Racing: Lazy Griff bids to bounce back at Chester",
+        "link": "https://www.skysports.com/racing/news/12040/13575160/today-on-sky-sports-racing-chester-lingfield-and-newton-abbot-feature-live-on-saturday"
+      },
+      {
+        "title": "England player ratings: Tongue, Robinson share top spot and a ball",
+        "link": "https://www.skysports.com/cricket/news/12040/13575577/england-player-ratings-ollie-robinson-and-josh-tongue-take-top-marks-after-three-day-victory-over-pakistan-in-first-test"
+      },
       {
         "title": "Papers: Atletico Madrid ready to sell Alvarez to Arsenal",
         "link": "https://www.skysports.com/football/news/12040/13575656/arsenal-transfer-news-atletico-madrid-finally-shift-julian-alvarez-position-and-now-willing-to-sell-striker-to-the-gunners-paper-talk"
@@ -46,14 +54,6 @@
       {
         "title": "Tottenham latest: De Zerbi says Bergvall is '100 per cent' staying at Spurs",
         "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      {
-        "title": "Leopards thrash Bulls to help play-off contention",
-        "link": "https://www.skysports.com/watch/video/13575647/leigh-leopards-62-10-bradford-bulls-rugby-super-league-highlights"
-      },
-      {
-        "title": "'A massive 10 days' - Neville tells Arsenal to get Alvarez before deadline",
-        "link": "https://www.skysports.com/football/news/12040/13575645/arsenal-transfer-news-julian-alvarez-would-add-magic-to-gunners-frontline-says-gary-neville-as-he-urges-them-to-sign-atletico-madrid-striker"
       }
     ],
     "pitchfork": [],
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "Nearly a Century Later, Sci-Fi Western Film Serial \u2018The Phantom Empire\u2019 Still Feels Like the Future",
+        "link": "https://www.indiewire.com/features/best-of/the-phantom-empire-1935-film-serials-after-dark-1235212213/"
+      },
+      {
         "title": "Why \u2018The End of Oak Street\u2019 Deserved Better at the Box Office",
         "link": "https://www.indiewire.com/features/podcast/why-the-end-of-oak-street-deserved-better-box-office-1235212206/"
       },
@@ -163,13 +167,17 @@
       {
         "title": "\u2018Niu Lai,\u2019 the $200 Chinese Animated Film Taking Social Media by Storm, Might Be \u2018The Room\u2019 for a New Generation",
         "link": "https://www.indiewire.com/features/commentary/niu-lai-review-chinese-animated-movie-terrible-1235212156/"
-      },
-      {
-        "title": "What the Hell Is Indie Slop? How the\u00a0Video Game Insult Found Indie Film",
-        "link": "https://www.indiewire.com/features/commentary/indie-slop-definition-film-video-game-criticism-1235211844/"
       }
     ],
     "variety": [
+      {
+        "title": "Olivia Rodrigo Releases \u2018Handmaid\u2019s Tale\u2019-Inspired Song, \u2018Serena Joy,\u2019 in a Tiny Run of CDs, With Digital Drop to Follow",
+        "link": "https://variety.com/2026/music/news/olivia-rodrigo-serena-joy-cd-single-handmaids-tale-1236840709/"
+      },
+      {
+        "title": "Austrian Director Sandra Wollner\u2019s \u2018Everytime\u2019 Wins Best Film at Sarajevo Film Festival",
+        "link": "https://variety.com/2026/film/global/sandra-wollner-everytime-wins-sarajevo-film-festival-1236840695/"
+      },
       {
         "title": "Bill Maher Puts Hunter Biden in the Hot Seat: \u2018I\u2019ve Seen You With Your Dick Out\u2019",
         "link": "https://variety.com/2026/tv/news/bill-maher-hunter-biden-dick-real-time-hbo-joe-biden-trump-sons-1236840676/"
@@ -177,17 +185,13 @@
       {
         "title": "\u2018Spa Weekend\u2019 Review: Leslie Mann and Isla Fisher in a High-Concept Comedy Without the Comic Highs",
         "link": "https://variety.com/2026/film/reviews/spa-weekend-review-leslie-mann-anna-faris-1236840170/"
-      },
-      {
-        "title": "Paramount and State A.G. to Meet Monday to Discuss Settlement of Antitrust Case",
-        "link": "https://variety.com/2026/film/news/paramount-merger-warner-settlement-talks-bonta-california-1236840532/"
-      },
-      {
-        "title": "Paramount Slams Mark Ruffalo Merger Attack as \u2018Antisemitic,\u2019 Says Company Does Not \u2018Tolerate Prejudice of Any Kind\u2019",
-        "link": "https://variety.com/2026/film/news/paramount-responds-mark-ruffalo-merger-attack-israel-1236840552/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "Former Child Actress Raquel Lee Alleges Disney Negligent in On-Set Sexual Abuse",
+        "link": "https://www.hollywoodreporter.com/business/business-news/raquel-lee-alleges-disney-negligent-sexual-abuse-1236678925/"
+      },
       {
         "title": "Emmy Nominee Patrick Ball on His Rollercoaster Journey to \u2018The Pitt\u2019 and How His Own Addiction Battle Has Informed His Performance",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/patrick-ball-awards-chatter-interview-the-pitt-addiction-1236658375/"
@@ -199,10 +203,6 @@
       {
         "title": "\u2018Voice of Hind Rajab\u2019 Director Slams Israeli Military Investigation Into 5-Year-Old Girl\u2019s Death as a \u201cSmokescreen\u201d",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/voice-of-hind-rajab-director-israel-military-investigation-1236678876/"
-      },
-      {
-        "title": "Gavin Newsom Says Paramount Settlement Talks Happening in \u201cReal Time,\u201d Signals He\u2019d Like a Deal",
-        "link": "https://www.hollywoodreporter.com/business/business-news/gavin-newsom-support-paramount-antitrust-settlement-talks-1236678841/"
       }
     ],
     "larb": [],
@@ -238,8 +238,8 @@
         "link": "https://psyche.co/ideas/arabic-has-four-words-for-sadness-philosophy-explains-why"
       },
       {
-        "title": "Don\u2019t let nature slip out of reach",
-        "link": "https://psyche.co/notes-to-self/its-not-too-late-to-strengthen-your-ties-to-nature"
+        "title": "Glass eggs",
+        "link": "https://psyche.co/turning-points/the-grief-and-fragile-hope-of-deciding-to-freeze-my-eggs"
       }
     ],
     "publicdomainreview": [
