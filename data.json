@@ -1,10 +1,14 @@
 {
-  "last_updated": "2026-08-22 15:13 UTC",
+  "last_updated": "2026-08-22 18:18 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-        "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss"
+        "title": "Video appears to show police chase minutes before fatal crash",
+        "link": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+        "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
@@ -13,47 +17,43 @@
       {
         "title": "How this 1960s ex-council house is managing to stay cool without air con",
         "link": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
-        "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Israeli drone strike on \u2018civilian vehicle\u2019 injures several in Syria",
-        "link": "https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss"
+        "title": "Israel\u2019s Chief Rabbi says Palestinians are not a people and have no rights",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss"
       },
       {
-        "title": "What did war with the US reveal about Iran\u2019s weapons capabilities?",
-        "link": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss"
+        "title": "Trump seeks to block the BBC\u2019s attempt to subpoena Ivanka Trump, Trump Jr",
+        "link": "https://www.aljazeera.com/news/2026/8/22/trump-seeks-to-block-the-bbcs-attempt-to-subpoena-ivanka-trump-trump-jr?traffic_source=rss"
       },
       {
-        "title": "Man Utd humiliated at Hull to open Premier League account",
-        "link": "https://www.aljazeera.com/sports/2026/8/22/man-utd-slump-to-opening-day-premier-league-defeat-at-hull-city?traffic_source=rss"
+        "title": "\u2018Not a small issue\u2019: People deported by US to Liberia face uncertain future",
+        "link": "https://www.aljazeera.com/news/2026/8/22/not-a-small-issue-people-deported-by-us-to-liberia-face-uncertain-future?traffic_source=rss"
       },
       {
-        "title": "Fans and police injured in pitch invasion during \u2018high risk\u2019 German Cup tie",
-        "link": "https://www.aljazeera.com/sports/2026/8/22/fans-and-police-injured-in-pitch-invasion-during-high-risk-german-cup-tie?traffic_source=rss"
+        "title": "Seven killed, including two police officers, in UK \u2018wrong-side\u2019 car crash",
+        "link": "https://www.aljazeera.com/news/2026/8/22/seven-killed-including-two-police-officers-in-uk-wrong-side-car-crash?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Dream Team! Serena Williams to team up with Alcaraz for US Open mixed doubles",
-        "link": "https://www.skysports.com/tennis/news/12040/13575872/serena-williams-tennis-icon-to-team-up-with-carlos-alcaraz-for-us-open-mixed-doubles-tournament"
+        "title": "All Blacks slay Springboks in first Test upset at fortress Ellis Park",
+        "link": "https://www.skysports.com/rugby-union/news/12040/13575921/south-africa-vs-new-zealand-all-blacks-emerge-worthy-winners-as-they-outscore-springboks-in-first-test-upset"
       },
       {
-        "title": "Notable Speech clinches City Of York crown for Appleby",
-        "link": "https://www.skysports.com/racing/news/12040/13575863/york-notable-speech-shines-in-city-of-york-stakes-for-charlie-appleby"
+        "title": "Bolt set to play Sunday league football for Manchester side",
+        "link": "https://www.skysports.com/athletics/news/12040/13576016/usain-bolt-from-sprint-stardom-to-sunday-league-athletics-icon-set-for-wythenshawe-vets-bow"
       },
       {
-        "title": "Mauled by the Tigers! Lacklustre Man Utd stunned by brilliant Hull",
-        "link": "https://www.skysports.com/football/hull-city-vs-manchester-united/report/559447"
+        "title": "Everton outclass wasteful Palace in Premier League opener",
+        "link": "https://www.skysports.com/football/everton-vs-crystal-palace/report/559446"
       },
       {
-        "title": "Dutch GP: Norris snatches pole from Russell, Antonelli LIVE!",
-        "link": "https://www.skysports.com/f1/live-blog/12040/13575287/f1-dutch-gp-live-sprint-qualifying-updates-results-stream-highlights-video-from-zandvoort-race-weekend"
+        "title": "Leicester booed off after nightmare defeat to Burton",
+        "link": "https://www.skysports.com/football/leicester-city-vs-burton-albion/report/561617"
       }
     ],
     "pitchfork": [],
@@ -171,38 +171,38 @@
     ],
     "variety": [
       {
-        "title": "Andrew Garfield on His Secret Instagram, Thoughts of Leaving Hollywood and Playing Roy in the \u2018Stranger Than Fiction\u2019 Siegfried & Roy Television Series",
-        "link": "https://variety.com/2026/film/columns/andrew-garfield-secret-instagram-siegfried-roy-television-series-1236840510/"
+        "title": "Why Do We Love Spider-Man So Much?",
+        "link": "https://variety.com/2026/film/columns/why-do-we-love-spider-man-so-much-tom-holland-1236840784/"
       },
       {
-        "title": "Actor Michael Wright, Star of \u2018The Five Heartbeats\u2019 and \u2018V,\u2019 Dies at 70",
-        "link": "https://variety.com/2026/film/news/michael-wright-dead-five-heartbeats-the-principal-1236840765/"
+        "title": "\u2018National Treasure 3\u2019 Is \u2018Happening,\u2019 Says Franchise Director Jon Turteltaub",
+        "link": "https://variety.com/2026/film/news/national-treasure-3-nicolas-cage-jon-turteltaub-1236840826/"
       },
       {
-        "title": "Emily Watson Says \u2018Dune: Prophecy\u2019 Season 2 Will Have \u2018Lots of New Elements,\u2019 Led Her on \u2018A Quest in a Way Actors Always Get to Do and Actresses Don\u2019t\u2019",
-        "link": "https://variety.com/2026/film/global/emily-watson-dune-prophecy-season-2-1236840725/"
+        "title": "How \u2018Abbott Elementary\u2019 Pulled Off Its Big Phillies Game Episode",
+        "link": "https://variety.com/2026/artisans/focus/abbott-elementary-phillies-game-episode-1236840283/"
       },
       {
-        "title": "Here\u2019s How to Watch 2026 Indycar Series Freedom 250 Grand Prix of Washington, D.C. Live Online",
-        "link": "https://variety.com/2026/shopping/news/how-to-watch-indycar-freedom-250-grand-prix-live-online-free-1236838320/"
+        "title": "\u2018The Magic Faraway Tree\u2019 Review: Wholesome, Harmless Family Movie Aims to Give Enid Blyton the Paddington Treatment",
+        "link": "https://variety.com/2026/film/news/the-magic-faraway-tree-review-1236840728/"
       }
     ],
     "hollywoodreporter": [
       {
+        "title": "Janie Bradford, \u201cMoney (That\u2019s What I Want)\u201d Songwriter, Dies at 87",
+        "link": "https://www.hollywoodreporter.com/music/music-news/janie-bradford-dead-money-thats-what-i-want-songwriter-1236679050/"
+      },
+      {
+        "title": "\u2018Spider-Man: Brand New Day\u2019 Swinging to Fourth Box Office Victory as It Tops \u2018Insidious\u2019 Sequel",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-insidious-mutiny-2-1236678980/"
+      },
+      {
+        "title": "Michael Wright, Star of \u2018The Five Heartbeats\u2019 and \u2018Sugar Hill,\u2019 Dies at 70",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/michael-wright-dead-five-heartbeats-sugar-hill-1236678985/"
+      },
+      {
         "title": "Sandra Wollner\u2019s \u2018Everytime\u2019 Wins Best Film in Sarajevo, Ana Urushadze Crowned Best Director",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/sandra-wollner-everytime-honorary-heart-sarajevo-urushadze-1236678968/"
-      },
-      {
-        "title": "Former Child Actress Raquel Lee Alleges Disney Negligent in On-Set Sexual Abuse",
-        "link": "https://www.hollywoodreporter.com/business/business-news/raquel-lee-alleges-disney-negligent-sexual-abuse-1236678925/"
-      },
-      {
-        "title": "Emmy Nominee Patrick Ball on His Rollercoaster Journey to \u2018The Pitt\u2019 and How His Own Addiction Battle Has Informed His Performance",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/patrick-ball-awards-chatter-interview-the-pitt-addiction-1236658375/"
-      },
-      {
-        "title": "Mark Ruffalo Links Paramount to Oracle\u2019s Israeli Military Ties. The Studio Calls Remarks \u201cAntisemitic\u201d",
-        "link": "https://www.hollywoodreporter.com/business/business-news/mark-ruffalo-paramount-oracle-israeli-military-1236678877/"
       }
     ],
     "larb": [],
@@ -238,8 +238,8 @@
         "link": "https://psyche.co/ideas/arabic-has-four-words-for-sadness-philosophy-explains-why"
       },
       {
-        "title": "Glass eggs",
-        "link": "https://psyche.co/turning-points/the-grief-and-fragile-hope-of-deciding-to-freeze-my-eggs"
+        "title": "Don\u2019t let nature slip out of reach",
+        "link": "https://psyche.co/notes-to-self/its-not-too-late-to-strengthen-your-ties-to-nature"
       }
     ],
     "publicdomainreview": [
