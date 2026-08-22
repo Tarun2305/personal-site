@@ -1,9 +1,13 @@
 {
-  "last_updated": "2026-08-22 18:18 UTC",
+  "last_updated": "2026-08-22 21:14 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Video appears to show police chase minutes before fatal crash",
+        "title": "Two police officers among seven killed in wrong-way car crash",
+        "link": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Video appears to show police chase minutes before fatal A66 crash",
         "link": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -13,47 +17,43 @@
       {
         "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
         "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "How this 1960s ex-council house is managing to stay cool without air con",
-        "link": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Israel\u2019s Chief Rabbi says Palestinians are not a people and have no rights",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss"
+        "title": "Israeli army and settlers injure several Palestinians across West Bank",
+        "link": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss"
       },
       {
-        "title": "Trump seeks to block the BBC\u2019s attempt to subpoena Ivanka Trump, Trump Jr",
-        "link": "https://www.aljazeera.com/news/2026/8/22/trump-seeks-to-block-the-bbcs-attempt-to-subpoena-ivanka-trump-trump-jr?traffic_source=rss"
+        "title": "US Postal Service shares mail-in ballot restrictions despite court ruling",
+        "link": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss"
       },
       {
-        "title": "\u2018Not a small issue\u2019: People deported by US to Liberia face uncertain future",
-        "link": "https://www.aljazeera.com/news/2026/8/22/not-a-small-issue-people-deported-by-us-to-liberia-face-uncertain-future?traffic_source=rss"
+        "title": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
+        "link": "https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss"
       },
       {
-        "title": "Seven killed, including two police officers, in UK \u2018wrong-side\u2019 car crash",
-        "link": "https://www.aljazeera.com/news/2026/8/22/seven-killed-including-two-police-officers-in-uk-wrong-side-car-crash?traffic_source=rss"
+        "title": "Why is Israel building new illegal settlements?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "All Blacks slay Springboks in first Test upset at fortress Ellis Park",
-        "link": "https://www.skysports.com/rugby-union/news/12040/13575921/south-africa-vs-new-zealand-all-blacks-emerge-worthy-winners-as-they-outscore-springboks-in-first-test-upset"
+        "title": "Papers: Arsenal pair Arteta and Berta in 'frequent contact' with Alvarez",
+        "link": "https://www.skysports.com/football/news/12040/13576128/arsenal-transfer-news-mikel-arteta-and-andrea-berta-in-frequent-contact-with-julian-alvarez-amid-hope-of-luring-atletico-madrid-star-paper-talk"
       },
       {
-        "title": "Bolt set to play Sunday league football for Manchester side",
-        "link": "https://www.skysports.com/athletics/news/12040/13576016/usain-bolt-from-sprint-stardom-to-sunday-league-athletics-icon-set-for-wythenshawe-vets-bow"
+        "title": "Stokes stars as Durham thump Derbyshire to lift Championship promotion hopes",
+        "link": "https://www.skysports.com/cricket/news/12040/13576108/former-england-captain-ben-stokes-stars-as-durham-thump-derbyshire-to-lift-rothesay-county-championship-promotion-hopes"
       },
       {
-        "title": "Everton outclass wasteful Palace in Premier League opener",
-        "link": "https://www.skysports.com/football/everton-vs-crystal-palace/report/559446"
+        "title": "Hits and misses: Man Utd lack guts and fight, but can Leeds dare to dream?",
+        "link": "https://www.skysports.com/football/news/12040/13575708/man-utd-lack-guts-and-fight-leeds-have-a-right-to-dream-and-arsenal-have-rejuvenated-attack-premier-league-hits-and-misses"
       },
       {
-        "title": "Leicester booed off after nightmare defeat to Burton",
-        "link": "https://www.skysports.com/football/leicester-city-vs-burton-albion/report/561617"
+        "title": "Dundee claim derby bragging rights with victory over winless Dundee United",
+        "link": "https://www.skysports.com/football/dundee-united-vs-dundee/report/558345"
       }
     ],
     "pitchfork": [],
@@ -171,23 +171,31 @@
     ],
     "variety": [
       {
-        "title": "Why Do We Love Spider-Man So Much?",
-        "link": "https://variety.com/2026/film/columns/why-do-we-love-spider-man-so-much-tom-holland-1236840784/"
+        "title": "Dale Morris, Titan of Nashville Management Who Forged Superstar Careers for Kenny Chesney and Alabama, Dies at 89",
+        "link": "https://variety.com/2026/music/obituaries-people-news/dale-morris-dead-manager-kenny-chesney-alabama-1236840866/"
       },
       {
-        "title": "\u2018National Treasure 3\u2019 Is \u2018Happening,\u2019 Says Franchise Director Jon Turteltaub",
-        "link": "https://variety.com/2026/film/news/national-treasure-3-nicolas-cage-jon-turteltaub-1236840826/"
+        "title": "Rolly Romero vs. Teofimo Lopez Livestream: Where to Watch the Welterweight Pay-Per-View Match Online",
+        "link": "https://variety.com/2026/shopping/news/how-to-watch-rolly-romero-vs-teofimo-lopez-ppv-boxing-live-online-1236838232/"
       },
       {
-        "title": "How \u2018Abbott Elementary\u2019 Pulled Off Its Big Phillies Game Episode",
-        "link": "https://variety.com/2026/artisans/focus/abbott-elementary-phillies-game-episode-1236840283/"
+        "title": "Taylor Sheridan Accused of Stealing \u2018Yellowstone\u2019 From 2016 Pitch in Copyright Lawsuit",
+        "link": "https://variety.com/2026/tv/news/taylor-sheridan-accused-stealing-yellowstone-lawsuit-1236840854/"
       },
       {
-        "title": "\u2018The Magic Faraway Tree\u2019 Review: Wholesome, Harmless Family Movie Aims to Give Enid Blyton the Paddington Treatment",
-        "link": "https://variety.com/2026/film/news/the-magic-faraway-tree-review-1236840728/"
+        "title": "\u2018Sentimental Value\u2019 Sweeps Amanda Awards",
+        "link": "https://variety.com/2026/awards/awards/sentimental-value-amanda-awards-one-battle-after-another-1236840778/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "Meghan Markle Reportedly Dropped From Guy Ritchie\u2019s \u2018The Gentlemen\u2019",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/meghan-markle-dropped-guy-ritchie-the-gentlemen-1236679049/"
+      },
+      {
+        "title": "Before \u2018The Pitt,\u2019 There Was \u2018St. Elsewhere\u2019",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/the-pitt-st-elsewhere-legacy-1236676638/"
+      },
       {
         "title": "Janie Bradford, \u201cMoney (That\u2019s What I Want)\u201d Songwriter, Dies at 87",
         "link": "https://www.hollywoodreporter.com/music/music-news/janie-bradford-dead-money-thats-what-i-want-songwriter-1236679050/"
@@ -195,14 +203,6 @@
       {
         "title": "\u2018Spider-Man: Brand New Day\u2019 Swinging to Fourth Box Office Victory as It Tops \u2018Insidious\u2019 Sequel",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-insidious-mutiny-2-1236678980/"
-      },
-      {
-        "title": "Michael Wright, Star of \u2018The Five Heartbeats\u2019 and \u2018Sugar Hill,\u2019 Dies at 70",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/michael-wright-dead-five-heartbeats-sugar-hill-1236678985/"
-      },
-      {
-        "title": "Sandra Wollner\u2019s \u2018Everytime\u2019 Wins Best Film in Sarajevo, Ana Urushadze Crowned Best Director",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/sandra-wollner-everytime-honorary-heart-sarajevo-urushadze-1236678968/"
       }
     ],
     "larb": [],
