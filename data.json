@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-08-22 12:23 UTC",
+  "last_updated": "2026-08-22 15:13 UTC",
   "feeds": {
     "bbc": [
-      {
-        "title": "Multiple deaths after police vehicle and car crash during pursuit",
-        "link": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss"
-      },
       {
         "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
         "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike",
+        "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
         "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "How this 1960s ex-council house is managing to stay cool without air con",
         "link": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
+        "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
-        "link": "https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss"
+        "title": "Israeli drone strike on \u2018civilian vehicle\u2019 injures several in Syria",
+        "link": "https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss"
       },
       {
-        "title": "Hundreds of children take part in swimming class on Gaza\u2019s shore",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/hundreds-of-children-take-part-in-swimming-class-on-gazas-shore?traffic_source=rss"
+        "title": "What did war with the US reveal about Iran\u2019s weapons capabilities?",
+        "link": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss"
       },
       {
-        "title": "Usain Bolt\u2019s 100m record broken at World Humanoid Robot Games",
-        "link": "https://www.aljazeera.com/sports/2026/8/22/usain-bolts-100m-record-broken-at-world-humanoid-robot-games?traffic_source=rss"
+        "title": "Man Utd humiliated at Hull to open Premier League account",
+        "link": "https://www.aljazeera.com/sports/2026/8/22/man-utd-slump-to-opening-day-premier-league-defeat-at-hull-city?traffic_source=rss"
       },
       {
-        "title": "Ebola continues to spread in the DRC as 16,000 vaccine doses arrive",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/ebola-continues-to-spread-in-the-drc-as-16000-vaccine-doses-arrive?traffic_source=rss"
+        "title": "Fans and police injured in pitch invasion during \u2018high risk\u2019 German Cup tie",
+        "link": "https://www.aljazeera.com/sports/2026/8/22/fans-and-police-injured-in-pitch-invasion-during-high-risk-german-cup-tie?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Millwall, Pompey & Bristol City all lead - EFL LIVE on Sky! ",
-        "link": "https://www.skysports.com/football/live-blog/12040/13575067/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one-and-league-two"
+        "title": "Dream Team! Serena Williams to team up with Alcaraz for US Open mixed doubles",
+        "link": "https://www.skysports.com/tennis/news/12040/13575872/serena-williams-tennis-icon-to-team-up-with-carlos-alcaraz-for-us-open-mixed-doubles-tournament"
       },
       {
-        "title": "Promising signs for new England but Pakistan absolutely dire",
-        "link": "https://www.skysports.com/cricket/news/12040/13575703/england-vs-pakistan-joe-roots-captaincy-and-harry-brooks-maturity-promising-for-hosts-in-first-test-as-tourists-outclassed"
+        "title": "Notable Speech clinches City Of York crown for Appleby",
+        "link": "https://www.skysports.com/racing/news/12040/13575863/york-notable-speech-shines-in-city-of-york-stakes-for-charlie-appleby"
       },
       {
-        "title": "\u200b\u200b\u200b\u200b\u200bRussell wins Dutch Sprint to trim title gap to Antonelli",
-        "link": "https://www.skysports.com/f1/news/12040/13575695/dutch-gp-sprint-george-russell-wins-from-charles-leclerc-to-trim-f1-world-championship-deficit-to-kimi-antonelli-at-zandvoort"
+        "title": "Mauled by the Tigers! Lacklustre Man Utd stunned by brilliant Hull",
+        "link": "https://www.skysports.com/football/hull-city-vs-manchester-united/report/559447"
       },
       {
-        "title": "Hull DOUBLE lead vs lacklustre Man Utd - your half-time views LIVE! ",
-        "link": "https://www.skysports.com/football/hull-city-vs-manchester-united/live/559447"
+        "title": "Dutch GP: Norris snatches pole from Russell, Antonelli LIVE!",
+        "link": "https://www.skysports.com/f1/live-blog/12040/13575287/f1-dutch-gp-live-sprint-qualifying-updates-results-stream-highlights-video-from-zandvoort-race-weekend"
       }
     ],
     "pitchfork": [],
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "Michael Wright, \u2018The Five Heartbeats\u2019 and \u2018Oz\u2019 Star, Dies at 70",
+        "link": "https://www.indiewire.com/news/obituary/michael-wright-five-heartbeats-oz-star-dead-obituary-1235212275/"
+      },
+      {
         "title": "Nearly a Century Later, Sci-Fi Western Film Serial \u2018The Phantom Empire\u2019 Still Feels Like the Future",
         "link": "https://www.indiewire.com/features/best-of/the-phantom-empire-1935-film-serials-after-dark-1235212213/"
       },
@@ -163,13 +167,17 @@
       {
         "title": "Top of the Line: Why Vince Gilligan Isn\u2019t Stressed About Streaming",
         "link": "https://www.indiewire.com/features/craft/top-of-the-line-vince-gilligan-not-stressed-streaming-1235211894/"
-      },
-      {
-        "title": "\u2018Niu Lai,\u2019 the $200 Chinese Animated Film Taking Social Media by Storm, Might Be \u2018The Room\u2019 for a New Generation",
-        "link": "https://www.indiewire.com/features/commentary/niu-lai-review-chinese-animated-movie-terrible-1235212156/"
       }
     ],
     "variety": [
+      {
+        "title": "Andrew Garfield on His Secret Instagram, Thoughts of Leaving Hollywood and Playing Roy in the \u2018Stranger Than Fiction\u2019 Siegfried & Roy Television Series",
+        "link": "https://variety.com/2026/film/columns/andrew-garfield-secret-instagram-siegfried-roy-television-series-1236840510/"
+      },
+      {
+        "title": "Actor Michael Wright, Star of \u2018The Five Heartbeats\u2019 and \u2018V,\u2019 Dies at 70",
+        "link": "https://variety.com/2026/film/news/michael-wright-dead-five-heartbeats-the-principal-1236840765/"
+      },
       {
         "title": "Emily Watson Says \u2018Dune: Prophecy\u2019 Season 2 Will Have \u2018Lots of New Elements,\u2019 Led Her on \u2018A Quest in a Way Actors Always Get to Do and Actresses Don\u2019t\u2019",
         "link": "https://variety.com/2026/film/global/emily-watson-dune-prophecy-season-2-1236840725/"
@@ -177,14 +185,6 @@
       {
         "title": "Here\u2019s How to Watch 2026 Indycar Series Freedom 250 Grand Prix of Washington, D.C. Live Online",
         "link": "https://variety.com/2026/shopping/news/how-to-watch-indycar-freedom-250-grand-prix-live-online-free-1236838320/"
-      },
-      {
-        "title": "\u2018Everything That\u2019s Wrong With You\u2019 Review: A  Luminous Two-Hander from Slovenia About Online Pals Navigating the Waters of IRL Friendship",
-        "link": "https://variety.com/2026/film/reviews/everything-thats-wrong-with-you-review-1236840724/"
-      },
-      {
-        "title": "Olivia Rodrigo Releases \u2018Handmaid\u2019s Tale\u2019-Inspired Song, \u2018Serena Joy,\u2019 in a Tiny Run of CDs, With Digital Drop to Follow",
-        "link": "https://variety.com/2026/music/news/olivia-rodrigo-serena-joy-cd-single-handmaids-tale-1236840709/"
       }
     ],
     "hollywoodreporter": [
@@ -238,8 +238,8 @@
         "link": "https://psyche.co/ideas/arabic-has-four-words-for-sadness-philosophy-explains-why"
       },
       {
-        "title": "Don\u2019t let nature slip out of reach",
-        "link": "https://psyche.co/notes-to-self/its-not-too-late-to-strengthen-your-ties-to-nature"
+        "title": "Glass eggs",
+        "link": "https://psyche.co/turning-points/the-grief-and-fragile-hope-of-deciding-to-freeze-my-eggs"
       }
     ],
     "publicdomainreview": [
