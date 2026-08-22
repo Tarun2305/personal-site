@@ -1,7 +1,11 @@
 {
-  "last_updated": "2026-08-22 06:27 UTC",
+  "last_updated": "2026-08-22 09:19 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Multiple deaths after crash between police vehicle and car",
+        "link": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
         "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss"
@@ -13,47 +17,43 @@
       {
         "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
         "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "More students planning to live at home for university over 'insane' living costs",
-        "link": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "China\u2019s new moon mission could unlock secret of lunar ice: Why that matters",
-        "link": "https://www.aljazeera.com/news/2026/8/22/chinas-new-moon-mission-could-unlock-secret-of-lunar-ice-why-that-matters?traffic_source=rss"
+        "title": "Australia bite back as 18 wickets fall on day one of second Bangladesh Test",
+        "link": "https://www.aljazeera.com/sports/2026/8/22/australia-bite-back-as-18-wickets-fall-on-day-one-of-second-bangladesh-test?traffic_source=rss"
       },
       {
-        "title": "\u2018It was a tsunami\u2019: Floods leave death trail in India\u2019s Assam",
-        "link": "https://www.aljazeera.com/news/2026/8/22/it-was-a-tsunami-floods-leave-death-trail-in-indias-assam?traffic_source=rss"
+        "title": "Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets",
+        "link": "https://www.aljazeera.com/sports/2026/8/22/nakashima-pounds-fritz-bejlek-beats-keys-in-cincinnati-upsets?traffic_source=rss"
       },
       {
-        "title": "Inundated Philippine communities seek answers over flood control funds",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/inundated-philippine-communities-seek-answers-over-flood-control-funds?traffic_source=rss"
+        "title": "How will Trump\u2019s tariffs affect Canada\u2019s economy?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss"
       },
       {
-        "title": "Palestinian teen shot and killed in West Bank attack, UN responds",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/palestinian-teen-shot-and-killed-in-west-bank-attack-un-responds?traffic_source=rss"
+        "title": "Panama Canal to reduce shipping as \u2018extreme\u2019 El Nino approaches",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/panama-canal-to-reduce-shipping-as-extreme-el-nino-approaches?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Today on Sky Sports Racing: Lazy Griff bids to bounce back at Chester",
-        "link": "https://www.skysports.com/racing/news/12040/13575160/today-on-sky-sports-racing-chester-lingfield-and-newton-abbot-feature-live-on-saturday"
+        "title": "Dutch GP Sprint: Russell on pole from Norris for 11am race LIVE!",
+        "link": "https://www.skysports.com/f1/live-blog/12040/13575287/f1-dutch-gp-live-sprint-qualifying-updates-results-stream-highlights-video-from-zandvoort-race-weekend"
       },
       {
         "title": "England player ratings: Tongue, Robinson share top spot and a ball",
         "link": "https://www.skysports.com/cricket/news/12040/13575577/england-player-ratings-ollie-robinson-and-josh-tongue-take-top-marks-after-three-day-victory-over-pakistan-in-first-test"
       },
       {
-        "title": "Papers: Atletico Madrid ready to sell Alvarez to Arsenal",
-        "link": "https://www.skysports.com/football/news/12040/13575656/arsenal-transfer-news-atletico-madrid-finally-shift-julian-alvarez-position-and-now-willing-to-sell-striker-to-the-gunners-paper-talk"
+        "title": "Today on Sky Sports Racing: Lazy Griff bids to bounce back at Chester",
+        "link": "https://www.skysports.com/racing/news/12040/13575160/today-on-sky-sports-racing-chester-lingfield-and-newton-abbot-feature-live-on-saturday"
       },
       {
-        "title": "Tottenham latest: De Zerbi says Bergvall is '100 per cent' staying at Spurs",
-        "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "title": "F1 Academy: Britain's Palmowski storms to Zandvoort pole",
+        "link": "https://www.skysports.com/f1/live-blog/12040/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season"
       }
     ],
     "pitchfork": [],
@@ -189,6 +189,10 @@
     ],
     "hollywoodreporter": [
       {
+        "title": "Sandra Wollner\u2019s \u2018Everytime\u2019 Wins Best Film in Sarajevo, Ana Urushadze Crowned Best Director",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/sandra-wollner-everytime-honorary-heart-sarajevo-urushadze-1236678968/"
+      },
+      {
         "title": "Former Child Actress Raquel Lee Alleges Disney Negligent in On-Set Sexual Abuse",
         "link": "https://www.hollywoodreporter.com/business/business-news/raquel-lee-alleges-disney-negligent-sexual-abuse-1236678925/"
       },
@@ -199,10 +203,6 @@
       {
         "title": "Mark Ruffalo Links Paramount to Oracle\u2019s Israeli Military Ties. The Studio Calls Remarks \u201cAntisemitic\u201d",
         "link": "https://www.hollywoodreporter.com/business/business-news/mark-ruffalo-paramount-oracle-israeli-military-1236678877/"
-      },
-      {
-        "title": "\u2018Voice of Hind Rajab\u2019 Director Slams Israeli Military Investigation Into 5-Year-Old Girl\u2019s Death as a \u201cSmokescreen\u201d",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/voice-of-hind-rajab-director-israel-military-investigation-1236678876/"
       }
     ],
     "larb": [],
@@ -238,8 +238,8 @@
         "link": "https://psyche.co/ideas/arabic-has-four-words-for-sadness-philosophy-explains-why"
       },
       {
-        "title": "Glass eggs",
-        "link": "https://psyche.co/turning-points/the-grief-and-fragile-hope-of-deciding-to-freeze-my-eggs"
+        "title": "Don\u2019t let nature slip out of reach",
+        "link": "https://psyche.co/notes-to-self/its-not-too-late-to-strengthen-your-ties-to-nature"
       }
     ],
     "publicdomainreview": [
