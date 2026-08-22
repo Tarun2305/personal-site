@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22 00:50 UTC",
+  "last_updated": "2026-08-22 03:35 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,34 +7,34 @@
         "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Prince Harry and six others face privacy case legal bill of up to \u00a334.5m",
-        "link": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss"
+        "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+        "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "More students planning to live at home for university over 'insane' living costs",
         "link": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+        "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
         "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Several killed in Russia\u2019s \u2018double-tap\u2019 drone strike on Ukraine mall",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss"
+        "title": "US judge strikes down Trump immigrant visa ban affecting 75 countries",
+        "link": "https://www.aljazeera.com/news/2026/8/22/us-judge-strikes-down-trump-immigrant-visa-ban-affecting-75-countries?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Trump says he views Strait of Hormuz as \u2018American territory\u2019",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss"
+        "title": "Peru rescues people trapped by landslides on highway for nearly a week",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/peru-rescues-people-trapped-by-landslides-on-highway-for-nearly-a-week?traffic_source=rss"
       },
       {
-        "title": "Myanmar military bombing kills 14 at Buddhist monastery, opposition reports",
-        "link": "https://www.aljazeera.com/news/2026/8/21/myanmar-military-bombing-kills-14-at-buddhist-monastery-opposition-reports?traffic_source=rss"
+        "title": "Palestinian-British girl, 6, dies days after family drowned off UK coast",
+        "link": "https://www.aljazeera.com/news/2026/8/22/palestinian-british-girl-6-dies-days-after-family-drowned-off-uk-coast?traffic_source=rss"
       },
       {
-        "title": "Editor of US newspaper Stars and Stripes reportedly fired under Trump",
-        "link": "https://www.aljazeera.com/news/2026/8/21/editor-of-us-military-newspaper-stars-and-stripes-says-he-was-fired?traffic_source=rss"
+        "title": "Iranian president says time to end war with US from \u2018position of strength\u2019",
+        "link": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -171,23 +171,27 @@
     ],
     "variety": [
       {
+        "title": "Bill Maher Puts Hunter Biden in the Hot Seat: \u2018I\u2019ve Seen You With Your Dick Out\u2019",
+        "link": "https://variety.com/2026/tv/news/bill-maher-hunter-biden-dick-real-time-hbo-joe-biden-trump-sons-1236840676/"
+      },
+      {
+        "title": "\u2018Spa Weekend\u2019 Review: Leslie Mann and Isla Fisher in a High-Concept Comedy Without the Comic Highs",
+        "link": "https://variety.com/2026/film/reviews/spa-weekend-review-leslie-mann-anna-faris-1236840170/"
+      },
+      {
         "title": "Paramount and State A.G. to Meet Monday to Discuss Settlement of Antitrust Case",
         "link": "https://variety.com/2026/film/news/paramount-merger-warner-settlement-talks-bonta-california-1236840532/"
       },
       {
         "title": "Paramount Slams Mark Ruffalo Merger Attack as \u2018Antisemitic,\u2019 Says Company Does Not \u2018Tolerate Prejudice of Any Kind\u2019",
         "link": "https://variety.com/2026/film/news/paramount-responds-mark-ruffalo-merger-attack-israel-1236840552/"
-      },
-      {
-        "title": "Emmy Overachiever Jason Bateman on Whether He Considers Himself an Actor or Director First",
-        "link": "https://variety.com/2026/tv/awards/jason-bateman-emmys-black-rabbit-dtf-st-louis-podcast-1236840514/"
-      },
-      {
-        "title": "Secret Hollywood Group\u2019s AI Plan Focuses on Defining How AI Is Used \u2014 While Keeping Humans in Control",
-        "link": "https://variety.com/2026/biz/news/secret-hollywood-groups-ai-plan-protecting-copyrighted-work-1236840245/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "Emmy Nominee Patrick Ball on His Rollercoaster Journey to \u2018The Pitt\u2019 and How His Own Addiction Battle Has Informed His Performance",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/patrick-ball-awards-chatter-interview-the-pitt-addiction-1236658375/"
+      },
       {
         "title": "Mark Ruffalo Links Paramount to Oracle\u2019s Israeli Military Ties. The Studio Calls Remarks \u201cAntisemitic\u201d",
         "link": "https://www.hollywoodreporter.com/business/business-news/mark-ruffalo-paramount-oracle-israeli-military-1236678877/"
@@ -199,10 +203,6 @@
       {
         "title": "Gavin Newsom Says Paramount Settlement Talks Happening in \u201cReal Time,\u201d Signals He\u2019d Like a Deal",
         "link": "https://www.hollywoodreporter.com/business/business-news/gavin-newsom-support-paramount-antitrust-settlement-talks-1236678841/"
-      },
-      {
-        "title": "Madonna Tops UK Dance Charts a Record Fifth Time in 15 Weeks",
-        "link": "https://www.hollywoodreporter.com/music/music-news/madonna-kylie-minogue-love-sensation-1236678801/"
       }
     ],
     "larb": [],
