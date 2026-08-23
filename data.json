@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-08-23 15:14 UTC",
+  "last_updated": "2026-08-23 18:18 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Police aborted pursuit about 10 seconds before fatal crash, watchdog says",
+        "link": "https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "CrossCountry cancels 'almost all' UK services after power cut",
+        "link": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
         "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Mayors to get powers to overrule local councils on planning decisions",
-        "link": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
         "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "CrossCountry cancels 'almost all' UK services after power cut",
-        "link": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "PM Tarique Rahman\u2019s trip stalled: What it means for Bangladesh-India ties",
-        "link": "https://www.aljazeera.com/features/2026/8/23/pm-tarique-rahmans-trip-stalled-what-it-means-for-bangladesh-india-ties?traffic_source=rss"
+        "title": "Iran war: Top US lawmaker says Republicans can \u2018absolutely\u2019 win midterms",
+        "link": "https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss"
       },
       {
-        "title": "Nordic nations \u2018have lost confidence in Infantino\u2019, demand FIFA reforms",
-        "link": "https://www.aljazeera.com/sports/2026/8/23/nordic-nations-have-lost-confidence-in-infantino-demand-fifa-reforms?traffic_source=rss"
+        "title": "Landfill collapse in Guinea kills at least 30 people",
+        "link": "https://www.aljazeera.com/news/2026/8/23/landfill-collapse-in-guinea-kills-at-least-22-people-official-says?traffic_source=rss"
       },
       {
-        "title": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
-        "link": "https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss"
+        "title": "Photos: Ukraine celebrates National Flag Day",
+        "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss"
       },
       {
-        "title": "Chelsea preview: Five key talking points for 2026-27 Premier League season",
-        "link": "https://www.aljazeera.com/sports/2026/8/23/chelsea-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss"
+        "title": "LIVE: Elche vs Barcelona \u2013 La Liga",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Aventure ends Diamond Necklace's unbeaten record",
-        "link": "https://www.skysports.com/racing/news/12040/13576310/deauville-aventure-ends-diamond-necklaces-unbeaten-record-with-sumbe-prix-jean-et-louis-romanet-win"
+        "title": "Somerset ramp up pressure on leaders Nottinghamshire",
+        "link": "https://www.skysports.com/cricket/news/12040/13576329/rothesay-county-championship-somerset-ramp-up-the-pressure-on-division-one-leaders-nottinghamshire"
       },
       {
-        "title": "Newcastle vs Liverpool: Isak starts, three Magpies debutants LIVE!",
-        "link": "https://www.skysports.com/football/newcastle-united-vs-liverpool/live/559452"
+        "title": "Late Liverpool pen sees Szoboszlai silence Newcastle in draw",
+        "link": "https://www.skysports.com/watch/video/13576408/newcastle-2-2-liverpool-premier-league-highlights"
       },
       {
-        "title": "Nightmare start! Aston Villa concede four first-half goals in thumping by Brighton",
-        "link": "https://www.skysports.com/football/brighton-and-hove-albion-vs-aston-villa/report/559450"
+        "title": "Dream start for Rory! McIlroy cuts Clark's lead at BMW Championship LIVE! ",
+        "link": "https://www.skysports.com/golf/live-blog/12040/13576356/bmw-championship-live-latest-scores-updates-highlights-as-rory-mcilroy-chases-wyndham-clark-for-pga-tour-victory"
       },
       {
-        "title": "Price double gives West Brom turnaround win over Burnley",
-        "link": "https://www.skysports.com/football/west-bromwich-albion-vs-burnley/report/560519"
+        "title": "Warrington and Leeds win as Super League play-offs approach",
+        "link": "https://www.skysports.com/rugby-league/news/12040/13576354/super-league-warrington-wolves-continue-winning-streak-against-huddersfield-giants-as-leeds-rhinos-rout-york-knights"
       }
     ],
     "pitchfork": [],
@@ -171,38 +171,38 @@
     ],
     "variety": [
       {
-        "title": "\u2018Seduction,\u2019 Helmed by Zelito Viana and Marcos Palmeira, to Premiere at the Inffinito Fest in Miami (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/global/seduction-zelito-viana-marcos-palmeira-premiere-miami-h2o-1236840944/"
+        "title": "Grace Pass\u00f4\u2019s \u2018Our Secret\u2019 Nabs the Best Film Kikito at the 54th Gramado Film Festival",
+        "link": "https://variety.com/2026/film/global/passo-nosso-segredo-won-gramado-best-film-kikito-1236841004/"
       },
       {
-        "title": "Dr. Dre Says the Only People Who See AI as a Threat Are Those \u2018Who Have Trouble Creating\u2019",
-        "link": "https://variety.com/2026/music/news/dr-dre-ai-music-threat-those-who-have-trouble-creating-1236840975/"
+        "title": "Martin Short Gets Honest: What It\u2019s Like to Be All Over the Emmy Race, Thanks to Three Very Different Projects",
+        "link": "https://variety.com/2026/tv/awards/martin-short-busy-emmy-race-three-very-different-projects-1236839629/"
       },
       {
-        "title": "\u2018Skintown\u2019 Review: A Breezy, Loved-Up, Drugged-Up Guide to Getting Into Trouble in The Troubles",
-        "link": "https://variety.com/2026/film/reviews/skintown-review-1236839532/"
+        "title": "\u2018Sentimental Value\u2019 Star Anders Danielsen Lie and Anne Marie Ottersen Inducted Into the Haugesund Walk of Fame: \u2018It Feels Full Circle\u2019",
+        "link": "https://variety.com/2026/awards/awards/sentimental-value-anders-danielsen-lie-anne-marie-ottersen-1236840981/"
       },
       {
-        "title": "\u2018One Piece\u2019 Season 3 Casts Its Koza, Toto, Pell and Chaka",
-        "link": "https://variety.com/2026/tv/news/one-piece-season-3-cast-koza-toto-pell-chaka-1236840397/"
+        "title": "Box Office: \u2018Spider-Man: Brand New Day\u2019 Triumphs Again in Fourth Weekend With $39 Million, \u2018Insidious 6\u2019 Launches to $25 Million",
+        "link": "https://variety.com/2026/film/box-office/spiderman-brand-new-day-box-office-insidious-6-opens-1236838324/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Leslie Parrish, Actress in \u2018Li\u2019l Abner\u2019 and \u2018The Manchurian Candidate,\u2019 Dies at 90",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/leslie-parrish-dead-lil-abner-manchurian-candidate-1236677928/"
+        "title": "\u2018Tucci in Italy\u2019 Cinematographer Matt Ball on Making Italy Look Delicious",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/tucci-in-italy-cinematographer-italy-1236671527/"
       },
       {
-        "title": "Taylor Sheridan Accused of Stealing \u2018Yellowstone\u2019 Idea From TV Writer\u2019s Pitch",
-        "link": "https://www.hollywoodreporter.com/business/business-news/taylor-sheridan-sued-yellowstone-copyright-infringement-1236679202/"
+        "title": "Simon Wiesenthal Center CEO Calls Out Mark Ruffalo\u2019s Paramount Remarks: \u201cObsession and Demonization\u201d",
+        "link": "https://www.hollywoodreporter.com/business/business-news/simon-wiesenthal-center-slams-mark-ruffalo-paramount-comments-1236679297/"
       },
       {
-        "title": "\u2018National Treasure 3\u2019 Is \u201cFinally Real\u201d and \u201cWe Have a Script,\u201d Director Says",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/national-treasure-3-finally-happening-director-says-1236679147/"
+        "title": "\u2018Spider-Man: Brand New Day\u2019 Hits No. 6 All-Time Globally as It Swings to Fourth Box Office Victory",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-insidious-mutiny-2-1236678980/"
       },
       {
-        "title": "\u2018Spa Weekend\u2019 Review: Leslie Mann and Isla Fisher Go Underserved in a Lukewarm Bath of a Comedy",
-        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/spa-weekend-review-leslie-mann-isla-fisher-anna-faris-1236678914/"
+        "title": "Nick Glennie-Smith, Composer on \u2018The Rock,\u2019 \u2018The Man in the Iron Mask\u2019 and \u2018Secretariat,\u2019 Dies at 74",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/nick-glennie-smith-man-in-iron-mask-secretariat-composer-1236679301/"
       }
     ],
     "larb": [],
