@@ -1,25 +1,33 @@
 {
-  "last_updated": "2026-08-23 00:54 UTC",
+  "last_updated": "2026-08-23 03:43 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Two police officers among seven killed in wrong-way car crash",
-        "link": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss"
+        "title": "Mayors to get powers to overrule local councils on planning decisions",
+        "link": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Video appears to show police chase minutes before fatal A66 crash",
-        "link": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss"
+        "title": "Two police officers among seven killed in wrong-way car crash",
+        "link": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Struggling households need more help with bills, energy industry says",
         "link": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-        "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
+        "title": "Restriction zone scheme for offenders to start in October",
+        "link": "https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
+      {
+        "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
+        "link": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss"
+      },
+      {
+        "title": "Thousands flee Sudan\u2019s Kordofan fighting for relative safety of El Obeid",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/thousands-flee-sudans-kordofan-fighting-for-relative-safety-of-el-obeid?traffic_source=rss"
+      },
       {
         "title": "Iran war live: Tehran warns neighbours against joining US economic war",
         "link": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss"
@@ -27,14 +35,6 @@
       {
         "title": "Iran threatens countries that join US \u2018economic D-Day\u2019",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss"
-      },
-      {
-        "title": "Iran warns nearby nations against joining US \u2018economic war\u2019 efforts",
-        "link": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss"
-      },
-      {
-        "title": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
-        "link": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -58,7 +58,24 @@
     ],
     "pitchfork": [],
     "quietus": [],
-    "aquariumdrunkard": [],
+    "aquariumdrunkard": [
+      {
+        "title": "Videodrome :: Lucky Three (1997)",
+        "link": "https://aquariumdrunkard.com/2026/08/21/videodrome-lucky-three-1997/"
+      },
+      {
+        "title": "Fruit Bats :: The Aquarium Drunkard Interview",
+        "link": "https://aquariumdrunkard.com/2026/08/21/fruit-bats-the-aquarium-drunkard-interview/"
+      },
+      {
+        "title": "National Park :: Outside",
+        "link": "https://aquariumdrunkard.com/2026/08/20/national-park-outside/"
+      },
+      {
+        "title": "Julia Holter :: Materia",
+        "link": "https://aquariumdrunkard.com/2026/08/20/julia-holter-materia/"
+      }
+    ],
     "bfi": [],
     "criterion": [],
     "rogerebert": [
@@ -79,24 +96,7 @@
         "link": "https://www.rogerebert.com/interviews/downfall-case-against-boeing-rory-kennedy-interview"
       }
     ],
-    "filmcomment": [
-      {
-        "title": "The Film Comment Podcast: Jane Schoenbrun on Teenage Sex and Death at Camp Miasma",
-        "link": "https://www.filmcomment.com/the-film-comment-podcast-jane-schoenbrun-on-teenage-sex-and-death-at-camp-miasma/"
-      },
-      {
-        "title": "The Film Comment Podcast: Christopher Nolan\u2019s The Odyssey",
-        "link": "https://www.filmcomment.com/the-film-comment-podcast-christopher-nolans-the-odyssey/"
-      },
-      {
-        "title": "The Film Comment Podcast: Subscriber Exclusive: John Early on Maddie\u2019s Secret, Part 2",
-        "link": "https://www.filmcomment.com/the-film-comment-podcast-subscriber-exclusive-john-early-on-maddies-secret-part-2/"
-      },
-      {
-        "title": "The Film Comment Podcast: Karlovy Vary 2026 #3: Vacation",
-        "link": "https://www.filmcomment.com/the-film-comment-podcast-karlovy-vary-2026-3-vacation/"
-      }
-    ],
+    "filmcomment": [],
     "mubi": [
       {
         "title": "Movie Poster of the Week | The Film Posters of David Lance Goines",
@@ -154,6 +154,10 @@
     ],
     "variety": [
       {
+        "title": "\u2018One Battle After Another\u2019 and \u2018Marty Supreme\u2019 Take Top Honors at Location Managers Guild International Awards",
+        "link": "https://variety.com/2026/artisans/news/location-managers-guild-international-awards-2026-winners-1236840833/"
+      },
+      {
         "title": "HBO Max Is Free Right Now For 7 Days With This Prime Video Promo",
         "link": "https://variety.com/2026/shopping/news/best-hbo-max-deal-offer-1235439129/"
       },
@@ -164,13 +168,17 @@
       {
         "title": "Rolly Romero vs. Teofimo Lopez Livestream: Where to Watch the Welterweight Pay-Per-View Match Online",
         "link": "https://variety.com/2026/shopping/news/how-to-watch-rolly-romero-vs-teofimo-lopez-ppv-boxing-live-online-1236838232/"
-      },
-      {
-        "title": "Taylor Sheridan Accused of Stealing \u2018Yellowstone\u2019 From 2016 Pitch in Copyright Lawsuit",
-        "link": "https://variety.com/2026/tv/news/taylor-sheridan-accused-stealing-yellowstone-lawsuit-1236840854/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "Taylor Sheridan Accused of Stealing \u2018Yellowstone\u2019 Idea From TV Writer\u2019s Pitch",
+        "link": "https://www.hollywoodreporter.com/business/business-news/taylor-sheridan-sued-yellowstone-copyright-infringement-1236679202/"
+      },
+      {
+        "title": "\u2018National Treasure 3\u2019 Is \u201cFinally Real\u201d and \u201cWe Have a Script,\u201d Director Says",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/national-treasure-3-finally-happening-director-says-1236679147/"
+      },
       {
         "title": "\u2018Spa Weekend\u2019 Review: Leslie Mann and Isla Fisher Go Underserved in a Lukewarm Bath of a Comedy",
         "link": "https://www.hollywoodreporter.com/movies/movie-reviews/spa-weekend-review-leslie-mann-isla-fisher-anna-faris-1236678914/"
@@ -178,14 +186,6 @@
       {
         "title": "Mark Ruffalo Rejects Paramount\u2019s Claim His Anti-Merger Comments Were \u201cAntisemitic\u201d: \u201cMy Views Should Never Be Interpreted as Hostility Toward Jewish People\u201d",
         "link": "https://www.hollywoodreporter.com/business/business-news/mark-ruffalo-paramount-anti-merger-comments-not-antisemitic-1236679153/"
-      },
-      {
-        "title": "Bunny Levine, Former Librarian Turned Actress in \u2018Gilmore Girls,\u2019 Thelma\u2019 and \u2018You Don\u2019t Mess With the Zohan,\u2019 Dies at 97",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/bunny-levine-dead-gilmore-girls-shameless-thelma-actress-1236679105/"
-      },
-      {
-        "title": "Meghan Markle Reportedly Dropped From Consideration to Join Guy Ritchie\u2019s \u2018The Gentlemen\u2019",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/meghan-markle-dropped-guy-ritchie-the-gentlemen-1236679049/"
       }
     ],
     "larb": [],
@@ -221,8 +221,8 @@
         "link": "https://psyche.co/ideas/arabic-has-four-words-for-sadness-philosophy-explains-why"
       },
       {
-        "title": "Glass eggs",
-        "link": "https://psyche.co/turning-points/the-grief-and-fragile-hope-of-deciding-to-freeze-my-eggs"
+        "title": "Don\u2019t let nature slip out of reach",
+        "link": "https://psyche.co/notes-to-self/its-not-too-late-to-strengthen-your-ties-to-nature"
       }
     ],
     "publicdomainreview": [
