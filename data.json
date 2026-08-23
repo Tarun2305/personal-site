@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23 03:43 UTC",
+  "last_updated": "2026-08-23 06:28 UTC",
   "feeds": {
     "bbc": [
       {
@@ -11,34 +11,38 @@
         "link": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Struggling households need more help with bills, energy industry says",
-        "link": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss"
+        "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
+        "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Restriction zone scheme for offenders to start in October",
-        "link": "https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo?at_medium=RSS&at_campaign=rss"
+        "title": "Struggling households need more help with bills, energy industry says",
+        "link": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
-        "link": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss"
+        "title": "Kazakhstan parliamentary elections begin: What\u2019s at stake?",
+        "link": "https://www.aljazeera.com/news/2026/8/23/kazakhstan-parliamentary-elections-begin-whats-at-stake?traffic_source=rss"
       },
       {
-        "title": "Thousands flee Sudan\u2019s Kordofan fighting for relative safety of El Obeid",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/thousands-flee-sudans-kordofan-fighting-for-relative-safety-of-el-obeid?traffic_source=rss"
+        "title": "Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ex-colombian-president-restoring-israeli-ties-applauds-gaza-genocide?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Tehran warns neighbours against joining US economic war",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss"
+        "title": "\u2018You just can\u2019t trust Trump\u2019: Canadian premiers fire back in trade war",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss"
       },
       {
-        "title": "Iran threatens countries that join US \u2018economic D-Day\u2019",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss"
+        "title": "In rural Chad, solar kiosks bring healthcare closer",
+        "link": "https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "Today on Sky Sports Racing: Diamond Necklace headlines at Deauville",
+        "link": "https://www.skysports.com/racing/news/12040/13575564/today-on-sky-sports-racing-brighton-worcester-and-deauville-feature-live-on-sunday"
+      },
       {
         "title": "Saints keep Super League play-off hopes alive over 10-man Castleford",
         "link": "https://www.skysports.com/rugby-league/news/12040/13575914/super-league-st-helens-keep-play-off-hopes-alive-with-victory-against-castleford-as-toulouse-and-hull-both-win"
@@ -50,10 +54,6 @@
       {
         "title": "McIlroy pulls himself back into contention at BMW Championship",
         "link": "https://www.skysports.com/golf/news/12040/13576081/rory-mcilroy-world-no-2-pulls-himself-back-into-contention-at-the-bmw-championship-after-five-under-par-third-round"
-      },
-      {
-        "title": "Papers: Arsenal pair Arteta and Berta in 'frequent contact' with Alvarez",
-        "link": "https://www.skysports.com/football/news/12040/13576128/arsenal-transfer-news-mikel-arteta-and-andrea-berta-in-frequent-contact-with-julian-alvarez-amid-hope-of-luring-atletico-madrid-star-paper-talk"
       }
     ],
     "pitchfork": [],
@@ -96,7 +96,24 @@
         "link": "https://www.rogerebert.com/interviews/downfall-case-against-boeing-rory-kennedy-interview"
       }
     ],
-    "filmcomment": [],
+    "filmcomment": [
+      {
+        "title": "The Film Comment Podcast: Jane Schoenbrun on Teenage Sex and Death at Camp Miasma",
+        "link": "https://www.filmcomment.com/the-film-comment-podcast-jane-schoenbrun-on-teenage-sex-and-death-at-camp-miasma/"
+      },
+      {
+        "title": "The Film Comment Podcast: Christopher Nolan\u2019s The Odyssey",
+        "link": "https://www.filmcomment.com/the-film-comment-podcast-christopher-nolans-the-odyssey/"
+      },
+      {
+        "title": "The Film Comment Podcast: Subscriber Exclusive: John Early on Maddie\u2019s Secret, Part 2",
+        "link": "https://www.filmcomment.com/the-film-comment-podcast-subscriber-exclusive-john-early-on-maddies-secret-part-2/"
+      },
+      {
+        "title": "The Film Comment Podcast: Karlovy Vary 2026 #3: Vacation",
+        "link": "https://www.filmcomment.com/the-film-comment-podcast-karlovy-vary-2026-3-vacation/"
+      }
+    ],
     "mubi": [
       {
         "title": "Movie Poster of the Week | The Film Posters of David Lance Goines",
