@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22 21:14 UTC",
+  "last_updated": "2026-08-23 00:54 UTC",
   "feeds": {
     "bbc": [
       {
@@ -11,71 +11,54 @@
         "link": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-        "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
+        "title": "Struggling households need more help with bills, energy industry says",
+        "link": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-        "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
+        "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+        "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Israeli army and settlers injure several Palestinians across West Bank",
-        "link": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss"
+        "title": "Iran war live: Tehran warns neighbours against joining US economic war",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss"
       },
       {
-        "title": "US Postal Service shares mail-in ballot restrictions despite court ruling",
-        "link": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss"
+        "title": "Iran threatens countries that join US \u2018economic D-Day\u2019",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss"
       },
       {
-        "title": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
-        "link": "https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss"
+        "title": "Iran warns nearby nations against joining US \u2018economic war\u2019 efforts",
+        "link": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss"
       },
       {
-        "title": "Why is Israel building new illegal settlements?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss"
+        "title": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
+        "link": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Saints keep Super League play-off hopes alive over 10-man Castleford",
+        "link": "https://www.skysports.com/rugby-league/news/12040/13575914/super-league-st-helens-keep-play-off-hopes-alive-with-victory-against-castleford-as-toulouse-and-hull-both-win"
+      },
+      {
+        "title": "St Helens beat Castleford despite Hastings red card ",
+        "link": "https://www.skysports.com/watch/video/13576143/st-helens-v-castleford-hls-mxf"
+      },
+      {
+        "title": "McIlroy pulls himself back into contention at BMW Championship",
+        "link": "https://www.skysports.com/golf/news/12040/13576081/rory-mcilroy-world-no-2-pulls-himself-back-into-contention-at-the-bmw-championship-after-five-under-par-third-round"
+      },
+      {
         "title": "Papers: Arsenal pair Arteta and Berta in 'frequent contact' with Alvarez",
         "link": "https://www.skysports.com/football/news/12040/13576128/arsenal-transfer-news-mikel-arteta-and-andrea-berta-in-frequent-contact-with-julian-alvarez-amid-hope-of-luring-atletico-madrid-star-paper-talk"
-      },
-      {
-        "title": "Stokes stars as Durham thump Derbyshire to lift Championship promotion hopes",
-        "link": "https://www.skysports.com/cricket/news/12040/13576108/former-england-captain-ben-stokes-stars-as-durham-thump-derbyshire-to-lift-rothesay-county-championship-promotion-hopes"
-      },
-      {
-        "title": "Hits and misses: Man Utd lack guts and fight, but can Leeds dare to dream?",
-        "link": "https://www.skysports.com/football/news/12040/13575708/man-utd-lack-guts-and-fight-leeds-have-a-right-to-dream-and-arsenal-have-rejuvenated-attack-premier-league-hits-and-misses"
-      },
-      {
-        "title": "Dundee claim derby bragging rights with victory over winless Dundee United",
-        "link": "https://www.skysports.com/football/dundee-united-vs-dundee/report/558345"
       }
     ],
     "pitchfork": [],
     "quietus": [],
-    "aquariumdrunkard": [
-      {
-        "title": "Videodrome :: Lucky Three (1997)",
-        "link": "https://aquariumdrunkard.com/2026/08/21/videodrome-lucky-three-1997/"
-      },
-      {
-        "title": "Fruit Bats :: The Aquarium Drunkard Interview",
-        "link": "https://aquariumdrunkard.com/2026/08/21/fruit-bats-the-aquarium-drunkard-interview/"
-      },
-      {
-        "title": "National Park :: Outside",
-        "link": "https://aquariumdrunkard.com/2026/08/20/national-park-outside/"
-      },
-      {
-        "title": "Julia Holter :: Materia",
-        "link": "https://aquariumdrunkard.com/2026/08/20/julia-holter-materia/"
-      }
-    ],
+    "aquariumdrunkard": [],
     "bfi": [],
     "criterion": [],
     "rogerebert": [
@@ -171,6 +154,10 @@
     ],
     "variety": [
       {
+        "title": "HBO Max Is Free Right Now For 7 Days With This Prime Video Promo",
+        "link": "https://variety.com/2026/shopping/news/best-hbo-max-deal-offer-1235439129/"
+      },
+      {
         "title": "Dale Morris, Titan of Nashville Management Who Forged Superstar Careers for Kenny Chesney and Alabama, Dies at 89",
         "link": "https://variety.com/2026/music/obituaries-people-news/dale-morris-dead-manager-kenny-chesney-alabama-1236840866/"
       },
@@ -181,28 +168,24 @@
       {
         "title": "Taylor Sheridan Accused of Stealing \u2018Yellowstone\u2019 From 2016 Pitch in Copyright Lawsuit",
         "link": "https://variety.com/2026/tv/news/taylor-sheridan-accused-stealing-yellowstone-lawsuit-1236840854/"
-      },
-      {
-        "title": "\u2018Sentimental Value\u2019 Sweeps Amanda Awards",
-        "link": "https://variety.com/2026/awards/awards/sentimental-value-amanda-awards-one-battle-after-another-1236840778/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Meghan Markle Reportedly Dropped From Guy Ritchie\u2019s \u2018The Gentlemen\u2019",
+        "title": "\u2018Spa Weekend\u2019 Review: Leslie Mann and Isla Fisher Go Underserved in a Lukewarm Bath of a Comedy",
+        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/spa-weekend-review-leslie-mann-isla-fisher-anna-faris-1236678914/"
+      },
+      {
+        "title": "Mark Ruffalo Rejects Paramount\u2019s Claim His Anti-Merger Comments Were \u201cAntisemitic\u201d: \u201cMy Views Should Never Be Interpreted as Hostility Toward Jewish People\u201d",
+        "link": "https://www.hollywoodreporter.com/business/business-news/mark-ruffalo-paramount-anti-merger-comments-not-antisemitic-1236679153/"
+      },
+      {
+        "title": "Bunny Levine, Former Librarian Turned Actress in \u2018Gilmore Girls,\u2019 Thelma\u2019 and \u2018You Don\u2019t Mess With the Zohan,\u2019 Dies at 97",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/bunny-levine-dead-gilmore-girls-shameless-thelma-actress-1236679105/"
+      },
+      {
+        "title": "Meghan Markle Reportedly Dropped From Consideration to Join Guy Ritchie\u2019s \u2018The Gentlemen\u2019",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/meghan-markle-dropped-guy-ritchie-the-gentlemen-1236679049/"
-      },
-      {
-        "title": "Before \u2018The Pitt,\u2019 There Was \u2018St. Elsewhere\u2019",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/the-pitt-st-elsewhere-legacy-1236676638/"
-      },
-      {
-        "title": "Janie Bradford, \u201cMoney (That\u2019s What I Want)\u201d Songwriter, Dies at 87",
-        "link": "https://www.hollywoodreporter.com/music/music-news/janie-bradford-dead-money-thats-what-i-want-songwriter-1236679050/"
-      },
-      {
-        "title": "\u2018Spider-Man: Brand New Day\u2019 Swinging to Fourth Box Office Victory as It Tops \u2018Insidious\u2019 Sequel",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-insidious-mutiny-2-1236678980/"
       }
     ],
     "larb": [],
@@ -238,8 +221,8 @@
         "link": "https://psyche.co/ideas/arabic-has-four-words-for-sadness-philosophy-explains-why"
       },
       {
-        "title": "Don\u2019t let nature slip out of reach",
-        "link": "https://psyche.co/notes-to-self/its-not-too-late-to-strengthen-your-ties-to-nature"
+        "title": "Glass eggs",
+        "link": "https://psyche.co/turning-points/the-grief-and-fragile-hope-of-deciding-to-freeze-my-eggs"
       }
     ],
     "publicdomainreview": [
