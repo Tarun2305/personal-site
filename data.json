@@ -1,67 +1,88 @@
 {
-  "last_updated": "2026-08-24 12:34 UTC",
+  "last_updated": "2026-08-24 15:32 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Social media firms should remove dangerous driving videos, minister says",
-        "link": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss"
+        "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+        "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "UK missiles offer may help Ukraine - but they are not what Zelensky needs most",
+        "link": "https://www.bbc.co.uk/news/articles/cy8zxqn57z3o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
         "link": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
-        "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'It's not Alton Towers' - rows break out over queuing at Wales' highest mountain",
-        "link": "https://www.bbc.co.uk/news/articles/c1714xg2vr9o?at_medium=RSS&at_campaign=rss"
+        "title": "Snooker champion Graeme Dott guilty of child sex abuse",
+        "link": "https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Activists occupy UK aircraft parts factory over Israel links",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/activists-occupy-uk-aircraft-parts-factory-over-israel-links?traffic_source=rss"
+        "title": "Samuel Eto\u2019o urges support for embattled FIFA President Gianni Infantino",
+        "link": "https://www.aljazeera.com/sports/2026/8/24/samuel-etoo-urges-support-for-embattled-fifa-president-gianni-infantino?traffic_source=rss"
       },
       {
-        "title": "Former NBA player Enes Kanter ejected after confrontation with WNBA\u2019s Cloud",
-        "link": "https://www.aljazeera.com/sports/2026/8/24/former-nba-player-enes-kanter-ejected-after-confrontation-with-wnbas-cloud?traffic_source=rss"
+        "title": "Why Israeli settler attacks on Palestinians in West Bank are pogroms",
+        "link": "https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms?traffic_source=rss"
       },
       {
-        "title": "Israel accused of using kites as pretext to justify escalating Gaza attacks",
-        "link": "https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss"
+        "title": "Houses set on fire as fresh violence erupts in India\u2019s Manipur",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss"
       },
       {
-        "title": "Cambuur fans suffer burns as fireworks set off during Dutch league match",
-        "link": "https://www.aljazeera.com/sports/2026/8/24/cambuur-fans-suffer-burns-as-fireworks-set-off-during-dutch-league-match?traffic_source=rss"
+        "title": "Algeria\u2019s schools put Shakespeare before Moli\u00e8re in break from France",
+        "link": "https://www.aljazeera.com/features/2026/8/24/algerias-schools-put-shakespeare-before-molire-in-break-from-france?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Carabao Cup second round: Eleven PL teams are in - watch EVERY match live",
-        "link": "https://www.skysports.com/football/news/12040/13576598/carabao-cup-2026-27-watch-nottm-forest-vs-leeds-chelsea-vs-luton-tottenham-vs-charlton-and-more-with-every-game-live-on-sky-sports"
+        "title": "England's Carse unavailable for Lord's Test after nightclub incident",
+        "link": "https://www.skysports.com/cricket/news/12040/13576549/brydon-carse-to-miss-englands-second-test-vs-pakistan-as-cricket-regulator-conducts-investigation-into-nightclub-incident"
       },
       {
-        "title": "Saints skipper Hastings gets three-game ban for punch",
-        "link": "https://www.skysports.com/rugby-league/news/12040/13576605/jackson-hastings-st-helens-captain-given-three-game-ban-for-violent-conduct-that-could-end-his-season"
+        "title": "Former world snooker champion Dott found guilty of child sex abuse",
+        "link": "https://www.skysports.com/snooker/news/12040/13576651/graeme-dott-former-world-snooker-champion-found-guilty-of-child-sex-abuse"
       },
       {
-        "title": "US Open build-up ahead of qualifying and mixed doubles week in New York",
-        "link": "https://www.skysports.com/tennis/live-blog/12040/13576448/us-open-tennis-news-draw-schedule-results-and-updates-from-flushing-meadows-in-new-york"
+        "title": "What has gone wrong for Pakistan cricket with 'alarm bells ringing'?",
+        "link": "https://www.skysports.com/cricket/news/12040/13576617/what-has-gone-wrong-for-pakistan-cricket-woes-assessed-after-defeat-to-england-in-first-test-at-headingley"
       },
       {
-        "title": "Why Celtic, Rangers, Hearts, Hibs, Motherwell face a\u00a0make-or-break week",
-        "link": "https://www.skysports.com/football/news/12040/13575298/celtic-guaranteed-european-football-can-rangers-hearts-hibs-and-motherwell-secure-conference-league-place"
+        "title": "Is Norris now Antonelli's biggest title threat?",
+        "link": "https://www.skysports.com/f1/news/12040/13576565/lando-norris-is-mclaren-driver-now-kimi-antonellis-biggest-threat-for-2026-f1-world-title-after-dutch-gp-win"
       }
     ],
     "pitchfork": [],
     "quietus": [],
-    "aquariumdrunkard": [],
+    "aquariumdrunkard": [
+      {
+        "title": "The Lagniappe Sessions :: Lau Ro",
+        "link": "https://aquariumdrunkard.com/2026/08/24/the-lagniappe-sessions-lau-ro/"
+      },
+      {
+        "title": "John Foxx & Harold Budd :: Translucence + Drift Music",
+        "link": "https://aquariumdrunkard.com/2026/08/24/john-foxx-harold-budd-translucence-drift-music/"
+      },
+      {
+        "title": "Videodrome :: Lucky Three (1997)",
+        "link": "https://aquariumdrunkard.com/2026/08/21/videodrome-lucky-three-1997/"
+      },
+      {
+        "title": "Fruit Bats :: The Aquarium Drunkard Interview",
+        "link": "https://aquariumdrunkard.com/2026/08/21/fruit-bats-the-aquarium-drunkard-interview/"
+      }
+    ],
     "bfi": [],
     "criterion": [],
     "rogerebert": [
+      {
+        "title": "We Were Warned: On \u201cTerminator 2: Judgment Day\u201d at 35\u00a0",
+        "link": "https://www.rogerebert.com/features/we-were-warned-on-terminator-2-judgment-day-at-35"
+      },
       {
         "title": "Liminal Spaces, Transitional States: Alexander Ullom on \u201cIt Ends\u201d",
         "link": "https://www.rogerebert.com/interviews/alexander-ullom-it-ends-interview"
@@ -73,10 +94,6 @@
       {
         "title": "Locarno 2026: You Don\u2019t Belong Here, Who Is Still Alive, Sixteen Moments of My Life, Letter From My Village",
         "link": "https://www.rogerebert.com/features/locarno-2026-you-dont-belong-here-who-is-still-alive-sixteen-moments-of-my-life-letter-from-my-village"
-      },
-      {
-        "title": "I Was Compelled to Revisit: Rory Kennedy on \u201cFreefall: A Reckoning For Boeing\u201d",
-        "link": "https://www.rogerebert.com/interviews/downfall-case-against-boeing-rory-kennedy-interview"
       }
     ],
     "filmcomment": [
@@ -136,56 +153,56 @@
     ],
     "indiewire": [
       {
-        "title": "\u2018Lanterns\u2019 Review: Episode 2 Flips the Script to Start Hunting the Manhunter \u2014 Spoilers",
-        "link": "https://www.indiewire.com/criticism/shows/lanterns-episode-2-review-manhunters-explained-spoilers-1235211827/"
+        "title": "\u2018Call My Agent\u2019 Is Getting Its First Movie \u2014 Can the Beloved French Farce Delight Fans New and Old?",
+        "link": "https://www.indiewire.com/news/trailers/call-my-agent-the-movie-trailer-1235212480/"
       },
       {
-        "title": "A24\u2019s \u2018Tony\u2019 Heats Up Indie Box Office, Earning an Impressive $5 Million",
-        "link": "https://www.indiewire.com/news/box-office/a24-tony-indie-box-office-grosses-anthony-bourdain-biopic-1235212420/"
+        "title": "California Attorney General Rob Bonta Cancels Planned Paramount Merger Meeting Over \u2018Lack of Good Faith\u2019",
+        "link": "https://www.indiewire.com/news/business/california-attorney-general-rob-bonta-cancels-paramount-1235212478/"
       },
       {
-        "title": "Michael Wright, \u2018The Five Heartbeats\u2019 and \u2018Oz\u2019 Star, Dies at 70",
-        "link": "https://www.indiewire.com/news/obituary/michael-wright-five-heartbeats-oz-star-dead-obituary-1235212275/"
+        "title": "\u2018Buddy\u2019 Review: Casper Kelly\u2019s Bloodthirsty Riff on \u2018Barney\u2019 Is the First Great Midnight Movie of 2026",
+        "link": "https://www.indiewire.com/criticism/movies/buddy-review-casper-kelly-sundance-1235174700/"
       },
       {
-        "title": "Nearly a Century Later, Sci-Fi Western Film Serial \u2018The Phantom Empire\u2019 Still Feels Like the Future",
-        "link": "https://www.indiewire.com/features/best-of/the-phantom-empire-1935-film-serials-after-dark-1235212213/"
+        "title": "Cannes 2026 Movies Sold: Javier Bardem-Starrer \u2018The Beloved\u2019 Goes to Kino Lorber",
+        "link": "https://www.indiewire.com/news/festivals/cannes-2026-movies-sold-so-far-paper-tiger-minotaur-1235191174/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018EastEnders\u2019 Puts Out Casting Call for Character Named Meghan After Duchess\u2019 U.K. Return: \u2018Confident, Gorgeous and Ready to Cause Chaos\u2019",
-        "link": "https://variety.com/2026/tv/global/eastenders-casting-call-meghan-duchess-1236841460/"
+        "title": "Rosie O\u2019Donnell Should Host Her Own Show on Late Night TV \u2014 and Shatter Comedy\u2019s Greatest Glass Ceiling",
+        "link": "https://variety.com/2026/tv/columns/rosie-odonnell-late-night-show-trump-rival-1236841131/"
       },
       {
-        "title": "Toronto Midnight Madness Title \u2018Vintage Violence,\u2019 Starring Cole Sprouse and Kiko Mizuhara, Boarded by Best Friend Forever (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/global/toronto-midnight-madness-vintage-violence-best-friend-forever-1236841445/"
+        "title": "Orlando Bloom to Be Honored During Venice Film Festival With Filming Italy Award",
+        "link": "https://variety.com/2026/film/global/orlando-bloom-honored-venice-film-festival-1236841484/"
       },
       {
-        "title": "Vietnamese Found-Footage Horror Hit \u2018Lau Chu Hoa: The Deadliest Mansion\u2019 Heads to North American Theaters (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/news/lau-chu-hoa-deadliest-mansion-north-america-release-1236841428/"
+        "title": "\u2018The Gentlemen\u2019 Officially Renewed for Season 3 as First Season 2 Trailer Drops: \u2018I\u2019m Looking Forward to Pushing the Boundaries Further,\u2019 Guy Ritchie Says (EXCLUSIVE)",
+        "link": "https://variety.com/2026/tv/global/the-gentlemen-season-3-greenlight-1236841374/"
       },
       {
-        "title": "Brad Pitt\u2019s \u2018Heart of the Beast\u2019 Added to San Sebasti\u00e1n Lineup",
-        "link": "https://variety.com/2026/film/global/brad-pitt-heart-of-the-beast-paramount-san-sebastian-1236841422/"
+        "title": "\u2018Black Mirror\u2019 Season 8 Starts Production as Netflix Renews \u2018Being Gordon Ramsay\u2019 and \u2018Legends\u2019 (EXCLUSIVE)",
+        "link": "https://variety.com/2026/tv/global/netflix-black-mirror-season-8-legends-gordon-ramsay-1236841382/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "AEG, Archer Aviation Unveil Plans for Air Taxis at L.A. Live",
-        "link": "https://www.hollywoodreporter.com/business/business-news/aeg-air-taxis-downtown-los-angeles-archer-aviation-1236678603/"
+        "title": "R.J. Kizer, Sound Editor and ADR Expert, Dies at 73",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/rj-kizer-dead-master-commander-sound-editor-adr-expert-1236679674/"
       },
       {
-        "title": "Brad Pitt to Return to San Sebastian Film Festival With David Ayer\u2019s \u2018Heart of the Beast\u2019",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/brad-pitt-san-sebastian-film-david-ayer-heart-of-the-beast-1236679572/"
+        "title": "Sara Bareilles Isn\u2019t Afraid To Show The Messy Side of Grief\u00a0",
+        "link": "https://www.hollywoodreporter.com/music/music-features/sara-bareilles-isnt-afraid-to-show-the-messy-side-of-grief-1236678548/"
       },
       {
-        "title": "Venice Adds Gaza Doc \u2018Naza\u2019 to Competition",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/venice-adds-gaza-doc-naza-to-competition-line-up-1236679565/"
+        "title": "Kate O\u2019Flynn Broke Out in \u2018Widow\u2019s Bay.\u2019 Just Wait Until Mike Leigh\u2019s Final Film",
+        "link": "https://www.hollywoodreporter.com/movies/movie-features/kate-oflynn-mike-leigh-tender-loving-care-exclusive-1236678784/"
       },
       {
-        "title": "Meet Tuide, Your New Favorite Girl Group (Exclusive)",
-        "link": "https://www.hollywoodreporter.com/music/music-features/tuide-hybe-kpop-new-girl-group-interview-1236679453/"
+        "title": "\u2018The Gentlemen\u2019 Lands Season 3 Renewal Amid Meghan Markle Casting Rumors",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-season-3-the-gentlemen-meghan-markle-trailer-show-1236679653/"
       }
     ],
     "larb": [],
@@ -245,6 +262,10 @@
     ],
     "quanta": [
       {
+        "title": "A New Framework for How the Brain Compresses Our Noisy World",
+        "link": "https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/"
+      },
+      {
         "title": "\u2018Huge Breakthrough\u2019 in the Math of Imbalance",
         "link": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/"
       },
@@ -255,13 +276,13 @@
       {
         "title": "Building a Quantum Computer, One Fragile Qubit at a Time",
         "link": "https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/"
-      },
-      {
-        "title": "Theory of Fluids Enters the 21st Century",
-        "link": "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/"
       }
     ],
     "nautilus": [
+      {
+        "title": "New Species of Groundsnake Named After Guns N\u2019 Roses Guitarist and Noted Herpephile Slash",
+        "link": "https://nautil.us/new-species-of-groundsnake-named-after-guns-n-roses-guitarist-and-noted-herpephile-slash-1284130/"
+      },
       {
         "title": "Here\u2019s Where Our Memories Go as We Age",
         "link": "https://nautil.us/heres-where-our-memories-go-as-we-age-1284123/"
@@ -273,10 +294,6 @@
       {
         "title": "Are You in Danger of Becoming a Robot?",
         "link": "https://nautil.us/are-you-in-danger-of-becoming-a-robot-1284114/"
-      },
-      {
-        "title": "A Peek Inside the Pompeii of Greece",
-        "link": "https://nautil.us/a-peek-inside-the-pompeii-of-greece-1284099/"
       }
     ],
     "worksinprogress": [],
