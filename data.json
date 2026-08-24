@@ -1,81 +1,64 @@
 {
-  "last_updated": "2026-08-24 09:39 UTC",
+  "last_updated": "2026-08-24 12:34 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Social media firms should remove dangerous driving videos, minister says",
+        "link": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
         "link": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Tesla recalls nearly three million cars in China over hidden door handles",
-        "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss"
+        "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
+        "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "'It's not Alton Towers' - rows break out over queuing at Wales' highest mountain",
         "link": "https://www.bbc.co.uk/news/articles/c1714xg2vr9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
-        "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Seville, Jefferson-Wooden roar to 100m wins at Silesia Diamond League",
-        "link": "https://www.aljazeera.com/sports/2026/8/24/seville-jefferson-wooden-roar-to-100m-wins-at-silesia-diamond-league?traffic_source=rss"
+        "title": "Activists occupy UK aircraft parts factory over Israel links",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/activists-occupy-uk-aircraft-parts-factory-over-israel-links?traffic_source=rss"
       },
       {
-        "title": "US threat of \u2018economic D-Day\u2019 for Iran tests Trump\u2019s China detente",
-        "link": "https://www.aljazeera.com/economy/2026/8/24/us-threat-of-economic-d-day-for-iran-tests-trumps-china-detente?traffic_source=rss"
+        "title": "Former NBA player Enes Kanter ejected after confrontation with WNBA\u2019s Cloud",
+        "link": "https://www.aljazeera.com/sports/2026/8/24/former-nba-player-enes-kanter-ejected-after-confrontation-with-wnbas-cloud?traffic_source=rss"
       },
       {
-        "title": "Mercedes no longer have the fastest car in F1, says leader Antonelli",
-        "link": "https://www.aljazeera.com/sports/2026/8/24/mercedes-no-longer-have-the-fastest-car-in-f1-says-leader-antonelli?traffic_source=rss"
+        "title": "Israel accused of using kites as pretext to justify escalating Gaza attacks",
+        "link": "https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss"
       },
       {
-        "title": "E1 settlement: Why Netanyahu, Israel\u2019s right might not mind global outrage",
-        "link": "https://www.aljazeera.com/news/2026/8/24/e1-settlement-why-netanyahu-israels-right-might-not-mind-global-outrage?traffic_source=rss"
+        "title": "Cambuur fans suffer burns as fireworks set off during Dutch league match",
+        "link": "https://www.aljazeera.com/sports/2026/8/24/cambuur-fans-suffer-burns-as-fireworks-set-off-during-dutch-league-match?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "FREE STREAM: Good Morning Transfers on Sky Sports News",
-        "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours"
+        "title": "Carabao Cup second round: Eleven PL teams are in - watch EVERY match live",
+        "link": "https://www.skysports.com/football/news/12040/13576598/carabao-cup-2026-27-watch-nottm-forest-vs-leeds-chelsea-vs-luton-tottenham-vs-charlton-and-more-with-every-game-live-on-sky-sports"
       },
       {
-        "title": "Could Balde be on his way to Man Utd?",
-        "link": "https://www.skysports.com/watch/video/13576530/paper-talk-could-alejandro-balde-be-on-his-way-to-man-utd"
+        "title": "Saints skipper Hastings gets three-game ban for punch",
+        "link": "https://www.skysports.com/rugby-league/news/12040/13576605/jackson-hastings-st-helens-captain-given-three-game-ban-for-violent-conduct-that-could-end-his-season"
       },
       {
-        "title": "Alvarez booed by Atletico fans amid Arsenal interest - so will he leave?",
-        "link": "https://www.skysports.com/football/news/12040/13576511/julian-alvarez-does-atletico-madrid-fans-booing-their-own-striker-increase-his-chances-of-an-arsenal-or-barcelona-move"
+        "title": "US Open build-up ahead of qualifying and mixed doubles week in New York",
+        "link": "https://www.skysports.com/tennis/live-blog/12040/13576448/us-open-tennis-news-draw-schedule-results-and-updates-from-flushing-meadows-in-new-york"
       },
       {
-        "title": "Premier League weekend reaction with Ref Watch to come LIVE!",
-        "link": "https://www.skysports.com/football/live-blog/12040/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions"
+        "title": "Why Celtic, Rangers, Hearts, Hibs, Motherwell face a\u00a0make-or-break week",
+        "link": "https://www.skysports.com/football/news/12040/13575298/celtic-guaranteed-european-football-can-rangers-hearts-hibs-and-motherwell-secure-conference-league-place"
       }
     ],
     "pitchfork": [],
     "quietus": [],
-    "aquariumdrunkard": [
-      {
-        "title": "Videodrome :: Lucky Three (1997)",
-        "link": "https://aquariumdrunkard.com/2026/08/21/videodrome-lucky-three-1997/"
-      },
-      {
-        "title": "Fruit Bats :: The Aquarium Drunkard Interview",
-        "link": "https://aquariumdrunkard.com/2026/08/21/fruit-bats-the-aquarium-drunkard-interview/"
-      },
-      {
-        "title": "National Park :: Outside",
-        "link": "https://aquariumdrunkard.com/2026/08/20/national-park-outside/"
-      },
-      {
-        "title": "Julia Holter :: Materia",
-        "link": "https://aquariumdrunkard.com/2026/08/20/julia-holter-materia/"
-      }
-    ],
+    "aquariumdrunkard": [],
     "bfi": [],
     "criterion": [],
     "rogerebert": [
@@ -171,38 +154,38 @@
     ],
     "variety": [
       {
-        "title": "California Attorney General Cancels Paramount Settlement Talks Over $111 Billion Warner Bros. Discovery Deal, Says He\u2019ll Meet When They \u2018Stop Playing Games\u2019",
-        "link": "https://variety.com/2026/film/global/california-ag-bonta-cancels-paramount-settlement-talks-1236841379/"
+        "title": "\u2018EastEnders\u2019 Puts Out Casting Call for Character Named Meghan After Duchess\u2019 U.K. Return: \u2018Confident, Gorgeous and Ready to Cause Chaos\u2019",
+        "link": "https://variety.com/2026/tv/global/eastenders-casting-call-meghan-duchess-1236841460/"
       },
       {
-        "title": "Venice Adds \u2018Naza,\u2019 Documentary From \u2018No Other Land\u2019 Directors Yuval Abraham and Rachel Szor, to Competition",
-        "link": "https://variety.com/2026/film/festivals/venice-naza-doc-no-other-land-directors-competition-1236841390/"
+        "title": "Toronto Midnight Madness Title \u2018Vintage Violence,\u2019 Starring Cole Sprouse and Kiko Mizuhara, Boarded by Best Friend Forever (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/global/toronto-midnight-madness-vintage-violence-best-friend-forever-1236841445/"
       },
       {
-        "title": "Alia Bhatt\u2019s Young-Adult Rom-Com \u2018Don\u2019t Be Shy\u2019 Sets September Prime Video Premiere (EXCLUSIVE)",
-        "link": "https://variety.com/2026/tv/news/alia-bhatt-dont-be-shy-prime-video-premiere-date-1236841347/"
+        "title": "Vietnamese Found-Footage Horror Hit \u2018Lau Chu Hoa: The Deadliest Mansion\u2019 Heads to North American Theaters (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/news/lau-chu-hoa-deadliest-mansion-north-america-release-1236841428/"
       },
       {
-        "title": "\u2018An Oak Tree\u2019 Casts Sacha Dhawan, Gemma Whelan for London Run (EXCLUSIVE)",
-        "link": "https://variety.com/2026/theater/news/an-oak-tree-cast-sacha-dhawan-gemma-whelan-other-palace-1236841365/"
+        "title": "Brad Pitt\u2019s \u2018Heart of the Beast\u2019 Added to San Sebasti\u00e1n Lineup",
+        "link": "https://variety.com/2026/film/global/brad-pitt-heart-of-the-beast-paramount-san-sebastian-1236841422/"
       }
     ],
     "hollywoodreporter": [
       {
+        "title": "AEG, Archer Aviation Unveil Plans for Air Taxis at L.A. Live",
+        "link": "https://www.hollywoodreporter.com/business/business-news/aeg-air-taxis-downtown-los-angeles-archer-aviation-1236678603/"
+      },
+      {
+        "title": "Brad Pitt to Return to San Sebastian Film Festival With David Ayer\u2019s \u2018Heart of the Beast\u2019",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/brad-pitt-san-sebastian-film-david-ayer-heart-of-the-beast-1236679572/"
+      },
+      {
+        "title": "Venice Adds Gaza Doc \u2018Naza\u2019 to Competition",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/venice-adds-gaza-doc-naza-to-competition-line-up-1236679565/"
+      },
+      {
         "title": "Meet Tuide, Your New Favorite Girl Group (Exclusive)",
         "link": "https://www.hollywoodreporter.com/music/music-features/tuide-hybe-kpop-new-girl-group-interview-1236679453/"
-      },
-      {
-        "title": "\u2018I Plant My Hand in the Garden\u2019 Blurs the Line Between Autobiography and Fiction to Explore Identity and Family (Exclusive Venice Trailer)",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/i-plant-my-hand-in-the-garden-film-trailer-2026-venice-days-1236676841/"
-      },
-      {
-        "title": "Busan Film Festival Sets 23 Titles for Vision Korea, Vision Asia Sections",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/busan-film-festival-2026-vision-korea-vision-asia-sections-1236679526/"
-      },
-      {
-        "title": "John Oliver Takes a Close Look at Sean Duffy\u2019s \u201cGod-Awful\u201d New Reality Show: \u201cWe\u2019ve All Been Taken for a F***ing Ride\u201d",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/last-week-tonight-john-oliver-sean-duffy-reality-show-1236679486/"
       }
     ],
     "larb": [],
@@ -280,6 +263,10 @@
     ],
     "nautilus": [
       {
+        "title": "Here\u2019s Where Our Memories Go as We Age",
+        "link": "https://nautil.us/heres-where-our-memories-go-as-we-age-1284123/"
+      },
+      {
         "title": "The Remarkable Lives of 5-Year-Old Brain Organoids",
         "link": "https://nautil.us/the-remarkable-lives-of-5-year-old-brain-organoids-1284120/"
       },
@@ -290,10 +277,6 @@
       {
         "title": "A Peek Inside the Pompeii of Greece",
         "link": "https://nautil.us/a-peek-inside-the-pompeii-of-greece-1284099/"
-      },
-      {
-        "title": "Dolphins Eavesdrop on Their Prey\u2014and Each Other",
-        "link": "https://nautil.us/dolphins-eavesdrop-on-their-prey-and-each-other-1284095/"
       }
     ],
     "worksinprogress": [],
