@@ -1,64 +1,68 @@
 {
-  "last_updated": "2026-08-24 15:32 UTC",
+  "last_updated": "2026-08-24 18:29 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Organised crime arrests as police investigate A66 crash that killed two officers",
+        "link": "https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How the deadly A66 crash unfolded leaving seven dead",
+        "link": "https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
         "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "UK missiles offer may help Ukraine - but they are not what Zelensky needs most",
-        "link": "https://www.bbc.co.uk/news/articles/cy8zxqn57z3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
-        "link": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Snooker champion Graeme Dott guilty of child sex abuse",
-        "link": "https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss"
+        "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
+        "link": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Samuel Eto\u2019o urges support for embattled FIFA President Gianni Infantino",
-        "link": "https://www.aljazeera.com/sports/2026/8/24/samuel-etoo-urges-support-for-embattled-fifa-president-gianni-infantino?traffic_source=rss"
+        "title": "Kidnappers release video showing hundreds abducted from Nigerian mosque",
+        "link": "https://www.aljazeera.com/news/2026/8/24/kidnappers-release-video-showing-hundreds-abducted-from-nigerian-mosque?traffic_source=rss"
       },
       {
-        "title": "Why Israeli settler attacks on Palestinians in West Bank are pogroms",
-        "link": "https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms?traffic_source=rss"
+        "title": "Trump administration announces global economic war on Iran",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2?traffic_source=rss"
       },
       {
-        "title": "Houses set on fire as fresh violence erupts in India\u2019s Manipur",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss"
+        "title": "Japanese delegation seeks to soothe strained ties with China",
+        "link": "https://www.aljazeera.com/news/2026/8/24/japanese-delegation-seeks-to-soothe-strained-ties-with-china?traffic_source=rss"
       },
       {
-        "title": "Algeria\u2019s schools put Shakespeare before Moli\u00e8re in break from France",
-        "link": "https://www.aljazeera.com/features/2026/8/24/algerias-schools-put-shakespeare-before-molire-in-break-from-france?traffic_source=rss"
+        "title": "Trump administration announces \u2018economic D-day\u2019 sanctions on Iran",
+        "link": "https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "England's Carse unavailable for Lord's Test after nightclub incident",
-        "link": "https://www.skysports.com/cricket/news/12040/13576549/brydon-carse-to-miss-englands-second-test-vs-pakistan-as-cricket-regulator-conducts-investigation-into-nightclub-incident"
+        "title": "Brighton latest: Seagulls work on Hadjam deal and exploring Hernandez move ",
+        "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
       },
       {
-        "title": "Former world snooker champion Dott found guilty of child sex abuse",
-        "link": "https://www.skysports.com/snooker/news/12040/13576651/graeme-dott-former-world-snooker-champion-found-guilty-of-child-sex-abuse"
+        "title": "Brentford latest: 'Excellent' Wilson will play against Birmingham, Andrews confirms",
+        "link": "https://www.skysports.com/football/live-blog/12040/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
       },
       {
-        "title": "What has gone wrong for Pakistan cricket with 'alarm bells ringing'?",
-        "link": "https://www.skysports.com/cricket/news/12040/13576617/what-has-gone-wrong-for-pakistan-cricket-woes-assessed-after-defeat-to-england-in-first-test-at-headingley"
+        "title": "'We haven't got the money' - Wolff says Mercedes can't match rivals' upgrade rate",
+        "link": "https://www.skysports.com/f1/news/12040/13576677/toto-wolff-says-mercedes-havent-got-the-money-to-match-mclaren-ferraris-current-upgrade-rate-amid-f1-title-battle"
       },
       {
-        "title": "Is Norris now Antonelli's biggest title threat?",
-        "link": "https://www.skysports.com/f1/news/12040/13576565/lando-norris-is-mclaren-driver-now-kimi-antonellis-biggest-threat-for-2026-f1-world-title-after-dutch-gp-win"
+        "title": "Fernandez on bench, Caicedo missing in surprise Chelsea line-up at Fulham LIVE!",
+        "link": "https://www.skysports.com/football/fulham-vs-chelsea/live/559453"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "Cornelius :: Refractions",
+        "link": "https://aquariumdrunkard.com/2026/08/24/cornelius-refractions/"
+      },
       {
         "title": "The Lagniappe Sessions :: Lau Ro",
         "link": "https://aquariumdrunkard.com/2026/08/24/the-lagniappe-sessions-lau-ro/"
@@ -70,10 +74,6 @@
       {
         "title": "Videodrome :: Lucky Three (1997)",
         "link": "https://aquariumdrunkard.com/2026/08/21/videodrome-lucky-three-1997/"
-      },
-      {
-        "title": "Fruit Bats :: The Aquarium Drunkard Interview",
-        "link": "https://aquariumdrunkard.com/2026/08/21/fruit-bats-the-aquarium-drunkard-interview/"
       }
     ],
     "bfi": [],
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "Indie Star Joe Swanberg Never Really Left \u2014 but He\u2019s Definitely Back Now",
+        "link": "https://www.indiewire.com/features/interviews/joe-swanberg-interview-the-sun-never-sets-1235184785/"
+      },
+      {
         "title": "\u2018Call My Agent\u2019 Is Getting Its First Movie \u2014 Can the Beloved French Farce Delight Fans New and Old?",
         "link": "https://www.indiewire.com/news/trailers/call-my-agent-the-movie-trailer-1235212480/"
       },
@@ -163,46 +167,42 @@
       {
         "title": "\u2018Buddy\u2019 Review: Casper Kelly\u2019s Bloodthirsty Riff on \u2018Barney\u2019 Is the First Great Midnight Movie of 2026",
         "link": "https://www.indiewire.com/criticism/movies/buddy-review-casper-kelly-sundance-1235174700/"
-      },
-      {
-        "title": "Cannes 2026 Movies Sold: Javier Bardem-Starrer \u2018The Beloved\u2019 Goes to Kino Lorber",
-        "link": "https://www.indiewire.com/news/festivals/cannes-2026-movies-sold-so-far-paper-tiger-minotaur-1235191174/"
       }
     ],
     "variety": [
       {
-        "title": "Rosie O\u2019Donnell Should Host Her Own Show on Late Night TV \u2014 and Shatter Comedy\u2019s Greatest Glass Ceiling",
-        "link": "https://variety.com/2026/tv/columns/rosie-odonnell-late-night-show-trump-rival-1236841131/"
+        "title": "Disney and NFL Team Up on Apparel Collection, Pairing Each of the League\u2019s 32 Teams With Beloved Franchise Characters",
+        "link": "https://variety.com/2026/shopping/news/disney-nfl-team-apparel-collection-shop-online-1236841749/"
       },
       {
-        "title": "Orlando Bloom to Be Honored During Venice Film Festival With Filming Italy Award",
-        "link": "https://variety.com/2026/film/global/orlando-bloom-honored-venice-film-festival-1236841484/"
+        "title": "Disney Offers Executives Voluntary Early Retirement Packages Amid Overall Cost-Cutting Plans",
+        "link": "https://variety.com/2026/tv/news/disney-offers-execs-voluntary-retirement-packages-1236841676/"
       },
       {
-        "title": "\u2018The Gentlemen\u2019 Officially Renewed for Season 3 as First Season 2 Trailer Drops: \u2018I\u2019m Looking Forward to Pushing the Boundaries Further,\u2019 Guy Ritchie Says (EXCLUSIVE)",
-        "link": "https://variety.com/2026/tv/global/the-gentlemen-season-3-greenlight-1236841374/"
+        "title": "Former Child Star Raquel Lee Sues Disney Over Alleged Rape at 14 by Ex-Employee",
+        "link": "https://variety.com/2026/film/news/child-star-raquel-lee-sues-disney-1236841598/"
       },
       {
-        "title": "\u2018Black Mirror\u2019 Season 8 Starts Production as Netflix Renews \u2018Being Gordon Ramsay\u2019 and \u2018Legends\u2019 (EXCLUSIVE)",
-        "link": "https://variety.com/2026/tv/global/netflix-black-mirror-season-8-legends-gordon-ramsay-1236841382/"
+        "title": "Paramount Says It Did Not Leak Discussions With California\u2019s Attorney General to the Press",
+        "link": "https://variety.com/2026/film/news/paramount-leak-discussions-california-attorney-general-1236841669/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "R.J. Kizer, Sound Editor and ADR Expert, Dies at 73",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/rj-kizer-dead-master-commander-sound-editor-adr-expert-1236679674/"
+        "title": "YouTube Changes How It Counts Views \u2014\u00a0But Not What Actually Counts",
+        "link": "https://www.hollywoodreporter.com/business/business-news/youtube-changes-public-view-counts-1236679708/"
       },
       {
-        "title": "Sara Bareilles Isn\u2019t Afraid To Show The Messy Side of Grief\u00a0",
-        "link": "https://www.hollywoodreporter.com/music/music-features/sara-bareilles-isnt-afraid-to-show-the-messy-side-of-grief-1236678548/"
+        "title": "Brian Kavanaugh-Jones Joins \u2018Backrooms\u2019 Producer Oddfellows as Partner, Co-President",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/brian-kavanaugh-jones-oddfellows-1236679901/"
       },
       {
-        "title": "Kate O\u2019Flynn Broke Out in \u2018Widow\u2019s Bay.\u2019 Just Wait Until Mike Leigh\u2019s Final Film",
-        "link": "https://www.hollywoodreporter.com/movies/movie-features/kate-oflynn-mike-leigh-tender-loving-care-exclusive-1236678784/"
+        "title": "\u2018Buzzkill\u2019: Horror-Comedy Starring Siena Agudong, Brec Bassinger Sets Fall Release (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/buzzkill-siena-agudong-brec-bassinger-release-horror-comedy-1236679390/"
       },
       {
-        "title": "\u2018The Gentlemen\u2019 Lands Season 3 Renewal Amid Meghan Markle Casting Rumors",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-season-3-the-gentlemen-meghan-markle-trailer-show-1236679653/"
+        "title": "\u2018Spider-Man: Brand New Day\u2019 Box Office Set to Sink \u2018Titanic\u2019 From All-Time Top 5",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-titanic-all-time-1236679792/"
       }
     ],
     "larb": [],
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "Babies Born Under Sugar Rationing Grew Into Adults with Lower Cancer Risk",
+        "link": "https://nautil.us/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-1284136/"
+      },
+      {
         "title": "New Species of Groundsnake Named After Guns N\u2019 Roses Guitarist and Noted Herpephile Slash",
         "link": "https://nautil.us/new-species-of-groundsnake-named-after-guns-n-roses-guitarist-and-noted-herpephile-slash-1284130/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "The Remarkable Lives of 5-Year-Old Brain Organoids",
         "link": "https://nautil.us/the-remarkable-lives-of-5-year-old-brain-organoids-1284120/"
-      },
-      {
-        "title": "Are You in Danger of Becoming a Robot?",
-        "link": "https://nautil.us/are-you-in-danger-of-becoming-a-robot-1284114/"
       }
     ],
     "worksinprogress": [],
