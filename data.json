@@ -1,64 +1,68 @@
 {
-  "last_updated": "2026-08-25 15:35 UTC",
+  "last_updated": "2026-08-25 18:28 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Dolly Parton: The country legend who sang from the heart",
+        "link": "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Father's house rammed before son died in A66 crash",
         "link": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-        "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss"
+        "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+        "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Trump may hope an 'economic onslaught' will pressure Iran - its leaders are betting otherwise",
-        "link": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Man dies in crash after police pursuit",
-        "link": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss"
+        "title": "Trump says all mines cleared from Strait of Hormuz",
+        "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Qatar says US sanctions on Iran are unilateral",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss"
+        "title": "Fatah, Dahlan bloc hold reconciliation talks ahead of Palestinian elections",
+        "link": "https://www.aljazeera.com/news/2026/8/25/fatah-dahlan-bloc-hold-reconciliation-talks-ahead-of-palestinian-elections?traffic_source=rss"
       },
       {
-        "title": "US launches Economic war on Iran",
-        "link": "https://www.aljazeera.com/videos/newsfeed/2026/8/25/us-launches-economic-war-on-iran?traffic_source=rss"
+        "title": "Spain requests emergency funding from the EU over Ceuta migrants",
+        "link": "https://www.aljazeera.com/news/2026/8/25/spain-requests-emergency-funding-from-the-eu-over-ceuta-migrants?traffic_source=rss"
       },
       {
-        "title": "One year since Gaza journalist killed by Israel",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/one-year-since-gaza-journalist-killed-by-israel?traffic_source=rss"
+        "title": "Most US Democrats in early 2028 primary states oppose aid to Israel: Poll",
+        "link": "https://www.aljazeera.com/news/2026/8/25/most-us-democrats-in-early-2028-primary-states-oppose-aid-to-israel-poll?traffic_source=rss"
       },
       {
-        "title": "No, the Democratic Party is not shifting on Israel",
-        "link": "https://www.aljazeera.com/opinions/2026/8/25/no-the-democratic-party-is-not-shifting-on-israel?traffic_source=rss"
+        "title": "Canada hits US with counter-tariffs on more than 700 products",
+        "link": "https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Your Views: What should Liverpool do with Wirtz?",
-        "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "title": "Celtic unchanged vs LASK as they target place in Thursday's CL draw LIVE!",
+        "link": "https://www.skysports.com/football/linz-ask-vs-celtic/live/577269"
       },
       {
-        "title": "Warren thinks Fury-AJ fight will go ahead in America",
-        "link": "https://www.skysports.com/boxing/news/12040/13576995/tyson-fury-fight-with-anthony-joshua-will-go-ahead-in-2026-in-america-predicts-promoter-frank-warren"
+        "title": "Alvarez left with two options: Atletico or Arsenal",
+        "link": "https://www.skysports.com/football/news/12040/13576975/julian-alvarez-transfer-latest-atletico-standing-firm-on-barcelona-as-arsenal-become-only-get-out-for-argentine-striker"
       },
       {
-        "title": "What is the reality of Villa's finances ahead of Deadline Day?",
-        "link": "https://www.skysports.com/football/news/12040/13576967/aston-villa-the-reality-of-the-finances-available-to-unai-emery-at-villa-park-following-a-summer-of-upheaval"
+        "title": "Carabao Cup round two LIVE!",
+        "link": "https://www.skysports.com/football/ipswich-town-vs-leicester-city/live/577431"
       },
       {
-        "title": "FREE STREAM: The Transfer Show on Sky Sports News",
-        "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours"
+        "title": "Liverpool hold fresh Barcola talks with PSG ",
+        "link": "https://www.skysports.com/football/news/12040/13567087/bradley-barcola-transfer-news-liverpool-hold-positive-talks-with-optimism-deal-can-be-done-with-psg-for-france-international"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "Giraffe :: The Towering Inferno With Bongo Drums",
+        "link": "https://aquariumdrunkard.com/2026/08/25/giraffe-the-towering-inferno-with-bongo-drums/"
+      },
       {
         "title": "Ned Collette :: Mixed Light",
         "link": "https://aquariumdrunkard.com/2026/08/25/ned-collette-mixed-light/"
@@ -70,10 +74,6 @@
       {
         "title": "The Lagniappe Sessions :: Lau Ro",
         "link": "https://aquariumdrunkard.com/2026/08/24/the-lagniappe-sessions-lau-ro/"
-      },
-      {
-        "title": "John Foxx & Harold Budd :: Translucence + Drift Music",
-        "link": "https://aquariumdrunkard.com/2026/08/24/john-foxx-harold-budd-translucence-drift-music/"
       }
     ],
     "bfi": [],
@@ -153,56 +153,39 @@
     ],
     "indiewire": [
       {
-        "title": "\u2018Ali G: Who Iz I?\u2019 Trailer: Sacha Baron Cohen Resurrects His Original Man-on-the-Street Character",
-        "link": "https://www.indiewire.com/news/trailers/ali-g-who-iz-i-trailer-sacha-baron-cohen-1235212578/"
+        "title": "\u2018Boorman and the Devil\u2019 Review: This Deep Dive Into How \u2018Exorcist II: The Heretic\u2019 Spiraled Out of Control Deserves a Wide Release",
+        "link": "https://www.indiewire.com/criticism/movies/boorman-and-the-devil-review-1235157516/"
       },
       {
-        "title": "\u2018I Love Lucy\u2019 to Receive Television Academy\u2019s First Ever Legacy Award",
-        "link": "https://www.indiewire.com/awards/results/i-love-lucy-legacy-award-television-academy-1235212596/"
+        "title": "\u2018NAZA\u2019 Documentary from \u2018No Other Land\u2019 Directors Yuval Abraham and Rachel Szor Sets North American Premiere at NYFF",
+        "link": "https://www.indiewire.com/news/festivals/naza-gaza-documentary-nyff-lineup-1235212622/"
       },
       {
-        "title": "Sumerian Pictures Acquires North American Rights to \u2018Butthole Surfers: The Hole Truth and Nothing Butt\u2019",
-        "link": "https://www.indiewire.com/news/business/sumerian-pictures-buys-butthole-surfers-documentary-1235212555/"
+        "title": "Modern Hollywood Keeps Failing Looney Tunes. Will \u2018Coyote vs. Acme\u2019 Finally Get It Right?",
+        "link": "https://www.indiewire.com/features/commentary/looney-tunes-movie-history-analysis-1235212162/"
       },
       {
-        "title": "New York City\u2019s East Side Will Lose Yet Another Movie Theater with Imminent Closure of AMC Kips Bay",
-        "link": "https://www.indiewire.com/news/business/new-york-city-amc-kips-bay-close-end-2026-1235212505/"
+        "title": "Universal Film, Focus Features Extend Partnership with Sundance Institute to Support Rising Filmmakers",
+        "link": "https://www.indiewire.com/news/festivals/universal-film-focus-features-sundance-institute-fellowship-extended-1235212543/"
       }
     ],
-    "variety": [
-      {
-        "title": "OnlyFans Millionaires: Site Says 5,076 Creators Have Earned More Than $1 Million to Date",
-        "link": "https://variety.com/2026/digital/news/onlyfans-millionaires-creators-earned-more-than-1-million-1236842444/"
-      },
-      {
-        "title": "Seth Rogen, Helen Mirren and Cinematographer Adam Pietkiewicz Added to TIFF Tribute Awards Honorees",
-        "link": "https://variety.com/2026/artisans/news/helen-mirren-seth-rogen-adam-pietkiewicz-tiff-honorees-1236842392/"
-      },
-      {
-        "title": "New York Times Awards Columnist Kyle Buchanan Exits Paper to Launch Podcast Series (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/columns/new-york-times-kyle-buchanan-exits-paper-podcast-series-1236842449/"
-      },
-      {
-        "title": "Series Entertainment Brings Vibe-Gaming to Life With \u2018RUN,\u2019\u00a0an AI-Based Platform to Create Games and Shows (EXCLUSIVE)",
-        "link": "https://variety.com/2026/gaming/news/series-entertainment-vibe-gaming-run-ai-platform-1236842425/"
-      }
-    ],
+    "variety": [],
     "hollywoodreporter": [
       {
-        "title": "Mindy Kaling and \u2018Not Suitable for Work\u2019 Cast React to Cancellation: \u201cI Loved Making This Show\u201d",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/mindy-kaling-not-suitable-for-work-cast-react-cancellation-1236680652/"
+        "title": "\u2018Spider-Man: Brand New Day\u2019 Hits No. 2 on All-Time Domestic Chart, Topping \u2018Avengers: Endgame\u2019",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-avengers-endgame-1236680843/"
       },
       {
-        "title": "\u201930 Rock\u2019 Cast to Reunite for Live Benefit Show",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/30-rock-live-reunion-radio-city-1236680646/"
+        "title": "Kyle Buchanan Exits The New York Times, Set to Launch Video Podcast With Acast",
+        "link": "https://www.hollywoodreporter.com/news/general-news/kyle-buchanan-new-york-times-video-podcast-acast-1236680832/"
       },
       {
-        "title": "Eater Bringing Tentpole Event Off Menu to Los Angeles (Exclusive)",
-        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/eater-off-menu-los-angeles-tickets-1236679937/"
+        "title": "Rhea Seehorn on Failed Auditions, \u201cLikability\u201d and Finally Topping a Call Sheet With \u2018Pluribus\u2019",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/rhea-seehorn-failed-auditions-pluribus-awards-chatter-1236680340/"
       },
       {
-        "title": "TCM Classic Film Festival Sets Dates for 2027 Edition",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/tcm-classic-film-festival-2027-edition-1236680201/"
+        "title": "Hamptons Film Fest Sets \u2018I Play Rocky\u2019 for Opening Night, Will Honor Phil Lord and Chris Miller (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/2026-hamptons-film-fest-phil-lord-chris-miller-awards-1236680880/"
       }
     ],
     "larb": [],
@@ -280,24 +263,28 @@
     ],
     "nautilus": [
       {
+        "title": "20 Minutes of Exercise Is as Good as a 90-Minute Nap If You\u2019re Sleep Deprived",
+        "link": "https://nautil.us/20-minutes-of-exercise-is-as-good-as-a-90-minute-nap-if-youre-sleep-deprived-1284348/"
+      },
+      {
+        "title": "This \u201cOne-in-a-Million\u201d Fossil Has 450-Million-Year-Old Soft Tissue",
+        "link": "https://nautil.us/this-one-in-a-million-fossil-has-450-million-year-old-soft-tissue-1284340/"
+      },
+      {
         "title": "The Resistance Is Here",
         "link": "https://nautil.us/the-resistance-is-here-1283887/"
       },
       {
         "title": "Small Iguanodon Fossil Sheds Light on Dino Diversity",
         "link": "https://nautil.us/small-iguanodon-fossil-sheds-light-on-dino-diversity-1284182/"
-      },
-      {
-        "title": "Five Images, Six Decades: Capturing the Iconic \u201cEarthrise\u201d Photo",
-        "link": "https://nautil.us/five-images-six-decades-capturing-the-iconic-earthrise-photo-1284171/"
-      },
-      {
-        "title": "Doctors May Ignore Your Messages If They\u2019re Not Well-Written",
-        "link": "https://nautil.us/doctors-may-ignore-your-messages-if-theyre-not-well-written-1284166/"
       }
     ],
     "worksinprogress": [],
     "noema": [
+      {
+        "title": "When The AI Says To Kill",
+        "link": "https://www.noemamag.com/when-the-ai-says-to-kill"
+      },
       {
         "title": "Introducing Noema Issue VII: The Next Axial Age",
         "link": "https://www.noemamag.com/introducing-noema-issue-vii-the-next-axial-age"
@@ -309,10 +296,6 @@
       {
         "title": "The Nature Of Free Will In The Age Of AI",
         "link": "https://www.noemamag.com/the-nature-of-free-will-in-the-age-of-ai"
-      },
-      {
-        "title": "The Tantalizing Possibility Of Locating Consciousness In The Brain",
-        "link": "https://www.noemamag.com/the-tantalizing-possibility-of-locating-consciousness-in-the-brain"
       }
     ]
   }
