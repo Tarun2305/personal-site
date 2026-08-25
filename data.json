@@ -1,64 +1,68 @@
 {
-  "last_updated": "2026-08-25 09:28 UTC",
+  "last_updated": "2026-08-25 12:33 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-        "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
+        "title": "China warns it will protect its interests after US widens sanctions against Iran",
+        "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
-        "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss"
+        "title": "Man dies in crash after police pursuit",
+        "link": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Lockerbie bombing trial postponed days before it was due to start",
-        "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss"
+        "title": "Yellow weather warnings issued as thunderstorms and flooding forecast",
+        "link": "https://www.bbc.co.uk/weather/articles/c770lyg4318o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
-        "link": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss"
+        "title": "Young people leaving care have death rate four times higher than national average",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zn4p9019o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "\u2018Enough is enough\u2019: Kenya nurses strike over pay and working conditions",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions?traffic_source=rss"
+        "title": "Russia mobilisation fears grow amid reports of intimidating tactics",
+        "link": "https://www.aljazeera.com/news/2026/8/25/russia-mobilisation-fears-grow-amid-reports-of-intimidating-tactics?traffic_source=rss"
       },
       {
-        "title": "Nvidia, Supermicro employees charged over export of AI servers to China",
-        "link": "https://www.aljazeera.com/economy/2026/8/25/nvidia-supermicro-employees-charged-over-export-of-ai-servers-to-china?traffic_source=rss"
+        "title": "Palestine weekly: After Kushner departs, Israel escalates Gaza attacks",
+        "link": "https://www.aljazeera.com/news/2026/8/25/palestine-weekly-after-kushner-departs-israel-escalates-gaza-attacks?traffic_source=rss"
       },
       {
-        "title": "Pakistan says significant progress made in talks on Iran-US war",
-        "link": "https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss"
+        "title": "Why Rohingya refugees are protesting in Cox\u2019s Bazar, 9 years after genocide",
+        "link": "https://www.aljazeera.com/news/2026/8/25/why-rohingya-refugees-are-protesting-in-coxs-bazar-9-years-after-genocide?traffic_source=rss"
       },
       {
-        "title": "Rohingya refugees protest, nine years after exodus to Bangladesh",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/rohingya-refugees-protest-nine-years-after-exodus-to-bangladesh?traffic_source=rss"
+        "title": "How the US sanctions on Iran impact China",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/how-the-us-sanctions-on-iran-impact-china?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Baumgardner to face undefeated Turhan as blockbuster Dubois showdown nears",
+        "link": "https://www.skysports.com/boxing/news/12040/13576723/alycia-baumgardner-to-step-up-to-caroline-dubois-division-and-fight-elif-nur-turhan-for-ibf-world-title"
+      },
+      {
+        "title": "Littler and Van Gerwen to headline World Series of Darts Finals",
+        "link": "https://www.skysports.com/darts/news/12040/13576932/world-series-of-darts-finals-luke-littler-and-michael-van-gerwen-to-headline-450k-event-as-full-32-player-field-confirmed"
+      },
+      {
+        "title": "'Not the best version of me' - Hamilton regrets frustrated Dutch GP comments",
+        "link": "https://www.skysports.com/f1/news/12040/13576896/lewis-hamilton-ferrari-driver-takes-responsibility-for-frustrated-radio-and-media-comments-at-dutch-gp"
+      },
+      {
         "title": "Leeds and Rangers co-owner York arrested",
         "link": "https://www.skysports.com/football/news/12040/13576878/leeds-and-rangers-co-owner-jed-york-arrested-in-ohio-and-pleads-no-contest-to-misdemeanour-charges-of-disorderly-conduct-and-possessing-criminal-tools"
-      },
-      {
-        "title": "NRL to allow Arrow to reach Rabbitohs century after MND retirement",
-        "link": "https://www.skysports.com/rugby-league/news/12040/13576877/jai-arrow-granted-special-dispensation-to-reach-south-sydney-rabbitohs-century-after-mnd-retirement"
-      },
-      {
-        "title": "FREE STREAM: Good Morning Transfers on Sky Sports News",
-        "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours"
-      },
-      {
-        "title": "Spurs sign Savio from Man City in \u00a385m deal",
-        "link": "https://www.skysports.com/football/news/12040/13575398/savio-transfer-news-tottenham-sign-winger-from-manchester-city-in-85m-deal"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "Ned Collette :: Mixed Light",
+        "link": "https://aquariumdrunkard.com/2026/08/25/ned-collette-mixed-light/"
+      },
       {
         "title": "Cornelius :: Refractions",
         "link": "https://aquariumdrunkard.com/2026/08/24/cornelius-refractions/"
@@ -70,10 +74,6 @@
       {
         "title": "John Foxx & Harold Budd :: Translucence + Drift Music",
         "link": "https://aquariumdrunkard.com/2026/08/24/john-foxx-harold-budd-translucence-drift-music/"
-      },
-      {
-        "title": "Videodrome :: Lucky Three (1997)",
-        "link": "https://aquariumdrunkard.com/2026/08/21/videodrome-lucky-three-1997/"
       }
     ],
     "bfi": [],
@@ -171,38 +171,38 @@
     ],
     "variety": [
       {
-        "title": "Oscars: South Korea Selects Lee Chang-dong\u2019s \u2018Possible Love\u2019 for International Feature Race",
-        "link": "https://variety.com/2026/film/awards/oscars-south-korea-selects-lee-chang-dong-possible-love-1236842244/"
+        "title": "Martin Scorsese Appointed Honorary President of Italy\u2019s David di Donatello Academy",
+        "link": "https://variety.com/2026/film/global/martin-scorsese-honorary-president-italy-david-academy-1236842275/"
       },
       {
-        "title": "\u2018Pride\u2019 Musical to Transfer to Bridge Theatre From November; Director Says Bigger Venue Means the \u2018Comedy Will Really Benefit From More People Watching\u2019",
-        "link": "https://variety.com/2026/theater/news/pride-musical-bridge-theatre-transfer-november-1236841452/"
+        "title": "Oscars: Belgium Selects Lukas Dhont\u2019s Cannes Prizewinning \u2018Coward\u2019 for International Feature Race",
+        "link": "https://variety.com/2026/film/global/oscars-belgium-lukas-dhont-cannes-coward-international-race-1236842322/"
       },
       {
-        "title": "CGI Animated Movie \u2018Juul,\u2019 Featuring Lenny Henry, Joins Studio 100 Film\u2019s Toronto Sales Slate (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/global/juul-lenny-henry-studio-100-films-toronto-1236842219/"
+        "title": "George Clooney, Maggie Gyllenhaal, Alexandre Desplat and More Set for Finch & Partners and CAA\u2019s \u2018Future of Creativity\u2019 Forum in Venice",
+        "link": "https://variety.com/2026/film/festivals/george-clooney-maggie-gyllenhaal-caa-creativity-forum-venice-1236839824/"
       },
       {
-        "title": "Liza Soberano Joins Jury for Golden Globes Impact Prize for Documentary, Presented During Venice Film Festival (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/global/liza-soberano-jury-golden-globes-documentary-prize-1236842187/"
+        "title": "Hannah Einbinder Defends Mark Ruffalo After Paramount Calls His Merger Attack \u2018Antisemitic\u2019: \u2018Those of Us With a Platform Need to Use Our Voices\u2019",
+        "link": "https://variety.com/2026/film/news/hannah-einbinder-defends-mark-ruffalo-paramount-antisemitism-claim-1236842292/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Ridley Scott\u2019s \u2018The Dog Stars\u2019: First Reactions",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/ridley-scott-the-dog-stars-first-reactions-jacob-elordi-1236680464/"
+        "title": "Oscars: Belgium Picks Lukas Dhont\u2019s \u2018Coward\u2019 as Best Int\u2019l Feature Submission",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/oscars-2027-belgium-picks-lukas-dhont-coward-1236680548/"
       },
       {
-        "title": "Hilary Strong Steps Down as CEO of John Gore Studios",
-        "link": "https://www.hollywoodreporter.com/business/business-news/john-gore-studios-ceo-hilary-strong-exit-1236680466/"
+        "title": "Disney\u2019s Lavish K-Drama \u2018The Remarried Empress\u2019 Sets Busan Premiere Ahead of Streaming Launch",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/disney-k-drama-the-remarried-empress-busan-premiere-november-streaming-launch-1236680520/"
       },
       {
-        "title": "Meet Mestiza, the Female Duo From Spain Mixing Flamenco and Electronic Music",
-        "link": "https://www.hollywoodreporter.com/music/music-industry-news/mestiza-female-music-duo-spain-mixing-flamenco-electronic-1236678370/"
+        "title": "Hannah Einbinder Defends Mark Ruffalo From Paramount \u201cAntisemitism\u201d Claim: \u201cAll of Us Artists Could Stand to Be More Like Mark\u201d",
+        "link": "https://www.hollywoodreporter.com/news/politics-news/hannah-einbinder-mark-ruffalo-paramount-david-ellison-gaza-1236680505/"
       },
       {
-        "title": "Dominic Monaghan to Join \u2018Lord of the Rings\u2019 25th Anniversary Reunion With Elijah Wood, More at CCXP",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/lord-of-the-rings-dominic-monaghan-elijah-wood-ccxp-1236680442/"
+        "title": "Anthony Boyle, Connor Swindells to Star in \u201cSeducer-for-Hire\u201d Sky Drama Series \u2018Charmer\u2019",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/sky-anthony-boyle-connor-swindells-show-charmer-anti-romcom-1236679704/"
       }
     ],
     "larb": [],
@@ -238,8 +238,8 @@
         "link": "https://psyche.co/ideas/arabic-has-four-words-for-sadness-philosophy-explains-why"
       },
       {
-        "title": "Glass eggs",
-        "link": "https://psyche.co/turning-points/the-grief-and-fragile-hope-of-deciding-to-freeze-my-eggs"
+        "title": "Don\u2019t let nature slip out of reach",
+        "link": "https://psyche.co/notes-to-self/its-not-too-late-to-strengthen-your-ties-to-nature"
       }
     ],
     "publicdomainreview": [
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "Small Iguanodon Fossil Sheds Light on Dino Diversity",
+        "link": "https://nautil.us/small-iguanodon-fossil-sheds-light-on-dino-diversity-1284182/"
+      },
+      {
         "title": "Five Images, Six Decades: Capturing the Iconic \u201cEarthrise\u201d Photo",
         "link": "https://nautil.us/five-images-six-decades-capturing-the-iconic-earthrise-photo-1284171/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "This Cookie Was a Plastic Bottle",
         "link": "https://nautil.us/this-cookie-was-a-plastic-bottle-1284161/"
-      },
-      {
-        "title": "Babies Born Under Sugar Rationing Grew Into Adults with Lower Cancer Risk",
-        "link": "https://nautil.us/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-1284136/"
       }
     ],
     "worksinprogress": [],
