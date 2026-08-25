@@ -1,7 +1,11 @@
 {
-  "last_updated": "2026-08-25 00:52 UTC",
+  "last_updated": "2026-08-25 03:41 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "More than 70,000 social and affordable homes to be built across England as part of \u00a339bn plan ",
+        "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Organised crime arrests as police investigate A66 crash that killed two officers",
         "link": "https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss"
@@ -13,28 +17,24 @@
       {
         "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
         "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
-        "link": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "DRC\u2019s constitutional battle: The fight over the 2028 vote",
-        "link": "https://www.aljazeera.com/news/2026/8/25/drcs-constitutional-battle-the-fight-over-the-2028-vote?traffic_source=rss"
+        "title": "Israel\u2019s Netanyahu claims Iran tried to kill one of his sons",
+        "link": "https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss"
       },
       {
-        "title": "Search continues in Tunisia as migrant boat sinking sparks protests",
-        "link": "https://www.aljazeera.com/news/2026/8/25/search-continues-in-tunisia-after-migrant-boat-sinking-sparks-protests?traffic_source=rss"
+        "title": "Amnesty says India used lethal weapons on \u2018Cockroach\u2019 protesters",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/amnesty-says-india-used-lethal-weapons-on-cockroach-protesters?traffic_source=rss"
       },
       {
-        "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss"
+        "title": "Muslims celebrate Prophet Muhammad\u2019s birthday",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/muslims-celebrate-prophet-muhammads-birthday?traffic_source=rss"
       },
       {
-        "title": "How US sanctions on Iran ripple through global markets and consumers",
-        "link": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss"
+        "title": "Man killed in world\u2019s largest annual bullfighting event in Mexico",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/man-killed-in-worlds-largest-annual-bullfighting-event-in-mexico?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -171,23 +171,27 @@
     ],
     "variety": [
       {
-        "title": "Taylor Swift Recalls How \u2018I Knew You Were Trouble\u2019 Was Written As a \u2018Really Sad Ballad\u2019 in Grammy Museum Conversation Video",
-        "link": "https://variety.com/2026/music/news/taylor-swift-i-knew-you-were-trouble-grammy-museum-clip-1236841957/"
+        "title": "Nandamuri Balakrishna, Sunny Deol, Nayanthara Lead Zee Studios\u2019 Multilingual 2026-27 Slate (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/news/nandamuri-balakrishna-sunny-deol-nayanthara-zee-studios-slate-1236841553/"
       },
       {
-        "title": "Wendy Williams Documentary Series \u2018Clap If You Care,\u2019 From the Host\u2019s Longtime TV Producer, Picked Up at Peacock",
-        "link": "https://variety.com/2026/tv/news/wendy-williams-documentary-clap-if-you-care-peacock-1236841933/"
+        "title": "Imagen Awards Red Carpet: Andy Garcia, Karla Souza, Wilmer Valderrama and More Celebrity Photos",
+        "link": "https://variety.com/gallery/41st-imagen-awards-red-carpet-photos/"
       },
       {
-        "title": "Azerbaijan\u2019s Lawyer Defends Defamation Suit Against CNN: \u2018These Untrue Statements Actually Put Lives at Risk\u2019",
-        "link": "https://variety.com/2026/tv/news/azerbaijan-lawyer-cnn-defamation-suit-1236841531/"
+        "title": "Hulu Cancels Mindy Kaling-Created Comedy \u2018Not Suitable for Work\u2019 After One Season (EXCLUSIVE)",
+        "link": "https://variety.com/2026/tv/news/not-suitable-for-work-hulu-canceled-mindy-kaling-one-season-1236842124/"
       },
       {
-        "title": "How to Watch the Dunkman World Championship Final Online for Free",
-        "link": "https://variety.com/2026/shopping/athletes/watch-dunkman-world-championship-final-live-online-free-1236838721/"
+        "title": "Taylor Swift Sings Mashup of \u2018All Too Well,\u2019 \u2018I Knew It, I Knew You\u2019 and \u2018August\u2019 in Grammy Museum Video",
+        "link": "https://variety.com/2026/music/news/taylor-swift-sings-mashup-all-too-well-grammy-museum-video-1236842092/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "Hulu Cancels \u2018Not Suitable for Work\u2019 After One Season",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/hulu-cancels-not-suitable-for-work-mindy-kaling-1236680364/"
+      },
       {
         "title": "Taylor Swift on Dealing With Public Perception and Deciding Not to Opt Out Before Her Career \u201cGot Unmanageably Big\u201d",
         "link": "https://www.hollywoodreporter.com/music/music-news/taylor-swift-public-perception-career-unmanageably-big-1236680277/"
@@ -199,10 +203,6 @@
       {
         "title": "Brenda Song Loves the Los Angeles Rams So Much She Ended Up in a Broadcast Booth at SoFi Stadium",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/brenda-song-los-angeles-rams-sofi-stadium-macaulay-culkin-1236679472/"
-      },
-      {
-        "title": "Disney and NFL Fandoms Collide in Character-Inspired Collection of Team Gear",
-        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/buy-disney-nfl-champion-clothing-collab-2026-release-online-1236680074/"
       }
     ],
     "larb": [],
