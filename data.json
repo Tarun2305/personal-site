@@ -1,44 +1,48 @@
 {
-  "last_updated": "2026-08-26 06:35 UTC",
+  "last_updated": "2026-08-26 09:33 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "How Dolly Parton told her life story through six iconic songs",
-        "link": "https://www.bbc.co.uk/news/articles/cpqpjv0j0eeo?at_medium=RSS&at_campaign=rss"
+        "title": "The life of an iconic country singer",
+        "link": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
         "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "NHS failing child sex abuse victims in adulthood, say psychiatrists",
-        "link": "https://www.bbc.co.uk/news/articles/c0kl40d3011o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Dad of woman who took her own life says Treasury failed in its duty of care",
         "link": "https://www.bbc.co.uk/news/articles/c0rewr790jyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Yellow warnings remain in force as rain and thunderstorms hit parts of UK",
+        "link": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Top official says Iran, Oman have agreed new temporary route in Hormuz",
-        "link": "https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route?traffic_source=rss"
+        "title": "Bodo return to Champions League, Azerbaijan\u2019s Sabah deny Israeli Beer-Sheva",
+        "link": "https://www.aljazeera.com/sports/2026/8/26/bodo-return-to-champions-league-azerbaijans-sabah-deny-israeli-beer-sheva?traffic_source=rss"
       },
       {
-        "title": "Iran bets economic pain will pressure Trump in game of \u2018chicken\u2019",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/iran-bets-economic-pain-will-pressure-trump-in-game-of?traffic_source=rss"
+        "title": "US immigration agents arrested more than 49,500 people in July",
+        "link": "https://www.aljazeera.com/news/2026/8/26/us-immigration-agents-arrested-more-than-49500-people-in-july?traffic_source=rss"
       },
       {
-        "title": "Fireworks factory goes up in smoke in Mexico",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/fireworks-factory-goes-up-in-smoke-in-mexico?traffic_source=rss"
+        "title": "Haiti gang raid death toll rises to 47 as more than 50 kidnapped, says UN",
+        "link": "https://www.aljazeera.com/news/2026/8/26/at-least-47-killed-50-kidnapped-in-grisly-gang-raid-in-haiti-says-un?traffic_source=rss"
       },
       {
-        "title": "Massive natural gas leak in Wisconsin puts community on alert",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/massive-natural-gas-leak-in-wisconsin-puts-community-on-alert?traffic_source=rss"
+        "title": "Thousands in Japan are pulling this historic castle back into place",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/thousands-in-japan-are-pulling-this-historic-castle-back-into-place?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "River Card and Cloud Forest clash at Newbury",
+        "link": "https://www.skysports.com/racing/news/12040/13576760/today-on-sky-sports-racing-newbury-and-wolverhampton"
+      },
       {
         "title": "Mayer: I feel unbeatable - Cameron fight won't be close!",
         "link": "https://www.skysports.com/boxing/news/12040/13576259/mayer-vs-cameron-mikaela-mayer-feels-unbeatable-ahead-of-title-unification-fight-against-chantelle-cameron"
@@ -46,10 +50,6 @@
       {
         "title": "Wolff 'not at all' disappointed by Verstappen's new Red Bull deal",
         "link": "https://www.skysports.com/f1/news/12040/13577061/max-verstappen-mercedes-boss-toto-wolff-says-he-is-not-at-all-disappointed-by-dutchmans-new-red-bull-contract"
-      },
-      {
-        "title": "River Card and Cloud Forest clash at Newbury",
-        "link": "https://www.skysports.com/racing/news/12040/13576760/today-on-sky-sports-racing-newbury-and-wolverhampton"
       },
       {
         "title": "St Helens legend Lomax announces retirment at end of season",
@@ -116,6 +116,10 @@
     ],
     "mubi": [
       {
+        "title": "Rushes | Mark Ruffalo vs. Paramount, Ilya Khrzhanovsky Defends \u201cDAU,\u201d Johnnie To Makes English-Language Debut",
+        "link": "https://mubi.com/en/notebook/posts/rushes-mark-ruffalo-vs-paramount-ilya-khrzhanovsky-defends-dau-johnnie-to-makes-english-language-debut"
+      },
+      {
         "title": "Cinema as Commons: The Radical Act of Going to the Movies",
         "link": "https://mubi.com/en/notebook/posts/cinema-as-commons-the-radical-act-of-going-to-the-movies"
       },
@@ -126,10 +130,6 @@
       {
         "title": "MUBI Podcast | \u201cRosebush Pruning\u201d: Riley Keough Eats the Rich (and Survives \u201cMad Max\u201d)",
         "link": "https://mubi.com/en/notebook/posts/mubi-podcast-rosebush-pruning-riley-keogh-eats-the-rich-and-survives-mad-max"
-      },
-      {
-        "title": "Remembering 4Columns",
-        "link": "https://mubi.com/en/notebook/posts/remembering-4columns"
       }
     ],
     "reverseshot": [],
@@ -171,38 +171,38 @@
     ],
     "variety": [
       {
-        "title": "LevelK Boards Haugesund-Bound Norwegian Psycho Thriller \u2018Anathema,\u2019 About Repression, Denial and Collective Madness (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/global/levelk-sales-norwegian-thriller-anathema-1236843078/"
+        "title": "Italy\u2019s RAI Cinema International Boards Edoardo De Angelis\u2019 \u2018The Fire Within You\u2019 Ahead of Venice Launch, Reveals First Clip (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/festivals/rai-cinema-international-edoardo-de-angelis-fire-within-you-1236842662/"
       },
       {
-        "title": "Amanda Kernell Is More Interested in \u2018Liberation Than a Curse\u2019 as Her Third Feature \u2018Brace Your Heart\u2019 Debuts Trailer (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/global/amanda-kernell-brace-your-heart-1236842342/"
+        "title": "Stephen Colbert Urges Emmy Voters to Back Jimmy Kimmel: \u2018Look How Cute He Is!\u2019",
+        "link": "https://variety.com/2026/tv/news/stephen-colbert-endorses-jimmy-kimmel-emmys-race-1236843615/"
       },
       {
-        "title": "\u2018Heroes\u2019 Stars Throw Reunion to \u2018Celebrate the Life\u2019 of Hayden Panettiere: \u2018So Much Love, Gratitude and Warmth\u2019",
-        "link": "https://variety.com/2026/tv/news/heroes-cast-reunion-celebrate-life-of-hayden-panettiere-1236843535/"
+        "title": "\u2018Tall Tales & Murder\u2019 First Look: Ella Lily Hyland and Aidan Gillen Star in Wild Comedic Crime Drama From \u2018Veep\u2019 Director and \u2018Love/Hate\u2019 Creator (EXCLUSIVE)",
+        "link": "https://variety.com/2026/tv/news/tall-tales-murder-first-look-ella-lily-hyland-aidan-gillen-1236843597/"
       },
       {
-        "title": "Taylor Swift Pays Tribute to Dolly Parton: \u2018She Was True Grace and True Grit, All in One Dazzling Person\u2019",
-        "link": "https://variety.com/2026/music/news/taylor-swift-dolly-parton-tribute-dead-1236842794/"
+        "title": "Korea\u2019s DRX Signs Strategic Partnership With Indonesia\u2019s Nuon to Expand Gaming and Entertainment Ties (EXCLUSIVE)",
+        "link": "https://variety.com/2026/gaming/news/drx-nuon-indonesia-korea-partnership-1236843595/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Haim Saban, Lawrence Bender and Teddy Schwarzman Among Industry Group Accusing Mark Ruffalo of \u201cAntisemitism\u201d in Attack on Paramount Leadership",
-        "link": "https://www.hollywoodreporter.com/business/business-news/haim-saban-lawrence-bender-teddy-schwarzman-slam-mark-ruffalo-1236681689/"
+        "title": "\u2018Maserati: The Brothers\u2019 Trailer: Al Pacino, Anthony Hopkins, Jessica Alba and Andy Garcia Star in Motorsport Biopic",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/maserati-the-brothers-trailer-al-pacino-anthony-hopkins-1236681766/"
       },
       {
-        "title": "Dolly Parton, a Hollywood Treasure Who Lit Up the Screen With Her Authentic Self",
-        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/dolly-parton-film-critic-tribute-9-to-5-steel-magnolias-1236681618/"
+        "title": "Sky Orders \u201cSecond Chapter\u201d of Rafe Spall-Starring Crime Drama\u00a0\u2018Under Salt Marsh\u2019",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/sky-rafe-spall-under-salt-marsh-series-2-scotland-crime-1236679612/"
       },
       {
-        "title": "Taylor Swift Remembers Dolly Parton\u2019s \u201cTrue Grace and Grit\u201d: \u201cHer Legacy Will Be Everlasting\u201d",
-        "link": "https://www.hollywoodreporter.com/music/music-news/taylor-swift-dolly-parton-dead-tribute-1236681122/"
+        "title": "Sky U.K.\u2019s Meghan Lyvers Discusses IP, Original Content Mix and \u201cIncreasing the Emotional Stakes\u201d",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/sky-uk-original-content-interview-jackal-dragon-tattoo-ip-1236679890/"
       },
       {
-        "title": "The Best Tinted Sunscreens to Achieve Off-Duty (UV-Protected) Beauty",
-        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/best-tinted-sunscreens-for-face-tinted-moisturizer-with-spf-1236680284/"
+        "title": "Dominic West and Sienna Miller Star in Image From Sky and HBO Legal Thriller \u2018War\u2019 (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/hbo-sky-show-war-sienna-miller-dominic-west-photo-exclusive-1236679668/"
       }
     ],
     "larb": [],
