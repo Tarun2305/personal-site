@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25 21:20 UTC",
+  "last_updated": "2026-08-26 00:53 UTC",
   "feeds": {
     "bbc": [
       {
@@ -15,45 +15,45 @@
         "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-        "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss"
+        "title": "Winter energy prices expected to rise to three-year high",
+        "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "US lawmakers urge Trump team to free of American student held by Israel",
-        "link": "https://www.aljazeera.com/news/2026/8/25/us-lawmakers-urge-trump-team-to-free-of-american-student-held-by-israel?traffic_source=rss"
+        "title": "Rights abuses in Myanmar \u2018plummets to new low\u2019, UN says",
+        "link": "https://www.aljazeera.com/news/2026/8/26/rights-abuses-in-myanmar-plummets-to-new-low-un-says?traffic_source=rss"
       },
       {
-        "title": "Syrian Democratic Forces announce their dissolution",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-democratic-forces-announce-their-dissolution?traffic_source=rss"
+        "title": "Iran war live: Iran says Hormuz remains closed despite Oman route deal",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/8/26/iran-war-live-iran-says-hormuz-remains-closed-despite-oman-rout-deal?traffic_source=rss"
       },
       {
-        "title": "Real Madrid vs Sociedad: La Liga \u2013 prediction, team news, lineups",
-        "link": "https://www.aljazeera.com/sports/2026/8/25/real-madrid-vs-sociedad-la-liga-prediction-teams-lineups?traffic_source=rss"
+        "title": "Brazil fines TikTok $30m for child data privacy violations",
+        "link": "https://www.aljazeera.com/news/2026/8/25/brazil-fines-tiktok-30m-for-child-data-privacy-violations?traffic_source=rss"
       },
       {
-        "title": "Nigeria launches operation to rescue 600 kidnapped victims",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/nigeria-launches-operation-to-rescue-600-kidnapped-victims?traffic_source=rss"
+        "title": "Why can\u2019t America agree on what time it is?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/why-cant-america-agree-on-what-time-it-is?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Williams and Alcaraz reach mixed doubles quarters before exit",
+        "link": "https://www.skysports.com/tennis/news/12040/13577085/serena-williams-and-carlos-alcaraz-exit-us-open-mixed-doubles-in-quarter-finals-top-seeds-novak-djokovic-and-aryna-sabalenka-out-in-first-round"
+      },
+      {
+        "title": "Leeds earn second win at Forest in three days in Carabao Cup",
+        "link": "https://www.skysports.com/football/nottingham-forest-vs-leeds-united/report/577433"
+      },
+      {
+        "title": "All Blacks need late surge to avoid shock defeat to Lions",
+        "link": "https://www.skysports.com/rugby-union/news/12040/13577120/new-zealands-tour-of-south-africa-all-blacks-come-from-behind-to-beat-lions-41-35-after-huge-scare-in-tour-match"
+      },
+      {
         "title": "Wilson scores on full debut as Brentford hit Birmingham for six",
         "link": "https://www.skysports.com/football/birmingham-city-vs-brentford/report/577421"
-      },
-      {
-        "title": "Ipswich latest: Bid made for Leverkusen midfielder",
-        "link": "https://www.skysports.com/football/live-blog/12040/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-      },
-      {
-        "title": "Nunez's halfway stunner helps Ipswich past Leicester",
-        "link": "https://www.skysports.com/football/ipswich-town-vs-leicester-city/report/577431"
-      },
-      {
-        "title": "West Ham hit back to thump four past Southampton",
-        "link": "https://www.skysports.com/football/southampton-vs-west-ham-united/report/577436"
       }
     ],
     "pitchfork": [],
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018The Dog Stars\u2019 Review: Jacob Elordi and Josh Brolin Can\u2019t Save Ridley Scott\u2019s Bizarrely Inert Post-Apocalypse Movie from Near-Disaster",
+        "link": "https://www.indiewire.com/criticism/movies/the-dog-stars-review-jacob-elordi-ridley-scott-movie-1235212620/"
+      },
+      {
         "title": "Martin Short Explains Why He\u2019s Never Seen a Shrink: \u2018It\u2019s OK to Be Sad\u2019",
         "link": "https://www.indiewire.com/awards/consider-this/martin-short-netflix-doc-why-hes-never-seen-shrink-1235212614/"
       },
@@ -163,46 +167,42 @@
       {
         "title": "\u2018The Sun Never Sets\u2019 Review: A Career-Best Dakota Fanning Navigates Dueling Love Triangles in Joe Swanberg\u2019s Delightful Alaskan Romance",
         "link": "https://www.indiewire.com/criticism/movies/the-sun-never-sets-review-joe-swanberg-dakota-fanning-1235184327/"
-      },
-      {
-        "title": "\u2018Boorman and the Devil\u2019 Review: This Deep Dive Into How \u2018Exorcist II: The Heretic\u2019 Spiraled Out of Control Deserves a Wide Release",
-        "link": "https://www.indiewire.com/criticism/movies/boorman-and-the-devil-review-1235157516/"
       }
     ],
     "variety": [
       {
-        "title": "Dolly Parton\u2019s Musical Will Still Open on Broadway \u2018As Was Dolly\u2019s Wish\u2019",
-        "link": "https://variety.com/2026/music/news/dolly-parton-musical-broadway-1236843021/"
+        "title": "Can Guy Fieri Unite America? Inside His Lifelong Advocacy of Global Cuisine: \u2018When You Talk About Food, You Talk About Culture\u2019",
+        "link": "https://variety.com/2026/awards/features/guy-fieri-diners-drive-ins-and-dives-host-unite-america-1236840922/"
       },
       {
-        "title": "\u2018Bel-Air\u2019 Spinoff \u2018Hilary\u2019 Starring Coco Jones in Development at Peacock",
-        "link": "https://variety.com/2026/tv/news/bel-air-spinoff-hilary-coco-jones-peacock-1236842971/"
+        "title": "Luis Castro, Trish Reilly and Barry Wilkinson Named 2026 MacGuffin Award Honorees",
+        "link": "https://variety.com/2026/artisans/news/property-masters-guild-macguffin-award-honorees-1236841984/"
       },
       {
-        "title": "Veteran Hollywood Publicist Leonard Morpurgo Dies at 93",
-        "link": "https://variety.com/2026/film/news/leonard-morpurgo-dead-publicist-1236842703/"
+        "title": "\u2018The Dog Stars\u2019 Review: Jacob Elordi\u2019s Sensitive Survivalist Can\u2019t Sustain a Dreary Dystopian Adventure",
+        "link": "https://variety.com/2026/film/reviews/the-dog-stars-review-jacob-elordi-1236839483/"
       },
       {
-        "title": "Shannon Wallace, Curtiss Cook, Lauren E. Banks, Liv Symone, Jason Dirden Join Starz Black Rodeo Drama",
-        "link": "https://variety.com/2026/tv/news/shannon-wallace-curtiss-cook-starz-black-rodeo-drama-cast-1236842723/"
+        "title": "Lee Jung-eun, Kim Moo-yul Board Netflix\u2019s Action-Noir Series \u2018The Shooter\u2019",
+        "link": "https://variety.com/2026/tv/news/lee-jung-eun-kim-moo-yul-netflix-the-shooter-1236842363/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Jennifer Garner Details \u201cMourning\u201d Process After Losing \u2018The West Wing\u2019 Role Early in Career",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/jennifer-garner-acting-career-the-west-wing-podcast-1236680951/"
+        "title": "Beyonc\u00e9 Remembers Dolly Parton as \u201cBold and Brilliant\u201d in Touching Tribute",
+        "link": "https://www.hollywoodreporter.com/music/music-news/beyonce-remembers-dolly-parton-dead-tribute-1236681538/"
       },
       {
-        "title": "\u2018The Flintstones\u2019 Live-Action Movie in the Works at Warner Bros. From Producer Ryan Gosling",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/the-flintstones-live-action-movie-warner-bros-ryan-gosling-1236681164/"
+        "title": "\u201920/20\u2032 Sets Dolly Parton Special Tribute: Where to Watch Online",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/watch-dolly-parton-20-20-special-aug-25-2026-streaming-free-1236681447/"
       },
       {
-        "title": "Oscar Nominee Teyana Taylor Books New Role as Face of Ala\u00efa Summer/Fall Campaign",
-        "link": "https://www.hollywoodreporter.com/lifestyle/style/teyana-taylor-fashion-alaia-summer-fall-campaign-2026-1236681150/"
+        "title": "\u2018The Dog Stars\u2019 Review: Jacob Elordi and Margaret Qualley in Ridley Scott\u2019s Subdued but Pleasingly Soulful Dystopian Western",
+        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-dog-stars-review-jacob-elordi-ridley-scott-1236680319/"
       },
       {
-        "title": "Why Now Was the Time for Golf Channel to Revive \u2018Big Break\u2019",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/golf-channel-big-break-good-good-youtube-tom-knapp-interview-1236675360/"
+        "title": "Netflix Sets Lee Jung-eun, Kim Moo-yul for Korean Action-Noir Series \u2018The Shooter\u2019",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/netflix-lee-jung-eun-kim-moo-yul-korean-series-the-shooter-1236680472/"
       }
     ],
     "larb": [],
