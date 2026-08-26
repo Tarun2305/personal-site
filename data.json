@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26 16:12 UTC",
+  "last_updated": "2026-08-26 19:41 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,58 +7,62 @@
         "link": "https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
+        "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Rocky Horror star Tim Curry dies at 80",
         "link": "https://www.bbc.co.uk/news/articles/c5yd92gkk7vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Murder probe as two people dead in house fire in Middlesbrough",
+        "title": "Murder arrests after fire kills two including child near Middlesbrough",
         "link": "https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Prince Harry and Meghan land in UK days after announcing move",
-        "link": "https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Why a Christian group is suing the Dutch government for West Bank trade ban",
-        "link": "https://www.aljazeera.com/news/2026/8/26/why-a-christian-group-is-suing-the-dutch-government-for-west-bank-trade-ban?traffic_source=rss"
+        "title": "Israeli forces install new gate, isolating Palestinian village",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-forces-install-new-gate-isolating-palestinian-village?traffic_source=rss"
       },
       {
-        "title": "Israel extends campaign against UNRWA to advance West Bank annexation",
-        "link": "https://www.aljazeera.com/news/2026/8/26/israel-extends-campaign-against-unrwa-to-advance-west-bank-annexation?traffic_source=rss"
+        "title": "Kurdish-led SDF has dissolved, but has Syria really unified its military?",
+        "link": "https://www.aljazeera.com/news/2026/8/26/kurdish-led-sdf-has-dissolved-but-has-syria-really-unified-its-military?traffic_source=rss"
       },
       {
-        "title": "Kremlin says CIA head met Russian intelligence officials, but not Putin",
-        "link": "https://www.aljazeera.com/news/2026/8/26/kremlin-says-cia-head-met-russian-intelligence-officials-but-not-putin?traffic_source=rss"
+        "title": "UEFA set to end FIFA boycott threat over Infantino\u2019s $20bn investor plan",
+        "link": "https://www.aljazeera.com/sports/2026/8/26/uefa-set-to-end-boycott-of-fifa-events-over-infantinos-failed-selloff?traffic_source=rss"
       },
       {
-        "title": "Meta agrees to settlement, platform changes in youth addiction case",
-        "link": "https://www.aljazeera.com/economy/2026/8/26/meta-agrees-to-settlement-platform-changes-in-youth-addiction-case?traffic_source=rss"
+        "title": "US imposes sanctions on Palestine Action and other left-wing groups",
+        "link": "https://www.aljazeera.com/news/2026/8/26/us-imposes-sanctions-on-palestine-action-and-other-left-wing-groups?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Sunderland explore late move for Grealish",
-        "link": "https://www.skysports.com/football/news/12040/13577448/jack-grealish-transfer-sunderland-explore-move-for-manchester-city-winger-with-former-loan-side-everton-still-interested"
+        "title": "'He's the one we wanted': Newcastle sign Gonzalez from Man City",
+        "link": "https://www.skysports.com/football/news/12040/13577494/x"
       },
       {
-        "title": "Coventry latest: Defender joins from Brentford",
-        "link": "https://www.skysports.com/football/live-blog/12040/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+        "title": "Humphries out to deny Littler historic clean sweep after winning PC28",
+        "link": "https://www.skysports.com/darts/news/12040/13577449/luke-humphries-wins-players-championship-28-after-win-over-brendan-dolan-as-luke-littler-knocked-out-in-semi-finals"
       },
       {
-        "title": "Liverpool make approach for Palace forward Sarr",
-        "link": "https://www.skysports.com/football/news/12040/13577363/ismaila-sarr-transfer-news-liverpool-make-approach-for-senegal-forward-after-stalled-talks-for-yankuba-minteh"
+        "title": "Barry puts Everton in front at Preston on Sky LIVE!",
+        "link": "https://www.skysports.com/football/preston-north-end-vs-everton/live/577434"
       },
       {
-        "title": "Williams sisters given wild card for US Open women's doubles",
-        "link": "https://www.skysports.com/tennis/news/12040/13577416/serena-and-venus-williams-given-wild-card-to-compete-in-2026-us-open-womens-doubles-tournament"
+        "title": "Quickfire double sees Spurs ahead vs Charlton LIVE!",
+        "link": "https://www.skysports.com/football/tottenham-hotspur-vs-charlton-athletic/live/577440"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "Bitchin Bajas :: Isle Peaks",
+        "link": "https://aquariumdrunkard.com/2026/08/26/bitchin-bajas-isle-peaks/"
+      },
       {
         "title": "Transmissions :: Jim James",
         "link": "https://aquariumdrunkard.com/2026/08/26/transmissions-jim-james/"
@@ -70,10 +74,6 @@
       {
         "title": "Giraffe :: The Towering Inferno With Bongo Drums",
         "link": "https://aquariumdrunkard.com/2026/08/25/giraffe-the-towering-inferno-with-bongo-drums/"
-      },
-      {
-        "title": "Ned Collette :: Mixed Light",
-        "link": "https://aquariumdrunkard.com/2026/08/25/ned-collette-mixed-light/"
       }
     ],
     "bfi": [],
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
-        "title": "Megan Ellison\u2019s Annapurna Lays Off 16% of Work Force After Mounting Comeback with \u2018The Invite\u2019",
-        "link": "https://www.indiewire.com/news/business/megan-ellison-annapurna-lays-off-30-staffers-the-invite-1235212819/"
+        "title": "We Pick Which Series Will Win and/or Should Win at the 2026 Primetime Emmys",
+        "link": "https://www.indiewire.com/awards/predictions/which-series-will-win-should-win-emmys-2026-1235212803/"
       },
       {
-        "title": "Tim Curry, Midnight Movie Legend and Singular Acting Talent, Dead at 80",
-        "link": "https://www.indiewire.com/news/obituary/tim-curry-dead-1235190717/"
+        "title": "\u2018Idiots\u2019 Review: Macon Blair Merges \u2018The Last Detail\u2019 with \u2018Road Trip\u2019 in a Wildly Uneven Comedy That Fails to Find Its Own Lane",
+        "link": "https://www.indiewire.com/criticism/movies/idiots-the-shitheads-movie-review-macon-blair-1235175120/"
       },
       {
-        "title": "Indie Specialized Box Office: Alex Ullom\u2019s \u2018It Ends\u2019 Gets Solid Start via 36-Hour Marathon Screening",
-        "link": "https://www.indiewire.com/news/box-office/it-ends-36-hour-screening-specialized-box-office-1235212767/"
+        "title": "\u2018Coyote vs. Acme\u2019 Review: Thank Goodness This Clever Comedy About the Evils of Corporate Greed Was Rescued from Corporate Hell",
+        "link": "https://www.indiewire.com/criticism/movies/coyote-vs-acme-review-looney-tunes-live-action-comedy-1235209439/"
       },
       {
-        "title": "Ridley Scott Reveals Lost \u2018Blade Runner\u2019 Script Idea That Proved Too Complicated, and Why Harrison Ford \u2018Didn\u2019t Get\u2019 the Movie",
-        "link": "https://www.indiewire.com/features/interviews/ridley-scott-lost-blade-runner-script-idea-why-writing-hard-1235212523/"
+        "title": "Cannes 2026 Movies Sold: Judith Godr\u00e8che\u2019s \u2018A Girl\u2019s Story\u2019 Based on Acclaimed Memoir Sells to Zeitgeist Films",
+        "link": "https://www.indiewire.com/news/festivals/cannes-2026-movies-sold-so-far-paper-tiger-minotaur-1235191174/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018The Secret Lives of Mormon Wives\u2019 Season 5 Trailer Dives Into Taylor Frankie Paul Scandal and Reveals Release Date",
-        "link": "https://variety.com/2026/tv/news/mormon-wives-season-5-trailer-taylor-frankie-paul-release-date-1236843694/"
+        "title": "Amazon MGM Studios Exec Carina Walker Named Head of YA",
+        "link": "https://variety.com/2026/tv/news/amazon-mgm-studios-carina-walker-head-of-ya-1236844363/"
       },
       {
-        "title": "Jay-Z Documentary Series Sets HBO Release Date",
-        "link": "https://variety.com/2026/music/news/jay-z-documentary-series-hbo-release-date-1236843347/"
+        "title": "Jaye P. Morgan, Singer, Actress and Game Show Panelist, Dies at 94",
+        "link": "https://variety.com/2026/tv/news/jaye-p-morgan-dead-gong-show-1236844264/"
       },
       {
-        "title": "Rachel Zegler Is Marisa Tomei\u2019s Long-Lost Daughter in First Look at Comedy Drama \u2018She Gets It From Me\u2019 (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/global/rachel-zegler-marisa-tomeis-she-gets-it-from-me-first-look-1236843633/"
+        "title": "Ridley Scott Says He\u2019s Planning a Third \u2018Alien\u2019 Prequel Centering on Michael Fassbender\u2019s Character",
+        "link": "https://variety.com/2026/film/news/ridley-scott-alien-prequel-michael-fassbender-1236844199/"
       },
       {
-        "title": "Inside UTA\u2019s Bummer Summer: Client Departures, Stalled M&A and Agent Anxiety",
-        "link": "https://variety.com/2026/film/news/uta-client-exouds-the-team-merger-chalamet-1236843997/"
+        "title": "\u2018Sesame Street and the Great Elephant Adventure\u2019 First Look: Elmo and Friends Embark on an African Safari (EXCLUSIVE)",
+        "link": "https://variety.com/2026/tv/news/sesame-street-and-the-great-elephant-adventure-first-look-1236844309/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018Derry Girls\u2019 Creator Lisa McGee Sets Mockumentary \u2018Jig\u2019 at Netflix",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/derry-girls-creator-lisa-mcgee-jig-netflix-1236682007/"
+        "title": "\u2018Dancing With the Stars: The Next Pro\u2019 Cast: All the Dancers Vying for a Spot on Season 35",
+        "link": "https://www.hollywoodreporter.com/lists/dancing-with-the-stars-next-pro-cast-judges/"
       },
       {
-        "title": "\u2018The Secret Lives of Mormon Wives\u2019 Season 5 Trailer Teases Leadup to Taylor Frankie Paul\u2019s \u2018Bachelorette\u2019 Season Being Pulled",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/secret-lives-mormon-wives-season-5-trailer-release-date-1236681505/"
+        "title": "Kid Rock Apache Helicopter Stunt May Have Cost a Four-Star General His Job",
+        "link": "https://www.hollywoodreporter.com/news/general-news/kid-rock-apache-helicopter-stunt-general-randy-george-1236682367/"
       },
       {
-        "title": "Netflix Reveals Its \u2018Wonka\u2019 Reality Show Trailer With Creepy AI Gene Wilder",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-wonka-reality-show-gene-wilder-1236682001/"
+        "title": "Dolly Parton Biopic, Docuseries and Scripted Series Among Planned Projects Before Death",
+        "link": "https://www.hollywoodreporter.com/music/music-news/dolly-parton-biopic-docuseries-planned-proejcts-1236682361/"
       },
       {
-        "title": "Naomi Scott, Josh Finan, Nicola Coughlan Set for Adaptation of Roald Dahl\u2019s Short Stories for Netflix",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/nicola-coughlan-naomi-scott-roald-dahl-stories-netflix-show-1236682005/"
+        "title": "Roy Price Once Led Amazon Studios. Now He\u2019s Betting on User-Generated Microdramas",
+        "link": "https://www.hollywoodreporter.com/business/business-news/roy-price-microdramas-1236682318/"
       }
     ],
     "larb": [],
@@ -280,20 +280,20 @@
     ],
     "nautilus": [
       {
+        "title": "How the Heat is Messing with Your Sleep",
+        "link": "https://nautil.us/how-the-heat-is-messing-with-your-sleep-1284501/"
+      },
+      {
+        "title": "Dolly Parton: Science Icon",
+        "link": "https://nautil.us/dolly-parton-science-icon-1284482/"
+      },
+      {
         "title": "What\u2019s the Secret to Bats\u2019 Super Longevity?",
         "link": "https://nautil.us/whats-the-secret-to-bats-super-longevity-1284461/"
       },
       {
         "title": "Volcanoes That Made History",
         "link": "https://nautil.us/volcanoes-that-made-history-1284447/"
-      },
-      {
-        "title": "This Hidden Glacier Has Enough Water to Fill 600 Olympic Swimming Pools",
-        "link": "https://nautil.us/this-hidden-glacier-has-enough-water-to-fill-600-olympic-swimming-pools-1284443/"
-      },
-      {
-        "title": "How Conversations Can Shape Reality",
-        "link": "https://nautil.us/how-conversations-can-shape-reality-1284420/"
       }
     ],
     "worksinprogress": [],
