@@ -1,64 +1,68 @@
 {
-  "last_updated": "2026-08-28 00:11 UTC",
+  "last_updated": "2026-08-28 14:46 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Watch: Tracing the deadly path of the Nepal-Tibet flash flood",
-        "link": "https://www.bbc.co.uk/news/videos/cp80m87pez3o?at_medium=RSS&at_campaign=rss"
+        "title": "Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood",
+        "link": "https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Uefa preparing criminal legal action against Infantino",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss"
+        "title": "Disorder at balloon release for man who died in A66 car crash 'put lives at risk', MP says",
+        "link": "https://www.bbc.co.uk/news/articles/cdj43zkjweyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Allan Little: I met dangerously fanatical Mladi\u0107 early in Bosnian war",
-        "link": "https://www.bbc.co.uk/news/articles/cgl744j0ww1o?at_medium=RSS&at_campaign=rss"
+        "title": "BBC tracks one week of Israeli settler violence in occupied West Bank",
+        "link": "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Extra 200 police drafted in to aid force investigating wrong-way crash and fire deaths",
-        "link": "https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss"
+        "title": "Celtic and Rangers ordered to play Scottish Cup ties behind closed doors after fan disorder",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c4gk206k95xo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "US judge questions the push to add Trump\u2019s name back to the Kennedy Center",
-        "link": "https://www.aljazeera.com/news/2026/8/27/us-judge-questions-the-push-to-add-trumps-name-back-to-the-kennedy-center?traffic_source=rss"
+        "title": "UK has billions in contracts with firms tied to illegal Israeli settlements",
+        "link": "https://www.aljazeera.com/news/2026/8/28/uk-has-billions-in-contracts-with-firms-tied-to-illegal-israeli-settlements?traffic_source=rss"
       },
       {
-        "title": "Syria\u2019s president appoints ex-commander of Kurdish-led SDF as advisor",
-        "link": "https://www.aljazeera.com/news/2026/8/27/syrias-president-appoints-ex-commander-of-kurdish-led-sdf-as-advisor?traffic_source=rss"
+        "title": "Europa League draw: Bournemouth, Sunderland get glamour ties with AC Milan",
+        "link": "https://www.aljazeera.com/sports/2026/8/28/europa-league-draw-bournemouth-sunderland-get-glamour-ties-with-ac-milan?traffic_source=rss"
       },
       {
-        "title": "Haiti police confront public frustration after deadly gang attack kills 47",
-        "link": "https://www.aljazeera.com/news/2026/8/27/haiti-police-confront-public-frustration-after-deadly-gang-attack-kills-47?traffic_source=rss"
+        "title": "Qatar pledges support for efforts to end Libya\u2019s political division",
+        "link": "https://www.aljazeera.com/news/2026/8/28/qatar-pledges-support-for-efforts-to-end-libyas-political-division?traffic_source=rss"
       },
       {
-        "title": "Bosnian Serb General Ratko Mladic has died",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/27/bosnian-serb-general-ratko-mladic-has-died?traffic_source=rss"
+        "title": "Dutch court hands life sentence to Rwandan man for genocide role",
+        "link": "https://www.aljazeera.com/news/2026/8/28/dutch-court-hands-life-sentence-to-rwandan-man-for-genocide-role?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Good Good Golf withdraw from sponsoring PGA Tour event after controversial video",
-        "link": "https://www.skysports.com/golf/news/12040/13577944/good-good-golf-withdraw-from-title-sponsoring-pga-tour-event-after-controversial-ad-promoting-new-callaway-driver"
+        "title": "FREE STREAM: Mayer vs Cameron weigh-in ahead of world title fight!",
+        "link": "https://www.skysports.com/boxing/news/12040/13576982/mikaela-mayer-vs-chantelle-cameron-free-live-stream-of-weigh-in-ahead-of-saturdays-super-welterweight-titles-in-birmingham"
       },
       {
-        "title": "PL Predictions: More Palace pain? Man City to make it back-to-back wins",
-        "link": "https://www.skysports.com/football/news/12040/13577786/premier-league-predictions-jones-knows-best-bets-crystal-palace-pain-man-city-to-make-it-back-to-back-wins"
+        "title": "Europa League and Conference League draws: British teams learn opponents",
+        "link": "https://www.skysports.com/football/news/12040/13578045/europa-league-and-conference-league-draws-celtic-bournemouth-sunderland-crystal-palace-brighton-hearts-learn-opponents"
       },
       {
-        "title": "Wigan thump Hull KR to go back top after emotional Boston tributes",
-        "link": "https://www.skysports.com/rugby-league/news/12040/13577832/super-league-wigan-warriors-beat-depleted-hull-kr-46-0-to-return-to-top-of-table-after-sir-billy-boston-tributes"
+        "title": "ECB chair 'extremely disappointed' by England off-field incidents",
+        "link": "https://www.skysports.com/cricket/news/12040/13577736/ecb-chair-richard-thompson-extremely-disappointed-at-england-cricket-off-field-incidents"
       },
       {
-        "title": "Muniz nets first goal in a year as Fulham ease past Wimbledon",
-        "link": "https://www.skysports.com/football/fulham-vs-afc-wimbledon/report/577430"
+        "title": "England reviews rewarded as Pakistan plummet to 91-5 at Lord's LIVE!",
+        "link": "https://www.skysports.com/cricket/live-blog/12040/13578007/england-vs-pakistan-second-test-day-two-live-latest-cricket-score-updates-videos-and-analysis-from-lords-as-joe-roots-side-target-series-win"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "Stanley Turrentine & The Three Sounds :: Blue Hour (1961)",
+        "link": "https://aquariumdrunkard.com/2026/08/28/stanley-turrentine-the-three-sounds-blue-hour-1961/"
+      },
       {
         "title": "Bondo :: Bondo",
         "link": "https://aquariumdrunkard.com/2026/08/27/bondo-bondo/"
@@ -70,30 +74,26 @@
       {
         "title": "The Aquarium Drunkard Show: SIRIUS/XMU (7pm PDT, Channel 35)",
         "link": "https://aquariumdrunkard.com/2026/08/26/the-aquarium-drunkard-show-sirius-xmu-7pm-pdt-channel-35-182/"
-      },
-      {
-        "title": "Bitchin Bajas :: Isle Peaks",
-        "link": "https://aquariumdrunkard.com/2026/08/26/bitchin-bajas-isle-peaks/"
       }
     ],
     "bfi": [],
     "criterion": [],
     "rogerebert": [
       {
+        "title": "\u201cDark Matter\u201d Reinvents Itself With an Outstanding Second Season",
+        "link": "https://www.rogerebert.com/streaming/dark-matter-season-2-joel-edgerton-apple-tv-review-2026"
+      },
+      {
+        "title": "Live Wire: Michael Wright, 1956-2026",
+        "link": "https://www.rogerebert.com/tributes/live-wire-michael-wright-1956-2026"
+      },
+      {
+        "title": "\u201cAdults\u201d Grows Up Just Enough to Become One of TV\u2019s Best Sitcoms in Season 2",
+        "link": "https://www.rogerebert.com/streaming/adults-season-2-fx-tv-review-2026"
+      },
+      {
         "title": "Don\u2019t Dream It, Be It: Tim Curry (1946-2026)",
         "link": "https://www.rogerebert.com/tributes/dont-dream-it-be-it-tim-curry-1946-2026"
-      },
-      {
-        "title": "Home Entertainment Guide August 2026: \u201cProject Hail Mary,\u201d \u201cThe Sheep Detectives,\u201d \u201cPower Ballad,\u201d More",
-        "link": "https://www.rogerebert.com/dvd-blu-ray/home-entertainment-guide-august-2026-project-hail-mary-the-sheep-detectives-power-ballad-more"
-      },
-      {
-        "title": "\u201cResonance: A Plague Tale Legacy\u201d Shifts Tone of Cinematic Franchise",
-        "link": "https://www.rogerebert.com/video-games/resonance-a-plague-tale-legacy-shifts-tone-of-cinematic-franchise"
-      },
-      {
-        "title": "I Will Always Love You: Dolly Parton (1946-2026)",
-        "link": "https://www.rogerebert.com/tributes/dolly-parton-tribute"
       }
     ],
     "filmcomment": [
@@ -116,6 +116,10 @@
     ],
     "mubi": [
       {
+        "title": "MUBI Podcast: Italian Voices Of Today | Season 6",
+        "link": "https://mubi.com/en/notebook/posts/mubi-podcast-voci-italiane-contemporanee-season-6-11424"
+      },
+      {
         "title": "Songs for a Kiss: The Evolving Romance of Pakistani Cinema",
         "link": "https://mubi.com/en/notebook/posts/songs-for-a-kiss-the-evolving-romance-of-pakistani-cinema"
       },
@@ -126,10 +130,6 @@
       {
         "title": "Cinema as Commons: The Radical Act of Going to the Movies",
         "link": "https://mubi.com/en/notebook/posts/cinema-as-commons-the-radical-act-of-going-to-the-movies"
-      },
-      {
-        "title": "Movie Poster of the Week | The Film Posters of David Lance Goines",
-        "link": "https://mubi.com/en/notebook/posts/movie-poster-of-the-week-the-film-posters-of-david-lance-goines"
       }
     ],
     "reverseshot": [],
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
+        "title": "Dave Franco and Nicholas Braun Explain Why They Waited Eight Years to Make \u2018Idiots\u2019",
+        "link": "https://www.indiewire.com/news/events/dave-franco-nicholas-braun-idiots-the-shitheads-sundance-1235175049/"
+      },
+      {
+        "title": "\u2018The Whisper Man\u2019 Review: Robert De Niro Classes Up a Standard Serial Killer Procedural",
+        "link": "https://www.indiewire.com/criticism/movies/the-whisper-man-review-1235213251/"
+      },
+      {
         "title": "Dolly Parton Tribute: AMC Theatres Bringing Back \u2018The Best Little Whorehouse in Texas,\u2019 \u2018Steel Magnolias\u2019 to Honor Late Icon",
         "link": "https://www.indiewire.com/news/breaking-news/dolly-parton-tribute-amc-theatres-best-little-whorehouse-steel-magnolias-1235213225/"
       },
       {
         "title": "\u2018Coyote vs. Acme\u2019 Director Dave Green \u2018Remains in Shock\u2019 That the Film Is Coming Out",
         "link": "https://www.indiewire.com/features/interviews/coyote-vs-acme-director-interview-1235212507/"
-      },
-      {
-        "title": "Festival Crowdpleaser \u2018The Cycle of Love\u2019 Took a Year to Reach Theaters \u2014 but Could Break Through at the Oscars",
-        "link": "https://www.indiewire.com/awards/consider-this/the-cycle-of-love-festival-crowdpleaser-1235212838/"
-      },
-      {
-        "title": "Cannes 2026 Movies Sold: Leah Nelson\u2019s Animated \u2018Tangles\u2019 Lands at Independent Film Company and Sapan Studio",
-        "link": "https://www.indiewire.com/news/festivals/cannes-2026-movies-sold-so-far-paper-tiger-minotaur-1235191174/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018Big Little Lies\u2019 Sequel Book Teases Storyline for HBO Series\u2019 Season 3: What\u2019s Going on With Madeline, Celeste and Jane in \u2018Big Little Truths\u2019",
-        "link": "https://variety.com/2026/tv/news/big-little-lies-season-3-big-little-truths-sequel-plot-1236844334/"
+        "title": "Larenz Tate Boards Vault, New Streaming and Distribution Platform for Indie Filmmakers (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/news/larenz-tate-vault-streaming-platform-1236845660/"
       },
       {
-        "title": "Ellen Pompeo to Play Disgraced ER Nurse in \u2018Not a Sound\u2019 Drama in the Works at Hulu",
-        "link": "https://variety.com/2026/tv/news/ellen-pompeo-hulu-show-not-a-sound-1236845646/"
+        "title": "Kirill Sokolov to Direct Animated Feature \u2018Alone in the Ocean,\u2019 About Freediver Slava Kurilov\u2019s Famed Escape From Soviet Union (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/global/kirill-sokolov-animated-feature-alone-in-the-ocean-1236845938/"
       },
       {
-        "title": "Jemima Kirke on Her Marc Jacobs Campaign, Fashion Week Chaos and Why Jessa\u2019s Style in \u2018Girls\u2019 \u2018Doesn\u2019t Appeal\u2019 to Her",
-        "link": "https://variety.com/2026/shopping/news/jemima-kirke-marc-jacobs-girls-jessa-style-fashion-week-1236845616/"
+        "title": "Gal Gadot Premieres \u2018The Runner\u2019 in Los Angeles, Paul Mescal Attends All Points East in London and More Red Carpet Photos: August 2026",
+        "link": "https://variety.com/gallery/celebrity-pics-red-carpet-photos-august-2026/"
       },
       {
-        "title": "AMC Theatres Sets Dolly Parton Retrospective With \u2018Steel Magnolias\u2019 and \u2018The Best Little Whorehouse in Texas\u2019",
-        "link": "https://variety.com/2026/film/news/amc-theatres-dolly-parton-tribute-steel-magnolias-best-little-whorehouse-in-texas-1236845626/"
+        "title": "Tatiana Huezo, Elisa Miller Bring New Films to the Morelia Film Festival\u2019s 12th Impulso Morelia",
+        "link": "https://variety.com/2026/film/global/tatiana-huezo-elisa-miller-lead-pix-in-post-impulso-morelia-1236845419/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "T-Mobile\u2019s Limited-Time Internet Offer Makes Switching to Fiber More Affordable Than Ever",
-        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/t-mobile-fiber-deals-2026-home-internet-plans-compared-1236683720/"
+        "title": "Ina Garten Is a YouTuber Now",
+        "link": "https://www.hollywoodreporter.com/business/digital/ina-garten-launches-youtube-channel-happy-hour-1236684203/"
       },
       {
-        "title": "CNN Apologizes for Using Photo of Tribute Artist in Dolly Parton Report",
-        "link": "https://www.hollywoodreporter.com/news/general-news/dolly-parton-tribute-artist-mistake-cnn-apology-1236683719/"
+        "title": "\u2018Housewives\u2019 Star Jen Shah Finishes Federal Prison Sentence: \u201cI Feel Blessed. I Feel Free\u201d (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/jen-shah-rhoslc-federal-prison-sentence-statement-1236683834/"
       },
       {
-        "title": "Golf Channel Cancels \u2018Big Break x Good Good\u2019 After PGA Tour Parts Ways With YouTube Stars",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/golf-channel-cancels-big-break-good-good-ad-backlash-pga-tour-1236683711/"
+        "title": "New York Post Inks First-Look Film and TV Deal to Mine Archives (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/business/business-news/new-york-post-crazy-legs-productions-1236684176/"
       },
       {
-        "title": "Emma Chamberlain Fronts J.Crew\u2019s Fall Campaign With a \u201cTiny\u201d Take on Its Heritage Rollneck Sweater",
-        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/emma-chamberlain-jcrew-rollneck-sweater-aug-2026-buy-online-1236683359/"
+        "title": "Apple TV Hikes Prices as Streaming Inflation Continues",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/apple-tv-price-hike-streaming-plans-monthly-annual-1236684161/"
       }
     ],
     "larb": [],
@@ -262,6 +262,10 @@
     ],
     "quanta": [
       {
+        "title": "Does Computer Science Need Computers?",
+        "link": "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/"
+      },
+      {
         "title": "In Hilbert Space, All Things Are Quantumly Possible",
         "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/"
       },
@@ -272,13 +276,17 @@
       {
         "title": "\u2018Huge Breakthrough\u2019 in the Math of Imbalance",
         "link": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/"
-      },
-      {
-        "title": "Are We Thinking Correctly About AI Intelligence?",
-        "link": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/"
       }
     ],
     "nautilus": [
+      {
+        "title": "Cyborg Roaches Could Be the Future of Triage Medicine",
+        "link": "https://nautil.us/cyborg-roaches-could-be-the-future-of-triage-medicine-1284583/"
+      },
+      {
+        "title": "The First Moon Spaceport Is Coming. But First We\u2019ll Need Moon Traffic Control",
+        "link": "https://nautil.us/the-first-moon-spaceport-is-coming-but-first-well-need-moon-traffic-control-1284577/"
+      },
       {
         "title": "This Is What Happens When 1,000 People Bury Their Underwear for Science",
         "link": "https://nautil.us/this-is-what-happens-when-1000-people-bury-their-underwear-for-science-1284574/"
@@ -286,14 +294,6 @@
       {
         "title": "Fact-Checking the Biohackers Who Claim Metformin is an Anti-Aging Wonder Drug",
         "link": "https://nautil.us/fact-checking-the-biohackers-who-claim-metformin-is-an-anti-aging-wonder-drug-1284568/"
-      },
-      {
-        "title": "In Photos: The Sea Creatures Lurking Off the Shores of Nantucket",
-        "link": "https://nautil.us/in-photos-the-sea-creatures-lurking-off-the-shores-of-nantucket-1284552/"
-      },
-      {
-        "title": "Meet the Vegan Draculas of Australia",
-        "link": "https://nautil.us/meet-the-vegan-draculas-of-australia-1284543/"
       }
     ],
     "worksinprogress": [],
