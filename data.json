@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-08-30 14:12 UTC",
+  "last_updated": "2026-08-30 18:20 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
+        "link": "https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Seven killed and 23 missing in boat capsizing off northern Cyprus",
+        "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "PC Harper's killers to stay in jail as PM announces changes to early release scheme",
         "link": "https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Burnham gets the early prison release changes he wanted - but at what cost?",
-        "link": "https://www.bbc.co.uk/news/articles/cdx5zw4e2x9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "British woman killed in stabbing at German railway station",
-        "link": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Church names pastor killed by falling sign at Christian festival",
-        "link": "https://www.bbc.co.uk/news/articles/clyk7rz1pllo?at_medium=RSS&at_campaign=rss"
+        "title": "\"A giant leap forward\": Nasa launches powerful new space telescope to explore mysteries of the Universe",
+        "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Iceland votes to reject EU accession talks: What happens next?",
-        "link": "https://www.aljazeera.com/news/2026/8/30/iceland-votes-to-reject-eu-accession-talks-what-happens-next?traffic_source=rss"
+        "title": "Nepal\u2019s flood survivors search for missing loved ones",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/nepals-flood-survivors-search-for-missing-loved-ones?traffic_source=rss"
       },
       {
-        "title": "Banque Misr, Egypt\u2019s second-largest, hit by US sanctions: What to know",
-        "link": "https://www.aljazeera.com/news/2026/8/30/banque-misr-egypts-second-largest-hit-by-us-sanctions-what-to-know?traffic_source=rss"
+        "title": "NASA launches $4.3bn Roman Telescope to uncover universe\u2019s hidden secrets",
+        "link": "https://www.aljazeera.com/news/2026/8/30/nasa-launches-4-3bn-roman-telescope-to-uncover-universes-hidden-secrets?traffic_source=rss"
       },
       {
-        "title": "Van Dijk wants Cody Gakpo to stay at Liverpool despite Man City interest",
-        "link": "https://www.aljazeera.com/sports/2026/8/30/van-dijk-wants-cody-gakpo-to-stay-at-liverpool-despite-man-city-interest?traffic_source=rss"
+        "title": "Trump threatens to report journalist Kristen Welker to broadcast regulator",
+        "link": "https://www.aljazeera.com/news/2026/8/30/trump-threatens-to-report-journalist-kristen-welker-to-broadcast-regulator?traffic_source=rss"
       },
       {
-        "title": "Dozens of soldiers arrested after apparent coup attempt in Niger\u2019s capital",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/dozens-of-soldiers-arrested-after-apparent-coup-attempt-in-nigers-capital?traffic_source=rss"
+        "title": "Zambia opposition leader Brian Mundubile charged with treason",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/zambia-opposition-leader-brian-mundubile-charged-with-treason?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "US Open Day One LIVE! Norrie, Boulter, Fearnley and Samuel lead the British charge",
+        "title": "Fernandes hat-trick helps Man Utd come from behind to beat Ipswich",
+        "link": "https://www.skysports.com/football/manchester-united-vs-ipswich-town/report/559461"
+      },
+      {
+        "title": "US Open day one LIVE! Britain's Norrie in action with Boulter, Fearnley to come",
         "link": "https://www.skysports.com/tennis/live-blog/12040/13578915/us-open-live-scores-updates-news-commentary-and-results-from-flushing-meadows-new-york"
       },
       {
-        "title": "Shankland penalty earns Rangers first league win as VAR denies Aberdeen equaliser",
-        "link": "https://www.skysports.com/football/aberdeen-vs-rangers/report/558351"
+        "title": "Goals galore! Man Utd come from behind to win with Bruno hat-trick",
+        "link": "https://www.skysports.com/watch/video/13579195/manchester-united-5-2-ipswich-premier-league-highlights"
       },
       {
-        "title": "Barcelona agree deal to sign Jesus from Arsenal",
-        "link": "https://www.skysports.com/football/news/12040/13579021/gabriel-jesus-barcelona-agree-8-6m-deal-in-principle-to-sign-arsenal-and-brazil-forward"
-      },
-      {
-        "title": "Itauma unlikely to receive Hrgovic rematch",
-        "link": "https://www.skysports.com/boxing/news/12040/13579003/moses-itauma-unlikely-to-receive-filip-hrgovic-rematch-after-shock-heavyweight-stoppage-defeat"
+        "title": "Tour Championship LIVE! Scheffler closes on Hovland as McIlroy loses ground",
+        "link": "https://www.skysports.com/golf/live-blog/12040/13578968/tour-championship-final-round-live-latest-updates-highlights-as-scottie-scheffler-rory-mcilroy-chase-viktor-hovland"
       }
     ],
     "pitchfork": [],
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018Coyote vs. Acme,\u2019 Viewed as Unreleasable by Warner Bros., Just Beat a Jacob Elordi and Ridley Scott Movie at the Box Office",
+        "link": "https://www.indiewire.com/news/box-office/box-office-coyote-vs-acme-beats-jacob-elordi-ridley-scott-dog-stars-1235213602/"
+      },
+      {
+        "title": "From Timoth\u00e9e\u00a0Chalamet and Tom Cruise to Cynthia Erivo: It\u2019s Time for Some Overdue Actors to Finally Win an Oscar",
+        "link": "https://www.indiewire.com/awards/consider-this/overdue-actors-oscar-matt-damon-tom-cruise-timothee-chalamet-1235213219/"
+      },
+      {
         "title": "\u2018Robot Chicken\u2019 Celebrated 25 Years of Adult Swim with an Absurd, \u2018Circus of the Stars\u2019 Crossover",
         "link": "https://www.indiewire.com/features/interviews/robot-chicken-adult-swim-25th-anniversary-special-interview-1235212999/"
       },
       {
         "title": "Tom Cruise\u2019s \u2018Days of Thunder\u2019 Sequel Set for June 2028 with Anne Hathaway Joining",
         "link": "https://www.indiewire.com/news/breaking-news/tom-cruise-days-of-thunder-sequel-release-anne-hathaway-1235213534/"
-      },
-      {
-        "title": "Ridley Scott Casts His Crews as Carefully as His Movies So That He \u2018Can Just Play Tennis\u2019",
-        "link": "https://www.indiewire.com/features/craft/ridley-scott-the-dog-stars-crafts-team-collaboration-1235212739/"
-      },
-      {
-        "title": "Tonight\u2019s After Dark: \u2018New Jack City,\u2019 the Gangster Classic That Became a Westwood Flashpoint",
-        "link": "https://www.indiewire.com/news/general-news/new-jack-city-riot-westwood-los-angeles-1991-1235213357/"
       }
     ],
     "variety": [
       {
-        "title": "Here\u2019s How to Watch the 2026 Little League World Series Championship Game Live Online",
-        "link": "https://variety.com/2026/shopping/news/how-to-watch-little-league-world-series-online-livestream-free-1236487338/"
+        "title": "At Daisy Chain Fields, Olivia Rodrigo, Chappell Roan and Honored Forebears Convene for a Festival That\u2019s Hot to Go in Every Way: Concert Review",
+        "link": "https://variety.com/2026/music/concert-reviews/daisy-chain-fields-olivia-rodrigo-chappell-roan-concert-review-1236846844/"
       },
       {
-        "title": "Laura Dern to Give George Clooney Venice Golden Lion for Lifetime Achievement",
-        "link": "https://variety.com/2026/film/festivals/laura-dern-george-clooney-venice-golden-lion-lifetime-1236846829/"
+        "title": "President Trump Calls For FCC Punishment of NBC News\u2019 Kristen Welker Following Promotional \u2018Meet the Press\u2019 Banter",
+        "link": "https://variety.com/2026/tv/news/trump-kristen-welker-fcc-punishment-meet-the-press-1236846910/"
       },
       {
-        "title": "\u201917\u2019 Review: Harrowing Teen Pregnancy Drama from Macedonia Could Be the Feel-Bad Movie of the Year",
-        "link": "https://variety.com/2026/film/reviews/17-review-1236846790/"
+        "title": "Olivia Rodrigo Raises $20 Million With Daisy Chain Fields Festival Thanks to Matching Commitment From Melinda French Gates",
+        "link": "https://variety.com/2026/music/news/olivia-rodrigo-raises-20-million-daisy-chain-melinda-gates-1236846915/"
       },
       {
-        "title": "\u2018Sea of Glass\u2019 Review: A Widow\u2019s Coastal Healing Retreat Turns Into a Stately, Moody Greek Tragedy",
-        "link": "https://variety.com/2026/film/news/sea-of-glass-review-1236846714/"
+        "title": "Katseye\u2019s Sophia to Sit Out European Leg of \u2018Wildworld\u2019 Tour to \u2018Focus on Her Well-Being\u2019",
+        "link": "https://variety.com/2026/music/news/katseyes-sophia-sit-european-leg-wildworld-tour-1236846911/"
       }
     ],
     "hollywoodreporter": [
       {
+        "title": "Why Owner of \u2018Heated Rivalry\u2019 Cottage Did Some \u201cSoul Searching\u201d Before Agreeing to Season 2",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-cottage-owner-soul-searching-agreeing-season-2-1236685112/"
+      },
+      {
+        "title": "\u2018Entertainment Tonight\u2019 Presents New Dolly Parton TV Special: Where to Watch Online",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/watch-entertainment-tonight-dolly-parton-2026-special-free-1236684990/"
+      },
+      {
+        "title": "\u2018Coyote vs. Acme\u2019 Snags No. 2 With $15.4M as \u2018Spider-Man\u2019 Nears \u2018Avatar 2\u2019; \u2018Dog Stars\u2019 Put to Sleep",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/coyote-vs-acme-box-office-spider-man-titanic-dog-stars-1236685104/"
+      },
+      {
         "title": "Melinda French Gates Doubles Olivia Rodrigo\u2019s Daisy Chain Fields Donation Sum Bringing Total to $20 Million",
         "link": "https://www.hollywoodreporter.com/music/music-news/olivia-rodrigo-daisy-chain-fields-20m-melinda-gates-1236685002/"
-      },
-      {
-        "title": "Where to Watch the 2026 U.S. Open Tennis Tournament Online",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-us-open-tennis-2026-streaming-free-schedule-1236685010/"
-      },
-      {
-        "title": "Harry Styles Jokes About Taylor Swift\u2019s Wedding During Madison Square Garden Concert",
-        "link": "https://www.hollywoodreporter.com/music/music-news/harry-styles-taylor-swift-wedding-madison-square-garden-1236685019/"
-      },
-      {
-        "title": "Where to Watch the 2026 College Football Season Online",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-college-football-streams-2026-ncaa-free-live-1236684734/"
       }
     ],
     "larb": [],
@@ -238,8 +238,8 @@
         "link": "https://psyche.co/ideas/arabic-has-four-words-for-sadness-philosophy-explains-why"
       },
       {
-        "title": "Don\u2019t let nature slip out of reach",
-        "link": "https://psyche.co/notes-to-self/its-not-too-late-to-strengthen-your-ties-to-nature"
+        "title": "Glass eggs",
+        "link": "https://psyche.co/turning-points/the-grief-and-fragile-hope-of-deciding-to-freeze-my-eggs"
       }
     ],
     "publicdomainreview": [
