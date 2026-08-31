@@ -1,64 +1,72 @@
 {
-  "last_updated": "2026-08-31 09:10 UTC",
+  "last_updated": "2026-08-31 18:34 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Early release scheme could see dangerous criminals released, Conservatives warn",
-        "link": "https://www.bbc.co.uk/news/articles/ckgwxx0dg05o?at_medium=RSS&at_campaign=rss"
+        "title": "Mel Stride and Priti Patel replaced in major Tory reshuffle",
+        "link": "https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "US and Iran trade strikes for first time in weeks",
-        "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
+        "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+        "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Patel to be replaced by Tugendhat as shadow foreign secretary",
-        "link": "https://www.bbc.co.uk/news/articles/cn5d7ry053eo?at_medium=RSS&at_campaign=rss"
+        "title": "Once a village, now barren land - BBC in the valley devastated by floods",
+        "link": "https://www.bbc.co.uk/news/videos/c0m3197yxzmo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Djokovic in tears during US Open first-round exit",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c39m1le9gjeo?at_medium=RSS&at_campaign=rss"
+        "title": "Messi retires from Argentina duty with 'nothing left to give'",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "England vs Pakistan second Test: Three talking points from cricket series",
-        "link": "https://www.aljazeera.com/sports/2026/8/31/england-vs-pakistan-second-test-three-talking-points-from-cricket-series?traffic_source=rss"
+        "title": "Palestinian farmers rebuild what Israeli settlers destroy in West Bank",
+        "link": "https://www.aljazeera.com/news/2026/8/31/palestinian-farmers-rebuild-what-israeli-settlers-destroy-in-west-bank?traffic_source=rss"
       },
       {
-        "title": "Syria is choosing diplomacy with Israel, but can its approach last?",
-        "link": "https://www.aljazeera.com/features/2026/8/31/syria-is-choosing-diplomacy-with-israel-but-can-its-approach-last?traffic_source=rss"
+        "title": "Western Balkans truck drivers threaten EU border blockade",
+        "link": "https://www.aljazeera.com/economy/2026/8/31/western-balkans-truck-drivers-threaten-eu-border-blockade?traffic_source=rss"
       },
       {
-        "title": "Nord Stream bombings put Ukraine\u2019s ties with Germany under pressure",
-        "link": "https://www.aljazeera.com/news/2026/8/31/why-the-2022-nord-stream-bombings-muddle-berlin-kyiv-ties?traffic_source=rss"
+        "title": "India\u2019s PM Modi urges end to Ukraine war in talks with Russia\u2019s Putin",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/indias-pm-modi-urges-end-to-ukraine-war-in-talks-with-russias-putin?traffic_source=rss"
       },
       {
-        "title": "\u2018An act of resistance\u2019: Raja Shehadeh\u2019s Palestinian diaries find a new home",
-        "link": "https://www.aljazeera.com/news/2026/8/31/an-act-of-resistance-raja-shehadehs-palestinian-diaries-find-a-new-home?traffic_source=rss"
+        "title": "She is still in the sea, mother describes losing daughter in ferry disaster",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/she-is-still-in-the-sea-mother-describes-losing-daughter-in-ferry-disaster?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Brighton latest: Azeez pursuit still on despite Millwall rejecting \u00a310m bid",
-        "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+        "title": "Man City advancing on Ndiaye deal, Spurs turn attention to Mudryk",
+        "link": "https://www.skysports.com/football/news/12040/13579541/iliman-ndiaye-transfer-news-man-city-in-advanced-talks-for-everton-winger-as-tottenham-turn-attention-to-mykhailo-mudryk"
       },
       {
-        "title": "Aston Villa latest: Harwood-Bellis undergoes medical as Watkins pens farewell",
-        "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "title": "McInnes ban verdict over 'disgusting' comment revealed after Rangers appeal",
+        "link": "https://www.skysports.com/football/news/12040/13579467/derek-mcinnes-rangers-managers-touchline-ban-changed-after-appeal-over-disgusting-comment-last-season"
       },
       {
-        "title": "Ponting: Labuschagne's Australia Test place 'almost untenable'",
-        "link": "https://www.skysports.com/cricket/news/12040/13578618/marnus-labuschagne-ricky-ponting-says-australia-batters-place-in-test-team-almost-untenable-after-lean-run-of-form"
+        "title": "Is now the right time for Djokovic to retire after 'heart-breaking' US Open loss?",
+        "link": "https://www.skysports.com/tennis/news/12040/13579465/us-open-is-now-the-right-time-for-novak-djokovic-to-retire-after-heart-breaking-first-round-exit-in-new-york"
       },
       {
-        "title": "Today on Sky Sports Racing: Two-year-old Trophy up for grabs at Ripon",
-        "link": "https://www.skysports.com/racing/news/12040/13578656/today-on-sky-sports-racing-two-year-old-trophy-up-for-grabs-at-ripon"
+        "title": "MNF: Aston Villa vs Arsenal team news LIVE!",
+        "link": "https://www.skysports.com/football/aston-villa-vs-arsenal/live/559454"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "The Drin :: I Lost My Way for Centuries",
+        "link": "https://aquariumdrunkard.com/2026/08/31/the-drin-i-lost-my-way-for-centuries/"
+      },
+      {
+        "title": "Nighttime :: Looking Glass",
+        "link": "https://aquariumdrunkard.com/2026/08/31/nighttime-looking-glass/"
+      },
       {
         "title": "Black Duck with Elena Seti\u00e9n",
         "link": "https://aquariumdrunkard.com/2026/08/28/black-duck-with-elena-setien/"
@@ -66,34 +74,26 @@
       {
         "title": "Stanley Turrentine & The Three Sounds :: Blue Hour (1961)",
         "link": "https://aquariumdrunkard.com/2026/08/28/stanley-turrentine-the-three-sounds-blue-hour-1961/"
-      },
-      {
-        "title": "Bondo :: Bondo",
-        "link": "https://aquariumdrunkard.com/2026/08/27/bondo-bondo/"
-      },
-      {
-        "title": "Jeffrey Silverstein :: Patchouli",
-        "link": "https://aquariumdrunkard.com/2026/08/27/jeffrey-silverstein-patchouli/"
       }
     ],
     "bfi": [],
     "criterion": [],
     "rogerebert": [
       {
-        "title": "Be Smart About the Way You Change: Spike Fearn and Angourie Rice on \u201cFinding Emily\u201d",
-        "link": "https://www.rogerebert.com/interviews/finding-emily-spike-fearn-angourie-rice-interview"
+        "title": "\u201cOnimusha: Way of the Sword\u201d is a Drawn-Out Samurai Epic",
+        "link": "https://www.rogerebert.com/video-games/onimusha-way-of-the-sword-is-a-drawn-out-samurai-epic"
       },
       {
-        "title": "\u201cDark Matter\u201d Reinvents Itself With an Outstanding Second Season",
-        "link": "https://www.rogerebert.com/streaming/dark-matter-season-2-joel-edgerton-apple-tv-review-2026"
+        "title": "\u201cThe Blood of Dawnwalker\u201d Captivates Gamers with Immersive Storytelling",
+        "link": "https://www.rogerebert.com/video-games/the-blood-of-dawnwalker-captivates-gamers-with-immersive-storytelling"
       },
       {
-        "title": "Live Wire: Michael Wright, 1956-2026",
-        "link": "https://www.rogerebert.com/tributes/live-wire-michael-wright-1956-2026"
+        "title": "A Coat of Many Colors: How Dolly Parton Helped Me Appreciate My Mother",
+        "link": "https://www.rogerebert.com/mzs/a-coat-of-many-colors-how-dolly-parton-helped-me-appreciate-my-mother"
       },
       {
-        "title": "\u201cAdults\u201d Grows Up Just Enough to Become One of TV\u2019s Best Sitcoms in Season 2",
-        "link": "https://www.rogerebert.com/streaming/adults-season-2-fx-tv-review-2026"
+        "title": "Jane Schoenbrun\u2019s Queer Horror Cinema of Requiem and Revelation",
+        "link": "https://www.rogerebert.com/features/jane-schoenbruns-queer-horror-cinema-of-requiem-and-revelation"
       }
     ],
     "filmcomment": [
@@ -153,60 +153,64 @@
     ],
     "indiewire": [
       {
-        "title": "\u2018Lanterns\u2019 Review: Episode 3 Reveals John Stewart\u2019s Stunning \u2018OutKast\u2019 Origin Story \u2014 Spoilers",
-        "link": "https://www.indiewire.com/criticism/shows/lanterns-episode-3-review-outkast-john-stewart-origin-story-1235213359/"
+        "title": "\u2018The Social Reckoning,\u2019 \u2018Cliff Booth,\u2019 and \u2018Artificial\u2019 Had Reshoots. Why Is That a Disaster?",
+        "link": "https://www.indiewire.com/features/commentary/social-reckoning-cliff-booth-artificial-reshoots-problems-david-fincher-1235213087/"
       },
       {
-        "title": "\u2018Coyote vs. Acme,\u2019 Viewed as Unreleasable by Warner Bros., Just Beat a Jacob Elordi and Ridley Scott Movie at the Box Office",
-        "link": "https://www.indiewire.com/news/box-office/box-office-coyote-vs-acme-beats-jacob-elordi-ridley-scott-dog-stars-1235213602/"
+        "title": "16 Hot Sales Titles at Venice and TIFF 2026, from \u2018Bucking Fastard\u2019 to \u2018Prima Facie\u2019",
+        "link": "https://www.indiewire.com/news/festivals/hot-sales-titles-venice-tiff-2026-bucking-fastard-1235212668/"
       },
       {
-        "title": "From Timoth\u00e9e\u00a0Chalamet and Tom Cruise to Cynthia Erivo: It\u2019s Time for Some Overdue Actors to Finally Win an Oscar",
-        "link": "https://www.indiewire.com/awards/consider-this/overdue-actors-oscar-matt-damon-tom-cruise-timothee-chalamet-1235213219/"
+        "title": "\u2018Onslaught\u2019 Review: Adam Wingard Goes Back to Basics with a Lean Military Slasher",
+        "link": "https://www.indiewire.com/criticism/movies/onslaught-review-adria-arjona-1235212736/"
       },
       {
-        "title": "\u2018Robot Chicken\u2019 Celebrated 25 Years of Adult Swim with an Absurd, \u2018Circus of the Stars\u2019 Crossover",
-        "link": "https://www.indiewire.com/features/interviews/robot-chicken-adult-swim-25th-anniversary-special-interview-1235212999/"
+        "title": "Paul Thomas Anderson\u2019s \u2018Cameron Winter at Carnegie Hall\u2019 Will World Premiere at This Year\u2019s New York Film Festival",
+        "link": "https://www.indiewire.com/news/festivals/paul-thomas-anderson-cameron-winter-at-carnegie-new-york-film-festival-1235213640/"
       }
     ],
     "variety": [
       {
-        "title": "Rintaro Returns to Korea After 17 Years for Busan\u2019s Japanese Animation Special",
-        "link": "https://variety.com/2026/film/festivals/rintaro-busan-japanese-animation-special-1236847137/"
+        "title": "Joko Anwar\u2019s \u2018Satan\u2019s Slaves: Origin\u2019 Boarded by Barunson E&A for International Sales",
+        "link": "https://variety.com/2026/film/news/joko-anwar-satans-slaves-origin-barunson-ea-1236847552/"
       },
       {
-        "title": "Korea Box Office: \u2018The Odyssey\u2019 Eclipses \u2018Spider-Man: Brand New Day\u2019",
-        "link": "https://variety.com/2026/film/box-office/korea-box-office-the-odyssey-spider-man-brand-new-day-the-journey-to-gyeongju-1236847124/"
+        "title": "\u2018Big Mistakes\u2019 Season 2 Casts Lorenzo de Moor, Poorna Jagannathan",
+        "link": "https://variety.com/2026/tv/news/big-mistakes-season-2-lorenzo-de-moor-poorna-jagannathan-1236847491/"
       },
       {
-        "title": "China Box Office: \u2018Once Upon a Time in the Middle East\u2019 Continues Dominance",
-        "link": "https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-odyssey-spider-man-1236847114/"
+        "title": "\u2018Paradise Lost\u2019 From \u2018Train to Busan\u2019 Director Yeon Sang-ho Acquired by Well Go USA Entertainment (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/global/paradise-lost-from-train-busan-director-yeon-sang-ho-well-go-1236847477/"
       },
       {
-        "title": "Helsinki\u2019s Finnish Film Affair Unveils Film, Series Pitches and Panels, Strikes First Nordic Genre Lab Partnership (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/global/helsinki-finnish-film-affair-program-1236846645/"
+        "title": "D4vd Abruptly Parts Ways With Legal Team in Favor of Public Defenders",
+        "link": "https://variety.com/2026/music/news/d4vd-abruptly-parts-ways-with-legal-team-public-defenders-1236847525/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "In \u2018Love Is the Monster,\u2019 Paulina Garc\u00eda Is a Granny Facing Impossible Choices (Exclusive TIFF Trailer)",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/tiff-2026-love-is-the-monster-film-trailer-paulina-garcia-1236682391/"
+        "title": "\u2018Outlander: Blood of My Blood\u2019 Returns \u2014 and Reunions Don\u2019t Last Long",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/outlander-blood-of-my-blood-season-2-trailer-1236685743/"
       },
       {
-        "title": "\u2018Pok\u00e9mon: Wild Card\u2019 Movie Announced for 2027; Teaser Released",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/pokemon-wild-card-movie-announced-2027-watch-teaser-1236685585/"
+        "title": "\u2018Tires\u2019 Renewed for Season 4 by Netflix",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/tires-renewed-season-4-netflix-shane-gillis-steve-gerben-1236685840/"
       },
       {
-        "title": "Naya Rivera and Ryan Dorsey\u2019s 10-Year-Old Son, Josey, Lands First Film Role",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/naya-rivera-ryan-dorsey-son-josey-first-fim-role-1236685512/"
+        "title": "How Andrew Scott Took on the Role of a Lifetime in \u2018Elsinore\u2019",
+        "link": "https://www.hollywoodreporter.com/movies/movie-features/andrew-scott-elsinore-hamlet-exclusive-1236685337/"
       },
       {
-        "title": "Brutally Honest Emmy Ballot: \u201c\u2018DTF St. Louis\u2019 Should\u2019ve Been Called \u2018WTF St. Louis,\u2019\u201d \u2018Widow\u2019s Bay\u2019 Is \u201cFar and Away the Best\u201d Comedy on TV",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/emmy-voter-shares-brutally-honest-picks-ballot-1236685422/"
+        "title": "\u2018Off Campus\u2019 Star Stephen Kalyn Joins \u2018The Housemaid\u2019s Secret\u2019",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/stephen-kalyn-the-housemaids-secret-1236685839/"
       }
     ],
     "larb": [],
     "aeon": [
+      {
+        "title": "The Singapore strategies",
+        "link": "https://aeon.co/essays/did-singapore-go-wrong-in-its-quest-for-food-security"
+      },
       {
         "title": "The fog of hunger",
         "link": "https://aeon.co/essays/a-hungry-woman-is-easier-to-dismiss-than-a-well-fed-woman"
@@ -218,13 +222,13 @@
       {
         "title": "Dolphins and other lovers",
         "link": "https://aeon.co/essays/why-the-andoque-of-the-amazon-fear-the-seductive-dolphin"
-      },
-      {
-        "title": "The conscience files",
-        "link": "https://aeon.co/videos/thieves-of-cursed-rocks-pen-letters-of-remorse-to-a-national-park"
       }
     ],
     "psyche": [
+      {
+        "title": "The human frequency",
+        "link": "https://psyche.co/portraits/dj-william-goldsmith-on-the-human-art-of-internet-radio"
+      },
       {
         "title": "Everything is going to be fine",
         "link": "https://psyche.co/videos/youre-sure-that-society-is-spiralling-and-were-all-doomed-now-what"
@@ -236,10 +240,6 @@
       {
         "title": "Arabic has four words for sadness. Philosophy explains why",
         "link": "https://psyche.co/ideas/arabic-has-four-words-for-sadness-philosophy-explains-why"
-      },
-      {
-        "title": "Glass eggs",
-        "link": "https://psyche.co/turning-points/the-grief-and-fragile-hope-of-deciding-to-freeze-my-eggs"
       }
     ],
     "publicdomainreview": [
@@ -262,6 +262,10 @@
     ],
     "quanta": [
       {
+        "title": "\u2018Stunning\u2019 Percolation Proof Solves Decades-Old Puzzle About Phase Transitions",
+        "link": "https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260828/"
+      },
+      {
         "title": "Does Computer Science Need Computers?",
         "link": "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/"
       },
@@ -272,28 +276,24 @@
       {
         "title": "A New Framework for How the Brain Compresses Our Noisy World",
         "link": "https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/"
-      },
-      {
-        "title": "\u2018Huge Breakthrough\u2019 in the Math of Imbalance",
-        "link": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/"
       }
     ],
     "nautilus": [
       {
-        "title": "I\u2019m Part of the Team Writing the Next Bible of Psychiatry\u2014For the First Time, the DSM Will Use Biology to Understand Mental\u00a0Disorders",
-        "link": "https://nautil.us/im-part-of-the-team-writing-the-next-bible-of-psychiatry-for-the-first-time-the-dsm-will-use-biology-to-understand-mental-disorders-1284613/"
+        "title": "The Extinct Tasmanian Tiger\u2019s Bite Was Unlike Any Other Predatory Mammal\u2019s",
+        "link": "https://nautil.us/the-extinct-tasmanian-tigers-bite-was-unlike-any-other-predatory-mammals-1284660/"
       },
       {
-        "title": "Watch This Shrimp-Like Fish Walk Backwards",
-        "link": "https://nautil.us/watch-this-shrimp-like-fish-walk-backwards-1284607/"
+        "title": "This Viking Dress Survived for 1,300 Years, Protected by Its Metal Ornaments",
+        "link": "https://nautil.us/this-viking-dress-survived-for-1300-years-protected-by-its-metal-ornaments-1284625/"
       },
       {
-        "title": "COVID Brain Fog May Not Be Irreversible",
-        "link": "https://nautil.us/covid-brain-fog-may-not-be-irreversible-1284604/"
+        "title": "How a \u201cPsychic\u201d Horse Named Clever Hans Changed the Way We Do\u00a0Science",
+        "link": "https://nautil.us/how-a-psychic-horse-named-clever-hans-changed-the-way-we-do-science-1284622/"
       },
       {
-        "title": "Listen in on the Sounds of a Jurassic Period Forest",
-        "link": "https://nautil.us/listen-in-on-the-sounds-of-a-jurassic-period-forest-1284593/"
+        "title": "An Expert Pieced Together This Roman Document Like a Jigsaw Puzzle. You\u2019ll Never Guess What It\u2019s About",
+        "link": "https://nautil.us/an-expert-pieced-together-this-roman-document-like-a-jigsaw-puzzle-youll-never-guess-what-its-about-1284616/"
       }
     ],
     "worksinprogress": [],
