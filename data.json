@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-08-31 02:49 UTC",
+  "last_updated": "2026-08-31 09:10 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Prisoners freed early are returning to jail at rapid rate, governors tell BBC",
-        "link": "https://www.bbc.co.uk/news/articles/c14dlm5e22ko?at_medium=RSS&at_campaign=rss"
+        "title": "Early release scheme could see dangerous criminals released, Conservatives warn",
+        "link": "https://www.bbc.co.uk/news/articles/ckgwxx0dg05o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US and Iran trade strikes for first time in weeks",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Patel to be replaced by Tugendhat as shadow foreign secretary",
         "link": "https://www.bbc.co.uk/news/articles/cn5d7ry053eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
-        "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "This actor was told he had Alzheimer's, now he's performing a one-man show",
-        "link": "https://www.bbc.co.uk/news/articles/c4g3nwwjd8go?at_medium=RSS&at_campaign=rss"
+        "title": "Djokovic in tears during US Open first-round exit",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/c39m1le9gjeo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Niger mutiny puts Russia\u2019s expanding role in the Sahel to the test",
-        "link": "https://www.aljazeera.com/news/2026/8/31/niger-mutiny-puts-russias-expanding-role-in-the-sahel-to-the-test?traffic_source=rss"
+        "title": "England vs Pakistan second Test: Three talking points from cricket series",
+        "link": "https://www.aljazeera.com/sports/2026/8/31/england-vs-pakistan-second-test-three-talking-points-from-cricket-series?traffic_source=rss"
       },
       {
-        "title": "Tunisia swelters as power cuts disrupt water supplies",
-        "link": "https://www.aljazeera.com/news/2026/8/31/tunisia-swelters-as-power-cuts-disrupt-water-supplies?traffic_source=rss"
+        "title": "Syria is choosing diplomacy with Israel, but can its approach last?",
+        "link": "https://www.aljazeera.com/features/2026/8/31/syria-is-choosing-diplomacy-with-israel-but-can-its-approach-last?traffic_source=rss"
       },
       {
-        "title": "US plans to sanction another bank to keep economic pressure on Iran",
-        "link": "https://www.aljazeera.com/news/2026/8/31/us-plans-to-sanction-another-bank-to-keep-economic-pressure-on-iran?traffic_source=rss"
+        "title": "Nord Stream bombings put Ukraine\u2019s ties with Germany under pressure",
+        "link": "https://www.aljazeera.com/news/2026/8/31/why-the-2022-nord-stream-bombings-muddle-berlin-kyiv-ties?traffic_source=rss"
       },
       {
-        "title": "What are the implications of the US-Venezuela oil deal?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/8/31/what-are-the-implications-of-the-us-venezuela-oil-deal?traffic_source=rss"
+        "title": "\u2018An act of resistance\u2019: Raja Shehadeh\u2019s Palestinian diaries find a new home",
+        "link": "https://www.aljazeera.com/news/2026/8/31/an-act-of-resistance-raja-shehadehs-palestinian-diaries-find-a-new-home?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "PGA Tour: Every result from the 2026 FedExCup season ",
-        "link": "https://www.skysports.com/golf/news/12040/13415204/pga-tour-2026-schedule-dates-venues-events-for-the-new-fedexcup-season-signature-events-and-golf-majors"
+        "title": "Brighton latest: Azeez pursuit still on despite Millwall rejecting \u00a310m bid",
+        "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
       },
       {
-        "title": "Premier League ins and outs - the confirmed deals so far...",
-        "link": "https://www.skysports.com/football/news/12040/13546618/transfer-news-summer-transfer-window-2026-premier-league-deals-ins-and-outs"
+        "title": "Aston Villa latest: Harwood-Bellis undergoes medical as Watkins pens farewell",
+        "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       {
-        "title": "Heartwarming moments as Ross Smith celebrates title with his son ",
-        "link": "https://www.skysports.com/watch/video/13579299/heartwarming-moments-as-ross-smith-celebrates-his-title-with-his-son"
+        "title": "Ponting: Labuschagne's Australia Test place 'almost untenable'",
+        "link": "https://www.skysports.com/cricket/news/12040/13578618/marnus-labuschagne-ricky-ponting-says-australia-batters-place-in-test-team-almost-untenable-after-lean-run-of-form"
       },
       {
-        "title": "Donald ends retirement to make dramatic Rams return",
-        "link": "https://www.skysports.com/nfl/news/12040/13579264/aaron-donald-los-angeles-rams-legendary-defensive-tackle-comes-out-of-retirement-for-2026-season"
+        "title": "Today on Sky Sports Racing: Two-year-old Trophy up for grabs at Ripon",
+        "link": "https://www.skysports.com/racing/news/12040/13578656/today-on-sky-sports-racing-two-year-old-trophy-up-for-grabs-at-ripon"
       }
     ],
     "pitchfork": [],
@@ -116,6 +116,10 @@
     ],
     "mubi": [
       {
+        "title": "Inherit the Wind: Kiyoshi Kurosawa\u2019s \u201cThe Samurai and the Prisoner\u201d",
+        "link": "https://mubi.com/en/notebook/posts/inherit-the-wind-kiyoshi-kurosawa-s-the-samurai-and-the-prisoner"
+      },
+      {
         "title": "MUBI Podcast: Italian Voices of Today | Season 6",
         "link": "https://mubi.com/en/notebook/posts/mubi-podcast-italian-voices-of-today-season-6"
       },
@@ -126,10 +130,6 @@
       {
         "title": "Songs for a Kiss: The Evolving Romance of Pakistani Cinema",
         "link": "https://mubi.com/en/notebook/posts/songs-for-a-kiss-the-evolving-romance-of-pakistani-cinema"
-      },
-      {
-        "title": "Rushes | Mark Ruffalo vs. Paramount, Ilya Khrzhanovsky Defends \u201cDAU,\u201d Johnnie To Makes English-Language Debut",
-        "link": "https://mubi.com/en/notebook/posts/rushes-mark-ruffalo-vs-paramount-ilya-khrzhanovsky-defends-dau-johnnie-to-makes-english-language-debut"
       }
     ],
     "reverseshot": [],
@@ -171,38 +171,38 @@
     ],
     "variety": [
       {
-        "title": "\u2018Lanterns\u2019 Stars Aaron Pierre, Jasmine Cephas Jones on John\u2019s Backstory Episode and How Being Black Informs His Quest to Become Green Lantern: \u2018Fear Is Instilled in Our Ancestry\u2019",
-        "link": "https://variety.com/2026/tv/features/lanterns-aaron-pierre-john-backstory-episode-green-lantern-1236838632/"
+        "title": "Rintaro Returns to Korea After 17 Years for Busan\u2019s Japanese Animation Special",
+        "link": "https://variety.com/2026/film/festivals/rintaro-busan-japanese-animation-special-1236847137/"
       },
       {
-        "title": "Korea\u2019s Showbox Launches Microdrama Label Showbite, Sets Sights on Global Markets (EXCLUSIVE)",
-        "link": "https://variety.com/2026/tv/news/showbox-microdrama-label-showbite-global-markets-1236846765/"
+        "title": "Korea Box Office: \u2018The Odyssey\u2019 Eclipses \u2018Spider-Man: Brand New Day\u2019",
+        "link": "https://variety.com/2026/film/box-office/korea-box-office-the-odyssey-spider-man-brand-new-day-the-journey-to-gyeongju-1236847124/"
       },
       {
-        "title": "Enhypen Lands First No. 1, Dolly Parton Reenters Top Five on Albums Chart",
-        "link": "https://variety.com/2026/music/news/enhypen-land-first-no-1-dolly-parton-returns-albums-chart-1236846995/"
+        "title": "China Box Office: \u2018Once Upon a Time in the Middle East\u2019 Continues Dominance",
+        "link": "https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-odyssey-spider-man-1236847114/"
       },
       {
-        "title": "\u2018Days of Thunder\u2019 Star Randy Quaid Says Anne Hathaway Is \u2018Woke\u2019 and a \u2018Horrible Choice\u2019 for the Sequel: \u2018You Need the Original Girl\u2019",
-        "link": "https://variety.com/2026/film/news/days-of-thunder-2-anne-hathaway-horrible-choice-randy-quaid-1236846972/"
+        "title": "Helsinki\u2019s Finnish Film Affair Unveils Film, Series Pitches and Panels, Strikes First Nordic Genre Lab Partnership (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/global/helsinki-finnish-film-affair-program-1236846645/"
       }
     ],
     "hollywoodreporter": [
       {
+        "title": "In \u2018Love Is the Monster,\u2019 Paulina Garc\u00eda Is a Granny Facing Impossible Choices (Exclusive TIFF Trailer)",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/tiff-2026-love-is-the-monster-film-trailer-paulina-garcia-1236682391/"
+      },
+      {
+        "title": "\u2018Pok\u00e9mon: Wild Card\u2019 Movie Announced for 2027; Teaser Released",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/pokemon-wild-card-movie-announced-2027-watch-teaser-1236685585/"
+      },
+      {
+        "title": "Naya Rivera and Ryan Dorsey\u2019s 10-Year-Old Son, Josey, Lands First Film Role",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/naya-rivera-ryan-dorsey-son-josey-first-fim-role-1236685512/"
+      },
+      {
         "title": "Brutally Honest Emmy Ballot: \u201c\u2018DTF St. Louis\u2019 Should\u2019ve Been Called \u2018WTF St. Louis,\u2019\u201d \u2018Widow\u2019s Bay\u2019 Is \u201cFar and Away the Best\u201d Comedy on TV",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/emmy-voter-shares-brutally-honest-picks-ballot-1236685422/"
-      },
-      {
-        "title": "Finneas O\u2019Connell and Claudia Sulewski Are Married",
-        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/finneas-oconnell-claudia-sulewski-married-1236685263/"
-      },
-      {
-        "title": "Olivia Rodrigo\u2019s Inaugural Daisy Chain Fields Draws Massive Crowd to SoCal for a Day of Music and Empowerment",
-        "link": "https://www.hollywoodreporter.com/music/music-news/olivia-rodrigo-inaugural-daisy-chain-fields-highlights-1236685135/"
-      },
-      {
-        "title": "Stars Gather at Grand Ole Opry for Dolly Parton Musical Tribute: \u201cMost Beloved Human Being in the World\u201d",
-        "link": "https://www.hollywoodreporter.com/music/music-news/grand-ole-opry-dolly-parton-musical-tribute-stars-perform-1236685180/"
       }
     ],
     "larb": [],
