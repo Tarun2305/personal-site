@@ -1,7 +1,11 @@
 {
-  "last_updated": "2026-09-01 18:05 UTC",
+  "last_updated": "2026-09-01 22:55 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Burnham promises more devolution and public control of essential services",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
         "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss"
@@ -13,47 +17,43 @@
       {
         "title": "Germany says Russia behind Leipzig airport drone attack",
         "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Briton among 119 rescued in Nepal after deadly floods, army says",
-        "link": "https://www.bbc.co.uk/news/articles/c3eq499d0lgo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "John Ternus succeeds Tim Cook as Apple CEO after 15 years",
-        "link": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years?traffic_source=rss"
+        "title": "US urges G20 to cut trade imbalances, focus on China",
+        "link": "https://www.aljazeera.com/economy/2026/9/1/us-urges-g20-to-cut-trade-imbalances-focus-on-china?traffic_source=rss"
       },
       {
-        "title": "Pitso Mosimane appointed by South Africa ahead of AFCON qualifiers",
-        "link": "https://www.aljazeera.com/sports/2026/9/1/pitso-mosimane-appointed-by-south-africa-ahead-of-afcon-qualifiers?traffic_source=rss"
+        "title": "US energy secretary will travel to Venezuela to unveil oil arrangement",
+        "link": "https://www.aljazeera.com/news/2026/9/1/us-energy-secretary-will-travel-to-venezuela-to-unveil-oil-arrangement?traffic_source=rss"
       },
       {
-        "title": "China\u2019s Xi makes first visit to Egypt in a decade, amid regional turmoil",
-        "link": "https://www.aljazeera.com/economy/2026/9/1/chinas-xi-makes-first-visit-to-egypt-in-a-decade-amid-regional-turmoil?traffic_source=rss"
+        "title": "Urgent need for access to Iranian sites, cautions UN nuclear watchdog",
+        "link": "https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog?traffic_source=rss"
       },
       {
-        "title": "Ousted UK Prime Minister Keir Starmer to quit domestic politics",
-        "link": "https://www.aljazeera.com/news/2026/9/1/ousted-uk-prime-minister-keir-starmer-to-quit-domestic-politics?traffic_source=rss"
+        "title": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/zelenskyy-warns-airlines-as-ukrainian-drones-target-russian-airspace?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Newcastle latest: Juventus sign Woltemade on loan",
-        "link": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "title": "Deal off! Chelsea move for Fernandez replacement falls through",
+        "link": "https://www.skysports.com/football/news/12040/13580189/lamine-camara-monaco-pull-out-of-selling-midfielder-to-chelsea-in-47m-deal-after-blues-agreed-deal-for-enzo-fernandez-replacement"
       },
       {
-        "title": "Dual Gold Cup winner Galopin Des Champs dies aged 10",
-        "link": "https://www.skysports.com/racing/news/12040/13579978/galopin-des-champs-two-time-cheltenham-gold-cup-winner-dies-aged-10-following-accident-in-field"
+        "title": "Koivun handed shock Team USA debut as Presidents Cup picks revealed",
+        "link": "https://www.skysports.com/golf/news/12040/13580066/presidents-cup-2026-jackson-koivun-handed-shock-team-usa-debut-as-brandt-snedeker-geoff-ogilvy-reveal-captains-picks"
       },
       {
-        "title": "West Ham latest: Todibo joins Lens as Olympiakos cool Alvarez interest",
-        "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news"
+        "title": "Man City sign Fernandez in British-record-equalling deal",
+        "link": "https://www.skysports.com/football/news/12040/13579972/enzo-fernandez-transfer-news-man-city-sign-midfielder-from-chelsea-in-british-record-equalling-125m-deal"
       },
       {
-        "title": "Leeds latest: Deal agreed to sign Bundesliga's fastest player",
-        "link": "https://www.skysports.com/football/live-blog/12040/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "title": "Spurs sign Chelsea duo Mudryk and Tosin on Deadline Day",
+        "link": "https://www.skysports.com/football/news/12040/13579537/mykhailo-mudryk-transfer-news-tottenham-sign-chelsea-winger-on-loan-as-tosin-joins-in-permanent-deal"
       }
     ],
     "pitchfork": [],
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "In the Neon World of \u2018Buddy,\u2019 Hints of Fascism Are Everywhere, Even in Talking Trains and Deranged Puppets",
+        "link": "https://www.indiewire.com/features/craft/buddy-production-design-making-of-puppets-1235213250/"
+      },
+      {
         "title": "Can AMC Kips Bay 15 Be Saved? Politicians and Activists Mobilize to Keep Beloved Movie Theater",
         "link": "https://www.indiewire.com/news/general-news/can-amc-kips-bay-15-be-saved-petition-starts-1235213802/"
       },
@@ -163,46 +167,42 @@
       {
         "title": "\u2018Mouse\u2019 Trailer: Sophie Okonedo\u2019s Big 2026 Continues with This Gem from the Filmmakers of \u2018Ghostlight\u2019",
         "link": "https://www.indiewire.com/news/trailers/mouse-trailer-sophie-okonedo-ghostlight-1235213372/"
-      },
-      {
-        "title": "\u2018La Bola Negra\u2019 Teaser: Spanish Cannes Sensation Comes to Netflix and Movie Theaters",
-        "link": "https://www.indiewire.com/news/trailers/la-bola-negra-teaser-netflix-1235213671/"
       }
     ],
     "variety": [
       {
-        "title": "Tubi Sets Short-Form Horror Anthology Series \u2018Bite Size Terror\u2019 For Fall Release (EXCLUSIVE)",
-        "link": "https://variety.com/2026/tv/news/tubi-short-form-horror-anthology-bite-size-terror-1236847926/"
+        "title": "\u2018Wheel of Fortune\u2019 Announcer Jim Thornton Suspended, Position Will Be Recast",
+        "link": "https://variety.com/2026/tv/news/wheel-of-fortune-announcer-jim-thornton-suspended-1236848741/"
       },
       {
-        "title": "Chinese Feature \u2018Big Little Things\u2019 Turns a Real-Life Family Rift Into a Coming-Out Drama Now Headed for Venice Horizons (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/news/china-drama-big-little-things-venice-horizons-1236844623/"
+        "title": "DreamWorks Remote Workers Ratify First Union Agreement With the Animation Guild",
+        "link": "https://variety.com/2026/artisans/news/dreamworks-remote-workers-agreement-animation-guild-1236848733/"
       },
       {
-        "title": "Venice Chief Alberto Barbera on the Fest\u2019s Lineup Missing Israeli Films: \u2018We Have No Prejudice Against Anyone Anywhere in the World\u2019",
-        "link": "https://variety.com/2026/film/global/alberto-barbera-venice-lineup-1236848269/"
+        "title": "Tom Cruise Is Confident Paramount-Warner Bros. Will Release 30 Films a Year After Merger: \u2018They\u2019re Going to Deliver\u2019",
+        "link": "https://variety.com/2026/film/news/tom-cruise-david-ellison-paramount-warner-bros-merger-1236846704/"
       },
       {
-        "title": "Best Horror of September 2026:\u00a0Zach Cregger\u2019s \u2018Resident Evil,\u2019 Adam Wingard\u2019s \u2018Onslaught,\u2019 a Lizzie Borden Miniseries and More",
-        "link": "https://variety.com/lists/horror-movies-to-watch-september-2026/"
+        "title": "Melissa Leo Joins Will Smith in Amazon MGM and Miramax Action-Thriller \u2018Supermax\u2019 (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/news/melissa-leo-will-smith-supermax-amazon-mgm-miramax-1236848719/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Santa Barbara Film Fest: \u2018Disclosure Day\u2019 Star Emily Blunt Set for Kirk Douglas Award for Excellence in Film",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/santa-barbara-film-fest-emily-blunt-kirk-douglas-award-1236685977/"
+        "title": "\u2018Wheel of Fortune\u2019 Announcer Suspended Amid Investigation",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/wheel-of-fortune-announcer-suspended-investigation-1236687382/"
       },
       {
-        "title": "Inside the Singular Animation Process of \u2018Coyote Vs. Acme\u2019",
-        "link": "https://www.hollywoodreporter.com/movies/movie-features/coyote-vs-acme-animation-deep-dive-feature-1236685016/"
+        "title": "Tom Cruise Blesses Paramount\u2019s Deal to Buy Warner Bros., In the Name of Movie \u201cAbundance\u201d",
+        "link": "https://www.hollywoodreporter.com/business/business-news/tom-cruise-backs-paramount-30-movies-per-year-promise-1236687399/"
       },
       {
-        "title": "California Legislature Passes Bill to Address Catch in $750 Million Tax Credit for Hollywood",
-        "link": "https://www.hollywoodreporter.com/business/business-news/california-legislators-bill-catch-750m-tax-credit-1236686323/"
+        "title": "CBS News\u2019 Bari Weiss Faces Backlash Over Headline Linking Muslim Senate Candidate to 9/11",
+        "link": "https://www.hollywoodreporter.com/news/general-news/cbs-news-bari-weiss-backlash-abdul-el-sayed-9-11-1236687342/"
       },
       {
-        "title": "\u2018Tulsa King\u2019 Season 4 Trailer, Premiere Date Revealed as Showrunner Changes Yet Again",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/tulsa-king-season-4-trailer-release-date-stallone-1236686713/"
+        "title": "Tupac\u2019s Murder Finally Has a Guilty Verdict. But the Mystery Isn\u2019t Over",
+        "link": "https://www.hollywoodreporter.com/music/music-news/tupac-murder-guilty-verdict-mystery-isnt-over-1236686458/"
       }
     ],
     "larb": [],
@@ -280,20 +280,20 @@
     ],
     "nautilus": [
       {
+        "title": "New Heart Attack Definitions Could Lead to Better Care for Women",
+        "link": "https://nautil.us/new-heart-attack-definitions-could-lead-to-better-care-for-women-1284697/"
+      },
+      {
+        "title": "Your Organs Age at Different Paces\u2014And They\u2019re Coordinating With Each Other",
+        "link": "https://nautil.us/your-organs-age-at-different-paces-and-theyre-coordinating-with-each-other-1284694/"
+      },
+      {
         "title": "Schizophrenia\u2019s Cruel Roulette Wheel",
         "link": "https://nautil.us/schizophrenias-cruel-roulette-wheel-1284681/"
       },
       {
         "title": "Your Ability to Cope with Stress Changes with the Seasons and Your Own Biological\u00a0Clocks",
         "link": "https://nautil.us/your-ability-to-cope-with-stress-changes-with-the-seasons-and-your-own-biological-clocks-1284678/"
-      },
-      {
-        "title": "A Meteorological Rarity: Snow Across the Atacama Desert",
-        "link": "https://nautil.us/a-meteorological-rarity-snow-across-the-atacama-desert-1284672/"
-      },
-      {
-        "title": "Memory Decline Starts Earlier Than You Might Think",
-        "link": "https://nautil.us/memory-decline-starts-earlier-than-you-might-think-1284669/"
       }
     ],
     "worksinprogress": [],
