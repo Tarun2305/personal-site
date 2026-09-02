@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-09-02 18:18 UTC",
+  "last_updated": "2026-09-02 22:55 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Burnham pressed on economy at first PMQs as UK borrowing costs rise",
+        "title": "Burnham pressed on economy at first PMQs as borrowing costs surge",
         "link": "https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "PMQs shows the challenge Burnham has in delivering new style of politics",
-        "link": "https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo?at_medium=RSS&at_campaign=rss"
+        "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
+        "link": "https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Woman charged with juror intimidation in Lindsay Clancy trial ",
-        "link": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss"
+        "title": "King hails 'unprecedented' Bayeux Tapestry exhibition in London",
+        "link": "https://www.bbc.co.uk/news/articles/cy7zx6k404go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'Nothing but mud and silt' - the village swept away by deadly floods in Nepal",
-        "link": "https://www.bbc.co.uk/news/videos/cn0j4k45z32o?at_medium=RSS&at_campaign=rss"
+        "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+        "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "EU ministers in Ireland tackle Israeli settlement trade and Ukraine defence",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-26-reported-ireland-talks?traffic_source=rss"
+        "title": "OpenAI faces new lawsuits over Tumbler Ridge mass shooting tragedy",
+        "link": "https://www.aljazeera.com/economy/2026/9/2/openai-faces-new-lawsuits-over-tumbler-ridge-mass-shooting-tragedy?traffic_source=rss"
       },
       {
-        "title": "Gunman in deadly Swiss rave attack \u2018lone perpetrator\u2019, police say",
-        "link": "https://www.aljazeera.com/news/2026/9/2/gunman-in-deadly-swiss-rave-attack-lone-perpetrator-police-say?traffic_source=rss"
+        "title": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
+        "link": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss"
       },
       {
-        "title": "Over 500 students hospitalised after eating state-supplied meals in Indones",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/over-500-students-hospitalised-after-eating-state-supplied-meals-in-indones?traffic_source=rss"
+        "title": "Israeli PM says Israel is working to overthrow Iran\u2019s government",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss"
       },
       {
-        "title": "A year into Trump\u2019s boat strike campaign, families search for answers",
-        "link": "https://www.aljazeera.com/news/2026/9/2/a-year-into-trumps-boat-strike-campaign-families-search-for-answers?traffic_source=rss"
+        "title": "Children return to school in DR Congo amid growing concerns over Ebola",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/children-return-to-school-in-dr-congo-amid-growing-concerns-over-ebola?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "West Brom, Middlesbrough, Wrexham in action - EFL LIVE on Sky! ",
-        "link": "https://www.skysports.com/football/live-blog/12040/13579447/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one"
+        "title": "Shankland at the double as Rangers win at Falkirk",
+        "link": "https://www.skysports.com/football/falkirk-vs-rangers/report/558359"
       },
       {
-        "title": "Carse left out of England squad for third Pakistan Test",
-        "link": "https://www.skysports.com/cricket/news/12040/13580419/england-vs-pakistan-brydon-carse-left-out-for-third-and-final-test-at-edgbaston-as-joe-roots-15-man-squad-revealed"
+        "title": "Boulter blown away by Muchova at US Open",
+        "link": "https://www.skysports.com/tennis/news/12040/13580530/us-open-2026-katie-boulter-blown-away-by-karolina-muchova"
       },
       {
-        "title": "Why Balogun's move collapsed to leave Everton, Chelsea and Monaco upset",
-        "link": "https://www.skysports.com/football/news/12040/13580477/why-folarin-baloguns-everton-move-collapsed-on-deadline-day-leaving-toffees-chelsea-and-monaco-frustrated"
+        "title": "Charlton hit back to hold West Brom",
+        "link": "https://www.skysports.com/football/west-bromwich-albion-vs-charlton-athletic/report/560545"
       },
       {
-        "title": "Medvedev FUMES as birds halt play!",
-        "link": "https://www.skysports.com/watch/video/13580444/us-open-daniil-medvedev-fumes-as-birds-halt-play"
+        "title": "Burnley battle back to hold Middlesbrough",
+        "link": "https://www.skysports.com/football/burnley-vs-middlesbrough/report/560542"
       }
     ],
     "pitchfork": [],
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
+        "title": "How Trump\u2019s Call for a Federal Film Production Incentive Could Actually Help Hollywood",
+        "link": "https://www.indiewire.com/features/commentary/trumps-film-tv-tax-incentive-productions-back-us-1235214399/"
+      },
+      {
+        "title": "\u2018Chronovisor\u2019 Review: An Occult Thriller Turns Academic Obsession Into Something Beguiling and Wildly Compelling",
+        "link": "https://www.indiewire.com/criticism/movies/chronovisor-movie-review-occult-thriller-jesus-photograph-1235214118/"
+      },
+      {
         "title": "\u2018Ink\u2019 Review: Danny Boyle\u2019s Rupert Murdoch Pressure Cooker Is a Journalism Thriller Tabloid-Ready for Our Political Apocalypse",
         "link": "https://www.indiewire.com/criticism/movies/ink-movie-review-danny-boyle-rupert-murdoch-1235213549/"
       },
       {
         "title": "In Between \u2018Midnight Run\u2019 and \u2018Goodfellas,\u2019 Robert De Niro Gave One of His Best Performances in a Movie Barely Anyone Saw",
         "link": "https://www.indiewire.com/features/commentary/jacknife-great-overlooked-robert-de-niro-performance-1235213874/"
-      },
-      {
-        "title": "Venice Jury President Maggie Gyllenhaal Decries \u2018Systemic\u2019 Lack of Female Directors in Competition",
-        "link": "https://www.indiewire.com/news/festivals/maggie-gyllenhaal-lack-female-directors-venice-2026-1235214236/"
-      },
-      {
-        "title": "Fall Festival Movies Sold So Far: \u2018Babies,\u2019 \u2018Ink,\u2019 and \u2018Elsinore\u2019 Lead Early Deals From Venice and TIFF",
-        "link": "https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018Lego Harry Potter\u2019 Collection Coming to Nintendo Switch 2 (Gaming News Roundup)",
-        "link": "https://variety.com/2026/gaming/news/gaming-news-roundup-week-august-31-1236848692/"
+        "title": "Should Hollywood Embrace Religion? Young Audiences Crave Complex Spiritual Characters and Plotlines That Challenge Faith, New Study Shows",
+        "link": "https://variety.com/2026/film/features/hollywood-religion-young-people-spiritual-content-1236849362/"
       },
       {
-        "title": "George Clooney Calls Out \u2018Authoritarians\u2019 and \u2018People Who Peddle in Fear\u2019 in Moving Venice Golden Lion Speech: They\u2019re \u2018Never the Heroes in History\u2019\u00a0",
-        "link": "https://variety.com/2026/film/festivals/george-clooney-calls-out-authoritarians-venice-golden-lion-speech-1236845843/"
+        "title": "Ryan Reynolds Praises \u2018The Odyssey\u2019 After Passing \u2018Deadpool & Wolverine\u2019 to Become Biggest R-Rated Movie Ever: \u2018Christopher Nolan Literally Breathes The Rarest Air on Earth\u2019",
+        "link": "https://variety.com/2026/film/news/ryan-reynolds-odyssey-nolan-deadpool-wolverine-mayday-1236849352/"
       },
       {
-        "title": "\u2018Ink\u2019 Review: Danny Boyle\u2019s Gripping, Sizzling Film About How a People\u2019s Paper Lost Its Humanity, and Won",
-        "link": "https://variety.com/2026/film/reviews/ink-review-1236849047/"
+        "title": "Carla Jeffery, Actress in Disney Channel\u2019s \u2018Zombies,\u2019 Dies at 33",
+        "link": "https://variety.com/2026/tv/news/carla-jeffery-dead-disney-channel-zombies-1236849763/"
       },
       {
-        "title": "Sci-Fi Comedy Adventure Series \u2018Maui & Elvis\u2019 Unites New Zealand\u2019s Whakaata Maori, Canada\u2019s APTN",
-        "link": "https://variety.com/2026/tv/news/sci-fi-comedy-maui-elvis-whakaata-maori-aptn-1236849154/"
+        "title": "\u2018Avengers: Doomsday\u2019 Shot Without a Finished Script, but Co-Director Joe Russo Says \u2018We Always View\u2019 the Screenplay as a \u2018Living Organism\u2019",
+        "link": "https://variety.com/2026/film/news/avengers-doomsday-shot-without-finished-script-russo-bros-defend-1236849564/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Trump\u2019s DoJ Backs OpenAI In Legal Face Off With New York Times",
-        "link": "https://www.hollywoodreporter.com/business/business-news/trump-doj-backs-openai-new-york-times-1236688417/"
+        "title": "Tim Curry\u2019s Cause of Death Revealed",
+        "link": "https://www.hollywoodreporter.com/news/general-news/tim-curry-cause-of-death-1236688715/"
       },
       {
-        "title": "The Tragedy of Perez Hilton",
-        "link": "https://www.hollywoodreporter.com/news/general-news/perez-hilton-suicide-attempt-tiktok-social-media-reckoning-1236684690/"
+        "title": "Hotel Cipriani Books Chic New Guest: Dior Spa",
+        "link": "https://www.hollywoodreporter.com/lifestyle/style/hotel-cipriani-venice-italy-dior-spa-treatments-menu-1236678305/"
       },
       {
-        "title": "\u2018Ink\u2019 Review: Jack O\u2019Connell and Guy Pearce Trace Rupert Murdoch\u2019s Fleet Street Rise in Breathlessly Paced, Morally Opaque Danny Boyle Drama",
-        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/ink-review-jack-oconnell-guy-pearce-danny-boyle-murdoch-1236686614/"
+        "title": "Danny Boyle\u2019s Rupert Murdoch Drama \u2018Ink\u2019 Gives Venice a Rollicking Start on Opening Night",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/danny-boyles-rupert-murdoch-drama-ink-venice-ovation-1236688040/"
       },
       {
-        "title": "Shemar Moore\u2019s Hondo Trains LAPD Misfits for Redemption in \u2018S.W.A.T. Exiles\u2019 Trailer",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/swat-exiles-trailer-shemar-moore-watch-1236688356/"
+        "title": "Dollywood Unveils Plans for 2027 in-Park Tributes and Resort Expansion",
+        "link": "https://www.hollywoodreporter.com/music/music-news/dollywood-in-park-tributes-resort-expansion-1236688664/"
       }
     ],
     "larb": [],
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "New Species of Giant Armadillo Has Convoluted History",
+        "link": "https://nautil.us/new-species-of-giant-armadillo-has-convoluted-history-1284734/"
+      },
+      {
         "title": "The Secret of Chronic Pain Could Lie in the Skull",
         "link": "https://nautil.us/the-secret-of-chronic-pain-could-lie-in-the-skull-1284730/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "How Your Genes Shape Your Personality",
         "link": "https://nautil.us/how-your-genes-shape-your-personality-1284718/"
-      },
-      {
-        "title": "Why Do Male Chimpanzees Throw Rocks at the Same Trees for More Than a Decade?",
-        "link": "https://nautil.us/why-do-male-chimpanzees-throw-rocks-at-the-same-trees-for-more-than-a-decade-1284704/"
       }
     ],
     "worksinprogress": [],
