@@ -1,64 +1,55 @@
 {
-  "last_updated": "2026-09-02 07:29 UTC",
+  "last_updated": "2026-09-02 13:08 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
-        "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss"
+        "title": "Farage tells BBC 'we live in a complainants' society' after questions over Reform funding",
+        "link": "https://www.bbc.co.uk/news/articles/cd6857j2v1qo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Chris Mason: Will Burnham find PMQs as 'nail biting' and 'nerve wracking' as Blair did?",
-        "link": "https://www.bbc.co.uk/news/articles/c7507z4enq6o?at_medium=RSS&at_campaign=rss"
+        "title": "Four in court over murder of baby stabbed to death",
+        "link": "https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
-        "link": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss"
+        "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
+        "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
-        "link": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss"
+        "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
+        "link": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Nepal floods: Father borrows $13, walks for days to search for missing son",
-        "link": "https://www.aljazeera.com/features/2026/9/2/nepal-floods-father-borrows-13-walks-for-days-to-search-for-missing-son?traffic_source=rss"
+        "title": "Palestinian landowners confront bulldozers using their hands",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/palestinian-landowners-confront-bulldozers-using-their-hands?traffic_source=rss"
       },
       {
-        "title": "Turkiye launches search for cargo ship after vessels collide off Istanbul",
-        "link": "https://www.aljazeera.com/news/2026/9/2/turkiye-launches-search-for-cargo-ship-after-vessels-collide-off-istanbul?traffic_source=rss"
+        "title": "Killing at Sea",
+        "link": "https://www.aljazeera.com/video/fault-lines/2026/9/2/killing-at-sea?traffic_source=rss"
       },
       {
-        "title": "As US seeks Gaza donor\u2019s extradition, wife warns of \u2018terrifying precedent\u2019",
-        "link": "https://www.aljazeera.com/news/2026/9/2/as-us-seeks-gaza-donors-extradition-wife-warns-of-terrifying-precedent?traffic_source=rss"
+        "title": "The US is gobbling up Venezuelan oil, but will it lower fuel prices?",
+        "link": "https://www.aljazeera.com/news/2026/9/2/the-us-is-gobbling-up-venezuelan-oil-but-will-it-lower-fuel-prices?traffic_source=rss"
       },
       {
-        "title": "Tyson Fury confirms Anthony Joshua fight at NYC\u2019s Madison Square Garden",
-        "link": "https://www.aljazeera.com/sports/2026/9/2/tyson-fury-confirms-anthony-joshua-fight-at-nycs-madison-square-garden?traffic_source=rss"
+        "title": "Nigerian anticorruption agency sacks 40 staff over misconduct allegations",
+        "link": "https://www.aljazeera.com/news/2026/9/2/nigerian-anticorruption-agency-sacks-40-staff-over-misconduct-allegations?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
-    "chelsea_sky": [
-      {
-        "title": "Etienne chases first success at Bath",
-        "link": "https://www.skysports.com/racing/news/12040/13579505/today-on-sky-sports-racing-bath-and-newcastle"
-      },
-      {
-        "title": "'Fans will crucify them' - Hakkinen issues warning over team orders in title battle",
-        "link": "https://www.skysports.com/f1/news/12040/13579867/f1-fans-will-crucify-teams-if-team-orders-are-used-in-2026-title-battle-says-former-world-champion-mika-hakkinen"
-      },
-      {
-        "title": "'I know what I have to work on' - Fery ready to take on best despite US Open exit",
-        "link": "https://www.skysports.com/tennis/news/12040/13580206/us-open-britains-arthur-fery-admitted-he-still-has-plenty-to-work-on-after-his-new-york-debut-was-cut-short"
-      },
-      {
-        "title": "Gauff makes storming start as Zverev avoids major upset",
-        "link": "https://www.skysports.com/tennis/news/12040/13580205/us-open-coco-gauff-makes-storming-start-while-serena-and-venus-williams-are-drawn-to-face-maya-joint-and-chan-hao-ching-in-womens-doubles"
-      }
-    ],
+    "chelsea_sky": [],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "American Spring :: S/T (1972)",
+        "link": "https://aquariumdrunkard.com/2026/09/02/american-spring-s-t-1972/"
+      },
+      {
+        "title": "Transmissions :: Sun Ra: Door of the Cosmos",
+        "link": "https://aquariumdrunkard.com/2026/09/02/transmissions-sun-ra-door-of-the-cosmos/"
+      },
       {
         "title": "Mel\u00f4 do Embaixador: Brazilian Soul, Funk & Disco Covers 1968-2015",
         "link": "https://aquariumdrunkard.com/2026/09/01/melo-do-embaixador-brazilian-soul-funk-disco-covers-1968-2015/"
@@ -66,14 +57,6 @@
       {
         "title": "The Drin :: I Lost My Way for Centuries",
         "link": "https://aquariumdrunkard.com/2026/08/31/the-drin-i-lost-my-way-for-centuries/"
-      },
-      {
-        "title": "Nighttime :: Looking Glass",
-        "link": "https://aquariumdrunkard.com/2026/08/31/nighttime-looking-glass/"
-      },
-      {
-        "title": "Black Duck with Elena Seti\u00e9n",
-        "link": "https://aquariumdrunkard.com/2026/08/28/black-duck-with-elena-setien/"
       }
     ],
     "bfi": [],
@@ -153,56 +136,56 @@
     ],
     "indiewire": [
       {
-        "title": "California Could Offer a Tax Credit for Post-Production If Gavin Newsom Approves It in the Next Month",
-        "link": "https://www.indiewire.com/features/craft/california-post-production-tax-credit-1235210240/"
+        "title": "Streamers Were Scared of Trump and Wouldn\u2019t Touch \u2018Ask E. Jean\u2019 \u2014 5 Companies Are Teaming Up to Launch It on VOD",
+        "link": "https://www.indiewire.com/news/breaking-news/streamers-wouldnt-touch-ask-e-jean-trump-vod-release-kinema-1235214125/"
       },
       {
-        "title": "In the Neon World of \u2018Buddy,\u2019 Hints of Fascism Are Everywhere, Even in Talking Trains and Deranged Puppets",
-        "link": "https://www.indiewire.com/features/craft/buddy-production-design-making-of-puppets-1235213250/"
+        "title": "\u2018East of Eden\u2019 Trailer: Florence Pugh Is One of Literature\u2019s Most Iconic Villains in Zoe Kazan\u2019s Ambitious Steinbeck Adaptation",
+        "link": "https://www.indiewire.com/news/trailers/east-of-eden-netflix-trailer-florence-pugh-1235214126/"
       },
       {
-        "title": "Can AMC Kips Bay 15 Be Saved? Politicians and Activists Mobilize to Keep Beloved Movie Theater",
-        "link": "https://www.indiewire.com/news/general-news/can-amc-kips-bay-15-be-saved-petition-starts-1235213802/"
+        "title": "George Clooney Says AI Will \u2018Hurt Us\u2019 and Questions Paramount and Warner Bros. Merger: \u2018I Don\u2019t Know How This Goes Through\u2019",
+        "link": "https://www.indiewire.com/news/festivals/george-clooney-questions-paramount-warner-bros-merger-slams-ai-1235214240/"
       },
       {
-        "title": "Luca Guadagnino\u2019s Sam Altman Movie \u2018Artificial\u2019 Will World Premiere at NYFF 2026",
-        "link": "https://www.indiewire.com/news/festivals/luca-guadagninos-artificial-premiere-nyff-2026-1235213808/"
+        "title": "Venice\u2019s \u2018Burgundy\u2019 Finds \u2018The Truffle Hunters\u2019 Directors Seduced by French Wine Country \u2014 Watch Exclusive Clip",
+        "link": "https://www.indiewire.com/news/festivals/burgundy-documentary-new-movie-from-truffle-hunters-clip-1235214175/"
       }
     ],
     "variety": [
       {
-        "title": "Julianne Moore to Receive Zurich\u2019s Golden Icon Award as Jesse Eisenberg\u2019s \u2018The Debut\u2019 Screens",
-        "link": "https://variety.com/2026/film/global/julianne-moore-zurich-jesse-eisenberg-the-debut-1236849061/"
+        "title": "Rupert Murdoch \u2018Is Very Happy\u2019 Guy Pearce Is Playing Him in \u2018Ink\u2019; Actor Says Mogul\u2019s Daughter Shared Praise",
+        "link": "https://variety.com/2026/film/festivals/rupert-murdoch-very-happy-guy-pearce-playing-him-ink-1236848762/"
       },
       {
-        "title": "Martin Scorsese Mentee Celina Murga Preps Next Pic, \u2018The Rehearsals\u2019",
-        "link": "https://variety.com/2026/film/global/martin-scorsese-celina-murga-next-pic-the-rehearsals-1236848696/"
+        "title": "\u2018Dancing With the Stars\u2019 Cast: Jenna Dewan, Julia Stiles, Taylor Hanson and More Join Season 35 \u2014 Plus, Which Pros Are Back?",
+        "link": "https://variety.com/gallery/dancing-with-the-stars-cast-season-35-celebs-pros/"
       },
       {
-        "title": "\u2018The Runner\u2019 Review: Gal Gadot Is a Mother on a Rescue Mission in an Energetic but Uninspired Amazon Thriller",
-        "link": "https://variety.com/2026/film/reviews/the-runner-review-gal-gadot-1236847013/"
+        "title": "Studio71 Alum Joseph Marchese Joins Bent Pixels as Head of Creator Strategy and Business",
+        "link": "https://variety.com/2026/digital/news/bent-pixesl-joseph-marchese-creator-strategy-studio71-1236848376/"
       },
       {
-        "title": "Hyun Bin and Woo Do-hwan Turn Against Each Other in Hulu and Disney+\u2019s \u2018Made in Korea\u2019 Season 2",
-        "link": "https://variety.com/2026/tv/news/hyun-bin-woo-do-hwan-made-in-korea-season-2-1236848100/"
+        "title": "Apple TV Inks Deal With Yahoo Sports for Free Alt-Casts of MLS Matches and MLB Games (but Only the First Two Innings)",
+        "link": "https://variety.com/2026/tv/news/apple-tv-yahoo-sports-altcast-mls-mlb-games-1236848624/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Venice First Look: Toni Servillo Meets His Match in Mario Martone\u2019s \u2018Scherzetto\u2019",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/toni-servillo-mario-martone-venice-scherzetto-1236686536/"
+        "title": "Travis Kelce Details \u201cInsane\u201d Wedding to Taylor Swift: \u201cBiggest Night of Our Lives\u201d",
+        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/travis-kelce-wedding-taylor-swift-podcast-new-heights-1236688034/"
       },
       {
-        "title": "Julianne Moore to Receive Zurich Film Festival\u2019s Golden Icon Award",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/julianne-moore-zurich-film-festival-golden-icon-award-1236686585/"
+        "title": "Elon Musk Unmasked in Alex Gibney Documentary: \u201cInsane a Person This Chaotic Has So Much Power\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-features/elon-musk-alex-gibney-documentary-1236686790/"
       },
       {
-        "title": "Bill Simmons Says \u201cI Learned My Lesson\u201d After Admitting to Proxy Betting on Fanduel in Podcast Interview",
-        "link": "https://www.hollywoodreporter.com/business/digital/bill-simmons-apoligizes-proxy-betting-fanduel-podcast-1236687308/"
+        "title": "George Clooney Tells Venice Studios Are Making Movies That \u201cNeed a Launchpad of a Film Festival Less and Less\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/george-clooney-venice-studios-film-festival-directing-1236687967/"
       },
       {
-        "title": "Kenan Thompson Reveals Which Movie Role Almost Made Him Quit Acting",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/kenan-thompson-almost-quit-acting-ice-skating-hockey-movie-1236687621/"
+        "title": "Netflix Unveils Tense Trailer for \u2018East of Eden\u2019 Series Adaptation Starring Florence Pugh",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-east-of-eden-trailer-1236687277/"
       }
     ],
     "larb": [],
@@ -280,6 +263,10 @@
     ],
     "nautilus": [
       {
+        "title": "Why the Recent Total Eclipse Looked Unusual",
+        "link": "https://nautil.us/why-the-recent-total-eclipse-looked-unusual-1284700/"
+      },
+      {
         "title": "New Heart Attack Definitions Could Lead to Better Care for Women",
         "link": "https://nautil.us/new-heart-attack-definitions-could-lead-to-better-care-for-women-1284697/"
       },
@@ -290,10 +277,6 @@
       {
         "title": "Schizophrenia\u2019s Cruel Roulette Wheel",
         "link": "https://nautil.us/schizophrenias-cruel-roulette-wheel-1284681/"
-      },
-      {
-        "title": "Your Ability to Cope with Stress Changes with the Seasons and Your Own Biological\u00a0Clocks",
-        "link": "https://nautil.us/your-ability-to-cope-with-stress-changes-with-the-seasons-and-your-own-biological-clocks-1284678/"
       }
     ],
     "worksinprogress": [],
