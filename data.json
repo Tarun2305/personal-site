@@ -1,44 +1,61 @@
 {
-  "last_updated": "2026-09-02 13:08 UTC",
+  "last_updated": "2026-09-02 18:18 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Farage tells BBC 'we live in a complainants' society' after questions over Reform funding",
-        "link": "https://www.bbc.co.uk/news/articles/cd6857j2v1qo?at_medium=RSS&at_campaign=rss"
+        "title": "Burnham pressed on economy at first PMQs as UK borrowing costs rise",
+        "link": "https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Four in court over murder of baby stabbed to death",
-        "link": "https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss"
+        "title": "PMQs shows the challenge Burnham has in delivering new style of politics",
+        "link": "https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
-        "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss"
+        "title": "Woman charged with juror intimidation in Lindsay Clancy trial ",
+        "link": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
-        "link": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss"
+        "title": "'Nothing but mud and silt' - the village swept away by deadly floods in Nepal",
+        "link": "https://www.bbc.co.uk/news/videos/cn0j4k45z32o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Palestinian landowners confront bulldozers using their hands",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/palestinian-landowners-confront-bulldozers-using-their-hands?traffic_source=rss"
+        "title": "EU ministers in Ireland tackle Israeli settlement trade and Ukraine defence",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-26-reported-ireland-talks?traffic_source=rss"
       },
       {
-        "title": "Killing at Sea",
-        "link": "https://www.aljazeera.com/video/fault-lines/2026/9/2/killing-at-sea?traffic_source=rss"
+        "title": "Gunman in deadly Swiss rave attack \u2018lone perpetrator\u2019, police say",
+        "link": "https://www.aljazeera.com/news/2026/9/2/gunman-in-deadly-swiss-rave-attack-lone-perpetrator-police-say?traffic_source=rss"
       },
       {
-        "title": "The US is gobbling up Venezuelan oil, but will it lower fuel prices?",
-        "link": "https://www.aljazeera.com/news/2026/9/2/the-us-is-gobbling-up-venezuelan-oil-but-will-it-lower-fuel-prices?traffic_source=rss"
+        "title": "Over 500 students hospitalised after eating state-supplied meals in Indones",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/over-500-students-hospitalised-after-eating-state-supplied-meals-in-indones?traffic_source=rss"
       },
       {
-        "title": "Nigerian anticorruption agency sacks 40 staff over misconduct allegations",
-        "link": "https://www.aljazeera.com/news/2026/9/2/nigerian-anticorruption-agency-sacks-40-staff-over-misconduct-allegations?traffic_source=rss"
+        "title": "A year into Trump\u2019s boat strike campaign, families search for answers",
+        "link": "https://www.aljazeera.com/news/2026/9/2/a-year-into-trumps-boat-strike-campaign-families-search-for-answers?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
-    "chelsea_sky": [],
+    "chelsea_sky": [
+      {
+        "title": "West Brom, Middlesbrough, Wrexham in action - EFL LIVE on Sky! ",
+        "link": "https://www.skysports.com/football/live-blog/12040/13579447/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one"
+      },
+      {
+        "title": "Carse left out of England squad for third Pakistan Test",
+        "link": "https://www.skysports.com/cricket/news/12040/13580419/england-vs-pakistan-brydon-carse-left-out-for-third-and-final-test-at-edgbaston-as-joe-roots-15-man-squad-revealed"
+      },
+      {
+        "title": "Why Balogun's move collapsed to leave Everton, Chelsea and Monaco upset",
+        "link": "https://www.skysports.com/football/news/12040/13580477/why-folarin-baloguns-everton-move-collapsed-on-deadline-day-leaving-toffees-chelsea-and-monaco-frustrated"
+      },
+      {
+        "title": "Medvedev FUMES as birds halt play!",
+        "link": "https://www.skysports.com/watch/video/13580444/us-open-daniil-medvedev-fumes-as-birds-halt-play"
+      }
+    ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
@@ -63,20 +80,20 @@
     "criterion": [],
     "rogerebert": [
       {
+        "title": "\u201cChad Powers\u201d Remains a Ludicrous, Warm-Hearted Show in Season 2",
+        "link": "https://www.rogerebert.com/features/chad-powers-season-2-glen-powell-hulu-tv-review-2026"
+      },
+      {
+        "title": "Female Filmmakers in Focus: Poh Si Teng on \u201cAmerican Doctor\u201d",
+        "link": "https://www.rogerebert.com/interviews/female-filmmakers-in-focus-poh-si-teng-on-american-doctor"
+      },
+      {
         "title": "FX\u2019s Exhilarating \u201cThe Drop: A Snowfall Saga\u201d Is a Spin-off For the Ages",
         "link": "https://www.rogerebert.com/streaming/the-drop-snowfall-saga-spinoff-fx-tv-review-2026"
       },
       {
         "title": "Short Films in Focus: Bouncy Brothers (with Nicholas J. Santore)",
         "link": "https://www.rogerebert.com/short-films-in-focus/short-films-in-focus-bouncy-brothers-with-nicholas-j-santore"
-      },
-      {
-        "title": "The Unloved, Part 153: This Is My Life",
-        "link": "https://www.rogerebert.com/the-unloved/the-unloved-part-153-this-is-my-life"
-      },
-      {
-        "title": "\u201cOnimusha: Way of the Sword\u201d is a Drawn-Out Samurai Epic",
-        "link": "https://www.rogerebert.com/video-games/onimusha-way-of-the-sword-is-a-drawn-out-samurai-epic"
       }
     ],
     "filmcomment": [
@@ -136,56 +153,56 @@
     ],
     "indiewire": [
       {
-        "title": "Streamers Were Scared of Trump and Wouldn\u2019t Touch \u2018Ask E. Jean\u2019 \u2014 5 Companies Are Teaming Up to Launch It on VOD",
-        "link": "https://www.indiewire.com/news/breaking-news/streamers-wouldnt-touch-ask-e-jean-trump-vod-release-kinema-1235214125/"
+        "title": "\u2018Ink\u2019 Review: Danny Boyle\u2019s Rupert Murdoch Pressure Cooker Is a Journalism Thriller Tabloid-Ready for Our Political Apocalypse",
+        "link": "https://www.indiewire.com/criticism/movies/ink-movie-review-danny-boyle-rupert-murdoch-1235213549/"
       },
       {
-        "title": "\u2018East of Eden\u2019 Trailer: Florence Pugh Is One of Literature\u2019s Most Iconic Villains in Zoe Kazan\u2019s Ambitious Steinbeck Adaptation",
-        "link": "https://www.indiewire.com/news/trailers/east-of-eden-netflix-trailer-florence-pugh-1235214126/"
+        "title": "In Between \u2018Midnight Run\u2019 and \u2018Goodfellas,\u2019 Robert De Niro Gave One of His Best Performances in a Movie Barely Anyone Saw",
+        "link": "https://www.indiewire.com/features/commentary/jacknife-great-overlooked-robert-de-niro-performance-1235213874/"
       },
       {
-        "title": "George Clooney Says AI Will \u2018Hurt Us\u2019 and Questions Paramount and Warner Bros. Merger: \u2018I Don\u2019t Know How This Goes Through\u2019",
-        "link": "https://www.indiewire.com/news/festivals/george-clooney-questions-paramount-warner-bros-merger-slams-ai-1235214240/"
+        "title": "Venice Jury President Maggie Gyllenhaal Decries \u2018Systemic\u2019 Lack of Female Directors in Competition",
+        "link": "https://www.indiewire.com/news/festivals/maggie-gyllenhaal-lack-female-directors-venice-2026-1235214236/"
       },
       {
-        "title": "Venice\u2019s \u2018Burgundy\u2019 Finds \u2018The Truffle Hunters\u2019 Directors Seduced by French Wine Country \u2014 Watch Exclusive Clip",
-        "link": "https://www.indiewire.com/news/festivals/burgundy-documentary-new-movie-from-truffle-hunters-clip-1235214175/"
+        "title": "Fall Festival Movies Sold So Far: \u2018Babies,\u2019 \u2018Ink,\u2019 and \u2018Elsinore\u2019 Lead Early Deals From Venice and TIFF",
+        "link": "https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/"
       }
     ],
     "variety": [
       {
-        "title": "Rupert Murdoch \u2018Is Very Happy\u2019 Guy Pearce Is Playing Him in \u2018Ink\u2019; Actor Says Mogul\u2019s Daughter Shared Praise",
-        "link": "https://variety.com/2026/film/festivals/rupert-murdoch-very-happy-guy-pearce-playing-him-ink-1236848762/"
+        "title": "\u2018Lego Harry Potter\u2019 Collection Coming to Nintendo Switch 2 (Gaming News Roundup)",
+        "link": "https://variety.com/2026/gaming/news/gaming-news-roundup-week-august-31-1236848692/"
       },
       {
-        "title": "\u2018Dancing With the Stars\u2019 Cast: Jenna Dewan, Julia Stiles, Taylor Hanson and More Join Season 35 \u2014 Plus, Which Pros Are Back?",
-        "link": "https://variety.com/gallery/dancing-with-the-stars-cast-season-35-celebs-pros/"
+        "title": "George Clooney Calls Out \u2018Authoritarians\u2019 and \u2018People Who Peddle in Fear\u2019 in Moving Venice Golden Lion Speech: They\u2019re \u2018Never the Heroes in History\u2019\u00a0",
+        "link": "https://variety.com/2026/film/festivals/george-clooney-calls-out-authoritarians-venice-golden-lion-speech-1236845843/"
       },
       {
-        "title": "Studio71 Alum Joseph Marchese Joins Bent Pixels as Head of Creator Strategy and Business",
-        "link": "https://variety.com/2026/digital/news/bent-pixesl-joseph-marchese-creator-strategy-studio71-1236848376/"
+        "title": "\u2018Ink\u2019 Review: Danny Boyle\u2019s Gripping, Sizzling Film About How a People\u2019s Paper Lost Its Humanity, and Won",
+        "link": "https://variety.com/2026/film/reviews/ink-review-1236849047/"
       },
       {
-        "title": "Apple TV Inks Deal With Yahoo Sports for Free Alt-Casts of MLS Matches and MLB Games (but Only the First Two Innings)",
-        "link": "https://variety.com/2026/tv/news/apple-tv-yahoo-sports-altcast-mls-mlb-games-1236848624/"
+        "title": "Sci-Fi Comedy Adventure Series \u2018Maui & Elvis\u2019 Unites New Zealand\u2019s Whakaata Maori, Canada\u2019s APTN",
+        "link": "https://variety.com/2026/tv/news/sci-fi-comedy-maui-elvis-whakaata-maori-aptn-1236849154/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Travis Kelce Details \u201cInsane\u201d Wedding to Taylor Swift: \u201cBiggest Night of Our Lives\u201d",
-        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/travis-kelce-wedding-taylor-swift-podcast-new-heights-1236688034/"
+        "title": "Trump\u2019s DoJ Backs OpenAI In Legal Face Off With New York Times",
+        "link": "https://www.hollywoodreporter.com/business/business-news/trump-doj-backs-openai-new-york-times-1236688417/"
       },
       {
-        "title": "Elon Musk Unmasked in Alex Gibney Documentary: \u201cInsane a Person This Chaotic Has So Much Power\u201d",
-        "link": "https://www.hollywoodreporter.com/movies/movie-features/elon-musk-alex-gibney-documentary-1236686790/"
+        "title": "The Tragedy of Perez Hilton",
+        "link": "https://www.hollywoodreporter.com/news/general-news/perez-hilton-suicide-attempt-tiktok-social-media-reckoning-1236684690/"
       },
       {
-        "title": "George Clooney Tells Venice Studios Are Making Movies That \u201cNeed a Launchpad of a Film Festival Less and Less\u201d",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/george-clooney-venice-studios-film-festival-directing-1236687967/"
+        "title": "\u2018Ink\u2019 Review: Jack O\u2019Connell and Guy Pearce Trace Rupert Murdoch\u2019s Fleet Street Rise in Breathlessly Paced, Morally Opaque Danny Boyle Drama",
+        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/ink-review-jack-oconnell-guy-pearce-danny-boyle-murdoch-1236686614/"
       },
       {
-        "title": "Netflix Unveils Tense Trailer for \u2018East of Eden\u2019 Series Adaptation Starring Florence Pugh",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-east-of-eden-trailer-1236687277/"
+        "title": "Shemar Moore\u2019s Hondo Trains LAPD Misfits for Redemption in \u2018S.W.A.T. Exiles\u2019 Trailer",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/swat-exiles-trailer-shemar-moore-watch-1236688356/"
       }
     ],
     "larb": [],
@@ -245,6 +262,10 @@
     ],
     "quanta": [
       {
+        "title": "Genome Duplication Is a Radical Evolutionary Gamble",
+        "link": "https://www.quantamagazine.org/genome-duplication-is-a-radical-evolutionary-gamble-20260902/"
+      },
+      {
         "title": "\u2018Stunning\u2019 Percolation Proof Solves Decades-Old Puzzle About Phase Transitions",
         "link": "https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/"
       },
@@ -255,28 +276,24 @@
       {
         "title": "In Hilbert Space, All Things Are Quantumly Possible",
         "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/"
-      },
-      {
-        "title": "A New Framework for How the Brain Compresses Our Noisy World",
-        "link": "https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/"
       }
     ],
     "nautilus": [
       {
-        "title": "Why the Recent Total Eclipse Looked Unusual",
-        "link": "https://nautil.us/why-the-recent-total-eclipse-looked-unusual-1284700/"
+        "title": "The Secret of Chronic Pain Could Lie in the Skull",
+        "link": "https://nautil.us/the-secret-of-chronic-pain-could-lie-in-the-skull-1284730/"
       },
       {
-        "title": "New Heart Attack Definitions Could Lead to Better Care for Women",
-        "link": "https://nautil.us/new-heart-attack-definitions-could-lead-to-better-care-for-women-1284697/"
+        "title": "How Music Sparks Imagination",
+        "link": "https://nautil.us/how-music-sparks-imagination-1284721/"
       },
       {
-        "title": "Your Organs Age at Different Paces\u2014And They\u2019re Coordinating With Each Other",
-        "link": "https://nautil.us/your-organs-age-at-different-paces-and-theyre-coordinating-with-each-other-1284694/"
+        "title": "How Your Genes Shape Your Personality",
+        "link": "https://nautil.us/how-your-genes-shape-your-personality-1284718/"
       },
       {
-        "title": "Schizophrenia\u2019s Cruel Roulette Wheel",
-        "link": "https://nautil.us/schizophrenias-cruel-roulette-wheel-1284681/"
+        "title": "Why Do Male Chimpanzees Throw Rocks at the Same Trees for More Than a Decade?",
+        "link": "https://nautil.us/why-do-male-chimpanzees-throw-rocks-at-the-same-trees-for-more-than-a-decade-1284704/"
       }
     ],
     "worksinprogress": [],
