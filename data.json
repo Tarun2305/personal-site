@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-09-01 22:55 UTC",
+  "last_updated": "2026-09-02 02:19 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
+        "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
+        "link": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Burnham promises more devolution and public control of essential services",
         "link": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss"
@@ -9,51 +17,43 @@
       {
         "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
         "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Keir Starmer announces he is standing down as MP",
-        "link": "https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Germany says Russia behind Leipzig airport drone attack",
-        "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "US urges G20 to cut trade imbalances, focus on China",
-        "link": "https://www.aljazeera.com/economy/2026/9/1/us-urges-g20-to-cut-trade-imbalances-focus-on-china?traffic_source=rss"
+        "title": "What to know about Germany\u2019s drone attack accusations against Russia",
+        "link": "https://www.aljazeera.com/news/2026/9/2/what-to-know-about-germanys-drone-attack-accusations-against-russia?traffic_source=rss"
       },
       {
-        "title": "US energy secretary will travel to Venezuela to unveil oil arrangement",
-        "link": "https://www.aljazeera.com/news/2026/9/1/us-energy-secretary-will-travel-to-venezuela-to-unveil-oil-arrangement?traffic_source=rss"
+        "title": "Iran says US bombed a wedding party in Sirik, killing five",
+        "link": "https://www.aljazeera.com/news/2026/9/2/iran-says-us-strikes-hit-a-wedding-party-in-sirik-killing-five?traffic_source=rss"
       },
       {
-        "title": "Urgent need for access to Iranian sites, cautions UN nuclear watchdog",
-        "link": "https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog?traffic_source=rss"
+        "title": "IAEA says Syria built a nuclear reactor in Deir Az Zor under al-Assad",
+        "link": "https://www.aljazeera.com/news/2026/9/2/iaea-says-syria-built-a-nuclear-reactor-in-deir-az-zor-under-al-assad?traffic_source=rss"
       },
       {
-        "title": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/zelenskyy-warns-airlines-as-ukrainian-drones-target-russian-airspace?traffic_source=rss"
+        "title": "US launches new strikes on Iran, denies its bases hit in Jordan",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-launches-new-strikes-on-iran-denies-its-bases-hit-in-jordan?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Deal off! Chelsea move for Fernandez replacement falls through",
+        "title": "Gauff makes storming start while Serena eyes revenge against Joint in doubles",
+        "link": "https://www.skysports.com/tennis/news/12040/13580205/us-open-coco-gauff-makes-storming-start-while-serena-and-venus-williams-are-drawn-to-face-maya-joint-and-chan-hao-ching-in-womens-doubles"
+      },
+      {
+        "title": "Balogun walks away from Everton deal - after move scuppered Camara to Chelsea",
+        "link": "https://www.skysports.com/football/news/12040/13580201/folarin-balogun-monaco-strikers-move-to-everton-falls-through-after-deal-scuppered-chelseas-chances-of-signing-lamine-camara"
+      },
+      {
+        "title": "'Very unhappy' - Why Chelsea still sold Fernandez despite Camara drama",
+        "link": "https://www.skysports.com/watch/video/13580198/explained-why-chelsea-still-sold-enzo-fernandez-despite-collapse-of-lamina-camara-deal"
+      },
+      {
+        "title": "Deal off! Monaco pull out of selling Fernandez replacement Camara to Chelsea",
         "link": "https://www.skysports.com/football/news/12040/13580189/lamine-camara-monaco-pull-out-of-selling-midfielder-to-chelsea-in-47m-deal-after-blues-agreed-deal-for-enzo-fernandez-replacement"
-      },
-      {
-        "title": "Koivun handed shock Team USA debut as Presidents Cup picks revealed",
-        "link": "https://www.skysports.com/golf/news/12040/13580066/presidents-cup-2026-jackson-koivun-handed-shock-team-usa-debut-as-brandt-snedeker-geoff-ogilvy-reveal-captains-picks"
-      },
-      {
-        "title": "Man City sign Fernandez in British-record-equalling deal",
-        "link": "https://www.skysports.com/football/news/12040/13579972/enzo-fernandez-transfer-news-man-city-sign-midfielder-from-chelsea-in-british-record-equalling-125m-deal"
-      },
-      {
-        "title": "Spurs sign Chelsea duo Mudryk and Tosin on Deadline Day",
-        "link": "https://www.skysports.com/football/news/12040/13579537/mykhailo-mudryk-transfer-news-tottenham-sign-chelsea-winger-on-loan-as-tosin-joins-in-permanent-deal"
       }
     ],
     "pitchfork": [],
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "California Could Offer a Tax Credit for Post-Production If Gavin Newsom Approves It in the Next Month",
+        "link": "https://www.indiewire.com/features/craft/california-post-production-tax-credit-1235210240/"
+      },
+      {
         "title": "In the Neon World of \u2018Buddy,\u2019 Hints of Fascism Are Everywhere, Even in Talking Trains and Deranged Puppets",
         "link": "https://www.indiewire.com/features/craft/buddy-production-design-making-of-puppets-1235213250/"
       },
@@ -163,46 +167,42 @@
       {
         "title": "Luca Guadagnino\u2019s Sam Altman Movie \u2018Artificial\u2019 Will World Premiere at NYFF 2026",
         "link": "https://www.indiewire.com/news/festivals/luca-guadagninos-artificial-premiere-nyff-2026-1235213808/"
-      },
-      {
-        "title": "\u2018Mouse\u2019 Trailer: Sophie Okonedo\u2019s Big 2026 Continues with This Gem from the Filmmakers of \u2018Ghostlight\u2019",
-        "link": "https://www.indiewire.com/news/trailers/mouse-trailer-sophie-okonedo-ghostlight-1235213372/"
       }
     ],
     "variety": [
       {
+        "title": "David Byrne Returns to Oscar Race With Original Song for Elon Musk Documentary \u2018Musk\u2019 (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/awards/david-byrne-musk-documentary-oscar-song-1236848717/"
+      },
+      {
+        "title": "Ji Chang-wook and Imada Mio\u2019s Korean-Japanese Romcom \u2018Merry Berry Love\u2019 Sets October Disney+, Hulu Bow",
+        "link": "https://variety.com/2026/tv/news/ji-chang-wook-imada-mio-merry-berry-love-disney-hulu-october-1236848185/"
+      },
+      {
+        "title": "Indian Streamer JioHotstar Launches in U.K., Canada and Singapore With Interactive Features",
+        "link": "https://variety.com/2026/tv/news/jiohotstar-uk-canada-singapore-launch-1236848067/"
+      },
+      {
         "title": "\u2018Wheel of Fortune\u2019 Announcer Jim Thornton Suspended, Position Will Be Recast",
         "link": "https://variety.com/2026/tv/news/wheel-of-fortune-announcer-jim-thornton-suspended-1236848741/"
-      },
-      {
-        "title": "DreamWorks Remote Workers Ratify First Union Agreement With the Animation Guild",
-        "link": "https://variety.com/2026/artisans/news/dreamworks-remote-workers-agreement-animation-guild-1236848733/"
-      },
-      {
-        "title": "Tom Cruise Is Confident Paramount-Warner Bros. Will Release 30 Films a Year After Merger: \u2018They\u2019re Going to Deliver\u2019",
-        "link": "https://variety.com/2026/film/news/tom-cruise-david-ellison-paramount-warner-bros-merger-1236846704/"
-      },
-      {
-        "title": "Melissa Leo Joins Will Smith in Amazon MGM and Miramax Action-Thriller \u2018Supermax\u2019 (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/news/melissa-leo-will-smith-supermax-amazon-mgm-miramax-1236848719/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018Wheel of Fortune\u2019 Announcer Suspended Amid Investigation",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/wheel-of-fortune-announcer-suspended-investigation-1236687382/"
+        "title": "On the Heels of Apple TV\u2019s Price Hike, See the Best Subscription Deals and Free Trial Tips",
+        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/best-apple-tv-plus-deals-free-trial-1235585795/"
       },
       {
-        "title": "Tom Cruise Blesses Paramount\u2019s Deal to Buy Warner Bros., In the Name of Movie \u201cAbundance\u201d",
-        "link": "https://www.hollywoodreporter.com/business/business-news/tom-cruise-backs-paramount-30-movies-per-year-promise-1236687399/"
+        "title": "Carole Radziwill Addresses Her Name Being in Epstein Files: \u201cIt\u2019s Important to Talk About It\u201d",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/carole-radziwill-epstein-files-ghislaine-maxwell-rhony-1236687333/"
       },
       {
-        "title": "CBS News\u2019 Bari Weiss Faces Backlash Over Headline Linking Muslim Senate Candidate to 9/11",
-        "link": "https://www.hollywoodreporter.com/news/general-news/cbs-news-bari-weiss-backlash-abdul-el-sayed-9-11-1236687342/"
+        "title": "D4vd Murder Case: Victim\u2019s Family Demands Justice as Indigent Claim Draws Scrutiny",
+        "link": "https://www.hollywoodreporter.com/news/general-news/d4vd-murder-case-victims-family-demands-justice-indigent-claim-1236687558/"
       },
       {
-        "title": "Tupac\u2019s Murder Finally Has a Guilty Verdict. But the Mystery Isn\u2019t Over",
-        "link": "https://www.hollywoodreporter.com/music/music-news/tupac-murder-guilty-verdict-mystery-isnt-over-1236686458/"
+        "title": "\u2018The Trial of Alec Baldwin,\u2019 Rory Kennedy Doc About Titular Actor in \u2018Rust\u2019 Shooting Aftermath, Acquired by Abramorama (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/the-trial-of-alec-baldwin-acquired-by-abramorama-1236686904/"
       }
     ],
     "larb": [],
