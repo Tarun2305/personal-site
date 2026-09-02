@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-09-02 02:19 UTC",
+  "last_updated": "2026-09-02 07:29 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
+        "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
         "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Chris Mason: Will Burnham find PMQs as 'nail biting' and 'nerve wracking' as Blair did?",
+        "link": "https://www.bbc.co.uk/news/articles/c7507z4enq6o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
         "link": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Burnham promises more devolution and public control of essential services",
-        "link": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
-        "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss"
+        "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
+        "link": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "What to know about Germany\u2019s drone attack accusations against Russia",
-        "link": "https://www.aljazeera.com/news/2026/9/2/what-to-know-about-germanys-drone-attack-accusations-against-russia?traffic_source=rss"
+        "title": "Nepal floods: Father borrows $13, walks for days to search for missing son",
+        "link": "https://www.aljazeera.com/features/2026/9/2/nepal-floods-father-borrows-13-walks-for-days-to-search-for-missing-son?traffic_source=rss"
       },
       {
-        "title": "Iran says US bombed a wedding party in Sirik, killing five",
-        "link": "https://www.aljazeera.com/news/2026/9/2/iran-says-us-strikes-hit-a-wedding-party-in-sirik-killing-five?traffic_source=rss"
+        "title": "Turkiye launches search for cargo ship after vessels collide off Istanbul",
+        "link": "https://www.aljazeera.com/news/2026/9/2/turkiye-launches-search-for-cargo-ship-after-vessels-collide-off-istanbul?traffic_source=rss"
       },
       {
-        "title": "IAEA says Syria built a nuclear reactor in Deir Az Zor under al-Assad",
-        "link": "https://www.aljazeera.com/news/2026/9/2/iaea-says-syria-built-a-nuclear-reactor-in-deir-az-zor-under-al-assad?traffic_source=rss"
+        "title": "As US seeks Gaza donor\u2019s extradition, wife warns of \u2018terrifying precedent\u2019",
+        "link": "https://www.aljazeera.com/news/2026/9/2/as-us-seeks-gaza-donors-extradition-wife-warns-of-terrifying-precedent?traffic_source=rss"
       },
       {
-        "title": "US launches new strikes on Iran, denies its bases hit in Jordan",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-launches-new-strikes-on-iran-denies-its-bases-hit-in-jordan?traffic_source=rss"
+        "title": "Tyson Fury confirms Anthony Joshua fight at NYC\u2019s Madison Square Garden",
+        "link": "https://www.aljazeera.com/sports/2026/9/2/tyson-fury-confirms-anthony-joshua-fight-at-nycs-madison-square-garden?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Gauff makes storming start while Serena eyes revenge against Joint in doubles",
+        "title": "Etienne chases first success at Bath",
+        "link": "https://www.skysports.com/racing/news/12040/13579505/today-on-sky-sports-racing-bath-and-newcastle"
+      },
+      {
+        "title": "'Fans will crucify them' - Hakkinen issues warning over team orders in title battle",
+        "link": "https://www.skysports.com/f1/news/12040/13579867/f1-fans-will-crucify-teams-if-team-orders-are-used-in-2026-title-battle-says-former-world-champion-mika-hakkinen"
+      },
+      {
+        "title": "'I know what I have to work on' - Fery ready to take on best despite US Open exit",
+        "link": "https://www.skysports.com/tennis/news/12040/13580206/us-open-britains-arthur-fery-admitted-he-still-has-plenty-to-work-on-after-his-new-york-debut-was-cut-short"
+      },
+      {
+        "title": "Gauff makes storming start as Zverev avoids major upset",
         "link": "https://www.skysports.com/tennis/news/12040/13580205/us-open-coco-gauff-makes-storming-start-while-serena-and-venus-williams-are-drawn-to-face-maya-joint-and-chan-hao-ching-in-womens-doubles"
-      },
-      {
-        "title": "Balogun walks away from Everton deal - after move scuppered Camara to Chelsea",
-        "link": "https://www.skysports.com/football/news/12040/13580201/folarin-balogun-monaco-strikers-move-to-everton-falls-through-after-deal-scuppered-chelseas-chances-of-signing-lamine-camara"
-      },
-      {
-        "title": "'Very unhappy' - Why Chelsea still sold Fernandez despite Camara drama",
-        "link": "https://www.skysports.com/watch/video/13580198/explained-why-chelsea-still-sold-enzo-fernandez-despite-collapse-of-lamina-camara-deal"
-      },
-      {
-        "title": "Deal off! Monaco pull out of selling Fernandez replacement Camara to Chelsea",
-        "link": "https://www.skysports.com/football/news/12040/13580189/lamine-camara-monaco-pull-out-of-selling-midfielder-to-chelsea-in-47m-deal-after-blues-agreed-deal-for-enzo-fernandez-replacement"
       }
     ],
     "pitchfork": [],
@@ -171,38 +171,38 @@
     ],
     "variety": [
       {
-        "title": "David Byrne Returns to Oscar Race With Original Song for Elon Musk Documentary \u2018Musk\u2019 (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/awards/david-byrne-musk-documentary-oscar-song-1236848717/"
+        "title": "Julianne Moore to Receive Zurich\u2019s Golden Icon Award as Jesse Eisenberg\u2019s \u2018The Debut\u2019 Screens",
+        "link": "https://variety.com/2026/film/global/julianne-moore-zurich-jesse-eisenberg-the-debut-1236849061/"
       },
       {
-        "title": "Ji Chang-wook and Imada Mio\u2019s Korean-Japanese Romcom \u2018Merry Berry Love\u2019 Sets October Disney+, Hulu Bow",
-        "link": "https://variety.com/2026/tv/news/ji-chang-wook-imada-mio-merry-berry-love-disney-hulu-october-1236848185/"
+        "title": "Martin Scorsese Mentee Celina Murga Preps Next Pic, \u2018The Rehearsals\u2019",
+        "link": "https://variety.com/2026/film/global/martin-scorsese-celina-murga-next-pic-the-rehearsals-1236848696/"
       },
       {
-        "title": "Indian Streamer JioHotstar Launches in U.K., Canada and Singapore With Interactive Features",
-        "link": "https://variety.com/2026/tv/news/jiohotstar-uk-canada-singapore-launch-1236848067/"
+        "title": "\u2018The Runner\u2019 Review: Gal Gadot Is a Mother on a Rescue Mission in an Energetic but Uninspired Amazon Thriller",
+        "link": "https://variety.com/2026/film/reviews/the-runner-review-gal-gadot-1236847013/"
       },
       {
-        "title": "\u2018Wheel of Fortune\u2019 Announcer Jim Thornton Suspended, Position Will Be Recast",
-        "link": "https://variety.com/2026/tv/news/wheel-of-fortune-announcer-jim-thornton-suspended-1236848741/"
+        "title": "Hyun Bin and Woo Do-hwan Turn Against Each Other in Hulu and Disney+\u2019s \u2018Made in Korea\u2019 Season 2",
+        "link": "https://variety.com/2026/tv/news/hyun-bin-woo-do-hwan-made-in-korea-season-2-1236848100/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "On the Heels of Apple TV\u2019s Price Hike, See the Best Subscription Deals and Free Trial Tips",
-        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/best-apple-tv-plus-deals-free-trial-1235585795/"
+        "title": "Venice First Look: Toni Servillo Meets His Match in Mario Martone\u2019s \u2018Scherzetto\u2019",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/toni-servillo-mario-martone-venice-scherzetto-1236686536/"
       },
       {
-        "title": "Carole Radziwill Addresses Her Name Being in Epstein Files: \u201cIt\u2019s Important to Talk About It\u201d",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/carole-radziwill-epstein-files-ghislaine-maxwell-rhony-1236687333/"
+        "title": "Julianne Moore to Receive Zurich Film Festival\u2019s Golden Icon Award",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/julianne-moore-zurich-film-festival-golden-icon-award-1236686585/"
       },
       {
-        "title": "D4vd Murder Case: Victim\u2019s Family Demands Justice as Indigent Claim Draws Scrutiny",
-        "link": "https://www.hollywoodreporter.com/news/general-news/d4vd-murder-case-victims-family-demands-justice-indigent-claim-1236687558/"
+        "title": "Bill Simmons Says \u201cI Learned My Lesson\u201d After Admitting to Proxy Betting on Fanduel in Podcast Interview",
+        "link": "https://www.hollywoodreporter.com/business/digital/bill-simmons-apoligizes-proxy-betting-fanduel-podcast-1236687308/"
       },
       {
-        "title": "\u2018The Trial of Alec Baldwin,\u2019 Rory Kennedy Doc About Titular Actor in \u2018Rust\u2019 Shooting Aftermath, Acquired by Abramorama (Exclusive)",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/the-trial-of-alec-baldwin-acquired-by-abramorama-1236686904/"
+        "title": "Kenan Thompson Reveals Which Movie Role Almost Made Him Quit Acting",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/kenan-thompson-almost-quit-acting-ice-skating-hockey-movie-1236687621/"
       }
     ],
     "larb": [],
