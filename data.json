@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02 22:55 UTC",
+  "last_updated": "2026-09-03 02:26 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,49 +7,49 @@
         "link": "https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
-        "link": "https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "King hails 'unprecedented' Bayeux Tapestry exhibition in London",
         "link": "https://www.bbc.co.uk/news/articles/cy7zx6k404go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-        "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss"
+        "title": "The overlooked factor driving the childhood obesity crisis",
+        "link": "https://www.bbc.co.uk/news/articles/c70de1ny92wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
+        "link": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "OpenAI faces new lawsuits over Tumbler Ridge mass shooting tragedy",
-        "link": "https://www.aljazeera.com/economy/2026/9/2/openai-faces-new-lawsuits-over-tumbler-ridge-mass-shooting-tragedy?traffic_source=rss"
+        "title": "Exclusive access as the search for Nepal\u2019s tunnel workers intensifies",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/exclusive-access-as-the-search-for-nepals-tunnel-workers-intensifies?traffic_source=rss"
       },
       {
-        "title": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
-        "link": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss"
+        "title": "Trump threatens more strikes as death toll in Iran rises to 18",
+        "link": "https://www.aljazeera.com/news/2026/9/3/trump-threatens-more-strikes-as-death-toll-in-iran-rises-to-19?traffic_source=rss"
       },
       {
-        "title": "Israeli PM says Israel is working to overthrow Iran\u2019s government",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss"
+        "title": "Venezuela\u2019s Maduro asserts immunity in US court, urges dismissal of charges",
+        "link": "https://www.aljazeera.com/news/2026/9/3/venezuelas-maduro-asserts-immunity-in-us-court-urges-dismissal-of-charges?traffic_source=rss"
       },
       {
-        "title": "Children return to school in DR Congo amid growing concerns over Ebola",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/children-return-to-school-in-dr-congo-amid-growing-concerns-over-ebola?traffic_source=rss"
+        "title": "US Congress rejects constitutional amendment to restrict Supreme Court size",
+        "link": "https://www.aljazeera.com/news/2026/9/3/us-congress-rejects-constitutional-amendment-to-restrict-supreme-court-size?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Spanish wonderkid Jodar involved in testy exchange following shock US Open exit",
+        "link": "https://www.skysports.com/tennis/news/12040/13580660/us-open-spanish-wonderkid-rafael-jodar-involved-in-testy-exchange-with-journalist-following-shock-exit-at-flushing-meadows"
+      },
+      {
         "title": "Shankland at the double as Rangers win at Falkirk",
         "link": "https://www.skysports.com/football/falkirk-vs-rangers/report/558359"
       },
       {
-        "title": "Boulter blown away by Muchova at US Open",
+        "title": "Boulter crushed by Muchova but Jones joins Dart in second round at US Open",
         "link": "https://www.skysports.com/tennis/news/12040/13580530/us-open-2026-katie-boulter-blown-away-by-karolina-muchova"
-      },
-      {
-        "title": "Charlton hit back to hold West Brom",
-        "link": "https://www.skysports.com/football/west-bromwich-albion-vs-charlton-athletic/report/560545"
       },
       {
         "title": "Burnley battle back to hold Middlesbrough",
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "Can Rupert Murdoch Origin Story \u2018Ink\u2019 Push Danny Boyle, Jack O\u2019Connell, Guy Pearce, and Netflix Into the Oscar Race?",
+        "link": "https://www.indiewire.com/news/festivals/netflix-ink-oscar-odds-danny-boyle-jack-oconnell-murdoch-1235214456/"
+      },
+      {
         "title": "How Trump\u2019s Call for a Federal Film Production Incentive Could Actually Help Hollywood",
         "link": "https://www.indiewire.com/features/commentary/trumps-film-tv-tax-incentive-productions-back-us-1235214399/"
       },
@@ -163,46 +167,42 @@
       {
         "title": "\u2018Ink\u2019 Review: Danny Boyle\u2019s Rupert Murdoch Pressure Cooker Is a Journalism Thriller Tabloid-Ready for Our Political Apocalypse",
         "link": "https://www.indiewire.com/criticism/movies/ink-movie-review-danny-boyle-rupert-murdoch-1235213549/"
-      },
-      {
-        "title": "In Between \u2018Midnight Run\u2019 and \u2018Goodfellas,\u2019 Robert De Niro Gave One of His Best Performances in a Movie Barely Anyone Saw",
-        "link": "https://www.indiewire.com/features/commentary/jacknife-great-overlooked-robert-de-niro-performance-1235213874/"
       }
     ],
     "variety": [
       {
-        "title": "Should Hollywood Embrace Religion? Young Audiences Crave Complex Spiritual Characters and Plotlines That Challenge Faith, New Study Shows",
-        "link": "https://variety.com/2026/film/features/hollywood-religion-young-people-spiritual-content-1236849362/"
+        "title": "\u2018Ramayana\u2019 Sets November Release Date",
+        "link": "https://variety.com/2026/film/news/ramayana-release-date-sony-1236849917/"
       },
       {
-        "title": "Ryan Reynolds Praises \u2018The Odyssey\u2019 After Passing \u2018Deadpool & Wolverine\u2019 to Become Biggest R-Rated Movie Ever: \u2018Christopher Nolan Literally Breathes The Rarest Air on Earth\u2019",
-        "link": "https://variety.com/2026/film/news/ryan-reynolds-odyssey-nolan-deadpool-wolverine-mayday-1236849352/"
+        "title": "George Lucas Says Opening Lucas Museum \u2018Almost Broke My Will\u2019: \u2018It\u2019s Taken So Long to Get Here\u2019",
+        "link": "https://variety.com/gallery/george-lucas-museum-star-wars-los-angeles/"
       },
       {
-        "title": "Carla Jeffery, Actress in Disney Channel\u2019s \u2018Zombies,\u2019 Dies at 33",
-        "link": "https://variety.com/2026/tv/news/carla-jeffery-dead-disney-channel-zombies-1236849763/"
+        "title": "Utopai Studios, DeNA Team on AI-Assisted Animation Projects in Japan (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/news/utopai-studios-dena-ai-animation-japan-1236849545/"
       },
       {
-        "title": "\u2018Avengers: Doomsday\u2019 Shot Without a Finished Script, but Co-Director Joe Russo Says \u2018We Always View\u2019 the Screenplay as a \u2018Living Organism\u2019",
-        "link": "https://variety.com/2026/film/news/avengers-doomsday-shot-without-finished-script-russo-bros-defend-1236849564/"
+        "title": "\u2018The Sun Never Sets\u2019 Review: Dakota Fanning and Jake Johnson Split, Maybe, in Joe Swanberg\u2019s Unsatisfying Romcom",
+        "link": "https://variety.com/2026/film/reviews/the-sun-never-sets-review-dakota-fanning-1236849830/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Tim Curry\u2019s Cause of Death Revealed",
-        "link": "https://www.hollywoodreporter.com/news/general-news/tim-curry-cause-of-death-1236688715/"
+        "title": "\u2018Ted Lasso\u2019 Season Hits the Halfway Mark With Heartbreak All Around",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/ted-lasso-season-four-halfway-mark-heartbreak-all-around-1236689129/"
       },
       {
-        "title": "Hotel Cipriani Books Chic New Guest: Dior Spa",
-        "link": "https://www.hollywoodreporter.com/lifestyle/style/hotel-cipriani-venice-italy-dior-spa-treatments-menu-1236678305/"
+        "title": "Jennifer Aniston Joins Boyfriend Jim Curtis For Chat About Health, Wellness and Hypnotherapy",
+        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/jennifer-aniston-boyfriend-jim-curtis-wellness-hypnotherapy-1236689024/"
       },
       {
-        "title": "Danny Boyle\u2019s Rupert Murdoch Drama \u2018Ink\u2019 Gives Venice a Rollicking Start on Opening Night",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/danny-boyles-rupert-murdoch-drama-ink-venice-ovation-1236688040/"
+        "title": "Lego Just Created Its First-Ever \u2018Batman Returns\u2019 Batmobile",
+        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/lego-batmobile-batman-returns-sept-2026-release-price-buy-1236688266/"
       },
       {
-        "title": "Dollywood Unveils Plans for 2027 in-Park Tributes and Resort Expansion",
-        "link": "https://www.hollywoodreporter.com/music/music-news/dollywood-in-park-tributes-resort-expansion-1236688664/"
+        "title": "Sony Dates Indian Epic \u2018Ramayana\u2019 For November",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/sony-dates-indian-epic-ramayana-1236688963/"
       }
     ],
     "larb": [],
