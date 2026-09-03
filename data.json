@@ -1,64 +1,68 @@
 {
-  "last_updated": "2026-09-03 07:35 UTC",
+  "last_updated": "2026-09-03 13:09 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Andy Burnham praises UK-EU ties in meeting with Emmanuel Macron",
+        "link": "https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
         "link": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Watch: Drop in small boats crossings forces smugglers to adapt",
+        "title": "Watch: BBC witnesses 'taxi boat' picking up migrants multiple times in a day",
         "link": "https://www.bbc.co.uk/news/videos/cz9znq5g7qko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "UN warns of 'supersized' El Ni\u00f1o as countries prepare for impact",
-        "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "King hails 'unprecedented' Bayeux Tapestry exhibition in London",
-        "link": "https://www.bbc.co.uk/news/articles/cy7zx6k404go?at_medium=RSS&at_campaign=rss"
+        "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+        "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "China\u2019s support for Iran shows its limits as US ramps up pressure on Tehran",
-        "link": "https://www.aljazeera.com/economy/2026/9/3/chinas-support-for-iran-shows-its-limits-as-us-ramps-up-pressure-on-tehran?traffic_source=rss"
+        "title": "Benzema, Pogba, Sancho and Sterling: What now for football\u2019s free agents?",
+        "link": "https://www.aljazeera.com/sports/2026/9/3/benzema-pogba-sancho-and-sterling-what-now-for-footballs-free-agents?traffic_source=rss"
       },
       {
-        "title": "EU remains divided over trade sanctions on illegal Israeli settlements",
-        "link": "https://www.aljazeera.com/news/2026/9/3/eu-remains-divided-over-trade-sanctions-on-illegal-israeli-settlements?traffic_source=rss"
+        "title": "UEFA opens disciplinary case against Fenerbahce\u2019s Guendouzi and Greenwood",
+        "link": "https://www.aljazeera.com/sports/2026/9/3/uefa-opens-disciplinary-case-against-fenerbahces-guendouzi-and-greenwood?traffic_source=rss"
       },
       {
-        "title": "Eto\u2019o calls on African football federations to support FIFA chief Infantino",
-        "link": "https://www.aljazeera.com/sports/2026/9/3/etoo-calls-on-african-football-federations-to-support-fifa-chief-infantino?traffic_source=rss"
+        "title": "Why has the Netherlands moved $10bn of its gold from the US?",
+        "link": "https://www.aljazeera.com/news/2026/9/3/why-has-the-netherlands-moved-10bn-of-its-gold-from-the-us?traffic_source=rss"
       },
       {
-        "title": "Ghana reappoints Queiroz to lead Black Stars two months after stepping down",
-        "link": "https://www.aljazeera.com/sports/2026/9/3/ghana-reappoints-queiroz-to-lead-black-stars-two-months-after-stepping-down?traffic_source=rss"
+        "title": "Feminist icon Gloria Steinem dies aged 92",
+        "link": "https://www.aljazeera.com/news/2026/9/3/feminist-icon-gloria-steinem-dies-aged-92?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Graffard's Drazinda faces Armor Supreme",
-        "link": "https://www.skysports.com/racing/news/12040/13580265/today-on-sky-sports-racing-francis-henri-graffards-drazinda-faces-armor-supreme"
+        "title": "Ireland two down early as England look to clinch ODI series LIVE!",
+        "link": "https://www.skysports.com/cricket/live-blog/12040/13580787/england-vs-ireland-second-womens-odi-cricket-score-updates-video-and-analysis-as-charlie-deans-side-look-to-clinch-series-in-derby"
       },
       {
-        "title": "Solheim Cup | Best winning moments!",
-        "link": "https://www.skysports.com/watch/video/12961988/solheim-cup-best-winning-moments"
+        "title": "'I don't have to shake his hand' - Dubois sends clear message to Wardley!",
+        "link": "https://www.skysports.com/watch/video/13580809/daniel-dubois-sends-clear-message-to-fabio-wardley-i-dont-have-to-shake-his-hand"
       },
       {
-        "title": "Norris reveals other 'opportunities' before committing future to McLaren",
-        "link": "https://www.skysports.com/f1/news/12040/13580417/lando-norris-reveals-other-opportunities-before-signing-new-mclaren-contract-ahead-of-italian-grand-prix"
+        "title": "Mal Benning to be honoured, Choudhury winning Sheffield United debut",
+        "link": "https://www.skysports.com/football/news/12040/13580349/devs-digest-mal-benning-to-be-honoured-hamza-choudhury-wins-on-sheffield-united-debut-amit-bhatia-attends-liverpool-match-at-anfield"
       },
       {
-        "title": "Sabalenka breezes past Iatcenko in US Open",
-        "link": "https://www.skysports.com/watch/video/13580690/aryna-sabalenka-vs-polina-iatchenko-us-open-highlights"
+        "title": "BIG crowds gather in Milan as Ferrari fans cheer for Hamilton & Leclerc!",
+        "link": "https://www.skysports.com/watch/video/13580707/formula-1-ferrari-fans-flock-to-peroni-event-to-cheer-on-lewis-hamilton-and-charles-leclerc"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "Bill Orcutt :: Four Louies Live",
+        "link": "https://aquariumdrunkard.com/2026/09/03/bill-orcutt-four-louies-live/"
+      },
       {
         "title": "American Spring :: S/T (1972)",
         "link": "https://aquariumdrunkard.com/2026/09/02/american-spring-s-t-1972/"
@@ -70,10 +74,6 @@
       {
         "title": "Mel\u00f4 do Embaixador: Brazilian Soul, Funk & Disco Covers 1968-2015",
         "link": "https://aquariumdrunkard.com/2026/09/01/melo-do-embaixador-brazilian-soul-funk-disco-covers-1968-2015/"
-      },
-      {
-        "title": "The Drin :: I Lost My Way for Centuries",
-        "link": "https://aquariumdrunkard.com/2026/08/31/the-drin-i-lost-my-way-for-centuries/"
       }
     ],
     "bfi": [],
@@ -116,6 +116,10 @@
     ],
     "mubi": [
       {
+        "title": "The Armchair Answer to the Troubles",
+        "link": "https://mubi.com/en/notebook/posts/the-armchair-answer-to-the-troubles"
+      },
+      {
         "title": "Inherit the Wind: Kiyoshi Kurosawa\u2019s \u201cThe Samurai and the Prisoner\u201d",
         "link": "https://mubi.com/en/notebook/posts/inherit-the-wind-kiyoshi-kurosawa-s-the-samurai-and-the-prisoner"
       },
@@ -126,10 +130,6 @@
       {
         "title": "MUBI Podcast: Italian Voices Of Today | Season 6",
         "link": "https://mubi.com/en/notebook/posts/mubi-podcast-voci-italiane-contemporanee-season-6-11424"
-      },
-      {
-        "title": "Songs for a Kiss: The Evolving Romance of Pakistani Cinema",
-        "link": "https://mubi.com/en/notebook/posts/songs-for-a-kiss-the-evolving-romance-of-pakistani-cinema"
       }
     ],
     "reverseshot": [],
@@ -153,60 +153,64 @@
     ],
     "indiewire": [
       {
+        "title": "Fans Will Always Argue About Who Is the Best James Bond, but \u2018Live and Let Die\u2019 Makes the Answer Clear",
+        "link": "https://www.indiewire.com/features/commentary/live-and-let-die-roger-moore-best-james-bond-1235214170/"
+      },
+      {
+        "title": "\u2018Everest: The Other Side\u2019 Review: A Grieving Ski Mountaineer Scales the Face of Death in Chai Vasarhelyi and Jimmy Chin\u2019s Climbing Doc",
+        "link": "https://www.indiewire.com/criticism/movies/everest-the-other-side-review-everest-climbing-doc-1235214536/"
+      },
+      {
         "title": "Can Rupert Murdoch Origin Story \u2018Ink\u2019 Push Danny Boyle, Jack O\u2019Connell, Guy Pearce, and Netflix Into the Oscar Race?",
         "link": "https://www.indiewire.com/news/festivals/netflix-ink-oscar-odds-danny-boyle-jack-oconnell-murdoch-1235214456/"
       },
       {
         "title": "How Trump\u2019s Call for a Federal Film Production Incentive Could Actually Help Hollywood",
         "link": "https://www.indiewire.com/features/commentary/trumps-film-tv-tax-incentive-productions-back-us-1235214399/"
-      },
-      {
-        "title": "\u2018Chronovisor\u2019 Review: An Occult Thriller Turns Academic Obsession Into Something Beguiling and Wildly Compelling",
-        "link": "https://www.indiewire.com/criticism/movies/chronovisor-movie-review-occult-thriller-jesus-photograph-1235214118/"
-      },
-      {
-        "title": "\u2018Ink\u2019 Review: Danny Boyle\u2019s Rupert Murdoch Pressure Cooker Is a Journalism Thriller Tabloid-Ready for Our Political Apocalypse",
-        "link": "https://www.indiewire.com/criticism/movies/ink-movie-review-danny-boyle-rupert-murdoch-1235213549/"
       }
     ],
     "variety": [
       {
-        "title": "Tallinn Black Nights Festival Sets Focus on Baltic Cinema for 30th Anniversary Special Edition (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/global/tallinn-black-nights-festival-baltics-focus-30th-anni-1236850017/"
+        "title": "Microseries Studio and Platform aTwist Officially Launches With First Slate of Originals",
+        "link": "https://variety.com/2026/tv/news/microseries-studio-platform-atwist-launches-first-slate-1236848859/"
       },
       {
-        "title": "Theo James Steps Into His Michael Corleone Era for a Darker, More Sinister \u2018The Gentlemen\u2019 Season 2: TV Review",
-        "link": "https://variety.com/2026/tv/reviews/the-gentlemen-season-2-review-netflix-1236842633/"
+        "title": "\u2018Jet Lag: The Game\u2019 Season 19 Finale Heads to Regal, Picturehouse Movie Theaters as Nebula Expands Cineworld Partnership (EXCLUSIVE)",
+        "link": "https://variety.com/2026/tv/news/jet-lag-the-game-finale-theatrical-release-season-19-1236849680/"
       },
       {
-        "title": "\u2018Chad Powers\u2019 Season 2 Ending: Who Knows the Truth About Russ Holliday and What Happened to Gerry?",
-        "link": "https://variety.com/2026/tv/news/chad-powers-season-2-ending-explained-1236848716/"
+        "title": "Steve Doocy, Brian Kilmeade Will Commemorate 9/11 on Fox News After Covering it 25 Years Ago",
+        "link": "https://variety.com/2026/tv/news/steve-doocy-brian-kilmeade-9-11-fox-news-coverage-1236850198/"
       },
       {
-        "title": "Warner Music India Unveils Season 2 of Folk Music Franchise \u2018Maati\u2019 (EXCLUSIVE)",
-        "link": "https://variety.com/2026/music/news/warner-music-india-maati-season-2-1236849988/"
+        "title": "AI Giant Nvidia to Buy Hugging Face for $12.9 Billion",
+        "link": "https://variety.com/2026/digital/news/nvidia-acquires-hugging-face-12-9-billion-1236850349/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Oscars: Romania Picks Cannes Winner \u2018Fjord\u2019 as Best International Feature Contender",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/oscars-2027-romania-fjord-renate-reinsve-sebastian-stan-1236689238/"
+        "title": "Hollywood Veterans Launch aTwist Microdrama Platform With Horror, Comedy and Animated Series",
+        "link": "https://www.hollywoodreporter.com/business/digital/hollywood-veterans-atwist-microdrama-platform-1236688362/"
       },
       {
-        "title": "Frank Marshall and Nigel Sinclair Reveal and Discuss Their New Doc \u2018Pete Townshend: Behind Blue Eyes\u2019 (Exclusive)",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/frank-marshall-nigel-sinclair-pete-townshend-behind-blue-eyes-1236687818/"
+        "title": "The Fix Is Not In: Can Sports Gambling\u2019s Trust Crisis Be Solved?",
+        "link": "https://www.hollywoodreporter.com/business/business-news/sports-gambling-trust-crisis-solution-1236666103/"
       },
       {
-        "title": "Oscar Predictions via Feinberg Forecast: Scott\u2019s First Read of the Race",
-        "link": "https://www.hollywoodreporter.com/lists/oscar-predictions-2027-scott-feinberg-first-forecast/"
+        "title": "Inside Robert Pattinson\u2019s Eerie Chris Hansen Transformation in \u2018Primetime\u2019: \u201cA Reconfigured Egregore\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-features/primetime-exclusive-robert-pattinson-lance-oppenheim-1236689031/"
       },
       {
-        "title": "\u2018Ted Lasso\u2019 Season Hits the Halfway Mark With Heartbreak All Around",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/ted-lasso-season-four-halfway-mark-heartbreak-all-around-1236689129/"
+        "title": "Werner Herzog Reveals Touching Reason Behind \u2018Bucking Fastard\u2019 Dedication to David Lynch Ahead of Venice Premiere",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/werner-herzog-kate-rooney-mara-bucking-fastard-venice-lynch-1236689310/"
       }
     ],
     "larb": [],
     "aeon": [
+      {
+        "title": "Neuroqueering on the lawn",
+        "link": "https://aeon.co/essays/neuroqueer-expression-and-the-limits-of-social-tolerance"
+      },
       {
         "title": "More nothing now",
         "link": "https://aeon.co/essays/play-is-doing-its-work-even-if-were-not-keeping-score"
@@ -218,13 +222,13 @@
       {
         "title": "The fog of hunger",
         "link": "https://aeon.co/essays/a-hungry-woman-is-easier-to-dismiss-than-a-well-fed-woman"
-      },
-      {
-        "title": "A vocabulary for the future: touch",
-        "link": "https://aeon.co/videos/repulsion-at-the-core-of-attraction-on-the-paradox-of-touch"
       }
     ],
     "psyche": [
+      {
+        "title": "Why you should try living without free will for two weeks",
+        "link": "https://psyche.co/ideas/why-you-should-try-living-without-free-will-for-two-weeks"
+      },
       {
         "title": "Logistics underpins power \u2013 and logistics is female",
         "link": "https://psyche.co/ideas/logistics-underpins-power-and-logistics-is-female"
@@ -236,10 +240,6 @@
       {
         "title": "Everything is going to be fine",
         "link": "https://psyche.co/videos/youre-sure-that-society-is-spiralling-and-were-all-doomed-now-what"
-      },
-      {
-        "title": "How to rediscover your purpose later in life",
-        "link": "https://psyche.co/guides/how-to-rediscover-your-purpose-later-in-life"
       }
     ],
     "publicdomainreview": [
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "40 Years Ago, Oceanographers Found the Wreckage of the RMS Titanic",
+        "link": "https://nautil.us/40-years-ago-oceanographers-found-the-wreckage-of-the-rms-titanic-1284740/"
+      },
+      {
         "title": "New Species of Giant Armadillo Has Convoluted History",
         "link": "https://nautil.us/new-species-of-giant-armadillo-has-convoluted-history-1284734/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "How Music Sparks Imagination",
         "link": "https://nautil.us/how-music-sparks-imagination-1284721/"
-      },
-      {
-        "title": "How Your Genes Shape Your Personality",
-        "link": "https://nautil.us/how-your-genes-shape-your-personality-1284718/"
       }
     ],
     "worksinprogress": [],
