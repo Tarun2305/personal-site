@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04 17:57 UTC",
+  "last_updated": "2026-09-04 20:20 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,58 +7,66 @@
         "link": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Farage says his aides' donor comments were 'loose pub talk'",
-        "link": "https://www.bbc.co.uk/news/articles/c3eqvyj5qg5o?at_medium=RSS&at_campaign=rss"
+        "title": "BBC visits area at heart of police investigation after A66 crash ",
+        "link": "https://www.bbc.co.uk/news/videos/cvgy7y1ww89o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Farage threatens to overhaul Lords and judges to meet his pledges",
+        "link": "https://www.bbc.co.uk/news/articles/clyeq5jvd2po?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "UN votes to adopt new world map to reflect Africa's true size",
         "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
-        "link": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Indonesia wildfires send toxic haze across Southeast Asia",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-indonesia-kalimantan-haze-borneo-wildfires-haze-id?traffic_source=rss"
+        "title": "Israeli drones drop bombs on southern Lebanon\u2019s Mansouri",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-israel-drone-bombs-mansouri-lb-fm?traffic_source=rss"
       },
       {
-        "title": "Yemen\u2019s army says recaptured key territory as clashes with Houthis continue",
-        "link": "https://www.aljazeera.com/news/2026/9/4/yemens-army-says-recaptured-key-territory-as-clashes-with-houthis-continue?traffic_source=rss"
+        "title": "Israeli strike kills two in southern Lebanon amid ongoing escalation",
+        "link": "https://www.aljazeera.com/news/2026/9/4/israeli-strike-kills-two-in-southern-lebanon-amid-ongoing-escalation?traffic_source=rss"
       },
       {
-        "title": "Rescuers race to save10-year-old Algerian boy trapped in deep well",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/rescuers-race-to-save10-year-old-algerian-boy-trapped-in-deep-well?traffic_source=rss"
+        "title": "Andrew Tate indicted in Romania for trafficking minors, money laundering",
+        "link": "https://www.aljazeera.com/news/2026/9/4/andrew-tate-indicted-in-romania-for-trafficking-minors-money-laundering?traffic_source=rss"
       },
       {
-        "title": "US adds 162,000 jobs in August, raising Fed rate hike expectations",
-        "link": "https://www.aljazeera.com/economy/2026/9/4/us-adds-jobs-in-august-beating-economic-forecasts?traffic_source=rss"
+        "title": "UN votes to adopt new world map that reflects Africa\u2019s true size",
+        "link": "https://www.aljazeera.com/news/2026/9/4/un-votes-to-adopt-new-world-map-that-reflects-africas-true-size?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Putellas starts but Earps on the bench for London City vs Man Utd LIVE!",
+        "title": "Greaves makes more history with win at Czech Darts Open",
+        "link": "https://www.skysports.com/darts/news/12040/13581507/beau-greaves-becomes-first-woman-to-win-a-match-on-pdc-european-tour-plays-luke-humphries-next-at-czech-darts-open"
+      },
+      {
+        "title": "How influencers at US Open are testing boundaries of tennis etiquette",
+        "link": "https://www.skysports.com/tennis/news/12040/13581380/us-open-how-influencers-have-sparked-debate-at-flushing-meadows-as-naomi-osaka-coco-gauff-and-jessica-pegula-have-their-say"
+      },
+      {
+        "title": "Lawrence leads at halfway stage in Switzerland as he aims to emulate Ballesteros",
+        "link": "https://www.skysports.com/golf/news/12040/13581485/dp-world-tour-golf-thriston-lawrence-leads-at-halfway-stage-of-omega-european-masters-as-he-aims-to-emulate-seve-ballesteros"
+      },
+      {
+        "title": "London City land opening night win over Man Utd LIVE! ",
         "link": "https://www.skysports.com/football/london-city-lionesses-vs-manchester-united-women/live/575755"
-      },
-      {
-        "title": "Ipswich vs Liverpool LIVE on Sky! Barcola on bench for visitors",
-        "link": "https://www.skysports.com/football/ipswich-town-vs-liverpool/live/559470"
-      },
-      {
-        "title": "'It's going to be tight' - Hamilton eyes 'dream' Monza pole",
-        "link": "https://www.skysports.com/f1/news/12040/13581165/lewis-hamilton-eyes-dream-italian-gp-pole-position-for-ferrari-after-predicting-very-close-monza-qualifying-battle"
-      },
-      {
-        "title": "Stella fumes at 'insulting' Briatore allegations after Alpine lose podium",
-        "link": "https://www.skysports.com/f1/news/12040/13581166/andrea-stella-says-allegations-from-alpine-chief-flavio-briatore-are-insulting-for-mclaren-after-court-rules-on-monaco-podium"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "R\u00e3o Kyao :: Malpertuis",
+        "link": "https://aquariumdrunkard.com/2026/09/04/rao-kyao-malpertuis/"
+      },
+      {
+        "title": "Upper Wilds :: Mercury",
+        "link": "https://aquariumdrunkard.com/2026/09/04/upper-wilds-mercury/"
+      },
       {
         "title": "Bill Orcutt :: Four Louies Live",
         "link": "https://aquariumdrunkard.com/2026/09/03/bill-orcutt-four-louies-live/"
@@ -66,14 +74,6 @@
       {
         "title": "American Spring :: S/T (1972)",
         "link": "https://aquariumdrunkard.com/2026/09/02/american-spring-s-t-1972/"
-      },
-      {
-        "title": "Transmissions :: Sun Ra: Door of the Cosmos",
-        "link": "https://aquariumdrunkard.com/2026/09/02/transmissions-sun-ra-door-of-the-cosmos/"
-      },
-      {
-        "title": "Mel\u00f4 do Embaixador: Brazilian Soul, Funk & Disco Covers 1968-2015",
-        "link": "https://aquariumdrunkard.com/2026/09/01/melo-do-embaixador-brazilian-soul-funk-disco-covers-1968-2015/"
       }
     ],
     "bfi": [],
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
-        "title": "\u2018Mr. Nelson, Did You Kill People?\u2019 Review: Shinya Tsukamoto Directs a Bizarre Misfire About a Black Soldier in Vietnam",
-        "link": "https://www.indiewire.com/criticism/movies/mr-nelson-did-you-kill-people-review-1235214871/"
+        "title": "\u2018Chronovisor\u2019 Directors Measured Twice and Cut Film Once to Tell a Text-Based Thriller",
+        "link": "https://www.indiewire.com/features/craft/chronovisor-directors-kevin-walker-jack-auen-interview-1235214954/"
       },
       {
-        "title": "Director Michael Dinner Loves a Challenge \u2014 and He Had Plenty of Them on \u2018Silo\u2019",
-        "link": "https://www.indiewire.com/features/podcast/michael-dinner-on-apple-tv-silo-filmmaker-toolkit-1235213756/"
+        "title": "\u2018The Basics of Philosophy\u2019 Review: Paul Schrader\u2019s Lurid Study of a Predatory Intellectual Is Quietly Explosive, but Not Dangerous Enough",
+        "link": "https://www.indiewire.com/criticism/movies/the-basics-of-philosophy-review-paul-schrader-1235214805/"
       },
       {
-        "title": "\u201815/18 (A Place to Heal)\u2019 Review: A Taboo-Busting Dramedy Set Inside a Psychiatric Ward for Teens",
-        "link": "https://www.indiewire.com/criticism/movies/15-18-a-place-to-heal-movie-review-1235214815/"
+        "title": "\u2018Furies\u2019 Review: An Anarchic Lebanese Heist Thriller Blazes Past Borders and Genre Cliches",
+        "link": "https://www.indiewire.com/criticism/movies/furies-review-lebanese-heist-movie-1235213562/"
       },
       {
-        "title": "\u2018Queer Edward II\u2019 Review: Intimate Derek Jarman Documentary Channels the Power of Articulate, Angry and Artful Queer Protest\u00a0",
-        "link": "https://www.indiewire.com/criticism/movies/queer-edward-ii-review-derek-jarman-documentary-1235214808/"
+        "title": "Abel Ferrara Only Went Hollywood Once, but It Resulted in a Horror Classic",
+        "link": "https://www.indiewire.com/features/commentary/abel-ferrara-body-snatchers-studio-horror-classic-1235214814/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018Wheel of Fortune\u2019 Announcer Jim Thornton Allegedly Visited Pedophilia Chatroom, Leading to Suspension",
-        "link": "https://variety.com/2026/tv/news/wheel-of-fortune-jim-thornton-pedophilia-chatroom-suspension-1236851017/"
+        "title": "Tetris Company Distances Itself From Trump White House\u2019s \u2018Build the Wall\u2019 Game, Says \u2018We Take Copyright Very Seriously\u2019",
+        "link": "https://variety.com/2026/digital/news/tetris-company-trump-white-house-build-the-wall-game-copyright-1236851993/"
       },
       {
-        "title": "Mellody Hobson Tears Up Talking About Why Husband George Lucas Was Unwilling to Compromise on Lucas Museum of Narrative Art: \u2018I Saw Genius Work\u2019",
-        "link": "https://variety.com/2026/film/columns/mellody-hobson-tears-up-husband-george-lucas-lucas-museum-1236851810/"
+        "title": "\u2018The Basics of Philosophy\u2019 Review: Paul Schrader Wrestles with Sin and Spinoza in His Latest Tortured-Man Drama",
+        "link": "https://variety.com/2026/film/reviews/the-basics-of-philosophy-review-1236847014/"
       },
       {
-        "title": "Dolly Parton Gets New Hollywood Walk of Fame Star After Original Was Vandalized Following Her Death",
-        "link": "https://variety.com/2026/music/news/dolly-parton-new-hollywood-walk-of-fame-star-1236851794/"
+        "title": "How to Watch the U.S Open Live Online",
+        "link": "https://variety.com/2026/shopping/news/how-to-stream-us-open-live-online-streaming-1236851970/"
       },
       {
-        "title": "Alix Earle Rips Into \u2018Toxic\u2019 Alex Cooper in Fiery Statement on Feud: \u2018The Way You Approach Business Is Disgusting. You Choose Money Over Morals\u2019",
-        "link": "https://variety.com/2026/digital/news/alix-earle-alex-cooper-feud-responds-1236851855/"
+        "title": "How to Stream F1\u2019s Monza Grand Prix Live Online",
+        "link": "https://variety.com/2026/shopping/news/how-to-stream-f1-monza-italy-grand-prix-live-online-1236851951/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018Burgundy\u2019 Review: The Classic French Vin Rouge Is a Way of Life in Michael Dweck and Gregory Kershaw\u2019s Captivating Oenology Doc",
-        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/burgundy-review-michael-dweck-gregory-kershaw-wine-doc-1236690777/"
+        "title": "21 Labor Day Sales Worth the Browse: Parke, Goop, Reformation and More",
+        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/best-labor-day-sales-2026-furniture-clothing-deals-online-1236690989/"
       },
       {
-        "title": "\u2018Wheel of Fortune\u2019 Announcer Suspended After Alleged Pedophilia Chatroom Photos",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/wheel-of-fortune-announcer-suspended-pedophilia-chatroom-photos-1236690380/"
+        "title": "Steve Hilton Wants to Boost California\u2019s Nightlife Economy If He Wins Governor",
+        "link": "https://www.hollywoodreporter.com/news/politics-news/steve-hilton-reveals-his-entertainment-plan-if-he-wins-california-governor-1236690828/"
       },
       {
-        "title": "Byron Allen\u2019s Freestyle Releasing Acquires \u2018Hello Beautiful\u2019 For Theatrical Release (Exclusive)",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/byron-allens-freestyle-releasing-hello-beautiful-1236689496/"
+        "title": "\u2018Lanterns\u2019 Writer Responds to Buzzy Episode Three Reaction: \u201cI Just Hope People Will Stick It Out With John\u201d",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/lanterns-writer-responds-buzzy-episode-outkast-1236691083/"
       },
       {
-        "title": "Liam Neeson-Produced \u2018The Lost Children of Tuam,\u2019 About Secret Mass Burial of Irish Kids, Confronts a Painful Historical Chapter (Exclusive Trailer)",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/liam-neeson-produced-the-lost-children-of-tuam-film-trailer-1236690778/"
+        "title": "\u2018The Basics of Philosophy\u2019 Review: Paul Schrader Does Some Deep \u2014 and Discomfiting \u2014 Thinking About a College Professor\u2019s Guilt",
+        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-basics-of-philosophy-review-paul-schrader-jack-huston-1236690730/"
       }
     ],
     "larb": [],
@@ -280,20 +280,20 @@
     ],
     "nautilus": [
       {
+        "title": "Can Nature Benefit You If You\u2019re Already Well?",
+        "link": "https://nautil.us/can-nature-benefit-you-if-youre-already-well-1284801/"
+      },
+      {
+        "title": "Chimps Have Accents, Too",
+        "link": "https://nautil.us/chimps-have-accents-too-1284795/"
+      },
+      {
         "title": "The Extinct \u201cAmerican Cheetah\u201d Wasn\u2019t a Cheetah After All",
         "link": "https://nautil.us/the-extinct-american-cheetah-wasnt-a-cheetah-after-all-1284777/"
       },
       {
         "title": "Astronomers Spot a Strange Atmospheric Wave Above Saturn\u2019s South Pole",
         "link": "https://nautil.us/astronomers-spot-a-strange-atmospheric-wave-above-saturns-south-pole-1284773/"
-      },
-      {
-        "title": "Deadly Livestock Virus Found Lurking in Ancient Texts",
-        "link": "https://nautil.us/deadly-livestock-virus-found-lurking-in-ancient-texts-1284770/"
-      },
-      {
-        "title": "Your Home is Crawling With Microplastics",
-        "link": "https://nautil.us/your-home-is-crawling-with-microplastics-1284761/"
       }
     ],
     "worksinprogress": [],
