@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03 22:55 UTC",
+  "last_updated": "2026-09-04 02:21 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,38 +7,42 @@
         "link": "https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+        "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Transplanted pig kidney works in US man's body for record 271 days",
         "link": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Schools to close early for A66 crash funeral amid safety concerns",
-        "link": "https://www.bbc.co.uk/news/articles/c2kwv0dypnwo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "British army told to stop non-essential training exercises to save money",
-        "link": "https://www.bbc.co.uk/news/articles/cvgyqey6rlyo?at_medium=RSS&at_campaign=rss"
+        "title": "Watch: Inside court as Lindsay Clancy's lawyer asks judge to remove juror",
+        "link": "https://www.bbc.co.uk/news/videos/c36l7jwjg1no?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Why are people calling Venezuela oil deal a new form of US colonialism?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_us-venezuela-oil-deal_colonialism-030926?traffic_source=rss"
+        "title": "ICC leaders condemn efforts to erode international legal order",
+        "link": "https://www.aljazeera.com/news/2026/9/4/icc-leaders-condemn-efforts-to-erode-international-legal-order?traffic_source=rss"
       },
       {
-        "title": "Burnham, Macron talk border security and stronger Europe-UK ties",
-        "link": "https://www.aljazeera.com/news/2026/9/3/burnham-macron-talk-border-security-and-stronger-europe-uk-ties?traffic_source=rss"
+        "title": "US continues to squeeze Cuban economy with new round of sanctions",
+        "link": "https://www.aljazeera.com/news/2026/9/4/us-continues-to-squeeze-cuban-economy-with-new-round-of-sanctions?traffic_source=rss"
       },
       {
-        "title": "NYC\u2019s AI ban through grade 8 sets stage for rest of US, experts say",
-        "link": "https://www.aljazeera.com/economy/2026/9/3/nycs-ai-ban-through-grade-8-sets-stage-for-rest-of-us-experts-say?traffic_source=rss"
+        "title": "Ghana tightens gold exports in push to keep more value at home",
+        "link": "https://www.aljazeera.com/news/2026/9/4/ghana-tightens-gold-exports-in-push-to-keep-more-value-at-home?traffic_source=rss"
       },
       {
-        "title": "Nepal flood victims to be identified through DNA",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/nepal-flood-victims-to-be-identified-through-dna?traffic_source=rss"
+        "title": "Pete Hegseth\u2019s Pentagon: A list of controversies that define his tenure",
+        "link": "https://www.aljazeera.com/news/2026/9/4/pete-hegseths-pentagon-a-list-of-controversies-that-define-his-tenure?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "Kyrgios accepts one-month suspension after positive cocaine test",
+        "link": "https://www.skysports.com/tennis/news/12040/13581087/nick-kyrgios-former-wimbledon-finalist-accepts-one-month-suspension-from-international-tennis-integrity-association-for-testing-positive-for-cocaine"
+      },
       {
         "title": "Carlos Alcaraz planning more breaks in 'impossible' tennis schedule",
         "link": "https://www.skysports.com/tennis/news/12040/13580916/us-open-carlos-alcaraz-planning-more-breaks-in-impossible-tennis-schedule-after-more-than-four-months-out-with-a-wrist-injury"
@@ -50,10 +54,6 @@
       {
         "title": "A squad once worth over \u00a31bn! The free agents your club could still sign",
         "link": "https://www.skysports.com/football/news/12040/13580813/free-agents-jadon-sancho-paul-pogba-and-dele-alli-among-players-available-on-free-transfer-after-summer-window-shuts"
-      },
-      {
-        "title": "WSL window winners & losers: Ecstatic Arsenal but have Man City & Chelsea done enough?",
-        "link": "https://www.skysports.com/football/news/12040/13581035/wsl-2026-27-transfer-window-winners-and-losers-ecstatic-arsenal-but-have-man-city-and-chelsea-done-enough"
       }
     ],
     "pitchfork": [],
@@ -171,38 +171,38 @@
     ],
     "variety": [
       {
-        "title": "\u2018Modern Family\u2019 Duo Sets New Comedy Series \u2018Mammoth\u2019 on Fox",
-        "link": "https://variety.com/2026/tv/news/modern-family-duo-new-comedy-show-mammoth-fox-1236851109/"
+        "title": "\u2018Monsters of God\u2019 Finale Twist: The Final Boss and Rogue Special Agent",
+        "link": "https://variety.com/2026/tv/news/monsters-of-god-finale-twist-hbo-anson-wong-eric-goode-ploughshare-tortoise-1236850725/"
       },
       {
-        "title": "Leslie Odom, Jr. and Aunjanue Ellis-Taylor Join Storm Reid in Teyana Taylor\u2019s Directorial Debut \u2018Get Lite\u2019 (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/news/teyana-taylor-get-lite-cast-leslie-odom-jr-aunjanue-ellis-taylor-1236850170/"
+        "title": "Pablo Torre Sounds Off on the NBA\u2019s Historic Ruling Against the Clippers, Kawhi Leonard and ESPN \u2014 and Teases His Next Big Sports Investigation",
+        "link": "https://variety.com/2026/sports/news/pablo-torre-clippers-nba-kawhi-leonard-steve-ballmer-espn-mark-walter-lakers-1236851177/"
       },
       {
-        "title": "Jane Fonda on Paramount-Warner Bros. Merger, Trump and Tech Bros\u2019 Desire for Longevity \u2018While They\u2019re Killing the Rest of Us\u2019",
-        "link": "https://variety.com/2026/film/global/jane-fonda-paramount-warner-bros-trump-tech-bros-longevity-1236850300/"
+        "title": "\u2018Marriagetoxin\u2019 Creators Joumyaku and Yoda Mizuki Tease Season 2: \u2018There Is Plenty of Cool Action We Want You to See\u2019 (EXCLUSIVE)",
+        "link": "https://variety.com/2026/tv/news/marriagetoxin-creators-tease-season-2-1236850772/"
       },
       {
-        "title": "Gloria Steinem\u2019s Farewell Interview to Stream on Netflix",
-        "link": "https://variety.com/2026/tv/news/gloria-steinem-last-interview-netflix-1236850765/"
+        "title": "Shakira, Romeo Santos, Prince Royce Among Top Winners at Premios Juventud 2026",
+        "link": "https://variety.com/2026/music/news/shakira-romeo-santos-prince-royce-winners-premios-juventud-1236851053/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018Modern Family\u2019 Duo Christopher Lloyd, Danny Zuker Land Comedy \u2018Mammoth\u2019 at Fox",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/modern-family-duo-christopher-lloyd-danny-zuker-land-comedy-mammoth-at-fox-1236690293/"
+        "title": "Nordstrom\u2019s Summer Clearance Gives a Surprise Second Shot at Anniversary Sale Savings",
+        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/nordstrom-clearance-end-of-season-sale-2026-labor-day-deals-1236690194/"
       },
       {
-        "title": "Meryl Streep, Colman Domingo, Bill Hader Join \u2018Lincoln in the Bardo\u2019 Animated Cast for Starburns Industries (Exclusive)",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/meryl-streep-join-lincoln-in-the-bardo-animated-cast-1236690281/"
+        "title": "\u2018Too Much Sugar\u2019 Review: A Lively and Authentic Portrait of Small-Town America, in Which the Characters Become Masters of Their Own Stories",
+        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/too-much-sugar-review-robert-greene-1236690139/"
       },
       {
-        "title": "The Jay-Z\u2013Colin Kaepernick Rift Gets Personal as Ex-NFL Star Says Rapper Feels Guilty Over NFL Deal",
-        "link": "https://www.hollywoodreporter.com/news/general-news/the-jay-z-colin-kaepernick-feels-guilty-nfl-deal-1236690192/"
+        "title": "Taylor Frankie Paul Confirms She Got Engaged on Pulled \u2018Bachelorette\u2019 Season, Reveals What Happened After Filming",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/taylor-frankie-paul-engaged-bachelorette-what-happened-1236689973/"
       },
       {
-        "title": "\u2018The Shards\u2019 Star Graham Campbell Reveals How Kaia Gerber Helped With Violent Break-Up Scene",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/the-shards-thom-susan-break-up-graham-campbell-kaia-gerber-1236688923/"
+        "title": "Outside Gloria Steinem\u2019s Home, Her Legacy Lives On",
+        "link": "https://www.hollywoodreporter.com/news/general-news/outside-gloria-steinem-home-her-legacy-lives-on-1236690340/"
       }
     ],
     "larb": [],
