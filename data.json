@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-09-04 02:21 UTC",
+  "last_updated": "2026-09-04 07:35 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Farage senior aide filmed suggesting way to avoid donations law",
-        "link": "https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&at_campaign=rss"
+        "title": "Two senior Reform UK officials step down after undercover report",
+        "link": "https://www.bbc.co.uk/news/articles/c86xj5z7x61o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Moment workers are rescued from Nepal tunnel",
+        "link": "https://www.bbc.co.uk/news/videos/cnvl5e6vy8eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
+        "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
         "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Transplanted pig kidney works in US man's body for record 271 days",
-        "link": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: Inside court as Lindsay Clancy's lawyer asks judge to remove juror",
-        "link": "https://www.bbc.co.uk/news/videos/c36l7jwjg1no?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "ICC leaders condemn efforts to erode international legal order",
-        "link": "https://www.aljazeera.com/news/2026/9/4/icc-leaders-condemn-efforts-to-erode-international-legal-order?traffic_source=rss"
+        "title": "Nepal floods: How DNA identification of bodies works",
+        "link": "https://www.aljazeera.com/news/2026/9/4/nepal-floods-how-does-dna-identification-of-bodies-work?traffic_source=rss"
       },
       {
-        "title": "US continues to squeeze Cuban economy with new round of sanctions",
-        "link": "https://www.aljazeera.com/news/2026/9/4/us-continues-to-squeeze-cuban-economy-with-new-round-of-sanctions?traffic_source=rss"
+        "title": "In southern Lebanon, Israeli demolitions continue \u2018day and night\u2019",
+        "link": "https://www.aljazeera.com/features/2026/9/4/in-southern-lebanon-israeli-demolitions-continue-day-and-night?traffic_source=rss"
       },
       {
-        "title": "Ghana tightens gold exports in push to keep more value at home",
-        "link": "https://www.aljazeera.com/news/2026/9/4/ghana-tightens-gold-exports-in-push-to-keep-more-value-at-home?traffic_source=rss"
+        "title": "Houthi attacks on Yemen\u2019s Taiz escalate, triggering new displacement wave",
+        "link": "https://www.aljazeera.com/news/2026/9/4/houthi-attacks-on-yemens-taiz-escalate-triggering-new-displacement-wave?traffic_source=rss"
       },
       {
-        "title": "Pete Hegseth\u2019s Pentagon: A list of controversies that define his tenure",
-        "link": "https://www.aljazeera.com/news/2026/9/4/pete-hegseths-pentagon-a-list-of-controversies-that-define-his-tenure?traffic_source=rss"
+        "title": "After Gen Z, India\u2019s Gen Alpha rises, demanding education reforms",
+        "link": "https://www.aljazeera.com/news/2026/9/4/after-gen-z-indias-gen-alpha-rises-demanding-education-reforms?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Moonfall returns for more Ascot riches",
+        "link": "https://www.skysports.com/racing/news/12040/13580489/today-on-sky-sports-racing-ascot-bangor-on-dee-and-worcester"
+      },
+      {
+        "title": "Zverev survives scare in 2.15am finish after Gauff overcomes big test",
+        "link": "https://www.skysports.com/tennis/news/12040/13581088/us-open-coco-gauff-overcomes-paula-badosa-as-learner-tien-brings-curtain-down-on-gael-monfils-grand-slam-career"
+      },
+      {
         "title": "Kyrgios accepts one-month suspension after positive cocaine test",
         "link": "https://www.skysports.com/tennis/news/12040/13581087/nick-kyrgios-former-wimbledon-finalist-accepts-one-month-suspension-from-international-tennis-integrity-association-for-testing-positive-for-cocaine"
       },
       {
-        "title": "Carlos Alcaraz planning more breaks in 'impossible' tennis schedule",
-        "link": "https://www.skysports.com/tennis/news/12040/13580916/us-open-carlos-alcaraz-planning-more-breaks-in-impossible-tennis-schedule-after-more-than-four-months-out-with-a-wrist-injury"
-      },
-      {
-        "title": "FIFA accuses UEFA of launching 'smear campaign' against Gianni Infantino",
-        "link": "https://www.skysports.com/football/news/12040/13580984/gianni-infantino-latest-fifa-accuses-uefa-of-launching-a-smear-campaign-after-legal-cases-filed-in-american-courts"
-      },
-      {
-        "title": "A squad once worth over \u00a31bn! The free agents your club could still sign",
-        "link": "https://www.skysports.com/football/news/12040/13580813/free-agents-jadon-sancho-paul-pogba-and-dele-alli-among-players-available-on-free-transfer-after-summer-window-shuts"
+        "title": "Inside the neighbourhood club that made Arteta, Alonso and Iraola",
+        "link": "https://www.skysports.com/football/news/12040/13580891/mikel-arteta-xabi-alonso-and-andoni-iraola-started-their-paths-to-the-top-at-antiguoko-if-i-really-think-about-it-its-absolutely-crazy"
       }
     ],
     "pitchfork": [],
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "George Clooney-Backed Lebanese Heist Thriller \u2018Furies\u2019 Set to Electrify Venice \u2014 Watch First Clip",
+        "link": "https://www.indiewire.com/news/festivals/furies-movie-venice-clip-george-clooney-heist-thriller-1235214586/"
+      },
+      {
         "title": "John Malkovich Could Finally Win an Oscar as \u2018Wild Horse Nine\u2019 Emerges as First Major Academy Awards Contender of the Fall",
         "link": "https://www.indiewire.com/news/festivals/john-malkovich-wild-horse-nine-best-actor-oscar-chances-1235214640/"
       },
@@ -163,46 +167,42 @@
       {
         "title": "\u2018Once Upon a Time in Harlem\u2019 Trailer: William Greaves\u2019 Portrait of Harlem Renaissance Luminaries Is a Living Piece of History",
         "link": "https://www.indiewire.com/news/trailers/once-upon-a-time-in-harlem-trailer-1235214698/"
-      },
-      {
-        "title": "Inside Anonymous Content\u2019s Comeback: A New CEO, a Controversial Elon Musk Doc, and Climate Change Drama \u2018A Statement\u2019 Have Hollywood Buzzing",
-        "link": "https://www.indiewire.com/features/interviews/anonymous-content-comeback-elon-musk-documentary-1235214623/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018Monsters of God\u2019 Finale Twist: The Final Boss and Rogue Special Agent",
-        "link": "https://variety.com/2026/tv/news/monsters-of-god-finale-twist-hbo-anson-wong-eric-goode-ploughshare-tortoise-1236850725/"
+        "title": "Alix Earle\u2019s Inane Netflix Reality Show \u2018Earle Meets World\u2019 Is Like Watching Paint Dry: TV Review",
+        "link": "https://variety.com/2026/tv/reviews/earle-meets-world-review-alix-earle-netflix-1236847616/"
       },
       {
-        "title": "Pablo Torre Sounds Off on the NBA\u2019s Historic Ruling Against the Clippers, Kawhi Leonard and ESPN \u2014 and Teases His Next Big Sports Investigation",
-        "link": "https://variety.com/2026/sports/news/pablo-torre-clippers-nba-kawhi-leonard-steve-ballmer-espn-mark-walter-lakers-1236851177/"
+        "title": "Netflix Probes Trump\u2019s Catering Truck Escape in \u2018Instadocs: The Decoy Plane\u2019",
+        "link": "https://variety.com/2026/tv/news/instadocs-the-decoy-plane-netlfix-trump-catering-truck-turkey-natalie-harp-1236851330/"
       },
       {
-        "title": "\u2018Marriagetoxin\u2019 Creators Joumyaku and Yoda Mizuki Tease Season 2: \u2018There Is Plenty of Cool Action We Want You to See\u2019 (EXCLUSIVE)",
-        "link": "https://variety.com/2026/tv/news/marriagetoxin-creators-tease-season-2-1236850772/"
+        "title": "Miike Takashi Shines an Intimate Spotlight on a Kabuki Legend in Debut Documentary \u2018Shumei: The Living Legacy of Kabuki\u2019",
+        "link": "https://variety.com/2026/film/news/miike-takashi-kabuki-documentary-shumei-1236850841/"
       },
       {
-        "title": "Shakira, Romeo Santos, Prince Royce Among Top Winners at Premios Juventud 2026",
-        "link": "https://variety.com/2026/music/news/shakira-romeo-santos-prince-royce-winners-premios-juventud-1236851053/"
+        "title": "Ekta Kapoor, Gunjan Soni Unpack Balaji\u2019s Five-Show, 200-Episode YouTube India Deal (EXCLUSIVE)",
+        "link": "https://variety.com/2026/tv/news/ekta-kapoor-gunjan-soni-balaji-youtube-india-deal-1236851354/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Nordstrom\u2019s Summer Clearance Gives a Surprise Second Shot at Anniversary Sale Savings",
-        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/nordstrom-clearance-end-of-season-sale-2026-labor-day-deals-1236690194/"
+        "title": "\u2018The End of Times\u2019 Is an AI-Assisted Film Essay on Trauma That Wants to \u201cPoliticize Mental Illness\u201d (Exclusive Venice Trailer)",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/the-end-of-times-film-trailer-trauma-ai-venice-critics-week-1236684233/"
       },
       {
-        "title": "\u2018Too Much Sugar\u2019 Review: A Lively and Authentic Portrait of Small-Town America, in Which the Characters Become Masters of Their Own Stories",
-        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/too-much-sugar-review-robert-greene-1236690139/"
+        "title": "\u2018The Horsemen of the Apocalypse\u2019 Director Shares Insight Into Her Hybrid Movie That Revisits Her Filmmaker Father\u2019s Arrest and Death",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/the-horsemen-of-the-apocalypse-film-interview-venice-finance-1236688000/"
       },
       {
-        "title": "Taylor Frankie Paul Confirms She Got Engaged on Pulled \u2018Bachelorette\u2019 Season, Reveals What Happened After Filming",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/taylor-frankie-paul-engaged-bachelorette-what-happened-1236689973/"
+        "title": "Lego\u2019s 2026 Advent Calendars Count Star Wars, Disney and Marvel Among Lineup",
+        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/lego-advent-calendar-2026-star-wars-disney-marvel-city-buy-1236690439/"
       },
       {
-        "title": "Outside Gloria Steinem\u2019s Home, Her Legacy Lives On",
-        "link": "https://www.hollywoodreporter.com/news/general-news/outside-gloria-steinem-home-her-legacy-lives-on-1236690340/"
+        "title": "Raffaele Annecchino, Former CEO of Paramount International, Dies at 55",
+        "link": "https://www.hollywoodreporter.com/business/business-news/raffaele-annecchino-dead-paramount-international-1236690130/"
       }
     ],
     "larb": [],
