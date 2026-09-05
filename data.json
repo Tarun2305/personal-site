@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-09-05 02:22 UTC",
+  "last_updated": "2026-09-05 07:16 UTC",
   "feeds": {
     "bbc": [
-      {
-        "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
-        "link": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss"
-      },
       {
         "title": "Cleveland police chief proud of force but being 'let down' by funding",
         "link": "https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "How the Lindsay Clancy trial gripped America - and ultimately fell apart",
-        "link": "https://www.bbc.co.uk/news/videos/cr7dzr2e789o?at_medium=RSS&at_campaign=rss"
+        "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
+        "link": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "UN votes to adopt new world map to reflect Africa's true size",
-        "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss"
+        "title": "Reform promises to increase tax-free personal allowance to \u00a315,000",
+        "link": "https://www.bbc.co.uk/news/articles/cgk5g51xk57o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Ecuador defends US sinking of vessels as joint anti-drug operation",
-        "link": "https://www.aljazeera.com/news/2026/9/5/ecuador-defends-us-sinking-of-vessels-as-joint-anti-drug-operation?traffic_source=rss"
+        "title": "At least five killed in Sudan\u2019s South Kordofan in attack by rebel group",
+        "link": "https://www.aljazeera.com/news/2026/9/5/five-killed-in-sudans-kordofan-in-attack-by-rebel-group?traffic_source=rss"
       },
       {
-        "title": "Asylum seekers caught in US immigration crackdown",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/asylum-seekers-caught-in-us-immigration-crackdown?traffic_source=rss"
+        "title": "Bolivian military barracks explosion kills at least 10",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/bolivian-military-barracks-explosion-kills-at-least-10?traffic_source=rss"
       },
       {
-        "title": "Judge declares mistrial in Lindsay Clancy children\u2019s murder case",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/judge-declares-mistrial-in-lindsay-clancy-childrens-murder-case?traffic_source=rss"
+        "title": "US imposes sanctions on Turkish bank, prompting legal threat",
+        "link": "https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss"
       },
       {
-        "title": "EU official Marta Kos cancels Serbia trip over planned Mladic tribute",
-        "link": "https://www.aljazeera.com/news/2026/9/5/senior-eu-official-cancels-serbia-trip-over-planned-tribute-to-mladic?traffic_source=rss"
+        "title": "Families of missing Ecuadorian fishermen allege US involvement",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/families-of-missing-ecuadorian-fishermen-allege-us-involvement?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Greaves makes more history with win at Czech Darts Open",
-        "link": "https://www.skysports.com/darts/news/12040/13581507/beau-greaves-becomes-first-woman-to-win-a-match-on-pdc-european-tour-plays-luke-humphries-next-at-czech-darts-open"
+        "title": "Chelsea 2.0: How transitional Blues are rebuilding for WSL and WCL success",
+        "link": "https://www.skysports.com/football/news/12040/13568830/chelsea-women-sonia-bompastor-and-ellie-carpenter-on-blues-transitional-moment-as-they-target-wsl-and-champions-league-success"
       },
       {
-        "title": "Hunt runs season's best to take third in Diamond League 200m",
-        "link": "https://www.skysports.com/athletics/news/12040/13581562/amy-hunt-british-sprinter-runs-seasons-best-200m-time-to-take-third-in-diamond-league-athletics-meet-in-brussels"
+        "title": "St Helens 'need a clear out' as recruitment questioned after Leigh defeat  ",
+        "link": "https://www.skysports.com/rugby-league/news/12040/13581438/super-league-st-helens-need-a-big-clear-out-as-teams-recruitment-questioned-after-missing-play-offs"
       },
       {
-        "title": "How influencers at US Open are testing boundaries of tennis etiquette",
-        "link": "https://www.skysports.com/tennis/news/12040/13581380/us-open-how-influencers-have-sparked-debate-at-flushing-meadows-as-naomi-osaka-coco-gauff-and-jessica-pegula-have-their-say"
+        "title": "US Open scores: Fritz, Gauff,  Swiatek in action from 4pm",
+        "link": "https://www.skysports.com/tennis/scores-schedule"
       },
       {
-        "title": "Lawrence leads at halfway stage in Switzerland as he aims to emulate Ballesteros",
-        "link": "https://www.skysports.com/golf/news/12040/13581485/dp-world-tour-golf-thriston-lawrence-leads-at-halfway-stage-of-omega-european-masters-as-he-aims-to-emulate-seve-ballesteros"
+        "title": "Heyzoom looks to bounce back to winning ways at Ascot",
+        "link": "https://www.skysports.com/racing/news/12040/13580934/today-on-sky-sports-racing-flat-action-from-ascot-and-newcastle"
       }
     ],
     "pitchfork": [],
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
-        "title": "\u2018Tender Loving Care\u2019 Review: Kate O\u2019Flynn Astonishes in Mike Leigh\u2019s Simple but Profoundly Moving Final Film",
-        "link": "https://www.indiewire.com/criticism/movies/tender-loving-care-review-mike-leigh-1235214666/"
+        "title": "\u2018Elsinore\u2019 Review: Andrew Scott\u2019s Towering Performance as a Dying Actor Can\u2019t Overcome AIDS-Movie Awards Bait Clich\u00e9s",
+        "link": "https://www.indiewire.com/criticism/movies/elsinore-movie-review-andrew-scott-1235214584/"
       },
       {
-        "title": "Inside the Telluride Opening Day Brunch: John Malkovich, Carrie Coon, and the Questions on Everyone\u2019s Minds",
-        "link": "https://www.indiewire.com/awards/industry/inside-telluride-brunch-john-malkovich-carrie-coon-1235214989/"
+        "title": "\u2018The Idiot(s)\u2019 Review: Johnny Flynn and Aimee Lou Wood Suffer Rapturously in Surreal Russian Lit Biopic",
+        "link": "https://www.indiewire.com/criticism/movies/the-idiots-review-johnny-flynn-aimee-lou-wood-1235215061/"
       },
       {
-        "title": "\u2018Chronovisor\u2019 Directors Measured Twice and Cut Film Once to Tell a Text-Based Thriller",
-        "link": "https://www.indiewire.com/features/craft/chronovisor-directors-kevin-walker-jack-auen-interview-1235214954/"
+        "title": "This September, \u2018Remember Me\u2019: The 2010 Robert Pattinson Film That Sounds Like Something He Made Up",
+        "link": "https://www.indiewire.com/news/general-news/robert-pattinson-remember-me-2010-september-11-twist-1235215031/"
       },
       {
-        "title": "\u2018The Basics of Philosophy\u2019 Review: Paul Schrader\u2019s Lurid Study of a Predatory Intellectual Is Quietly Explosive, but Not Dangerous Enough",
-        "link": "https://www.indiewire.com/criticism/movies/the-basics-of-philosophy-review-paul-schrader-1235214805/"
+        "title": "\u2018A Long Winter\u2019 Review: Andrew Haigh Goes Cold with an Immaculately Crafted Coming-of-Age Story Too Restrained for Its Own Good",
+        "link": "https://www.indiewire.com/criticism/movies/a-long-winter-movie-review-1235214822/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018Tender Loving Care\u2019 Review: Mike Leigh\u2019s Tale of Social Workers, Lonely Hearts and Dementia Should Have Been a Fuller Portrait",
-        "link": "https://variety.com/2026/film/reviews/tender-loving-care-review-mike-leigh-1236851312/"
+        "title": "Mad Solutions and Haitham Dabbour\u2019s Irth Platform Announce Strategic Pan-Arab Content Partnership in Venice",
+        "link": "https://variety.com/2026/film/festivals/mad-solutions-haitham-dabbours-irth-pan-arab-partnership-1236852377/"
       },
       {
-        "title": "Meet Topic, the Indie Studio Dominating the Festival Circuit With \u2018The Debut,\u2019 \u2018Club Kid,\u2019 \u2018Wicker\u2019",
-        "link": "https://variety.com/2026/film/news/topic-studios-indie-film-the-debut-club-kid-wicker-1236852204/"
+        "title": "Lav Diaz Preps False Prophets Film and Jose Rizal\u2019s \u2018Noli Me Tangere\u2019 Adaptation, Unpacks Venice Title \u2018Let Us Through, Dear Ancestors\u2019 (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/festivals/lav-diaz-venice-film-ancestors-new-projects-1236851519/"
       },
       {
-        "title": "Halloween Horror Nights Opens at Universal Studios Hollywood With \u2018Sinners,\u2019 \u2018Stranger Things 5\u2019 and a Blood-Soaked Nikki From \u2018Obsession\u2019",
-        "link": "https://variety.com/2026/film/news/halloween-horror-nights-opena-universal-studios-hollywood-1236852215/"
+        "title": "As Swiss Films Expand International Reach, English-language Works Are on the Rise",
+        "link": "https://variety.com/2026/film/global/swiss-films-venice-film-festival-late-shift-petra-volpe-1236838164/"
       },
       {
-        "title": "Jordan Firstman\u2019s \u2018Club Kid\u2019 Hits Telluride, and Colleen Camp Could Be Its Secret Oscar Weapon",
-        "link": "https://variety.com/2026/film/awards/club-kid-jordan-firstman-colleen-camp-telluride-oscars-1236852164/"
+        "title": "\u2018Elsinore\u2019 Review: Andrew Scott Is Powerfully Moving as Ian Charleson, the \u2018Chariots of Fire\u2019 Star Who Played Hamlet While Ravaged by AIDS",
+        "link": "https://variety.com/2026/film/reviews/elsinore-review-andrew-scott-1236852070/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018Tender Loving Care\u2019 Review: Kate O\u2019Flynn Lights Up Mike Leigh\u2019s Warm, Gently Wrenching Study of Solace and Solidarity",
-        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/tender-loving-care-review-mike-leigh-kate-oflynn-1236690339/"
+        "title": "\u2018Elsinore\u2019 Review: Andrew Scott Is Shattering as British Actor Ian Charleson, Throwing Himself Into Playing Hamlet While Succumbing to AIDS",
+        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/elsinore-review-andrew-scott-ian-charleson-olivia-colman-1236690579/"
       },
       {
-        "title": "Tupac\u2019s Murderer Claims He\u2019s Innocent: \u201cI\u2019m Not No F***ing Killer\u201d (Exclusive Interview)",
-        "link": "https://www.hollywoodreporter.com/music/music-news/tupac-duane-keffe-d-davis-claims-innocent-exclusive-interview-1236691414/"
+        "title": "\u2018The Idiot(s)\u2019 Review: Aimee Lou Wood and Johnny Flynn Sparkle in a Playful, Indulgent Tribute to Fyodor Dostoevsky\u2019s Underappreciated Wife",
+        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-idiots-review-aimee-lou-wood-johnny-flynn-dostoevsky-1236681228/"
       },
       {
-        "title": "\u2018The Gentlemen\u2019 Star Theo James Is Ready to Talk About That Bloody Season 2 Ending",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/the-gentlemen-season-2-finale-theo-james-interview-1236691153/"
+        "title": "Victor\u00a0Miller, \u2018Friday the 13th\u2019 Screenwriter, Dies at 86",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/victor-miller-dead-friday-the-13th-screenwriter-1236691486/"
       },
       {
-        "title": "\u2018Adults\u2019 Star Malik Elassal on the Scene That Took Him 40 Takes and That Surprise Finale Hookup",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/malik-elassal-adults-season-two-interview-1236684764/"
+        "title": "\u2018A Long Winter\u2019 Review: Fred Hechinger and Ebon Moss-Bachrach Shine as Family Thrust Into Uneasy Isolation in Andrew Haigh\u2019s Fine-Grained Drama",
+        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/a-long-winter-review-fred-hechinger-ebon-moss-bachrach-1236690170/"
       }
     ],
     "larb": [],
