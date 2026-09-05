@@ -1,7 +1,11 @@
 {
-  "last_updated": "2026-09-05 19:46 UTC",
+  "last_updated": "2026-09-05 22:32 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "US envoys meet Putin in Moscow for Ukraine talks",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
         "link": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss"
@@ -11,49 +15,45 @@
         "link": "https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Chris Mason: Reform UK winded by donations row as insiders call for shift in approach",
-        "link": "https://www.bbc.co.uk/news/articles/cje87w9j342o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "US hits three Iranian oil tankers after saying its warships were targeted",
         "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Cuban and Afghan immigrants deported from US under Trump arrive in Guyana",
-        "link": "https://www.aljazeera.com/news/2026/9/5/cuban-and-afghan-immigrants-deported-from-us-under-trump-arrive-in-guyana?traffic_source=rss"
+        "title": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss"
       },
       {
-        "title": "Woman beaten to death as bystanders watch in India\u2019s Gujarat",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/5-09-sv-woman-beaten-to-death-in-gujarat-in?traffic_source=rss"
+        "title": "Building collapses after heavy rain in northern India",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-sv-india-building-collapse-mp4?traffic_source=rss"
       },
       {
-        "title": "Shoppers interact with Hong Kong\u2019s first robot shopkeeper",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/shoppers-interact-with-hong-kongs-first-robot-shopkeeper?traffic_source=rss"
+        "title": "Why is Argentina reigniting the Falklands dispute?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/9/5/why-is-argentina-reigniting-the-falklands-dispute?traffic_source=rss"
       },
       {
-        "title": "Two pilots killed after Greek fighter jet crashes during an air show",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/two-pilots-killed-after-greek-fighter-jet-crashes-during-an-air-show?traffic_source=rss"
+        "title": "Everton vs Manchester United: Premier League \u2013 prediction, teams, lineups",
+        "link": "https://www.aljazeera.com/sports/2026/9/5/everton-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Gauff progresses at US Open, compatriots Fritz, Anisimova, Keys knocked out",
+        "link": "https://www.skysports.com/tennis/news/12040/13582102/us-open-coco-gauff-progresses-to-fourth-round-while-compatriots-taylor-fritz-amanda-anisimova-madison-keys-knocked-out"
+      },
+      {
         "title": "Villa take first point but rue missed chances in Hull stalemate",
-        "link": "https://www.skysports.com/football/news/12040/13571937/hull-0-0-aston-villa-tigers-remain-unbeaten-as-unai-emerys-200th-game-in-charge-fails-to-bring-much-needed-goal"
+        "link": "https://www.skysports.com/football/hull-city-vs-aston-villa/report/559469"
       },
       {
-        "title": "Super League LIVE! Leeds and Wigan battling in crunch top-of-table clash",
-        "link": "https://www.skysports.com/rugby-league/live-blog/12040/13580353/super-league-live-updates-videos-scores-commentary-analysis-as-leeds-rhinos-take-on-wigan-warriors-in-round-26"
+        "title": "Wigan thrash Leeds to take control of Shield race",
+        "link": "https://www.skysports.com/watch/video/13582137/leeds-rhinos-v-wigan-warriors-wigan-hit-40-to-take-control-of-league-leaders-shield-race"
       },
       {
-        "title": "Swansea controlling the game vs Wrexham LIVE on Sky! ",
-        "link": "https://www.skysports.com/football/swansea-city-vs-wrexham/live/560555"
-      },
-      {
-        "title": "'Out in the middle of nowhere' - Hamilton rues Ferrari's handling of qualifying",
-        "link": "https://www.skysports.com/f1/news/12040/13581635/lewis-hamilton-ferrari-driver-says-teams-execution-of-italian-gp-qualifying-could-have-been-better-after-very-tough-session"
+        "title": "Swansea miss chance to go three points clear with Wrexham draw",
+        "link": "https://www.skysports.com/football/swansea-city-vs-wrexham/report/560555"
       }
     ],
     "pitchfork": [],
@@ -171,38 +171,38 @@
     ],
     "variety": [
       {
-        "title": "Mandy Moore on Hilary Duff\u2019s Musical Comeback and Playing an \u2018Absolute Bitch\u2019 in Dan Fogelman\u2019s NFL Family Drama \u2018The Land\u2019: It\u2019s \u2018\u201dFriday Night Lights\u201d and \u201cSuccession\u201d All Rolled Into One\u2019",
-        "link": "https://variety.com/2026/tv/columns/mandy-moore-hilary-duff-dan-fogelman-hulu-series-the-land-1236851086/"
+        "title": "Liam and Noel Gallagher Raise Fists and Electrify Venice as Oasis Doc Gets 8-Minute Standing Ovation",
+        "link": "https://variety.com/2026/film/festivals/oasis-documentary-premiere-liam-noel-gallagher-venice-ovation-1236845853/"
       },
       {
-        "title": "Telluride Toasts Andrew Haigh as \u2018A Long Winter\u2019 Hands Fred Hechinger and Caitr\u00edona Balfe Awards-Worthy Roles",
-        "link": "https://variety.com/2026/film/awards/andrew-haigh-a-long-winter-telluride-oscars-1236852682/"
+        "title": "Three Films, and a Second Oscar? How Pen\u00e9lope Cruz Could Dominate Awards Season With \u2018La Bola Negra,\u2019 \u2018The Invite\u2019 and \u2018Bunker\u2019",
+        "link": "https://variety.com/2026/film/awards/penelope-cruz-oscars-la-bola-negra-the-invite-bunker-1236847565/"
       },
       {
-        "title": "Kid Cudi Defends Kanye West After Ending Feud: Kanye \u2018Apologized and It Was Sincere\u2019 After Antisemitic Outbursts",
-        "link": "https://variety.com/2026/music/news/kid-cudi-kanye-west-end-feud-antisemitic-1236852747/"
+        "title": "\u2018Oasis: Don\u2019t Look Back in Anger\u2019 Review: An Uncharacteristically Polite and Sentimental Portrait of a Raucous Band and Phenomenon",
+        "link": "https://variety.com/2026/film/reviews/oasis-dont-look-back-in-anger-review-1236852875/"
       },
       {
-        "title": "\u2018Evil Dead\u2019 Star Bruce Campbell Says He Has 5 Years to Live After Incurable Cancer Diagnosis: I\u2019m \u2018Dying\u2019 but \u2018I\u2019m Moving On\u2019",
-        "link": "https://variety.com/2026/film/news/bruce-campbell-cancer-5-years-live-1236852722/"
+        "title": "Hey, Oscars: No Sympathy Required to Give Mike Leigh\u2019s \u2018Tender Loving Care\u2019 the Consideration It Deserves",
+        "link": "https://variety.com/2026/film/awards/mike-leigh-tender-loving-care-oscars-telluride-1236847564/"
       }
     ],
     "hollywoodreporter": [
       {
+        "title": "Liam and Noel Gallagher Lock Arms at Venice Premiere of \u2018Oasis: Don\u2019t Look Back in Anger\u2019",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/liam-noel-gallagher-venice-oasis-dont-look-back-in-anger-1236690586/"
+      },
+      {
+        "title": "\u2018Primetime\u2019: Robert Pattinson Earns Raves as Chris Hansen \u2014 Here\u2019s What Critics Are Saying",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/primetime-robert-pattinson-review-roundup-critics-a24-1236691991/"
+      },
+      {
+        "title": "Jeff Zucker on His Venice Film Festival Debut for A24\u2019s \u2018Primetime\u2019: \u201cThis Is Very Surreal\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/jeff-zucker-primetime-cameo-robert-pattinson-chris-hansen-1236692009/"
+      },
+      {
         "title": "\u2018Oasis: Don\u2019t Look Back in Anger\u2019 Review: A Rich and Poignant Celebration of a Beloved Band\u2019s Glorious and Improbable Return",
         "link": "https://www.hollywoodreporter.com/movies/movie-reviews/oasis-dont-look-back-in-anger-review-documentary-1236691730/"
-      },
-      {
-        "title": "John Malkovich Returning to Israel With \u2018The Music Critic\u2019",
-        "link": "https://www.hollywoodreporter.com/lifestyle/arts/john-malkovich-returning-israel-the-music-critic-1236691835/"
-      },
-      {
-        "title": "Telluride: Danny Boyle, Jack O\u2019Connell and James Graham on \u2018Ink,\u2019 Rupert Murdoch and MAGA (Exclusive)",
-        "link": "https://www.hollywoodreporter.com/movies/movie-features/telluride-danny-boyle-jack-oconnell-james-graham-ink-maga-1236691197/"
-      },
-      {
-        "title": "Johnny Flynn and Aimee Lou Wood on \u201cGetting Whipped Naked\u201d and \u201cEmbracing the Madness\u201d of Their Deranged Literary Biopic",
-        "link": "https://www.hollywoodreporter.com/movies/movie-features/the-idiots-johnny-flynn-aimee-lou-wood-exclusive-1236691960/"
       }
     ],
     "larb": [],
