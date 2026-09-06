@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05 22:32 UTC",
+  "last_updated": "2026-09-06 02:18 UTC",
   "feeds": {
     "bbc": [
       {
@@ -15,26 +15,26 @@
         "link": "https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+        "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
         "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss"
+        "title": "\u2018People laughed at me\u2019: Indian youth cleans up a trash-filled river",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/people-laughed-at-me-indian-youth-cleans-up-a-trash-filled-river?traffic_source=rss"
       },
       {
-        "title": "Building collapses after heavy rain in northern India",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-sv-india-building-collapse-mp4?traffic_source=rss"
+        "title": "Netanyahu boasts about bombing Qatar, says Gaza funds used for aid",
+        "link": "https://www.aljazeera.com/news/2026/9/6/netanyahu-boasts-about-bombing-qatar-says-gaza-funds-used-for-aid?traffic_source=rss"
       },
       {
-        "title": "Why is Argentina reigniting the Falklands dispute?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/9/5/why-is-argentina-reigniting-the-falklands-dispute?traffic_source=rss"
+        "title": "German company launches rocket as Europe enters satellite race",
+        "link": "https://www.aljazeera.com/news/2026/9/6/german-company-launches-rocket-as-europe-enters-satellite-race?traffic_source=rss"
       },
       {
-        "title": "Everton vs Manchester United: Premier League \u2013 prediction, teams, lineups",
-        "link": "https://www.aljazeera.com/sports/2026/9/5/everton-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss"
+        "title": "Iran war live: IRGC claims attacks on 3 oil tankers and 3 US-linked ships",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -44,16 +44,16 @@
         "link": "https://www.skysports.com/tennis/news/12040/13582102/us-open-coco-gauff-progresses-to-fourth-round-while-compatriots-taylor-fritz-amanda-anisimova-madison-keys-knocked-out"
       },
       {
+        "title": "Aberdeen and Kilmarnock end losing streaks with draw",
+        "link": "https://www.skysports.com/football/aberdeen-vs-kilmarnock/report/558363"
+      },
+      {
         "title": "Villa take first point but rue missed chances in Hull stalemate",
         "link": "https://www.skysports.com/football/hull-city-vs-aston-villa/report/559469"
       },
       {
         "title": "Wigan thrash Leeds to take control of Shield race",
         "link": "https://www.skysports.com/watch/video/13582137/leeds-rhinos-v-wigan-warriors-wigan-hit-40-to-take-control-of-league-leaders-shield-race"
-      },
-      {
-        "title": "Swansea miss chance to go three points clear with Wrexham draw",
-        "link": "https://www.skysports.com/football/swansea-city-vs-wrexham/report/560555"
       }
     ],
     "pitchfork": [],
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
+        "title": "Danny Boyle Talks Returning to Telluride and Fighting to Make His Tabloid Sensation \u2018Ink\u2019",
+        "link": "https://www.indiewire.com/features/interviews/danny-boyle-interview-ink-1235215117/"
+      },
+      {
+        "title": "\u2018The Illusion of an Everlasting Summer\u2019 Review: A Photographer\u2019s Portrait of Two Argentine Cousins Poignantly Captures the Passage of Time",
+        "link": "https://www.indiewire.com/criticism/movies/the-illusion-of-an-everlasting-summer-review-1235215143/"
+      },
+      {
+        "title": "\u2018Making Marie Antoinette\u2019 Review: Eleanor Coppola\u2019s Tender Documentary About Her Daughter\u2019s Masterpiece Doubles as a Wistful Self-Portrait",
+        "link": "https://www.indiewire.com/criticism/movies/making-marie-antoinette-documentary-movie-review-1235214956/"
+      },
+      {
         "title": "\u2018Oasis: Don\u2019t Look Back in Anger\u2019 Review: The Gallaghers\u2019 Concert Doc Is a Reason for Celebration",
         "link": "https://www.indiewire.com/criticism/movies/oasis-dont-look-back-in-anger-concert-documentary-review-1235215103/"
-      },
-      {
-        "title": "Robert Pattinson Won\u2019t Be the Only \u2018Primetime\u2019 Star to Generate Oscar Buzz",
-        "link": "https://www.indiewire.com/news/festivals/robert-pattinson-primetime-cast-oscar-buzz-1235215073/"
-      },
-      {
-        "title": "\u2018Elsinore\u2019 and \u2018The Liberation\u2019 Launch TV Stars Andrew Scott and Carrie Coon Into the Oscar Race",
-        "link": "https://www.indiewire.com/awards/predictions/elsinore-the-liberation-andrew-scott-carrie-coon-oscar-race-1235215087/"
-      },
-      {
-        "title": "\u2018The Difficult Bride\u2019 Turns South Asia\u2019s Beloved Wedding Tropes Into Feminist Folk Horror at Venice",
-        "link": "https://www.indiewire.com/features/interviews/the-difficult-bride-movie-rubaiyat-hossain-venice-1235214801/"
       }
     ],
     "variety": [
       {
+        "title": "\u2018Elsinore\u2019 Revisits Daniel Day-Lewis\u2019 Infamous Walk-Off During \u201980s \u2018Hamlet\u2019 Production",
+        "link": "https://variety.com/2026/film/news/elsinore-andrew-scott-daniel-day-lewis-hamlet-1236853006/"
+      },
+      {
+        "title": "\u2018The Debut\u2019 Explodes at Telluride With Julianne Moore\u2019s Gonzo, Career-Best Turn, Thanks to a Toolbelt, Unlit Cigarettes and a Faux Musical",
+        "link": "https://variety.com/2026/film/awards/the-debut-julianne-moore-telluride-oscars-paul-giamatti-1236852947/"
+      },
+      {
+        "title": "Creative Arts Emmy Awards: Winners List (Updating Live)",
+        "link": "https://variety.com/2026/artisans/news/creative-arts-emmy-awards-winners-list-night-one-1236849746/"
+      },
+      {
         "title": "Liam and Noel Gallagher Raise Fists and Electrify Venice as Oasis Doc Gets 8-Minute Standing Ovation",
         "link": "https://variety.com/2026/film/festivals/oasis-documentary-premiere-liam-noel-gallagher-venice-ovation-1236845853/"
-      },
-      {
-        "title": "Three Films, and a Second Oscar? How Pen\u00e9lope Cruz Could Dominate Awards Season With \u2018La Bola Negra,\u2019 \u2018The Invite\u2019 and \u2018Bunker\u2019",
-        "link": "https://variety.com/2026/film/awards/penelope-cruz-oscars-la-bola-negra-the-invite-bunker-1236847565/"
-      },
-      {
-        "title": "\u2018Oasis: Don\u2019t Look Back in Anger\u2019 Review: An Uncharacteristically Polite and Sentimental Portrait of a Raucous Band and Phenomenon",
-        "link": "https://variety.com/2026/film/reviews/oasis-dont-look-back-in-anger-review-1236852875/"
-      },
-      {
-        "title": "Hey, Oscars: No Sympathy Required to Give Mike Leigh\u2019s \u2018Tender Loving Care\u2019 the Consideration It Deserves",
-        "link": "https://variety.com/2026/film/awards/mike-leigh-tender-loving-care-oscars-telluride-1236847564/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Liam and Noel Gallagher Lock Arms at Venice Premiere of \u2018Oasis: Don\u2019t Look Back in Anger\u2019",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/liam-noel-gallagher-venice-oasis-dont-look-back-in-anger-1236690586/"
+        "title": "Alan Cumming Lands Third Straight Emmy for Best Reality TV Host",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/alan-cumming-third-emmy-reality-tv-host-traitors-1236689794/"
       },
       {
-        "title": "\u2018Primetime\u2019: Robert Pattinson Earns Raves as Chris Hansen \u2014 Here\u2019s What Critics Are Saying",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/primetime-robert-pattinson-review-roundup-critics-a24-1236691991/"
+        "title": "Alanis Morissette Sues Former Tour Manager Over Alleged \u201cCalculated Blackmail Campaign\u201d",
+        "link": "https://www.hollywoodreporter.com/music/music-news/alanis-morissette-sues-tour-manager-blackmail-campaign-1236692139/"
       },
       {
-        "title": "Jeff Zucker on His Venice Film Festival Debut for A24\u2019s \u2018Primetime\u2019: \u201cThis Is Very Surreal\u201d",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/jeff-zucker-primetime-cameo-robert-pattinson-chris-hansen-1236692009/"
+        "title": "Ben McKenzie Says He\u2019d \u201cBe Up for\u201d a \u2018The O.C.\u2019 Revival: \u201cIt Was a Great Show\u201d",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/ben-mckenzie-up-for-the-oc-revival-1236692075/"
       },
       {
-        "title": "\u2018Oasis: Don\u2019t Look Back in Anger\u2019 Review: A Rich and Poignant Celebration of a Beloved Band\u2019s Glorious and Improbable Return",
-        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/oasis-dont-look-back-in-anger-review-documentary-1236691730/"
+        "title": "\u2018The Debut\u2019 Features Seven Original Songs, All Written by Jesse Eisenberg, and One Is Getting an Oscar Push (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/the-debut-jesse-eisenberg-original-songs-oscar-push-1236687820/"
       }
     ],
     "larb": [],
