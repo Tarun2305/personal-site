@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-09-06 07:28 UTC",
+  "last_updated": "2026-09-06 12:30 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+        "title": "US envoys arrive in Ukraine for talks after meeting Putin in Russia",
         "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+        "title": "Police slow to respond to Dover protest, says council boss",
+        "link": "https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+        "link": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
         "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Temperatures could climb to 28C in late burst of warmth",
-        "link": "https://www.bbc.co.uk/weather/articles/cvgydp1247ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
-        "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "UK has billions in contracts with firms tied to illegal Israeli settlements",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/uk-has-billions-in-contracts-with-firms-tied-to-illegal-israeli-settlements-4?traffic_source=rss"
+        "title": "Jovic moved to tears after beating \u2018incredible\u2019 friend Eala in US Open epic",
+        "link": "https://www.aljazeera.com/sports/2026/9/6/jovic-moved-to-tears-after-beating-incredible-friend-eala-in-us-open-epic?traffic_source=rss"
       },
       {
-        "title": "Flames burst from Qantas plane engine after New Zealand takeoff",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/flames-burst-from-qantas-plane-engine-after-new-zealand-takeoff?traffic_source=rss"
+        "title": "Can you guess the real size of each country on the new world map?",
+        "link": "https://www.aljazeera.com/news/2026/9/6/can-you-guess-the-real-size-of-each-country-on-the-new-world-map?traffic_source=rss"
       },
       {
-        "title": "Yemeni forces claim strategic district amid intensified Houthi clashes",
-        "link": "https://www.aljazeera.com/news/2026/9/6/yemeni-forces-claim-strategic-district-amid-intensified-houthi-clashes?traffic_source=rss"
+        "title": "Photos: Gaza holds funeral for 100 Palestinians recovered from rubble",
+        "link": "https://www.aljazeera.com/gallery/2026/9/6/photos-gaza-holds-funeral-for-100-palestinians-recovered-from-rubble?traffic_source=rss"
       },
       {
-        "title": "Israeli Prime Minister Netanyahu says \u2018Qatar is a hostile state\u2019",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israeli-prime-minister-netanyahu-says-qatar-is-a-hostile?traffic_source=rss"
+        "title": "US, Iran engaged in tanker war: Where is the months-long conflict headed?",
+        "link": "https://www.aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "'The highlight of my whole career' - Taylor ecstatic with Croke Park swansong",
+        "title": "Italian GP: Gasly on pole from Russell with Antonelli at the back LIVE!",
+        "link": "https://www.skysports.com/f1/live-blog/12040/13581630/f1-italian-gp-live-race-updates-results-stream-highlights-from-13th-round-of-2026-formula-1-season-at-hungaroring-at-monza"
+      },
+      {
+        "title": "England seven down but eyeing big total vs Ireland LIVE!",
+        "link": "https://www.skysports.com/cricket/live-blog/12040/13581569/england-vs-ireland-third-womens-odi-live-cricket-score-updates-video-and-analysis-from-final-match-of-series-in-worcester"
+      },
+      {
+        "title": "Scorecard: England vs Ireland, third women's ODI",
+        "link": "https://www.skysports.com/cricket/england-women-v-ireland-women/scorecard/2bcda366-f5e0-50a1-9e3e-d68c0f6994ca"
+      },
+      {
+        "title": "Taylor ecstatic with Croke Park swansong",
         "link": "https://www.skysports.com/boxing/news/12040/13582203/katie-taylor-ecstatic-after-beating-flora-pili-to-make-perfect-end-to-dream-career-at-dublins-croke-park"
-      },
-      {
-        "title": "Daryz, Gstaad and Opera Ballo feature on stellar Arc Trials Day",
-        "link": "https://www.skysports.com/racing/news/12040/13581619/today-on-sky-sports-racing-daryz-gstaad-and-opera-ballo-feature-on-stellar-arc-trials-day-from-parislongchamp"
-      },
-      {
-        "title": "Osaka takes care of business while Jovic ends Eala Mania in US Open thriller",
-        "link": "https://www.skysports.com/tennis/news/12040/13582169/us-open-naomi-osaka-takes-care-of-business-against-elise-mertens-while-iva-jovic-edges-out-good-friend-alex-eala-in-thriller"
-      },
-      {
-        "title": "Gauff progresses at US Open, compatriots Fritz, Anisimova, Keys knocked out",
-        "link": "https://www.skysports.com/tennis/news/12040/13582102/us-open-coco-gauff-progresses-to-fourth-round-while-compatriots-taylor-fritz-amanda-anisimova-madison-keys-knocked-out"
       }
     ],
     "pitchfork": [],
@@ -171,23 +171,31 @@
     ],
     "variety": [
       {
-        "title": "Groundbreaking Roma Director Alina \u0218erban on \u2018Pain,\u2019 \u2018Joy,\u2019 of Historic, Venice-Bound \u2018I Matter\u2019: \u2018I Managed to Do Something Impossible\u2019",
-        "link": "https://variety.com/2026/film/global/roma-alina-serban-venice-i-matter-1236847100/"
+        "title": "Susan Sarandon Says She\u2019s \u2018Still Had Movies Taken Away Recently\u2019 Over Palestine Support: \u2018There Are Agencies That Are Telling People Not to Hire Me\u2019",
+        "link": "https://variety.com/2026/film/festivals/susan-sarandon-movies-taken-away-palestine-support-1236853245/"
       },
       {
-        "title": "Moonfish\u2019 Director and Stars Lucy Liu and Morgan Spector Break Down Their Black-and-White Animated Film About Isolated Astronauts And Why It\u2019s an Allegory for \u2018The Current Human Condition\u2019",
-        "link": "https://variety.com/2026/film/news/moonfish-lucy-liu-morgan-spector-1236852534/"
+        "title": "\u2018Woman Unknown\u2019 Director May el-Toukhy Talks the Torment of World War II \u2018Horizontal Collaborators\u2019 and Venice\u2019s Female Director Snub: \u2018It\u2019s a Structural Problem\u2019",
+        "link": "https://variety.com/2026/film/global/woman-unknown-may-el-toukhy-world-war-ii-venice-directors-1236847532/"
       },
       {
-        "title": "Dev Benegal\u2019s Judith Blum Reddy Doc \u2018Everything Is Not OK\u2019 Acquired by Watermelon Pictures, Annemarie Jacir Aboard as EP (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/news/judith-blum-reddy-doc-everything-is-not-ok-watermelon-pictures-1236852495/"
+        "title": "Wim Wenders Clarifies His Stance on Filmmakers\u2019 Role in Politics After Berlin Controversy: \u2018We Are the Opposite of Politicians \u2026 We Are the Antidote\u2019",
+        "link": "https://variety.com/2026/film/festivals/wim-wenders-clarifies-filmmakers-politics-berlin-1236853205/"
       },
       {
-        "title": "San Sebastian, Busan-Bound Taiwanese Coming-of-Age Drama \u2018Will You Still Be My Friend\u2019 Boarded for Sales by Moveria, Trailer Unveiled (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/news/san-sebastian-busan-will-you-still-be-my-friend-boarded-moveria-1236853144/"
+        "title": "French President Emmanuel Macron Calls for a \u2018New Multilateralism\u2019 Across Creative Industries: \u2018We Built a Civilization of Images. We Should Not Resign Ourselves to Watching It Deteriorate\u2019",
+        "link": "https://variety.com/2026/biz/opinion/french-president-emmanuel-macron-op-ed-future-creative-industries-1236852793/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "May el-Toukhy Takes \u2018Woman Unknown\u2019 to Venice: \u201cI\u2019ve Used Every Part of Me to Make This Film\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-features/may-el-toukhy-woman-unknown-venice-film-festival-mathilde-1236683019/"
+      },
+      {
+        "title": "Wim Wenders on His 14-Year Journey Building Peter Zumthor Doc \u2018From Inside Out\u2019",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/wim-wenders-peter-zumthor-documentary-from-inside-out-venice-1236686539/"
+      },
       {
         "title": "\u2018The Debut\u2019 Review: Julianne Moore and Paul Giamatti Are Dynamite Together in Jesse Eisenberg\u2019s Entertainingly Offbeat Theater Comedy",
         "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-debut-review-julianne-moore-paul-giamatti-1236691977/"
@@ -195,14 +203,6 @@
       {
         "title": "\u2018A Tale of Two Cities\u2019 Review: Kit Harington Has Done Far, Far Better Things Than This Bland MGM+ Dickens Adaptation",
         "link": "https://www.hollywoodreporter.com/tv/tv-reviews/a-tale-of-two-cities-review-kit-harington-mgm-dickens-1236688874/"
-      },
-      {
-        "title": "Mariska Hargitay Lands Two Emmys for \u2018My Mom Jayne\u2019 Ahead of Hosting Gig",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/mariska-hargitay-two-emmys-my-mom-jayne-hosting-1236692184/"
-      },
-      {
-        "title": "Creative Arts Emmys, Night One: Winners List",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/2026-creative-arts-emmys-winners-list-night-one-1236683725/"
       }
     ],
     "larb": [],
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "Many Space Missions Are Searching for Life Beyond Earth\u2014But Are We Prepared for the Fallout If They\u00a0Succeed?",
+        "link": "https://nautil.us/many-space-missions-are-searching-for-life-beyond-earth-but-are-we-prepared-for-the-fallout-if-they-succeed-1284812/"
+      },
+      {
         "title": "Your Boss Is Watching You",
         "link": "https://nautil.us/your-boss-is-watching-you-1284806/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "Your Smartwatch May Not be as Smart as You Think it is",
         "link": "https://nautil.us/your-smartwatch-may-not-be-as-smart-as-you-think-it-is-1284836/"
-      },
-      {
-        "title": "Can Nature Benefit You If You\u2019re Already Well?",
-        "link": "https://nautil.us/can-nature-benefit-you-if-youre-already-well-1284801/"
       }
     ],
     "worksinprogress": [],
