@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-09-07 07:45 UTC",
+  "last_updated": "2026-09-07 14:39 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Watch: Anti-migrant boat protesters block roads in Portsmouth",
-        "link": "https://www.bbc.co.uk/news/videos/cje8lwzjz5lo?at_medium=RSS&at_campaign=rss"
+        "title": "What we know about anti-migrant protests and organiser Danny Thomas",
+        "link": "https://www.bbc.co.uk/news/articles/cpq0nn1l7w0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
+        "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Chancellor John Healey refuses to rule out tax hikes in October Budget",
+        "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "New videos of man at centre of 9/11 lawsuit reveal links to extremists and Saudi state",
         "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Germany's far-right AfD hails big victory in east, but falls short of majority",
-        "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Europe wrestles with impact of historic regional gains for Germany's AfD",
-        "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "India teams search for survivors after Delhi building collapse kills six",
-        "link": "https://www.aljazeera.com/news/2026/9/7/india-teams-search-for-survivors-after-delhi-building-collapse-kills-six?traffic_source=rss"
+        "title": "Israeli attacks on Gaza kill five Palestinians, including two children",
+        "link": "https://www.aljazeera.com/news/2026/9/7/israeli-attacks-on-gaza-kill-five-palestinians-including-two-children?traffic_source=rss"
       },
       {
-        "title": "Israeli air attack kills at least 10 people in southern Lebanon",
-        "link": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss"
+        "title": "\u2018Breaks my heart\u2019: Yemen jab shortages spark fears for millions of children",
+        "link": "https://www.aljazeera.com/features/2026/9/7/breaks-my-heart-yemen-jab-shortages-spark-fears-for-millions-of-children?traffic_source=rss"
       },
       {
-        "title": "Six children among 11 people killed in Indonesian market fire",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_11-dead-in-massive-indonesia-market-fire-070926?traffic_source=rss"
+        "title": "Iraq faces sovereignty test as US-led military coalition exit nears",
+        "link": "https://www.aljazeera.com/news/2026/9/7/iraq-faces-sovereignty-test-as-us-led-military-coalition-exit-nears?traffic_source=rss"
       },
       {
-        "title": "Ten killed and dozens injured in Mexico fireworks blast",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/ten-killed-and-dozens-injured-in-mexico-fireworks-blast?traffic_source=rss"
+        "title": "Why has Nicaragua taken Germany to the ICJ over Gaza genocide?",
+        "link": "https://www.aljazeera.com/news/2026/9/7/why-has-nicaragua-taken-germany-to-the-icj-over-gaza-genocide?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "The NFL is back! The race to Super Bowl 61 starts here",
-        "link": "https://www.skysports.com/nfl/news/12040/13581362/nfl-2026-season-the-race-to-super-bowl-61-begins-myles-garrett-patrick-mahomes-josh-allen-and-seattle-seahawks-among-headlines-in-wide-open-season"
+        "title": "Leicester have sunk to new low under Martin but can he turn it around?",
+        "link": "https://www.skysports.com/football/news/12040/13582797/leicester-city-sink-to-new-low-in-league-one-but-can-russell-martin-turn-it-around"
       },
       {
-        "title": "Huge week ahead! How to watch the Solheim Cup live on Sky Sports",
-        "link": "https://www.skysports.com/golf/news/12040/13580703/solheim-cup-2026-tv-times-how-to-watch-or-stream-live-coverage-on-sky-sports-as-europe-host-team-usa-at-bernardus-golf"
+        "title": "Farrell on retirement, fond memories, and next steps with Wigan",
+        "link": "https://www.skysports.com/rugby-league/news/12040/13582772/liam-farrell-wigan-warriors-captain-on-retirement-fond-memories-and-next-steps-after-super-league-career-to-remember"
       },
       {
-        "title": "Today on Sky Sports Racing: Raaheeb aims to resume progression at Windsor",
-        "link": "https://www.skysports.com/racing/news/12040/13581963/today-on-sky-sports-racing-raaheeb-aims-to-resume-his-progression-at-windsor"
+        "title": "The flap of a wing: How St Helens let success become stagnation",
+        "link": "https://www.skysports.com/rugby-league/news/12040/13582671/how-st-helens-let-super-league-success-become-long-term-stagnation-the-flap-of-a-wing"
       },
       {
-        "title": "Man City latest: Ndiaye says next move 'was always going to be City'",
-        "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "title": "Putellas outshone by Cascarino on debut but is spine of London City's success",
+        "link": "https://www.skysports.com/football/news/12040/13582679/womens-super-league-alexia-putellas-debut-for-london-city-analysed-with-more-on-man-city-and-chelsea"
       }
     ],
     "pitchfork": [],
@@ -80,6 +80,10 @@
     "criterion": [],
     "rogerebert": [
       {
+        "title": "Enslaved Spirits: Maya Annik Bedward on \u201cBlack Zombie\u201d",
+        "link": "https://www.rogerebert.com/interviews/black-zombie-maya-annik-bedward-interview"
+      },
+      {
         "title": "Venice Film Festival 2026: Ink, Moragheb, Too Much Sugar",
         "link": "https://www.rogerebert.com/festivals/venice-film-festival-2026-ink-moragheb-too-much-sugar"
       },
@@ -90,10 +94,6 @@
       {
         "title": "It\u2019s Time to Grow Up: Joe Swanberg and Cory Michael Smith on \u201cThe Sun Never Sets\u201d",
         "link": "https://www.rogerebert.com/interviews/the-sun-never-sets-joe-swanberg-cory-michael-smith-interview"
-      },
-      {
-        "title": "Visible and Powerful: Gloria Steinem (1934-2026)",
-        "link": "https://www.rogerebert.com/tributes/visible-and-powerful-gloria-steinem-1934-2026"
       }
     ],
     "filmcomment": [
@@ -116,6 +116,10 @@
     ],
     "mubi": [
       {
+        "title": "The Final Temenos",
+        "link": "https://mubi.com/en/notebook/posts/the-final-temenos"
+      },
+      {
         "title": "The Armchair Answer to the Troubles",
         "link": "https://mubi.com/en/notebook/posts/the-armchair-answer-to-the-troubles"
       },
@@ -126,87 +130,74 @@
       {
         "title": "MUBI Podcast: Italian Voices of Today | Season 6",
         "link": "https://mubi.com/en/notebook/posts/mubi-podcast-italian-voices-of-today-season-6"
-      },
-      {
-        "title": "MUBI Podcast: Italian Voices Of Today | Season 6",
-        "link": "https://mubi.com/en/notebook/posts/mubi-podcast-voci-italiane-contemporanee-season-6-11424"
       }
     ],
     "reverseshot": [],
-    "sensesofcinema": [
-      {
-        "title": "Rabid Dogs",
-        "link": "https://www.sensesofcinema.com/2026/cteq/rabid-dogs/"
-      },
-      {
-        "title": "Playful Provocation: Hypermediacy in Mario Bava\u2019s Danger: Diabolik",
-        "link": "https://www.sensesofcinema.com/2026/cteq/playful-provocation-hypermediacy-in-mario-bavas-danger-diabolik/"
-      },
-      {
-        "title": "Kill, Baby\u2026 Kill!",
-        "link": "https://www.sensesofcinema.com/2026/cteq/kill-baby-kill/"
-      },
-      {
-        "title": "The Faces of Mario Bava\u2019s Black Sabbath",
-        "link": "https://www.sensesofcinema.com/2026/cteq/the-faces-of-mario-bavas-black-sabbath/"
-      }
-    ],
+    "sensesofcinema": [],
     "indiewire": [
+      {
+        "title": "Werner Herzog on David Lynch, AI, and Why His Unhinged New Film \u2018Bucking Fastard\u2019 Skipped Cannes for Venice",
+        "link": "https://www.indiewire.com/features/interviews/werner-herzog-interview-david-lynch-ai-bucking-fastard-1235215271/"
+      },
+      {
+        "title": "Rob Reiner Wins Posthumous Emmy, Julie Andrews, \u2018Widow\u2019s Bay\u2019 Among Others Honored at Creative Arts Emmys",
+        "link": "https://www.indiewire.com/awards/results/rob-reiner-julie-andrews-widows-bay-creative-arts-emmys-winners-list-1235215270/"
+      },
+      {
+        "title": "\u2018You Can See Everything\u2019 Review: Nathan Fielder and Lance Oppenheim\u2019s Elizabeth Holmes Documentary Is Boundary-Pushing and Absurd",
+        "link": "https://www.indiewire.com/criticism/movies/you-can-see-everything-review-nathan-fielder-1235215268/"
+      },
       {
         "title": "\u2018Lanterns\u2019 Review: Episode 4 Is All About \u2018The Weenie'(s) \u2014\u00a0Spoilers",
         "link": "https://www.indiewire.com/criticism/shows/lanterns-review-episode-4-review-the-weenie-spoilers-1235214629/"
-      },
-      {
-        "title": "A24 Reveals Telluride Secret Screening: It\u2019s Nathan Fielder and Lance Oppenheim\u2019s Documentary About Elizabeth Holmes",
-        "link": "https://www.indiewire.com/news/festivals/telluride-2026-secret-screening-nathan-fielder-documentary-1235215219/"
-      },
-      {
-        "title": "Jesse Eisenberg\u2019s \u2018The Debut\u2019 Serves Up an Oscar-Worthy Julianne Moore \u2014 Here\u2019s How He Did It",
-        "link": "https://www.indiewire.com/features/interviews/jesse-eisenberg-the-debut-interview-1235215210/"
-      },
-      {
-        "title": "\u2018Woman Unknown\u2019 Review: May el-Toukhy\u2019s Paranoid Period Thriller Depicts the Degradation of Women Accused of Sleeping with Nazis",
-        "link": "https://www.indiewire.com/criticism/movies/woman-unknown-movie-review-may-el-toukhy-1235215198/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018Into the Breach\u2019 Review: Star-Studded British Theater Doc Needs More Time to Serve Its Sprawling Subject Matter",
-        "link": "https://variety.com/2026/film/reviews/into-the-breach-review-1236853740/"
+        "title": "Ellen Burstyn Cries as She Gets Venice Golden Lion for Lifetime Achievement: \u2018It\u2019s One Thing to Win an Oscar, Tony or Emmy \u2014 All of Which I\u2019ve Won. But This Is a Lot\u2019",
+        "link": "https://variety.com/2026/film/festivals/ellen-burstyn-cries-venice-golden-lion-1236853817/"
       },
       {
-        "title": "Arte France\u2019s \u2018Tax Me (If You Can)\u2019 Sells to Multiple Territories: \u2018Getting Rich People to\u00a0Talk\u00a0About\u00a0Money Was Tough,\u2019 Says Director (EXCLUSIVE)",
-        "link": "https://variety.com/2026/tv/global/arte-france-tax-me-if-you-can-the-party-film-sales-1236853372/"
+        "title": "\u2018Imperium\u2019 Review: Sergei Loznitsa Brings Together Nearly Three Hours of Italian Footage From the Early 1970s Covering the Vastness of the USSR",
+        "link": "https://variety.com/2026/film/reviews/imperium-review-2-1236853999/"
       },
       {
-        "title": "Lav Diaz on the Hunt for Truth in \u2018An Entry Into the Sadness of a Portuguese Woman,\u2019 Third Chapter of His Acclaimed Hermes Trilogy (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/global/lav-diaz-an-entry-into-the-sadness-of-a-portuguese-woman-1236852447/"
+        "title": "Festival Leaders Confront Growing Political Pressure at Lumiere Summit: \u2018We Don\u2019t Judge Artists by Their Passport\u2019",
+        "link": "https://variety.com/2026/film/news/lumiere-summit-festival-panel-political-protection-1236853995/"
       },
       {
-        "title": "French Drama Series \u2018The Red and the Black\u2019: Passion, Power, Political Intrigue and Victor Belmondo\u2019s Anti-Romantic Hero",
-        "link": "https://variety.com/2026/tv/global/gael-morel-the-red-and-the-black-victor-belmondo-1236851589/"
+        "title": "\u2018Plaza Catedral\u2019 Director Abner Benaim, Chile\u2019s Daniela Vega and Alfredo Castro Board Fiction Series \u2018School of the Americas\u2019 (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/global/abner-benaim-daniela-vega-alfredo-castro-school-americas-1236853506/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018Ground Floor\u2019 Is a Political Parable Full of Apathy, Absurdity \u2013 and Mold (Exclusive Clip and Chat)",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/venice-2026-film-clip-ground-floor-political-parable-hungary-1236681808/"
+        "title": "Tokyo Film Festival Adds New Initiatives, Kashiko Kawakita Award to Honor Women in Cinema",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/tokyo-film-festival-2026-new-initiatives-1236693260/"
       },
       {
-        "title": "Rob Reiner and Betty Gilpin Win 2026 Emmys for Guest Actor and Actress in a Comedy Series",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/rob-reiner-betty-glipin-win-2026-emmy-guest-actor-actress-comedy-1236692785/"
+        "title": "\u2018You Can See Everything\u2019 Review: Elizabeth Holmes Doc From Nathan Fielder and Lance Oppenheim Is Fascinatingly Slippery, Dizzyingly Clever",
+        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/you-can-see-everything-review-elizabeth-holmes-a24-1236692981/"
       },
       {
-        "title": "Linda Cardellini Tearfully Calls First Emmy Win \u201cA Real Dream Come True\u201d",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/linda-cardellini-supporting-actress-limited-2026-emmys-1236690855/"
+        "title": "\u2018Primetime,\u2019 Chris Rock\u2019s \u2018Misty Green\u2019 and Latest Paul Thomas Anderson Movie Join London Film Festival Lineup",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/primetime-paul-thomas-anderson-london-film-festival-tickets-1236693221/"
       },
       {
-        "title": "Creative Arts Emmys, Night 2: Winners List",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/2026-creative-arts-emmys-winners-list-night-two-1236685041/"
+        "title": "Streaming Is Raising Prices Faster Than Cable Ever Did",
+        "link": "https://www.hollywoodreporter.com/business/business-news/streaming-inflation-raising-prices-cable-1236691404/"
       }
     ],
     "larb": [],
     "aeon": [
+      {
+        "title": "The planet is\u2026 up to something",
+        "link": "https://aeon.co/videos/is-this-artemis-ii-timelapse-the-pale-blue-dot-for-our-times"
+      },
+      {
+        "title": "Continental divide",
+        "link": "https://aeon.co/essays/why-the-pan-american-highway-only-half-exists"
+      },
       {
         "title": "Upend the trickle-down",
         "link": "https://aeon.co/essays/why-western-democracy-is-ailing-and-how-to-fix-it"
@@ -214,17 +205,13 @@
       {
         "title": "Neuroqueering on the lawn",
         "link": "https://aeon.co/essays/neuroqueer-expression-and-the-limits-of-social-tolerance"
-      },
-      {
-        "title": "More nothing now",
-        "link": "https://aeon.co/essays/play-is-doing-its-work-even-if-were-not-keeping-score"
-      },
-      {
-        "title": "The Singapore strategies",
-        "link": "https://aeon.co/essays/did-singapore-go-wrong-in-its-quest-for-food-security"
       }
     ],
     "psyche": [
+      {
+        "title": "Is it morally wrong to not take care of yourself?",
+        "link": "https://psyche.co/ideas/is-it-morally-wrong-to-not-take-care-of-yourself"
+      },
       {
         "title": "Absence of presence and presence of absence",
         "link": "https://psyche.co/notes-to-self/the-absence-of-presence-and-the-presence-of-absence"
@@ -236,10 +223,6 @@
       {
         "title": "Logistics underpins power \u2013 and logistics is female",
         "link": "https://psyche.co/ideas/logistics-underpins-power-and-logistics-is-female"
-      },
-      {
-        "title": "The human frequency",
-        "link": "https://psyche.co/portraits/dj-william-goldsmith-on-the-human-art-of-internet-radio"
       }
     ],
     "publicdomainreview": [
@@ -280,20 +263,20 @@
     ],
     "nautilus": [
       {
+        "title": "What\u2019s Creating These Mysterious Seafloor Hexagons?",
+        "link": "https://nautil.us/whats-creating-these-mysterious-seafloor-hexagons-1284850/"
+      },
+      {
+        "title": "After an 8-Year Journey, Orbiters Are About to Give Us a Fresh Look at Mercury",
+        "link": "https://nautil.us/after-an-8-year-journey-orbiters-are-about-to-give-us-a-fresh-look-at-mercury-1284822/"
+      },
+      {
         "title": "Many Space Missions Are Searching for Life Beyond Earth\u2014But Are We Prepared for the Fallout If They\u00a0Succeed?",
         "link": "https://nautil.us/many-space-missions-are-searching-for-life-beyond-earth-but-are-we-prepared-for-the-fallout-if-they-succeed-1284812/"
       },
       {
         "title": "Your Boss Is Watching You",
         "link": "https://nautil.us/your-boss-is-watching-you-1284806/"
-      },
-      {
-        "title": "Ancient Coins Reveal a Wealth of Information About the Roman Republic",
-        "link": "https://nautil.us/ancient-coins-reveal-a-wealth-of-information-about-the-roman-republic-1284847/"
-      },
-      {
-        "title": "Your Smartwatch May Not be as Smart as You Think it is",
-        "link": "https://nautil.us/your-smartwatch-may-not-be-as-smart-as-you-think-it-is-1284836/"
       }
     ],
     "worksinprogress": [],
