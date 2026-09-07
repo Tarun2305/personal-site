@@ -1,64 +1,68 @@
 {
-  "last_updated": "2026-09-07 14:39 UTC",
+  "last_updated": "2026-09-07 18:56 UTC",
   "feeds": {
     "bbc": [
       {
         "title": "What we know about anti-migrant protests and organiser Danny Thomas",
-        "link": "https://www.bbc.co.uk/news/articles/cpq0nn1l7w0o?at_medium=RSS&at_campaign=rss"
+        "link": "https://www.bbc.co.uk/news/videos/cx2z4rxdnnpo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
         "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Chancellor John Healey refuses to rule out tax hikes in October Budget",
-        "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss"
+        "title": "King makes clear Harry and Meghan remain non-working royals",
+        "link": "https://www.bbc.co.uk/news/articles/c20lpevv7jlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "New videos of man at centre of 9/11 lawsuit reveal links to extremists and Saudi state",
-        "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss"
+        "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
+        "link": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Israeli attacks on Gaza kill five Palestinians, including two children",
-        "link": "https://www.aljazeera.com/news/2026/9/7/israeli-attacks-on-gaza-kill-five-palestinians-including-two-children?traffic_source=rss"
+        "title": "Israel\u2019s plan to split the West Bank",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/israels-plan-to-split-the-west-bank?traffic_source=rss"
       },
       {
-        "title": "\u2018Breaks my heart\u2019: Yemen jab shortages spark fears for millions of children",
-        "link": "https://www.aljazeera.com/features/2026/9/7/breaks-my-heart-yemen-jab-shortages-spark-fears-for-millions-of-children?traffic_source=rss"
+        "title": "Thousands attend funeral of war criminal Ratko Mladic in Serbia",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/thousands-attend-funeral-of-war-criminal-ratko-mladic-in-serbia?traffic_source=rss"
       },
       {
-        "title": "Iraq faces sovereignty test as US-led military coalition exit nears",
-        "link": "https://www.aljazeera.com/news/2026/9/7/iraq-faces-sovereignty-test-as-us-led-military-coalition-exit-nears?traffic_source=rss"
+        "title": "Board of Peace touts progress as Palestinians\u2019 situation worsens",
+        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/9/7/board-of-peace-touts-progress-as-palestinians-situation-worsens?traffic_source=rss"
       },
       {
-        "title": "Why has Nicaragua taken Germany to the ICJ over Gaza genocide?",
-        "link": "https://www.aljazeera.com/news/2026/9/7/why-has-nicaragua-taken-germany-to-the-icj-over-gaza-genocide?traffic_source=rss"
+        "title": "Egyptian wrestlers keep vanishing abroad amid a sport in crisis",
+        "link": "https://www.aljazeera.com/sports/2026/9/7/egypts-vanishing-wrestlers-and-a-sport-in-crisis?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Leicester have sunk to new low under Martin but can he turn it around?",
-        "link": "https://www.skysports.com/football/news/12040/13582797/leicester-city-sink-to-new-low-in-league-one-but-can-russell-martin-turn-it-around"
+        "title": "Zheng stages epic comeback to reach US Open quarters after Swiatek implodes",
+        "link": "https://www.skysports.com/tennis/news/12040/13582890/us-open-2026-qinwen-zheng-stages-epic-comeback-to-stun-iga-swiatek-and-reach-quarter-finals"
       },
       {
-        "title": "Farrell on retirement, fond memories, and next steps with Wigan",
-        "link": "https://www.skysports.com/rugby-league/news/12040/13582772/liam-farrell-wigan-warriors-captain-on-retirement-fond-memories-and-next-steps-after-super-league-career-to-remember"
+        "title": "Red Bull's Hadjar to miss Spanish GP as injury absence continue",
+        "link": "https://www.skysports.com/f1/news/12040/13582838/isack-hadjar-to-miss-spanish-grand-prix-in-madrid-due-to-wrist-injury-as-liam-lawson-continues-at-red-bull"
       },
       {
-        "title": "The flap of a wing: How St Helens let success become stagnation",
-        "link": "https://www.skysports.com/rugby-league/news/12040/13582671/how-st-helens-let-super-league-success-become-long-term-stagnation-the-flap-of-a-wing"
+        "title": "US Open LIVE! Osaka vs Rybakina to come after Zheng dumps out Swiatek",
+        "link": "https://www.skysports.com/tennis/live-blog/12040/13582595/us-open-live-scores-updates-news-and-results-from-new-york-with-naomi-osaka-iga-swiatek-coco-gauff-and-alexander-zverev-in-action"
       },
       {
-        "title": "Putellas outshone by Cascarino on debut but is spine of London City's success",
-        "link": "https://www.skysports.com/football/news/12040/13582679/womens-super-league-alexia-putellas-debut-for-london-city-analysed-with-more-on-man-city-and-chelsea"
+        "title": "Liverpool latest: Isak feeling 'good' and says Reds must keep pushing",
+        "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "Christer Bothen/Oren Ambarchi/Johan Berthling/Andreas Werliin :: Serpentine",
+        "link": "https://aquariumdrunkard.com/2026/09/07/christer-bothen-oren-ambarchi-johan-berthling-andreas-werliin-serpentine/"
+      },
       {
         "title": "R\u00e3o Kyao :: Malpertuis",
         "link": "https://aquariumdrunkard.com/2026/09/04/rao-kyao-malpertuis/"
@@ -70,10 +74,6 @@
       {
         "title": "Bill Orcutt :: Four Louies Live",
         "link": "https://aquariumdrunkard.com/2026/09/03/bill-orcutt-four-louies-live/"
-      },
-      {
-        "title": "American Spring :: S/T (1972)",
-        "link": "https://aquariumdrunkard.com/2026/09/02/american-spring-s-t-1972/"
       }
     ],
     "bfi": [],
@@ -133,8 +133,33 @@
       }
     ],
     "reverseshot": [],
-    "sensesofcinema": [],
+    "sensesofcinema": [
+      {
+        "title": "Rabid Dogs",
+        "link": "https://www.sensesofcinema.com/2026/cteq/rabid-dogs/"
+      },
+      {
+        "title": "Playful Provocation: Hypermediacy in Mario Bava\u2019s Danger: Diabolik",
+        "link": "https://www.sensesofcinema.com/2026/cteq/playful-provocation-hypermediacy-in-mario-bavas-danger-diabolik/"
+      },
+      {
+        "title": "Kill, Baby\u2026 Kill!",
+        "link": "https://www.sensesofcinema.com/2026/cteq/kill-baby-kill/"
+      },
+      {
+        "title": "The Faces of Mario Bava\u2019s Black Sabbath",
+        "link": "https://www.sensesofcinema.com/2026/cteq/the-faces-of-mario-bavas-black-sabbath/"
+      }
+    ],
     "indiewire": [
+      {
+        "title": "\u2018Monsters of God\u2019 Director Eric Goode Breaks Down the Finale Reveal: \u2018He Was Like an Alcoholic Running a Liquor Store\u2019",
+        "link": "https://www.indiewire.com/features/interviews/monsters-of-god-eric-goode-interview-finale-tiger-king-1235215289/"
+      },
+      {
+        "title": "\u2018Look Back\u2019 Review: Hirokazu Kore-eda\u2019s Hyper-Faithful Adaptation Draws Rich and Dazzling New Textures from Manga and Anime",
+        "link": "https://www.indiewire.com/criticism/movies/look-back-live-action-movie-review-1235215203/"
+      },
       {
         "title": "Werner Herzog on David Lynch, AI, and Why His Unhinged New Film \u2018Bucking Fastard\u2019 Skipped Cannes for Venice",
         "link": "https://www.indiewire.com/features/interviews/werner-herzog-interview-david-lynch-ai-bucking-fastard-1235215271/"
@@ -142,50 +167,42 @@
       {
         "title": "Rob Reiner Wins Posthumous Emmy, Julie Andrews, \u2018Widow\u2019s Bay\u2019 Among Others Honored at Creative Arts Emmys",
         "link": "https://www.indiewire.com/awards/results/rob-reiner-julie-andrews-widows-bay-creative-arts-emmys-winners-list-1235215270/"
-      },
-      {
-        "title": "\u2018You Can See Everything\u2019 Review: Nathan Fielder and Lance Oppenheim\u2019s Elizabeth Holmes Documentary Is Boundary-Pushing and Absurd",
-        "link": "https://www.indiewire.com/criticism/movies/you-can-see-everything-review-nathan-fielder-1235215268/"
-      },
-      {
-        "title": "\u2018Lanterns\u2019 Review: Episode 4 Is All About \u2018The Weenie'(s) \u2014\u00a0Spoilers",
-        "link": "https://www.indiewire.com/criticism/shows/lanterns-review-episode-4-review-the-weenie-spoilers-1235214629/"
       }
     ],
     "variety": [
       {
-        "title": "Ellen Burstyn Cries as She Gets Venice Golden Lion for Lifetime Achievement: \u2018It\u2019s One Thing to Win an Oscar, Tony or Emmy \u2014 All of Which I\u2019ve Won. But This Is a Lot\u2019",
-        "link": "https://variety.com/2026/film/festivals/ellen-burstyn-cries-venice-golden-lion-1236853817/"
+        "title": "\u2018Look Back\u2019 Review: Once Past the Over- Preciousness of a Child\u2019s World, Hirokazu Kore-eda\u2019s Manga Adaptation Becomes a Moving Tribute to Friendship",
+        "link": "https://variety.com/2026/film/news/look-back-review-1236854197/"
       },
       {
-        "title": "\u2018Imperium\u2019 Review: Sergei Loznitsa Brings Together Nearly Three Hours of Italian Footage From the Early 1970s Covering the Vastness of the USSR",
-        "link": "https://variety.com/2026/film/reviews/imperium-review-2-1236853999/"
+        "title": "Summer Box Office Breaks All-Time Record With $4.67 Billion",
+        "link": "https://variety.com/2026/film/box-office/summer-box-office-breaks-all-time-record-1236854175/"
       },
       {
-        "title": "Festival Leaders Confront Growing Political Pressure at Lumiere Summit: \u2018We Don\u2019t Judge Artists by Their Passport\u2019",
-        "link": "https://variety.com/2026/film/news/lumiere-summit-festival-panel-political-protection-1236853995/"
+        "title": "\u2018Alpha Gang\u2019 Review: Cate Blanchett, Chris Pine and an All-Star Cast Play Space Aliens in David and Nathan Zellner\u2019s Endearingly Goofy Sci-Fi Spoof",
+        "link": "https://variety.com/2026/film/reviews/alpha-gang-review-1236854144/"
       },
       {
-        "title": "\u2018Plaza Catedral\u2019 Director Abner Benaim, Chile\u2019s Daniela Vega and Alfredo Castro Board Fiction Series \u2018School of the Americas\u2019 (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/global/abner-benaim-daniela-vega-alfredo-castro-school-americas-1236853506/"
+        "title": "\u2018The Spiral\u2019 Review: Paolo Strippoli\u2019s Lurid Faustian Tragedy Shores Up His Reputation as Italy\u2019s New Horror Virtuoso",
+        "link": "https://variety.com/2026/film/news/the-spiral-review-1236854031/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Tokyo Film Festival Adds New Initiatives, Kashiko Kawakita Award to Honor Women in Cinema",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/tokyo-film-festival-2026-new-initiatives-1236693260/"
+        "title": "Some Reflections Gloria Steinem Shared At Her Last Public Event",
+        "link": "https://www.hollywoodreporter.com/lifestyle/arts/gloria-steinem-yes-to-the-unknown-last-event-1236692577/"
       },
       {
-        "title": "\u2018You Can See Everything\u2019 Review: Elizabeth Holmes Doc From Nathan Fielder and Lance Oppenheim Is Fascinatingly Slippery, Dizzyingly Clever",
-        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/you-can-see-everything-review-elizabeth-holmes-a24-1236692981/"
+        "title": "When Nicole Kidman and Sandra Bullock First Made Magic",
+        "link": "https://www.hollywoodreporter.com/movies/movie-features/nicole-kidman-sandra-bullock-practical-magic-flashback-1236686873/"
       },
       {
-        "title": "\u2018Primetime,\u2019 Chris Rock\u2019s \u2018Misty Green\u2019 and Latest Paul Thomas Anderson Movie Join London Film Festival Lineup",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/primetime-paul-thomas-anderson-london-film-festival-tickets-1236693221/"
+        "title": "Bruce Campbell Says He Has 5 Years to Live After Cancer Diagnosis",
+        "link": "https://www.hollywoodreporter.com/news/general-news/bruce-campbell-five-years-live-cancer-diagnosis-1236693322/"
       },
       {
-        "title": "Streaming Is Raising Prices Faster Than Cable Ever Did",
-        "link": "https://www.hollywoodreporter.com/business/business-news/streaming-inflation-raising-prices-cable-1236691404/"
+        "title": "\u2018Spider-Man: Brand New Day,\u2019 The Odyssey\u2019 Rule Low-Key Labor Day Box Office",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-ruling-box-office-for-sixth-weekend-1236691340/"
       }
     ],
     "larb": [],
@@ -263,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "What Archaeology Reveals About the Rise of All-Powerful Rulers",
+        "link": "https://nautil.us/what-archaeology-reveals-about-the-rise-of-all-powerful-rulers-1284855/"
+      },
+      {
         "title": "What\u2019s Creating These Mysterious Seafloor Hexagons?",
         "link": "https://nautil.us/whats-creating-these-mysterious-seafloor-hexagons-1284850/"
       },
@@ -273,10 +294,6 @@
       {
         "title": "Many Space Missions Are Searching for Life Beyond Earth\u2014But Are We Prepared for the Fallout If They\u00a0Succeed?",
         "link": "https://nautil.us/many-space-missions-are-searching-for-life-beyond-earth-but-are-we-prepared-for-the-fallout-if-they-succeed-1284812/"
-      },
-      {
-        "title": "Your Boss Is Watching You",
-        "link": "https://nautil.us/your-boss-is-watching-you-1284806/"
       }
     ],
     "worksinprogress": [],
