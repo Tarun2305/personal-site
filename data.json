@@ -1,64 +1,68 @@
 {
-  "last_updated": "2026-09-08 13:12 UTC",
+  "last_updated": "2026-09-08 18:13 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals",
-        "link": "https://www.bbc.co.uk/news/articles/cp30kv53qvdo?at_medium=RSS&at_campaign=rss"
+        "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+        "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Nottingham attacks victim's death 'potentially preventable'",
-        "link": "https://www.bbc.co.uk/news/articles/cddvz1mz09zo?at_medium=RSS&at_campaign=rss"
+        "title": "Ports denied request to land 120 migrants in RNLI boats",
+        "link": "https://www.bbc.co.uk/news/articles/cm27v3743mno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Monty Don to leave Gardeners' World after more than 20 years",
-        "link": "https://www.bbc.co.uk/news/articles/c74ew4402kxo?at_medium=RSS&at_campaign=rss"
+        "title": "Renoir paintings worth millions stolen in French museum heist",
+        "link": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Prince George begins first day at a rainy Eton College",
-        "link": "https://www.bbc.co.uk/news/articles/cwyzel3qjvzo?at_medium=RSS&at_campaign=rss"
+        "title": "British widow faces deportation from Sweden after 22 years",
+        "link": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Qatar says reopening Strait of Hormuz \u2018unconditionally\u2019 is a priority",
-        "link": "https://www.aljazeera.com/news/2026/9/8/qatar-says-reopening-strait-of-hormuz-unconditionally-is-a-priority?traffic_source=rss"
+        "title": "Women and children remain trapped in Syria\u2019s Roj camp",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/women-and-children-remain-trapped-in-syrias-roj-camp?traffic_source=rss"
       },
       {
-        "title": "UK announces sanctions on illegal Israeli settlements",
-        "link": "https://www.aljazeera.com/news/2026/9/8/uk-announces-sanctions-on-illegal-israeli-settlements?traffic_source=rss"
+        "title": "Renoir paintings worth $10.5 million missing after museum heist",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/renoir-paintings-worth-10-5-million-missing-after-museum-heist?traffic_source=rss"
       },
       {
-        "title": "Sudan\u2019s healthcare system on brink of collapse, MSF warns",
-        "link": "https://www.aljazeera.com/news/2026/9/8/sudans-healthcare-system-on-brink-of-collapse-msf-warns?traffic_source=rss"
+        "title": "Yemen\u2019s war is back: A new battle for Sanaa and the Red Sea",
+        "link": "https://www.aljazeera.com/features/2026/9/8/yemens-war-is-back-a-new-battle-for-sanaa-and-the-red-sea?traffic_source=rss"
       },
       {
-        "title": "BRICS summit may be the only place another Iran ceasefire can be built",
-        "link": "https://www.aljazeera.com/opinions/2026/9/8/brics-summit-may-be-the-only-place-another-iran-ceasefire-can-be-built?traffic_source=rss"
+        "title": "Photos: Palestinians rebuild Gaza\u2019s ruins with mud bricks, scrap",
+        "link": "https://www.aljazeera.com/gallery/2026/9/8/photos-palestinians-rebuild-gazas-ruins-with-mud-bricks-and-scrap?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Ferrari vow to come back stronger after Monza 'failure'",
-        "link": "https://www.skysports.com/f1/news/12040/13583075/spanish-gp-ferrari-boss-frederic-vasseur-says-team-will-come-back-stronger-in-madrid-after-italian-gp-failure-at-monza"
+        "title": "Sky Sports Golf Podcast: Can 'Lahinch legends' inspire Europe to Solheim glory?",
+        "link": "https://www.skysports.com/golf/news/12040/11933264/sky-sports-golf-podcast"
       },
       {
-        "title": "Mac Allister 'very sad' over no new Liverpool deal",
-        "link": "https://www.skysports.com/football/news/12040/13583123/alexis-mac-allister-liverpool-midfielder-very-sad-over-no-new-contract-and-admits-he-could-have-left-in-summer"
+        "title": "Bouaddi makes first Man City start in Porto LIVE!",
+        "link": "https://www.skysports.com/football/fc-porto-vs-manchester-city/live/577600"
       },
       {
-        "title": "Newcastle chief: Summer was 'not chaotic' with Howe exit prepared for",
-        "link": "https://www.skysports.com/football/news/12040/13583036/ross-wilson-newcastle-chief-reveals-club-prepared-for-eddie-howe-exit-in-summer-that-never-felt-chaotic"
+        "title": "'Most pressure in the NFL' Finally Allen's time to win Super Bowl?",
+        "link": "https://www.skysports.com/nfl/news/12040/13583197/buffalo-bills-joe-brady-under-pressure-to-lead-josh-allen-to-super-bowl-says-phoebe-schecter"
       },
       {
-        "title": "Bosa and Kittle return for 49ers in Melbourne opener",
-        "link": "https://www.skysports.com/nfl/live-blog/12040/13572639/nfl-news-trades-injuries-and-rumours-latest-updates-and-highlights-from-2026-pre-season-regular-season-playoffs-and-super-bowl"
+        "title": "Midweek millions! Play Super 6 to win \u00a31m",
+        "link": "https://www.skysports.com/football/live-blog/12040/13401137/huge-jackpots-to-win-with-super-6-how-to-play-tips-analysis-and-latest-winner-stories"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "Way Dynamic :: Massive Shoe",
+        "link": "https://aquariumdrunkard.com/2026/09/08/way-dynamic-massive-shoe/"
+      },
       {
         "title": "Jake Xerxes Fussell :: The Old Beloved Path",
         "link": "https://aquariumdrunkard.com/2026/09/08/jake-xerxes-fussell-the-old-beloved-path/"
@@ -70,30 +74,26 @@
       {
         "title": "R\u00e3o Kyao :: Malpertuis",
         "link": "https://aquariumdrunkard.com/2026/09/04/rao-kyao-malpertuis/"
-      },
-      {
-        "title": "Upper Wilds :: Mercury",
-        "link": "https://aquariumdrunkard.com/2026/09/04/upper-wilds-mercury/"
       }
     ],
     "bfi": [],
     "criterion": [],
     "rogerebert": [
       {
+        "title": "Telluride 2026: Alpha Gang, The Liberation, The Idiots",
+        "link": "https://www.rogerebert.com/festivals/telluride-2026-alpha-gang-the-liberation-the-idiots"
+      },
+      {
+        "title": "Irony, Contradiction, and Perspective: Na Hong-jin and Hoyeon on \u201cHope\u201d",
+        "link": "https://www.rogerebert.com/interviews/hope-na-hong-jin-hoyeon-interview"
+      },
+      {
+        "title": "Sixth Season of \u201cSlow Horses\u201d Stands Out in Crowded TV Season",
+        "link": "https://www.rogerebert.com/streaming/sixth-season-of-slow-horses-stands-out-in-crowded-tv-season"
+      },
+      {
         "title": "Enslaved Spirits: Maya Annik Bedward on \u201cBlack Zombie\u201d",
         "link": "https://www.rogerebert.com/interviews/black-zombie-maya-annik-bedward-interview"
-      },
-      {
-        "title": "Venice Film Festival 2026: Ink, Moragheb, Too Much Sugar",
-        "link": "https://www.rogerebert.com/festivals/venice-film-festival-2026-ink-moragheb-too-much-sugar"
-      },
-      {
-        "title": "The Places Underneath Words: Cassandra Wilson (1955-2026)",
-        "link": "https://www.rogerebert.com/tributes/cassandra-wilson-tribute"
-      },
-      {
-        "title": "It\u2019s Time to Grow Up: Joe Swanberg and Cory Michael Smith on \u201cThe Sun Never Sets\u201d",
-        "link": "https://www.rogerebert.com/interviews/the-sun-never-sets-joe-swanberg-cory-michael-smith-interview"
       }
     ],
     "filmcomment": [
@@ -136,56 +136,56 @@
     "sensesofcinema": [],
     "indiewire": [
       {
-        "title": "TIFF Finally Has a Formal Film Market, but Sellers and Buyers Still Don\u2019t Know What to Expect",
-        "link": "https://www.indiewire.com/news/festivals/tiff-film-market-what-to-expect-1235214373/"
+        "title": "\u2018Bunker\u2019 Review: A Tech Billionaire Asks Javier Bardem to Build a Doomsday Ark in Florian Zeller\u2019s Heavy-Handed Social Thriller",
+        "link": "https://www.indiewire.com/criticism/movies/bunker-review-javier-bardem-penelope-cruz-1235215377/"
       },
       {
-        "title": "\u2018Joie de Vivre\u2019 Review: Luca Guadagnino\u2019s Obsessive Bertolucci Doc Is a 7-Hour Cinema Paradiso Even More Fascinating for What It Leaves Out",
-        "link": "https://www.indiewire.com/criticism/movies/luca-guadagnino-bertolucci-documentary-joie-de-vivre-review-1235215442/"
+        "title": "\u2018Practical Magic 2\u2019 Review: Sandra Bullock and Nicole Kidman Break Hearts in a Spellbinding Sequel",
+        "link": "https://www.indiewire.com/criticism/movies/practical-magic-2-review-sandra-bullock-nicole-kidman-1235215192/"
       },
       {
-        "title": "\u2018Musk\u2019 Review: Alex Gibney\u2019s Distressing Biography of an Uber-Wealthy Tech Bro Is Less Bombshell Than Summary of How We Got Here",
-        "link": "https://www.indiewire.com/criticism/movies/musk-documentary-review-alex-gibney-elon-musk-1235215433/"
+        "title": "\u2018Alpha Gang\u2019 Review: L\u00e9a Seydoux Leads an All-Star Cast of Motorcycle-Loving Aliens in the Zellner Brothers\u2019 Wacky Sci-Fi Pastiche",
+        "link": "https://www.indiewire.com/criticism/movies/alpha-gang-movie-review-1235215511/"
       },
       {
-        "title": "Alex Gibney Warns Elon Musk\u2019s DOGE Data Could Be Used \u2018for an AI to Influence the Election\u2019",
-        "link": "https://www.indiewire.com/news/festivals/elon-musk-doge-data-could-influence-election-alex-gibney-1235215448/"
+        "title": "The Downtown Festival Sets 2026 Film Lineup, Including Paul Schrader, Ethan Hawke and Siyou Tan",
+        "link": "https://www.indiewire.com/news/festivals/downtown-festival-2026-film-lineup-1235214988/"
       }
     ],
     "variety": [
       {
-        "title": "Watch Brad Pitt Talk to Dogs in New De\u2019Longhi Espresso Maker Ad Campaign (EXCLUSIVE)",
-        "link": "https://variety.com/2026/biz/columns/brad-pitt-talk-dogs-delonghi-espresso-maker-ad-1236853440/"
+        "title": "Netflix to Report Box Office Numbers for 6 Upcoming Movies as Streamer Escalates Theatrical Plans (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/news/netflix-report-box-office-theatrical-releases-1236854834/"
       },
       {
-        "title": "John Turturro to Receive Zurich Film Festival\u2019s Golden Eye Award",
-        "link": "https://variety.com/2026/film/global/john-turturro-zurich-film-festival-golden-eye-award-1236854540/"
+        "title": "Danielle Deadwyler, Ike Barinholtz and Connor Storrie Join Billie Eilish and Carey Mulligan in \u2018The Bell Jar\u2019",
+        "link": "https://variety.com/2026/film/news/bell-jar-movie-cast-connor-storrie-billie-eilish-sarah-polley-1236854835/"
       },
       {
-        "title": "Stevie Wonder Announces \u2018Songs in the Key of Life\u2019 50th Anniversary Tour Dates",
-        "link": "https://variety.com/2026/music/news/stevie-wonder-songs-in-the-key-of-life-50th-anniversary-tour-dates-1236854667/"
+        "title": "\u2018Snowfall\u2019 Spinoff \u2018The Drop\u2019 Is an Evocative, If Uneven, Portrait of South L.A. in the Gangsta Rap Era: TV Review",
+        "link": "https://variety.com/2026/tv/reviews/the-drop-review-snowfall-spinoff-1236854947/"
       },
       {
-        "title": "Tom Jones Alleges \u2018The Voice U.K.\u2019 Fired Him at 86 Years Old Due to \u2018Financial Difficulty With Insurance\u2019",
-        "link": "https://variety.com/2026/tv/global/tom-jones-the-voice-uk-fired-86-insurance-1236854656/"
+        "title": "Inside Rauw Alejandro\u2019s Three-Act Concert in New York, a Celebration of Music, Culture and Puerto Rican Pride: \u2018It Creates an Impact on All Latinos to Embrace Their Culture\u2019",
+        "link": "https://variety.com/2026/music/news/inside-rauw-alejandro-new-york-concert-puerto-rico-1236854969/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "How to Write Chad Powers: Go With \u201cYour First, Stupidest Thought\u201d",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/chad-powers-season-3-preview-michael-waldron-glen-powell-1236685759/"
+        "title": "The $100 Billion Race to Build the World\u2019s Next Sports Mecca",
+        "link": "https://www.hollywoodreporter.com/business/business-news/100-billion-race-next-sports-mecca-1236665926/"
       },
       {
-        "title": "Inside \u2018DAU,\u2019 the 20-Year Soviet Simulation That Became Cinema\u2019s Strangest Ghost Story",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/dau-venice-film-festival-ilya-khrzhanovsky-1236686499/"
+        "title": "\u2018The Spiral\u2019 Review: Jasmine Trinca\u2019s Real Housewife of Bari Makes a Faustian Pact With Valeria Bruni Tedeschi\u2019s Enigmatic Stranger in Crackling Italian Chiller",
+        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-spiral-review-jasmine-trinca-valeria-bruni-tedeschi-1236693815/"
       },
       {
-        "title": "Carly Rae Jepsen Could\u2019ve Been a One-Hit Wonder or a Mainstream Megastar. Instead, She Became Far More Interesting",
-        "link": "https://www.hollywoodreporter.com/music/music-features/carly-rae-jepsen-day-and-night-interview-1236691389/"
+        "title": "Adam Wingard on \u201cLosing His Voice\u201d in the Studio System and How \u2018The Guest 2\u2019 Became \u2018Onslaught\u2019",
+        "link": "https://www.hollywoodreporter.com/movies/movie-features/onslaught-adam-wingard-the-guest-2-1236692700/"
       },
       {
-        "title": "John Turturro \u201cGrateful\u201d to Zurich Film Festival for Golden Eye Award Honor",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/john-turturro-zurich-film-festival-golden-eye-pickpocket-1236693726/"
+        "title": "\u2018Remain\u2019 Teaser Trailer: Jake Gyllenhaal, Phoebe Dynevor Star in M. Night Shyamalan and Nicholas Sparks\u2019 Supernatural Romance",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/jake-gyllenhaal-phoebe-dynevor-remain-teaser-trailer-1236694038/"
       }
     ],
     "larb": [],
@@ -263,20 +263,20 @@
     ],
     "nautilus": [
       {
+        "title": "This New \u201cDevil Flower\u201d Species Doesn\u2019t Photosynthesize",
+        "link": "https://nautil.us/this-new-devil-flower-species-doesnt-photosynthesize-1284872/"
+      },
+      {
+        "title": "Male Sex-Reversed Frogs Hold Their Own in Fertility Competitions",
+        "link": "https://nautil.us/male-sex-reversed-frogs-hold-their-own-in-fertility-competitions-1284867/"
+      },
+      {
+        "title": "The Elegance of a Stupid Question",
+        "link": "https://nautil.us/the-elegance-of-a-stupid-question-1284839/"
+      },
+      {
         "title": "Why Some Ants are Lazy Freeloaders",
         "link": "https://nautil.us/why-some-ants-are-lazy-freeloaders-1284862/"
-      },
-      {
-        "title": "What Archaeology Reveals About the Rise of All-Powerful Rulers",
-        "link": "https://nautil.us/what-archaeology-reveals-about-the-rise-of-all-powerful-rulers-1284855/"
-      },
-      {
-        "title": "What\u2019s Creating These Mysterious Seafloor Hexagons?",
-        "link": "https://nautil.us/whats-creating-these-mysterious-seafloor-hexagons-1284850/"
-      },
-      {
-        "title": "After an 8-Year Journey, Orbiters Are About to Give Us a Fresh Look at Mercury",
-        "link": "https://nautil.us/after-an-8-year-journey-orbiters-are-about-to-give-us-a-fresh-look-at-mercury-1284822/"
       }
     ],
     "worksinprogress": [],
