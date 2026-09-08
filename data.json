@@ -1,64 +1,68 @@
 {
-  "last_updated": "2026-09-08 07:39 UTC",
+  "last_updated": "2026-09-08 13:12 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Fears for children's safety in West Bank school as settler attacks rise",
-        "link": "https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss"
+        "title": "Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals",
+        "link": "https://www.bbc.co.uk/news/articles/cp30kv53qvdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "A&E did not get the basics right - my son's life was ruined at 32",
-        "link": "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&at_campaign=rss"
+        "title": "Nottingham attacks victim's death 'potentially preventable'",
+        "link": "https://www.bbc.co.uk/news/articles/cddvz1mz09zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Canadian counter-tariffs come into force as US trade dispute escalates",
-        "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss"
+        "title": "Monty Don to leave Gardeners' World after more than 20 years",
+        "link": "https://www.bbc.co.uk/news/articles/c74ew4402kxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Prince George set for first day at Eton College",
+        "title": "Prince George begins first day at a rainy Eton College",
         "link": "https://www.bbc.co.uk/news/articles/cwyzel3qjvzo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "US Open: Zheng in 5-0 comeback; Gauff, Rybakina, Zverev also in quarters",
-        "link": "https://www.aljazeera.com/sports/2026/9/8/us-open-zheng-in-5-0-comeback-gauff-rybakina-zverev-also-reach-quarters?traffic_source=rss"
+        "title": "Qatar says reopening Strait of Hormuz \u2018unconditionally\u2019 is a priority",
+        "link": "https://www.aljazeera.com/news/2026/9/8/qatar-says-reopening-strait-of-hormuz-unconditionally-is-a-priority?traffic_source=rss"
       },
       {
-        "title": "Palestine weekly: Israeli ministers push for depopulation of Gaza",
-        "link": "https://www.aljazeera.com/news/2026/9/8/palestine-weekly-israeli-ministers-push-for-depopulation-of-gaza?traffic_source=rss"
+        "title": "UK announces sanctions on illegal Israeli settlements",
+        "link": "https://www.aljazeera.com/news/2026/9/8/uk-announces-sanctions-on-illegal-israeli-settlements?traffic_source=rss"
       },
       {
-        "title": "Forest fires force evacuations near resorts in Antalya",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/forest-fires-force-evacuations-near-resorts-in-antalya?traffic_source=rss"
+        "title": "Sudan\u2019s healthcare system on brink of collapse, MSF warns",
+        "link": "https://www.aljazeera.com/news/2026/9/8/sudans-healthcare-system-on-brink-of-collapse-msf-warns?traffic_source=rss"
       },
       {
-        "title": "Mladic\u2019s funeral: Were no lessons learned?",
-        "link": "https://www.aljazeera.com/opinions/2026/9/8/burying-mladic-were-no-lessons-learned?traffic_source=rss"
+        "title": "BRICS summit may be the only place another Iran ceasefire can be built",
+        "link": "https://www.aljazeera.com/opinions/2026/9/8/brics-summit-may-be-the-only-place-another-iran-ceasefire-can-be-built?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "Ferrari vow to come back stronger after Monza 'failure'",
+        "link": "https://www.skysports.com/f1/news/12040/13583075/spanish-gp-ferrari-boss-frederic-vasseur-says-team-will-come-back-stronger-in-madrid-after-italian-gp-failure-at-monza"
+      },
+      {
+        "title": "Mac Allister 'very sad' over no new Liverpool deal",
+        "link": "https://www.skysports.com/football/news/12040/13583123/alexis-mac-allister-liverpool-midfielder-very-sad-over-no-new-contract-and-admits-he-could-have-left-in-summer"
+      },
+      {
+        "title": "Newcastle chief: Summer was 'not chaotic' with Howe exit prepared for",
+        "link": "https://www.skysports.com/football/news/12040/13583036/ross-wilson-newcastle-chief-reveals-club-prepared-for-eddie-howe-exit-in-summer-that-never-felt-chaotic"
+      },
+      {
         "title": "Bosa and Kittle return for 49ers in Melbourne opener",
         "link": "https://www.skysports.com/nfl/live-blog/12040/13572639/nfl-news-trades-injuries-and-rumours-latest-updates-and-highlights-from-2026-pre-season-regular-season-playoffs-and-super-bowl"
-      },
-      {
-        "title": "Should England rotate bowlers or be ruthless in final Pakistan Test?",
-        "link": "https://www.skysports.com/cricket/news/12040/13582810/england-vs-pakistan-should-hosts-rotate-bowling-attack-by-resting-likes-of-jofra-archer-in-third-test-at-edgbaston"
-      },
-      {
-        "title": "How Calafiori has become 'the best left-back in the league by far'",
-        "link": "https://www.skysports.com/football/news/12040/13582771/riccardo-calafiori-how-arsenals-defender-has-emerged-as-one-of-the-premier-leagues-best-left-backs"
-      },
-      {
-        "title": "Why the F1 title race is not over yet...",
-        "link": "https://www.skysports.com/f1/news/12040/13582715/f1-title-race-why-championship-is-not-over-despite-spectacular-kimi-antonelli-win-at-italian-grand-prix"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "Jake Xerxes Fussell :: The Old Beloved Path",
+        "link": "https://aquariumdrunkard.com/2026/09/08/jake-xerxes-fussell-the-old-beloved-path/"
+      },
       {
         "title": "Christer Bothen/Oren Ambarchi/Johan Berthling/Andreas Werliin :: Serpentine",
         "link": "https://aquariumdrunkard.com/2026/09/07/christer-bothen-oren-ambarchi-johan-berthling-andreas-werliin-serpentine/"
@@ -70,10 +74,6 @@
       {
         "title": "Upper Wilds :: Mercury",
         "link": "https://aquariumdrunkard.com/2026/09/04/upper-wilds-mercury/"
-      },
-      {
-        "title": "Bill Orcutt :: Four Louies Live",
-        "link": "https://aquariumdrunkard.com/2026/09/03/bill-orcutt-four-louies-live/"
       }
     ],
     "bfi": [],
@@ -116,6 +116,10 @@
     ],
     "mubi": [
       {
+        "title": "It Was Once Fire: A Locarno Critics Academy Correspondence",
+        "link": "https://mubi.com/en/notebook/posts/it-was-once-fire-a-locarno-critics-academy-correspondence"
+      },
+      {
         "title": "The Final Temenos",
         "link": "https://mubi.com/en/notebook/posts/the-final-temenos"
       },
@@ -126,70 +130,70 @@
       {
         "title": "Inherit the Wind: Kiyoshi Kurosawa\u2019s \u201cThe Samurai and the Prisoner\u201d",
         "link": "https://mubi.com/en/notebook/posts/inherit-the-wind-kiyoshi-kurosawa-s-the-samurai-and-the-prisoner"
-      },
-      {
-        "title": "MUBI Podcast: Italian Voices of Today | Season 6",
-        "link": "https://mubi.com/en/notebook/posts/mubi-podcast-italian-voices-of-today-season-6"
       }
     ],
     "reverseshot": [],
     "sensesofcinema": [],
     "indiewire": [
       {
-        "title": "\u2018Musk\u2019 Teaser: The Wealthiest Man in the World Becomes Alex Gibney\u2019s Latest Documentary Subject",
-        "link": "https://www.indiewire.com/news/trailers/musk-documentary-teaser-1235215370/"
+        "title": "TIFF Finally Has a Formal Film Market, but Sellers and Buyers Still Don\u2019t Know What to Expect",
+        "link": "https://www.indiewire.com/news/festivals/tiff-film-market-what-to-expect-1235214373/"
       },
       {
-        "title": "Sandra H\u00fcller\u2019s Star Keeps Rising, but She\u2019s Still Adjusting to Life in the Public Eye",
-        "link": "https://www.indiewire.com/features/interviews/sandra-huller-telluride-interview-1235215300/"
+        "title": "\u2018Joie de Vivre\u2019 Review: Luca Guadagnino\u2019s Obsessive Bertolucci Doc Is a 7-Hour Cinema Paradiso Even More Fascinating for What It Leaves Out",
+        "link": "https://www.indiewire.com/criticism/movies/luca-guadagnino-bertolucci-documentary-joie-de-vivre-review-1235215442/"
       },
       {
-        "title": "From \u2018Scream 7\u2019 to \u2018Coyote vs. Acme,\u2019 We\u2019re Living in the Age of the Protest Ticket",
-        "link": "https://www.indiewire.com/features/commentary/coyote-vs-acme-scream-7-box-office-protest-ticket-analysis-1235215209/"
+        "title": "\u2018Musk\u2019 Review: Alex Gibney\u2019s Distressing Biography of an Uber-Wealthy Tech Bro Is Less Bombshell Than Summary of How We Got Here",
+        "link": "https://www.indiewire.com/criticism/movies/musk-documentary-review-alex-gibney-elon-musk-1235215433/"
       },
       {
-        "title": "\u2018Monsters of God\u2019 Director Eric Goode Breaks Down the Finale Reveal: \u2018He Was Like an Alcoholic Running a Liquor Store\u2019",
-        "link": "https://www.indiewire.com/features/interviews/monsters-of-god-eric-goode-interview-finale-tiger-king-1235215289/"
+        "title": "Alex Gibney Warns Elon Musk\u2019s DOGE Data Could Be Used \u2018for an AI to Influence the Election\u2019",
+        "link": "https://www.indiewire.com/news/festivals/elon-musk-doge-data-could-influence-election-alex-gibney-1235215448/"
       }
     ],
     "variety": [
       {
-        "title": "Netflix Animated Comedy \u2018Dang!\u2019 Is an Enjoyably Chaotic Sibling Hangout: TV Review",
-        "link": "https://variety.com/2026/tv/reviews/dang-review-netflix-1236839415/"
+        "title": "Watch Brad Pitt Talk to Dogs in New De\u2019Longhi Espresso Maker Ad Campaign (EXCLUSIVE)",
+        "link": "https://variety.com/2026/biz/columns/brad-pitt-talk-dogs-delonghi-espresso-maker-ad-1236853440/"
       },
       {
-        "title": "Venice Horizons Winner Anuparna Roy Returns to Lido With Mumbai Story of Migrants, Desire and Belonging \u2018Lovers in the Blue Night\u2019",
-        "link": "https://variety.com/2026/film/festivals/venice-horizons-anuparna-roy-lovers-blue-night-1236852773/"
+        "title": "John Turturro to Receive Zurich Film Festival\u2019s Golden Eye Award",
+        "link": "https://variety.com/2026/film/global/john-turturro-zurich-film-festival-golden-eye-award-1236854540/"
       },
       {
-        "title": "Amazon\u2019s Newest Fire Tablet Is Only $150, With 10,000 Units Sold In the Last Month Alone",
-        "link": "https://variety.com/2026/shopping/tech/best-amazon-fire-tablet-deals-1235660896/"
+        "title": "Stevie Wonder Announces \u2018Songs in the Key of Life\u2019 50th Anniversary Tour Dates",
+        "link": "https://variety.com/2026/music/news/stevie-wonder-songs-in-the-key-of-life-50th-anniversary-tour-dates-1236854667/"
       },
       {
-        "title": "About Premium Content Inks International Deals for Mystery and Romance Series, Counterfeit Art Doc (EXCLUSIVE)",
-        "link": "https://variety.com/2026/tv/global/apc-about-premium-content-sales-unifrance-rendez-vous-1236854000/"
+        "title": "Tom Jones Alleges \u2018The Voice U.K.\u2019 Fired Him at 86 Years Old Due to \u2018Financial Difficulty With Insurance\u2019",
+        "link": "https://variety.com/2026/tv/global/tom-jones-the-voice-uk-fired-86-insurance-1236854656/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018Dang!\u2019 Review: Stephanie Hsu and Poppy Liu in Netflix\u2019s Zany but Inconsistently Amusing Animated Take on Young Adulthood",
-        "link": "https://www.hollywoodreporter.com/tv/tv-reviews/dang-review-netflix-stephanie-hsu-poppy-liu-1236679898/"
+        "title": "How to Write Chad Powers: Go With \u201cYour First, Stupidest Thought\u201d",
+        "link": "https://www.hollywoodreporter.com/tv/tv-features/chad-powers-season-3-preview-michael-waldron-glen-powell-1236685759/"
       },
       {
-        "title": "Why Andrew Garfield Says Billionaires Should Be \u201cScared Sh**less\u201d by \u2018The Uprising\u2019",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/andrew-garfield-billionaires-scared-the-uprising-movie-1236693586/"
+        "title": "Inside \u2018DAU,\u2019 the 20-Year Soviet Simulation That Became Cinema\u2019s Strangest Ghost Story",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/dau-venice-film-festival-ilya-khrzhanovsky-1236686499/"
       },
       {
-        "title": "Macklemore Responds to Backlash Over \u201cFree Palestine\u201d Plea: \u201cWanting All Humans to Be Treated Equal Should Never Be Controversial\u201d",
-        "link": "https://www.hollywoodreporter.com/music/music-news/macklemore-responds-backlash-free-palestine-plea-ed-sheeran-1236693499/"
+        "title": "Carly Rae Jepsen Could\u2019ve Been a One-Hit Wonder or a Mainstream Megastar. Instead, She Became Far More Interesting",
+        "link": "https://www.hollywoodreporter.com/music/music-features/carly-rae-jepsen-day-and-night-interview-1236691389/"
       },
       {
-        "title": "Venice Home Crowd Gives Italian Horror \u2018The Spiral\u2019 9-Minute Standing Ovation",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/venice-premiere-italian-horror-the-spiral-1236693484/"
+        "title": "John Turturro \u201cGrateful\u201d to Zurich Film Festival for Golden Eye Award Honor",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/john-turturro-zurich-film-festival-golden-eye-pickpocket-1236693726/"
       }
     ],
     "larb": [],
     "aeon": [
+      {
+        "title": "Our eloquent hands",
+        "link": "https://aeon.co/essays/what-palmistry-and-medicine-have-always-had-in-common"
+      },
       {
         "title": "The planet is\u2026 up to something",
         "link": "https://aeon.co/videos/is-this-artemis-ii-timelapse-the-pale-blue-dot-for-our-times"
@@ -201,13 +205,17 @@
       {
         "title": "Upend the trickle-down",
         "link": "https://aeon.co/essays/why-western-democracy-is-ailing-and-how-to-fix-it"
-      },
-      {
-        "title": "Neuroqueering on the lawn",
-        "link": "https://aeon.co/essays/neuroqueer-expression-and-the-limits-of-social-tolerance"
       }
     ],
     "psyche": [
+      {
+        "title": "Town square",
+        "link": "https://psyche.co/videos/inside-the-alzheimers-care-centre-where-its-always-the-1950s"
+      },
+      {
+        "title": "Lessons from Wyatt Earp country",
+        "link": "https://psyche.co/turning-points/my-father-absent-a-farmer-showed-me-what-it-was-to-be-a-man"
+      },
       {
         "title": "Is it morally wrong to not take care of yourself?",
         "link": "https://psyche.co/ideas/is-it-morally-wrong-to-not-take-care-of-yourself"
@@ -215,17 +223,13 @@
       {
         "title": "Absence of presence and presence of absence",
         "link": "https://psyche.co/notes-to-self/the-absence-of-presence-and-the-presence-of-absence"
-      },
-      {
-        "title": "Why you should try living without free will for two weeks",
-        "link": "https://psyche.co/ideas/why-you-should-try-living-without-free-will-for-two-weeks"
-      },
-      {
-        "title": "Logistics underpins power \u2013 and logistics is female",
-        "link": "https://psyche.co/ideas/logistics-underpins-power-and-logistics-is-female"
       }
     ],
     "publicdomainreview": [
+      {
+        "title": "The Ties that Bind: Central Asian Ikat (ca. 19th century)\n",
+        "link": "https://publicdomainreview.org/collection/central-asian-ikat"
+      },
       {
         "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge\n",
         "link": "https://publicdomainreview.org/essay/ars-notoria"
@@ -237,10 +241,6 @@
       {
         "title": "\u201cThe Persian M\u00e2r-N\u00e2meh or, The Book for Taking Omens from Snakes\u201d (1892)\n",
         "link": "https://publicdomainreview.org/collection/marnameh"
-      },
-      {
-        "title": "Archie G. Norcross\u2019 Maine Forest Fire Maps (1918\u201322)\n",
-        "link": "https://publicdomainreview.org/collection/maine-forest-fire-maps"
       }
     ],
     "quanta": [
@@ -263,6 +263,10 @@
     ],
     "nautilus": [
       {
+        "title": "Why Some Ants are Lazy Freeloaders",
+        "link": "https://nautil.us/why-some-ants-are-lazy-freeloaders-1284862/"
+      },
+      {
         "title": "What Archaeology Reveals About the Rise of All-Powerful Rulers",
         "link": "https://nautil.us/what-archaeology-reveals-about-the-rise-of-all-powerful-rulers-1284855/"
       },
@@ -273,10 +277,6 @@
       {
         "title": "After an 8-Year Journey, Orbiters Are About to Give Us a Fresh Look at Mercury",
         "link": "https://nautil.us/after-an-8-year-journey-orbiters-are-about-to-give-us-a-fresh-look-at-mercury-1284822/"
-      },
-      {
-        "title": "Many Space Missions Are Searching for Life Beyond Earth\u2014But Are We Prepared for the Fallout If They\u00a0Succeed?",
-        "link": "https://nautil.us/many-space-missions-are-searching-for-life-beyond-earth-but-are-we-prepared-for-the-fallout-if-they-succeed-1284812/"
       }
     ],
     "worksinprogress": [],
