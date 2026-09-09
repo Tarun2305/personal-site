@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-09-09 02:29 UTC",
+  "last_updated": "2026-09-09 07:44 UTC",
   "feeds": {
     "bbc": [
-      {
-        "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-        "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss"
-      },
       {
         "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
         "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
+        "title": "More flights delayed after hundreds cancelled by air traffic control glitch",
         "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
-        "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss"
+        "title": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
+        "link": "https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
+        "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Yemen\u2019s Saudi-backed forces strike Houthis on western coast",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/yemens-saudi-backed-forces-strike-houthis-on-western-coast?traffic_source=rss"
+        "title": "Why Nepal is demanding climate justice and compensation after deadly floods",
+        "link": "https://www.aljazeera.com/news/2026/9/9/why-nepal-is-demanding-climate-justice-and-compensation-after-deadly-floods?traffic_source=rss"
       },
       {
-        "title": "\u2018Energiser\u2019 or \u2018circus\u2019: US voters weigh in on Trump\u2019s midterm convention",
-        "link": "https://www.aljazeera.com/news/2026/9/9/energiser-or-circus-us-voters-weigh-in-on-trumps-midterm-convention?traffic_source=rss"
+        "title": "Asian Games athletes forced to evacuate amid record rainfall in Japan",
+        "link": "https://www.aljazeera.com/sports/2026/9/9/asian-games-athletes-forced-to-evacuate-amid-record-rainfall-in-japan?traffic_source=rss"
       },
       {
-        "title": "Jordanian air defences intercept Iranian missile barrage",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/jordanian-air-defences-intercept-iranian-missile-barrage?traffic_source=rss"
+        "title": "As SDF disband in Syria, Kurds ponder how to secure their rights",
+        "link": "https://www.aljazeera.com/news/2026/9/9/as-sdf-disband-in-syria-kurds-ponder-how-to-secure-their-rights?traffic_source=rss"
       },
       {
-        "title": "Sharpeville massacre, 66 years on: Families still wait for justice",
-        "link": "https://www.aljazeera.com/news/2026/9/9/sharpeville-massacre-66-years-on-families-still-wait-for-justice?traffic_source=rss"
+        "title": "New Hampshire primary results: Key takeaways for US midterm elections",
+        "link": "https://www.aljazeera.com/news/2026/9/9/us-midterm-elections-key-takeaways-from-new-hampshire-primaries?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
+        "title": "F1's toughest street track ever? Why new Madring could cause Spanish GP chaos",
+        "link": "https://www.skysports.com/f1/news/12040/13583094/spanish-gp-what-to-expect-from-new-madring-track-in-madrid-with-carlos-sainz-predicting-safety-cars-and-red-flags"
+      },
+      {
+        "title": "Today on Sky Sports Racing: Loriko looks to continue winning run at Sedgefield",
+        "link": "https://www.skysports.com/racing/news/12040/13582883/today-on-sky-sports-racing-jumps-action-from-sedgefield-features-live-on-wednesday"
+      },
+      {
+        "title": "From honeymoon vision to the Super Bowl - can Seahawks win it all again?",
+        "link": "https://www.skysports.com/nfl/news/12040/13583048/seattle-seahawks-jaxon-smith-njigbas-nfl-warning-mike-macdonalds-honeymoon-vision-and-the-super-bowl-champions-quest-for-repeat"
+      },
+      {
         "title": "Papers: Blow for Man Utd as top target agrees new contract",
         "link": "https://www.skysports.com/football/news/12040/13583358/transfer-news-manchester-united-suffer-hammer-blow-after-top-target-lewis-hall-agrees-five-year-newcastle-deal-paper-talk"
-      },
-      {
-        "title": "Osaka's US Open fashion ensemble: Which outfit was your favourite?",
-        "link": "https://www.skysports.com/tennis/news/12040/13583246/us-open-naomi-osakas-fashion-ensemble-in-new-york-which-outfit-was-your-favourite"
-      },
-      {
-        "title": "Mbappe and Valverde on target as Real Madrid beat Inter Milan",
-        "link": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
-      },
-      {
-        "title": "Newcastle latest: Hall hails Jaissle for lifting 'negativity'",
-        "link": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       }
     ],
     "pitchfork": [],
@@ -171,20 +171,20 @@
     ],
     "variety": [
       {
-        "title": "Louis Messina, Taylor Swift\u2019s Tour Promoter, Urges Judge to Reject Live Nation/Ticketmaster Antitrust Settlement: \u2018I Could Go Out of Business Like Other Promoters Who Have Fallen Victim to Live Nation\u2019",
-        "link": "https://variety.com/2026/music/news/louis-messina-taylor-swift-promoter-live-nation-ticketmaster-1236855357/"
+        "title": "Football Is Back: Seven Key Storylines for the 2026 NFL Season",
+        "link": "https://variety.com/lists/nfl-2026-season-taylor-swift-travis-kelce-trump-joe-burrow-patrick-mahomes/"
       },
       {
-        "title": "John Mulaney Circling Lead Role in \u2018Get Smart\u2019 Reboot at Warner Bros.",
-        "link": "https://variety.com/2026/film/news/john-mulaney-get-smart-movie-reboot-warner-bros-1236855373/"
+        "title": "\u2018Babylon Berlin\u2019 Creatives Reflects on Final Season, 13-Year Journey, Past and Present Germany",
+        "link": "https://variety.com/2026/tv/global/babylon-berlin-final-season-tykwer-von-borries-ard-1236851585/"
       },
       {
-        "title": "Netflix Orders New Series Take On \u2018Lonesome Dove\u2019 From \u2018East of Eden\u2019 Showrunners Zoe Kazan and Jeb Stuart",
-        "link": "https://variety.com/2026/tv/news/netflix-lonesome-dove-orders-new-series-take-1236855339/"
+        "title": "\u2018The Burning Giants\u2019 Review: An Arcane, Multi-Pronged Mystery About Ethnic Cleansing in Thailand",
+        "link": "https://variety.com/2026/film/reviews/the-burning-giants-review-1236855475/"
       },
       {
-        "title": "Telluride Takeaways: From Julianne Moore and Paul Giamatti\u2019s \u2018Debut\u2019 to Nathan Fielder\u2019s Audacious Dare to the Doc Branch",
-        "link": "https://variety.com/2026/film/awards/telluride-takeaways-julianne-moore-nathan-fielder-oscars-1236855247/"
+        "title": "Stefano Knuchel Premieres Final Chapter in 20-Year Hugo Pratt Trilogy with \u2018Hugo in Venice\u2019\u00a0",
+        "link": "https://variety.com/2026/film/global/stefano-knuchel-trilogy-hugo-in-venice-1236854652/"
       }
     ],
     "hollywoodreporter": [
