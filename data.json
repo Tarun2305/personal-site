@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08 23:05 UTC",
+  "last_updated": "2026-09-09 02:29 UTC",
   "feeds": {
     "bbc": [
       {
@@ -15,26 +15,26 @@
         "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "RNLI boss says volunteers facing 'unacceptable' abuse",
-        "link": "https://www.bbc.co.uk/news/articles/c0j3912qe33o?at_medium=RSS&at_campaign=rss"
+        "title": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
+        "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Napoli vs Arsenal: Champions League \u2013 prediction, teams, lineups",
-        "link": "https://www.aljazeera.com/sports/2026/9/8/napoli-vs-arsenal-champions-league-prediction-teams-lineups?traffic_source=rss"
+        "title": "Yemen\u2019s Saudi-backed forces strike Houthis on western coast",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/yemens-saudi-backed-forces-strike-houthis-on-western-coast?traffic_source=rss"
       },
       {
-        "title": "Liverpool vs Atletico Madrid: Champions League \u2013 preview, teams, prediction",
-        "link": "https://www.aljazeera.com/sports/2026/9/8/liverpool-vs-atletico-madrid-champions-league-preview-teams?traffic_source=rss"
+        "title": "\u2018Energiser\u2019 or \u2018circus\u2019: US voters weigh in on Trump\u2019s midterm convention",
+        "link": "https://www.aljazeera.com/news/2026/9/9/energiser-or-circus-us-voters-weigh-in-on-trumps-midterm-convention?traffic_source=rss"
       },
       {
-        "title": "What we know about masked anti-migrant protesters in the UK",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/what-we-know-about-masked-anti-migrant-protesters-in-the-uk?traffic_source=rss"
+        "title": "Jordanian air defences intercept Iranian missile barrage",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/jordanian-air-defences-intercept-iranian-missile-barrage?traffic_source=rss"
       },
       {
-        "title": "Protesters, police clash in Albania over Trump-linked project",
-        "link": "https://www.aljazeera.com/news/2026/9/8/protesters-police-clash-in-albania-over-trump-linked-project?traffic_source=rss"
+        "title": "Sharpeville massacre, 66 years on: Families still wait for justice",
+        "link": "https://www.aljazeera.com/news/2026/9/9/sharpeville-massacre-66-years-on-families-still-wait-for-justice?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -133,7 +133,24 @@
       }
     ],
     "reverseshot": [],
-    "sensesofcinema": [],
+    "sensesofcinema": [
+      {
+        "title": "Rabid Dogs",
+        "link": "https://www.sensesofcinema.com/2026/cteq/rabid-dogs/"
+      },
+      {
+        "title": "Playful Provocation: Hypermediacy in Mario Bava\u2019s Danger: Diabolik",
+        "link": "https://www.sensesofcinema.com/2026/cteq/playful-provocation-hypermediacy-in-mario-bavas-danger-diabolik/"
+      },
+      {
+        "title": "Kill, Baby\u2026 Kill!",
+        "link": "https://www.sensesofcinema.com/2026/cteq/kill-baby-kill/"
+      },
+      {
+        "title": "The Faces of Mario Bava\u2019s Black Sabbath",
+        "link": "https://www.sensesofcinema.com/2026/cteq/the-faces-of-mario-bavas-black-sabbath/"
+      }
+    ],
     "indiewire": [
       {
         "title": "Summer Box Office Hit an All-Time High in 2026 \u2014 We\u2019re So Back, Right? And 4 Other Takeaways",
@@ -154,38 +171,38 @@
     ],
     "variety": [
       {
-        "title": "Bruce Davis, Longtime AMPAS Executive Director, Dies at 83",
-        "link": "https://variety.com/2026/film/news/bruce-davis-dead-ampas-oscars-1236855231/"
+        "title": "Louis Messina, Taylor Swift\u2019s Tour Promoter, Urges Judge to Reject Live Nation/Ticketmaster Antitrust Settlement: \u2018I Could Go Out of Business Like Other Promoters Who Have Fallen Victim to Live Nation\u2019",
+        "link": "https://variety.com/2026/music/news/louis-messina-taylor-swift-promoter-live-nation-ticketmaster-1236855357/"
       },
       {
-        "title": "British TV Sector Revenues Hit $5.1 Billion Last Year Driven by U.S. Streamers: It \u2018Underlines the Strength of the U.K. Production Market\u2019",
-        "link": "https://variety.com/2026/tv/global/british-tv-sector-revenues-streamers-1236854714/"
+        "title": "John Mulaney Circling Lead Role in \u2018Get Smart\u2019 Reboot at Warner Bros.",
+        "link": "https://variety.com/2026/film/news/john-mulaney-get-smart-movie-reboot-warner-bros-1236855373/"
       },
       {
-        "title": "Fired \u201960 Minutes\u2019 Managing Editor Says New CBS Bosses Wanted \u2018White House Talking Points in Our Reporting\u2019 and \u2018We Questioned Authority\u2019",
-        "link": "https://variety.com/2026/tv/news/fired-60-minutes-editor-slams-cbs-bosses-statement-1236855188/"
+        "title": "Netflix Orders New Series Take On \u2018Lonesome Dove\u2019 From \u2018East of Eden\u2019 Showrunners Zoe Kazan and Jeb Stuart",
+        "link": "https://variety.com/2026/tv/news/netflix-lonesome-dove-orders-new-series-take-1236855339/"
       },
       {
-        "title": "African American Film Critics Association Donates $25,000 to Black Film Hall of Fame \u2013 Film News in Brief",
-        "link": "https://variety.com/2026/film/news/film-news-in-brief-sept-8-2026-1236854730/"
+        "title": "Telluride Takeaways: From Julianne Moore and Paul Giamatti\u2019s \u2018Debut\u2019 to Nathan Fielder\u2019s Audacious Dare to the Doc Branch",
+        "link": "https://variety.com/2026/film/awards/telluride-takeaways-julianne-moore-nathan-fielder-oscars-1236855247/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Paramount Argues That the States Post a $1.88 Billion Bond to Cover Warner Bros. Bills",
-        "link": "https://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-bills-1236694694/"
+        "title": "\u2018Lonesome Dove\u2019 Series From \u2018East of Eden\u2019 Showrunners a Go at Netflix",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/lonesome-dove-series-remake-netflix-1236694926/"
       },
       {
-        "title": "Ex-\u201860 Minutes\u2019 Managing Editor Goes Public After Firing, Tells CBS Staffers to \u201cHold the Line\u201d",
-        "link": "https://www.hollywoodreporter.com/business/business-news/ex-60-minutes-managing-editor-program-destruction-1236694635/"
+        "title": "Nicolas Cage\u2019s Malibu Mansion Damaged by Massive Sinkhole Amid Coastal Erosion",
+        "link": "https://www.hollywoodreporter.com/news/local-news/nicolas-cage-malibu-home-damaged-sinkhole-coastal-erosion-1236694892/"
       },
       {
-        "title": "How to Stream \u2018The Drop: A Snowfall Saga,\u2019 FX\u2019s 2026 \u2018Snowfall\u2019 Spinoff",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/watch-the-drop-a-snowfall-saga-fx-spinoff-hulu-streaming-1236694579/"
+        "title": "John Mulaney in Talks to Star in \u2018Get Smart\u2019 Reboot for Warner Bros.",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/get-smart-reboot-john-mulaney-warner-bros-1236694876/"
       },
       {
-        "title": "Andrew Garfield Explains the Robin Hood Energy in \u2018The Uprising\u2019 \u2014 and Why Marketing Noise Doesn\u2019t Faze Him",
-        "link": "https://www.hollywoodreporter.com/movies/movie-features/andrew-garfield-explains-robin-hood-energy-in-the-uprising-1236694582/"
+        "title": "\u2018Last Seen\u2019 Review: Apple TV\u2019s Aussie Kidnapping Drama Is a Solid Showcase for Star Patrick Brammall, Despite Shortcomings",
+        "link": "https://www.hollywoodreporter.com/tv/tv-reviews/last-seen-review-patrick-brammall-apple-tv-1236694504/"
       }
     ],
     "larb": [],
