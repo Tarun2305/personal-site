@@ -1,64 +1,68 @@
 {
-  "last_updated": "2026-09-09 07:44 UTC",
+  "last_updated": "2026-09-09 13:17 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
-        "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss"
+        "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
+        "link": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "More flights delayed after hundreds cancelled by air traffic control glitch",
-        "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss"
+        "title": "Actor Noel Clarke charged with sexual offences",
+        "link": "https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
         "link": "https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
-        "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss"
+        "title": "Watch: Sinkhole at Nicolas Cage's Malibu house swallows driveway",
+        "link": "https://www.bbc.co.uk/news/videos/czezr8g1n3eo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Why Nepal is demanding climate justice and compensation after deadly floods",
-        "link": "https://www.aljazeera.com/news/2026/9/9/why-nepal-is-demanding-climate-justice-and-compensation-after-deadly-floods?traffic_source=rss"
+        "title": "Journalists missing after Indonesian volcanic eruption",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/journalists-missing-after-indonesian-volcanic-eruption?traffic_source=rss"
       },
       {
-        "title": "Asian Games athletes forced to evacuate amid record rainfall in Japan",
-        "link": "https://www.aljazeera.com/sports/2026/9/9/asian-games-athletes-forced-to-evacuate-amid-record-rainfall-in-japan?traffic_source=rss"
+        "title": "AI researcher quits Anthropic saying AI race \u2018could kill us all\u2019",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/ai-researcher-quits-anthropic-saying-ai-race-could-kill-us?traffic_source=rss"
       },
       {
-        "title": "As SDF disband in Syria, Kurds ponder how to secure their rights",
-        "link": "https://www.aljazeera.com/news/2026/9/9/as-sdf-disband-in-syria-kurds-ponder-how-to-secure-their-rights?traffic_source=rss"
+        "title": "Video: Why are Republicans hosting a midterm convention?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-why-are-republicans-hosting-a-midterm-convention?traffic_source=rss"
       },
       {
-        "title": "New Hampshire primary results: Key takeaways for US midterm elections",
-        "link": "https://www.aljazeera.com/news/2026/9/9/us-midterm-elections-key-takeaways-from-new-hampshire-primaries?traffic_source=rss"
+        "title": "Brent crude surpasses $100 a barrel as Iran, US escalate attacks",
+        "link": "https://www.aljazeera.com/news/2026/9/9/global-stocks-slide-as-brent-crude-surpasses-100-a-barrel?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "F1's toughest street track ever? Why new Madring could cause Spanish GP chaos",
-        "link": "https://www.skysports.com/f1/news/12040/13583094/spanish-gp-what-to-expect-from-new-madring-track-in-madrid-with-carlos-sainz-predicting-safety-cars-and-red-flags"
+        "title": "Merson: Arsenal didn't make X factor signing to win Champions League",
+        "link": "https://www.skysports.com/football/news/12040/13583541/arsenal-didnt-make-x-factor-signing-like-vinicius-junior-or-julian-alvarez-to-win-champions-league-says-paul-merson"
       },
       {
-        "title": "Today on Sky Sports Racing: Loriko looks to continue winning run at Sedgefield",
-        "link": "https://www.skysports.com/racing/news/12040/13582883/today-on-sky-sports-racing-jumps-action-from-sedgefield-features-live-on-wednesday"
+        "title": "Chandhok: Not driving for Ferrari has taken pressure off Antonelli",
+        "link": "https://www.skysports.com/f1/news/12040/13583240/kimi-antonelli-driving-for-mercedes-rather-than-ferrari-has-taken-pressure-off-italian-says-karun-chandhok"
       },
       {
-        "title": "From honeymoon vision to the Super Bowl - can Seahawks win it all again?",
-        "link": "https://www.skysports.com/nfl/news/12040/13583048/seattle-seahawks-jaxon-smith-njigbas-nfl-warning-mike-macdonalds-honeymoon-vision-and-the-super-bowl-champions-quest-for-repeat"
+        "title": "Solheim Cup LIVE! Hull ready to handle home 'pressure' for Team Europe",
+        "link": "https://www.skysports.com/golf/live-blog/12040/13582746/solheim-cup-live-latest-news-build-up-highlights-as-anna-nordqvists-team-europe-host-team-usa-at-bernardus-golf"
       },
       {
-        "title": "Papers: Blow for Man Utd as top target agrees new contract",
-        "link": "https://www.skysports.com/football/news/12040/13583358/transfer-news-manchester-united-suffer-hammer-blow-after-top-target-lewis-hall-agrees-five-year-newcastle-deal-paper-talk"
+        "title": "Ipswich latest: Maguire goal backed by KMI Panel despite 'deliberate' handball",
+        "link": "https://www.skysports.com/football/live-blog/12040/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "Walt Dickerson :: To My Queen",
+        "link": "https://aquariumdrunkard.com/2026/09/09/walt-dickerson-to-my-queen/"
+      },
       {
         "title": "Way Dynamic :: Massive Shoe",
         "link": "https://aquariumdrunkard.com/2026/09/08/way-dynamic-massive-shoe/"
@@ -70,15 +74,15 @@
       {
         "title": "Christer Bothen/Oren Ambarchi/Johan Berthling/Andreas Werliin :: Serpentine",
         "link": "https://aquariumdrunkard.com/2026/09/07/christer-bothen-oren-ambarchi-johan-berthling-andreas-werliin-serpentine/"
-      },
-      {
-        "title": "R\u00e3o Kyao :: Malpertuis",
-        "link": "https://aquariumdrunkard.com/2026/09/04/rao-kyao-malpertuis/"
       }
     ],
     "bfi": [],
     "criterion": [],
     "rogerebert": [
+      {
+        "title": "TIFF 2026: 20 World Premieres We Can\u2019t Wait to See This Year",
+        "link": "https://www.rogerebert.com/festivals/tiff-toronto-international-film-festival-2026-preview"
+      },
       {
         "title": "Telluride 2026: Alpha Gang, The Liberation, The Idiots",
         "link": "https://www.rogerebert.com/festivals/telluride-2026-alpha-gang-the-liberation-the-idiots"
@@ -90,10 +94,6 @@
       {
         "title": "Sixth Season of \u201cSlow Horses\u201d Stands Out in Crowded TV Season",
         "link": "https://www.rogerebert.com/streaming/sixth-season-of-slow-horses-stands-out-in-crowded-tv-season"
-      },
-      {
-        "title": "Enslaved Spirits: Maya Annik Bedward on \u201cBlack Zombie\u201d",
-        "link": "https://www.rogerebert.com/interviews/black-zombie-maya-annik-bedward-interview"
       }
     ],
     "filmcomment": [
@@ -116,6 +116,10 @@
     ],
     "mubi": [
       {
+        "title": "Rushes | Remembering Dolly Parton, A24 Teases Nathan Fielder's Elizabeth Holmes Doc, the 100 Most-Screened Films in NYC",
+        "link": "https://mubi.com/en/notebook/posts/rushes-remembering-dolly-parton-a24-teases-nathan-fielder-s-elizabeth-holmes-doc-the-100-most-screened-films-in-nyc"
+      },
+      {
         "title": "It Was Once Fire: A Locarno Critics Academy Correspondence",
         "link": "https://mubi.com/en/notebook/posts/it-was-once-fire-a-locarno-critics-academy-correspondence"
       },
@@ -126,10 +130,6 @@
       {
         "title": "The Armchair Answer to the Troubles",
         "link": "https://mubi.com/en/notebook/posts/the-armchair-answer-to-the-troubles"
-      },
-      {
-        "title": "Inherit the Wind: Kiyoshi Kurosawa\u2019s \u201cThe Samurai and the Prisoner\u201d",
-        "link": "https://mubi.com/en/notebook/posts/inherit-the-wind-kiyoshi-kurosawa-s-the-samurai-and-the-prisoner"
       }
     ],
     "reverseshot": [],
@@ -153,60 +153,64 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018Union Town\u2019 Review: Barbara Kopple Returns to Her Labor Roots by Unevenly Covering the Plight of New York Delivery Workers",
+        "link": "https://www.indiewire.com/criticism/movies/union-town-review-1235215799/"
+      },
+      {
+        "title": "\u2018The Uprising\u2019 Review: Paul Greengrass Turns the Peasants\u2019 Revolt of 1381 Into an Unapologetic Work of 21st Century Populism",
+        "link": "https://www.indiewire.com/criticism/movies/the-uprising-review-1235214967/"
+      },
+      {
+        "title": "\u2018Joie de Vivre\u2019 Review: Luca Guadagnino\u2019s Obsessive Bertolucci Doc Is a 7-Hour Cinema Paradiso Even More Fascinating for What It Leaves Out",
+        "link": "https://www.indiewire.com/criticism/movies/luca-guadagnino-bertolucci-documentary-joie-de-vivre-review-1235215442/"
+      },
+      {
         "title": "Summer Box Office Hit an All-Time High in 2026 \u2014 We\u2019re So Back, Right? And 4 Other Takeaways",
         "link": "https://www.indiewire.com/news/box-office/summer-box-office-all-time-high-2026-takeaways-1235215694/"
-      },
-      {
-        "title": "\u2018Company\u2019 Review: Casey Affleck\u2019s Nesting Doll Narrative Is Pretty but Directionless",
-        "link": "https://www.indiewire.com/criticism/movies/company-movie-review-casey-affleck-1235215574/"
-      },
-      {
-        "title": "As \u2018Christine\u2019 Turns 10, Rebecca Hall and Its Filmmakers Fear a Series of Corporate Bankruptcies Could Make the Film Disappear",
-        "link": "https://www.indiewire.com/news/business/christine-10th-anniversary-rebecca-hall-fights-to-preserve-1235215647/"
-      },
-      {
-        "title": "Telluride Boosts Oscar Chances, from \u2018Wild Horse Nine\u2019 to \u2018La Bola Negra,\u2019 but Is A24\u2019s Controversial Elizabeth Holmes Doc a Contender Too?",
-        "link": "https://www.indiewire.com/awards/predictions/telluride-oscar-analysis-john-malkovich-a24-elizabeth-holmes-doc-1235215558/"
       }
     ],
     "variety": [
       {
-        "title": "Football Is Back: Seven Key Storylines for the 2026 NFL Season",
-        "link": "https://variety.com/lists/nfl-2026-season-taylor-swift-travis-kelce-trump-joe-burrow-patrick-mahomes/"
+        "title": "Amazon\u2019s Prime Video Is Using AI to Lip-Sync Actors\u2019 Mouths in Dubbed Titles, Starting With German Series \u2018Maxton Hall\u2019",
+        "link": "https://variety.com/2026/tv/news/prime-video-ai-sync-actors-mouths-dubbed-maxton-hall-1236855286/"
       },
       {
-        "title": "\u2018Babylon Berlin\u2019 Creatives Reflects on Final Season, 13-Year Journey, Past and Present Germany",
-        "link": "https://variety.com/2026/tv/global/babylon-berlin-final-season-tykwer-von-borries-ard-1236851585/"
+        "title": "\u2018The Uprising\u2019 Review: Andrew Garfield and Paul Greengrass Go Medieval on the Peasants\u2019 Revolt of 1381, With Uneven Results",
+        "link": "https://variety.com/2026/film/reviews/the-uprising-review-andrew-garfield-1236855448/"
       },
       {
-        "title": "\u2018The Burning Giants\u2019 Review: An Arcane, Multi-Pronged Mystery About Ethnic Cleansing in Thailand",
-        "link": "https://variety.com/2026/film/reviews/the-burning-giants-review-1236855475/"
+        "title": "The \u2018Sterling Point\u2019 Muskoka Cottage Is Officially Available to Rent on Airbnb (EXCLUSIVE)",
+        "link": "https://variety.com/2026/shopping/news/sterling-point-muskoka-cottage-airbnb-book-rent-online-1236855081/"
       },
       {
-        "title": "Stefano Knuchel Premieres Final Chapter in 20-Year Hugo Pratt Trilogy with \u2018Hugo in Venice\u2019\u00a0",
-        "link": "https://variety.com/2026/film/global/stefano-knuchel-trilogy-hugo-in-venice-1236854652/"
+        "title": "\u2018Naruto\u2019 Sets New York Comic Con Panel With Japanese Voice Cast, Studio Pierrot Producer (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/news/naruto-new-york-comic-con-1236855451/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018Lonesome Dove\u2019 Series From \u2018East of Eden\u2019 Showrunners a Go at Netflix",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/lonesome-dove-series-remake-netflix-1236694926/"
+        "title": "Chris Hansen Calls \u2018Primetime\u2019 an \u201cInsult,\u201d Has No Regrets About \u2018Predator\u2019 Sting That Ended in Suicide (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/movies/movie-features/chris-hansen-primetime-predator-suicide-pattinson-a24-1236695028/"
       },
       {
-        "title": "Nicolas Cage\u2019s Malibu Mansion Damaged by Massive Sinkhole Amid Coastal Erosion",
-        "link": "https://www.hollywoodreporter.com/news/local-news/nicolas-cage-malibu-home-damaged-sinkhole-coastal-erosion-1236694892/"
+        "title": "Why and How \u2018Manhunt\u2019 Depicts Hell as a \u201cColorful Candy World\u201d: A Chat With DOP Jonathan Glendon",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/manhunt-film-dop-interview-hell-candy-world-jonathan-glendon-1236693053/"
       },
       {
-        "title": "John Mulaney in Talks to Star in \u2018Get Smart\u2019 Reboot for Warner Bros.",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/get-smart-reboot-john-mulaney-warner-bros-1236694876/"
+        "title": "Mahershala Ali and 76ers Star Jaylen Brown on Rejection, Rebirth and Refusing to Be Boxed In",
+        "link": "https://www.hollywoodreporter.com/business/business-news/mahershala-ali-jaylen-brown-interview-game-recognize-game-1236670264/"
       },
       {
-        "title": "\u2018Last Seen\u2019 Review: Apple TV\u2019s Aussie Kidnapping Drama Is a Solid Showcase for Star Patrick Brammall, Despite Shortcomings",
-        "link": "https://www.hollywoodreporter.com/tv/tv-reviews/last-seen-review-patrick-brammall-apple-tv-1236694504/"
+        "title": "\u2018The Uprising\u2019 Review: Andrew Garfield in Paul Greengrass\u2019 Intense but Monotonous Medieval Actioner",
+        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-uprising-review-andrew-garfield-paul-greengrass-1236694209/"
       }
     ],
     "larb": [],
     "aeon": [
+      {
+        "title": "Making revisions",
+        "link": "https://aeon.co/videos/meet-the-aboriginal-australian-artists-painting-over-the-colonial-past"
+      },
       {
         "title": "Our eloquent hands",
         "link": "https://aeon.co/essays/what-palmistry-and-medicine-have-always-had-in-common"
@@ -218,13 +222,13 @@
       {
         "title": "Continental divide",
         "link": "https://aeon.co/essays/why-the-pan-american-highway-only-half-exists"
-      },
-      {
-        "title": "Upend the trickle-down",
-        "link": "https://aeon.co/essays/why-western-democracy-is-ailing-and-how-to-fix-it"
       }
     ],
     "psyche": [
+      {
+        "title": "How to be a word detective",
+        "link": "https://psyche.co/guides/how-to-be-a-word-detective"
+      },
       {
         "title": "Town square",
         "link": "https://psyche.co/videos/inside-the-alzheimers-care-centre-where-its-always-the-1950s"
@@ -236,10 +240,6 @@
       {
         "title": "Is it morally wrong to not take care of yourself?",
         "link": "https://psyche.co/ideas/is-it-morally-wrong-to-not-take-care-of-yourself"
-      },
-      {
-        "title": "Absence of presence and presence of absence",
-        "link": "https://psyche.co/notes-to-self/the-absence-of-presence-and-the-presence-of-absence"
       }
     ],
     "publicdomainreview": [
@@ -280,20 +280,20 @@
     ],
     "nautilus": [
       {
+        "title": "Why Snake Embryos Form in Spirals",
+        "link": "https://nautil.us/why-snake-embryos-form-in-spirals-1284889/"
+      },
+      {
+        "title": "The Hidden Power Struggle Between Lions and Hyenas",
+        "link": "https://nautil.us/the-hidden-power-struggle-between-lions-and-hyenas-1284880/"
+      },
+      {
         "title": "How Fast You Walk May Determine How Long You Live",
         "link": "https://nautil.us/how-fast-you-walk-may-determine-how-long-you-live-1284877/"
       },
       {
         "title": "NASA\u2019s New Experimental Jet Promises Supersonic Flight Without the Sonic Booms",
         "link": "https://nautil.us/nasas-new-experimental-jet-promises-supersonic-flight-without-the-sonic-booms-1284883/"
-      },
-      {
-        "title": "This New \u201cDevil Flower\u201d Species Doesn\u2019t Photosynthesize",
-        "link": "https://nautil.us/this-new-devil-flower-species-doesnt-photosynthesize-1284872/"
-      },
-      {
-        "title": "Male Sex-Reversed Frogs Hold Their Own in Fertility Competitions",
-        "link": "https://nautil.us/male-sex-reversed-frogs-hold-their-own-in-fertility-competitions-1284867/"
       }
     ],
     "worksinprogress": [],
