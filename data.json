@@ -1,7 +1,11 @@
 {
-  "last_updated": "2026-09-10 07:44 UTC",
+  "last_updated": "2026-09-10 13:15 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "England's mayors to get power to impose tourist tax",
+        "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Trump says every adult American would get $5,000 if Republicans win midterm elections",
         "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss"
@@ -11,54 +15,58 @@
         "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "England's mayors to be given power to introduce tourist tax",
-        "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "RNLI reviews security after volunteers targeted online ",
-        "link": "https://www.bbc.co.uk/news/articles/cn746l402vjo?at_medium=RSS&at_campaign=rss"
+        "title": "Why some experts increasingly fear AI will take over",
+        "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Japan baseball great and atomic bomb survivor Isao Harimoto dies aged 86",
-        "link": "https://www.aljazeera.com/sports/2026/9/10/japan-baseball-great-and-atomic-bomb-survivor-isao-harimoto-dies-aged-86?traffic_source=rss"
+        "title": "The Trump loyalty test: Will his supporters ever disagree with him?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/the-trump-loyalty-test-will-his-supporters-ever-disagree-with-him?traffic_source=rss"
       },
       {
-        "title": "Europe\u2019s far right: Putin\u2019s best friend?",
-        "link": "https://www.aljazeera.com/opinions/2026/9/10/europes-far-right-putins-best-friend?traffic_source=rss"
+        "title": "Hundreds of thousands lack adequate shelter at Sudan\u2019s Tawila camp",
+        "link": "https://www.aljazeera.com/features/2026/9/10/hundreds-of-thousands-lack-adequate-shelter-at-sudans-tawila-camp?traffic_source=rss"
       },
       {
-        "title": "Zverev defeats Van de Zandschulp in straight sets to enter US Open semis",
-        "link": "https://www.aljazeera.com/sports/2026/9/10/zverev-defeats-van-de-zandschulp-in-straight-sets-to-enter-us-open-semis?traffic_source=rss"
+        "title": "At least 25 dead after cargo ship catches fire in China",
+        "link": "https://www.aljazeera.com/news/2026/9/10/at-least-25-dead-after-cargo-ship-catches-fire-in-china?traffic_source=rss"
       },
       {
-        "title": "Anthropic discloses 4th AI hacking incident as researcher quits over safety",
-        "link": "https://www.aljazeera.com/news/2026/9/10/anthropic-discloses-fourth-ai-breach-as-researcher-quits-over-safety?traffic_source=rss"
+        "title": "Algeria says cutting diplomatic ties with UAE",
+        "link": "https://www.aljazeera.com/news/2026/9/10/algeria-says-cutting-diplomatic-ties-with-uae?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Park Hill and May Hill clashes feature as Leger meeting begins at Doncaster",
-        "link": "https://www.skysports.com/racing/news/12040/13583212/today-on-sky-sports-racing-leger-meeting-at-doncaster-kicks-off-with-park-hill-and-may-hill-clashes"
+        "title": "Red Roses boosted for Australia clash by returns from injury",
+        "link": "https://www.skysports.com/rugby-union/news/12040/13583904/red-roses-vs-australia-england-name-team-for-opening-wxv-global-series-home-match-with-tatyana-heard-natasha-hunt-back-from-injury"
       },
       {
-        "title": "Zverev's US Open rocky road turns into smooth sailing to the semi-finals",
-        "link": "https://www.skysports.com/tennis/news/12040/13583806/us-open-alexander-zverev-passes-botic-van-de-8203zandschulp-test-to-set-up-semi-final-date-with-karen-khachanov"
+        "title": "Flanders Darts Trophy: Draw and schedule with Greaves, MVG, Van Veen in action",
+        "link": "https://www.skysports.com/darts/news/12040/13583943/flanders-darts-trophy-latest-draw-schedule-results-as-michael-van-gerwen-gian-van-veen-beau-greaves-feature-in-antwerp"
       },
       {
-        "title": "Welcome to the NFL! Rookie Eli Raridon scores season opening TD  ",
-        "link": "https://www.skysports.com/watch/video/13583848/eli-raridon-scores-the-first-touchdown-of-the-nfl-season"
+        "title": "Chelsea latest: Palmer says attackers enjoying life under Alonso",
+        "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       {
-        "title": "Poch: I hope to return to Premier League in future",
-        "link": "https://www.skysports.com/football/news/12040/13583564/mauricio-pochettino-ex-tottenham-and-chelsea-boss-hopes-to-return-to-premier-league-in-future"
+        "title": "St Leger: Big race runners guide",
+        "link": "https://www.skysports.com/racing/news/12040/13583923/st-leger-mike-cattermoles-big-race-runners-guide"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "Secular Music Group :: Volume 3",
+        "link": "https://aquariumdrunkard.com/2026/09/10/secular-music-group-volume-3/"
+      },
+      {
+        "title": "Diles Que No Me Maten :: Escrito en Agua",
+        "link": "https://aquariumdrunkard.com/2026/09/10/diles-que-no-me-maten-escrito-en-agua/"
+      },
       {
         "title": "The Aquarium Drunkard Show: SIRIUS/XMU (7pm PDT, Channel 35)",
         "link": "https://aquariumdrunkard.com/2026/09/09/the-aquarium-drunkard-show-sirius-xmu-7pm-pdt-channel-35-183/"
@@ -66,14 +74,6 @@
       {
         "title": "Transmissions :: The Bird Calls",
         "link": "https://aquariumdrunkard.com/2026/09/09/transmissions-the-bird-calls/"
-      },
-      {
-        "title": "Walt Dickerson :: To My Queen",
-        "link": "https://aquariumdrunkard.com/2026/09/09/walt-dickerson-to-my-queen/"
-      },
-      {
-        "title": "Way Dynamic :: Massive Shoe",
-        "link": "https://aquariumdrunkard.com/2026/09/08/way-dynamic-massive-shoe/"
       }
     ],
     "bfi": [],
@@ -116,6 +116,10 @@
     ],
     "mubi": [
       {
+        "title": "Cut and Spliced: A Locarno Critics Academy Correspondence",
+        "link": "https://mubi.com/en/notebook/posts/cut-and-spliced-a-locarno-critics-academy-correspondence"
+      },
+      {
         "title": "Rushes | Remembering Dolly Parton, A24 Teases Nathan Fielder's Elizabeth Holmes Doc, the 100 Most-Screened Films in NYC",
         "link": "https://mubi.com/en/notebook/posts/rushes-remembering-dolly-parton-a24-teases-nathan-fielder-s-elizabeth-holmes-doc-the-100-most-screened-films-in-nyc"
       },
@@ -126,10 +130,6 @@
       {
         "title": "The Final Temenos",
         "link": "https://mubi.com/en/notebook/posts/the-final-temenos"
-      },
-      {
-        "title": "The Armchair Answer to the Troubles",
-        "link": "https://mubi.com/en/notebook/posts/the-armchair-answer-to-the-troubles"
       }
     ],
     "reverseshot": [],
@@ -153,60 +153,68 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018Everytime\u2019 Review: Sandra Wollner\u2019s Infinitely Beguiling Portrait of Grief in the Digital Age Is One of the Most Haunting Films of the Decade",
+        "link": "https://www.indiewire.com/criticism/movies/everytime-movie-review-sandra-wollner-1235215903/"
+      },
+      {
+        "title": "\u2018Fatherland\u2019 Trailer: Sandra H\u00fcller Plays Thomas Mann\u2019s Daughter in the Latest Black-and-White Drama from Pawel Pawlikowski",
+        "link": "https://www.indiewire.com/news/trailers/fatherland-trailer-pawel-pawlikowski-1235215915/"
+      },
+      {
+        "title": "All Kids Out of the Pool: An Oral History of the Adult Swim Launch",
+        "link": "https://www.indiewire.com/features/interviews/adult-swim-25th-anniversary-oral-history-1235215388/"
+      },
+      {
         "title": "The Traditional Film Industry\u2019s Collapse Is Right on Schedule \u2014 Opinion",
         "link": "https://www.indiewire.com/features/commentary/film-industry-collapse-on-schedule-a-producers-path-1235215989/"
-      },
-      {
-        "title": "\u2018Avengers: Doomsday\u2019 Has Already Made $50 Million in Pre-Sales \u2014 And People Are Buying Disney\u2019s Infinity Vision Gambit",
-        "link": "https://www.indiewire.com/news/box-office/avengers-doomsday-50-million-pre-sales-infinity-vision-1235215933/"
-      },
-      {
-        "title": "After \u2018Bunker\u2019 Scores a Huge Venice Ovation, Will the Film and Pen\u00e9lope Cruz and Javier Bardem Be Major Oscar Contenders?",
-        "link": "https://www.indiewire.com/news/festivals/bunker-penelope-cruz-javier-bardem-venice-ovation-oscar-chances-1235215931/"
-      },
-      {
-        "title": "\u2018The Paper\u2019 Review: Season 2 Can\u2019t Deliver Its One, Big, Diabolical Idea",
-        "link": "https://www.indiewire.com/criticism/shows/the-paper-season-2-review-the-office-spinoff-bad-1235213892/"
       }
     ],
     "variety": [
       {
-        "title": "Telekom Srbija\u2019s Content Head on Blueprint for Turning Serbian Production Powerhouse Into Global Player",
-        "link": "https://variety.com/2026/tv/global/telekom-srbija-content-head-serbian-production-powerhouse-1236851472/"
+        "title": "\u2018Why Did I Get Married Again?\u2019 Review: Taraji P. Henson Joins the Gang for a Tyler Perry Sequel That Sells the Next Generation Short",
+        "link": "https://variety.com/2026/film/reviews/why-did-i-get-married-again-review-taraji-p-henson-1236857141/"
       },
       {
-        "title": "Serbian Sci-Fi Epic \u2018Sanctuary,\u2019 Starring \u2018The Handmaid\u2019s Tale\u2019s\u2019 Nina Kiri, Acquired for U.S. Distribution (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/global/serbia-sci-fi-sanctuary-nina-kiri-us-distribution-1236851443/"
+        "title": "Jack Quaid Jokes He\u2019s a Supermodel After Starring in New Bonobos Campaign: \u2018I Guess I Can Add That to My Resume\u2019",
+        "link": "https://variety.com/2026/film/columns/jack-quaid-menswear-bonobos-campaign-1236854864/"
       },
       {
-        "title": "\u2018DJ Ahmet\u2019 Leads Adriatic Awards Contest, Followed by \u2018Yugo Florida\u2019",
-        "link": "https://variety.com/2026/film/global/dj-ahmet-yugo-florida-adriatic-awards-1236855711/"
+        "title": "\u2018& Juliet\u2019 to Close on Broadway After Four Years",
+        "link": "https://variety.com/2026/legit/news/and-juliet-broadway-closing-date-1236856957/"
       },
       {
-        "title": "Netflix\u2019s YA Rowing Drama \u2018Crew Girl\u2019 Capsizes and Sinks: TV Review",
-        "link": "https://variety.com/2026/tv/reviews/crew-girl-review-netflix-1236848333/"
+        "title": "James Marcus Haney\u2019s \u2018Black Sunflowers\u2019 Boarded by Charades and CAA Media Finance Ahead of TIFF Docs Premiere (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/global/james-marcus-haneys-black-sunflowers-charades-caa-media-finance-1236857049/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018Crew Girl\u2019 Review: Netflix\u2019s Latest YA Sports Drama Checks All the Expected Boxes, but Not Much More",
-        "link": "https://www.hollywoodreporter.com/tv/tv-reviews/crew-girl-review-netflix-1236696105/"
+        "title": "AI Is Deflating Hollywood\u2019s Microdramas Scene",
+        "link": "https://www.hollywoodreporter.com/business/business-news/ai-hollywood-microdramas-1236694483/"
       },
       {
-        "title": "Mercedes Ron Discusses Prime Video\u2019s New YA Romantic Thriller \u2018Drawn Together\u2019 and What\u2019s Next for Her",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/drawn-together-prime-film-mercedes-ron-interview-author-1236693241/"
+        "title": "Monica Dolan Shares How She Prepared to Portray the Woman Who Uncovered an Irish Mass Grave Scandal in \u2018The Lost Children of Tuam\u2019: TIFF",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/monica-dolan-sthe-lost-children-of-tuam-interview-toronto-1236693685/"
       },
       {
-        "title": "Inside Venice\u2019s Unlikely Double Feature: A $300 Million Hitmaker and a New Generation of Smart Devices",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/honor-robot-phone-venice-dear-you-1236693121/"
+        "title": "Musical \u2018& Juliet\u2019 Will End Broadway Run In January",
+        "link": "https://www.hollywoodreporter.com/lifestyle/arts/and-juliet-closing-january-2027-1236696341/"
       },
       {
-        "title": "Carole Radziwill Says Carolyn Bessette Kennedy\u00a0Would\u2019ve Loved \u2018Real Housewives of New York City\u2019: \u201cShe Had a Great Sense of Humor\u201d",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/carole-radziwill-carolyn-bessette-kennedy-loved-rhony-1236696123/"
+        "title": "Belmont Cameli and NHL Phenom Macklin Celebrini Talk \u2018Off Campus,\u2019 Olympic Heartbreak and Handling the Hype",
+        "link": "https://www.hollywoodreporter.com/business/business-news/off-campus-belmont-cameli-nhl-macklin-celebrini-interview-1236678553/"
       }
     ],
     "larb": [],
     "aeon": [
+      {
+        "title": "The Chinese room",
+        "link": "https://aeon.co/videos/could-there-ever-be-a-viable-test-for-artificial-consciousness"
+      },
+      {
+        "title": "Medieval mental health",
+        "link": "https://aeon.co/essays/the-curio-cabinet-of-medieval-mental-health"
+      },
       {
         "title": "Making revisions",
         "link": "https://aeon.co/videos/meet-the-aboriginal-australian-artists-painting-over-the-colonial-past"
@@ -214,17 +222,17 @@
       {
         "title": "Our eloquent hands",
         "link": "https://aeon.co/essays/what-palmistry-and-medicine-have-always-had-in-common"
-      },
-      {
-        "title": "The planet is\u2026 up to something",
-        "link": "https://aeon.co/videos/is-this-artemis-ii-timelapse-the-pale-blue-dot-for-our-times"
-      },
-      {
-        "title": "Continental divide",
-        "link": "https://aeon.co/essays/why-the-pan-american-highway-only-half-exists"
       }
     ],
     "psyche": [
+      {
+        "title": "The longest walk",
+        "link": "https://psyche.co/videos/for-a-gay-catholic-priest-coming-out-was-its-own-leap-of-faith"
+      },
+      {
+        "title": "Impatience is an emotion, not a trait",
+        "link": "https://psyche.co/notes-to-self/why-it-helps-to-see-impatience-as-an-emotion-not-a-trait"
+      },
       {
         "title": "How to be a word detective",
         "link": "https://psyche.co/guides/how-to-be-a-word-detective"
@@ -232,14 +240,6 @@
       {
         "title": "Town square",
         "link": "https://psyche.co/videos/inside-the-alzheimers-care-centre-where-its-always-the-1950s"
-      },
-      {
-        "title": "Lessons from Wyatt Earp country",
-        "link": "https://psyche.co/turning-points/my-father-absent-a-farmer-showed-me-what-it-was-to-be-a-man"
-      },
-      {
-        "title": "Is it morally wrong to not take care of yourself?",
-        "link": "https://psyche.co/ideas/is-it-morally-wrong-to-not-take-care-of-yourself"
       }
     ],
     "publicdomainreview": [
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "\u201cTwin Spirit\u201d Galaxies Are on a Collision Course",
+        "link": "https://nautil.us/twin-spirit-galaxies-are-on-a-collision-course-1284904/"
+      },
+      {
         "title": "Could You Survive the Oregon Trail?",
         "link": "https://nautil.us/could-you-survive-the-oregon-trail-1284907/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "Does Consciousness Require a Body?",
         "link": "https://nautil.us/does-consciousness-require-a-body-1284886/"
-      },
-      {
-        "title": "An Astrophysicist\u2019s Favorite Books on Cosmology",
-        "link": "https://nautil.us/an-astrophysicists-favorite-books-on-cosmology-1284896/"
       }
     ],
     "worksinprogress": [],
