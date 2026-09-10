@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-09-09 22:51 UTC",
+  "last_updated": "2026-09-10 02:30 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Tourist tax plans for England set to be outlined",
+        "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran war will not end until after November US elections, says Trump",
+        "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Police launch criminal investigation into Reform UK donations",
         "link": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss"
@@ -9,36 +17,36 @@
       {
         "title": "Air traffic failure was avoidable, says transport secretary",
         "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-        "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
-        "link": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Gauff beats Andreeva to reach US Open semifinals in comeback win",
-        "link": "https://www.aljazeera.com/sports/2026/9/9/gauff-beats-andreeva-to-reach-us-open-semifinals-in-comeback-win?traffic_source=rss"
+        "title": "Pro-Israel Democrat John Fetterman makes video appearance at GOP convention",
+        "link": "https://www.aljazeera.com/news/2026/9/10/pro-israel-democrat-john-fetterman-makes-video-appearance-at-gop-convention?traffic_source=rss"
       },
       {
-        "title": "\u2018Everyone\u2019s had their holidays ruined\u2019: outrage after UK airport chaos",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/everyones-had-their-holidays-ruined-outrage-after-uk-airport-chaos?traffic_source=rss"
+        "title": "Trump gave aide Natalie Harp a $45,000 holiday cash gift, disclosure shows",
+        "link": "https://www.aljazeera.com/news/2026/9/10/trump-gave-aide-natalie-harp-a-45000-holiday-cash-gift-disclosure-shows?traffic_source=rss"
       },
       {
-        "title": "US court denies Tate brothers\u2019 bid to be released from Miami jail",
-        "link": "https://www.aljazeera.com/news/2026/9/9/us-court-denies-tate-brothers-bid-to-be-released-from-miami-jail?traffic_source=rss"
+        "title": "Spain\u2019s spy agency warned of mass crossings into Ceuta before border crisis",
+        "link": "https://www.aljazeera.com/news/2026/9/10/spains-spy-agency-warned-of-mass-migrant-crossing-to-ceuta-before-crisis?traffic_source=rss"
       },
       {
-        "title": "Misfiring Arsenal beat Napoli with Odegaard stunner in Champions League",
-        "link": "https://www.aljazeera.com/sports/2026/9/9/misfiring-arsenal-beat-napoli-with-odegaard-stunner-in-champions-league?traffic_source=rss"
+        "title": "US states sue Trump over weakening of endangered species protections",
+        "link": "https://www.aljazeera.com/news/2026/9/10/us-states-sue-trump-over-weakening-of-endangered-species-protections?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "Top four in the world set for US Open women's semi-final showdown",
+        "link": "https://www.skysports.com/tennis/news/12040/13583805/us-open-top-seeded-quartet-set-for-womens-semi-final-showdown-with-aryna-sabalenka-and-coco-gauff-in-action"
+      },
+      {
+        "title": "Arteta explains new role for transformed Odegaard",
+        "link": "https://www.skysports.com/football/news/12040/13583797/arsenal-martin-odegaard-new-role-explained-by-mikel-arteta-after-captains-champions-league-winner-at-napoli"
+      },
       {
         "title": "Chelsea hit SIX second-half goals to see off Leeds in Carabao Cup classic",
         "link": "https://www.skysports.com/football/chelsea-vs-leeds-united/report/577586"
@@ -46,19 +54,15 @@
       {
         "title": "West Brom win with 10 men at Derby to move top of Championship",
         "link": "https://www.skysports.com/football/derby-county-vs-west-bromwich-albion/report/560567"
-      },
-      {
-        "title": "Is change needed after Shelton's early-morning finish against Alcaraz?",
-        "link": "https://www.skysports.com/tennis/news/12040/13583739/us-open-3-33am-local-time-and-another-early-morning-finish-as-ben-shelton-beat-carlos-alcaraz-so-does-something-have-to-change"
-      },
-      {
-        "title": "Odegaard gives dominant Arsenal win over Napoli",
-        "link": "https://www.skysports.com/football/napoli-vs-arsenal/report/577605"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "The Aquarium Drunkard Show: SIRIUS/XMU (7pm PDT, Channel 35)",
+        "link": "https://aquariumdrunkard.com/2026/09/09/the-aquarium-drunkard-show-sirius-xmu-7pm-pdt-channel-35-183/"
+      },
       {
         "title": "Transmissions :: The Bird Calls",
         "link": "https://aquariumdrunkard.com/2026/09/09/transmissions-the-bird-calls/"
@@ -70,10 +74,6 @@
       {
         "title": "Way Dynamic :: Massive Shoe",
         "link": "https://aquariumdrunkard.com/2026/09/08/way-dynamic-massive-shoe/"
-      },
-      {
-        "title": "Jake Xerxes Fussell :: The Old Beloved Path",
-        "link": "https://aquariumdrunkard.com/2026/09/08/jake-xerxes-fussell-the-old-beloved-path/"
       }
     ],
     "bfi": [],
@@ -98,6 +98,10 @@
     ],
     "filmcomment": [
       {
+        "title": "The Film Comment Podcast: Venice 2026 #3: Roll with It",
+        "link": "https://www.filmcomment.com/the-film-comment-podcast-venice-2026-3-roll-with-it/"
+      },
+      {
         "title": "The Film Comment Podcast: Venice 2026 #2: Print the Legend",
         "link": "https://www.filmcomment.com/the-film-comment-podcast-venice-2026-2-print-the-legend-ink-possible-love/"
       },
@@ -108,10 +112,6 @@
       {
         "title": "The Film Comment Podcast: Jane Schoenbrun on Teenage Sex and Death at Camp Miasma",
         "link": "https://www.filmcomment.com/the-film-comment-podcast-jane-schoenbrun-on-teenage-sex-and-death-at-camp-miasma/"
-      },
-      {
-        "title": "The Film Comment Podcast: Christopher Nolan\u2019s The Odyssey",
-        "link": "https://www.filmcomment.com/the-film-comment-podcast-christopher-nolans-the-odyssey/"
       }
     ],
     "mubi": [
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "The Traditional Film Industry\u2019s Collapse Is Right on Schedule \u2014 Opinion",
+        "link": "https://www.indiewire.com/features/commentary/film-industry-collapse-on-schedule-a-producers-path-1235215989/"
+      },
+      {
         "title": "\u2018Avengers: Doomsday\u2019 Has Already Made $50 Million in Pre-Sales \u2014 And People Are Buying Disney\u2019s Infinity Vision Gambit",
         "link": "https://www.indiewire.com/news/box-office/avengers-doomsday-50-million-pre-sales-infinity-vision-1235215933/"
       },
@@ -163,46 +167,42 @@
       {
         "title": "\u2018The Paper\u2019 Review: Season 2 Can\u2019t Deliver Its One, Big, Diabolical Idea",
         "link": "https://www.indiewire.com/criticism/shows/the-paper-season-2-review-the-office-spinoff-bad-1235213892/"
-      },
-      {
-        "title": "Can \u2018Practical Magic 2\u2032 Wave a Wand and Save Warner Bros.\u2019 Rough Year at the Box Office?",
-        "link": "https://www.indiewire.com/news/box-office/practical-magic-2-box-office-save-warner-bros-down-2026-1235215697/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018Jupiter\u2019 Review: A Claustrophobic Study of a Nuclear-Escalation Nightmare That Feels Too Small for the Big Screen",
-        "link": "https://variety.com/2026/film/reviews/jupiter-review-1236847030/"
+        "title": "\u2018South Park\u2019 Creators Apologize for the Years-Long Delay of Their Kendrick Lamar Movie: \u2018We Still Believe in the Project\u2019",
+        "link": "https://variety.com/2026/film/news/south-park-creators-apology-delay-kendrick-lamar-movie-1236856745/"
       },
       {
-        "title": "\u2018Diarra From Detroit\u2019 Creator Diarra Kilpatrick on the Season 2 Finale, Moving to Paramount+ and Why  Centering Black Women\u2019s Stories Is \u2018Inherently Political\u2019",
-        "link": "https://variety.com/2026/tv/features/diarra-from-detroit-creator-diarra-kilpatrick-season-2-finale-season-3-plans-1236855012/"
+        "title": "Trump White House Pulls Down Tetris-Like Game, in Which You Had to Stop a \u2018Zombie Siege\u2019 at Mexican Border, After Company\u2019s Copyright Threat",
+        "link": "https://variety.com/2026/digital/news/trump-white-house-removes-tetris-game-copyright-threat-1236856740/"
       },
       {
-        "title": "\u2018Avengers: Doomsday\u2019 Has Already Made $50 Million in Pre-Sales, Three Months Before Release",
-        "link": "https://variety.com/2026/film/news/avengers-doomsday-pre-sales-50-million-1236856525/"
+        "title": "\u2018The Fire Within You\u2019 Review: An Insufferable Christmas Eve Family Drama in Which the Corrosive Rants Are as Noxious as the Dyspeptic Images",
+        "link": "https://variety.com/2026/film/reviews/the-fire-within-you-review-1236856736/"
       },
       {
-        "title": "\u2018Entourage\u2019 Creator Slams \u2018God-Awful\u2019 Ad Reuniting Jeremy Piven and Adrian Grenier: A \u2018S\u2014ty Imitation\u2019 That \u2018Makes Me Puke\u2019",
-        "link": "https://variety.com/2026/tv/news/entourage-creator-slams-ad-jeremy-piven-adrian-grenier-1236856363/"
+        "title": "Billy Joel Says He Had Brain Surgery After His Diagnosis: \u2018Don\u2019t Worry About Me\u2019",
+        "link": "https://variety.com/2026/music/news/billy-joel-brain-surgery-after-diagnosis-1236856601/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018South Park\u2019 Creators Apologize to Kendrick Lamar, Paramount for Movie\u2019s Delay: \u201cWe Still Believe in the Project\u201d",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/south-park-creators-apologize-kendrick-lamar-paramount-1236695960/"
+        "title": "Kaia Gerber on \u2018The Shards\u2019 Finale\u2019s Surprising Killer Suspects and Her Shelley Duvall Moment",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/the-shards-finale-killer-theories-kaia-gerber-interview-1236695954/"
       },
       {
-        "title": "Your Favorite Hollywood Hotspot? Guess Who Owns It.",
-        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/sheikh-tahnoon-hollywood-hotspots-1236694678/"
+        "title": "Barry Melrose, Entertaining ESPN Hockey Analyst, Dies at 70",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/barry-melrose-dead-espn-hockey-analyst-1236696136/"
       },
       {
-        "title": "Does This Erewhon Smoothie Make Me Look Fat?",
-        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/erewhon-smoothie-calories-store-expansion-1236694684/"
+        "title": "MrBeast and James Patterson\u2019s Novel Collaboration Debuts at No. 3 on NYT Bestseller List",
+        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/mrbeast-james-patterson-novel-debut-nyt-bestseller-list-1236696027/"
       },
       {
-        "title": "Ruby Rose Accuses Noel Clarke of Predation After \u2018Doctor Who\u2019 Actor Slapped With U.K. Criminal Charges",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/ruby-rose-noel-clarke-predation-1236695922/"
+        "title": "Lego Grows Its 200-Plus Harry Potter Collection With Eight New Sets",
+        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/lego-harry-potter-sets-2026-collection-buy-online-pricing-1236695426/"
       }
     ],
     "larb": [],
