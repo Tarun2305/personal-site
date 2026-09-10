@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-09-10 02:30 UTC",
+  "last_updated": "2026-09-10 07:44 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Tourist tax plans for England set to be outlined",
+        "title": "Trump says every adult American would get $5,000 if Republicans win midterm elections",
+        "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Is Trump's $5,000 election pledge legal?",
+        "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "England's mayors to be given power to introduce tourist tax",
         "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Iran war will not end until after November US elections, says Trump",
-        "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Police launch criminal investigation into Reform UK donations",
-        "link": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Air traffic failure was avoidable, says transport secretary",
-        "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss"
+        "title": "RNLI reviews security after volunteers targeted online ",
+        "link": "https://www.bbc.co.uk/news/articles/cn746l402vjo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Pro-Israel Democrat John Fetterman makes video appearance at GOP convention",
-        "link": "https://www.aljazeera.com/news/2026/9/10/pro-israel-democrat-john-fetterman-makes-video-appearance-at-gop-convention?traffic_source=rss"
+        "title": "Japan baseball great and atomic bomb survivor Isao Harimoto dies aged 86",
+        "link": "https://www.aljazeera.com/sports/2026/9/10/japan-baseball-great-and-atomic-bomb-survivor-isao-harimoto-dies-aged-86?traffic_source=rss"
       },
       {
-        "title": "Trump gave aide Natalie Harp a $45,000 holiday cash gift, disclosure shows",
-        "link": "https://www.aljazeera.com/news/2026/9/10/trump-gave-aide-natalie-harp-a-45000-holiday-cash-gift-disclosure-shows?traffic_source=rss"
+        "title": "Europe\u2019s far right: Putin\u2019s best friend?",
+        "link": "https://www.aljazeera.com/opinions/2026/9/10/europes-far-right-putins-best-friend?traffic_source=rss"
       },
       {
-        "title": "Spain\u2019s spy agency warned of mass crossings into Ceuta before border crisis",
-        "link": "https://www.aljazeera.com/news/2026/9/10/spains-spy-agency-warned-of-mass-migrant-crossing-to-ceuta-before-crisis?traffic_source=rss"
+        "title": "Zverev defeats Van de Zandschulp in straight sets to enter US Open semis",
+        "link": "https://www.aljazeera.com/sports/2026/9/10/zverev-defeats-van-de-zandschulp-in-straight-sets-to-enter-us-open-semis?traffic_source=rss"
       },
       {
-        "title": "US states sue Trump over weakening of endangered species protections",
-        "link": "https://www.aljazeera.com/news/2026/9/10/us-states-sue-trump-over-weakening-of-endangered-species-protections?traffic_source=rss"
+        "title": "Anthropic discloses 4th AI hacking incident as researcher quits over safety",
+        "link": "https://www.aljazeera.com/news/2026/9/10/anthropic-discloses-fourth-ai-breach-as-researcher-quits-over-safety?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Top four in the world set for US Open women's semi-final showdown",
-        "link": "https://www.skysports.com/tennis/news/12040/13583805/us-open-top-seeded-quartet-set-for-womens-semi-final-showdown-with-aryna-sabalenka-and-coco-gauff-in-action"
+        "title": "Park Hill and May Hill clashes feature as Leger meeting begins at Doncaster",
+        "link": "https://www.skysports.com/racing/news/12040/13583212/today-on-sky-sports-racing-leger-meeting-at-doncaster-kicks-off-with-park-hill-and-may-hill-clashes"
       },
       {
-        "title": "Arteta explains new role for transformed Odegaard",
-        "link": "https://www.skysports.com/football/news/12040/13583797/arsenal-martin-odegaard-new-role-explained-by-mikel-arteta-after-captains-champions-league-winner-at-napoli"
+        "title": "Zverev's US Open rocky road turns into smooth sailing to the semi-finals",
+        "link": "https://www.skysports.com/tennis/news/12040/13583806/us-open-alexander-zverev-passes-botic-van-de-8203zandschulp-test-to-set-up-semi-final-date-with-karen-khachanov"
       },
       {
-        "title": "Chelsea hit SIX second-half goals to see off Leeds in Carabao Cup classic",
-        "link": "https://www.skysports.com/football/chelsea-vs-leeds-united/report/577586"
+        "title": "Welcome to the NFL! Rookie Eli Raridon scores season opening TD  ",
+        "link": "https://www.skysports.com/watch/video/13583848/eli-raridon-scores-the-first-touchdown-of-the-nfl-season"
       },
       {
-        "title": "West Brom win with 10 men at Derby to move top of Championship",
-        "link": "https://www.skysports.com/football/derby-county-vs-west-bromwich-albion/report/560567"
+        "title": "Poch: I hope to return to Premier League in future",
+        "link": "https://www.skysports.com/football/news/12040/13583564/mauricio-pochettino-ex-tottenham-and-chelsea-boss-hopes-to-return-to-premier-league-in-future"
       }
     ],
     "pitchfork": [],
@@ -171,38 +171,38 @@
     ],
     "variety": [
       {
-        "title": "\u2018South Park\u2019 Creators Apologize for the Years-Long Delay of Their Kendrick Lamar Movie: \u2018We Still Believe in the Project\u2019",
-        "link": "https://variety.com/2026/film/news/south-park-creators-apology-delay-kendrick-lamar-movie-1236856745/"
+        "title": "Telekom Srbija\u2019s Content Head on Blueprint for Turning Serbian Production Powerhouse Into Global Player",
+        "link": "https://variety.com/2026/tv/global/telekom-srbija-content-head-serbian-production-powerhouse-1236851472/"
       },
       {
-        "title": "Trump White House Pulls Down Tetris-Like Game, in Which You Had to Stop a \u2018Zombie Siege\u2019 at Mexican Border, After Company\u2019s Copyright Threat",
-        "link": "https://variety.com/2026/digital/news/trump-white-house-removes-tetris-game-copyright-threat-1236856740/"
+        "title": "Serbian Sci-Fi Epic \u2018Sanctuary,\u2019 Starring \u2018The Handmaid\u2019s Tale\u2019s\u2019 Nina Kiri, Acquired for U.S. Distribution (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/global/serbia-sci-fi-sanctuary-nina-kiri-us-distribution-1236851443/"
       },
       {
-        "title": "\u2018The Fire Within You\u2019 Review: An Insufferable Christmas Eve Family Drama in Which the Corrosive Rants Are as Noxious as the Dyspeptic Images",
-        "link": "https://variety.com/2026/film/reviews/the-fire-within-you-review-1236856736/"
+        "title": "\u2018DJ Ahmet\u2019 Leads Adriatic Awards Contest, Followed by \u2018Yugo Florida\u2019",
+        "link": "https://variety.com/2026/film/global/dj-ahmet-yugo-florida-adriatic-awards-1236855711/"
       },
       {
-        "title": "Billy Joel Says He Had Brain Surgery After His Diagnosis: \u2018Don\u2019t Worry About Me\u2019",
-        "link": "https://variety.com/2026/music/news/billy-joel-brain-surgery-after-diagnosis-1236856601/"
+        "title": "Netflix\u2019s YA Rowing Drama \u2018Crew Girl\u2019 Capsizes and Sinks: TV Review",
+        "link": "https://variety.com/2026/tv/reviews/crew-girl-review-netflix-1236848333/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Kaia Gerber on \u2018The Shards\u2019 Finale\u2019s Surprising Killer Suspects and Her Shelley Duvall Moment",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/the-shards-finale-killer-theories-kaia-gerber-interview-1236695954/"
+        "title": "\u2018Crew Girl\u2019 Review: Netflix\u2019s Latest YA Sports Drama Checks All the Expected Boxes, but Not Much More",
+        "link": "https://www.hollywoodreporter.com/tv/tv-reviews/crew-girl-review-netflix-1236696105/"
       },
       {
-        "title": "Barry Melrose, Entertaining ESPN Hockey Analyst, Dies at 70",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/barry-melrose-dead-espn-hockey-analyst-1236696136/"
+        "title": "Mercedes Ron Discusses Prime Video\u2019s New YA Romantic Thriller \u2018Drawn Together\u2019 and What\u2019s Next for Her",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/drawn-together-prime-film-mercedes-ron-interview-author-1236693241/"
       },
       {
-        "title": "MrBeast and James Patterson\u2019s Novel Collaboration Debuts at No. 3 on NYT Bestseller List",
-        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/mrbeast-james-patterson-novel-debut-nyt-bestseller-list-1236696027/"
+        "title": "Inside Venice\u2019s Unlikely Double Feature: A $300 Million Hitmaker and a New Generation of Smart Devices",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/honor-robot-phone-venice-dear-you-1236693121/"
       },
       {
-        "title": "Lego Grows Its 200-Plus Harry Potter Collection With Eight New Sets",
-        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/lego-harry-potter-sets-2026-collection-buy-online-pricing-1236695426/"
+        "title": "Carole Radziwill Says Carolyn Bessette Kennedy\u00a0Would\u2019ve Loved \u2018Real Housewives of New York City\u2019: \u201cShe Had a Great Sense of Humor\u201d",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/carole-radziwill-carolyn-bessette-kennedy-loved-rhony-1236696123/"
       }
     ],
     "larb": [],
