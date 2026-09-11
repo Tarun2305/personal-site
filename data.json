@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-09-11 02:25 UTC",
+  "last_updated": "2026-09-11 07:39 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Labour mayors in England vow to cap tourist tax at 5%",
-        "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss"
+        "title": "UK economy grew faster than expected in July",
+        "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Legalised dying bill for England and Wales faces new vote in Commons",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
         "link": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-        "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Use all powers necessary on anti-migrant protests, home secretary tells police",
-        "link": "https://www.bbc.co.uk/news/articles/cqjke44pr7zo?at_medium=RSS&at_campaign=rss"
+        "title": "Anthropic blocks 'malicious use' of AI that could develop biological weapons",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Unveiling of Charlie Kirk statue sparks chaos in Times Square",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_charlie-kirk-statue-sparks-chaos-in-times-square-100926?traffic_source=rss"
+        "title": "\u2018Not dolls to play with\u2019: Afghan medical students face Pakistan expulsion",
+        "link": "https://www.aljazeera.com/features/2026/9/11/not-dolls-to-play-with-afghan-medical-students-face-pakistan-expulsion?traffic_source=rss"
       },
       {
-        "title": "Maduro\u2019s wife seeks home detention as heart condition worsens in US custody",
-        "link": "https://www.aljazeera.com/news/2026/9/11/maduros-wife-seeks-home-detention-as-heart-condition-worsens-in-us-custody?traffic_source=rss"
+        "title": "Is the US more anti-Muslim now than after 9/11?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/09-11-hosted-us-911-muslims-withmusic?traffic_source=rss"
       },
       {
-        "title": "Why is Uber pulling out of some African markets?",
-        "link": "https://www.aljazeera.com/news/2026/9/11/why-is-uber-pulling-out-of-some-african-markets?traffic_source=rss"
+        "title": "Hundreds flee as fire destroys migrant shelters in Ceuta",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_migrants-flee-as-fire-destroys-shelteres-in-ceuta-110926?traffic_source=rss"
       },
       {
-        "title": "Iran claims to have captured a US \u2018sail drone\u2019 near Hormuz Strait",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss"
+        "title": "How 9/11 conspiracy theories moved into mainstream American politics",
+        "link": "https://www.aljazeera.com/news-analysis/2026/9/11/how-9-11-conspiracy-theories-moved-into-mainstream-american?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Papers: Zubimendi may push to leave Arsenal",
-        "link": "https://www.skysports.com/football/news/12040/13584130/arsenal-transfer-news-martin-zubimendi-may-push-to-leave-premier-league-champions-paper-talk"
+        "title": "Merson: Spurs, Man City and Man Utd have defining games this weekend",
+        "link": "https://www.skysports.com/football/news/12040/13582801/spurs-man-city-and-man-utd-face-defining-premier-league-matches-this-weekend-says-paul-merson"
       },
       {
-        "title": "'A great sporting ticket' - US Open chief vows to keep day, night session format",
-        "link": "https://www.skysports.com/tennis/news/12040/13583815/us-open-chief-craig-tiley-tells-sky-sports-tennis-he-plans-on-keeping-day-and-night-format-at-flushing-meadows-in-2027"
+        "title": "Rogers and Palmer helping each other thrive",
+        "link": "https://www.skysports.com/football/news/12040/13584004/cole-palmer-and-morgan-rogers-becoming-one-of-premier-leagues-most-dangerous-double-acts-the-radar"
       },
       {
-        "title": "Euro latest: Kane scores as Bayern thrash Bodo",
-        "link": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
+        "title": "York Knights finish maiden season with thrashing of Bradford Bulls",
+        "link": "https://www.skysports.com/watch/video/13584179/york-knights-35-16-bradford-bulls-super-league-highlights"
       },
       {
-        "title": "Is US Open win a formality for Zverev or could home hope break long drought?",
-        "link": "https://www.skysports.com/tennis/news/12040/13583808/us-open-is-mens-singles-victory-a-formality-for-alexander-zverev-or-will-ben-shelton-frances-tiafoe-or-karen-khachanov-trouble-him"
+        "title": "Rybakina denies Gauff to set up blockbuster US Open final with Sabalenka",
+        "link": "https://www.skysports.com/tennis/news/12040/13584185/us-open-elena-rybakina-defeats-coco-gauff-to-silence-new-york-crowd-and-set-up-blockbuster-final-with-aryna-sabalenka"
       }
     ],
     "pitchfork": [],
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018Being Heumann\u2019 Review: Si\u00e2n Heder\u2019s \u2018CODA\u2019 Follow-Up Is an Essential Biopic That\u2019s Not Afraid to Have Some Fun",
+        "link": "https://www.indiewire.com/criticism/movies/being-heumann-review-sian-heder-biopic-judy-1235213657/"
+      },
+      {
         "title": "The Criterion Collection Just Got Its First Physical Outpost in Toronto",
         "link": "https://www.indiewire.com/news/general-news/criterion-collection-physical-outpost-toronto-cinema-cellar-1235216142/"
       },
@@ -163,46 +167,42 @@
       {
         "title": "Tessa Blake Directed Over 50 Hours of Television Before Embarking on Her First Feature. The Experience Paid Off",
         "link": "https://www.indiewire.com/features/interviews/tessa-blake-on-if-i-tell-you-1235215941/"
-      },
-      {
-        "title": "Cody Fern Wrote\u00a0His Directing Debut \u2018Closing Night\u2019 for\u00a0Sarah Paulson: \u2018She\u2019s\u00a0Like a Bugatti\u2019",
-        "link": "https://www.indiewire.com/features/interviews/cody-fern-directorial-debut-closing-night-sarah-paulson-1235215928/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018Burgundy\u2019 Review: An Attractive, Light-Bodied Wine Doc With a Good Nose but No Legs",
-        "link": "https://variety.com/2026/film/reviews/burgundy-review-1236847240/"
+        "title": "San Sebastian Competition Title \u2018Border\u2019 Boards Reel Suspects for Global Sales (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/festivals/san-sebastian-competition-border-boards-reel-suspects-sales-1236858429/"
       },
       {
-        "title": "\u2018Stuffed\u2019 Review: Jodie Comer and Harry Melling Sing the Body Eccentric in an Odd, and Oddly Touching, Taxidermy Musical",
-        "link": "https://variety.com/2026/film/reviews/stuffed-review-jodie-comer-harry-melling-1236857095/"
+        "title": "J. M. Stelly\u2019s Anatomica Films Taps Black Mandala for Global Sales on Horror Trio (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/markets-festivals/jm-stelly-anatomica-films-black-mandala-sales-horror-trio-1236858413/"
       },
       {
-        "title": "Dan Schneider Loses \u2018Quiet on Set\u2019 Defamation Suit on Appeal",
-        "link": "https://variety.com/2026/tv/news/dan-schneider-quiet-on-set-defamation-dismissed-appeal-1236858005/"
+        "title": "Na Hong-Jin, Lav Diaz, Bertrand Mandico, Rintaro Headline Busan Master Class Lineup",
+        "link": "https://variety.com/2026/film/festivals/na-hong-jin-lav-diaz-rintaro-busan-master-class-1236858402/"
       },
       {
-        "title": "Netflix Taps \u2018Friday Night Lights\u2019 Director Peter Berg for NFL Gameday Openers, the First Narrated by Kyle Chandler",
-        "link": "https://variety.com/2026/tv/news/netflix-peter-berg-kyle-chandler-friday-night-lights-nfl-gameday-1236858004/"
+        "title": "Jimmy Kimmel\u2019s Pulled TV Interview With James Talarico Drops on YouTube as Texas Senate Candidate Says: \u2018They\u2019re Worried We\u2019re Going to Win This Race\u2019",
+        "link": "https://variety.com/2026/tv/news/jimmy-kimmel-pulled-james-talarico-inteview-youtube-watch-1236857444/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018Stuffed\u2019 Review: Jodie Comer Rises Above a Limp, Gross-Out Corpse-Themed Musical",
-        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/stuffed-review-jodie-comer-harry-melling-musical-1236696924/"
+        "title": "\u2018Being Heumann\u2019 Review:\u00a0Si\u00e2n Heder\u2019s Drama About the Fight for Disability Rights Strikes Familiar Notes but Gets the Inspirational Uplift Job Done",
+        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/being-heumann-review-sian-heder-ruth-madeley-apple-tv-1236697415/"
       },
       {
-        "title": "\u2018American Horror Story\u2019 Season 13: Everything We Know",
-        "link": "https://www.hollywoodreporter.com/lists/american-horror-story-season-13-everything-we-know-guide/"
+        "title": "Sian Heder Says \u201cCollective Action Matters\u201d as \u2018Being Heumann\u2019 Opens Toronto Film Festival",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/toronto-film-festival-2026-opening-night-being-heumann-1236697379/"
       },
       {
-        "title": "Montclair Film Festival Sets \u2018Wild Horse Nine,\u2019 \u2018Elsinore,\u2019 \u201914th\u2019 and \u2018Behemoth!\u2019 Screenings",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/montclair-film-festival-wild-horse-9-elsinore-14th-behemoth-1236697218/"
+        "title": "\u2018Practical Magic 2\u2019 Aims to Make \u2018Spider-Man\u2019 Disappear From No. 1 at Box Office",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/practical-magic-2-spider-man-brand-new-day-box-office-1236697368/"
       },
       {
-        "title": "Hudson Williams Tackling Two Roles in Crave\u2019s Upcoming Thriller \u2018Yaga\u2019",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/hudson-williams-two-roles-crave-yaga-1236697049/"
+        "title": "On September 11 Anniversary, Robert De Niro Calls for Mamdani to Be a \u201cBridge\u201d for New York City",
+        "link": "https://www.hollywoodreporter.com/news/politics-news/september-11-anniversary-robert-de-niro-mamdani-memorial-1236697211/"
       }
     ],
     "larb": [],
