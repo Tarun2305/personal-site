@@ -1,64 +1,72 @@
 {
-  "last_updated": "2026-09-11 07:39 UTC",
+  "last_updated": "2026-09-11 13:09 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "UK economy grew faster than expected in July",
+        "title": "Watch: Americans remember what they were doing on 9/11",
+        "link": "https://www.bbc.co.uk/news/videos/cdr765xj1k1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "AI boom helps drive surprise UK growth in July",
         "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Legalised dying bill for England and Wales faces new vote in Commons",
-        "link": "https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
-        "link": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Anthropic blocks 'malicious use' of AI that could develop biological weapons",
-        "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss"
+        "title": "Princess Diana's 'revenge dress' goes up for auction",
+        "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "\u2018Not dolls to play with\u2019: Afghan medical students face Pakistan expulsion",
-        "link": "https://www.aljazeera.com/features/2026/9/11/not-dolls-to-play-with-afghan-medical-students-face-pakistan-expulsion?traffic_source=rss"
+        "title": "From hunger crisis to \u2018obesity\u2019: how Gaza\u2019s UN data is being twisted",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/from-hunger-crisis-to-obesity-how-gazas-un-data-is-being-twisted?traffic_source=rss"
       },
       {
-        "title": "Is the US more anti-Muslim now than after 9/11?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/09-11-hosted-us-911-muslims-withmusic?traffic_source=rss"
+        "title": "Myanmar airport closed following reported drone attack",
+        "link": "https://www.aljazeera.com/news/2026/9/11/myanmar-airport-closed-following-reported-drone-attack?traffic_source=rss"
       },
       {
-        "title": "Hundreds flee as fire destroys migrant shelters in Ceuta",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_migrants-flee-as-fire-destroys-shelteres-in-ceuta-110926?traffic_source=rss"
+        "title": "\u2018A historic day\u2019: Spain moves closer to citizenship for Western Saharans",
+        "link": "https://www.aljazeera.com/news/2026/9/11/a-historic-day-spain-moves-closer-to-citizenship-for-western-saharans?traffic_source=rss"
       },
       {
-        "title": "How 9/11 conspiracy theories moved into mainstream American politics",
-        "link": "https://www.aljazeera.com/news-analysis/2026/9/11/how-9-11-conspiracy-theories-moved-into-mainstream-american?traffic_source=rss"
+        "title": "FIFA rebukes Morocco\u2019s claim it will host 2030 World Cup final",
+        "link": "https://www.aljazeera.com/sports/2026/9/11/fifa-rebukes-morocco-claim-they-will-host-2030-world-cup-final?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Merson: Spurs, Man City and Man Utd have defining games this weekend",
-        "link": "https://www.skysports.com/football/news/12040/13582801/spurs-man-city-and-man-utd-face-defining-premier-league-matches-this-weekend-says-paul-merson"
+        "title": "Sky Sports agrees three-year US Open extension",
+        "link": "https://www.skysports.com/tennis/news/12040/13584343/us-open-sky-sports-agrees-three-year-extension-to-show-the-us-open-until-end-of-2030"
       },
       {
-        "title": "Rogers and Palmer helping each other thrive",
-        "link": "https://www.skysports.com/football/news/12040/13584004/cole-palmer-and-morgan-rogers-becoming-one-of-premier-leagues-most-dangerous-double-acts-the-radar"
+        "title": "Russell tops first practice in Madrid as Hamilton frustrates other drivers",
+        "link": "https://www.skysports.com/f1/news/12040/13584257/spanish-gp-george-russell-tops-first-practice-at-new-madring-as-lewis-hamilton-frustrates-other-drivers"
       },
       {
-        "title": "York Knights finish maiden season with thrashing of Bradford Bulls",
-        "link": "https://www.skysports.com/watch/video/13584179/york-knights-35-16-bradford-bulls-super-league-highlights"
+        "title": "Man Utd's \u00a31bn rebuild faces toughest test",
+        "link": "https://www.skysports.com/football/news/12040/13583089/man-utd-have-highest-transfer-net-spend-since-2022-but-champions-league-return-will-test-depth-between-the-lines"
       },
       {
-        "title": "Rybakina denies Gauff to set up blockbuster US Open final with Sabalenka",
-        "link": "https://www.skysports.com/tennis/news/12040/13584185/us-open-elena-rybakina-defeats-coco-gauff-to-silence-new-york-crowd-and-set-up-blockbuster-final-with-aryna-sabalenka"
+        "title": "Man Utd latest: 685 season-ticket holders banned after touting investigation",
+        "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       }
     ],
     "pitchfork": [],
     "quietus": [],
     "aquariumdrunkard": [
+      {
+        "title": "Mike D :: Thank You",
+        "link": "https://aquariumdrunkard.com/2026/09/11/mike-d-thank-you/"
+      },
+      {
+        "title": "Crying Laughing :: Talking",
+        "link": "https://aquariumdrunkard.com/2026/09/11/crying-laughing-talking/"
+      },
       {
         "title": "The Lagniappe Sessions :: Maisy Owen",
         "link": "https://aquariumdrunkard.com/2026/09/10/the-lagniappe-sessions-maisy-owen/"
@@ -66,14 +74,6 @@
       {
         "title": "Secular Music Group :: Volume 3",
         "link": "https://aquariumdrunkard.com/2026/09/10/secular-music-group-volume-3/"
-      },
-      {
-        "title": "Diles Que No Me Maten :: Escrito en Agua",
-        "link": "https://aquariumdrunkard.com/2026/09/10/diles-que-no-me-maten-escrito-en-agua/"
-      },
-      {
-        "title": "The Aquarium Drunkard Show: SIRIUS/XMU (7pm PDT, Channel 35)",
-        "link": "https://aquariumdrunkard.com/2026/09/09/the-aquarium-drunkard-show-sirius-xmu-7pm-pdt-channel-35-183/"
       }
     ],
     "bfi": [],
@@ -116,6 +116,10 @@
     ],
     "mubi": [
       {
+        "title": "Survival Tactics: A Locarno Critics Academy Correspondence",
+        "link": "https://mubi.com/en/notebook/posts/survival-tactics-a-locarno-critics-academy-correspondence"
+      },
+      {
         "title": "Cut and Spliced: A Locarno Critics Academy Correspondence",
         "link": "https://mubi.com/en/notebook/posts/cut-and-spliced-a-locarno-critics-academy-correspondence"
       },
@@ -126,10 +130,6 @@
       {
         "title": "It Was Once Fire: A Locarno Critics Academy Correspondence",
         "link": "https://mubi.com/en/notebook/posts/it-was-once-fire-a-locarno-critics-academy-correspondence"
-      },
-      {
-        "title": "The Final Temenos",
-        "link": "https://mubi.com/en/notebook/posts/the-final-temenos"
       }
     ],
     "reverseshot": [],
@@ -153,60 +153,64 @@
     ],
     "indiewire": [
       {
-        "title": "\u2018Being Heumann\u2019 Review: Si\u00e2n Heder\u2019s \u2018CODA\u2019 Follow-Up Is an Essential Biopic That\u2019s Not Afraid to Have Some Fun",
-        "link": "https://www.indiewire.com/criticism/movies/being-heumann-review-sian-heder-biopic-judy-1235213657/"
+        "title": "One of the Year\u2019s Best Film Books Celebrates the Unsung Artists That Turned \u2018The Women\u2019 Into a Classic",
+        "link": "https://www.indiewire.com/features/interviews/illeana-douglas-on-the-women-1235215874/"
       },
       {
-        "title": "The Criterion Collection Just Got Its First Physical Outpost in Toronto",
-        "link": "https://www.indiewire.com/news/general-news/criterion-collection-physical-outpost-toronto-cinema-cellar-1235216142/"
+        "title": "Def Leppard Documentary Coming to Theaters Courtesy of Bleecker Street and Crosswalk",
+        "link": "https://www.indiewire.com/news/business/def-leppard-doc-theaters-2027-jeff-feuerzeig-1235216201/"
       },
       {
-        "title": "\u2018Colin from Accounts\u2019 Final Season Is for the F*ck-Ups",
-        "link": "https://www.indiewire.com/criticism/shows/colin-from-accounts-final-season-review-1235215748/"
+        "title": "Korean Star Jeon Do-yeon\u2019s Outstanding \u2018Possible Love\u2019 Performance Could Earn Venice\u2019s Best Actress Prize \u2014 or Lee Chang-dong the Golden Lion",
+        "link": "https://www.indiewire.com/features/interviews/possible-love-star-jeon-do-yeon-interview-lee-chang-dong-1235216210/"
       },
       {
-        "title": "Tessa Blake Directed Over 50 Hours of Television Before Embarking on Her First Feature. The Experience Paid Off",
-        "link": "https://www.indiewire.com/features/interviews/tessa-blake-on-if-i-tell-you-1235215941/"
+        "title": "\u2018Moonfish\u2019 Review: This Existential Outer Space Abandonment Saga Is a Bizarro \u2018Project Hail Mary\u2019",
+        "link": "https://www.indiewire.com/criticism/movies/moonfish-movie-review-1235216153/"
       }
     ],
     "variety": [
       {
-        "title": "San Sebastian Competition Title \u2018Border\u2019 Boards Reel Suspects for Global Sales (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/festivals/san-sebastian-competition-border-boards-reel-suspects-sales-1236858429/"
+        "title": "Venice Film Festival Takeaways: Malkovich Storms the Oscar Race, Political Movies Dominate Buzz and More",
+        "link": "https://variety.com/2026/film/festivals/venice-film-festival-takeaways-john-malkovich-oscar-race-political-movies-1236852434/"
       },
       {
-        "title": "J. M. Stelly\u2019s Anatomica Films Taps Black Mandala for Global Sales on Horror Trio (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/markets-festivals/jm-stelly-anatomica-films-black-mandala-sales-horror-trio-1236858413/"
+        "title": "Global Africa Hub at TIFF Market Seeks to Boost Visibility \u2014 and Deals \u2014 for African Filmmakers in Toronto: \u2018It\u2019s Our Moment\u2019",
+        "link": "https://variety.com/2026/film/global/global-africa-hub-tiff-market-african-filmmakers-1236851508/"
       },
       {
-        "title": "Na Hong-Jin, Lav Diaz, Bertrand Mandico, Rintaro Headline Busan Master Class Lineup",
-        "link": "https://variety.com/2026/film/festivals/na-hong-jin-lav-diaz-rintaro-busan-master-class-1236858402/"
+        "title": "\u2018In Alaska\u2019 Producer Tyler Hagan Wins CMPA\u2019s Feature Producer Indiescreen Award at Toronto Film Festival",
+        "link": "https://variety.com/2026/film/awards/tyler-hagan-toronto-film-fest-cmpa-feature-producer-award-1236858076/"
       },
       {
-        "title": "Jimmy Kimmel\u2019s Pulled TV Interview With James Talarico Drops on YouTube as Texas Senate Candidate Says: \u2018They\u2019re Worried We\u2019re Going to Win This Race\u2019",
-        "link": "https://variety.com/2026/tv/news/jimmy-kimmel-pulled-james-talarico-inteview-youtube-watch-1236857444/"
+        "title": "New Zealand Set to Unveil Tri-Nation Indigenous Co-Production Initiative at Toronto (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/festivals/new-zealand-indigenous-coproduction-initiative-toronto-1236857143/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018Being Heumann\u2019 Review:\u00a0Si\u00e2n Heder\u2019s Drama About the Fight for Disability Rights Strikes Familiar Notes but Gets the Inspirational Uplift Job Done",
-        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/being-heumann-review-sian-heder-ruth-madeley-apple-tv-1236697415/"
+        "title": "Freeze Turkey! 50 Years Later, the Wild True Story Behind \u2018Charlie\u2019s Angels\u2018",
+        "link": "https://www.hollywoodreporter.com/movies/movie-features/charlies-angels-50th-anniversary-1236694163/"
       },
       {
-        "title": "Sian Heder Says \u201cCollective Action Matters\u201d as \u2018Being Heumann\u2019 Opens Toronto Film Festival",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/toronto-film-festival-2026-opening-night-being-heumann-1236697379/"
+        "title": "Toronto: Global Media Producers Urge Stronger Local Content Laws to Fend Off Streaming Domination",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/toronto-global-media-producers-urge-local-content-streamers-1236697536/"
       },
       {
-        "title": "\u2018Practical Magic 2\u2019 Aims to Make \u2018Spider-Man\u2019 Disappear From No. 1 at Box Office",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/practical-magic-2-spider-man-brand-new-day-box-office-1236697368/"
+        "title": "\u20189/11: Reunited\u2019 Firefighter on Giuliani\u2019s Mamdani Attack: \u201cLeave Politics Out of It\u201d",
+        "link": "https://www.hollywoodreporter.com/news/general-news/9-11-reunited-firefighter-giuliani-mamdani-politics-nat-geo-1236697089/"
       },
       {
-        "title": "On September 11 Anniversary, Robert De Niro Calls for Mamdani to Be a \u201cBridge\u201d for New York City",
-        "link": "https://www.hollywoodreporter.com/news/politics-news/september-11-anniversary-robert-de-niro-mamdani-memorial-1236697211/"
+        "title": "Toronto: Ex-Prime Minister Justin Trudeau Launches Film, TV Production Banner Hope & Hard Work",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/toronto-justin-trudeau-launches-producer-hope-and-hard-work-1236697524/"
       }
     ],
     "larb": [],
     "aeon": [
+      {
+        "title": "Penchants of the polymaths",
+        "link": "https://aeon.co/essays/four-islamic-polymaths-prove-breadth-beats-specialisation"
+      },
       {
         "title": "The Chinese room",
         "link": "https://aeon.co/videos/could-there-ever-be-a-viable-test-for-artificial-consciousness"
@@ -218,13 +222,13 @@
       {
         "title": "Making revisions",
         "link": "https://aeon.co/videos/meet-the-aboriginal-australian-artists-painting-over-the-colonial-past"
-      },
-      {
-        "title": "Our eloquent hands",
-        "link": "https://aeon.co/essays/what-palmistry-and-medicine-have-always-had-in-common"
       }
     ],
     "psyche": [
+      {
+        "title": "Why women\u2019s laughter has long been treated as a threat",
+        "link": "https://psyche.co/ideas/why-womens-laughter-has-long-been-treated-as-a-threat"
+      },
       {
         "title": "The longest walk",
         "link": "https://psyche.co/videos/for-a-gay-catholic-priest-coming-out-was-its-own-leap-of-faith"
@@ -236,10 +240,6 @@
       {
         "title": "How to be a word detective",
         "link": "https://psyche.co/guides/how-to-be-a-word-detective"
-      },
-      {
-        "title": "Town square",
-        "link": "https://psyche.co/videos/inside-the-alzheimers-care-centre-where-its-always-the-1950s"
       }
     ],
     "publicdomainreview": [
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "Inside IBM\u2019s New Quantum Computing Fridges, 180 Times Colder Than Deep Space",
+        "link": "https://nautil.us/inside-ibms-new-quantum-computing-fridges-180-times-colder-than-deep-space-1284948/"
+      },
+      {
         "title": "AI Engineers Are Having Their Oppenheimer \u201cDestroyer of Worlds\u201d Moment",
         "link": "https://nautil.us/ai-engineers-are-having-their-oppenheimer-destroyer-of-worlds-moment-1284956/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "What Bird Feeding Has to Do with Happiness",
         "link": "https://nautil.us/what-bird-feeding-has-to-do-with-happiness-1284926/"
-      },
-      {
-        "title": "Rethinking the Mechanisms of Alzheimer\u2019s\u00a0Disease",
-        "link": "https://nautil.us/rethinking-the-mechanisms-of-alzheimers-disease-1284912/"
       }
     ],
     "worksinprogress": [],
