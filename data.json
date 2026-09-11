@@ -1,10 +1,14 @@
 {
-  "last_updated": "2026-09-10 22:52 UTC",
+  "last_updated": "2026-09-11 02:25 UTC",
   "feeds": {
     "bbc": [
       {
         "title": "Labour mayors in England vow to cap tourist tax at 5%",
         "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+        "link": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
@@ -13,28 +17,24 @@
       {
         "title": "Use all powers necessary on anti-migrant protests, home secretary tells police",
         "link": "https://www.bbc.co.uk/news/articles/cqjke44pr7zo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Can Trump pay $5,000 to every American adult if Republicans win midterm elections?",
-        "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Spain\u2019s Parliament backs citizenship for Western Saharans born before 1977",
-        "link": "https://www.aljazeera.com/news/2026/9/10/spains-parliament-backs-citizenship-for-western-saharans-born-before-1977?traffic_source=rss"
+        "title": "Unveiling of Charlie Kirk statue sparks chaos in Times Square",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_charlie-kirk-statue-sparks-chaos-in-times-square-100926?traffic_source=rss"
       },
       {
-        "title": "LG defends smart-TV features amid audio surveillance allegations",
-        "link": "https://www.aljazeera.com/news/2026/9/10/lg-defends-smart-tv-features-amid-audio-surveillance-allegations?traffic_source=rss"
+        "title": "Maduro\u2019s wife seeks home detention as heart condition worsens in US custody",
+        "link": "https://www.aljazeera.com/news/2026/9/11/maduros-wife-seeks-home-detention-as-heart-condition-worsens-in-us-custody?traffic_source=rss"
       },
       {
-        "title": "Peru joins US-led \u2018Shield of the Americas\u2019 security alliance",
-        "link": "https://www.aljazeera.com/news/2026/9/10/peru-joins-us-led-shield-of-the-americas-security-alliance?traffic_source=rss"
+        "title": "Why is Uber pulling out of some African markets?",
+        "link": "https://www.aljazeera.com/news/2026/9/11/why-is-uber-pulling-out-of-some-african-markets?traffic_source=rss"
       },
       {
-        "title": "Republican midterm convention live: Trump, Vance headline day two in Dallas",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/9/10/republican-midterm-convention-live-trump-headlines-day-2-of-dallas-rally?traffic_source=rss"
+        "title": "Iran claims to have captured a US \u2018sail drone\u2019 near Hormuz Strait",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -171,38 +171,38 @@
     ],
     "variety": [
       {
+        "title": "\u2018Burgundy\u2019 Review: An Attractive, Light-Bodied Wine Doc With a Good Nose but No Legs",
+        "link": "https://variety.com/2026/film/reviews/burgundy-review-1236847240/"
+      },
+      {
+        "title": "\u2018Stuffed\u2019 Review: Jodie Comer and Harry Melling Sing the Body Eccentric in an Odd, and Oddly Touching, Taxidermy Musical",
+        "link": "https://variety.com/2026/film/reviews/stuffed-review-jodie-comer-harry-melling-1236857095/"
+      },
+      {
         "title": "Dan Schneider Loses \u2018Quiet on Set\u2019 Defamation Suit on Appeal",
         "link": "https://variety.com/2026/tv/news/dan-schneider-quiet-on-set-defamation-dismissed-appeal-1236858005/"
       },
       {
         "title": "Netflix Taps \u2018Friday Night Lights\u2019 Director Peter Berg for NFL Gameday Openers, the First Narrated by Kyle Chandler",
         "link": "https://variety.com/2026/tv/news/netflix-peter-berg-kyle-chandler-friday-night-lights-nfl-gameday-1236858004/"
-      },
-      {
-        "title": "Steve Carell Almost Played \u2018The Office\u2019 Creator Greg Daniels\u2019 Dad in Biopic About the 1968 Olympics",
-        "link": "https://variety.com/2026/film/columns/steve-carell-the-office-creator-greg-daniels-dad-biopic-olympics-1236857975/"
-      },
-      {
-        "title": "\u2018The Legend of Zelda: Ocarina of Time\u2019 40th Anniversary Remake Sets Nintendo Switch 2 Release Date (Gaming News Roundup)",
-        "link": "https://variety.com/2026/gaming/news/gaming-news-roundup-week-september-7-1236855160/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Dan Schneider\u2019s \u2018Quiet on Set\u2019 Defamation Lawsuit Dismissed on Appeal",
-        "link": "https://www.hollywoodreporter.com/business/business-news/dan-schneider-quiet-on-set-defamation-lawsuit-dismissed-1236697230/"
+        "title": "\u2018Stuffed\u2019 Review: Jodie Comer Rises Above a Limp, Gross-Out Corpse-Themed Musical",
+        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/stuffed-review-jodie-comer-harry-melling-musical-1236696924/"
       },
       {
-        "title": "\u2018Ted Lasso\u2019 Season 4 Is Running Out of Time to Fix Itself",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/ted-lasso-season-4-episode-6-recap-1236697138/"
+        "title": "\u2018American Horror Story\u2019 Season 13: Everything We Know",
+        "link": "https://www.hollywoodreporter.com/lists/american-horror-story-season-13-everything-we-know-guide/"
       },
       {
-        "title": "Why George Lucas\u2019 Museum Building Mogs LACMA\u2019s New David Geffen Exhibition Hall",
-        "link": "https://www.hollywoodreporter.com/lifestyle/arts/george-lucas-museum-building-lacma-david-geffen-galleries-1236697092/"
+        "title": "Montclair Film Festival Sets \u2018Wild Horse Nine,\u2019 \u2018Elsinore,\u2019 \u201914th\u2019 and \u2018Behemoth!\u2019 Screenings",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/montclair-film-festival-wild-horse-9-elsinore-14th-behemoth-1236697218/"
       },
       {
-        "title": "\u2018Zero Intention of Living Quietly\u2019 Review: Doc About \u2018A Different Man\u2019 Star Adam Pearson Is Moving, When It\u2019s Not Getting in Its Own Way",
-        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/zero-intention-of-living-quietly-review-adam-pearson-1236690979/"
+        "title": "Hudson Williams Tackling Two Roles in Crave\u2019s Upcoming Thriller \u2018Yaga\u2019",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/hudson-williams-two-roles-crave-yaga-1236697049/"
       }
     ],
     "larb": [],
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "AI Engineers Are Having Their Oppenheimer \u201cDestroyer of Worlds\u201d Moment",
+        "link": "https://nautil.us/ai-engineers-are-having-their-oppenheimer-destroyer-of-worlds-moment-1284956/"
+      },
+      {
         "title": "A Natural Solution to the Replication Crisis in Science",
         "link": "https://nautil.us/a-natural-solution-to-the-replication-crisis-in-science-1284942/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "Rethinking the Mechanisms of Alzheimer\u2019s\u00a0Disease",
         "link": "https://nautil.us/rethinking-the-mechanisms-of-alzheimers-disease-1284912/"
-      },
-      {
-        "title": "How Did Birds Outlive the Other Dinosaurs?",
-        "link": "https://nautil.us/how-did-birds-outlive-the-other-dinosaurs-1284920/"
       }
     ],
     "worksinprogress": [],
