@@ -1,40 +1,40 @@
 {
-  "last_updated": "2026-09-12 19:58 UTC",
+  "last_updated": "2026-09-12 22:44 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+        "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+        "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Reform receives second \u00a336m donation in two days as crypto investor matches record",
         "link": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations",
-        "link": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Trump says united Ireland would be 'fantastic' during visit to Dublin",
-        "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-        "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss"
+        "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+        "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Gaza genocide documentary \u2018NAZA\u2019 wins Special Jury Prize at Venice",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-naza-venice-clip-mp4?traffic_source=rss"
+        "title": "USA edge Spain to book Women\u2019s Basketball World Cup final against France",
+        "link": "https://www.aljazeera.com/sports/2026/9/12/usa-edge-spain-to-book-womens-basketball-world-cup-final-against-france?traffic_source=rss"
       },
       {
-        "title": "US court blocks Trump administration plan to cut disaster agency workforce",
-        "link": "https://www.aljazeera.com/news/2026/9/12/us-court-blocks-trump-administration-plan-to-cut-disaster-agency-workforce?traffic_source=rss"
+        "title": "First naval battle between drones takes place in the Black Sea",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/first-naval-battle-between-drones-takes-place-in-the-black-sea?traffic_source=rss"
       },
       {
-        "title": "Bahrain says it will not participate in Iran\u2019s proposed Hormuz meeting",
-        "link": "https://www.aljazeera.com/news/2026/9/12/bahrain-says-it-will-not-participate-in-irans-proposed-hormuz-meeting?traffic_source=rss"
+        "title": "Ebola spreads to seventh DRC province as gov\u2019t insists cases are declining",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-drc-ebola-spread-clip-mp4?traffic_source=rss"
       },
       {
-        "title": "Will Houthi advances in Yemen give Iran leverage in its war with the US?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/9/12/will-houthi-advances-in-yemen-give-iran-leverage-in-its-war-with-the-us?traffic_source=rss"
+        "title": "Second crypto billionaire donates record $49m to far-right Reform UK",
+        "link": "https://www.aljazeera.com/news/2026/9/12/second-crypto-billionaire-donates-record-49m-to-far-right-reform-uk?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -44,16 +44,16 @@
         "link": "https://www.skysports.com/tennis/news/12040/13585138/us-open-ben-shelton-is-relishing-the-challenge-of-a-first-grand-slam-final-against-alexander-zverev-in-new-york"
       },
       {
-        "title": "US Open LIVE! Sabalenka takes on Rybakina in blockbuster women's final",
-        "link": "https://www.skysports.com/tennis/live-blog/12040/13584677/us-open-live-scores-updates-news-commentary-results-from-new-york-with-aryna-sabalenka-takes-on-elena-rybakina-in-the-womens-final"
+        "title": "Spine-tingling New Zealand Haka in front of captivated US crowd!",
+        "link": "https://www.skysports.com/watch/video/13585210/codie-taylor-leads-a-spine-tingling-haka-for-the-first-time-as-captain"
       },
       {
-        "title": "'Extraordinary!' | Nmecha scores outrageous overhead kick for Dortmund ",
-        "link": "https://www.skysports.com/watch/video/13585130/felix-nmaecha-scores-outrageous-overhead-kick-for-bourussia-dortmund"
+        "title": "Papers: Richarlison takes aim at Spurs after failed Vasco da Gama move",
+        "link": "https://www.skysports.com/football/news/12040/13585182/tottenham-transfer-news-spurs-forward-richarlison-takes-aim-at-spurs-following-collapse-of-proposed-vasco-da-gama-transfer-paper-talk"
       },
       {
-        "title": "Iraola bemoans Liverpool's lack of cutting edge and explains Barcola plan",
-        "link": "https://www.skysports.com/football/news/12040/13585141/liverpool-boss-andoni-iraola-bemoans-lack-of-creativity-and-cutting-edge-against-fulham-and-explains-bradley-barcola-plan"
+        "title": "Guimaraes haunts Sunderland as Arsenal continue winning start",
+        "link": "https://www.skysports.com/football/sunderland-vs-arsenal/report/559482"
       }
     ],
     "pitchfork": [],
@@ -80,6 +80,10 @@
     "criterion": [],
     "rogerebert": [
       {
+        "title": "TIFF 2026: In the Heart of the South, Idda, Magazine",
+        "link": "https://www.rogerebert.com/festivals/tiff-2026-in-the-heart-of-the-south-idda-magazine"
+      },
+      {
         "title": "TIFF 2026: River, Stuffed, The Housewife",
         "link": "https://www.rogerebert.com/festivals/tiff-2026-river-stuffed-the-housewife"
       },
@@ -90,10 +94,6 @@
       {
         "title": "\u201cMarvel\u2019s Wolverine\u201d is a Bloody Good Time, Bub",
         "link": "https://www.rogerebert.com/video-games/marvels-wolverine-video-game-review-ps5"
-      },
-      {
-        "title": "Telluride Film Festival 2026: Table of Contents",
-        "link": "https://www.rogerebert.com/festivals/telluride-film-festival-2026-table-of-contents"
       }
     ],
     "filmcomment": [
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018River\u2019 Review: Jane Levy Anchors a Fearlessly Cruel and Visceral Survival Slasher",
+        "link": "https://www.indiewire.com/criticism/movies/river-movie-review-jane-levy-slasher-1235216672/"
+      },
+      {
+        "title": "\u2018Purgatory\u2019 Review: This Charming Catholic Coming-of-Age Story Never Quite Ascends",
+        "link": "https://www.indiewire.com/criticism/movies/purgatory-review-1235216402/"
+      },
+      {
+        "title": "Venice Prizes Elevate John Malkovich, \u2018Possible Love,\u2019 and \u2018NAZA\u2019 to Oscar Frontrunners",
+        "link": "https://www.indiewire.com/awards/predictions/venice-john-malkovich-possible-love-naza-oscar-frontrunners-1235216651/"
+      },
+      {
         "title": "\u2018Edward Said: Between Worlds\u2019 Brings an Articulate Palestinian Spokesman Back to Life",
         "link": "https://www.indiewire.com/awards/consider-this/edward-said-between-worlds-palestinian-spokesman-interview-1235216388/"
-      },
-      {
-        "title": "Venice Film Festival Reveals 2026 Award Winners: \u2018Woman Unknown\u2019 Takes the Golden Lion",
-        "link": "https://www.indiewire.com/awards/results/venice-film-festival-2026-award-winners-1235216485/"
-      },
-      {
-        "title": "Courteney Cox Had a Vision for Her \u2018Evil Genius,\u2019 and \u2018Friends\u2019 \u2014 Surprisingly \u2014 Played an Important Role",
-        "link": "https://www.indiewire.com/features/interviews/courteney-cox-evil-genius-friends-pizza-bomber-1235216492/"
-      },
-      {
-        "title": "Tim Blake Nelson on His 12-Year Battle to Make \u2018The Life and Deaths of Wilson Shedd\u2019 and Joining \u2018Task\u2019 Season 2",
-        "link": "https://www.indiewire.com/features/interviews/tim-blake-nelson-wilson-shedd-task-season-2-mark-ruffalo-1235216434/"
       }
     ],
     "variety": [
       {
-        "title": "Andrew Scott Gets Candid at TIFF About \u2018Elsinore\u2019 and People Against Gay Actors Playing Straight Roles: \u2018That\u2019s Just Prejudice\u2019",
-        "link": "https://variety.com/2026/film/news/andrew-scott-tiff-elsinore-gay-actors-prejudice-fleabag-1236859840/"
+        "title": "\u2018SNL U.K.\u2019 Weekend Update Takes Aim at Trump\u2019s New Hair \u2014 and Paddy Young Says the Punchline Was \u2018Taken From Me by Our Legal Team\u2019",
+        "link": "https://variety.com/2026/tv/global/snl-uk-weekend-update-trump-new-hair-1236860013/"
       },
       {
-        "title": "Pierce Brosnan Thinks the Next James Bond Will Be \u2018Someone That None of Us Know About\u2019: \u2018There Are Lots of Good Hats in the Ring\u2019",
-        "link": "https://variety.com/2026/film/news/pierce-brosnan-james-bond-1236859814/"
+        "title": "Jeff Goldblum Performs a Jazz Number to Open \u2018SNL U.K.\u2019 Season 2: \u2018Hoping You\u2019ll Like Me More Than Nando\u2019s or Marmite\u2019",
+        "link": "https://variety.com/2026/tv/global/jeff-goldblum-snl-uk-host-jazz-song-1236859923/"
       },
       {
-        "title": "Celine Dion Delivers Tearful Speech on Opening Night of Paris Residency: \u2018I Had Promised Myself Not to Cry\u2019",
-        "link": "https://variety.com/2026/music/news/celine-dion-emotional-speech-opening-night-paris-residency-1236859560/"
+        "title": "Camera-Shy Chrissie Hynde on Finally Allowing a Definitive Doc to Be Made About \u2018The Pretenders,\u2019 Bowing in Toronto: \u2018I Just Wanted to Be in a Band. I\u2019ve Never Graduated Beyond That Initial Interest in It\u2019",
+        "link": "https://variety.com/2026/music/news/pretenders-documentary-chrissie-hynde-toronto-film-festival-1236859953/"
       },
       {
-        "title": "Jeremy Thomas Remembered as a Filmmaker \u2018Full of Stories\u2019 and a \u2018Rebel With Taste\u2019: \u2018The Canon of His Work Is Unmatched\u2019",
-        "link": "https://variety.com/2026/film/global/jeremy-thomas-tributes-luca-guadagnino-1236859499/"
+        "title": "\u2018SNL U.K.\u2019 Mocks Prince Harry and Meghan Markle\u2019s British Return in Cold Open: \u2018Don\u2019t Tell Me You\u2019ve Spent All Your Netflix Money Already!\u2019",
+        "link": "https://variety.com/2026/tv/global/snl-uk-mocks-prince-harry-meghan-markle-british-return-1236859945/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018Woman Unknown\u2019 Wins Golden Lion in Venice: Full Winners List",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/2026-venice-winners-full-list-golden-lion-1236698825/"
+        "title": "Mahershala Ali Reveals He Was \u201cYearning\u201d to Perform Action On-Screen Before Filming \u2018Your Mother, Your Mother, Your Mother\u2019",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/mahersala-ali-yearning-your-mother-your-mother-your-mother-1236699277/"
       },
       {
-        "title": "Toronto: Indigenous Directors Flex Artistry With Bigger-Budget Films",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/toronto-indigenous-directors-1236698855/"
+        "title": "Leaked Report Details Fallout if Paramount Follows Through on California Exit Threat",
+        "link": "https://www.hollywoodreporter.com/business/business-news/paramount-warner-brothers-california-exit-threat-economy-1236699278/"
       },
       {
-        "title": "Top Hollywood Sales Agent Reveals Biggest Indie Film Challenge: \u201cWe\u2019re Building Movies for Streaming Companies\u201d",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/top-sales-agents-streaming-companies-challenges-1236699147/"
+        "title": "Seth Rogen Says \u2018Babies\u2019 Is \u201cReflective\u201d of His \u201cExperiences\u201d Exploring Parenthood: \u201cIt\u2019s Shocking How Personal It Is\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/seth-rogen-babies-directed-by-wife-lauren-personal-1236699218/"
       },
       {
-        "title": "TIFF Flashback: Michelle Yeoh Took a Dramatic Turn With\u00a0\u2018The Lady\u2019",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/tiff-flashback-michelle-yeoh-in-dramatic-turn-with-the-lady-1236697837/"
+        "title": "Jeremy Thomas, Producer of Oscar-Winning \u2018The Last Emperor,\u2019 Dies at 77",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/jeremy-thomas-dead-the-last-emperor-crash-producer-1236698886/"
       }
     ],
     "larb": [],
