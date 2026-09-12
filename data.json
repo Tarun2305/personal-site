@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-09-11 22:54 UTC",
+  "last_updated": "2026-09-12 02:32 UTC",
   "feeds": {
     "bbc": [
+      {
+        "title": "Reform receives record \u00a336m donation from crypto billionaire",
+        "link": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "MPs vote against fresh attempt to legalise assisted dying",
         "link": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "An extraordinary result - why did MPs reject assisted dying bill this time?",
-        "link": "https://www.bbc.co.uk/news/articles/c5y54n99l48o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
-        "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss"
+        "title": "Masked men, lorries and road blocks: How anti-migrant activists are changing tactics",
+        "link": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
@@ -21,20 +21,20 @@
     ],
     "aljazeera": [
       {
-        "title": "Israeli demolitions threaten schools and homes in Masafer Yatta",
-        "link": "https://www.aljazeera.com/features/2026/9/11/israeli-demolitions-threaten-schools-and-homes-in-masafer-yatta?traffic_source=rss"
+        "title": "CIA drops dozens of declassified documents on bin Laden and al-Qaeda",
+        "link": "https://www.aljazeera.com/news/2026/9/12/cia-drops-dozens-of-declassified-documents-on-bin-laden-and-al-qaeda?traffic_source=rss"
       },
       {
-        "title": "Saudi Arabia says East-West pipeline hit by drones launched from Iraq",
-        "link": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss"
+        "title": "How Canadians are bracing for the impact of Trump\u2019s trade war",
+        "link": "https://www.aljazeera.com/economy/2026/9/12/how-canadians-are-bracing-for-the-impact-of-trumps-trade-war?traffic_source=rss"
       },
       {
-        "title": "Sabalenka vs Rybakina: US Open women\u2019s singles final \u2013 start, prize, form",
-        "link": "https://www.aljazeera.com/sports/2026/9/11/sabalenka-rybakina-us-open-2026-womens-singles-final-time-form-head-to-head?traffic_source=rss"
+        "title": "Passenger train derails in France, leaving 44 injured, 1 critical",
+        "link": "https://www.aljazeera.com/news/2026/9/12/passenger-train-derails-in-france-leaving-44-injured-1-critical?traffic_source=rss"
       },
       {
-        "title": "Somber tributes as US marks the 25th anniversary of September 11 attacks",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/somber-tributes-as-us-marks-the-25th-anniversary-of-september-11-attacks?traffic_source=rss"
+        "title": "Former top US diplomat reveals mistakes made after 9/11 attacks",
+        "link": "https://www.aljazeera.com/news/2026/9/12/former-top-us-diplomat-reveals-mistakes-made-after-9-11?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
@@ -44,16 +44,16 @@
         "link": "https://www.skysports.com/football/news/12040/13584647/manchester-united-news-ruben-amorim-takes-a-swipe-at-the-clubs-former-players-now-working-in-the-media-paper-talk"
       },
       {
+        "title": "OUTRAGEOUS walk on! Huybrechts creates havoc in Antwerp",
+        "link": "https://www.skysports.com/watch/video/13584649/darts-outrageous-walk-on-huybrechts-creates-havoc-in-antwerp"
+      },
+      {
         "title": "Test debutant Razaullah shines as Pakistan frustrate England on day three",
         "link": "https://www.skysports.com/watch/video/13584412/england-vs-pakistan-third-test-day-three-morning-session-highlights"
       },
       {
         "title": "Zverev reaches third consecutive Grand Slam final with straight-sets semi win",
         "link": "https://www.skysports.com/watch/video/13584669/alexander-zverev-vs-karen-khachanov-us-open-highlights"
-      },
-      {
-        "title": "Razaullah smashes NINE sixes to equal Test debut record",
-        "link": "https://www.skysports.com/watch/video/13584548/england-v-pakistan-razaullah-smashes-eight-sixes-on-test-debut"
       }
     ],
     "pitchfork": [],
@@ -80,6 +80,10 @@
     "criterion": [],
     "rogerebert": [
       {
+        "title": "TIFF 2026: River, Stuffed, The Housewife",
+        "link": "https://www.rogerebert.com/festivals/tiff-2026-river-stuffed-the-housewife"
+      },
+      {
         "title": "Venice 2026: The Basics of Philosophy, Diane in the Loop, Look Back",
         "link": "https://www.rogerebert.com/festivals/venice-2026-the-basics-of-philosophy-diane-in-the-loop-look-back"
       },
@@ -90,10 +94,6 @@
       {
         "title": "Telluride Film Festival 2026: Table of Contents",
         "link": "https://www.rogerebert.com/festivals/telluride-film-festival-2026-table-of-contents"
-      },
-      {
-        "title": "Telluride 2026: Illusion of an Everlasting Summer, Burgundy, Rehearsals for a Revolution",
-        "link": "https://www.rogerebert.com/festivals/telluride-2026-illusion-of-an-everlasting-summer-burgundy-rehearsals-for-a-revolution"
       }
     ],
     "filmcomment": [
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018Trash Mountain\u2019 Review: Caleb Hearon Turns Leading Man in This Gentle Coming-of-Age Dramedy",
+        "link": "https://www.indiewire.com/criticism/movies/trash-mountain-review-caleb-hearon-kris-rey-1235214880/"
+      },
+      {
         "title": "Fall Festival Movies Sold So Far: \u2018Rapinoe\u2019 About US Women\u2019s Soccer Icon Lands at HBO Documentary Films",
         "link": "https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/"
       },
@@ -163,46 +167,42 @@
       {
         "title": "From Nathan Fielder\u2019s Buzzy Elizabeth Holmes Doc to Robert Pattinson\u2019s Divisive \u2018Primetime\u2019: Venice and Telluride\u2019s Winners and Losers",
         "link": "https://www.indiewire.com/features/podcast/fall-film-festival-winners-losers-telluride-venice-1235216317/"
-      },
-      {
-        "title": "\u2018The Housewife\u2019 Review: Naomi Watts Stuns, but This True Story Flounders Under Its Own Weight",
-        "link": "https://www.indiewire.com/criticism/movies/the-housewife-review-naomi-watts-true-story-1235216304/"
       }
     ],
     "variety": [
       {
-        "title": "Sebastian Stan on Why \u2018Fjord\u2019 Is Being Called a \u2018MAGA Movie\u2019 and How Making \u2018The Batman 2\u2019 Feels Like \u2018F\u2014ing Godfather Part 2\u2019",
-        "link": "https://variety.com/2026/film/awards/sebastian-stan-fjord-maga-the-batman-2-godfather-1236859214/"
+        "title": "Lil Durk Acquitted in Murder-for-Hire Trial",
+        "link": "https://variety.com/2026/music/news/lil-durk-acquitted-murder-for-hire-trial-1236859311/"
       },
       {
-        "title": "\u2018Onwards and Sideways\u2019 Director John Madden on Returning to TIFF After 16 Years With His Parkinson\u2019s Romantic Drama Starring Laura Linney and Rhys Ifans",
-        "link": "https://variety.com/2026/film/news/onwards-and-sideways-director-john-madden-1236859016/"
+        "title": "\u2018The Uprising\u2019 Star Woody Norman on the \u2018Power Trip\u2019 Playing King Richard II and Going Meatless at Age 10 After Working With Joaquin Phoenix",
+        "link": "https://variety.com/2026/film/global/the-uprising-star-norman-playing-king-richard-ii-going-meatless-age-10-joaquin-phoenix-1236857404/"
       },
       {
-        "title": "\u2018Obsession\u2019 One Year Later: Inde Navarrette and Curry Barker Dish on Memes, How Nikki Became More \u2018Flirty\u2019 and Their Wild Ride at TIFF",
-        "link": "https://variety.com/2026/film/news/inde-navarrette-obsession-nikki-memes-curry-barker-tiff-talk-1236859203/"
+        "title": "Ocean Way Festival Featuring Killers, Olivia Dean and Jack White Is Canceled, as Santa Monica Blames Beach Damage From Hurricane Forces",
+        "link": "https://variety.com/2026/music/news/ocean-way-festival-canceled-beach-killers-olivia-dean-1236859293/"
       },
       {
-        "title": "Watch Brandi Carlile and Bonnie Raitt Duet on \u2018Love Me Like a Man\u2019 for \u2018Austin City Limits\u2019 Premiere, Plus a Web-Only Bonus, \u2018Angel From Montgomery\u2019 (EXCLUSIVE)",
-        "link": "https://variety.com/2026/music/news/brandi-carlile-bonnie-raitt-duet-austin-city-limits-premiere-1236859141/"
+        "title": "Pink Explains Slamming Macklemore\u2019s Pro-Palestine Performances, Acknowledges Heavy Backlash: \u2018I\u2019m Standing Up for My Own People, and I Thought I Knew How Lonely That Would Be. It\u2019s Lonelier Than That\u2019",
+        "link": "https://variety.com/2026/music/news/pink-explains-macklemore-social-media-post-palestine-jewish-1236859273/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Minka Kelly Responds to \u2018Ransom Canyon\u2019 Cancellation at Netflix After Two Seasons: \u201cAll Good Things Must Come to an End\u201d",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/minka-kelly-responds-ransom-canyon-cancellation-netflix-1236698116/"
+        "title": "Sorry, Caleb Hearon Is Not Your Clown in \u2018Trash Mountain\u2019 Grief Dramedy",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/caleb-hearon-trash-mountain-tiff-2026-1236698499/"
       },
       {
-        "title": "Warner Bros. Discovery Veteran Dan Weinberger to Join Disney as Deputy General Counsel",
-        "link": "https://www.hollywoodreporter.com/business/business-news/warner-bros-discovery-veteran-dan-weinberger-join-disney-deputy-general-counsel-1236698201/"
+        "title": "Courteney Cox Says She Decided to Direct \u2018Evil Genius\u2019 After Chance Encounter at the Beverly Hills Hotel: \u201cI Made a Lot of Deals There\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/courteney-cox-direct-evil-genius-beverly-hills-hotel-1236698506/"
       },
       {
-        "title": "A $100M Pok\u00e9mon Card? Meet the Man Spending Millions on Comics and Other \u201cAlternative Assets\u201d",
-        "link": "https://www.hollywoodreporter.com/business/business-news/pokemon-cards-iron-man-comic-millions-1236697661/"
+        "title": "Sydney Sweeney Faces Backlash for Sexualized Novig Ad: \u201cExactly Why Women in Sports Aren\u2019t Taken Seriously\u201d",
+        "link": "https://www.hollywoodreporter.com/business/digital/sydney-sweeney-sports-ad-backlash-sexualization-women-1236698224/"
       },
       {
-        "title": "HBO Buys Megan Rapinoe Doc, Betting on the Outspoken Soccer Legend (Exclusive)",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/hbo-megan-rapinoe-documentary-tiff-watch-1236697858/"
+        "title": "Josh Hartnett Reveals He Was \u201cActively Not Looking to Do a TV Show\u201d Before Joining \u2018Below\u2019",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/josh-hartnett-not-looking-tv-show-before-below-1236698463/"
       }
     ],
     "larb": [],
