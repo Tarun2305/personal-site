@@ -1,10 +1,14 @@
 {
-  "last_updated": "2026-09-12 07:32 UTC",
+  "last_updated": "2026-09-12 12:33 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Reform receives record \u00a336m donation from crypto billionaire",
-        "link": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss"
+        "title": "Reform receives second \u00a336m donation in two days as crypto investor matches record",
+        "link": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donation",
+        "link": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
@@ -13,47 +17,43 @@
       {
         "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
         "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Masked men, lorries and road blocks: How anti-migrant activists are changing tactics",
-        "link": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Man waving Palestinian flag tackled on Yankee Stadium field",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/man-waving-palestinian-flag-tackled-on-yankee-stadium-field?traffic_source=rss"
+        "title": "Yemen government forces say Houthi \u2018members, vehicles\u2019 targeted in Mocha",
+        "link": "https://www.aljazeera.com/news/2026/9/12/yemen-government-forces-say-houthi-members-vehicles-targeted-in-mocha?traffic_source=rss"
       },
       {
-        "title": "Duplantis, Ingebrigtsen shine at World Athletics Ultimate Championship",
-        "link": "https://www.aljazeera.com/sports/2026/9/12/mondo-duplantis-jakob-ingebrigtsen-world-athletics-ultimate-championship?traffic_source=rss"
+        "title": "Left with nothing, people in Gaza are forced to rent generators by the hour",
+        "link": "https://www.aljazeera.com/features/2026/9/12/left-with-nothing-people-in-gaza-are-forced-to-rent-generators-by-the-hour?traffic_source=rss"
       },
       {
-        "title": "Shelton advances to US Open 2026 men\u2019s final for Zverev showdown",
-        "link": "https://www.aljazeera.com/sports/2026/9/12/ben-shelton-us-open-final-2026-alexander-zverev-tennis?traffic_source=rss"
+        "title": "Houthis celebrate seizing control of Yemen\u2019s Red Sea coast",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/houthis-celebrate-seizing-control-of-yemens-red-sea-coast?traffic_source=rss"
       },
       {
-        "title": "\u2018War on terror\u2019: How 9/11 changed the language of conflict",
-        "link": "https://www.aljazeera.com/news/2026/9/12/war-on-terror-how-9-11-changed-the-language-of?traffic_source=rss"
+        "title": "China\u2019s marriage crisis: The search for love",
+        "link": "https://www.aljazeera.com/video/101-east/2026/9/12/chinas-marriage-crisis-the-search-for-love?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Enceladus takes on Christmas Day and Pienne Bonnard in 250th St Leger",
-        "link": "https://www.skysports.com/racing/news/12040/13583974/today-on-sky-sports-racing-enceladus-takes-on-christmas-day-and-pienne-bonnard-in-250th-st-leger-from-doncaster"
+        "title": "Hamilton crashes as Antonelli tops final practice in Madrid",
+        "link": "https://www.skysports.com/f1/news/12040/13584715/spanish-gp-lewis-hamilton-crashes-at-kimi-antonelli-tops-final-practice-from-charles-leclerc-in-madrid"
       },
       {
-        "title": "'Let's do this for the USA' - Shelton sets up Zverev showdown in US Open final",
-        "link": "https://www.skysports.com/tennis/news/12040/13584674/us-open-ben-shelton-takes-down-frances-tiafoe-to-seal-alexander-zverev-showdown-in-final-on-sunday-in-new-york"
+        "title": "Root steers England to series sweep of Pakistan after early scare",
+        "link": "https://www.skysports.com/cricket/news/12040/13584761/england-clinch-test-series-sweep-of-pakistan-joe-root-and-jordan-cox-steer-hosts-to-eight-wicket-win-at-edgbaston"
       },
       {
-        "title": "Papers: Amorim takes swipe at Man Utd players-turned-pundits",
-        "link": "https://www.skysports.com/football/news/12040/13584647/manchester-united-news-ruben-amorim-takes-a-swipe-at-the-clubs-former-players-now-working-in-the-media-paper-talk"
+        "title": "Chelsea vs Hull team news LIVE!",
+        "link": "https://www.skysports.com/football/chelsea-vs-hull-city/live/559476"
       },
       {
-        "title": "OUTRAGEOUS walk on! Huybrechts creates havoc in Antwerp",
-        "link": "https://www.skysports.com/watch/video/13584649/darts-outrageous-walk-on-huybrechts-creates-havoc-in-antwerp"
+        "title": "Spanish GP: Hamilton to avoid investigation after practice crash LIVE!",
+        "link": "https://www.skysports.com/f1/live-blog/12040/13584285/f1-spanish-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-at-madring"
       }
     ],
     "pitchfork": [],
@@ -171,38 +171,38 @@
     ],
     "variety": [
       {
-        "title": "Gary Oldman Predicts HBO\u2019s \u2018Harry Potter\u2019 Series Will Be \u2018More Satisfying\u2019 for Fans Than the Movies",
-        "link": "https://variety.com/2026/tv/news/gary-oldman-hbo-harry-potter-series-more-satisfying-than-movies-1236859390/"
+        "title": "Liam Neeson on the \u2018Rage\u2019 Behind \u2018The Lost Children of Tuam\u2019 and Turning Producer for First Time to Tell Story of Irish Scandal",
+        "link": "https://variety.com/2026/film/global/liam-neeson-rage-the-lost-children-of-tuam-producer-1236858532/"
       },
       {
-        "title": "Paramount Argues States\u2019 Antitrust Suit Will \u2018Collapse Under Scrutiny\u2019",
-        "link": "https://variety.com/2026/film/news/paramount-answer-antitrust-case-1236859363/"
+        "title": "Maisie Williams Thriller \u2018Ignition\u2019 Bought by Saban for North America (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/global/maisie-williams-thriller-ignition-bought-by-saban-1236858634/"
       },
       {
-        "title": "Jimmy Kimmel\u2019s Pulled TV Interview With James Talarico Hits 5 Million Views in 24 Hours on YouTube",
-        "link": "https://variety.com/2026/tv/news/jimmy-kimmel-james-talarico-interview-youtube-views-1236857569/"
+        "title": "\u2018On Behalf of My Son\u2019 Director Gabriel Martins on Black Brazilian Representation in His Films: \u2018It\u2019s a Life Project To Me, Not Just Cinema\u2019",
+        "link": "https://variety.com/2026/film/global/on-behalf-of-my-son-gabriel-martins-black-representation-1236859408/"
       },
       {
-        "title": "\u2018The Julia Set\u2019 Review: Chase Infiniti Confirms Her Movie-Star Mettle in Niki Byrne\u2019s Riveting Math-Geek Bad Romance",
-        "link": "https://variety.com/2026/film/reviews/the-julia-set-review-chase-infiniti-1236858794/"
+        "title": "First Clip of \u2018Club Kid\u2019 Star Jordan Firstman as U.S. Voice Cast Lead in Cannes Breakout \u2018Jim Queen\u2019 (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/global/jordan-firstman-jim-queen-first-clip-club-kid-toronto-1236859402/"
       }
     ],
     "hollywoodreporter": [
       {
+        "title": "Carla Woodcock Joins Kate Beckinsale, Katherine McNamara in \u2018White\u2019 (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/carla-woodcock-joins-kate-beckinsale-shark-movie-white-1236698229/"
+      },
+      {
+        "title": "Canadian Auteur Matthew Rankin Had a Fever Dream About Canadian History",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/matthew-rankin-film-ladies-and-gentlemen-brian-mulroney-chat-1236683600/"
+      },
+      {
+        "title": "Almod\u00f3var\u2019s Deep Dive Into \u2026 Almod\u00f3var",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/pedro-almodovar-says-bitter-christmas-is-most-personal-film-1236698333/"
+      },
+      {
         "title": "Sorry, Caleb Hearon Is Not Your Clown in \u2018Trash Mountain\u2019 Grief Dramedy",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/caleb-hearon-trash-mountain-tiff-2026-1236698499/"
-      },
-      {
-        "title": "Courteney Cox Says She Decided to Direct \u2018Evil Genius\u2019 After Chance Encounter at the Beverly Hills Hotel: \u201cI Made a Lot of Deals There\u201d",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/courteney-cox-direct-evil-genius-beverly-hills-hotel-1236698506/"
-      },
-      {
-        "title": "Sydney Sweeney Faces Backlash for Sexualized Novig Ad: \u201cExactly Why Women in Sports Aren\u2019t Taken Seriously\u201d",
-        "link": "https://www.hollywoodreporter.com/business/digital/sydney-sweeney-sports-ad-backlash-sexualization-women-1236698224/"
-      },
-      {
-        "title": "Josh Hartnett Reveals He Was \u201cActively Not Looking to Do a TV Show\u201d Before Joining \u2018Below\u2019",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/josh-hartnett-not-looking-tv-show-before-below-1236698463/"
       }
     ],
     "larb": [],
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "Rope, Twine and Thread: Invisible Technologies of the Stone Age",
+        "link": "https://nautil.us/rope-twine-and-thread-invisible-technologies-of-the-stone-age-1284982/"
+      },
+      {
         "title": "The Giant Squids of the Jurassic Period",
         "link": "https://nautil.us/the-giant-squids-of-the-jurassic-period-1285002/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "Are Too Many Americans Taking Antidepressants?",
         "link": "https://nautil.us/are-too-many-americans-taking-antidepressants-1284975/"
-      },
-      {
-        "title": "Genetically Engineered Yeast Could Transform Martian Soil into Living Building Materials",
-        "link": "https://nautil.us/genetically-engineered-yeast-could-transform-martian-soil-into-living-building-materials-1284972/"
       }
     ],
     "worksinprogress": [],
