@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12 02:32 UTC",
+  "last_updated": "2026-09-12 07:32 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,38 +7,46 @@
         "link": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "MPs vote against fresh attempt to legalise assisted dying",
-        "link": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss"
+        "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+        "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+        "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Masked men, lorries and road blocks: How anti-migrant activists are changing tactics",
         "link": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-        "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "CIA drops dozens of declassified documents on bin Laden and al-Qaeda",
-        "link": "https://www.aljazeera.com/news/2026/9/12/cia-drops-dozens-of-declassified-documents-on-bin-laden-and-al-qaeda?traffic_source=rss"
+        "title": "Man waving Palestinian flag tackled on Yankee Stadium field",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/man-waving-palestinian-flag-tackled-on-yankee-stadium-field?traffic_source=rss"
       },
       {
-        "title": "How Canadians are bracing for the impact of Trump\u2019s trade war",
-        "link": "https://www.aljazeera.com/economy/2026/9/12/how-canadians-are-bracing-for-the-impact-of-trumps-trade-war?traffic_source=rss"
+        "title": "Duplantis, Ingebrigtsen shine at World Athletics Ultimate Championship",
+        "link": "https://www.aljazeera.com/sports/2026/9/12/mondo-duplantis-jakob-ingebrigtsen-world-athletics-ultimate-championship?traffic_source=rss"
       },
       {
-        "title": "Passenger train derails in France, leaving 44 injured, 1 critical",
-        "link": "https://www.aljazeera.com/news/2026/9/12/passenger-train-derails-in-france-leaving-44-injured-1-critical?traffic_source=rss"
+        "title": "Shelton advances to US Open 2026 men\u2019s final for Zverev showdown",
+        "link": "https://www.aljazeera.com/sports/2026/9/12/ben-shelton-us-open-final-2026-alexander-zverev-tennis?traffic_source=rss"
       },
       {
-        "title": "Former top US diplomat reveals mistakes made after 9/11 attacks",
-        "link": "https://www.aljazeera.com/news/2026/9/12/former-top-us-diplomat-reveals-mistakes-made-after-9-11?traffic_source=rss"
+        "title": "\u2018War on terror\u2019: How 9/11 changed the language of conflict",
+        "link": "https://www.aljazeera.com/news/2026/9/12/war-on-terror-how-9-11-changed-the-language-of?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
+      {
+        "title": "Enceladus takes on Christmas Day and Pienne Bonnard in 250th St Leger",
+        "link": "https://www.skysports.com/racing/news/12040/13583974/today-on-sky-sports-racing-enceladus-takes-on-christmas-day-and-pienne-bonnard-in-250th-st-leger-from-doncaster"
+      },
+      {
+        "title": "'Let's do this for the USA' - Shelton sets up Zverev showdown in US Open final",
+        "link": "https://www.skysports.com/tennis/news/12040/13584674/us-open-ben-shelton-takes-down-frances-tiafoe-to-seal-alexander-zverev-showdown-in-final-on-sunday-in-new-york"
+      },
       {
         "title": "Papers: Amorim takes swipe at Man Utd players-turned-pundits",
         "link": "https://www.skysports.com/football/news/12040/13584647/manchester-united-news-ruben-amorim-takes-a-swipe-at-the-clubs-former-players-now-working-in-the-media-paper-talk"
@@ -46,14 +54,6 @@
       {
         "title": "OUTRAGEOUS walk on! Huybrechts creates havoc in Antwerp",
         "link": "https://www.skysports.com/watch/video/13584649/darts-outrageous-walk-on-huybrechts-creates-havoc-in-antwerp"
-      },
-      {
-        "title": "Test debutant Razaullah shines as Pakistan frustrate England on day three",
-        "link": "https://www.skysports.com/watch/video/13584412/england-vs-pakistan-third-test-day-three-morning-session-highlights"
-      },
-      {
-        "title": "Zverev reaches third consecutive Grand Slam final with straight-sets semi win",
-        "link": "https://www.skysports.com/watch/video/13584669/alexander-zverev-vs-karen-khachanov-us-open-highlights"
       }
     ],
     "pitchfork": [],
@@ -153,38 +153,38 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018The Face of Horror\u2019 Review: Anna Biller Brings Her Brand of Technicolor Feminism to a Tale of Chivalry (or Lack Thereof)",
+        "link": "https://www.indiewire.com/criticism/movies/the-face-of-horror-review-anna-biller-1235216164/"
+      },
+      {
+        "title": "\u2018The Stunt Driver\u2019 Review: Jay Baruchel Plays a Canadian Daredevil Trying to Pull Off an Impossible Stunt in a Fun 1970s Throwback",
+        "link": "https://www.indiewire.com/criticism/movies/the-stunt-driver-movie-review-1235216178/"
+      },
+      {
         "title": "\u2018Trash Mountain\u2019 Review: Caleb Hearon Turns Leading Man in This Gentle Coming-of-Age Dramedy",
         "link": "https://www.indiewire.com/criticism/movies/trash-mountain-review-caleb-hearon-kris-rey-1235214880/"
       },
       {
         "title": "Fall Festival Movies Sold So Far: \u2018Rapinoe\u2019 About US Women\u2019s Soccer Icon Lands at HBO Documentary Films",
         "link": "https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/"
-      },
-      {
-        "title": "Is Josh Giuliano the Next Curry Barker or Kane Parsons? Blumhouse Atomic Monster Seems to Think So",
-        "link": "https://www.indiewire.com/news/breaking-news/josh-giuliano-next-curry-barker-kane-parsons-blumhouse-obsession-1235216344/"
-      },
-      {
-        "title": "From Nathan Fielder\u2019s Buzzy Elizabeth Holmes Doc to Robert Pattinson\u2019s Divisive \u2018Primetime\u2019: Venice and Telluride\u2019s Winners and Losers",
-        "link": "https://www.indiewire.com/features/podcast/fall-film-festival-winners-losers-telluride-venice-1235216317/"
       }
     ],
     "variety": [
       {
-        "title": "Lil Durk Acquitted in Murder-for-Hire Trial",
-        "link": "https://variety.com/2026/music/news/lil-durk-acquitted-murder-for-hire-trial-1236859311/"
+        "title": "Gary Oldman Predicts HBO\u2019s \u2018Harry Potter\u2019 Series Will Be \u2018More Satisfying\u2019 for Fans Than the Movies",
+        "link": "https://variety.com/2026/tv/news/gary-oldman-hbo-harry-potter-series-more-satisfying-than-movies-1236859390/"
       },
       {
-        "title": "\u2018The Uprising\u2019 Star Woody Norman on the \u2018Power Trip\u2019 Playing King Richard II and Going Meatless at Age 10 After Working With Joaquin Phoenix",
-        "link": "https://variety.com/2026/film/global/the-uprising-star-norman-playing-king-richard-ii-going-meatless-age-10-joaquin-phoenix-1236857404/"
+        "title": "Paramount Argues States\u2019 Antitrust Suit Will \u2018Collapse Under Scrutiny\u2019",
+        "link": "https://variety.com/2026/film/news/paramount-answer-antitrust-case-1236859363/"
       },
       {
-        "title": "Ocean Way Festival Featuring Killers, Olivia Dean and Jack White Is Canceled, as Santa Monica Blames Beach Damage From Hurricane Forces",
-        "link": "https://variety.com/2026/music/news/ocean-way-festival-canceled-beach-killers-olivia-dean-1236859293/"
+        "title": "Jimmy Kimmel\u2019s Pulled TV Interview With James Talarico Hits 5 Million Views in 24 Hours on YouTube",
+        "link": "https://variety.com/2026/tv/news/jimmy-kimmel-james-talarico-interview-youtube-views-1236857569/"
       },
       {
-        "title": "Pink Explains Slamming Macklemore\u2019s Pro-Palestine Performances, Acknowledges Heavy Backlash: \u2018I\u2019m Standing Up for My Own People, and I Thought I Knew How Lonely That Would Be. It\u2019s Lonelier Than That\u2019",
-        "link": "https://variety.com/2026/music/news/pink-explains-macklemore-social-media-post-palestine-jewish-1236859273/"
+        "title": "\u2018The Julia Set\u2019 Review: Chase Infiniti Confirms Her Movie-Star Mettle in Niki Byrne\u2019s Riveting Math-Geek Bad Romance",
+        "link": "https://variety.com/2026/film/reviews/the-julia-set-review-chase-infiniti-1236858794/"
       }
     ],
     "hollywoodreporter": [
