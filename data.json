@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-09-12 22:44 UTC",
+  "last_updated": "2026-09-13 02:31 UTC",
   "feeds": {
     "bbc": [
       {
-        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-        "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss"
+        "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-        "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Reform receives second \u00a336m donation in two days as crypto investor matches record",
-        "link": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss"
+        "title": "Will the Thirlwall report change the debate about Lucy Letby?",
+        "link": "https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
         "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Student loan terms to be made clearer in England",
+        "link": "https://www.bbc.co.uk/news/articles/cr4vq7rw27qo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "USA edge Spain to book Women\u2019s Basketball World Cup final against France",
-        "link": "https://www.aljazeera.com/sports/2026/9/12/usa-edge-spain-to-book-womens-basketball-world-cup-final-against-france?traffic_source=rss"
+        "title": "Why Spain\u2019s new Sahrawi citizenship law matters to Morocco",
+        "link": "https://www.aljazeera.com/news/2026/9/13/why-spains-new-sahrawi-citizenship-law-matters-to-morocco?traffic_source=rss"
       },
       {
-        "title": "First naval battle between drones takes place in the Black Sea",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/first-naval-battle-between-drones-takes-place-in-the-black-sea?traffic_source=rss"
+        "title": "Iran\u2019s Pezeshkian: \u2018We are not at war with Saudi Arabia\u2019",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/13-09-clip-pezeshkian-iran-not-at-war-with-saudis-ir?traffic_source=rss"
       },
       {
-        "title": "Ebola spreads to seventh DRC province as gov\u2019t insists cases are declining",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-drc-ebola-spread-clip-mp4?traffic_source=rss"
+        "title": "Trump says he would \u2018love to see\u2019 a united Ireland during Irish visit",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/12-09-sv-trump-for-united-ireland-ir?traffic_source=rss"
       },
       {
-        "title": "Second crypto billionaire donates record $49m to far-right Reform UK",
-        "link": "https://www.aljazeera.com/news/2026/9/12/second-crypto-billionaire-donates-record-49m-to-far-right-reform-uk?traffic_source=rss"
+        "title": "Houthi projectile wounds two, damages mosque in Jazan region, Saudi says",
+        "link": "https://www.aljazeera.com/news/2026/9/13/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Shelton relishing challenge of first Grand Slam final against Zverev at US Open",
-        "link": "https://www.skysports.com/tennis/news/12040/13585138/us-open-ben-shelton-is-relishing-the-challenge-of-a-first-grand-slam-final-against-alexander-zverev-in-new-york"
+        "title": "Furious Arteta rages over 'unacceptable' Sunderland penalty call",
+        "link": "https://www.skysports.com/football/news/12040/13585214/mikel-arteta-rages-at-sunderland-penalty-decision-after-arsenal-win-at-stadium-of-light-this-cannot-happen"
       },
       {
-        "title": "Spine-tingling New Zealand Haka in front of captivated US crowd!",
-        "link": "https://www.skysports.com/watch/video/13585210/codie-taylor-leads-a-spine-tingling-haka-for-the-first-time-as-captain"
-      },
-      {
-        "title": "Papers: Richarlison takes aim at Spurs after failed Vasco da Gama move",
-        "link": "https://www.skysports.com/football/news/12040/13585182/tottenham-transfer-news-spurs-forward-richarlison-takes-aim-at-spurs-following-collapse-of-proposed-vasco-da-gama-transfer-paper-talk"
+        "title": "Rybakina beats Sabalenka to win US Open title and cement her rise to No 1",
+        "link": "https://www.skysports.com/tennis/news/12040/13585140/us-open-elena-rybakina-cements-her-spot-as-world-no-1-by-dethroning-two-time-winner-aryna-sabalenka-in-new-york"
       },
       {
         "title": "Guimaraes haunts Sunderland as Arsenal continue winning start",
         "link": "https://www.skysports.com/football/sunderland-vs-arsenal/report/559482"
+      },
+      {
+        "title": "Shelton relishing challenge of first Grand Slam final against Zverev at US Open",
+        "link": "https://www.skysports.com/tennis/news/12040/13585138/us-open-ben-shelton-is-relishing-the-challenge-of-a-first-grand-slam-final-against-alexander-zverev-in-new-york"
       }
     ],
     "pitchfork": [],
@@ -171,38 +171,38 @@
     ],
     "variety": [
       {
-        "title": "\u2018SNL U.K.\u2019 Weekend Update Takes Aim at Trump\u2019s New Hair \u2014 and Paddy Young Says the Punchline Was \u2018Taken From Me by Our Legal Team\u2019",
-        "link": "https://variety.com/2026/tv/global/snl-uk-weekend-update-trump-new-hair-1236860013/"
+        "title": "\u2018I Play Rocky\u2019 Premieres at TIFF: A Movie About a Best Picture Winner That\u2019s a Best Picture Contender?",
+        "link": "https://variety.com/2026/film/awards/i-play-rocky-tiff-premiere-peter-farrelly-stallone-oscars-1236859905/"
       },
       {
-        "title": "Jeff Goldblum Performs a Jazz Number to Open \u2018SNL U.K.\u2019 Season 2: \u2018Hoping You\u2019ll Like Me More Than Nando\u2019s or Marmite\u2019",
-        "link": "https://variety.com/2026/tv/global/jeff-goldblum-snl-uk-host-jazz-song-1236859923/"
+        "title": "Lucy Dacus on Doing a Hollywood Bowl Orchestra Show to End Her \u2018Forever Is a Feeling\u2019 Cycle, After Previously Bringing the Boygenius Era to a Close There: \u2018Maybe It\u2019s a Place Where I\u2019m Supposed to Cry\u2019",
+        "link": "https://variety.com/2026/music/news/lucy-dacus-hollywood-bowl-orchestra-show-interview-1236860176/"
       },
       {
-        "title": "Camera-Shy Chrissie Hynde on Finally Allowing a Definitive Doc to Be Made About \u2018The Pretenders,\u2019 Bowing in Toronto: \u2018I Just Wanted to Be in a Band. I\u2019ve Never Graduated Beyond That Initial Interest in It\u2019",
-        "link": "https://variety.com/2026/music/news/pretenders-documentary-chrissie-hynde-toronto-film-festival-1236859953/"
+        "title": "Paramount Leaving California Would Devastate Los Angeles Economy, Leaked Report Finds",
+        "link": "https://variety.com/2026/film/news/paramount-leaving-california-los-angeles-economy-job-loss-1236860125/"
       },
       {
-        "title": "\u2018SNL U.K.\u2019 Mocks Prince Harry and Meghan Markle\u2019s British Return in Cold Open: \u2018Don\u2019t Tell Me You\u2019ve Spent All Your Netflix Money Already!\u2019",
-        "link": "https://variety.com/2026/tv/global/snl-uk-mocks-prince-harry-meghan-markle-british-return-1236859945/"
+        "title": "\u2018Everybody Wants to F\u2014 Me\u2019 Review: Giddily Genre-Crossing Comedy Sees Right Through Taron Egerton\u2019s Nice-Guy Act",
+        "link": "https://variety.com/2026/film/reviews/everybody-wants-to-fuck-me-review-taron-egerton-1236859572/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Mahershala Ali Reveals He Was \u201cYearning\u201d to Perform Action On-Screen Before Filming \u2018Your Mother, Your Mother, Your Mother\u2019",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/mahersala-ali-yearning-your-mother-your-mother-your-mother-1236699277/"
+        "title": "\u2018The Surgeon\u2019 Review: Michelle Yeoh Plays a Kidnapped Doctor Trying to Outwit Her Captors in Deliriously Fun Genre-Bender",
+        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-surgeon-review-michelle-yeoh-roshan-sethi-1236697664/"
       },
       {
-        "title": "Leaked Report Details Fallout if Paramount Follows Through on California Exit Threat",
-        "link": "https://www.hollywoodreporter.com/business/business-news/paramount-warner-brothers-california-exit-threat-economy-1236699278/"
+        "title": "Anthony Ippolito on Speaking to Sylvester Stallone Before Filming \u2018I Play Rocky\u2019: \u201cVery Overwhelming and Daunting\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/anthony-ippolito-sylvester-stallone-i-play-rocky-daunting-1236699402/"
       },
       {
-        "title": "Seth Rogen Says \u2018Babies\u2019 Is \u201cReflective\u201d of His \u201cExperiences\u201d Exploring Parenthood: \u201cIt\u2019s Shocking How Personal It Is\u201d",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/seth-rogen-babies-directed-by-wife-lauren-personal-1236699218/"
+        "title": "Sandra Bullock Recalls \u201cAuditioning for Every Pervert\u201d and Being Asked to \u201cDrop My Pants\u201d: \u201cNot the Role for Me\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/sandra-bullock-pervert-audition-asked-drop-my-pants-1236699363/"
       },
       {
-        "title": "Jeremy Thomas, Producer of Oscar-Winning \u2018The Last Emperor,\u2019 Dies at 77",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/jeremy-thomas-dead-the-last-emperor-crash-producer-1236698886/"
+        "title": "\u2018Reacher\u2019 Star Alan Ritchson and His Wife Catherine Ritchson Announce Split After 20 Years of Marriage",
+        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/alan-ritchson-wife-catherine-split-1236699285/"
       }
     ],
     "larb": [],
