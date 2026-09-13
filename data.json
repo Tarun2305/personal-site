@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13 20:05 UTC",
+  "last_updated": "2026-09-13 22:45 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,12 +7,12 @@
         "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Trump downplays warnings of AI risks as he cites rivalry with China",
-        "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
+        "title": "'Culture shift' needed in how UK does business, PM urges",
+        "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Questions mount over what an AI 'slowdown' would look like",
-        "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss"
+        "title": "Trump downplays warnings of AI risks as he cites rivalry with China",
+        "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Will record donations to Reform go down as a moment of political change?",
@@ -21,39 +21,39 @@
     ],
     "aljazeera": [
       {
-        "title": "Israeli raid targets Palestinian journalist Ali al-Samoudi\u2019s home",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/israeli-raid-targets-palestinian-journalist-ali-al-samoudis-home?traffic_source=rss"
+        "title": "Could AI really kill us within a decade?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/ai-apocalypse-warnings-benefit-ai-companies?traffic_source=rss"
       },
       {
-        "title": "Centre-left opposition bloc leads in Swedish vote, poll shows",
-        "link": "https://www.aljazeera.com/news/2026/9/13/centre-left-opposition-bloc-leads-in-swedish-vote-poll-shows?traffic_source=rss"
+        "title": "Barcelona beat Levante as Yamal scores twice to maintain perfect start",
+        "link": "https://www.aljazeera.com/sports/2026/9/13/barcelona-beat-levante-as-yamal-scores-twice-to-maintain-perfect-start?traffic_source=rss"
       },
       {
-        "title": "\u200bBangsamoro\u2019s parliamentary election is a turning point",
-        "link": "https://www.aljazeera.com/opinions/2026/9/13/bangsamoros-parliamentary-election-is-a-turning-point?traffic_source=rss"
+        "title": "Jefferson-Wooden, Bednarek complete Ultimate Championship sprint doubles",
+        "link": "https://www.aljazeera.com/sports/2026/9/13/jefferson-wooden-bednarek-complete-ultimate-championship-sprint-doubles?traffic_source=rss"
       },
       {
-        "title": "Haaland goal sees 10-man City beat United in controversial Manchester derby",
-        "link": "https://www.aljazeera.com/sports/2026/9/13/haaland-goal-sees-10-men-city-beat-united-in-controversial-manchester-derby?traffic_source=rss"
+        "title": "Manchester City wrongly awarded Haaland goal by VAR at United: Refs\u2019 body",
+        "link": "https://www.aljazeera.com/sports/2026/9/13/manchester-city-wrongly-awarded-haaland-goal-by-var-at-united-refs-body?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Nordqvist hits back at USA \u2018dig\u2019 over Solheim course set-up",
-        "link": "https://www.skysports.com/golf/news/12040/13585550/solheim-cup-2026-europe-captain-anna-nordqvist-dismisses-usa-captain-angela-stanfords-dig-at-course-set-up"
+        "title": "Zverev ends Shelton\u2019s run and American dreams with US Open triumph",
+        "link": "https://www.skysports.com/tennis/news/12040/13585617/us-open-top-seed-alexander-zverev-breaks-ben-sheltons-heart-and-ends-american-dreams-by-winning-title-in-four-sets"
       },
       {
-        "title": "'This game is incredible!' - Allen finds Moore for 43-yard TD",
-        "link": "https://www.skysports.com/watch/video/13585572/nfl-josh-allen-finds-dj-moore-for-43-yard-touchdown-vs-houston-texans"
+        "title": "Hilarious moment as Zverev wins US Open\u2026and doesn\u2019t realise!!!",
+        "link": "https://www.skysports.com/watch/video/13585649/alexander-zverev-wins-us-openand-doesnt-realise"
       },
       {
-        "title": "Norris calls for rule changes after 'unfair' Madrid defeat",
-        "link": "https://www.skysports.com/f1/news/12040/13585294/lando-norris-mclaren-driver-calls-for-rule-changes-to-formula-1-virtual-safety-car-rules-after-losing-out-on-win-to-kimi-antonelli"
+        "title": "Zverev breaks American hearts to become US Open champion",
+        "link": "https://www.skysports.com/watch/video/13585657/alexander-zverev-vs-ben-shelton-us-open-highlights"
       },
       {
-        "title": "'Josh Allen doing Josh Allen things!' - Bills QB with stunning 21-yard TD",
-        "link": "https://www.skysports.com/watch/video/13585547/nfl-josh-allen-with-stunning-21-yard-touchdown-vs-houston-texans"
+        "title": "Wade ends 10-year European title drought with victory in Flanders",
+        "link": "https://www.skysports.com/darts/news/12040/13585608/flanders-darts-trophy-james-wade-ends-10-year-wait-for-european-tour-title-with-win-over-ross-smith-in-antwerp"
       }
     ],
     "pitchfork": [],
@@ -153,6 +153,10 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018How We Stand\u2019 Review: Amber Midthunder Stars in a Richly Drawn, Magical-Realist Indigenous Tale",
+        "link": "https://www.indiewire.com/criticism/movies/how-we-stand-review-amber-midthunder-1235216754/"
+      },
+      {
         "title": "Why Do Men Keep Telling Anna Biller She\u2019s \u2018Camp\u2019?",
         "link": "https://www.indiewire.com/features/interviews/anna-biller-interview-the-face-of-horror-tragedy-camp-1235216707/"
       },
@@ -163,46 +167,42 @@
       {
         "title": "From Tragedy to \u2018Everest\u2019: Inside Jimmy\u00a0Chin and Chai\u00a0Vasarhelyi\u2019s Most Ambitious\u00a0Film Yet",
         "link": "https://www.indiewire.com/awards/consider-this/everest-the-other-side-interview-telluride-jim-morrison-1235216416/"
-      },
-      {
-        "title": "\u2018I Play Rocky\u2019 Review: Sylvester Stallone\u2019s Wild Hollywood Underdog Story Gets a Punchy Crowdpleaser",
-        "link": "https://www.indiewire.com/criticism/movies/i-play-rocky-review-sylvester-stallone-1235216617/"
       }
     ],
     "variety": [
       {
-        "title": "New York Knicks Player Jalen Brunson \u2014 Emmys Host Mariska Hargitay\u2019s Buddy \u2014 Expected to Open Show (EXCLUSIVE)",
-        "link": "https://variety.com/2026/tv/news/new-york-knicks-jalen-brunson-emmys-mariska-hargitay-1236860658/"
+        "title": "Dead Boys Guitarist Cheetah Chrome Dies at 71",
+        "link": "https://variety.com/2026/music/people-news/cheetah-chrome-dead-punk-guitarist-dead-boys-1236860807/"
       },
       {
-        "title": "Emmys Party Pics 2026: Mariska Hargitay, Sheryl Lee Ralph, Riz Ahmed, Katherine LaNasa and More",
-        "link": "https://variety.com/gallery/emmys-2026-party-pics/"
+        "title": "Sara Bareilles on \u2018Good Grief\u2019 and Finding Joy in the Tough Stuff: \u2018Grief Is the Mothership of This Record, but It Carries Release, Hope, Optimism and Connection\u2019",
+        "link": "https://variety.com/2026/music/news/sara-bareilles-interview-good-grief-album-1236860774/"
       },
       {
-        "title": "\u2018One Battle After Another,\u2019 \u2018Frankenstein\u2019 and \u2018Avatar: Fire And Ash\u2019 Among the Winners at MacGuffin Awards",
-        "link": "https://variety.com/2026/awards/news/frankenstein-one-battle-after-another-macguffin-awards-1236860689/"
+        "title": "International Oscar Submissions: Nepal, Singapore, Israel, Romania, South Korea, Chile and More Join the List",
+        "link": "https://variety.com/lists/international-oscar-submissions-2027/"
       },
       {
-        "title": "John Stamos Delivers Emotional Speech About Fatherhood at Creative Coalition Awards",
-        "link": "https://variety.com/2026/awards/news/john-stamos-emotional-speech-fatherhood-creative-coalition-1236858920/"
+        "title": "Ella Langley\u2019s \u2018Dandelion\u2019 Album Returns to No. 1 Spot on Billboard 200 for First Time in Four Months, So \u2018Choosin\u2019 Texas\u2019 Won\u2019t Get Lonely at the Top",
+        "link": "https://variety.com/2026/music/news/ella-langley-dandelion-album-number-one-billboard-adela-1236860730/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "\u2018I Play Rocky\u2019 Review: Anthony Ippolito Is an Endearing Pre-Stardom Sylvester Stallone in Peter Farrelly\u2019s Crowd-Pleasing Making-Of Drama",
-        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/i-play-rocky-review-anthony-ippolito-sylvester-stallone-1236699723/"
+        "title": "Israel\u2019s Culture Minister Threatens to Revoke the Citizenship of \u2018NAZA\u2019 Filmmakers",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/israeli-culture-minister-threatens-naza-filmmakers-1236700077/"
       },
       {
-        "title": "Top 5 New Power Restaurants For Toronto Film Fest Deal-Making, Dining",
-        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/power-restaurants-toronto-film-fest-1236699665/"
+        "title": "Helen Mirren Says \u2018Ripley\u2019 Author Patricia Highsmith Is \u2018The Most Difficult\u2019 Real Person She\u2019s Played: \u201cVery Abrasive\u201d",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/helen-mirren-patricia-highsmith-most-difficult-person-tiff-1236700057/"
       },
       {
-        "title": "\u2018Babies\u2019 Review: Anna Kendrick Is a Comic Dynamo Alongside Seth Rogen in a Sparkling Portrait of a Couple Weighing the Pros and Cons of Parenthood",
-        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/babies-review-anna-kendrick-seth-rogen-lauren-miller-rogen-1236699421/"
+        "title": "Why Jon Hamm Says \u2018American Hostage\u2019 Feels \u201cVery Relevant\u201d to \u201cCurrent Political Climate\u201d",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/jon-hamm-american-hostage-relevant-political-climate-1236699991/"
       },
       {
-        "title": "Paul Anthony Kelly, Shailene Woodley, Matthew McConaughey, Others Tapped to Present at 2026 Emmys",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/paul-anthony-kelly-shailene-woodley-present-2026-emmys-1236699660/"
+        "title": "Alex Gibney Says He Got \u201cNothing Back\u201d From Elon Musk When Reaching Out After Doc Legal Threat",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/alex-gibney-reached-out-elon-musk-tiff-musk-doc-1236699994/"
       }
     ],
     "larb": [],
