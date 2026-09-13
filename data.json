@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13 07:53 UTC",
+  "last_updated": "2026-09-13 13:34 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,53 +7,53 @@
         "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-        "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss"
+        "title": "Reform's \u00a372m donations 'entirely in line with law', Jenrick says",
+        "link": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "PM's top security adviser says Europe faces hard winter to keep pressure on Putin",
-        "link": "https://www.bbc.co.uk/news/articles/crr4en2ylz8o?at_medium=RSS&at_campaign=rss"
+        "title": "'Slim chance' government will hit 1.5m new homes target, Rayner tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Will the Thirlwall report change the debate about Lucy Letby?",
-        "link": "https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss"
+        "title": "Tom Felton: I'm so excited to see Rupert Grint play Ron Weasley again",
+        "link": "https://www.bbc.co.uk/news/articles/cy0zv4j24zgo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Mystery son and disputed heir: Uganda\u2019s king buried amid succession dispute",
-        "link": "https://www.aljazeera.com/news/2026/9/13/mystery-son-and-disputed-heir-ugandas-king-buried-amid-succession-dispute?traffic_source=rss"
+        "title": "Renewed fighting worsens Yemen\u2019s humanitarian crisis",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/renewed-fighting-worsens-yemens-humanitarian-crisis?traffic_source=rss"
       },
       {
-        "title": "Rescuers search for 140 people after Indonesian passenger ship sinks",
-        "link": "https://www.aljazeera.com/news/2026/9/13/one-dead-102-rescued-after-indonesian-ferry-goes-missing-in-java-sea?traffic_source=rss"
+        "title": "How Israel\u2019s destruction of south Lebanon is making displacement permanent",
+        "link": "https://www.aljazeera.com/features/2026/9/13/how-israels-destruction-of-south-lebanon-is-making-displacement-permanent?traffic_source=rss"
       },
       {
-        "title": "About 1,400 Yemenis flee to Djibouti within 24 hours",
-        "link": "https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss"
+        "title": "Ukraine drone strikes kill four as Russia attacks close to Poland border",
+        "link": "https://www.aljazeera.com/news/2026/9/13/ukraine-drone-strikes-kill-four-as-russia-attacks-close-to-poland-border?traffic_source=rss"
       },
       {
-        "title": "Wildfire rages on Croatia\u2019s Dalmatian Coast island of Brac",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/wildfire-rages-on-croatias-dalmatian-coast-island-of-brac?traffic_source=rss"
+        "title": "The Iran war reveals the limits of BRICS",
+        "link": "https://www.aljazeera.com/opinions/2026/9/13/the-iran-war-reveals-the-limits-of?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Touleen faces Forty Years On at Doncaster",
-        "link": "https://www.skysports.com/racing/news/12040/13584516/today-on-sky-sports-racing-touleen-faces-forty-years-on-at-doncaster"
+        "title": "Jimenez hits 90th-minute winner for Wolves at Sheff Utd",
+        "link": "https://www.skysports.com/football/sheffield-united-vs-wolverhampton-wanderers/report/560576"
       },
       {
-        "title": "Garcia takes out Benn in just two rounds",
-        "link": "https://www.skysports.com/boxing/news/12040/13584754/ryan-garcia-finishes-conor-benn-in-just-two-rounds-to-defend-wbc-welterweight-world-championship-in-las-vegas"
+        "title": "Hull wins first full point | 'Now one point's on the board, the rest can follow!'",
+        "link": "https://www.skysports.com/watch/video/13585350/solheim-cup-charley-hull-wins-her-first-full-point"
       },
       {
-        "title": "How to watch Man Utd v Man City",
-        "link": "https://www.skysports.com/football/news/12040/13583655/man-utd-vs-man-city-how-to-watch-premier-league-contest-tv-channel-live-stream-now-tv-and-score-prediction"
+        "title": "Spanish GP: Luckless Norris loses lead in big Madring twist LIVE!",
+        "link": "https://www.skysports.com/f1/live-blog/12040/13585122/f1-spanish-gp-live-race-updates-results-stream-highlights-from-14th-round-of-2026-formula-1-season-at-madring"
       },
       {
-        "title": "Callum Turner on Sky Sports tonight for One Night Only!",
-        "link": "https://www.skysports.com/watch/video/13584022/callum-turner-on-sky-sports-tonight-for-one-night-only"
+        "title": "Madrid madness! Antonelli goes wide TWICE on opening lap",
+        "link": "https://www.skysports.com/watch/video/13585365/spanish-grand-prix-madrid-madness-kimi-antonelli-goes-wide-twice-on-opening-lap"
       }
     ],
     "pitchfork": [],
@@ -80,6 +80,10 @@
     "criterion": [],
     "rogerebert": [
       {
+        "title": "TIFF 2026: Woman Unknown, Lemonade, The Julia Set",
+        "link": "https://www.rogerebert.com/festivals/tiff-2026-woman-unknown-lemonade-the-julia-set"
+      },
+      {
         "title": "TIFF 2026: Tender Loving Care, Bucking Fastard, A Long Winter",
         "link": "https://www.rogerebert.com/festivals/tiff-2026-tender-loving-care-bucking-fastard-a-long-winter"
       },
@@ -90,10 +94,6 @@
       {
         "title": "TIFF 2026: River, Stuffed, The Housewife",
         "link": "https://www.rogerebert.com/festivals/tiff-2026-river-stuffed-the-housewife"
-      },
-      {
-        "title": "Venice 2026: The Basics of Philosophy, Diane in the Loop, Look Back",
-        "link": "https://www.rogerebert.com/festivals/venice-2026-the-basics-of-philosophy-diane-in-the-loop-look-back"
       }
     ],
     "filmcomment": [
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018Babies\u2019 Review: Anna Kendrick and Seth Rogen Debate Parenthood in Lauren Miller Rogen\u2019s Warm, Wise Comedy",
+        "link": "https://www.indiewire.com/criticism/movies/babies-review-anna-kendrick-seth-rogen-1235216694/"
+      },
+      {
+        "title": "How Teens and Endurance Tests Helped Sailing Doc \u2018Mighty Mary\u2019 Go the Distance",
+        "link": "https://www.indiewire.com/features/craft/mighty-mary-americas-cup-documentary-director-interview-1235216249/"
+      },
+      {
         "title": "\u2018Vintage Violence\u2019 Review: Too Much Is Never Enough in\u00a0Eugene Kotlyarenko\u2019s Overstimulating Crime Comedy\u00a0",
         "link": "https://www.indiewire.com/criticism/movies/vintage-violence-review-eugene-kotlyarenko-1235216464/"
       },
       {
         "title": "\u2018Your Mother Your Mother Your Mother\u2019 Review: Faith, Family, and Firearms Drive Bassam Tariq\u2019s Intriguingly Strange Action-Drama",
         "link": "https://www.indiewire.com/criticism/movies/your-mother-your-mother-your-mother-movie-review-1235216627/"
-      },
-      {
-        "title": "\u2018Misty Green\u2019 Review: Rosalind Eleazar Stuns in Chris Rock\u2019s Raw but Unfocused Hollywood Character Study",
-        "link": "https://www.indiewire.com/criticism/movies/misty-green-movie-review-chris-rock-1235216282/"
-      },
-      {
-        "title": "\u2018River\u2019 Review: Jane Levy Anchors a Fearlessly Cruel and Visceral Survival Slasher",
-        "link": "https://www.indiewire.com/criticism/movies/river-movie-review-jane-levy-slasher-1235216672/"
       }
     ],
     "variety": [
       {
-        "title": "Oscars: Philippines Selects Rafael Manuel\u2019s \u2018Filipi\u00f1ana\u2019 for International Feature Race",
-        "link": "https://variety.com/2026/film/awards/oscars-philippines-selects-rafael-manuels-filipinana-international-feature-1236860043/"
+        "title": "Melissa Rivers on Her Glorious Return to the Emmys Carpet, Remembering Her Mom Joan and Why \u2018It\u2019s Been Really Hard\u2019 to Watch \u2018Hacks\u2019",
+        "link": "https://variety.com/2026/tv/features/melissa-rivers-emmys-2026-cnn-variety-1236858878/"
       },
       {
-        "title": "FCC Chairman Slams James Talarico as Running a \u2018Hoax\u2019 With Jimmy Kimmel Interview, Which ABC Punted to YouTube, to Get \u2018Clicks and Donations\u2019",
-        "link": "https://variety.com/2026/tv/news/fcc-chairman-talarico-hoax-jimmy-kimmel-youtube-1236860262/"
+        "title": "\u2018Much Ado About Nothing\u2019 Gets Modern War-Zone Update From Lakeem Rose (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/markets-festivals/much-ado-about-nothing-modern-war-zone-update-lakeem-rose-1236856995/"
       },
       {
-        "title": "Chris Rock\u2019s Hollywood Send-Up \u2018Misty Green\u2019 Hits TIFF With Rosalind Eleazar\u2019s Knockout Lead Performance\u00a0",
-        "link": "https://variety.com/2026/film/awards/misty-green-oscars-rosalind-eleazar-chris-rock-tiff-1236859652/"
+        "title": "Variety and Chanel\u2019s Women in Film Bash: Ayo Edebiri, Lily-Rose Depp, Michelle Yeoh, Courteney Cox and More Light Up TIFF",
+        "link": "https://variety.com/2026/film/variety-events/variety-chanel-tiff-dinner-ayo-edebiri-lily-rose-depp-fala-chen-patricia-arquette-michelle-yeoh-courteney-cox-1236860124/"
       },
       {
-        "title": "Mahershala Ali Finally Made His \u2018Blade\u2019 Film With \u2018Your Mother Your Mother Your Mother\u2019",
-        "link": "https://variety.com/2026/film/news/mahershala-ali-blade-your-mother-your-mother-your-mother-tiff-adia-bassam-tariq-1236860243/"
+        "title": "\u2018The Stunt Driver\u2019 Review: Jay Baruchel Takes a Leap into Tepid Biopic Territory",
+        "link": "https://variety.com/2026/film/reviews/the-stunt-driver-review-1236860383/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Toronto Awards Analysis: \u2018I Play Rocky\u2019 Channels Namesake, Could Follow in Its Oscar Footsteps",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/toronto-awards-analysis-i-play-rocky-1236699433/"
+        "title": "\u2018Back in Black\u2019 Director on Lovable Serial Killer Doing \u201cBad Things for the Right Reasons\u201d in Christopher Walken-Starrer",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/christopher-walken-back-in-black-film-tiff-2026-interview-1236693818/"
       },
       {
-        "title": "\u2018Misty Green\u2019 Review: Rosalind Eleazar Is a Revelation in Chris Rock\u2019s Sharply Observed Love-Hate Portrait of the Hollywood Hustle\u00a0",
-        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/misty-green-review-rosalind-eleazar-chris-rock-1236698536/"
+        "title": "Fina Strazza to Star in, Produce Romantic Drama \u2018Any Way You Want Me\u2019 (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/fina-strazza-romantic-drama-any-way-you-want-me-toronto-1236699547/"
       },
       {
-        "title": "\u2018The Surgeon\u2019 Review: Michelle Yeoh Plays a Kidnapped Doctor Trying to Outwit Her Captors in Deliriously Fun Genre-Bender",
-        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-surgeon-review-michelle-yeoh-roshan-sethi-1236697664/"
+        "title": "Toronto: Irene Dionisio\u2019s \u2018IDDA\u2019 Lands at FilmClub Distribuzione for Italy (Exclusive)",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/toronto-irene-dionisios-idda-1236699536/"
       },
       {
-        "title": "Anthony Ippolito on Speaking to Sylvester Stallone Before Filming \u2018I Play Rocky\u2019: \u201cVery Overwhelming and Daunting\u201d",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/anthony-ippolito-sylvester-stallone-i-play-rocky-daunting-1236699402/"
+        "title": "\u2018Words Are Weapons\u2019: Micha\u00ebl R. Roskam on Turning a WWII Fake-Newspaper Prank Into a Heist Movie",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/michael-r-roskam-on-ww2-film-le-faux-soir-first-media-hack-1236697485/"
       }
     ],
     "larb": [],
@@ -280,6 +280,10 @@
     ],
     "nautilus": [
       {
+        "title": "Gondwana Really Was a Supercontinent",
+        "link": "https://nautil.us/gondwana-really-was-a-supercontinent-1284991/"
+      },
+      {
         "title": "Rope, Twine and Thread: Invisible Technologies of the Stone Age",
         "link": "https://nautil.us/rope-twine-and-thread-invisible-technologies-of-the-stone-age-1284982/"
       },
@@ -290,10 +294,6 @@
       {
         "title": "Even 10 Minutes of \u201cSlow Running\u201d Can Give Your Brain a Boost",
         "link": "https://nautil.us/even-10-minutes-of-slow-running-can-give-your-brain-a-boost-1284996/"
-      },
-      {
-        "title": "Are Too Many Americans Taking Antidepressants?",
-        "link": "https://nautil.us/are-too-many-americans-taking-antidepressants-1284975/"
       }
     ],
     "worksinprogress": [],
