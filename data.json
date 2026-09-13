@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13 02:31 UTC",
+  "last_updated": "2026-09-13 07:53 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,53 +7,53 @@
         "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+        "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "PM's top security adviser says Europe faces hard winter to keep pressure on Putin",
+        "link": "https://www.bbc.co.uk/news/articles/crr4en2ylz8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Will the Thirlwall report change the debate about Lucy Letby?",
         "link": "https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-        "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Student loan terms to be made clearer in England",
-        "link": "https://www.bbc.co.uk/news/articles/cr4vq7rw27qo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Why Spain\u2019s new Sahrawi citizenship law matters to Morocco",
-        "link": "https://www.aljazeera.com/news/2026/9/13/why-spains-new-sahrawi-citizenship-law-matters-to-morocco?traffic_source=rss"
+        "title": "Mystery son and disputed heir: Uganda\u2019s king buried amid succession dispute",
+        "link": "https://www.aljazeera.com/news/2026/9/13/mystery-son-and-disputed-heir-ugandas-king-buried-amid-succession-dispute?traffic_source=rss"
       },
       {
-        "title": "Iran\u2019s Pezeshkian: \u2018We are not at war with Saudi Arabia\u2019",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/13-09-clip-pezeshkian-iran-not-at-war-with-saudis-ir?traffic_source=rss"
+        "title": "Rescuers search for 140 people after Indonesian passenger ship sinks",
+        "link": "https://www.aljazeera.com/news/2026/9/13/one-dead-102-rescued-after-indonesian-ferry-goes-missing-in-java-sea?traffic_source=rss"
       },
       {
-        "title": "Trump says he would \u2018love to see\u2019 a united Ireland during Irish visit",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/12-09-sv-trump-for-united-ireland-ir?traffic_source=rss"
+        "title": "About 1,400 Yemenis flee to Djibouti within 24 hours",
+        "link": "https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss"
       },
       {
-        "title": "Houthi projectile wounds two, damages mosque in Jazan region, Saudi says",
-        "link": "https://www.aljazeera.com/news/2026/9/13/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says?traffic_source=rss"
+        "title": "Wildfire rages on Croatia\u2019s Dalmatian Coast island of Brac",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/wildfire-rages-on-croatias-dalmatian-coast-island-of-brac?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Furious Arteta rages over 'unacceptable' Sunderland penalty call",
-        "link": "https://www.skysports.com/football/news/12040/13585214/mikel-arteta-rages-at-sunderland-penalty-decision-after-arsenal-win-at-stadium-of-light-this-cannot-happen"
+        "title": "Touleen faces Forty Years On at Doncaster",
+        "link": "https://www.skysports.com/racing/news/12040/13584516/today-on-sky-sports-racing-touleen-faces-forty-years-on-at-doncaster"
       },
       {
-        "title": "Rybakina beats Sabalenka to win US Open title and cement her rise to No 1",
-        "link": "https://www.skysports.com/tennis/news/12040/13585140/us-open-elena-rybakina-cements-her-spot-as-world-no-1-by-dethroning-two-time-winner-aryna-sabalenka-in-new-york"
+        "title": "Garcia takes out Benn in just two rounds",
+        "link": "https://www.skysports.com/boxing/news/12040/13584754/ryan-garcia-finishes-conor-benn-in-just-two-rounds-to-defend-wbc-welterweight-world-championship-in-las-vegas"
       },
       {
-        "title": "Guimaraes haunts Sunderland as Arsenal continue winning start",
-        "link": "https://www.skysports.com/football/sunderland-vs-arsenal/report/559482"
+        "title": "How to watch Man Utd v Man City",
+        "link": "https://www.skysports.com/football/news/12040/13583655/man-utd-vs-man-city-how-to-watch-premier-league-contest-tv-channel-live-stream-now-tv-and-score-prediction"
       },
       {
-        "title": "Shelton relishing challenge of first Grand Slam final against Zverev at US Open",
-        "link": "https://www.skysports.com/tennis/news/12040/13585138/us-open-ben-shelton-is-relishing-the-challenge-of-a-first-grand-slam-final-against-alexander-zverev-in-new-york"
+        "title": "Callum Turner on Sky Sports tonight for One Night Only!",
+        "link": "https://www.skysports.com/watch/video/13584022/callum-turner-on-sky-sports-tonight-for-one-night-only"
       }
     ],
     "pitchfork": [],
@@ -80,6 +80,10 @@
     "criterion": [],
     "rogerebert": [
       {
+        "title": "TIFF 2026: Tender Loving Care, Bucking Fastard, A Long Winter",
+        "link": "https://www.rogerebert.com/festivals/tiff-2026-tender-loving-care-bucking-fastard-a-long-winter"
+      },
+      {
         "title": "TIFF 2026: In the Heart of the South, Idda, Magazine",
         "link": "https://www.rogerebert.com/festivals/tiff-2026-in-the-heart-of-the-south-idda-magazine"
       },
@@ -90,10 +94,6 @@
       {
         "title": "Venice 2026: The Basics of Philosophy, Diane in the Loop, Look Back",
         "link": "https://www.rogerebert.com/festivals/venice-2026-the-basics-of-philosophy-diane-in-the-loop-look-back"
-      },
-      {
-        "title": "\u201cMarvel\u2019s Wolverine\u201d is a Bloody Good Time, Bub",
-        "link": "https://www.rogerebert.com/video-games/marvels-wolverine-video-game-review-ps5"
       }
     ],
     "filmcomment": [
@@ -135,59 +135,67 @@
     "reverseshot": [],
     "sensesofcinema": [
       {
+        "title": "Lisa and the Devil",
+        "link": "https://www.sensesofcinema.com/2026/cteq/lisa-and-the-devil/"
+      },
+      {
+        "title": "The Girl Who Knew Too Much",
+        "link": "https://www.sensesofcinema.com/2026/cteq/the-girl-who-knew-too-much/"
+      },
+      {
         "title": "Rabid Dogs",
         "link": "https://www.sensesofcinema.com/2026/cteq/rabid-dogs/"
       },
       {
         "title": "Playful Provocation: Hypermediacy in Mario Bava\u2019s Danger: Diabolik",
         "link": "https://www.sensesofcinema.com/2026/cteq/playful-provocation-hypermediacy-in-mario-bavas-danger-diabolik/"
-      },
-      {
-        "title": "Kill, Baby\u2026 Kill!",
-        "link": "https://www.sensesofcinema.com/2026/cteq/kill-baby-kill/"
-      },
-      {
-        "title": "The Faces of Mario Bava\u2019s Black Sabbath",
-        "link": "https://www.sensesofcinema.com/2026/cteq/the-faces-of-mario-bavas-black-sabbath/"
       }
     ],
     "indiewire": [
       {
+        "title": "\u2018Vintage Violence\u2019 Review: Too Much Is Never Enough in\u00a0Eugene Kotlyarenko\u2019s Overstimulating Crime Comedy\u00a0",
+        "link": "https://www.indiewire.com/criticism/movies/vintage-violence-review-eugene-kotlyarenko-1235216464/"
+      },
+      {
+        "title": "\u2018Your Mother Your Mother Your Mother\u2019 Review: Faith, Family, and Firearms Drive Bassam Tariq\u2019s Intriguingly Strange Action-Drama",
+        "link": "https://www.indiewire.com/criticism/movies/your-mother-your-mother-your-mother-movie-review-1235216627/"
+      },
+      {
+        "title": "\u2018Misty Green\u2019 Review: Rosalind Eleazar Stuns in Chris Rock\u2019s Raw but Unfocused Hollywood Character Study",
+        "link": "https://www.indiewire.com/criticism/movies/misty-green-movie-review-chris-rock-1235216282/"
+      },
+      {
         "title": "\u2018River\u2019 Review: Jane Levy Anchors a Fearlessly Cruel and Visceral Survival Slasher",
         "link": "https://www.indiewire.com/criticism/movies/river-movie-review-jane-levy-slasher-1235216672/"
-      },
-      {
-        "title": "\u2018Purgatory\u2019 Review: This Charming Catholic Coming-of-Age Story Never Quite Ascends",
-        "link": "https://www.indiewire.com/criticism/movies/purgatory-review-1235216402/"
-      },
-      {
-        "title": "Venice Prizes Elevate John Malkovich, \u2018Possible Love,\u2019 and \u2018NAZA\u2019 to Oscar Frontrunners",
-        "link": "https://www.indiewire.com/awards/predictions/venice-john-malkovich-possible-love-naza-oscar-frontrunners-1235216651/"
-      },
-      {
-        "title": "\u2018Edward Said: Between Worlds\u2019 Brings an Articulate Palestinian Spokesman Back to Life",
-        "link": "https://www.indiewire.com/awards/consider-this/edward-said-between-worlds-palestinian-spokesman-interview-1235216388/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018I Play Rocky\u2019 Premieres at TIFF: A Movie About a Best Picture Winner That\u2019s a Best Picture Contender?",
-        "link": "https://variety.com/2026/film/awards/i-play-rocky-tiff-premiere-peter-farrelly-stallone-oscars-1236859905/"
+        "title": "Oscars: Philippines Selects Rafael Manuel\u2019s \u2018Filipi\u00f1ana\u2019 for International Feature Race",
+        "link": "https://variety.com/2026/film/awards/oscars-philippines-selects-rafael-manuels-filipinana-international-feature-1236860043/"
       },
       {
-        "title": "Lucy Dacus on Doing a Hollywood Bowl Orchestra Show to End Her \u2018Forever Is a Feeling\u2019 Cycle, After Previously Bringing the Boygenius Era to a Close There: \u2018Maybe It\u2019s a Place Where I\u2019m Supposed to Cry\u2019",
-        "link": "https://variety.com/2026/music/news/lucy-dacus-hollywood-bowl-orchestra-show-interview-1236860176/"
+        "title": "FCC Chairman Slams James Talarico as Running a \u2018Hoax\u2019 With Jimmy Kimmel Interview, Which ABC Punted to YouTube, to Get \u2018Clicks and Donations\u2019",
+        "link": "https://variety.com/2026/tv/news/fcc-chairman-talarico-hoax-jimmy-kimmel-youtube-1236860262/"
       },
       {
-        "title": "Paramount Leaving California Would Devastate Los Angeles Economy, Leaked Report Finds",
-        "link": "https://variety.com/2026/film/news/paramount-leaving-california-los-angeles-economy-job-loss-1236860125/"
+        "title": "Chris Rock\u2019s Hollywood Send-Up \u2018Misty Green\u2019 Hits TIFF With Rosalind Eleazar\u2019s Knockout Lead Performance\u00a0",
+        "link": "https://variety.com/2026/film/awards/misty-green-oscars-rosalind-eleazar-chris-rock-tiff-1236859652/"
       },
       {
-        "title": "\u2018Everybody Wants to F\u2014 Me\u2019 Review: Giddily Genre-Crossing Comedy Sees Right Through Taron Egerton\u2019s Nice-Guy Act",
-        "link": "https://variety.com/2026/film/reviews/everybody-wants-to-fuck-me-review-taron-egerton-1236859572/"
+        "title": "Mahershala Ali Finally Made His \u2018Blade\u2019 Film With \u2018Your Mother Your Mother Your Mother\u2019",
+        "link": "https://variety.com/2026/film/news/mahershala-ali-blade-your-mother-your-mother-your-mother-tiff-adia-bassam-tariq-1236860243/"
       }
     ],
     "hollywoodreporter": [
+      {
+        "title": "Toronto Awards Analysis: \u2018I Play Rocky\u2019 Channels Namesake, Could Follow in Its Oscar Footsteps",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/toronto-awards-analysis-i-play-rocky-1236699433/"
+      },
+      {
+        "title": "\u2018Misty Green\u2019 Review: Rosalind Eleazar Is a Revelation in Chris Rock\u2019s Sharply Observed Love-Hate Portrait of the Hollywood Hustle\u00a0",
+        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/misty-green-review-rosalind-eleazar-chris-rock-1236698536/"
+      },
       {
         "title": "\u2018The Surgeon\u2019 Review: Michelle Yeoh Plays a Kidnapped Doctor Trying to Outwit Her Captors in Deliriously Fun Genre-Bender",
         "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-surgeon-review-michelle-yeoh-roshan-sethi-1236697664/"
@@ -195,14 +203,6 @@
       {
         "title": "Anthony Ippolito on Speaking to Sylvester Stallone Before Filming \u2018I Play Rocky\u2019: \u201cVery Overwhelming and Daunting\u201d",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/anthony-ippolito-sylvester-stallone-i-play-rocky-daunting-1236699402/"
-      },
-      {
-        "title": "Sandra Bullock Recalls \u201cAuditioning for Every Pervert\u201d and Being Asked to \u201cDrop My Pants\u201d: \u201cNot the Role for Me\u201d",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/sandra-bullock-pervert-audition-asked-drop-my-pants-1236699363/"
-      },
-      {
-        "title": "\u2018Reacher\u2019 Star Alan Ritchson and His Wife Catherine Ritchson Announce Split After 20 Years of Marriage",
-        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/alan-ritchson-wife-catherine-split-1236699285/"
       }
     ],
     "larb": [],
