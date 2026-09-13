@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-09-13 17:48 UTC",
+  "last_updated": "2026-09-13 20:05 UTC",
   "feeds": {
     "bbc": [
-      {
-        "title": "Reform confident it won't need to repay any of \u00a372m under proposed new donor rules",
-        "link": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss"
-      },
       {
         "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
         "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Trump downplays AI risks after dire expert warnings and calls to slow development down",
+        "title": "Trump downplays warnings of AI risks as he cites rivalry with China",
         "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Andy Burnham among Great North Run finishers",
-        "link": "https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&at_campaign=rss"
+        "title": "Questions mount over what an AI 'slowdown' would look like",
+        "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Will record donations to Reform go down as a moment of political change?",
+        "link": "https://www.bbc.co.uk/news/articles/cr7dl593k8yo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "French TV programme pulled after actress speaks out on Gaza",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/french-tv-programme-pulled-after-actress-speaks-out-on-gaza?traffic_source=rss"
+        "title": "Israeli raid targets Palestinian journalist Ali al-Samoudi\u2019s home",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/israeli-raid-targets-palestinian-journalist-ali-al-samoudis-home?traffic_source=rss"
       },
       {
-        "title": "Ukrainian drone evades Russian helicopter fire to strike oil tanker",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-12-ukraine-drone-russian-tanker-sv?traffic_source=rss"
+        "title": "Centre-left opposition bloc leads in Swedish vote, poll shows",
+        "link": "https://www.aljazeera.com/news/2026/9/13/centre-left-opposition-bloc-leads-in-swedish-vote-poll-shows?traffic_source=rss"
       },
       {
-        "title": "Kosovo approves new government after months of political deadlock",
-        "link": "https://www.aljazeera.com/news/2026/9/13/kosovo-approves-new-government-after-months-of-political-deadlock?traffic_source=rss"
+        "title": "\u200bBangsamoro\u2019s parliamentary election is a turning point",
+        "link": "https://www.aljazeera.com/opinions/2026/9/13/bangsamoros-parliamentary-election-is-a-turning-point?traffic_source=rss"
       },
       {
-        "title": "F1 leader Antonelli wins Spanish Grand Prix as unlucky Norris misses out",
-        "link": "https://www.aljazeera.com/sports/2026/9/13/f1-leader-antonelli-wins-spanish-grand-prix-as-unlucky-norris-misses-out?traffic_source=rss"
+        "title": "Haaland goal sees 10-man City beat United in controversial Manchester derby",
+        "link": "https://www.aljazeera.com/sports/2026/9/13/haaland-goal-sees-10-men-city-beat-united-in-controversial-manchester-derby?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "US Open LIVE! Zverev faces home-favourite Shelton in men's final",
-        "link": "https://www.skysports.com/tennis/live-blog/12040/13585240/us-open-live-scores-updates-news-commentary-results-from-new-york-with-alexander-zverev-taking-on-ben-shelton-in-the-mens-final"
+        "title": "Nordqvist hits back at USA \u2018dig\u2019 over Solheim course set-up",
+        "link": "https://www.skysports.com/golf/news/12040/13585550/solheim-cup-2026-europe-captain-anna-nordqvist-dismisses-usa-captain-angela-stanfords-dig-at-course-set-up"
       },
       {
-        "title": "Montgomery bundles over for Texans' first TD of season",
-        "link": "https://www.skysports.com/watch/video/13585535/nfl-david-montgomery-bundles-over-for-houston-texans-first-touchdown-of-season"
+        "title": "'This game is incredible!' - Allen finds Moore for 43-yard TD",
+        "link": "https://www.skysports.com/watch/video/13585572/nfl-josh-allen-finds-dj-moore-for-43-yard-touchdown-vs-houston-texans"
       },
       {
-        "title": "Haaland scores controversial derby winner for Man City after Foden red",
-        "link": "https://www.skysports.com/football/manchester-united-vs-manchester-city/report/559481"
+        "title": "Norris calls for rule changes after 'unfair' Madrid defeat",
+        "link": "https://www.skysports.com/f1/news/12040/13585294/lando-norris-mclaren-driver-calls-for-rule-changes-to-formula-1-virtual-safety-car-rules-after-losing-out-on-win-to-kimi-antonelli"
       },
       {
-        "title": "Europe's big names shine in Solheim Cup victory over USA",
-        "link": "https://www.skysports.com/watch/video/13585500/solheim-cup-sunday-singles-highlights"
+        "title": "'Josh Allen doing Josh Allen things!' - Bills QB with stunning 21-yard TD",
+        "link": "https://www.skysports.com/watch/video/13585547/nfl-josh-allen-with-stunning-21-yard-touchdown-vs-houston-texans"
       }
     ],
     "pitchfork": [],
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
-        "title": "\u2018Mr. Irrelevant\u2019 Trailer: David Corenswet Toughs and Smiles His Way to the NFL as Last Draft Pick John Tuggle",
-        "link": "https://www.indiewire.com/news/trailers/mr-irrelevant-trailer-david-corenswet-john-tuggle-1235216155/"
+        "title": "Why Do Men Keep Telling Anna Biller She\u2019s \u2018Camp\u2019?",
+        "link": "https://www.indiewire.com/features/interviews/anna-biller-interview-the-face-of-horror-tragedy-camp-1235216707/"
       },
       {
-        "title": "\u2018Practical Magic 2,\u2019 the Sequel to a 28-Year-Old Box Office Bomb, Opens to Lackluster $30 Million",
-        "link": "https://www.indiewire.com/news/box-office/practical-magic-2-box-office-bomb-sandra-bullock-nicole-kidman-1235216664/"
+        "title": "\u2018The Uprising\u2019 Bombs at Box Office Despite Last-Ditch Scramble to Market Film as Robin Hood Origin Story",
+        "link": "https://www.indiewire.com/news/box-office/the-uprising-bombs-box-office-robin-hood-marketing-1235216733/"
       },
       {
-        "title": "How Susanna White Brought Lauded One-Woman Play \u2018Prima Facie\u2019 to the Big Screen (Casting Cynthia Erivo Helped)",
-        "link": "https://www.indiewire.com/features/interviews/prima-facie-movie-adaptation-susanna-white-cynthia-erivo-1235216255/"
+        "title": "From Tragedy to \u2018Everest\u2019: Inside Jimmy\u00a0Chin and Chai\u00a0Vasarhelyi\u2019s Most Ambitious\u00a0Film Yet",
+        "link": "https://www.indiewire.com/awards/consider-this/everest-the-other-side-interview-telluride-jim-morrison-1235216416/"
       },
       {
-        "title": "\u2018The Remotes\u2019 Review: John Torres\u2019 Sci-Fi Noir is an Unshakable Film About a Sinister Navigation App",
-        "link": "https://www.indiewire.com/criticism/movies/the-remotes-movie-review-philippine-new-wave-1235216715/"
+        "title": "\u2018I Play Rocky\u2019 Review: Sylvester Stallone\u2019s Wild Hollywood Underdog Story Gets a Punchy Crowdpleaser",
+        "link": "https://www.indiewire.com/criticism/movies/i-play-rocky-review-sylvester-stallone-1235216617/"
       }
     ],
     "variety": [
       {
-        "title": "Seth Rogen Tells TIFF the Best Advice He\u2019s Ever Received: \u2018Less Semen, More Emotion!\u2019",
-        "link": "https://variety.com/2026/tv/news/seth-rogen-tiff-best-advice-semen-emotion-the-studio-judd-apatow-1236860532/"
+        "title": "New York Knicks Player Jalen Brunson \u2014 Emmys Host Mariska Hargitay\u2019s Buddy \u2014 Expected to Open Show (EXCLUSIVE)",
+        "link": "https://variety.com/2026/tv/news/new-york-knicks-jalen-brunson-emmys-mariska-hargitay-1236860658/"
       },
       {
-        "title": "Teary-Eyed Kaley Cuoco Recalls Death of Her \u20188 Simple Rules\u2019 TV Dad John Ritter: \u2018One of the Worst Days of My Life\u2019",
-        "link": "https://variety.com/2026/tv/columns/kaley-cuoco-death-8-simple-rules-john-ritter-1236860467/"
+        "title": "Emmys Party Pics 2026: Mariska Hargitay, Sheryl Lee Ralph, Riz Ahmed, Katherine LaNasa and More",
+        "link": "https://variety.com/gallery/emmys-2026-party-pics/"
       },
       {
-        "title": "Hollywood Ventures Group, Canada\u2019s\u00a0Big Picture Cinema Group, and Morocco\u2019s Pink Sheep Team on Casablanca-Set Thriller \u2018The Final Bet\u2019 (EXCLUSIVE)",
-        "link": "https://variety.com/2026/film/markets-festivals/hollywood-ventures-big-picture-cinema-morocco-final-bet-1236859412/"
+        "title": "\u2018One Battle After Another,\u2019 \u2018Frankenstein\u2019 and \u2018Avatar: Fire And Ash\u2019 Among the Winners at MacGuffin Awards",
+        "link": "https://variety.com/2026/awards/news/frankenstein-one-battle-after-another-macguffin-awards-1236860689/"
       },
       {
-        "title": "Nike Unveils Alex Eala T-Shirt Inspired by Tennis Phenom\u2019s Filipino Heritage",
-        "link": "https://variety.com/2026/shopping/news/nike-alexandra-eala-t-shirt-sampaguita-shop-online-1236860470/"
+        "title": "John Stamos Delivers Emotional Speech About Fatherhood at Creative Coalition Awards",
+        "link": "https://variety.com/2026/awards/news/john-stamos-emotional-speech-fatherhood-creative-coalition-1236858920/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Toronto: Seth Rogen Shares Secret to Hollywood Success: \u00a0\u201cI Was Lucky Coming Up\u201d",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/toronto-seth-rogen-secret-hollywood-success-1236699644/"
+        "title": "\u2018I Play Rocky\u2019 Review: Anthony Ippolito Is an Endearing Pre-Stardom Sylvester Stallone in Peter Farrelly\u2019s Crowd-Pleasing Making-Of Drama",
+        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/i-play-rocky-review-anthony-ippolito-sylvester-stallone-1236699723/"
       },
       {
-        "title": "Nick Bilton, Bari Weiss, Tom Cibrowski Send Congratulatory \u201960 Minutes\u2019 Memo to Staff Ahead of Season Premiere",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/nick-bilton-bari-weiss-60-minutes-staff-memo-ahead-premiere-1236699615/"
+        "title": "Top 5 New Power Restaurants For Toronto Film Fest Deal-Making, Dining",
+        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/power-restaurants-toronto-film-fest-1236699665/"
       },
       {
-        "title": "THR and SAG-AFTRA Toast This Year\u2019s Top TV Talent at Emmy Nominees Night",
-        "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/sag-aftra-top-tv-talent-emmy-nominees-night-party-1236699499/"
+        "title": "\u2018Babies\u2019 Review: Anna Kendrick Is a Comic Dynamo Alongside Seth Rogen in a Sparkling Portrait of a Couple Weighing the Pros and Cons of Parenthood",
+        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/babies-review-anna-kendrick-seth-rogen-lauren-miller-rogen-1236699421/"
       },
       {
-        "title": "\u2018Practical Magic 2\u2019 Summons $30M to End Spider-Man\u2019s Streak at No. 1",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/practical-magic-2-box-office-spider-man-domestic-record-1236698853/"
+        "title": "Paul Anthony Kelly, Shailene Woodley, Matthew McConaughey, Others Tapped to Present at 2026 Emmys",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/paul-anthony-kelly-shailene-woodley-present-2026-emmys-1236699660/"
       }
     ],
     "larb": [],
