@@ -5,12 +5,10 @@ const elements = {
     scrim: document.getElementById("scrim"),
     menuButton: document.getElementById("menu-button"),
     sidebarClose: document.getElementById("sidebar-close"),
-    mobileSearch: document.getElementById("mobile-search"),
     categoryNav: document.getElementById("category-nav"),
     title: document.getElementById("view-title"),
     eyebrow: document.getElementById("view-eyebrow"),
     actions: document.getElementById("view-actions"),
-    search: document.getElementById("search-input"),
     sort: document.getElementById("sort-select"),
     sources: document.getElementById("source-directory"),
     storyList: document.getElementById("story-list"),
@@ -121,7 +119,6 @@ function navigate(view, { updateHash = true } = {}) {
     currentView = validView(view) ? view : "today";
     visibleLimit = 24;
     if (updateHash) history.replaceState(null, "", `#${currentView}`);
-    elements.search.value = "";
     closeSidebar();
     render();
     window.scrollTo({ top: 0, behavior: "smooth" });
@@ -141,11 +138,6 @@ function selectedStories() {
     if (currentView === "saved") selection = selection.filter(story => userState.saved[story.id]);
     else if (currentView === "history") selection = selection.filter(story => userState.read[story.id]);
     else if (currentView !== "today") selection = selection.filter(story => story.source.category === currentView);
-
-    const query = elements.search.value.trim().toLocaleLowerCase();
-    if (query) {
-        selection = selection.filter(story => `${story.title} ${story.description ?? ""} ${story.source.name}`.toLocaleLowerCase().includes(query));
-    }
 
     const sort = elements.sort.value;
     return selection.sort((left, right) => {
@@ -210,8 +202,8 @@ function renderStories(selection) {
 
     if (selection.length === 0) {
         elements.empty.hidden = false;
-        elements.emptyTitle.textContent = elements.search.value ? "No matches" : currentView === "saved" ? "Nothing saved yet" : currentView === "history" ? "No reading history yet" : "No stories available";
-        elements.emptyDescription.textContent = elements.search.value ? "Try a different title, topic, or publication." : currentView === "saved" ? "Save anything interesting and it will wait here." : "Try another section or come back after the next feed update.";
+        elements.emptyTitle.textContent = currentView === "saved" ? "Nothing saved yet" : currentView === "history" ? "No reading history yet" : "No stories available";
+        elements.emptyDescription.textContent = currentView === "saved" ? "Save anything interesting and it will wait here." : "Try another section or come back after the next feed update.";
     }
 }
 
@@ -378,11 +370,6 @@ document.addEventListener("click", event => {
 elements.menuButton.addEventListener("click", openSidebar);
 elements.sidebarClose.addEventListener("click", closeSidebar);
 elements.scrim.addEventListener("click", closeSidebar);
-elements.mobileSearch.addEventListener("click", () => {
-    elements.search.scrollIntoView({ behavior: "smooth", block: "center" });
-    elements.search.focus();
-});
-elements.search.addEventListener("input", () => { visibleLimit = 24; render(); });
 elements.sort.addEventListener("change", () => { visibleLimit = 24; render(); });
 elements.loadMore.addEventListener("click", () => { visibleLimit += 24; render(); });
 
