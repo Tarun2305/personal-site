@@ -11,7 +11,6 @@ const elements = {
     categoryNav: document.getElementById("category-nav"),
     title: document.getElementById("view-title"),
     eyebrow: document.getElementById("view-eyebrow"),
-    description: document.getElementById("view-description"),
     actions: document.getElementById("view-actions"),
     search: document.getElementById("search-input"),
     sort: document.getElementById("sort-select"),
@@ -131,19 +130,12 @@ function navigate(view, { updateHash = true } = {}) {
 }
 
 function viewDetails() {
-    if (currentView === "today") return { title: "Today", eyebrow: "Your reading desk", description: "A mixed stream from everything you follow." };
-    if (currentView === "saved") return { title: "Saved", eyebrow: "For later", description: "The stories you decided were worth coming back to." };
-    if (currentView === "history") return { title: "History", eyebrow: "Previously read", description: "Stories you have marked as read on this device." };
-    if (currentView === "archive") return { title: "Archive lookup", eyebrow: "Utility", description: "Find the newest Archive.today snapshot of any public page." };
+    if (currentView === "today") return { title: "Today", eyebrow: "Your reading desk" };
+    if (currentView === "saved") return { title: "Saved", eyebrow: "For later" };
+    if (currentView === "history") return { title: "History", eyebrow: "Previously read" };
+    if (currentView === "archive") return { title: "Archive lookup", eyebrow: "Utility" };
     const category = data.categories.find(item => item.id === currentView);
-    const descriptions = {
-        news: "Reporting and analysis from your regular news sources.",
-        sports: "Chelsea coverage and club news.",
-        music: "Reviews, discoveries, and writing about albums.",
-        film: "Criticism, festivals, interviews, and film culture.",
-        essays: "Long-form ideas, criticism, science, and journals.",
-    };
-    return { title: category?.name ?? "Today", eyebrow: "Section", description: descriptions[currentView] ?? "Stories from this section." };
+    return { title: category?.name ?? "Today", eyebrow: "Section" };
 }
 
 function selectedStories() {
@@ -170,7 +162,6 @@ function render() {
     elements.title.textContent = details.title;
     elements.mobileTitle.textContent = details.title;
     elements.eyebrow.textContent = details.eyebrow;
-    elements.description.textContent = details.description;
     document.title = `${details.title} · Reading desk`;
 
     document.querySelectorAll("[data-view]").forEach(button => {
