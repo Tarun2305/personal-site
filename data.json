@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14 02:47 UTC",
+  "last_updated": "2026-09-14 08:25 UTC",
   "feeds": {
     "bbc": [
       {
@@ -7,53 +7,53 @@
         "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
+        "title": "Watch: Why Russian strike on train could be sign of escalation",
         "link": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'Culture shift' needed in how UK does business, PM urges",
-        "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss"
+        "title": "MPs and Lords call for new law to address AI threat to human rights",
+        "link": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Trump downplays warnings of AI risks as he cites rivalry with China",
-        "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
+        "title": "Deep-fried food banned under new school dinner rules in England",
+        "link": "https://www.bbc.co.uk/news/articles/cy4zrepw78eo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "aljazeera": [
       {
-        "title": "Niger mutiny exposes growing reliance on Russia",
-        "link": "https://www.aljazeera.com/news/2026/9/14/niger-mutiny-exposes-growing-reliance-on-russia?traffic_source=rss"
+        "title": "Why Bangladesh is struggling against measles epidemic despite 20m vaccines",
+        "link": "https://www.aljazeera.com/news/2026/9/14/why-bangladesh-is-struggling-against-measles-epidemic-despite-20m-vaccines?traffic_source=rss"
       },
       {
-        "title": "Philippines\u2019 Muslim-majority Bangsamoro region votes for first parliament",
-        "link": "https://www.aljazeera.com/news/2026/9/14/philippines-muslim-majority-bangsamoro-region-votes-for-first-parliament?traffic_source=rss"
+        "title": "US Kennedy Center faces bankruptcy, Washington Post reports",
+        "link": "https://www.aljazeera.com/news/2026/9/14/us-kennedy-center-faces-bankruptcy-washington-post-reports?traffic_source=rss"
       },
       {
-        "title": "Protests erupt across Syria over sharp fuel price hikes",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/14-09-sv-syria-protest-fuel-hikes-sy?traffic_source=rss"
+        "title": "The Zionist dream of a state stretching from the Mediterranean to Iraq",
+        "link": "https://www.aljazeera.com/video/al-jazeera-originals/2026/9/14/the-zionist-dream-of-a-state-stretching-from-the-mediterranean-to-iraq?traffic_source=rss"
       },
       {
-        "title": "Heavy rain falls over the Kaaba in Mecca",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/aje-onl-nf_heavy-rain-falls-over-the-kaaba-in-mecca-130926?traffic_source=rss"
+        "title": "Animated map shows spread of illegal Israeli settlements across Palestine",
+        "link": "https://www.aljazeera.com/news/2026/9/14/animated-map-shows-spread-of-illegal-israeli-settlements-across-palestine?traffic_source=rss"
       }
     ],
     "chelsea_bbc": [],
     "chelsea_sky": [
       {
-        "title": "Zverev ends Shelton\u2019s run and American dreams with US Open triumph",
-        "link": "https://www.skysports.com/tennis/news/12040/13585617/us-open-top-seed-alexander-zverev-breaks-ben-sheltons-heart-and-ends-american-dreams-by-winning-title-in-four-sets"
+        "title": "Windsor\u2019s flat season finale headlines Monday\u2019s action",
+        "link": "https://www.skysports.com/racing/news/12040/13585370/today-on-sky-sports-racing-windsors-flat-season-finale-headlines-mondays-action"
       },
       {
-        "title": "Hilarious moment as Zverev wins US Open\u2026and doesn\u2019t realise!!!",
-        "link": "https://www.skysports.com/watch/video/13585649/alexander-zverev-wins-us-openand-doesnt-realise"
+        "title": "'Pietersen will add spark' as he begins England white-ball coaching role",
+        "link": "https://www.skysports.com/cricket/news/12040/13585312/kevin-pietersen-buzzing-at-england-white-ball-coaching-role-as-specialist-mentor-says-marcus-trescothick"
       },
       {
-        "title": "Zverev breaks American hearts to become US Open champion",
-        "link": "https://www.skysports.com/watch/video/13585657/alexander-zverev-vs-ben-shelton-us-open-highlights"
+        "title": "Zverev: I am best player in the world right now",
+        "link": "https://www.skysports.com/tennis/news/12040/13585668/us-open-alexander-zverev-sends-out-warning-to-jannik-sinner-and-carlos-alcaraz-claiming-he-is-currently-the-best-tennis-player-in-the-world"
       },
       {
-        "title": "Wade ends 10-year European title drought with victory in Flanders",
-        "link": "https://www.skysports.com/darts/news/12040/13585608/flanders-darts-trophy-james-wade-ends-10-year-wait-for-european-tour-title-with-win-over-ross-smith-in-antwerp"
+        "title": "Giants defeat divisional rivals Cowboys in opening week thriller",
+        "link": "https://www.skysports.com/watch/video/13585697/new-york-giants-vs-dallas-cowboys-nfl-highlights"
       }
     ],
     "pitchfork": [],
@@ -116,6 +116,10 @@
     ],
     "mubi": [
       {
+        "title": "Venice Dispatch: The Garden of Forking Paths",
+        "link": "https://mubi.com/en/notebook/posts/venice-dispatch-the-garden-of-forking-paths"
+      },
+      {
         "title": "Survival Tactics: A Locarno Critics Academy Correspondence",
         "link": "https://mubi.com/en/notebook/posts/survival-tactics-a-locarno-critics-academy-correspondence"
       },
@@ -126,10 +130,6 @@
       {
         "title": "Rushes | Remembering Dolly Parton, A24 Teases Nathan Fielder's Elizabeth Holmes Doc, the 100 Most-Screened Films in NYC",
         "link": "https://mubi.com/en/notebook/posts/rushes-remembering-dolly-parton-a24-teases-nathan-fielder-s-elizabeth-holmes-doc-the-100-most-screened-films-in-nyc"
-      },
-      {
-        "title": "It Was Once Fire: A Locarno Critics Academy Correspondence",
-        "link": "https://mubi.com/en/notebook/posts/it-was-once-fire-a-locarno-critics-academy-correspondence"
       }
     ],
     "reverseshot": [],
@@ -153,56 +153,56 @@
     ],
     "indiewire": [
       {
+        "title": "\u2018The Life and Deaths of Wilson Shedd\u2019 Review: Amanda Seyfried Falls for a Convicted Killer in Tim Blake Nelson\u2019s Sad and Sober Death Penalty Drama",
+        "link": "https://www.indiewire.com/criticism/movies/the-life-and-deaths-of-wilson-shedd-movie-review-1235216620/"
+      },
+      {
+        "title": "\u2018All That She Wants\u2019 Review: It\u2019s Time to Welcome Annie Murphy to the Rom-Com Queen Club",
+        "link": "https://www.indiewire.com/criticism/movies/all-that-she-wants-movie-review-annie-murphy-rom-com-1235213198/"
+      },
+      {
         "title": "\u2018Love of Your Life\u2019 Review: Margaret Qualley Plays a Woman Adrift in the Kind of Lush and Tender Romantic Drama Hollywood Rarely Makes Anymore",
         "link": "https://www.indiewire.com/criticism/movies/love-of-your-life-movie-review-margaret-qualley-1235216321/"
       },
       {
         "title": "\u2018Lanterns\u2019 Review: Episode 5 Lights Up Rushville with a Sh*tstorm of Consequences \u2014 Spoilers",
         "link": "https://www.indiewire.com/criticism/shows/lanterns-episode-5-review-lights-out-rushville-spoilers-1235216271/"
-      },
-      {
-        "title": "\u2018How We Stand\u2019 Review: Amber Midthunder Stars in a Richly Drawn, Magical-Realist Indigenous Tale",
-        "link": "https://www.indiewire.com/criticism/movies/how-we-stand-review-amber-midthunder-1235216754/"
-      },
-      {
-        "title": "Why Do Men Keep Telling Anna Biller She\u2019s \u2018Camp\u2019?",
-        "link": "https://www.indiewire.com/features/interviews/anna-biller-interview-the-face-of-horror-tragedy-camp-1235216707/"
       }
     ],
     "variety": [
       {
-        "title": "\u2018Lanterns\u2019 Star Poorna Jagannathan Breaks Down Zoe\u2019s Brutal Episode 5: \u2018It\u2019s a Faustian Play She Makes\u2019",
-        "link": "https://variety.com/2026/tv/news/lanterns-episode-5-zoe-manhunter-john-kills-zoe-1236858961/"
+        "title": "Lee Chang-dong\u2019s Films Head to Netflix Worldwide After \u2018Possible Love\u2019 Wins Silver Lion at Venice",
+        "link": "https://variety.com/2026/tv/festivals/lee-chang-dong-netflix-films-possible-love-venice-1236860979/"
       },
       {
-        "title": "\u201960 Minutes\u2019 Kicks Off Much-Scrutinized 59th Season With Old Ticks, Tricks",
-        "link": "https://variety.com/2026/tv/news/60-minutes-season-59-launch-cbs-news-old-tricks-ticks-1236860783/"
+        "title": "Korea Box Office: \u2018The Odyssey\u2019 Secures Sixth Weekend Crown as \u2018Obsession\u2019 Ascends",
+        "link": "https://variety.com/2026/film/box-office/korea-box-office-the-odyssey-obsession-1236860949/"
       },
       {
-        "title": "Cynthia Erivo\u2019s Riveting \u2018Prima Facie\u2019 Performance Earns TIFF Standing Ovation \u00a0",
-        "link": "https://variety.com/2026/film/news/cynthia-erivo-prima-facie-tiff-standing-ovation-1236860782/"
+        "title": "China Box Office: \u2018Once Upon a Time in the Middle East\u2019 Stays on Top as \u2018The Odyssey\u2019 Crosses $100 Million",
+        "link": "https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-the-odyssey-100-million-1236860945/"
       },
       {
-        "title": "Seth Green Says He Was Never Invited Back for the Canceled \u2018Buffy the Vampire Slayer\u2019 Reboot",
-        "link": "https://variety.com/2026/tv/actors/seth-green-canceled-buffy-the-vampire-slayer-reboot-1236860816/"
+        "title": "\u2018Pretenders\u2019 Review: A Superb Portrait of Chrissie Hynde and Her Legendary Band Captures Their Incandescence\u2026and Tragedy",
+        "link": "https://variety.com/2026/film/reviews/pretenders-review-chrissie-hynde-tiff-1236860631/"
       }
     ],
     "hollywoodreporter": [
       {
-        "title": "Oscars: Philippines Picks Rafael Manuel\u2019s \u2018Filipi\u00f1ana\u2019 as Best International Feature Selection",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/philippines-rafael-manuel-filipinana-2027-oscars-1236700190/"
+        "title": "Netflix to Stream Lee Chang-dong\u2019s Films Globally as \u2018Possible Love\u2019 Awards Campaign Heats Up",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/netflix-lee-chang-dong-possible-love-awards-campaign-1236700399/"
       },
       {
-        "title": "Lucy Dacus on Closing Out the \u2018Forever Is a Feeling\u2019 Chapter, Finding Fandom Boundaries and What\u2019s Next",
-        "link": "https://www.hollywoodreporter.com/music/music-features/lucy-dacus-forever-is-a-feeling-hollywood-bowl-interview-1236699997/"
+        "title": "A Bland \u201860 Minutes\u2019 Season Premiere Suggests a Limited Bari Weiss Effect (So Far)",
+        "link": "https://www.hollywoodreporter.com/tv/tv-reviews/60-minutes-season-premiere-review-bari-weiss-1236700346/"
       },
       {
-        "title": "CBS Warns Humanity May Have a \u201cNarrow Window\u201d to Avoid AI Calamity, Right After ChatGPT Sponsors Its NFL Broadcast",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/chatgpt-cbs-nfl-ads-60-minutes-warning-1236700161/"
+        "title": "Zack Snyder\u2019s \u2018The Last Photograph\u2019: First Reactions",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/zack-snyder-the-last-photograph-first-reactions-1236700218/"
       },
       {
-        "title": "\u2018Prima Facie\u2019 Review: Cynthia Erivo Stars as a Lawyer Who Becomes a Rape Victim in This Misfire of an Adaptation",
-        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/prima-facie-review-cynthia-erivo-1236696972/"
+        "title": "\u2018All That She Wants\u2019 Review: Annie Murphy Is All That in a Fizzy Rom-Com\u00a0That Works Best When It Isn\u2019t Trying Too Hard",
+        "link": "https://www.hollywoodreporter.com/movies/movie-reviews/all-that-she-wants-review-annie-murphy-cooper-raiff-1236698118/"
       }
     ],
     "larb": [],
