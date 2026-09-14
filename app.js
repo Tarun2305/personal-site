@@ -5,9 +5,7 @@ const elements = {
     scrim: document.getElementById("scrim"),
     menuButton: document.getElementById("menu-button"),
     sidebarClose: document.getElementById("sidebar-close"),
-    bottomSections: document.getElementById("bottom-sections"),
     mobileSearch: document.getElementById("mobile-search"),
-    mobileTitle: document.getElementById("mobile-title"),
     categoryNav: document.getElementById("category-nav"),
     title: document.getElementById("view-title"),
     eyebrow: document.getElementById("view-eyebrow"),
@@ -160,7 +158,6 @@ function selectedStories() {
 function render() {
     const details = viewDetails();
     elements.title.textContent = details.title;
-    elements.mobileTitle.textContent = details.title;
     elements.eyebrow.textContent = details.eyebrow;
     document.title = `${details.title} · Reading desk`;
 
@@ -380,7 +377,6 @@ document.addEventListener("click", event => {
 
 elements.menuButton.addEventListener("click", openSidebar);
 elements.sidebarClose.addEventListener("click", closeSidebar);
-elements.bottomSections.addEventListener("click", openSidebar);
 elements.scrim.addEventListener("click", closeSidebar);
 elements.mobileSearch.addEventListener("click", () => {
     elements.search.scrollIntoView({ behavior: "smooth", block: "center" });

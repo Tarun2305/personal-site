@@ -51,7 +51,9 @@
         <main class="main-content" id="main-content">
             <header class="mobile-header">
                 <button class="icon-button" id="menu-button" type="button" aria-label="Open menu" aria-controls="sidebar" aria-expanded="false">☰</button>
-                <span id="mobile-title">Today</span>
+                <button class="mobile-home" type="button" data-view="today" aria-label="Go to Today">
+                    <span aria-hidden="true"></span>
+                </button>
                 <button class="icon-button" id="mobile-search" type="button" aria-label="Search stories">⌕</button>
             </header>
 
@@ -100,11 +102,6 @@
             </div>
         </main>
 
-        <nav class="bottom-nav" aria-label="Mobile navigation">
-            <button class="bottom-nav-item is-active" type="button" data-view="today"><span aria-hidden="true">☷</span><span>Today</span></button>
-            <button class="bottom-nav-item" type="button" data-view="saved"><span aria-hidden="true">☆</span><span>Saved</span></button>
-            <button class="bottom-nav-item" id="bottom-sections" type="button"><span aria-hidden="true">☰</span><span>Sections</span></button>
-        </nav>
     </div>
 
     <div class="toast" id="toast" role="status" aria-live="polite"></div>
