@@ -2,8 +2,12 @@ name: Update Feeds
 
 on:
   schedule:
-    - cron: '0 */3 * * *' # Runs every 6 hours
-  workflow_dispatch: # Allows manual triggering
+    - cron: '0 */3 * * *' # Every three hours
+  workflow_dispatch:
+
+concurrency:
+  group: update-feeds
+  cancel-in-progress: true
 
 # Explicitly give the action permission to write to the repository
 permissions:
@@ -12,12 +16,13 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4 # Updated to v4
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v5 # Updated to v5
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
@@ -27,7 +32,11 @@ jobs:
       - name: Commit and push data.json
         run: |
           git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data.json
-          git commit -m "Auto-update feed data" || echo "No changes to commit"
-          git push
+          if git diff --cached --quiet; then
+            echo "No feed changes to commit"
+          else
+            git commit -m "Auto-update feed data"
+            git push
+          fi
