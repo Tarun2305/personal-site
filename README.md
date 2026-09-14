@@ -1,8 +1,6 @@
 # Reading desk
 
-A personal newspaper for keeping up with a hand-picked set of publications without turning every interesting headline into another browser tab. It combines live RSS/Atom feeds, selected public listing pages, and direct publication links across news, Chelsea, music, film, and long-form writing.
-
-The application is static and designed for GitHub Pages. GitHub Actions refreshes [`data.json`](data.json) every three hours; reading state remains private in the browser.
+A personal newspaper for keeping up with a hand-picked set of publications without turning every interesting headline into another browser tab. It brings news, Chelsea coverage, music, film, and long-form writing into one calm reading queue.
 
 ## Features
 
@@ -14,12 +12,26 @@ The application is static and designed for GitHub Pages. GitHub Actions refreshe
 - Search and newest, oldest, or source sorting
 - Direct publication links for sources without usable headlines
 - Archive.today lookup
-- Installable PWA shell with offline access after the first visit
+- Installable app with offline access after the first visit
 - Minimal, responsive light theme with keyboard and reduced-motion support
 
 Saved, read, and dismissed states are stored in `localStorage`. They are specific to the current browser and are not sent anywhere.
 
-## How it works
+## The idea
+
+Reading desk is meant for idle moments when you want something worthwhile to read without visiting every publication individually. **Today** mixes the newest available stories into one chronological stream, while the section views provide a more focused browse.
+
+Opening a headline takes you directly to the original publication in the same tab and marks it as read. Save keeps something for later, Mark read adds it to History, and Dismiss removes it from the stream. On mobile, stories can also be swiped right to save or left to dismiss.
+
+Search and sorting work within the current view. Archive lookup finds the newest available Archive.today copy of a URL.
+
+## Sources and privacy
+
+Headlines come from RSS and Atom feeds where available, with a small number collected from public publication pages. Sources without usable feeds remain available as direct links. The collection refreshes automatically throughout the day.
+
+Saved, read, and dismissed states remain in the current browser. Nothing is attached to an account or sent to a separate reading-profile service, which also means those states do not sync between devices.
+
+## Behind the page
 
 ```text
 RSS / Atom feeds ─┐
@@ -30,50 +42,8 @@ Direct sources ───┘                         ↓
                                   Local reading state + cache
 ```
 
-[`fetch_feeds.py`](fetch_feeds.py) contains the single source and category configuration. It collects up to eight items per supported source, including publication dates and feed descriptions when available. A source failure keeps the previous successful items instead of clearing them.
+The site is a static application. An automated collector assembles recent headlines and summaries into a data file, the browser organizes that data into the reading views, and a service worker keeps the interface and most recently retrieved feed data available offline.
 
-[`app.js`](app.js) turns the generated data into the interactive reading desk. [`service-worker.js`](service-worker.js) caches the app shell and the most recently retrieved feed data for offline use.
-
-## Run locally
-
-Python 3 is the only runtime requirement.
-
-```bash
-python fetch_feeds.py
-python -m http.server 8000
-```
-
-Open <http://localhost:8000>. Opening `index.html` directly will not work because browsers block its request for `data.json` under the `file://` protocol.
-
-## Add or change a source
-
-Edit the `SOURCES` list in [`fetch_feeds.py`](fetch_feeds.py):
-
-```python
-{
-    "id": "example",
-    "name": "Example",
-    "category": "essays",
-    "url": "https://example.com",
-    "feed": "https://example.com/feed.xml",
-}
-```
-
-- Omit `feed` for a direct publication link.
-- Use `scrape` with one or more allowed URL-path prefixes for a selected public listing page.
-- Add new navigation sections to `CATEGORIES` and use the same category ID on their sources.
-
-Run `python fetch_feeds.py` afterward and inspect the generated `data.json`.
-
-## Deployment
-
-In GitHub, select **Settings → Pages → Deploy from a branch**, then choose `main` and `/ (root)`. Pushing to `main` updates the site. The scheduled workflow has narrowly scoped repository write permission so it can commit changed feed data.
-
-## Limitations
-
-- Feed descriptions are short summaries only; full articles always open on the publisher's site.
-- Public listing extraction is intentionally conservative and may need adjustment when a publisher redesigns its site.
-- Local reading state does not currently sync between devices.
-- The page uses `noindex` because it is a personal utility rather than a public publication.
+Feed descriptions are only short summaries. Full articles always remain on—and open on—the publisher's site.
 
 Headlines, descriptions, and links remain the property of their respective publishers.
