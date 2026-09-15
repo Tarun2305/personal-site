@@ -250,16 +250,34 @@
     "reuters": [],
     "bbc": [
       {
+        "title": "State pension likely to rise by £488 a year in April",
+        "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-15T07:59:52Z",
+        "description": "The triple lock has come under scrutiny as the number of pensioners rises making the policy more expensive."
+      },
+      {
         "title": "Lucy Letby public inquiry findings set to be published",
         "link": "https://www.bbc.co.uk/news/articles/cjw57xyd4q0o?at_medium=RSS&at_campaign=rss",
         "published": "2026-09-15T01:54:35Z",
         "description": "The Thirlwall Inquiry has been investigating how concerns about killer nurse Letby were handled - and whether any babies might have lived if action was taken earlier."
       },
       {
-        "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-        "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-15T00:32:21Z",
-        "description": "US President Donald Trump dismisses calls to slow the development of AI, saying that claims of it \"taking over the World\" are a \"HOAX\"."
+        "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+        "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-15T03:47:27Z",
+        "description": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory."
+      },
+      {
+        "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
+        "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-15T03:50:06Z",
+        "description": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony."
+      },
+      {
+        "title": "Superstars and broken records: 2026 Emmy highlights",
+        "link": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-15T05:14:24Z",
+        "description": "The 78th Primetime Emmy Awards were hosted by Law & Order star Mariska Hargitay at the Peacock Theatre in Los Angeles."
       },
       {
         "title": "Chris Mason: Row over Reform's mega donations has mileage in it yet",
@@ -268,28 +286,10 @@
         "description": "The £72m heading towards Reform UK's coffers is transforming the debate at Westminster about politics and money."
       },
       {
-        "title": "Nato jets down drone that entered Lithuanian airspace",
-        "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-15T02:22:07Z",
-        "description": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia."
-      },
-      {
-        "title": "Watch: Selena Gomez, Zendaya and other stars light up Emmys red carpet",
-        "link": "https://www.bbc.co.uk/news/videos/crlyjxjv69v6o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-15T02:00:40Z",
-        "description": "Celebrities walked a blue version of the traditional red carpet ahead of the primetime show honouring the best shows in US television."
-      },
-      {
-        "title": "US has deployed a space weapon, air force secretary says",
+        "title": "US confirms for first time it has deployed space weapons",
         "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
         "published": "2026-09-15T01:52:02Z",
-        "description": "It is the first time the US has acknowledged having a weapon in space, which it says is necessary to defend the country against enemy action."
-      },
-      {
-        "title": "Man admits drugging and raping wife over 20 years",
-        "link": "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-14T16:54:26Z",
-        "description": "A husband, who cannot be named to protect his wife's anonymity, pleads guilty to more than 60 offences, including rape and administering a substance with intent."
+        "description": "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action."
       },
       {
         "title": "Harry and Meghan to have security review and children change school",
@@ -300,52 +300,52 @@
     ],
     "aljazeera": [
       {
-        "title": "Trump administration suffers double legal setback over immigration rules",
-        "link": "https://www.aljazeera.com/news/2026/9/15/trump-administration-suffers-double-legal-setback-over-immigration-rules?traffic_source=rss",
-        "published": "2026-09-15T02:31:18Z",
-        "description": "Courts and Democratic-led states mount legal challenges against Trump administration visa and green card limits."
+        "title": "What to watch in the US’s Delaware primary elections",
+        "link": "https://www.aljazeera.com/news/2026/9/15/what-to-watch-in-the-uss-delaware-primary-elections?traffic_source=rss",
+        "published": "2026-09-15T07:52:46Z",
+        "description": "It's the last state primary scheduled before November's midterm elections."
       },
       {
-        "title": "Suspected bicycle thief dies during arrest in Netherlands",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_suspected-bike-thief-dies-during-arrest-netherlands-140926?traffic_source=rss",
-        "published": "2026-09-15T02:30:09Z",
-        "description": "Protests have been held in Rotterdam, the Netherlands after a man died during a police arrest over the weekend."
+        "title": "Hungary to amend anti-LGBTQ law to align with EU standards",
+        "link": "https://www.aljazeera.com/news/2026/9/15/hungary-to-amend-anti-lgbtq-law-to-align-with-eu-standards?traffic_source=rss",
+        "published": "2026-09-15T07:40:37Z",
+        "description": "A new bill will remove references to banning the 'promotion' of homosexuality."
       },
       {
-        "title": "Viral hit-and-run raises road rage questions in India",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/viral-hit-and-run-raises-road-rage-questions-in-india?traffic_source=rss",
-        "published": "2026-09-15T02:07:17Z",
-        "description": "Indian police have launched a probe after a woman biker shared video of a car ramming her motorcycle."
+        "title": "Palestine weekly: Settlement sanctions spark diplomatic crisis",
+        "link": "https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss",
+        "published": "2026-09-15T06:53:50Z",
+        "description": "New B'Tselem report frames events on ground as Israel's 'project of elimination' of Palestinians."
       },
       {
-        "title": "B’Tselem: Israeli settler violence aims to eliminate Palestinian existence",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/15-09-reported-west-bank-report-btselem-ps?traffic_source=rss",
-        "published": "2026-09-15T01:23:53Z",
-        "description": "Israeli rights group B’Tselem says Israeli settler violence aims to eliminate Palestinian existence."
+        "title": "BJP effect: Beef is vanishing from India’s Bengal, forcing diet changes",
+        "link": "https://www.aljazeera.com/features/2026/9/15/bjp-effect-beef-is-vanishing-from-indian-bengal-forcing-diet-changes?traffic_source=rss",
+        "published": "2026-09-15T06:15:43Z",
+        "description": "Since Prime Minister Modi's BJP came to power in West Bengal, beef is vanishing from menus as supplies become harder."
       },
       {
-        "title": "Russia resupplies military bases in Syria for first time under new deal",
-        "link": "https://www.aljazeera.com/news/2026/9/15/russia-resupplies-military-bases-in-syria-for-first-time-under-new-deal?traffic_source=rss",
-        "published": "2026-09-15T00:43:47Z",
-        "description": "Moscow maintains military foothold in the Mediterranean following talks with Damascus"
+        "title": "Leeds United defeat Newcastle 4-1 to go third in Premier League",
+        "link": "https://www.aljazeera.com/sports/2026/9/15/leeds-united-defeat-newcastle-4-1-to-go-third-in-premier-league?traffic_source=rss",
+        "published": "2026-09-15T05:55:45Z",
+        "description": "Goals from in-form forward Calvert-Lewin, Okafor and Bogle boost Leeds' standing in the league table."
       },
       {
-        "title": "Geneva talks put Rwanda-DRC peace deal to the test",
-        "link": "https://www.aljazeera.com/news/2026/9/15/geneva-talks-put-rwanda-drc-peace-deal-to-the-test?traffic_source=rss",
-        "published": "2026-09-15T00:26:06Z",
-        "description": "The talks come amid continued fighting and disputes over the implementation of key security commitments."
+        "title": "Internet shutdown crosses 100 days in Pakistan-administered Kashmir",
+        "link": "https://www.aljazeera.com/news/2026/9/15/internet-shutdown-crosses-100-days-in-pakistan-administered-kashmir?traffic_source=rss",
+        "published": "2026-09-15T05:47:52Z",
+        "description": "Mobile data, broadband services suspended in the territory since protests calling for electoral reform in June."
       },
       {
-        "title": "Sweden election is too close to call as far right loses ground",
-        "link": "https://www.aljazeera.com/news/2026/9/15/sweden-election-is-too-close-to-call-as-far-right-loses-ground?traffic_source=rss",
-        "published": "2026-09-15T00:06:34Z",
-        "description": "Opposition bloc leads in tight Swedish election with 95% counted."
+        "title": "Spectacular turtle nesting event in southern Mexico",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_spectacular-turtle-nesting-event-in-southern-mexico-150926?traffic_source=rss",
+        "published": "2026-09-15T05:20:17Z",
+        "description": "More than 300,000 olive ridley turtles have arrived at a beach in southern Mexico in the latest mass nesting."
       },
       {
-        "title": "Iran war live: CENTCOM disputes IRGC claim supertanker struck by Hormuz nav",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines?traffic_source=rss",
-        "published": "2026-09-15T00:00:00Z",
-        "description": "CENTCOM disputes the IRGC claim that the Panama-flagged oil tanker El Gaia hit naval mines in the Strait of Hormuz."
+        "title": "Emmy winners 2026: ‘Widow’s Bay’ and ‘The Pitt’ dominate",
+        "link": "https://www.aljazeera.com/news/2026/9/15/emmy-winners-2026-widows-bay-and-the-pitt-dominate?traffic_source=rss",
+        "published": "2026-09-15T04:49:34Z",
+        "description": "Jean Smart earns fifth Emmy for 'Hacks', becoming the first to win lead comedy actress for every season of the show."
       }
     ],
     "ft": [],
@@ -358,6 +358,30 @@
     "rym": [],
     "aoty": [],
     "pitchfork": [
+      {
+        "title": "Believer",
+        "link": "https://pitchfork.com/reviews/albums/angela-autumn-believer/",
+        "published": "2026-09-15T04:03:00Z",
+        "description": "The Nashville-based songwriter channels her Appalachian roots into empathetic, slightly psychedelic banjo- and guitar-led songs that explore what a leap of faith can offer when certainty is gone."
+      },
+      {
+        "title": "Anatomy of a Brief Romance",
+        "link": "https://pitchfork.com/reviews/albums/bloc-party-anatomy-of-a-brief-romance/",
+        "published": "2026-09-15T04:02:00Z",
+        "description": "Twenty-one years ago, the group opened its debut LP with a breakup song for the ages. Its latest comeback is a breakup record that may have even longtime fans eyeing the exit."
+      },
+      {
+        "title": "The World Is Yours",
+        "link": "https://pitchfork.com/reviews/albums/rio-da-yung-og-the-world-is-yours/",
+        "published": "2026-09-15T04:01:00Z",
+        "description": "The 32-year-old rapper made his name with audacious punchlines and moments of startling candor, but his latest album is weighed down by a pervasive air of exhaustion."
+      },
+      {
+        "title": "Honest Feeling Album (素直な気持ちアルバム)",
+        "link": "https://pitchfork.com/reviews/albums/hakushi-hasegawa-honest-feeling-album/",
+        "published": "2026-09-15T04:00:00Z",
+        "description": "The omnivorous Japanese producer’s new LP jams a little of almost everything: knotty freeform jazz, proggy pop, noisy electronics, and triumphant J-rock."
+      },
       {
         "title": "Ow ∞",
         "link": "https://pitchfork.com/reviews/albums/sylvan-esso-ow-infinity/",
@@ -381,33 +405,15 @@
         "link": "https://pitchfork.com/reviews/albums/helena-gao-gao-dan-dan-ep/",
         "published": "2026-09-14T04:00:00Z",
         "description": "The Danish Chinese musician (and Zara Larsson collaborator) concentrates her multi-cultural cool into a collection of bilingual club bangers and sparkling alt-pop gems."
-      },
-      {
-        "title": "In Visible Silence",
-        "link": "https://pitchfork.com/reviews/albums/art-of-noise-in-visible-silence/",
-        "published": "2026-09-13T04:00:00Z",
-        "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the second album from a mischievous group of provocateurs whose high-tech hijinks anticipated a sea change in pop, dance, and hip-hop."
-      },
-      {
-        "title": "Dog on the Rock / Seven Off the Two / Seaplane Dog / The View from Tian Tan",
-        "link": "https://pitchfork.com/reviews/albums/mac-demarco-dog-on-the-rock-seven-off-the-two-seaplane-dog-the-view-from-tian-tan/",
-        "published": "2026-09-12T04:00:00Z",
-        "description": "Originally issued as tour-only CD-Rs, these four diaristic albums from the singer-songwriter bundle together half-formed suites of slow, seasick recordings aimed squarely at the die-hards."
-      },
-      {
-        "title": "The Singer in My Band",
-        "link": "https://pitchfork.com/reviews/albums/this-is-lorelei-the-singer-in-my-band/",
-        "published": "2026-09-11T04:03:00Z",
-        "description": "On his first album for Matador, Nate Amos trades the magpie charm of his past solo work for a warm, twangy, and tightly constructed approach. It’s the sound of a songwriter sketching out his own gospel."
-      },
-      {
-        "title": "Distance in Static",
-        "link": "https://pitchfork.com/reviews/albums/bonobo-distance-in-static/",
-        "published": "2026-09-11T04:02:00Z",
-        "description": "On what he has hinted may be his final “traditional” LP as Bonobo, the UK producer cycles through moods and styles, with a particular focus on the clubby soundscapes of his DJ era."
       }
     ],
     "quietus": [
+      {
+        "title": "King Ayisoba – Pure Confusion",
+        "link": "https://thequietus.com/quietus-reviews/king-ayisoba-pure-confusion-review/",
+        "published": "2026-09-15T05:00:00Z",
+        "description": "King Ayisoba Pure Confusion King Ayisoba's seventh album was cut live in a single sitting. Everything else was built around it afterwards Pure Confusion by King Ayisoba The most useful thing to know about Pure Confusion is how it was made. King Ayisoba flew to England in November 2024, sat down in Adrian Sherwood’s studio in Ramsgate, and played the whole record in one afternoon. He says the songs were already finished in his head. Nothing about his performance was altered after the fact. The bass, the cello, the saxophone, the harmonica, the dub processing on the desk: all of it was added later, to a recording of a man who was alone in a room with a two-string lute made from a calabash..."
+      },
       {
         "title": "High on Dynamite: the rapid rise & fall of The White Panthers (UK)",
         "link": "https://thequietus.com/culture/books/the-white-panthers-single/",
@@ -449,12 +455,6 @@
         "link": "https://thequietus.com/news/semibreve-finalises-lineup-with-films-talks-installations-and-more/",
         "published": "2026-09-11T16:14:15Z",
         "description": "The opening night will also feature a mystery gig from an as-yet unannounced performer Matthew Biederman, the winner of the Edigma Semibreve Award 2026 Braga's Semibreve festival has completed the lineup for this year's event with the addition of a host of installations, films, talks and masterclasses. The festival has also announced that its opening night will feature a special performance from a yet-to-be-announced artist, whose identity will be concealed until they take to the stage at the Basílica Dos Congregados. Running from 22 to 25 October, a music line-up that includes a rare set from composer Nuno Canavarro, Flora Yin-Wong, Fennesz, Marta Salogni and more, was finalised earlier…"
-      },
-      {
-        "title": "Reissue of the Week: Another Country $$$$’s Cursed Frame (Deluxe Edition)",
-        "link": "https://thequietus.com/quietus-reviews/reissue-of-the-week/another-country-cursed-frame-deluxe-review/",
-        "published": "2026-09-11T07:30:00Z",
-        "description": "Francis Buseko considers the exquisite balance created by the post-White Hotel Salfordian Duo who create a sense of yearning for the sensation of yearning CURSED FRAME [DELUXE EDITION] by ANOTHER COUNTRY $$$$ Another day. Another ghost. Another shadow. Another thought. Another possibility. Another door. Another doorway behind the door. “Another” is a fitting word attached to a record that rarely stays where you expect it to. Cursed Frame is an album full of thresholds: sounds coming from across the room, voices emerging from the fog, something moving beneath the surface. Just when you think you have found your bearings, the music shifts the ground beneath you. There is always another…"
       }
     ],
     "residentadvisor": [],
@@ -569,6 +569,18 @@
     "criterion": [],
     "rogerebert": [
       {
+        "title": "TIFF 2026: Julián, Sunburn, In Alaska",
+        "link": "https://www.rogerebert.com/festivals/tiff-2026-julian-sunburn-in-alaska",
+        "published": "2026-09-15T01:00:00Z",
+        "description": "On three films about young people from TIFF, including two of the fest's best."
+      },
+      {
+        "title": "Venice 2026: The Biennale College",
+        "link": "https://www.rogerebert.com/features/venice-2026-the-biennale-college",
+        "published": "2026-09-14T23:21:34Z",
+        "description": "On the four features the Biennale College Panel evaluated at this year's Venice festival."
+      },
+      {
         "title": "10 Queer Titles to Look Out For At the 2026 Reeling International Film Festival",
         "link": "https://www.rogerebert.com/features/reeling-chicago-queer-film-festival-2026-preview",
         "published": "2026-09-14T15:45:17Z",
@@ -603,18 +615,6 @@
         "link": "https://www.rogerebert.com/festivals/venice-2026-the-basics-of-philosophy-diane-in-the-loop-look-back",
         "published": "2026-09-11T21:11:28Z",
         "description": "The latest from Paul Schrader, the Dardenne brothers, and Hirokazu Kore-eda stud our latest dispatch from the fest."
-      },
-      {
-        "title": "“Marvel’s Wolverine” is a Bloody Good Time, Bub",
-        "link": "https://www.rogerebert.com/video-games/marvels-wolverine-video-game-review-ps5",
-        "published": "2026-09-10T15:00:00Z",
-        "description": "This is one of the best games of 2026."
-      },
-      {
-        "title": "Telluride Film Festival 2026: Table of Contents",
-        "link": "https://www.rogerebert.com/festivals/telluride-film-festival-2026-table-of-contents",
-        "published": "2026-09-09T13:08:13Z",
-        "description": "Everything we've seen out of this year's Telluride."
       }
     ],
     "sightandsound": [],
@@ -670,6 +670,12 @@
     ],
     "mubi": [
       {
+        "title": "Defending the Elusive",
+        "link": "https://mubi.com/en/notebook/posts/defending-the-elusive",
+        "published": "2026-09-15T08:00:00Z",
+        "description": "Last Year in Marienbad (Alain Resnais, 1961). 1 Although it’s seldom acknowledged, one of the supreme pleasures of movies is the confusion and uncertainty often prompted by the beginning of a story, when we’re not yet fully tuned in to what’s going on. As in our sleeping dreams, a sense of infinite possibility stretches before us. That seemingly limitless vista soon disappoints once it is foreshortened into something real and recognizable, such as a place, an environment, a mood, a character, a theme, a genre, or a plot. Yet without these comfortable anchors, something that resembles prenatal bliss envelops our ignorance, and the fact that we can imagine almost anything makes the start of…"
+      },
+      {
         "title": "Venice Dispatch: The Garden of Forking Paths",
         "link": "https://mubi.com/en/notebook/posts/venice-dispatch-the-garden-of-forking-paths",
         "published": "2026-09-14T08:00:00Z",
@@ -710,12 +716,6 @@
         "link": "https://mubi.com/en/notebook/posts/the-armchair-answer-to-the-troubles",
         "published": "2026-09-03T08:00:00Z",
         "description": "Illustration by Danny Ische. The 1970s was a difficult decade for cinemas across Britain and Ireland as attendances continued their long postwar decline. Most of the glamorous art deco picture palaces built during the 1930s had either closed or fallen into disrepair and comparatively few new cinemas were opened after World War II until the arrival of the multiplexes in the 1980s. While these challenges were facing exhibitors in many other countries around the world, Northern Ireland’s experience of the downturn was unique. The outbreak of violent sectarian conflict in the late 1960s, euphemistically known as the Troubles, created an environment that actively discouraged cinema attendance.…"
-      },
-      {
-        "title": "Inherit the Wind: Kiyoshi Kurosawa’s “The Samurai and the Prisoner”",
-        "link": "https://mubi.com/en/notebook/posts/inherit-the-wind-kiyoshi-kurosawa-s-the-samurai-and-the-prisoner",
-        "published": "2026-08-31T08:00:00Z",
-        "description": "The Samurai and the Prisoner (Kiyoshi Kurosawa, 2026). Ever since he first broke into the Western cinephile consciousness with Cure (1997) and Pulse (2001), Kurosawa Kiyoshi has frequently been canonized as a horror auteur. This lens has been applied and reapplied to each of his films by distributors and critics alike, with the generic conventions of horror centralized as the key means of packaging and understanding a prolific body of work. Too often, though, this understandable but shallow view of Kurosawa’s filmography has missed the forest for the Charisma tree; the release of the director’s elegant new jidaigeki , The Samurai and the Prisoner (which boasts the scarifying title of…"
       }
     ],
     "reverseshot": [],
