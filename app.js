@@ -8,6 +8,8 @@ const elements = {
     categoryNav: document.getElementById("category-nav"),
     title: document.getElementById("view-title"),
     eyebrow: document.getElementById("view-eyebrow"),
+    moduleLabel: document.getElementById("module-label"),
+    moduleCount: document.getElementById("module-count"),
     sources: document.getElementById("source-directory"),
     storyList: document.getElementById("story-list"),
     loadMore: document.getElementById("load-more"),
@@ -146,6 +148,7 @@ function render() {
     const details = viewDetails();
     elements.title.textContent = details.title;
     elements.eyebrow.textContent = details.eyebrow;
+    elements.moduleLabel.textContent = details.title;
     document.title = `${details.title} · Reading desk`;
 
     document.querySelectorAll("[data-view]").forEach(button => {
@@ -159,10 +162,15 @@ function render() {
     elements.archiveView.hidden = !isArchive;
     elements.empty.hidden = true;
 
-    if (isArchive) return;
+    if (isArchive) {
+        elements.moduleCount.textContent = "Utility module";
+        return;
+    }
 
+    const selection = selectedStories();
+    elements.moduleCount.textContent = `${String(selection.length).padStart(3, "0")} entries`;
     renderSources();
-    renderStories(selectedStories());
+    renderStories(selection);
     updateCounts();
 }
 
@@ -348,12 +356,14 @@ function openSidebar() {
     elements.sidebar.classList.add("is-open");
     elements.scrim.hidden = false;
     elements.menuButton.setAttribute("aria-expanded", "true");
+    elements.menuButton.setAttribute("aria-label", "Close menu");
 }
 
 function closeSidebar() {
     elements.sidebar.classList.remove("is-open");
     elements.scrim.hidden = true;
     elements.menuButton.setAttribute("aria-expanded", "false");
+    elements.menuButton.setAttribute("aria-label", "Open menu");
 }
 
 document.addEventListener("click", event => {
@@ -361,7 +371,10 @@ document.addEventListener("click", event => {
     if (navButton) navigate(navButton.dataset.view);
 });
 
-elements.menuButton.addEventListener("click", openSidebar);
+elements.menuButton.addEventListener("click", () => {
+    if (elements.sidebar.classList.contains("is-open")) closeSidebar();
+    else openSidebar();
+});
 elements.sidebarClose.addEventListener("click", closeSidebar);
 elements.scrim.addEventListener("click", closeSidebar);
 elements.loadMore.addEventListener("click", () => { visibleLimit += 24; render(); });

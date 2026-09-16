@@ -12,7 +12,7 @@ A personal newspaper for keeping up with a hand-picked set of publications witho
 - Direct publication links for sources without usable headlines
 - Archive.today lookup
 - Installable app with offline access after the first visit
-- Minimal, responsive light theme with keyboard and reduced-motion support
+- Bauhaus-inspired responsive visual system with keyboard and reduced-motion support
 
 Saved, read, and dismissed states are stored in `localStorage`. They are specific to the current browser and are not sent anywhere.
 
