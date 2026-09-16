@@ -1,3 +1,12 @@
+@font-face {
+    font-family: "Reading Desk Condensed";
+    src: url("fonts/RobotoCondensed-Variable.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 100 900;
+    font-stretch: condensed;
+    font-display: swap;
+}
+
 :root {
     color-scheme: light;
     --paper: #f1f0e9;
@@ -12,7 +21,7 @@
     --saved: #2558e8;
     --rail: 276px;
     --mono: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
-    --display: "Arial Narrow", "Roboto Condensed", "Helvetica Neue", Arial, sans-serif;
+    --display: "Reading Desk Condensed", "Arial Narrow", "Roboto Condensed", Arial, sans-serif;
     --sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
