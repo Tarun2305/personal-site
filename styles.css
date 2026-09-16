@@ -104,7 +104,8 @@ h1 { margin: 0 0 -9px; max-width: 780px; font: 800 clamp(76px, 10vw, 150px)/0.72
 .story-title:hover { color: var(--blue); }
 .story-title:focus-visible { outline: 3px solid var(--blue); outline-offset: -3px; }
 .story-excerpt { grid-column: 3; grid-row: 2; display: -webkit-box; align-self: start; max-width: 760px; margin: 11px 0 0; padding: 0 26px 20px; overflow: hidden; color: var(--muted); font-size: 12px; line-height: 1.45; -webkit-box-orient: vertical; -webkit-line-clamp: 3; }
-.story-excerpt:empty { display: none; }
+/* Keep the same bottom inset when a feed provides no description. */
+.story-excerpt:empty { display: block; margin-top: 0; }
 .story-actions { grid-column: 4; grid-row: 1 / 4; display: grid; grid-template-rows: repeat(3, 1fr); border-left: 1px solid var(--line-soft); }
 .text-button { border: 0; border-bottom: 1px solid var(--line-soft); background: transparent; padding: 0 8px; font: 9px/1 var(--mono); letter-spacing: 0.05em; text-transform: uppercase; }
 .text-button:last-child { border-bottom: 0; }
@@ -146,7 +147,8 @@ h1 { margin: 0 0 -9px; max-width: 780px; font: 800 clamp(76px, 10vw, 150px)/0.72
 @media (max-width: 900px) and (min-width: 681px) {
     :root { --rail: 210px; }
     .view-header { min-height: 220px; grid-template-columns: 1fr 150px; }
-    .story-card-inner { grid-template-columns: 54px 112px minmax(220px, 1fr); }
+    .story-card-inner { min-height: 0; grid-template-columns: 54px 112px minmax(220px, 1fr); }
+    .story-meta { grid-row: 1; }
     .story-actions { grid-column: 2 / -1; grid-row: 4; grid-template-columns: repeat(3, 1fr); grid-template-rows: 42px; border-top: 1px solid var(--line-soft); }
     .text-button { border-right: 1px solid var(--line-soft); border-bottom: 0; }
 }
