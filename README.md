@@ -9,7 +9,6 @@ A personal newspaper for keeping up with a hand-picked set of publications witho
 - Same-tab article links that mark stories read without creating tab clutter
 - Save, read/unread, dismiss, history, and undo controls
 - New-since-last-visit indicators
-- Newest, oldest, or source sorting
 - Direct publication links for sources without usable headlines
 - Archive.today lookup
 - Installable app with offline access after the first visit
@@ -23,7 +22,7 @@ Reading desk is meant for idle moments when you want something worthwhile to rea
 
 Opening a headline takes you directly to the original publication in the same tab and marks it as read. Save keeps something for later, Mark read adds it to History, and Dismiss removes it from the stream. On mobile, stories can also be swiped right to save or left to dismiss.
 
-Sorting works within the current view. Archive lookup finds the newest available Archive.today copy of a URL.
+Archive lookup finds the newest available Archive.today copy of a URL.
 
 ## Sources and privacy
 

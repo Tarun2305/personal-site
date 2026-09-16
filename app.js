@@ -8,8 +8,6 @@ const elements = {
     categoryNav: document.getElementById("category-nav"),
     title: document.getElementById("view-title"),
     eyebrow: document.getElementById("view-eyebrow"),
-    actions: document.getElementById("view-actions"),
-    sort: document.getElementById("sort-select"),
     sources: document.getElementById("source-directory"),
     storyList: document.getElementById("story-list"),
     loadMore: document.getElementById("load-more"),
@@ -139,10 +137,7 @@ function selectedStories() {
     else if (currentView === "history") selection = selection.filter(story => userState.read[story.id]);
     else if (currentView !== "today") selection = selection.filter(story => story.source.category === currentView);
 
-    const sort = elements.sort.value;
     return selection.sort((left, right) => {
-        if (sort === "source") return left.source.name.localeCompare(right.source.name) || right.publishedTime - left.publishedTime;
-        if (sort === "oldest") return (left.publishedTime || Number.MAX_SAFE_INTEGER) - (right.publishedTime || Number.MAX_SAFE_INTEGER);
         return right.publishedTime - left.publishedTime || left.sourceIndex - right.sourceIndex;
     });
 }
@@ -158,7 +153,6 @@ function render() {
     });
 
     const isArchive = currentView === "archive";
-    elements.actions.hidden = isArchive;
     elements.sources.hidden = isArchive;
     elements.storyList.hidden = isArchive;
     elements.loadMore.hidden = isArchive;
@@ -370,7 +364,6 @@ document.addEventListener("click", event => {
 elements.menuButton.addEventListener("click", openSidebar);
 elements.sidebarClose.addEventListener("click", closeSidebar);
 elements.scrim.addEventListener("click", closeSidebar);
-elements.sort.addEventListener("change", () => { visibleLimit = 24; render(); });
 elements.loadMore.addEventListener("click", () => { visibleLimit += 24; render(); });
 
 elements.archiveForm.addEventListener("submit", event => {

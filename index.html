@@ -11,7 +11,7 @@
     <link rel="manifest" href="manifest.webmanifest">
     <link rel="icon" href="favicon.svg" type="image/svg+xml">
     <link rel="apple-touch-icon" href="favicon.svg">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.css?v=9">
     <title>Reading desk</title>
 </head>
 <body>
@@ -62,16 +62,6 @@
                         <p class="eyebrow" id="view-eyebrow">Your reading desk</p>
                         <h1 id="view-title">Today</h1>
                     </div>
-                    <div class="view-actions" id="view-actions">
-                        <label class="sort-control">
-                            <span class="visually-hidden">Sort stories</span>
-                            <select id="sort-select">
-                                <option value="newest">Newest first</option>
-                                <option value="oldest">Oldest first</option>
-                                <option value="source">By source</option>
-                            </select>
-                        </label>
-                    </div>
                 </header>
 
                 <section class="source-directory" id="source-directory" aria-label="Sources in this section"></section>
@@ -99,6 +89,15 @@
 
     </div>
 
+    <!-- Lets phones running the previous cached script upgrade without a blank screen. -->
+    <div class="legacy-controls" aria-hidden="true">
+        <div id="view-actions">
+            <button id="mobile-search" type="button" tabindex="-1"></button>
+            <input id="search-input" tabindex="-1">
+            <select id="sort-select" tabindex="-1"><option value="newest">Newest</option></select>
+        </div>
+    </div>
+
     <div class="toast" id="toast" role="status" aria-live="polite"></div>
 
     <template id="story-template">
@@ -124,6 +123,6 @@
     </template>
 
     <noscript><p class="noscript">JavaScript is required to load and organize the reading desk.</p></noscript>
-    <script src="app.js" defer></script>
+    <script src="app.js?v=9" defer></script>
 </body>
 </html>

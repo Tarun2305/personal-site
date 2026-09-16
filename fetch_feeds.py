@@ -34,8 +34,15 @@ SOURCES = [
     {"id": "economist", "name": "The Economist", "category": "news", "url": "https://www.economist.com"},
     {"id": "athletic", "name": "The Athletic", "category": "sports", "url": "https://theathletic.com/football/team/chelsea"},
     {"id": "chelsea", "name": "Chelsea FC Official", "category": "sports", "url": "https://www.chelseafc.com/en/news/latest-news", "scrape": ["/en/news/article/"]},
-    {"id": "chelsea_bbc", "name": "BBC Sport Chelsea", "category": "sports", "url": "https://www.bbc.co.uk/sport/football/teams/chelsea"},
-    {"id": "chelsea_sky", "name": "Sky Sports Chelsea", "category": "sports", "url": "https://www.skysports.com/chelsea-news"},
+    {"id": "chelsea_bbc", "name": "BBC Sport Chelsea", "category": "sports", "url": "https://www.bbc.co.uk/sport/football/teams/chelsea", "feed": "https://feeds.bbci.co.uk/sport/football/teams/chelsea/rss.xml"},
+    {
+        "id": "chelsea_sky",
+        "name": "Sky Sports Chelsea",
+        "category": "sports",
+        "url": "https://www.skysports.com/chelsea",
+        "scrape": ["/football/news/", "/watch/video/"],
+        "exclude_titles": ["sky sports with no contract", "british south asians in football", "download the sky sports app"],
+    },
     {"id": "rym", "name": "RateYourMusic", "category": "music", "url": "https://rateyourmusic.com"},
     {"id": "aoty", "name": "Album of the Year", "category": "music", "url": "https://www.albumoftheyear.org"},
     {"id": "pitchfork", "name": "Pitchfork", "category": "music", "url": "https://pitchfork.com/reviews/albums", "feed": "https://pitchfork.com/feed/feed-album-reviews/rss"},
@@ -198,7 +205,10 @@ def scrape_listing(source):
             continue
         if len(title) < 18 or len(title) > 180:
             continue
-        if any(label in title.lower() for label in ("subscribe", "sign up", "read more", "view all", "privacy", "cookie")):
+        lowered_title = title.lower()
+        if any(label in lowered_title for label in ("subscribe", "sign up", "read more", "view all", "privacy", "cookie")):
+            continue
+        if any(label in lowered_title for label in source.get("exclude_titles", [])):
             continue
         seen.add(absolute)
         items.append({"title": title, "link": absolute, "published": None, "description": ""})
@@ -255,7 +265,7 @@ with ThreadPoolExecutor(max_workers=8) as executor:
 
 data = {
     "categories": CATEGORIES,
-    "sources": [{key: value for key, value in source.items() if key not in {"feed", "scrape"}} for source in SOURCES],
+    "sources": [{key: value for key, value in source.items() if key not in {"feed", "scrape", "exclude_titles"}} for source in SOURCES],
     "feeds": {source["id"]: results.get(source["id"], []) for source in SOURCES},
 }
 

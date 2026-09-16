@@ -86,7 +86,7 @@
       "id": "chelsea_sky",
       "name": "Sky Sports Chelsea",
       "category": "sports",
-      "url": "https://www.skysports.com/chelsea-news"
+      "url": "https://www.skysports.com/chelsea"
     },
     {
       "id": "rym",
@@ -262,43 +262,67 @@
         "description": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage."
       },
       {
-        "title": "Letby doctor says inquiry 'grim reading' and he wishes 'we had been brave enough to follow suspicions'",
-        "link": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-16T00:25:34Z",
-        "description": "Consultant Dr John Gibbs worked at the hospital during the period in 2015 to 2016 when Letby murdered seven babies."
-      },
-      {
         "title": "UK in talks about joining global defence bank led by Canada",
         "link": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
         "published": "2026-09-15T23:50:55Z",
         "description": "Supporters of the scheme say the bank would enable governments to get cheaper loans to spend on defence projects."
       },
       {
+        "title": "Letby doctor says inquiry 'grim reading' and he wishes 'we had been brave enough to follow suspicions'",
+        "link": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-16T00:25:34Z",
+        "description": "Consultant Dr John Gibbs worked at the hospital during the period in 2015 to 2016 when Letby murdered seven babies."
+      },
+      {
+        "title": "Three dead after LA news helicopter crashes while covering deadly bus collision",
+        "link": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-16T04:36:11Z",
+        "description": "The NBCLA news helicopter was flying near the scene of a fatal bus crash."
+      },
+      {
+        "title": "Prolific shoplifters behind more than 28,000 offences, BBC finds",
+        "link": "https://www.bbc.co.uk/news/articles/cvg7231pev5o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-16T00:11:25Z",
+        "description": "Just 270 people were linked to 28,415 shoplifting offences across England, a BBC analysis has found."
+      },
+      {
+        "title": "'Luck and timing': Matthew Rhys on his historic Emmy Awards double win",
+        "link": "https://www.bbc.co.uk/news/videos/cq0m3k8n8xm2o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-15T22:04:38Z",
+        "description": "Speaking to the BBC, the Welsh actor described the \"surreal\" experience of becoming the first person to win two lead acting prizes in one night."
+      },
+      {
         "title": "Mayors could be given powers to oversee water companies",
         "link": "https://www.bbc.co.uk/news/articles/cmgrvdxzzk8eo?at_medium=RSS&at_campaign=rss",
         "published": "2026-09-16T02:09:22Z",
         "description": "The idea is to create nine new regional bodies responsible for planning, setting objectives and holding water companies to account."
-      },
-      {
-        "title": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
-        "link": "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-16T00:05:51Z",
-        "description": "The government's climate advisers say Heathrow's third runway cannot be approved under current climate policies."
-      },
-      {
-        "title": "AI app ads promoting 'objectification of women' banned by watchdog",
-        "link": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-15T23:27:17Z",
-        "description": "The ad regulator said it had \"zero-tolerance\" for ads promoting AI tools that could sexualise or objectify women."
-      },
-      {
-        "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-        "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-15T20:34:12Z",
-        "description": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\"."
       }
     ],
     "aljazeera": [
+      {
+        "title": "Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel",
+        "link": "https://www.aljazeera.com/news/2026/9/16/trump-administration-plans-2-8bn-sale-of-2000-pound-bombs-to-israel?traffic_source=rss",
+        "published": "2026-09-16T03:39:50Z",
+        "description": "Trump administration pushes $2.8bn bomb sale to Israel amid criticism over mass targeting of civilians in the region."
+      },
+      {
+        "title": "China’s defence chief warns against coercion, avoids US, Japan mention",
+        "link": "https://www.aljazeera.com/news/2026/9/16/chinas-defence-chief-warns-against-coercion-avoids-us-japan-mention?traffic_source=rss",
+        "published": "2026-09-16T03:38:57Z",
+        "description": "Dong Jun pitches shared security governance and military cooperation while warning against coercion."
+      },
+      {
+        "title": "Is US health care too broken to cure cancer?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/aje-onl-nf_us-healthcare-too-broken-to-cure-cancer-150926?traffic_source=rss",
+        "published": "2026-09-16T02:52:44Z",
+        "description": "Ted Okon tells Al Jazeera that even with a cure, the US wouldn’t be able to treat everyone with cancer."
+      },
+      {
+        "title": "Anthropic CEO didn’t foresee the speed of global AI growth",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/anthropic-ceo-didnt-foresee-the-speed-of-global-ai-growth?traffic_source=rss",
+        "published": "2026-09-16T02:40:08Z",
+        "description": "Anthropic’s CEO says he ‘didn’t appreciate’ the speed with which AI’s growth would underpin the global economy."
+      },
       {
         "title": "Saudi Arabia cancels oil to Europe over East-West pipeline blast",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss",
@@ -322,30 +346,6 @@
         "link": "https://www.aljazeera.com/news-analysis/2026/9/16/attacks-on-saudi-oil-expose-iraqi-pms-struggle-to-control-armed-factions?traffic_source=rss",
         "published": "2026-09-16T01:35:14Z",
         "description": "A senior Iraqi source points to a resistance 'splinter' group for the September attack on the East-West pipeline."
-      },
-      {
-        "title": "Saudi-led coalition intercepts drone headed for Mecca",
-        "link": "https://www.aljazeera.com/news/2026/9/16/saudi-led-coalition-intercepts-drone-headed-for-mecca?traffic_source=rss",
-        "published": "2026-09-16T01:09:54Z",
-        "description": "Saudi Arabia says it intercepted a drone before it entered Islam's holiest city, calling pilgrims' security a 'red line'"
-      },
-      {
-        "title": "Israeli soldiers rappel from helicopter in occupied West Bank",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/israeli-soldiers-rappel-from-helicopter-in-occupied-west-bank?traffic_source=rss",
-        "published": "2026-09-16T00:42:33Z",
-        "description": "Israeli forces rappelled from a helicopter onto the roof of a residential building in Yatta, in the occupied West Bank."
-      },
-      {
-        "title": "Iran war increasing inflation, straining US munitions: congressional report",
-        "link": "https://www.aljazeera.com/news/2026/9/16/iran-war-increasing-inflation-straining-us-munitions-congressional-report?traffic_source=rss",
-        "published": "2026-09-16T00:38:12Z",
-        "description": "Report by nonpartisan research body finds that replenishing depleted munitions stockpiles could take up to five years."
-      },
-      {
-        "title": "Former Maduro ally pleads guilty to money laundering and fraud",
-        "link": "https://www.aljazeera.com/news/2026/9/16/former-maduro-ally-pleads-guilty-to-money-laundering-and-fraud?traffic_source=rss",
-        "published": "2026-09-16T00:36:57Z",
-        "description": "Alex Saab pleads guilty in US court to laundering bribe and fraud proceeds linked to Venezuela's welfare programme."
       }
     ],
     "ft": [],
@@ -353,11 +353,120 @@
     "economist": [],
     "athletic": [],
     "chelsea": [],
-    "chelsea_bbc": [],
-    "chelsea_sky": [],
+    "chelsea_bbc": [
+      {
+        "title": "New system, same problems - Alonso not happy with 'soft' Chelsea",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c1l6qd2qvyzo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-12T18:22:46Z",
+        "description": "It was subdued at Stamford Bridge after Chelsea's 2-2 draw with newly promoted Hull City."
+      },
+      {
+        "title": "'I've turned the page' - Camara on Chelsea deal collapse",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cj9x7e40gr2o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-12T10:07:36Z",
+        "description": "Monaco and Senegal midfielder Lamine Camara says he is moving on from his failed £47.1m move to Chelsea."
+      },
+      {
+        "title": "Like Benzema & as good as Haaland - Alonso on Joao Pedro",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c1j4z1ry29jo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-11T21:30:23Z",
+        "description": "Chelsea manager Xabi Alonso says striker Joao Pedro is similar stylistically to his former Real Madrid team-mate Karim Benzema and is at a comparable level to Manchester City's Erling Haaland."
+      },
+      {
+        "title": "Should Spurs get Chelsea's 2016-17 league title?",
+        "link": "https://www.bbc.co.uk/sport/football/videos/c78047ee0vxo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-10T17:16:47Z",
+        "description": "Former Tottenham Hotspur manager Mauricio Pochettino believes Spurs should be retrospectively crowned Premier League champions for the 2016-17 season after Chelsea made £47m in secret payments to unregistered agents and third parties to seal transfers between 2011 and 2018."
+      },
+      {
+        "title": "Hull City's masterplan to stop Chelsea's attack",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cyvz6erdm3jo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-10T14:52:24Z",
+        "description": "Hull City's manager Sergej Jakirovic reveals his masterplan to stop Chelsea trio Morgan Rogers, Cole Palmer and Joao Pedro."
+      },
+      {
+        "title": "Can you make a case for Chelsea being stripped of 2016-17 title?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c0re0n84yz7o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-10T13:55:43Z",
+        "description": "Does Mauricio Pochettino have a case that Tottenham should be retrospectively crowned Premier League champions?"
+      },
+      {
+        "title": "Spurs should be awarded 2016-17 title - Pochettino",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c783ndd7ge2o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-10T08:08:21Z",
+        "description": "Mauricio Pochettino believes Chelsea should be stripped of the Premier League title for 2016-17, when his Tottenham team finished runners-up."
+      },
+      {
+        "title": "Star subs rescue Chelsea as Alonso 'takes blame'",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cx2zx9n29glo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-09T23:25:38Z",
+        "description": "Chelsea get the better of Leeds in a cup thriller, but Blues boss Xabi Alonso has food for thought after needing rescue act from his star substitutes."
+      }
+    ],
+    "chelsea_sky": [
+      {
+        "title": "Alonso: Benzema-like Joao Pedro is on same level as Haaland",
+        "link": "https://www.skysports.com/football/news/11668/13584444/joao-pedro-reminds-me-of-karim-benzema-and-is-on-same-level-as-erling-haaland-says-chelsea-boss-xabi-alonso",
+        "published": null,
+        "description": "",
+        "discovered": "2026-09-16T04:40:03.671527Z"
+      },
+      {
+        "title": "'Tired' Liverpool, Chelsea's leaky defence and Villa's attacking concerns",
+        "link": "https://www.skysports.com/football/news/11095/13585204/liverpool-fail-fulham-test-as-chelseas-defensive-problems-continue-to-hamper-their-title-challenge-credentials-premier-league-hits-and-misses",
+        "published": null,
+        "description": "",
+        "discovered": "2026-09-16T04:40:03.671527Z"
+      },
+      {
+        "title": "Rogers and Palmer helping each other thrive",
+        "link": "https://www.skysports.com/football/news/11668/13584004/cole-palmer-and-morgan-rogers-becoming-one-of-premier-leagues-most-dangerous-double-acts-the-radar",
+        "published": null,
+        "description": "",
+        "discovered": "2026-09-16T04:40:03.671527Z"
+      },
+      {
+        "title": "Premier League fixtures: Bumper festive period announced",
+        "link": "https://www.skysports.com/football/news/11661/13583921/premier-league-christmas-fixtures-boxing-day-and-festive-schedule-announced-as-29-matches-shown-live-on-sky-sports",
+        "published": null,
+        "description": "",
+        "discovered": "2026-09-16T04:40:03.671527Z"
+      },
+      {
+        "title": "Poch: I hope to return to Premier League in future",
+        "link": "https://www.skysports.com/football/news/11675/13583564/mauricio-pochettino-ex-tottenham-and-chelsea-boss-hopes-to-return-to-premier-league-in-future",
+        "published": null,
+        "description": "",
+        "discovered": "2026-09-16T04:40:03.671527Z"
+      }
+    ],
     "rym": [],
     "aoty": [],
     "pitchfork": [
+      {
+        "title": "Hard Life",
+        "link": "https://pitchfork.com/reviews/albums/the-tubs-hard-life/",
+        "published": "2026-09-16T04:03:00Z",
+        "description": "The UK band’s Merge debut is an album of survival: a set of fatalistic jangle-rock anthems with just enough joy to keep going."
+      },
+      {
+        "title": "Yours Sincerely",
+        "link": "https://pitchfork.com/reviews/albums/haruomi-hosono-yours-sincerely/",
+        "published": "2026-09-16T04:02:00Z",
+        "description": "On his 23rd solo album, the 79-year-old musician—and lone surviving member of Yellow Magic Orchestra—is in a reflective mood, reworking curios from his catalog in an intimate, contemplative fashion."
+      },
+      {
+        "title": "NOT DA 2",
+        "link": "https://pitchfork.com/reviews/albums/karrahbooo-not-da-2/",
+        "published": "2026-09-16T04:01:00Z",
+        "description": "The Atlanta rapper’s debut mixtape delivers her from label limbo with sturdy trap beats, studied nonchalance, and a sense of potential still unfulfilled."
+      },
+      {
+        "title": "Denshattack! (Original Game Soundtrack)",
+        "link": "https://pitchfork.com/reviews/albums/various-artists-denshattack-original-game-soundtrack/",
+        "published": "2026-09-16T04:00:00Z",
+        "description": "Bringing together video-game score veterans and rising composers, the soundtrack for the nostalgic platformer remixes and revitalizes the iconic sounds of Y2K gaming."
+      },
       {
         "title": "Believer",
         "link": "https://pitchfork.com/reviews/albums/angela-autumn-believer/",
@@ -381,30 +490,6 @@
         "link": "https://pitchfork.com/reviews/albums/hakushi-hasegawa-honest-feeling-album/",
         "published": "2026-09-15T04:00:00Z",
         "description": "The omnivorous Japanese producer’s new LP jams a little of almost everything: knotty freeform jazz, proggy pop, noisy electronics, and triumphant J-rock."
-      },
-      {
-        "title": "Ow ∞",
-        "link": "https://pitchfork.com/reviews/albums/sylvan-esso-ow-infinity/",
-        "published": "2026-09-14T04:03:00Z",
-        "description": "The world has finally caught up with the North Carolina alt-pop duo, whose playful and unsettled fifth album speaks to its moment with newfound lucidity."
-      },
-      {
-        "title": "Brighter Blue EP",
-        "link": "https://pitchfork.com/reviews/albums/valerie-june-brighter-blue-ep/",
-        "published": "2026-09-14T04:02:00Z",
-        "description": "On her latest covers EP, the singer-songwriter offers refreshing, timely interpretations of blues and gospel classics."
-      },
-      {
-        "title": "Synthetic Water Music",
-        "link": "https://pitchfork.com/reviews/albums/various-artists-synthetic-water-music/",
-        "published": "2026-09-14T04:01:00Z",
-        "description": "Following a 2023 compilation dedicated to birdsong, the Slovak label Mappa turns its focus to aquascapes both real and imagined, spanning decades of field recordings and ambient experiments."
-      },
-      {
-        "title": "Gao Dan Dan EP",
-        "link": "https://pitchfork.com/reviews/albums/helena-gao-gao-dan-dan-ep/",
-        "published": "2026-09-14T04:00:00Z",
-        "description": "The Danish Chinese musician (and Zara Larsson collaborator) concentrates her multi-cultural cool into a collection of bilingual club bangers and sparkling alt-pop gems."
       }
     ],
     "quietus": [
@@ -514,14 +599,14 @@
         "link": "https://www.bfi.org.uk/features/20-years-children-men-how-london-locations-look-today",
         "published": null,
         "description": "",
-        "discovered": "2026-09-15T18:38:39.538819Z"
+        "discovered": "2026-09-16T04:40:03.671527Z"
       },
       {
         "title": "Where to begin with Claude Chabrol",
         "link": "https://www.bfi.org.uk/features/where-begin-claude-chabrol",
         "published": null,
         "description": "",
-        "discovered": "2026-09-15T14:03:57.901755Z"
+        "discovered": "2026-09-16T04:40:03.671527Z"
       },
       {
         "title": "Dancing at the revolution: the cinema of Sarah Maldoror",

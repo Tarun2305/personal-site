@@ -1,9 +1,9 @@
-const CACHE_NAME = "reading-desk-v8";
+const CACHE_NAME = "reading-desk-v9";
 const APP_SHELL = [
     "./",
     "./index.html",
-    "./styles.css",
-    "./app.js",
+    "./styles.css?v=9",
+    "./app.js?v=9",
     "./data.json",
     "./manifest.webmanifest",
     "./favicon.svg",
@@ -27,24 +27,17 @@ self.addEventListener("fetch", event => {
     const url = new URL(request.url);
     if (request.method !== "GET" || url.origin !== self.location.origin) return;
 
-    if (request.mode === "navigate" || url.pathname.endsWith("data.json")) {
-        event.respondWith(
-            fetch(request)
-                .then(response => {
-                    const copy = response.clone();
-                    caches.open(CACHE_NAME).then(cache => cache.put(request, copy));
-                    return response;
-                })
-                .catch(() => caches.match(request).then(cached => cached || caches.match("./index.html")))
-        );
-        return;
-    }
-
     event.respondWith(
-        caches.match(request).then(cached => cached || fetch(request).then(response => {
-            const copy = response.clone();
-            caches.open(CACHE_NAME).then(cache => cache.put(request, copy));
-            return response;
-        }))
+        fetch(request)
+            .then(response => {
+                const copy = response.clone();
+                caches.open(CACHE_NAME).then(cache => cache.put(request, copy));
+                return response;
+            })
+            .catch(() => caches.match(request).then(cached => {
+                if (cached) return cached;
+                if (request.mode === "navigate") return caches.match("./index.html");
+                return Response.error();
+            }))
     );
 });
