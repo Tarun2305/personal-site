@@ -493,6 +493,12 @@
         "description": "Kevin Warsh leads the US central bank to its first rate rise since 2023 less than four months into the job"
       },
       {
+        "title": "Getting to know Mr Warsh",
+        "link": "https://www.ft.com/content/be4a0acf-f4e8-41da-ba04-2ed6d44b7fc2?syn-25a6b1a6=1",
+        "published": "2026-09-17T05:30:01Z",
+        "description": "A clearer reaction function is a fine substitute for forward guidance"
+      },
+      {
         "title": "US rate rise jolts yen ahead of Bank of Japan meeting",
         "link": "https://www.ft.com/content/5226dcb7-d89d-4b68-981f-b2736d7e4dca?syn-25a6b1a6=1",
         "published": "2026-09-17T04:15:56Z",
@@ -527,12 +533,6 @@
         "link": "https://www.ft.com/content/7b0f8f90-b3ad-4640-916a-f8b5495920a3?syn-25a6b1a6=1",
         "published": "2026-09-17T00:30:30Z",
         "description": "US president threatens to impose ‘very serious’ tariffs on the bloc if the measure is approved"
-      },
-      {
-        "title": "The rebel offensive that shook Saudi Arabia",
-        "link": "https://www.ft.com/content/d63eb228-87a6-4cce-99fb-777532cd4012?syn-25a6b1a6=1",
-        "published": "2026-09-17T04:00:21Z",
-        "description": "Riyadh has been thrown into crisis after Yemeni forces it helped arm and train were overrun by the Iran-backed Houthis"
       }
     ],
     "restofworld": [
@@ -1450,24 +1450,6 @@
     "nyrb": [],
     "lrb": [
       {
-        "title": "The Resistible Rise of the AfD",
-        "link": "https://www.lrb.co.uk/blog/2026/september/the-resistible-rise-of-the-afd",
-        "published": "2026-09-16T16:50:21Z",
-        "description": "A desperate flurry of possible solutions, from the stopgap to the structural, has whirled across the German political establishment and media in the..."
-      },
-      {
-        "title": "Active Dying",
-        "link": "https://www.lrb.co.uk/blog/2026/september/active-dying",
-        "published": "2026-09-16T12:06:29Z",
-        "description": "In July 2021 my Uncle Bilal was dying of lymphoma. In the days before his death, our family gathered at his hospital bed to ‘keep him comfortable..."
-      },
-      {
-        "title": "9/15",
-        "link": "https://www.lrb.co.uk/blog/2026/september/9-15",
-        "published": "2026-09-15T14:44:07Z",
-        "description": "On Saturday, 15 September 2001, a friend and I went to help the members of an Anglia TV documentary team collect their belongings from a building near..."
-      },
-      {
         "title": "A First Step",
         "link": "https://www.lrb.co.uk/blog/2026/september/a-first-step",
         "published": "2026-09-12T15:50:09Z",
@@ -1478,6 +1460,24 @@
         "link": "https://www.lrb.co.uk/blog/2026/september/why-is-trump-bombing-somalia",
         "published": "2026-09-10T19:04:26Z",
         "description": "Over the past twenty months, the US has launched airstrikes in Somalia using MQ-9 Reaper drones and sometimes manned aircraft at an average rate of..."
+      },
+      {
+        "title": "After the Bishyari",
+        "link": "https://www.lrb.co.uk/blog/2026/september/after-the-bishyari",
+        "published": "2026-09-08T17:39:00Z",
+        "description": "Not long after 8.30 a.m. on 26 August, a mass of rock and ice, more than six hundred metres wide, broke off the face of Langtang Lirung, a mountain in..."
+      },
+      {
+        "title": "Masks Off",
+        "link": "https://www.lrb.co.uk/blog/2026/september/masks-off",
+        "published": "2026-09-07T17:17:59Z",
+        "description": "One of the main differences between today’s far right and the fascism of the mid-20th century is the absence of a uniformed paramilitary street wing..."
+      },
+      {
+        "title": "Beyond the Blitz",
+        "link": "https://www.lrb.co.uk/blog/2026/september/beyond-the-blitz",
+        "published": "2026-09-07T15:54:42Z",
+        "description": "The story of the Blitz cannot be fully understood as a national story. It was part of a global war. While the Luftwaffe attacked industrial and..."
       }
     ],
     "larb": [],
