@@ -1,9 +1,9 @@
-const CACHE_NAME = "reading-desk-v12";
+const CACHE_NAME = "reading-desk-v13";
 const APP_SHELL = [
     "./",
     "./index.html",
-    "./styles.css?v=12",
-    "./app.js?v=10",
+    "./styles.css?v=13",
+    "./app.js?v=13",
     "./data.json",
     "./manifest.webmanifest",
     "./favicon.svg",

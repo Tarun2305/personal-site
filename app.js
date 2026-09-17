@@ -11,6 +11,7 @@ const elements = {
     moduleLabel: document.getElementById("module-label"),
     moduleCount: document.getElementById("module-count"),
     sources: document.getElementById("source-directory"),
+    directoryView: document.getElementById("directory-view"),
     storyList: document.getElementById("story-list"),
     loadMore: document.getElementById("load-more"),
     empty: document.getElementById("empty-state"),
@@ -74,7 +75,7 @@ function normalizeData(payload) {
 
     for (const [sourceId, items] of Object.entries(data.feeds)) {
         const source = sourcesById.get(sourceId);
-        if (!source || !Array.isArray(items)) continue;
+        if (!source || source.has_feed === false || !Array.isArray(items)) continue;
         items.forEach((item, sourceIndex) => {
             if (!item?.title || !item?.link) return;
             const publishedTime = item.published ? Date.parse(item.published) : 0;
@@ -112,7 +113,7 @@ function buildNavigation() {
 }
 
 function validView(value) {
-    return ["today", "saved", "history", "archive", ...data.categories.map(category => category.id)].includes(value);
+    return ["today", "saved", "history", "archive", "directory", ...data.categories.map(category => category.id)].includes(value);
 }
 
 function navigate(view, { updateHash = true } = {}) {
@@ -129,6 +130,7 @@ function viewDetails() {
     if (currentView === "saved") return { title: "Saved", eyebrow: "For later" };
     if (currentView === "history") return { title: "History", eyebrow: "Previously read" };
     if (currentView === "archive") return { title: "Archive lookup", eyebrow: "Utility" };
+    if (currentView === "directory") return { title: "Site Directory", eyebrow: "Publications" };
     const category = data.categories.find(item => item.id === currentView);
     return { title: category?.name ?? "Today", eyebrow: "Section" };
 }
@@ -150,47 +152,64 @@ function render() {
     elements.eyebrow.textContent = details.eyebrow;
     elements.moduleLabel.textContent = details.title;
     document.title = `${details.title} · Reading desk`;
+    elements.title.classList.toggle("is-long-title", ["directory", "archive"].includes(currentView));
 
     document.querySelectorAll("[data-view]").forEach(button => {
         button.classList.toggle("is-active", button.dataset.view === currentView);
     });
 
     const isArchive = currentView === "archive";
-    elements.sources.hidden = isArchive;
-    elements.storyList.hidden = isArchive;
-    elements.loadMore.hidden = isArchive;
+    const isDirectory = currentView === "directory";
+    elements.sources.hidden = true;
+    elements.storyList.hidden = isArchive || isDirectory;
+    elements.loadMore.hidden = isArchive || isDirectory;
     elements.archiveView.hidden = !isArchive;
+    elements.directoryView.hidden = !isDirectory;
     elements.empty.hidden = true;
 
     if (isArchive) {
         elements.moduleCount.textContent = "Utility module";
         return;
     }
+    if (isDirectory) {
+        elements.moduleCount.textContent = `${String(data.sources.length).padStart(3, "0")} sites`;
+        renderDirectory();
+        return;
+    }
 
     const selection = selectedStories();
     elements.moduleCount.textContent = `${String(selection.length).padStart(3, "0")} entries`;
-    renderSources();
     renderStories(selection);
     updateCounts();
 }
 
-function renderSources() {
-    if (![...data.categories.map(category => category.id)].includes(currentView)) {
-        elements.sources.replaceChildren();
-        return;
-    }
-
+function renderDirectory() {
     const fragment = document.createDocumentFragment();
-    data.sources.filter(source => source.category === currentView).forEach(source => {
-        const link = document.createElement("a");
-        link.className = "source-chip";
-        if (data.feeds[source.id]?.length) link.classList.add("has-feed");
-        link.href = source.url;
-        link.textContent = source.name;
-        link.title = data.feeds[source.id]?.length ? "Headlines available · open publication" : "Open publication";
-        fragment.appendChild(link);
+    data.categories.forEach((category, index) => {
+        const section = document.createElement("section");
+        section.className = "directory-section";
+        const heading = document.createElement("h2");
+        heading.textContent = `${String(index + 1).padStart(2, "0")} / ${category.name}`;
+        const grid = document.createElement("div");
+        grid.className = "directory-grid";
+        data.sources.filter(source => source.category === category.id).forEach(source => {
+            const link = document.createElement("a");
+            link.className = "directory-link";
+            link.href = source.url;
+            link.target = "_blank";
+            link.rel = "noopener noreferrer";
+            const name = document.createElement("span");
+            name.textContent = source.name;
+            const status = document.createElement("span");
+            status.className = "directory-status";
+            status.textContent = `${source.has_feed ? "RSS / Atom" : "Website"} ↗`;
+            link.append(name, status);
+            grid.appendChild(link);
+        });
+        section.append(heading, grid);
+        fragment.appendChild(section);
     });
-    elements.sources.replaceChildren(fragment);
+    elements.directoryView.replaceChildren(fragment);
 }
 
 function renderStories(selection) {
@@ -215,7 +234,7 @@ function createStoryCard(story) {
     card.classList.toggle("is-read", Boolean(userState.read[story.id]));
     card.classList.toggle("is-saved", Boolean(userState.saved[story.id]));
 
-    card.querySelector(".story-source").textContent = story.source.name;
+    card.querySelector(".story-source").textContent = story.source.feed_name || story.source.name;
     const time = card.querySelector(".story-time");
     time.textContent = story.publishedTime ? relativeDate(story.publishedTime) : "Recently collected";
     if (story.publishedTime) time.dateTime = story.published;
@@ -228,9 +247,11 @@ function createStoryCard(story) {
     title.addEventListener("click", event => {
         if (card.dataset.swiped === "true") return event.preventDefault();
         userState.read[story.id] = new Date().toISOString();
+        card.classList.add("is-read");
+        card.querySelector(".read-button").textContent = "Unread";
         saveState();
     });
-    card.querySelector(".story-excerpt").textContent = story.description ?? "";
+    card.querySelector(".story-excerpt").textContent = (story.description ?? "").trim();
 
     const saveButton = card.querySelector(".save-button");
     saveButton.textContent = userState.saved[story.id] ? "Saved" : "Save";
@@ -291,34 +312,55 @@ function addSwipeGestures(card, id) {
     let startX = 0;
     let startY = 0;
     let deltaX = 0;
+    let trackingPointer = null;
+    let swiping = false;
     const inner = card.querySelector(".story-card-inner");
 
     card.addEventListener("pointerdown", event => {
-        if (event.pointerType === "mouse") return;
+        if (event.pointerType === "mouse" || event.target.closest("button")) return;
         startX = event.clientX;
         startY = event.clientY;
         deltaX = 0;
-        card.setPointerCapture(event.pointerId);
+        trackingPointer = event.pointerId;
+        swiping = false;
     });
 
     card.addEventListener("pointermove", event => {
-        if (!card.hasPointerCapture(event.pointerId)) return;
+        if (trackingPointer !== event.pointerId) return;
         const horizontal = event.clientX - startX;
         const vertical = event.clientY - startY;
-        if (Math.abs(vertical) > Math.abs(horizontal)) return;
+        if (!swiping && Math.abs(vertical) > 10 && Math.abs(vertical) > Math.abs(horizontal)) {
+            trackingPointer = null;
+            return;
+        }
+        if (!swiping && (Math.abs(horizontal) < 14 || Math.abs(vertical) > Math.abs(horizontal))) return;
+        if (!swiping) {
+            swiping = true;
+            card.setPointerCapture(event.pointerId);
+        }
         deltaX = Math.max(-120, Math.min(120, horizontal));
+        card.classList.toggle("is-swiping-save", deltaX > 0);
+        card.classList.toggle("is-swiping-dismiss", deltaX < 0);
         inner.style.transform = `translateX(${deltaX}px)`;
     });
 
     card.addEventListener("pointerup", event => {
-        if (!card.hasPointerCapture(event.pointerId)) return;
-        card.releasePointerCapture(event.pointerId);
+        if (trackingPointer !== event.pointerId) return;
+        trackingPointer = null;
+        if (card.hasPointerCapture(event.pointerId)) card.releasePointerCapture(event.pointerId);
         inner.style.transform = "";
-        if (Math.abs(deltaX) < 72) return;
+        card.classList.remove("is-swiping-save", "is-swiping-dismiss");
+        if (!swiping) return;
         card.dataset.swiped = "true";
-        if (deltaX > 0) toggleSaved(id, true);
-        else dismissStory(id);
+        if (deltaX > 72) toggleSaved(id, true);
+        else if (deltaX < -72) dismissStory(id);
         window.setTimeout(() => { card.dataset.swiped = "false"; }, 250);
+    });
+    card.addEventListener("pointercancel", () => {
+        trackingPointer = null;
+        swiping = false;
+        inner.style.transform = "";
+        card.classList.remove("is-swiping-save", "is-swiping-dismiss");
     });
 }
 
@@ -425,7 +467,7 @@ async function initialize() {
     }
 
     if ("serviceWorker" in navigator && location.protocol.startsWith("http")) {
-        navigator.serviceWorker.register("service-worker.js").catch(error => console.warn("Offline mode unavailable", error));
+        navigator.serviceWorker.register("service-worker.js", { updateViaCache: "none" }).catch(error => console.warn("Offline mode unavailable", error));
     }
 }
 

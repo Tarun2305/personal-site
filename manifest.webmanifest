@@ -1,7 +1,7 @@
 {
   "name": "Reading desk",
   "short_name": "Reading",
-  "description": "A personal newspaper for news, Chelsea, music, film, and long-form writing.",
+  "description": "A personal newspaper for news, football, music, film, and long-form writing.",
   "id": "./",
   "start_url": "./#today",
   "scope": "./",

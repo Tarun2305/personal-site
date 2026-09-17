@@ -1,4 +1,4 @@
-"""Collect RSS, Atom, and selected public listing pages for the reading desk."""
+"""Collect publisher-provided RSS and Atom feeds for the reading desk."""
 
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
@@ -9,7 +9,6 @@ import json
 from pathlib import Path
 import re
 import urllib.request
-from urllib.parse import urljoin, urlparse
 import xml.etree.ElementTree as ET
 
 MAX_ITEMS = 8
@@ -18,7 +17,7 @@ USER_AGENT = "personal-reading-desk/2.0 (+https://github.com/Tarun2305/personal-
 
 CATEGORIES = [
     {"id": "news", "name": "News"},
-    {"id": "sports", "name": "Chelsea"},
+    {"id": "sports", "name": "Football"},
     {"id": "music", "name": "Music"},
     {"id": "film", "name": "Film"},
     {"id": "essays", "name": "Essays"},
@@ -29,27 +28,33 @@ SOURCES = [
     {"id": "reuters", "name": "Reuters", "category": "news", "url": "https://www.reuters.com"},
     {"id": "bbc", "name": "BBC", "category": "news", "url": "https://www.bbc.co.uk/news", "feed": "https://feeds.bbci.co.uk/news/rss.xml"},
     {"id": "aljazeera", "name": "Al Jazeera", "category": "news", "url": "https://www.aljazeera.com", "feed": "https://www.aljazeera.com/xml/rss/all.xml"},
-    {"id": "ft", "name": "Financial Times", "category": "news", "url": "https://www.ft.com"},
+    {"id": "ft", "name": "Financial Times", "category": "news", "url": "https://www.ft.com", "feed": "https://www.ft.com/rss/home/international"},
+    {"id": "restofworld", "name": "Rest of World", "category": "news", "url": "https://restofworld.org", "feed": "https://restofworld.org/feed/latest/"},
+    {"id": "propublica", "name": "ProPublica", "category": "news", "url": "https://www.propublica.org", "feed": "https://www.propublica.org/feed/"},
     {"id": "bloomberg", "name": "Bloomberg", "category": "news", "url": "https://www.bloomberg.com"},
     {"id": "economist", "name": "The Economist", "category": "news", "url": "https://www.economist.com"},
-    {"id": "athletic", "name": "The Athletic", "category": "sports", "url": "https://theathletic.com/football/team/chelsea"},
-    {"id": "chelsea", "name": "Chelsea FC Official", "category": "sports", "url": "https://www.chelseafc.com/en/news/latest-news", "scrape": ["/en/news/article/"]},
+    {"id": "athletic", "name": "The Athletic", "category": "sports", "url": "https://www.nytimes.com/athletic/football/"},
+    {"id": "chelsea", "name": "Chelsea FC Official", "category": "sports", "url": "https://www.chelseafc.com/en/news/latest-news"},
     {"id": "chelsea_bbc", "name": "BBC Sport Chelsea", "category": "sports", "url": "https://www.bbc.co.uk/sport/football/teams/chelsea", "feed": "https://feeds.bbci.co.uk/sport/football/teams/chelsea/rss.xml"},
     {
         "id": "chelsea_sky",
         "name": "Sky Sports Chelsea",
         "category": "sports",
         "url": "https://www.skysports.com/chelsea",
-        "scrape": ["/football/news/", "/watch/video/"],
-        "exclude_titles": ["sky sports with no contract", "british south asians in football", "download the sky sports app"],
     },
+    {"id": "guardianfootball", "name": "The Guardian Football", "category": "sports", "url": "https://www.theguardian.com/football", "feed": "https://www.theguardian.com/football/rss"},
+    {"id": "spielverlagerung", "name": "Spielverlagerung", "category": "sports", "url": "https://spielverlagerung.com", "feed": "https://spielverlagerung.com/feed/"},
+    {"id": "swissramble", "name": "Swiss Ramble", "category": "sports", "url": "https://swissramble.substack.com", "feed": "https://swissramble.substack.com/feed"},
+    {"id": "wagnh", "name": "We Ain’t Got No History", "category": "sports", "url": "https://weaintgotnohistory.sbnation.com", "feed": "https://weaintgotnohistory.sbnation.com/rss/index.xml"},
     {"id": "rym", "name": "RateYourMusic", "category": "music", "url": "https://rateyourmusic.com"},
     {"id": "aoty", "name": "Album of the Year", "category": "music", "url": "https://www.albumoftheyear.org"},
     {"id": "pitchfork", "name": "Pitchfork", "category": "music", "url": "https://pitchfork.com/reviews/albums", "feed": "https://pitchfork.com/feed/feed-album-reviews/rss"},
     {"id": "quietus", "name": "The Quietus", "category": "music", "url": "https://thequietus.com", "feed": "https://thequietus.com/feed"},
     {"id": "residentadvisor", "name": "Resident Advisor", "category": "music", "url": "https://ra.co/reviews"},
     {"id": "aquariumdrunkard", "name": "Aquarium Drunkard", "category": "music", "url": "https://aquariumdrunkard.com", "feed": "https://www.aquariumdrunkard.com/feed/"},
-    {"id": "bfi", "name": "BFI", "category": "film", "url": "https://www.bfi.org.uk/features", "scrape": ["/features/", "/sight-and-sound/"]},
+    {"id": "bandcampdaily", "name": "Bandcamp Daily", "category": "music", "url": "https://daily.bandcamp.com", "feed": "https://daily.bandcamp.com/feed"},
+    {"id": "toneglow", "name": "Tone Glow", "category": "music", "url": "https://toneglow.substack.com", "feed": "https://toneglow.substack.com/feed"},
+    {"id": "bfi", "name": "BFI", "category": "film", "url": "https://www.bfi.org.uk/features"},
     {"id": "criterion", "name": "Criterion Current", "category": "film", "url": "https://www.criterion.com/current", "feed": "https://www.criterion.com/current/rss"},
     {"id": "rogerebert", "name": "Roger Ebert", "category": "film", "url": "https://www.rogerebert.com", "feed": "https://www.rogerebert.com/feed"},
     {"id": "sightandsound", "name": "Sight & Sound", "category": "film", "url": "https://www.bfi.org.uk/sight-and-sound"},
@@ -57,18 +62,24 @@ SOURCES = [
     {"id": "mubi", "name": "MUBI Notebook", "category": "film", "url": "https://mubi.com/notebook", "feed": "https://mubi.com/notebook/posts.atom"},
     {"id": "reverseshot", "name": "Reverse Shot", "category": "film", "url": "https://reverseshot.org", "feed": "https://reverseshot.org/rss.xml"},
     {"id": "sensesofcinema", "name": "Senses of Cinema", "category": "film", "url": "https://www.sensesofcinema.com", "feed": "https://www.sensesofcinema.com/feed/"},
+    {"id": "filmstage", "name": "The Film Stage", "category": "film", "url": "https://thefilmstage.com", "feed": "https://thefilmstage.com/feed/"},
+    {"id": "cinephilia", "name": "Cinephilia & Beyond", "category": "film", "url": "https://cinephiliabeyond.org", "feed": "https://cinephiliabeyond.org/feed/"},
     {"id": "nyrb", "name": "NYRB", "category": "essays", "url": "https://www.nybooks.com"},
-    {"id": "lrb", "name": "LRB", "category": "essays", "url": "https://www.lrb.co.uk"},
+    {"id": "lrb", "name": "LRB", "category": "essays", "url": "https://www.lrb.co.uk", "feed_name": "LRB Blog", "feed": "https://www.lrb.co.uk/blog/feed/"},
     {"id": "larb", "name": "LARB", "category": "essays", "url": "https://lareviewofbooks.org", "feed": "https://lareviewofbooks.org/feed/"},
     {"id": "aeon", "name": "Aeon", "category": "essays", "url": "https://aeon.co", "feed": "https://aeon.co/feed.rss"},
     {"id": "psyche", "name": "Psyche", "category": "essays", "url": "https://psyche.co", "feed": "https://psyche.co/feed.rss"},
     {"id": "newleftreview", "name": "New Left Review", "category": "essays", "url": "https://newleftreview.org"},
-    {"id": "thepoint", "name": "The Point", "category": "essays", "url": "https://thepointmag.com", "scrape": ["/"]},
+    {"id": "thepoint", "name": "The Point", "category": "essays", "url": "https://thepointmag.com"},
     {"id": "publicdomainreview", "name": "Public Domain Review", "category": "essays", "url": "https://publicdomainreview.org", "feed": "https://publicdomainreview.org/rss.xml"},
     {"id": "quanta", "name": "Quanta Magazine", "category": "essays", "url": "https://www.quantamagazine.org", "feed": "https://api.quantamagazine.org/feed/"},
     {"id": "nautilus", "name": "Nautilus", "category": "essays", "url": "https://nautil.us", "feed": "https://nautil.us/feed/"},
-    {"id": "worksinprogress", "name": "Works in Progress", "category": "essays", "url": "https://worksinprogress.co", "scrape": ["/"]},
+    {"id": "worksinprogress", "name": "Works in Progress", "category": "essays", "url": "https://worksinprogress.co"},
     {"id": "noema", "name": "Noema Magazine", "category": "essays", "url": "https://www.noemamag.com", "feed": "https://www.noemamag.com/feed/"},
+    {"id": "nplusone", "name": "n+1", "category": "essays", "url": "https://www.nplusonemag.com", "feed": "https://www.nplusonemag.com/feed/"},
+    {"id": "parisreview", "name": "The Paris Review", "category": "essays", "url": "https://www.theparisreview.org", "feed_name": "The Paris Review Daily", "feed": "https://www.theparisreview.org/blog/feed/"},
+    {"id": "baffler", "name": "The Baffler", "category": "essays", "url": "https://thebaffler.com", "feed": "https://thebaffler.com/feed"},
+    {"id": "longreads", "name": "Longreads", "category": "essays", "url": "https://longreads.com", "feed": "https://longreads.com/feed/"},
 ]
 
 
@@ -79,31 +90,6 @@ class TextExtractor(HTMLParser):
 
     def handle_data(self, data):
         self.parts.append(data)
-
-
-class LinkExtractor(HTMLParser):
-    """Collect candidate editorial links from a public listing page."""
-
-    def __init__(self):
-        super().__init__()
-        self.links = []
-        self.current_href = None
-        self.current_text = []
-
-    def handle_starttag(self, tag, attrs):
-        if tag.lower() == "a":
-            self.current_href = dict(attrs).get("href")
-            self.current_text = []
-
-    def handle_data(self, data):
-        if self.current_href is not None:
-            self.current_text.append(data)
-
-    def handle_endtag(self, tag):
-        if tag.lower() == "a" and self.current_href is not None:
-            self.links.append((clean_text(" ".join(self.current_text)), self.current_href))
-            self.current_href = None
-            self.current_text = []
 
 
 def clean_text(value, limit=None):
@@ -159,13 +145,6 @@ def request_bytes(url):
         return response.read()
 
 
-def decode_html(payload):
-    try:
-        return payload.decode("utf-8")
-    except UnicodeDecodeError:
-        return payload.decode("windows-1252", errors="replace")
-
-
 def parse_feed(url):
     root = ET.fromstring(request_bytes(url))
     entries = [element for element in root.iter() if local_name(element.tag) in {"item", "entry"}]
@@ -189,40 +168,10 @@ def parse_feed(url):
     return items
 
 
-def scrape_listing(source):
-    parser = LinkExtractor()
-    parser.feed(decode_html(request_bytes(source["url"])))
-    origin = urlparse(source["url"])
-    prefixes = tuple(source.get("scrape", []))
-    seen = set()
-    items = []
-    for title, href in parser.links:
-        absolute = urljoin(source["url"], href)
-        parsed = urlparse(absolute)
-        path = parsed.path.rstrip("/") or "/"
-        matches_path = any(path.startswith(prefix.rstrip("/") or "/") for prefix in prefixes)
-        if parsed.netloc != origin.netloc or not matches_path or path == "/" or absolute in seen:
-            continue
-        if len(title) < 18 or len(title) > 180:
-            continue
-        lowered_title = title.lower()
-        if any(label in lowered_title for label in ("subscribe", "sign up", "read more", "view all", "privacy", "cookie")):
-            continue
-        if any(label in lowered_title for label in source.get("exclude_titles", [])):
-            continue
-        seen.add(absolute)
-        items.append({"title": title, "link": absolute, "published": None, "description": ""})
-        if len(items) == MAX_ITEMS:
-            break
-    return items
-
-
 def collect_source(source):
     try:
         if source.get("feed"):
             return parse_feed(source["feed"])
-        if source.get("scrape"):
-            return scrape_listing(source)
     except Exception as error:
         print(f"Failed {source['id']}: {error}")
         return None
@@ -235,7 +184,7 @@ try:
 except (FileNotFoundError, json.JSONDecodeError):
     previous_data = {"feeds": {}}
 
-collectable = [source for source in SOURCES if source.get("feed") or source.get("scrape")]
+collectable = [source for source in SOURCES if source.get("feed")]
 results = {}
 collected_at = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
 with ThreadPoolExecutor(max_workers=8) as executor:
@@ -257,15 +206,13 @@ with ThreadPoolExecutor(max_workers=8) as executor:
                 if not item.get("published"):
                     previous_item = previous_items.get(item["link"], {})
                     previous_discovery = previous_item.get("discovered")
-                    if not previous_discovery and source.get("scrape"):
-                        previous_discovery = previous_item.get("published")
                     item["discovered"] = previous_discovery or collected_at
             results[source_id] = fresh_items
             print(f"Fetched {source_id}: {len(fresh_items)} item(s)")
 
 data = {
     "categories": CATEGORIES,
-    "sources": [{key: value for key, value in source.items() if key not in {"feed", "scrape", "exclude_titles"}} for source in SOURCES],
+    "sources": [{**{key: value for key, value in source.items() if key != "feed"}, "has_feed": bool(source.get("feed"))} for source in SOURCES],
     "feeds": {source["id"]: results.get(source["id"], []) for source in SOURCES},
 }
 

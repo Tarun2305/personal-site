@@ -6,7 +6,7 @@
     },
     {
       "id": "sports",
-      "name": "Chelsea"
+      "name": "Football"
     },
     {
       "id": "music",
@@ -26,223 +26,360 @@
       "id": "ap",
       "name": "Associated Press",
       "category": "news",
-      "url": "https://apnews.com"
+      "url": "https://apnews.com",
+      "has_feed": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "category": "news",
-      "url": "https://www.reuters.com"
+      "url": "https://www.reuters.com",
+      "has_feed": false
     },
     {
       "id": "bbc",
       "name": "BBC",
       "category": "news",
-      "url": "https://www.bbc.co.uk/news"
+      "url": "https://www.bbc.co.uk/news",
+      "has_feed": true
     },
     {
       "id": "aljazeera",
       "name": "Al Jazeera",
       "category": "news",
-      "url": "https://www.aljazeera.com"
+      "url": "https://www.aljazeera.com",
+      "has_feed": true
     },
     {
       "id": "ft",
       "name": "Financial Times",
       "category": "news",
-      "url": "https://www.ft.com"
+      "url": "https://www.ft.com",
+      "has_feed": true
+    },
+    {
+      "id": "restofworld",
+      "name": "Rest of World",
+      "category": "news",
+      "url": "https://restofworld.org",
+      "has_feed": true
+    },
+    {
+      "id": "propublica",
+      "name": "ProPublica",
+      "category": "news",
+      "url": "https://www.propublica.org",
+      "has_feed": true
     },
     {
       "id": "bloomberg",
       "name": "Bloomberg",
       "category": "news",
-      "url": "https://www.bloomberg.com"
+      "url": "https://www.bloomberg.com",
+      "has_feed": false
     },
     {
       "id": "economist",
       "name": "The Economist",
       "category": "news",
-      "url": "https://www.economist.com"
+      "url": "https://www.economist.com",
+      "has_feed": false
     },
     {
       "id": "athletic",
       "name": "The Athletic",
       "category": "sports",
-      "url": "https://theathletic.com/football/team/chelsea"
+      "url": "https://www.nytimes.com/athletic/football/",
+      "has_feed": false
     },
     {
       "id": "chelsea",
       "name": "Chelsea FC Official",
       "category": "sports",
-      "url": "https://www.chelseafc.com/en/news/latest-news"
+      "url": "https://www.chelseafc.com/en/news/latest-news",
+      "has_feed": false
     },
     {
       "id": "chelsea_bbc",
       "name": "BBC Sport Chelsea",
       "category": "sports",
-      "url": "https://www.bbc.co.uk/sport/football/teams/chelsea"
+      "url": "https://www.bbc.co.uk/sport/football/teams/chelsea",
+      "has_feed": true
     },
     {
       "id": "chelsea_sky",
       "name": "Sky Sports Chelsea",
       "category": "sports",
-      "url": "https://www.skysports.com/chelsea"
+      "url": "https://www.skysports.com/chelsea",
+      "has_feed": false
+    },
+    {
+      "id": "guardianfootball",
+      "name": "The Guardian Football",
+      "category": "sports",
+      "url": "https://www.theguardian.com/football",
+      "has_feed": true
+    },
+    {
+      "id": "spielverlagerung",
+      "name": "Spielverlagerung",
+      "category": "sports",
+      "url": "https://spielverlagerung.com",
+      "has_feed": true
+    },
+    {
+      "id": "swissramble",
+      "name": "Swiss Ramble",
+      "category": "sports",
+      "url": "https://swissramble.substack.com",
+      "has_feed": true
+    },
+    {
+      "id": "wagnh",
+      "name": "We Ain’t Got No History",
+      "category": "sports",
+      "url": "https://weaintgotnohistory.sbnation.com",
+      "has_feed": true
     },
     {
       "id": "rym",
       "name": "RateYourMusic",
       "category": "music",
-      "url": "https://rateyourmusic.com"
+      "url": "https://rateyourmusic.com",
+      "has_feed": false
     },
     {
       "id": "aoty",
       "name": "Album of the Year",
       "category": "music",
-      "url": "https://www.albumoftheyear.org"
+      "url": "https://www.albumoftheyear.org",
+      "has_feed": false
     },
     {
       "id": "pitchfork",
       "name": "Pitchfork",
       "category": "music",
-      "url": "https://pitchfork.com/reviews/albums"
+      "url": "https://pitchfork.com/reviews/albums",
+      "has_feed": true
     },
     {
       "id": "quietus",
       "name": "The Quietus",
       "category": "music",
-      "url": "https://thequietus.com"
+      "url": "https://thequietus.com",
+      "has_feed": true
     },
     {
       "id": "residentadvisor",
       "name": "Resident Advisor",
       "category": "music",
-      "url": "https://ra.co/reviews"
+      "url": "https://ra.co/reviews",
+      "has_feed": false
     },
     {
       "id": "aquariumdrunkard",
       "name": "Aquarium Drunkard",
       "category": "music",
-      "url": "https://aquariumdrunkard.com"
+      "url": "https://aquariumdrunkard.com",
+      "has_feed": true
+    },
+    {
+      "id": "bandcampdaily",
+      "name": "Bandcamp Daily",
+      "category": "music",
+      "url": "https://daily.bandcamp.com",
+      "has_feed": true
+    },
+    {
+      "id": "toneglow",
+      "name": "Tone Glow",
+      "category": "music",
+      "url": "https://toneglow.substack.com",
+      "has_feed": true
     },
     {
       "id": "bfi",
       "name": "BFI",
       "category": "film",
-      "url": "https://www.bfi.org.uk/features"
+      "url": "https://www.bfi.org.uk/features",
+      "has_feed": false
     },
     {
       "id": "criterion",
       "name": "Criterion Current",
       "category": "film",
-      "url": "https://www.criterion.com/current"
+      "url": "https://www.criterion.com/current",
+      "has_feed": true
     },
     {
       "id": "rogerebert",
       "name": "Roger Ebert",
       "category": "film",
-      "url": "https://www.rogerebert.com"
+      "url": "https://www.rogerebert.com",
+      "has_feed": true
     },
     {
       "id": "sightandsound",
       "name": "Sight & Sound",
       "category": "film",
-      "url": "https://www.bfi.org.uk/sight-and-sound"
+      "url": "https://www.bfi.org.uk/sight-and-sound",
+      "has_feed": false
     },
     {
       "id": "filmcomment",
       "name": "Film Comment",
       "category": "film",
-      "url": "https://www.filmcomment.com"
+      "url": "https://www.filmcomment.com",
+      "has_feed": true
     },
     {
       "id": "mubi",
       "name": "MUBI Notebook",
       "category": "film",
-      "url": "https://mubi.com/notebook"
+      "url": "https://mubi.com/notebook",
+      "has_feed": true
     },
     {
       "id": "reverseshot",
       "name": "Reverse Shot",
       "category": "film",
-      "url": "https://reverseshot.org"
+      "url": "https://reverseshot.org",
+      "has_feed": true
     },
     {
       "id": "sensesofcinema",
       "name": "Senses of Cinema",
       "category": "film",
-      "url": "https://www.sensesofcinema.com"
+      "url": "https://www.sensesofcinema.com",
+      "has_feed": true
+    },
+    {
+      "id": "filmstage",
+      "name": "The Film Stage",
+      "category": "film",
+      "url": "https://thefilmstage.com",
+      "has_feed": true
+    },
+    {
+      "id": "cinephilia",
+      "name": "Cinephilia & Beyond",
+      "category": "film",
+      "url": "https://cinephiliabeyond.org",
+      "has_feed": true
     },
     {
       "id": "nyrb",
       "name": "NYRB",
       "category": "essays",
-      "url": "https://www.nybooks.com"
+      "url": "https://www.nybooks.com",
+      "has_feed": false
     },
     {
       "id": "lrb",
       "name": "LRB",
       "category": "essays",
-      "url": "https://www.lrb.co.uk"
+      "url": "https://www.lrb.co.uk",
+      "feed_name": "LRB Blog",
+      "has_feed": true
     },
     {
       "id": "larb",
       "name": "LARB",
       "category": "essays",
-      "url": "https://lareviewofbooks.org"
+      "url": "https://lareviewofbooks.org",
+      "has_feed": true
     },
     {
       "id": "aeon",
       "name": "Aeon",
       "category": "essays",
-      "url": "https://aeon.co"
+      "url": "https://aeon.co",
+      "has_feed": true
     },
     {
       "id": "psyche",
       "name": "Psyche",
       "category": "essays",
-      "url": "https://psyche.co"
+      "url": "https://psyche.co",
+      "has_feed": true
     },
     {
       "id": "newleftreview",
       "name": "New Left Review",
       "category": "essays",
-      "url": "https://newleftreview.org"
+      "url": "https://newleftreview.org",
+      "has_feed": false
     },
     {
       "id": "thepoint",
       "name": "The Point",
       "category": "essays",
-      "url": "https://thepointmag.com"
+      "url": "https://thepointmag.com",
+      "has_feed": false
     },
     {
       "id": "publicdomainreview",
       "name": "Public Domain Review",
       "category": "essays",
-      "url": "https://publicdomainreview.org"
+      "url": "https://publicdomainreview.org",
+      "has_feed": true
     },
     {
       "id": "quanta",
       "name": "Quanta Magazine",
       "category": "essays",
-      "url": "https://www.quantamagazine.org"
+      "url": "https://www.quantamagazine.org",
+      "has_feed": true
     },
     {
       "id": "nautilus",
       "name": "Nautilus",
       "category": "essays",
-      "url": "https://nautil.us"
+      "url": "https://nautil.us",
+      "has_feed": true
     },
     {
       "id": "worksinprogress",
       "name": "Works in Progress",
       "category": "essays",
-      "url": "https://worksinprogress.co"
+      "url": "https://worksinprogress.co",
+      "has_feed": false
     },
     {
       "id": "noema",
       "name": "Noema Magazine",
       "category": "essays",
-      "url": "https://www.noemamag.com"
+      "url": "https://www.noemamag.com",
+      "has_feed": true
+    },
+    {
+      "id": "nplusone",
+      "name": "n+1",
+      "category": "essays",
+      "url": "https://www.nplusonemag.com",
+      "has_feed": true
+    },
+    {
+      "id": "parisreview",
+      "name": "The Paris Review",
+      "category": "essays",
+      "url": "https://www.theparisreview.org",
+      "feed_name": "The Paris Review Daily",
+      "has_feed": true
+    },
+    {
+      "id": "baffler",
+      "name": "The Baffler",
+      "category": "essays",
+      "url": "https://thebaffler.com",
+      "has_feed": true
+    },
+    {
+      "id": "longreads",
+      "name": "Longreads",
+      "category": "essays",
+      "url": "https://longreads.com",
+      "has_feed": true
     }
   ],
   "feeds": {
@@ -250,110 +387,277 @@
     "reuters": [],
     "bbc": [
       {
-        "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
-        "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-16T00:59:20Z",
-        "description": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity."
+        "title": "Palace in war of words with Earl Spencer over claims in Diana book",
+        "link": "https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-17T05:00:21Z",
+        "description": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events."
       },
       {
-        "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-        "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-16T01:29:20Z",
-        "description": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage."
+        "title": "Bank of England expected to hold interest rates as it faces tough choices",
+        "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-16T23:15:01Z",
+        "description": "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year."
       },
       {
-        "title": "UK in talks about joining global defence bank led by Canada",
-        "link": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-15T23:50:55Z",
-        "description": "Supporters of the scheme say the bank would enable governments to get cheaper loans to spend on defence projects."
+        "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
+        "link": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-16T23:50:56Z",
+        "description": "Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available."
       },
       {
-        "title": "Letby doctor says inquiry 'grim reading' and he wishes 'we had been brave enough to follow suspicions'",
-        "link": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-16T00:25:34Z",
-        "description": "Consultant Dr John Gibbs worked at the hospital during the period in 2015 to 2016 when Letby murdered seven babies."
+        "title": "Ed Sheeran asked me to donate $2m in aid, Robert Kraft says after Macklemore backlash",
+        "link": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-17T04:09:17Z",
+        "description": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum."
       },
       {
-        "title": "Three dead after LA news helicopter crashes while covering deadly bus collision",
-        "link": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-16T04:36:11Z",
-        "description": "The NBCLA news helicopter was flying near the scene of a fatal bus crash."
+        "title": "Assad regime planned US journalist Austin Tice's kidnap for weeks, BBC finds",
+        "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-17T05:00:18Z",
+        "description": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims."
       },
       {
-        "title": "Prolific shoplifters behind more than 28,000 offences, BBC finds",
-        "link": "https://www.bbc.co.uk/news/articles/cvg7231pev5o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-16T00:11:25Z",
-        "description": "Just 270 people were linked to 28,415 shoplifting offences across England, a BBC analysis has found."
+        "title": "At least seven months of relentless rain needed to end drought, research shows",
+        "link": "https://www.bbc.co.uk/weather/articles/cqvgy1lejp7ro?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-17T00:01:29Z",
+        "description": "Almost 75% of England remains in drought following an exceptionally dry spring and summer."
       },
       {
-        "title": "'Luck and timing': Matthew Rhys on his historic Emmy Awards double win",
-        "link": "https://www.bbc.co.uk/news/videos/cq0m3k8n8xm2o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-15T22:04:38Z",
-        "description": "Speaking to the BBC, the Welsh actor described the \"surreal\" experience of becoming the first person to win two lead acting prizes in one night."
+        "title": "Lena Dunham announces birth of first baby via surrogacy",
+        "link": "https://www.bbc.co.uk/news/articles/cqx2zlxxzpg4o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-17T00:55:10Z",
+        "description": "The writer and actress announced the birth of her daughter in an op-ed published by Vogue on Wednesday."
       },
       {
-        "title": "Mayors could be given powers to oversee water companies",
-        "link": "https://www.bbc.co.uk/news/articles/cmgrvdxzzk8eo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-16T02:09:22Z",
-        "description": "The idea is to create nine new regional bodies responsible for planning, setting objectives and holding water companies to account."
+        "title": "Snapchat open to putting time limits on teens, boss tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-16T23:41:57Z",
+        "description": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC."
       }
     ],
     "aljazeera": [
       {
-        "title": "Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel",
-        "link": "https://www.aljazeera.com/news/2026/9/16/trump-administration-plans-2-8bn-sale-of-2000-pound-bombs-to-israel?traffic_source=rss",
-        "published": "2026-09-16T03:39:50Z",
-        "description": "Trump administration pushes $2.8bn bomb sale to Israel amid criticism over mass targeting of civilians in the region."
+        "title": "Argentinian judge orders suspension of Falklands oil project",
+        "link": "https://www.aljazeera.com/news/2026/9/17/argentinian-judge-orders-suspension-of-falklands-oil-project?traffic_source=rss",
+        "published": "2026-09-17T04:52:07Z",
+        "description": "The symbolic move comes as Argentina escalates its claim over the British-administered territory."
       },
       {
-        "title": "China’s defence chief warns against coercion, avoids US, Japan mention",
-        "link": "https://www.aljazeera.com/news/2026/9/16/chinas-defence-chief-warns-against-coercion-avoids-us-japan-mention?traffic_source=rss",
-        "published": "2026-09-16T03:38:57Z",
-        "description": "Dong Jun pitches shared security governance and military cooperation while warning against coercion."
+        "title": "Trump threatens to end trade with Mexico and Europe after rate hike",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/trump-threatens-to-end-trade-with-mexico-and-europe-after-rate-hike?traffic_source=rss",
+        "published": "2026-09-17T04:43:01Z",
+        "description": "US President Donald Trump had tried to pressure the Fed to lower rates, but it voted unanimously to raise them instead."
       },
       {
-        "title": "Is US health care too broken to cure cancer?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/aje-onl-nf_us-healthcare-too-broken-to-cure-cancer-150926?traffic_source=rss",
-        "published": "2026-09-16T02:52:44Z",
-        "description": "Ted Okon tells Al Jazeera that even with a cure, the US wouldn’t be able to treat everyone with cancer."
+        "title": "Can AI regulation keep America ahead of China?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_can-ai-regulation-keep-america-ahead-of-china-170926?traffic_source=rss",
+        "published": "2026-09-17T04:42:27Z",
+        "description": "As Washington debates how to regulate AI, industry experts say that governance doesn’t have to mean hitting the brakes."
       },
       {
-        "title": "Anthropic CEO didn’t foresee the speed of global AI growth",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/anthropic-ceo-didnt-foresee-the-speed-of-global-ai-growth?traffic_source=rss",
-        "published": "2026-09-16T02:40:08Z",
-        "description": "Anthropic’s CEO says he ‘didn’t appreciate’ the speed with which AI’s growth would underpin the global economy."
+        "title": "US bars Palestinian president from attending UNGA for second year",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/us-bars-palestinian-president-from-attending-unga-for-second-year?traffic_source=rss",
+        "published": "2026-09-17T04:35:52Z",
+        "description": "The United States has declined to grant visas to Palestinian President Mahmoud Abbas."
       },
       {
-        "title": "Saudi Arabia cancels oil to Europe over East-West pipeline blast",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss",
-        "published": "2026-09-16T01:53:27Z",
-        "description": "Saudi Arabia has cancelled some oil deliveries to Europe after attacks shut down its export pipeline to the Red Sea."
+        "title": "US extends visa ban on Palestinian officials before UN General Assembly",
+        "link": "https://www.aljazeera.com/news/2026/9/17/us-extends-visa-ban-on-palestinian-officials-before-un-general-assembly?traffic_source=rss",
+        "published": "2026-09-17T03:44:13Z",
+        "description": "Palestinian President Mahmoud Abbas is among those barred for the second year in a row."
       },
       {
-        "title": "DRC-Rwanda: Can Geneva talks break the cycle of war in eastern Congo?",
-        "link": "https://www.aljazeera.com/news/2026/9/16/drc-rwanda-can-geneva-talks-break-the-cycle-of-war-in-eastern-congo?traffic_source=rss",
-        "published": "2026-09-16T01:42:37Z",
-        "description": "M23 controls large parts of eastern DRC as Kinshasa and Kigali remain divided over security and sovereignty."
+        "title": "Yemeni forces target Houthis as US rules out direct role",
+        "link": "https://www.aljazeera.com/news/2026/9/17/yemeni-forces-target-houthis-and-a-saudi-base-as-us-rules-out-direct-role?traffic_source=rss",
+        "published": "2026-09-17T03:26:56Z",
+        "description": "Saudi Arabia requests missile defence support from allies as the US sees its own stock of interceptors dwindle."
       },
       {
-        "title": "Israel started an anti-Qatar campaign, then scrapped it",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/israel-started-an-anti-qatar-campaign-then-scrapped-it?traffic_source=rss",
-        "published": "2026-09-16T01:41:40Z",
-        "description": "Days after October 7, Israel began building a global campaign to pressure and isolate Qatar."
+        "title": "Verstappen beats 100 go-karters in fun Silverstone race",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/verstappen-beats-100-go-karters-in-fun-silverstone-race?traffic_source=rss",
+        "published": "2026-09-17T03:21:13Z",
+        "description": "Four-time Formula One champion Max Verstappen has beaten 100 go-karters in a competition at Silverstone, UK."
       },
       {
-        "title": "Attacks on Saudi oil expose Iraqi PM’s struggle to control armed factions",
-        "link": "https://www.aljazeera.com/news-analysis/2026/9/16/attacks-on-saudi-oil-expose-iraqi-pms-struggle-to-control-armed-factions?traffic_source=rss",
-        "published": "2026-09-16T01:35:14Z",
-        "description": "A senior Iraqi source points to a resistance 'splinter' group for the September attack on the East-West pipeline."
+        "title": "Morocco’s 2026 election: A test of political trust and engagement",
+        "link": "https://www.aljazeera.com/news/2026/9/17/moroccos-2026-election-a-test-of-political-trust-and-engagement?traffic_source=rss",
+        "published": "2026-09-17T02:47:53Z",
+        "description": "Youth unemployment, living costs and public services are key issues before the September 23 vote."
       }
     ],
-    "ft": [],
+    "ft": [
+      {
+        "title": "Trump fails to bend the Fed to his will",
+        "link": "https://www.ft.com/content/fb8e1037-8c48-49d2-809e-950472bcbae5?syn-25a6b1a6=1",
+        "published": "2026-09-17T04:00:31Z",
+        "description": "Kevin Warsh leads the US central bank to its first rate rise since 2023 less than four months into the job"
+      },
+      {
+        "title": "US rate rise jolts yen ahead of Bank of Japan meeting",
+        "link": "https://www.ft.com/content/5226dcb7-d89d-4b68-981f-b2736d7e4dca?syn-25a6b1a6=1",
+        "published": "2026-09-17T04:15:56Z",
+        "description": "Fed increase adds to pressure on central bank to tighten monetary policy"
+      },
+      {
+        "title": "The era of AI warfare has arrived",
+        "link": "https://www.ft.com/content/686429c0-daf3-42a5-9b7c-7ff06eb291ef?syn-25a6b1a6=1",
+        "published": "2026-09-17T04:00:04Z",
+        "description": "Autonomous systems are being rapidly integrated on the battlefield, as models advance in ways even their creators cannot fully predict"
+      },
+      {
+        "title": "The Apple trust premium in the age of AI",
+        "link": "https://www.ft.com/content/f5325951-7049-4d3a-97e4-cbe34f9058d8?syn-25a6b1a6=1",
+        "published": "2026-09-17T04:00:21Z",
+        "description": "Markets were signalling discomfort even before the latest wave of worries about existential risk"
+      },
+      {
+        "title": "Where do new jobs come from?",
+        "link": "https://www.ft.com/content/9edd3f8c-c28b-4532-b5c1-fa55ad71e432?syn-25a6b1a6=1",
+        "published": "2026-09-17T04:00:11Z",
+        "description": "The centuries-old trend towards specialisation could be about to reverse"
+      },
+      {
+        "title": "EU asks China to voluntarily limit car exports",
+        "link": "https://www.ft.com/content/0b45cb01-7f62-41c5-8c48-10c47f2e1ae6?syn-25a6b1a6=1",
+        "published": "2026-09-17T04:00:21Z",
+        "description": "Brussels wants Beijing to restrict sales of Chinese hybrid vehicles to around 15% of the EU market"
+      },
+      {
+        "title": "Trump suggests EU-Canada associate member deal would be ‘hostile act’",
+        "link": "https://www.ft.com/content/7b0f8f90-b3ad-4640-916a-f8b5495920a3?syn-25a6b1a6=1",
+        "published": "2026-09-17T00:30:30Z",
+        "description": "US president threatens to impose ‘very serious’ tariffs on the bloc if the measure is approved"
+      },
+      {
+        "title": "The rebel offensive that shook Saudi Arabia",
+        "link": "https://www.ft.com/content/d63eb228-87a6-4cce-99fb-777532cd4012?syn-25a6b1a6=1",
+        "published": "2026-09-17T04:00:21Z",
+        "description": "Riyadh has been thrown into crisis after Yemeni forces it helped arm and train were overrun by the Iran-backed Houthis"
+      }
+    ],
+    "restofworld": [
+      {
+        "title": "Playing both sides of the U.S.-China AI “Cold War”",
+        "link": "https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "published": "2026-09-16T10:00:00Z",
+        "description": "From Latin America to Southeast Asia, countries are dividing their AI investments between the two superpowers rather than choosing one over the other."
+      },
+      {
+        "title": "Where in the world is the iPhone cheapest?",
+        "link": "https://restofworld.org/2026/iphone-18-pro-global-prices/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "published": "2026-09-15T10:00:00Z",
+        "description": "Apple’s high-end models cost more in markets like India and Turkey owing to high taxes and import duties."
+      },
+      {
+        "title": "The real AI economy is being built by ordinary people",
+        "link": "https://restofworld.org/2026/global-workers-using-ai-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "published": "2026-09-14T10:00:31Z",
+        "description": "Far from Silicon Valley pitch decks, workers across Asia and Africa are bypassing tech industry hype to quietly rewire their daily jobs — one prompt, workflow, and local problem at a time."
+      },
+      {
+        "title": "The AI talent war is coming for Big Tech’s Asia executives",
+        "link": "https://restofworld.org/2026/openai-anthropic-big-tech-executives-asia/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "published": "2026-09-11T10:00:00Z",
+        "description": "OpenAI and Anthropic are hiring leaders from Meta, Google, Microsoft, and other U.S. tech giants to win new markets across India and Southeast Asia."
+      },
+      {
+        "title": "Google Earth’s AI experiment lasted 24 hours. The damage to trust will linger",
+        "link": "https://restofworld.org/2026/google-earth-ai-deepfake-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "published": "2026-09-10T10:00:00Z",
+        "description": "A short-lived generative AI feature in Google Earth that allowed users to create fake satellite imagery shows the lasting effects of unvetted AI tools during a conflict."
+      },
+      {
+        "title": "Now it’s China’s experts who are gig workers training AI",
+        "link": "https://restofworld.org/2026/china-expert-ai-trainers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "published": "2026-09-09T10:00:00Z",
+        "description": "Squeezed by a stagnant economy and state directives, China's underemployed lawyers, architects, and engineers are taking cheap gig work to teach AI their exact trades — just to pay this month's mortgage."
+      },
+      {
+        "title": "Think your EV holds its value? China has some bad news for you",
+        "link": "https://restofworld.org/2026/china-used-ev-depreciation-five-year-battery-warranty-dealers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "published": "2026-09-08T10:00:00Z",
+        "description": "Used car dealers in the world’s biggest EV market are turning away 5-year-old cars, exposing a battery anxiety problem heading for Western buyers next."
+      },
+      {
+        "title": "Chinese businesses are giving away AI tokens with coffee, credit cards, and dumplings",
+        "link": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "published": "2026-09-04T10:00:00Z",
+        "description": "Five unexpected ways computing power is entering everyday life in the country."
+      }
+    ],
+    "propublica": [
+      {
+        "title": "What to Know About Mail-In Voting for the 2026 Midterms",
+        "link": "https://www.propublica.org/article/mail-in-voting-rules-midterm-elections",
+        "published": "2026-09-16T17:15:00Z",
+        "description": ""
+      },
+      {
+        "title": "Arizona Lowered the Bar for Its English Fluency Test. Experts Say It Will Harm Students in the Long Run.",
+        "link": "https://www.propublica.org/article/arizona-english-language-test-azella",
+        "published": "2026-09-16T09:00:00Z",
+        "description": ""
+      },
+      {
+        "title": "Top Oversight Dem Opens Investigation of Donald Trump Jr.’s Russian Oligarch-Funded Wedding",
+        "link": "https://www.propublica.org/article/donald-trump-jr-wedding-umar-kremlev-payments-investigation",
+        "published": "2026-09-15T21:50:00Z",
+        "description": ""
+      },
+      {
+        "title": "Papa Johns, Propaganda and Putin: How a MAGA Influencer With Ties to Russia Became Trump’s Arctic Adviser",
+        "link": "https://www.propublica.org/article/thomas-dans-arctic-research-commission-trump-russia-propaganda",
+        "published": "2026-09-15T10:00:00Z",
+        "description": ""
+      },
+      {
+        "title": "Underage Players, Predatory Moneylenders: 7 Findings From Our Dominican Baseball Investigation",
+        "link": "https://www.propublica.org/article/dominican-republic-baseball-major-league-takeaways",
+        "published": "2026-09-15T09:00:00Z",
+        "description": ""
+      },
+      {
+        "title": "Donald Trump Jr.’s Bahamas Wedding Was Secretly Bankrolled by Russian Oligarch Close to Putin",
+        "link": "https://www.propublica.org/article/donald-trump-jr-wedding-bankrolled-russian-oligarch-umar-kremlev-putin",
+        "published": "2026-09-14T09:00:00Z",
+        "description": ""
+      },
+      {
+        "title": "Vouchers Promise Students With Disabilities a Path to Private School. Parents Say That’s Not the Reality.",
+        "link": "https://www.propublica.org/article/school-vouchers-disabilities",
+        "published": "2026-09-11T10:00:00Z",
+        "description": ""
+      },
+      {
+        "title": "EPA to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells",
+        "link": "https://www.propublica.org/article/methane-gas-epa-proposal-stripper-wells",
+        "published": "2026-09-11T09:00:00Z",
+        "description": ""
+      }
+    ],
     "bloomberg": [],
     "economist": [],
     "athletic": [],
     "chelsea": [],
     "chelsea_bbc": [
+      {
+        "title": "Boehly and Walter sell Chelsea stakes to Clearlake",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cvrl6egl1254o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-16T23:29:10Z",
+        "description": "Clearlake Capital acquires full control of Chelsea as chairman Todd Boehly, director Mark Walter and Hansjorg Wyss sell their stakes in the club."
+      },
+      {
+        "title": "League Two Fleetwood host Arsenal in EFL Cup",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cqd08y9dd5dko?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-16T21:57:04Z",
+        "description": "League Two side Fleetwood Town will host Premier League champions Arsenal in the fourth round of the EFL Cup."
+      },
+      {
+        "title": "What's gone wrong for Chelsea talent Kendry Paez?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cd79y025gleo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-16T14:05:00Z",
+        "description": "Kendry Paez was one of the world's best young talents when Chelsea signed him as a 16-year-old. Three years later, he's playing for the Under-21s. So what has gone wrong?"
+      },
       {
         "title": "New system, same problems - Alonso not happy with 'soft' Chelsea",
         "link": "https://www.bbc.co.uk/sport/football/articles/c1l6qd2qvyzo?at_medium=RSS&at_campaign=rss",
@@ -383,66 +687,236 @@
         "link": "https://www.bbc.co.uk/sport/football/videos/cyvz6erdm3jo?at_medium=RSS&at_campaign=rss",
         "published": "2026-09-10T14:52:24Z",
         "description": "Hull City's manager Sergej Jakirovic reveals his masterplan to stop Chelsea trio Morgan Rogers, Cole Palmer and Joao Pedro."
-      },
-      {
-        "title": "Can you make a case for Chelsea being stripped of 2016-17 title?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c0re0n84yz7o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-10T13:55:43Z",
-        "description": "Does Mauricio Pochettino have a case that Tottenham should be retrospectively crowned Premier League champions?"
-      },
-      {
-        "title": "Spurs should be awarded 2016-17 title - Pochettino",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c783ndd7ge2o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-10T08:08:21Z",
-        "description": "Mauricio Pochettino believes Chelsea should be stripped of the Premier League title for 2016-17, when his Tottenham team finished runners-up."
-      },
-      {
-        "title": "Star subs rescue Chelsea as Alonso 'takes blame'",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cx2zx9n29glo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-09T23:25:38Z",
-        "description": "Chelsea get the better of Leeds in a cup thriller, but Blues boss Xabi Alonso has food for thought after needing rescue act from his star substitutes."
       }
     ],
-    "chelsea_sky": [
+    "chelsea_sky": [],
+    "guardianfootball": [
       {
-        "title": "Alonso: Benzema-like Joao Pedro is on same level as Haaland",
-        "link": "https://www.skysports.com/football/news/11668/13584444/joao-pedro-reminds-me-of-karim-benzema-and-is-on-same-level-as-erling-haaland-says-chelsea-boss-xabi-alonso",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-16T04:40:03.671527Z"
+        "title": "De Cuyper and Brighton pile on pain for Manchester United with comeback",
+        "link": "https://www.theguardian.com/football/2026/sep/16/manchester-united-brighton-carabao-cup-third-round-match-report",
+        "published": "2026-09-16T21:18:39Z",
+        "description": "Across four days Manchester United have lost the 199th derby against Manchester City, were told by JJ Gabriel that he wants to leave , and now they have been knocked out of the Carabao Cup by Brighton. Capitulating after being 2-0 up may be the pick of these dizzying blows, as the prolonged boos at the final whistle suggested, and doing so ends a proud 50-year record: the last time the same lead at Old Trafford ended in defeat was Tottenham’s 3-2 win in September 1976. Continue reading..."
       },
       {
-        "title": "'Tired' Liverpool, Chelsea's leaky defence and Villa's attacking concerns",
-        "link": "https://www.skysports.com/football/news/11095/13585204/liverpool-fail-fulham-test-as-chelseas-defensive-problems-continue-to-hamper-their-title-challenge-credentials-premier-league-hits-and-misses",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-16T04:40:03.671527Z"
+        "title": "Enzo Le Fée makes amends from the spot as Sunderland overcome AZ",
+        "link": "https://www.theguardian.com/football/2026/sep/16/sunderland-az-alkmaar-europa-league-league-stage-match-report",
+        "published": "2026-09-16T21:06:31Z",
+        "description": "Granit Xhaka, Sunderland’s captain, believes it is not unrealistic to dream about Régis Le Bris’s side travelling all the way to the Europa League final next spring. It is rarely a good idea to dismiss Xhaka but reaching that showpiece in Frankfurt will necessitate considerably more efficient finishing on his team’s part than proved evident on a highly evocative night on Wearside. Continue reading..."
       },
       {
-        "title": "Rogers and Palmer helping each other thrive",
-        "link": "https://www.skysports.com/football/news/11668/13584004/cole-palmer-and-morgan-rogers-becoming-one-of-premier-leagues-most-dangerous-double-acts-the-radar",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-16T04:40:03.671527Z"
+        "title": "Tammy Abraham’s double powers Aston Villa to Carabao Cup win at Coventry",
+        "link": "https://www.theguardian.com/football/2026/sep/16/coventry-aston-villa-carabao-cup-third-round-match-report",
+        "published": "2026-09-16T21:02:19Z",
+        "description": "For Aston Villa, an overdue drama-free outing as Unai Emery’s side cruised into the Carabao Cup fourth round courtesy of a Tammy Abraham double and a Ross Barkley header. The satisfaction was detectable in Emery’s voice as he reflected on a night of positives: Abraham’s first goals of the season, Ibrahim Mbaye’s encouraging full debut and another half-hour for the £52m club-record signing, Johan Manzambi. Are things clicking into gear after a summer of changes? Continue reading..."
       },
       {
-        "title": "Premier League fixtures: Bumper festive period announced",
-        "link": "https://www.skysports.com/football/news/11661/13583921/premier-league-christmas-fixtures-boxing-day-and-festive-schedule-announced-as-29-matches-shown-live-on-sky-sports",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-16T04:40:03.671527Z"
+        "title": "‘My scar, not your scar’: Tuchel stands by England semi-final subs but admits wrong timing",
+        "link": "https://www.theguardian.com/football/2026/sep/16/tuchel-stands-england-semi-final-subs-wrong-timing-argentina-world-cup-2026",
+        "published": "2026-09-16T21:05:50Z",
+        "description": "Coach says Argentina’s gung-ho approach forced hand ‘No one is more hurt than me, no one wanted it more’ Thomas Tuchel stands by his heavily criticised defensive substitutions in the World Cup semi-final defeat against Argentina this summer, but the England head coach accepts he made them too early. Tuchel said England were “waiting for death”, unable to cope with the attacking tactics adopted by Argentina in Atlanta as they chased the game after Anthony Gordon’s opener on the hour. He said fatigue and the success of defending with a back five in knockout games against Mexico and Norway also influenced his decisions to sit on the lead. Continue reading..."
       },
       {
-        "title": "Poch: I hope to return to Premier League in future",
-        "link": "https://www.skysports.com/football/news/11675/13583564/mauricio-pochettino-ex-tottenham-and-chelsea-boss-hopes-to-return-to-premier-league-in-future",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-16T04:40:03.671527Z"
+        "title": "Boehly and Walter sell Chelsea shares as Clearlake Capital takes full control of club",
+        "link": "https://www.theguardian.com/football/2026/sep/17/boehly-and-walter-sell-chelsea-shares-as-clearlake-capital-takes-full-control-of-club",
+        "published": "2026-09-16T23:28:00Z",
+        "description": "American chair Boehly leaves role after deal is secured ‘I am confident that Chelsea is well positioned’ Todd Boehly and Mark Walter have sold their stakes in Chelsea in a deal under which Clearlake Capital takes full control of the Premier League club. The American billionaire businessmen Boehly and Walter were two of the investors who partnered with Clearlake to buy the club from Roman Abramovich in a sale mandated by the UK government in May 2022. The private equity company Clearlake had previously owned 61.5% of the club, with Boehly and Walter carving up the remaining shares with another investor, Hansjörg Wyss. Continue reading..."
+      },
+      {
+        "title": "Saudi Pro League club Al-Taawoun handed stadium ban over Diogo Jota chants",
+        "link": "https://www.theguardian.com/football/2026/sep/16/saudi-pro-league-club-al-taawoun-handed-stadium-ban-over-diogo-jota-chants",
+        "published": "2026-09-16T21:13:14Z",
+        "description": "Fans heard shouting chants of ‘Jota’ against Al-Hilal Ronaldo had called for lifetime bans for those supporters The Saudi Pro League club Al-Taawoun have been fined nearly £20,000 and given a two-game stadium ban after fans chanted about the late Liverpool and Portugal forward Diogo Jota. The Al-Hilal midfielder Rúben Neves, who played with Jota for Wolves and Portugal, was shown gesturing to the sky after audible chants of “Jota” from Al-Taawoun fans could be heard during Saturday’s league game. Continue reading..."
+      },
+      {
+        "title": "Raphinha cashes in against Santander with hat-trick as Barça hit seven",
+        "link": "https://www.theguardian.com/football/2026/sep/16/raphinha-hat-trick-santander-barcelona-hit-seven-atletico-madrid",
+        "published": "2026-09-16T22:10:33Z",
+        "description": "Cancelo, Jesus and Lamine Yamal also score in rout Atlético Madrid thrash Osasuna 4-0 to move into third Raphinha scored a hat-trick as Barcelona ripped Racing Santander to shreds in a spectacular 7-2 triumph in La Liga on Wednesday. The win makes Hansi Flick the club’s first manager to win ⁠the opening seven competitive matches of a season. João Cancelo, Gabriel Jesus and Lamine Yamal also scored for the unstoppable Catalan giants, who have netted 33 goals in those seven games across all competitions, and who moved three points clear of Real Madrid at the top of La Liga. Continue reading..."
+      },
+      {
+        "title": "‘They are very similar’: Arsenal’s Dowman reminds Merino of Lamine Yamal",
+        "link": "https://www.theguardian.com/football/2026/sep/16/they-are-very-similar-arsenals-dowman-reminds-merino-of-lamine-yamal",
+        "published": "2026-09-16T16:00:23Z",
+        "description": "Teenager continues development with two goals at Ipswich Merino: ‘He is a big talent and we have to take care of him’ Mikel Merino says Max Dowman reminds him of Lamine Yamal after the Arsenal prodigy continued his development by scoring twice in his side’s 4-2 win against Ipswich . Dowman, who has been given a host of opportunities at senior level by Mikel Arteta, starred after being handed his first appearance of the season, at Portman Road on Tuesday. The 16-year-old attacker’s classy double eased Arsenal into the last 16 of the Carabao Cup and left Arteta admitting that containing the hype around the England youth international is not an easy task. Continue reading..."
+      }
+    ],
+    "spielverlagerung": [
+      {
+        "title": "SV Academy: World Cup Final (Analysis Seminar: July 29)",
+        "link": "https://spielverlagerung.com/2026/07/19/sv-academy-world-cup-final-analysis-seminar-july-29/",
+        "published": "2026-07-19T15:24:40Z",
+        "description": "We will analyse the final of the World Cup in an extensive 2-hour-seminar in the Spielverlagerung Academy. We will analyse in depth the reasons of success and failure and also try to derive universal learnings about the game. With two very different branches of possession football, we expect to see a lot of highly interesting […]"
+      },
+      {
+        "title": "Nederland – Tunesië (3-1) & Vooruitblik op Marokko",
+        "link": "https://spielverlagerung.com/2026/06/29/nederland-tunesie-3-1-vooruitblik-op-marokko/",
+        "published": "2026-06-29T11:03:41Z",
+        "description": "Nederland boekte uiteindelijk een overtuigende 3-1-overwinning op Tunesië. Tegen een tegenstander die vrijwel de hele wedstrijd vanuit een laag 5-4-1 verdedigde, had Oranje voortdurend controle over het balbezit en het tempo. Toch kwamen ook in deze wedstrijd opnieuw enkele structurele kwetsbaarheden aan het licht. Tegen Tunesië bleven die grotendeels onbestraft, maar tegen sterkere tegenstanders kunnen […]"
+      },
+      {
+        "title": "Nederland-Sweden 5:1 – Analyse",
+        "link": "https://spielverlagerung.com/2026/06/25/licht-en-schaduw-bij-oranje-nederland-sweden-51/",
+        "published": "2026-06-25T11:32:30Z",
+        "description": "Nederland deed tegen Zweden veel beter dan tegen Japan. Toch blijven er twijfels bestaan. Een analyse. Oude formatie, nieuwe dynamiek Nederland speelde opnieuw vanuit een 1-4-3-3, maar liet in balbezit vanaf het begin een andere aanpak zien. Met Brobbey als spits en Malen als nominale buitenspeler, die zijn rol niet invulde als pure breedtehouder voor […]"
+      },
+      {
+        "title": "Te voorzichtig of een gevolg van het WK-format? Nederland-Japan 2:2",
+        "link": "https://spielverlagerung.com/2026/06/19/te-voorzichtig-of-een-gevolg-van-het-wk-format-nederland-japan-22/",
+        "published": "2026-06-19T07:26:01Z",
+        "description": "De twee favorieten van de groep stonden tegenover elkaar. “Dat regelen we wel in de andere wedstrijden” had zomaar het motto van beide ploegen kunnen zijn. Nederland speelde tegen Japan in balbezit vanuit een duidelijke 1-4-3-3-basisformatie, met zeer lage backs, duidelijke spelers die voor de breedte zorgden, een echte spits (Malen) en twee nummers tien […]"
+      },
+      {
+        "title": "Champions League Final: What the Future of Football Looks Like – MH",
+        "link": "https://spielverlagerung.com/2026/06/01/champions-league-final-what-the-future-of-football-looks-like-mh/",
+        "published": "2026-06-01T09:03:23Z",
+        "description": "Which ideology will shape the football of the future? The 2026 Champions League final was supposed to provide answers to this question. After all, FC Arsenal and Paris Saint-Germain had reached the final, two teams whose playing philosophies could hardly seem more different at first glance. A snapshot: What defines the most successful teams this […]"
+      },
+      {
+        "title": "De schaduwzijde van relationisme (in de Nederlandse bekerfinale)",
+        "link": "https://spielverlagerung.com/2026/05/06/de-schaduwzijde-van-relationisme-in-de-nederlandse-bekerfinale/",
+        "published": "2026-05-06T05:51:37Z",
+        "description": "N.E.C. Nijmegen kon dit seizoen vanwege hun relationistische patronen en hun oplossingsstrategieën tegen mandekkingen met verticale positiewisselingen van hun centrale verdedigers op zich attent maken. Op de voorlaatste zondag ontmoetten zich in Rotterdam voor de Nederlandse bekerfinale AZ Alkmaar en het verrassende team van Nederland, N.E.C. Nijmegen. AZ won na een doelpunt uit een standaardsituatie […]"
+      },
+      {
+        "title": "Essay: Escape – MX",
+        "link": "https://spielverlagerung.com/2026/02/06/essay-escape-mx/",
+        "published": "2026-02-06T14:10:55Z",
+        "description": "A few thoughts and reflections on the analysis bubble. Humans want to understand. A fundamental need of our species eventually developed a concept for the desire to understand and to derive understanding: analysis. Carried through the centuries and applied primarily in literature, this drive increasingly found its way into the comparative physical activity of humans-sport. […]"
+      },
+      {
+        "title": "Double analysis: Bodø/Glimt impressive against Manchester City and Atletico Madrid – MX",
+        "link": "https://spielverlagerung.com/2026/01/31/double-analysis-bodo-glimt-impressive-against-manchester-city-and-atletico-madrid-mx/",
+        "published": "2026-01-31T11:22:00Z",
+        "description": "The Norwegians impress against two top European teams and draw attention to themselves. We take a look at the two matches. Translations of German match analyses on spielverlagerung.de Bodø/Glimt v Manchester City (3:1) Bodø/Glimt have been regarded as a hidden gem within the analysis community for several years now, but at the latest since Tuesday’s […]"
+      }
+    ],
+    "swissramble": [
+      {
+        "title": "Are Arsenal Restricted by Financial Regulations?",
+        "link": "https://swissramble.substack.com/p/are-arsenal-restricted-by-financial",
+        "published": "2026-09-14T05:31:20Z",
+        "description": "Champagne Problems"
+      },
+      {
+        "title": "The European Elite",
+        "link": "https://swissramble.substack.com/p/the-european-elite",
+        "published": "2026-09-07T06:46:49Z",
+        "description": "How The West Was Won And Where It Got Us"
+      },
+      {
+        "title": "EFL Championship Finances 2016-25",
+        "link": "https://swissramble.substack.com/p/efl-championship-finances-2016-25",
+        "published": "2026-09-01T06:45:46Z",
+        "description": "Today’s Gonna Be Our Day"
+      },
+      {
+        "title": "Millwall Finances 2024/25",
+        "link": "https://swissramble.substack.com/p/millwall-finances-202425",
+        "published": "2026-08-27T06:45:33Z",
+        "description": "Roar"
+      },
+      {
+        "title": "Premier League Finances 2016-25",
+        "link": "https://swissramble.substack.com/p/premier-league-finances-2016-25",
+        "published": "2026-08-24T06:46:25Z",
+        "description": "Let’s Dance To Joy Division"
+      },
+      {
+        "title": "Swansea City Finances 2024/25",
+        "link": "https://swissramble.substack.com/p/swansea-city-finances-202425",
+        "published": "2026-08-17T06:45:31Z",
+        "description": "Lipstick On The Glass"
+      },
+      {
+        "title": "Why the EFL Championship's new Squad Cost Rules are different",
+        "link": "https://swissramble.substack.com/p/why-the-efl-championships-new-squad",
+        "published": "2026-08-11T06:45:23Z",
+        "description": "Card Declined"
+      },
+      {
+        "title": "Leicester City Finances 2024/25",
+        "link": "https://swissramble.substack.com/p/leicester-city-finances-202425",
+        "published": "2026-08-06T06:46:05Z",
+        "description": "Burning Down The House"
+      }
+    ],
+    "wagnh": [
+      {
+        "title": "João Pedro withdrawn from Brazil squad due to injury",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/172288/joao-pedro-withdrawn-from-brazil-squad-due-to-injury",
+        "published": "2026-09-17T00:04:13Z",
+        "description": "Following his shocking snub for the World Cup, João Pedro was called up to Brazil for the season’s first international break coming up next week. Unfortunately, he’s going to have to wait a bit longer to pull on the famous shirt of the Seleção. Doubly unfortunately, it appears that he’s going to be out for […]"
+      },
+      {
+        "title": "Official: Clearlake acquire ‘full control’ of Chelsea",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-finances/172279/official-clearlake-acquire-full-control-of-chelsea",
+        "published": "2026-09-16T23:40:56Z",
+        "description": "After four years of a complicated and increasingly awkward co-ownership, the “Boehly-Clearlake Consortium” (which would be renamed BlueCo to make things easier) are now comprised of “just” Clearlake Capital (and also Hansjörg Wyss with his small stake). As announced today officially by the club, Clearlake have bought out Todd Boehly and Mark Walter to acquire […]"
+      },
+      {
+        "title": "Chelsea drawn against Liverpool in fourth round of League Cup",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-league-cup/172276/chelsea-drawn-against-liverpool-in-fourth-round-of-league-cup",
+        "published": "2026-09-16T23:08:38Z",
+        "description": "The first of hopefully very many Xabi Alonso Derbies is going to take place the week of October 26, with Chelsea drawn against Liverpool, away, in the fourth round of this year’s League Cup. Obviously, Alonso’s a Liverpool legend and though this won’t be the first time he’s back at Anfield with another team, it […]"
+      },
+      {
+        "title": "The Daily Hilario: Wednesday",
+        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/172258/the-daily-hilario-september-16th",
+        "published": "2026-09-16T07:02:26Z",
+        "description": "And how did it help? Lol Renewed"
+      },
+      {
+        "title": "The Daily Hilario: Glacier National Park",
+        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/172244/the-daily-hilario-glacier-national-park",
+        "published": "2026-09-15T07:00:42Z",
+        "description": "I’ve spent the last couple days in Glacier National Park, trying to see the sights and do some hiking. The weather has not been cooperating unfortunately: it rained all day today and most of yesterday and the clouds have robbed us of some amazing vistas. We even had snow at the upper elevations, which meant […]"
+      },
+      {
+        "title": "Xabi Alonso not happy with Chelsea’s ‘dynamic in terms of conceding’ goals",
+        "link": "https://weaintgotnohistory.sbnation.com/premier-league/172241/xabi-alonso-not-happy-with-chelseas-dynamic-in-terms-of-conceding-goals",
+        "published": "2026-09-15T06:07:08Z",
+        "description": "Another two goals were conceded over the weekend, bringing Chelsea’s season total to nine, fourth most in the league behind only Ipswich Town, Crystal Palace, and bottom of the table Coventry City. Thankfully, we do have the second highest scoring attack in the league, so we do have seven points to show for our efforts […]"
+      },
+      {
+        "title": "The Daily Hilario: Monday",
+        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/172222/the-daily-hilario-september-14th",
+        "published": "2026-09-14T06:09:28Z",
+        "description": "First time Soaring Lol"
+      },
+      {
+        "title": "Chelsea 2-2 Hull City, Player Ratings: When scoring goals is not enough",
+        "link": "https://weaintgotnohistory.sbnation.com/premier-league/172229/chelsea-2-2-hull-city-player-ratings-when-scoring-goals-is-not-enough",
+        "published": "2026-09-14T06:33:55Z",
+        "description": "1. JOÃO PEDRO (6.8) João Pedro had a goal and an assist. Morgan Rogers had a goal. Cole Palmer had an assist. Our delightful front three combined for all of our scoring, and in an ideal world, two such goals would be enough to get all three points — especially against a team who had […]"
       }
     ],
     "rym": [],
     "aoty": [],
     "pitchfork": [
+      {
+        "title": "lucy miró al mundo y notó que está girando",
+        "link": "https://pitchfork.com/reviews/albums/akriila-lucy-miro-al-mundo-y-noto-que-esta-girando/",
+        "published": "2026-09-17T04:03:00Z",
+        "description": "With an assist from Jane Remover and under the influence of the Beatles, the rising Chilean star crafts a digirock ode to emotional overload."
+      },
+      {
+        "title": "Wet",
+        "link": "https://pitchfork.com/reviews/albums/black-meteoric-star-wet/",
+        "published": "2026-09-17T04:02:00Z",
+        "description": "Steamy and subversive, the new album from former LCD Soundsystem collaborator Gavilán Rayna Russom’s long-running project is a queer electro manifesto."
+      },
+      {
+        "title": "Put Rings on All My Fingers to Weigh Down My Hands EP",
+        "link": "https://pitchfork.com/reviews/albums/curbside-lambsear-put-rings-on-all-my-fingers-to-weigh-down-my-hands/",
+        "published": "2026-09-17T04:01:00Z",
+        "description": "The London band’s mesmeric debut EP suffuses noise and drone in pastoral loveliness—or is it the other way around?"
+      },
+      {
+        "title": "Hope Is the Thing With Feathers",
+        "link": "https://pitchfork.com/reviews/albums/rhiannon-giddens-hope-is-the-thing-with-feathers/",
+        "published": "2026-09-17T04:00:00Z",
+        "description": "Focused on community and resilience, the folk singer and multi-instrumentalist’s new album anchors her wide-ranging musical explorations in her Carolina roots."
+      },
       {
         "title": "Hard Life",
         "link": "https://pitchfork.com/reviews/albums/the-tubs-hard-life/",
@@ -466,84 +940,78 @@
         "link": "https://pitchfork.com/reviews/albums/various-artists-denshattack-original-game-soundtrack/",
         "published": "2026-09-16T04:00:00Z",
         "description": "Bringing together video-game score veterans and rising composers, the soundtrack for the nostalgic platformer remixes and revitalizes the iconic sounds of Y2K gaming."
-      },
-      {
-        "title": "Believer",
-        "link": "https://pitchfork.com/reviews/albums/angela-autumn-believer/",
-        "published": "2026-09-15T04:03:00Z",
-        "description": "The Nashville-based songwriter channels her Appalachian roots into empathetic, slightly psychedelic banjo- and guitar-led songs that explore what a leap of faith can offer when certainty is gone."
-      },
-      {
-        "title": "Anatomy of a Brief Romance",
-        "link": "https://pitchfork.com/reviews/albums/bloc-party-anatomy-of-a-brief-romance/",
-        "published": "2026-09-15T04:02:00Z",
-        "description": "Twenty-one years ago, the group opened its debut LP with a breakup song for the ages. Its latest comeback is a breakup record that may have even longtime fans eyeing the exit."
-      },
-      {
-        "title": "The World Is Yours",
-        "link": "https://pitchfork.com/reviews/albums/rio-da-yung-og-the-world-is-yours/",
-        "published": "2026-09-15T04:01:00Z",
-        "description": "The 32-year-old rapper made his name with audacious punchlines and moments of startling candor, but his latest album is weighed down by a pervasive air of exhaustion."
-      },
-      {
-        "title": "Honest Feeling Album (素直な気持ちアルバム)",
-        "link": "https://pitchfork.com/reviews/albums/hakushi-hasegawa-honest-feeling-album/",
-        "published": "2026-09-15T04:00:00Z",
-        "description": "The omnivorous Japanese producer’s new LP jams a little of almost everything: knotty freeform jazz, proggy pop, noisy electronics, and triumphant J-rock."
       }
     ],
     "quietus": [
+      {
+        "title": "Not the How But the What: Lummernikt by Finn Loxbo",
+        "link": "https://thequietus.com/quietus-reviews/album-of-the-week/tripping-the-light-fantastic-lummernikt-by-finn-loxbo-review/",
+        "published": "2026-09-17T05:41:00Z",
+        "description": "For all its stunning virtuosity, the tumbling fingerstyle guitar of Swedish guitarist Finn Loxbo is always in service to a set of brilliant compositional ideas Digging through the various improvised solo and duo recordings Swedish guitarist Finn Loxbo has made over the last decade is like witnessing a slow-motion creative winnowing, observing how a feverish pile of ideas and experiments has gradually coalesced into something inscrutable. His third solo album Lummernikt is a work of astonishing focus and originality forged from familiar notions, a free improvisation practice patiently chiseled into compositional rigour. Across eight riveting acoustic pieces played live without overdubs,…"
+      },
+      {
+        "title": "Kim Ximya – Dogma",
+        "link": "https://thequietus.com/quietus-reviews/kim-ximya-dogma-review/",
+        "published": "2026-09-17T05:00:00Z",
+        "description": "Kim Ximya Dogma A South Korean rapper backed by a cacophony of glitchy noises proves an intriguing listen for Arusa Qureshi South Korean hip-hop has been in existence since the 80s, when American hip-hop first seeped its way into the country’s pop culture canon via army officers stationed at US military bases. But, as is the case with hip-hop’s proliferation all over the world, it was soon adopted by Korean youth who made the genre their own, interpreting and flipping hip-hop into something homegrown and localised. Eventually, reality shows like Show Me the Money – where contestants go head to head until only one rapper remains – thrust hip-hop into the country’s mainstream, but there is…"
+      },
+      {
+        "title": "David Byrne Releases Digital Deluxe Edition of ‘Who Is The Sky?’",
+        "link": "https://thequietus.com/news/david-byrne-releases-digital-deluxe-edition-of-who-is-the-sky/",
+        "published": "2026-09-16T14:00:00Z",
+        "description": "The original LP was released a year ago Photo by Shervin Lainez David Byrne has shared a digital deluxe edition of his latest solo album Who Is The Sky?, a year on from its original release. The updated edition of the LP features four bonus tracks, including new single 'My Madness', which you can listen to below. Its release comes ahead of Byrne wrapping up his touring in support of Who Is The Sky? with a show at Forest Hills Stadium in New York City this Saturday (19 September). In a statement about the song and the wider deluxe release, Byrne said: \"Here's my most recent album now expanded with two songs that were cut, not because they weren't good (I hope) but to..."
+      },
+      {
+        "title": "Markus Guentner’s ‘In Moll’ Set for 25th Anniversary Reissue",
+        "link": "https://thequietus.com/news/markus-guentners-in-moll-set-for-25th-anniversary-reissue/",
+        "published": "2026-09-16T13:48:14Z",
+        "description": "The album was originally released during the formative years of Kompakt's long-running Pop Ambient series Photo by David Westlake Markus Guentner's ambient and dub techno classic LP In Moll is being reissued to mark its 25th anniversary. The record has been newly remastered by composer and mastering engineer Rafael Anton Irisarri for its new edition. Speaking about the record, Irisarri said: \"It immediately opened a door to a world of music I didn't know existed. Markus showed me entirely new possibilities for what electronic music could communicate.\" The updated release takes in fresh visual elements created by Guentner himself as he revisited the album 25 years on, while the track 'In…"
+      },
+      {
+        "title": "New Alan Vega Live Album Captures 1980 Kansas City Show Recording",
+        "link": "https://thequietus.com/news/new-alan-vega-live-album-captures-1980-kansas-city-show-recording/",
+        "published": "2026-09-16T12:35:56Z",
+        "description": "Live At Max's Kansas City features live recordings of seven solo tracks by the late Suicide frontman Photo by Marcia Resnick Sacred Bones is continuing its series of Alan Vega archival releases with the unveiling of a new live album, Live At Max's Kansas City. Recorded on July 18, 1980, the album captures live versions of seven solo songs by Vega. The performance in Kansas City came just weeks before the late Suicide frontman put out his debut solo LP, and was joined by guitarist Phil Hawk for the set. The release of Live At Max's Kansas City will mark the first time that the live recording has been made available on vinyl and streaming platforms. Listen to lead track 'JUKEBOX BABY (Live…"
+      },
+      {
+        "title": "Some Sort of Better Future: Globo Interviewed",
+        "link": "https://thequietus.com/interviews/globo-interview/",
+        "published": "2026-09-16T07:32:02Z",
+        "description": "Jeremy Allen speaks to the recently reinvigorated experimental synth pop band about covering an entire album by The Fall and the changing scene for electronic music Globo have never really fitted in. That was certainly true when the renegade cell of electronically-minded musicians released their debut album Pro War in 1995, armed with just Akai samplers, drum machines and their wits. Comparisons with groups like Underworld were never quite right, and they couldn’t have been any more antithetical to the hedonistic London-centric Britpop parade that so obsessed the inkies at the time. Formed in Norwich in 1993 by then Melody Maker journalist Mark Wernham (who wrote as Mark Roland), plus…"
+      },
+      {
+        "title": "Gilroy Mere – Furlongs",
+        "link": "https://thequietus.com/quietus-reviews/gilroy-mere-furlongs-review/",
+        "published": "2026-09-16T05:00:00Z",
+        "description": "Gilroy Mere Furlongs A journey through the anceint rites of the Sussex countryside with wind chimes, plinky keyboards and infectious acoustic guitar licks proves a triumph, for Travis Elborough Furlongs by Gilroy Mere On the cover of Furlongs is an illustration of a young man with not a whisper of a beard on his smooth chin. The hair is a W H Auden-era short back and sides with an unruly cowlick fringe. He is dressed neatly, in a shirt and tie, waistcoat or possibly sweater vest, a sketch pad and pencil in his hand. The man is framed by a pebble-dash wall and a slated windowpane from which he peers out at the world. Reflected on the glass are the green downland hills and..."
+      },
       {
         "title": "Donato Dozzy Reveals New Album for Tresor, ‘Astro’",
         "link": "https://thequietus.com/news/donato-dozzy-reveals-new-album-for-tresor-astro/",
         "published": "2026-09-15T18:27:27Z",
         "description": "The seven-track LP is out in November Photo by Guido Gazzilli Donato Dozzy has a new album on the way for Tresor, titled Astro. Marking the Italian artist's second full-length release of 2026, after his collaborative LP with Batu, Exhale, came out in June, this new LP takes in seven tracks. It's said to be inspired by Jumbo Machinders cartoons, which were based around Japanese robot action figures and were popular in Italy during Dozzy's childhood. Every episode of the cartoon was dubbed into Italian, and had its own specially written Italian theme song, which was pressed onto 7-inch vinyl. Last year, Dozzy took a sample from the first of the themes he ever owned, Astro Robot Contatto…"
-      },
-      {
-        "title": "Fatima Al Qadiri Details New EP, ‘3TWI (عتوي)’",
-        "link": "https://thequietus.com/news/fatima-al-qadiri-details-new-ep-3twi-%d8%b9%d8%aa%d9%88%d9%8a/",
-        "published": "2026-09-15T17:29:00Z",
-        "description": "The four-track record takes its title from the Kuwaiti Arabic femme slang for \"dirty old man\" Photo by Yasser Abubeker Fatima Al Qadiri is back with a new EP for Hyperdub, titled 3TWI (عتوي). Comprised of four tracks, the title is derived from a Kuwaiti Arabic femme slang term to mean \"dirty old man\". It features guest contributions from longtime friends and collaborators Bobo Secret, Lama3an and Gumar, and pays musical homage to West Asian folk dance music. To mark the record's announcement, Al Qadiri has shared lead track '7ilween', which translates to \"pretty young things\". The song comes backed by a video directed by Sophia Al-Maria, which can be watched below. A press release notes…"
-      },
-      {
-        "title": "Decolonise Fest Announces Full 2026 Lineup",
-        "link": "https://thequietus.com/news/decolonise-fest-announces-full-2026-lineup/",
-        "published": "2026-09-15T11:00:00Z",
-        "description": "The ninth edition of the festival platforming punks of colour takes place in North London next month Hang Linton, photo by Spence Hackett Decolonise Fest has finalised the lineup for its ninth edition, which takes place at Signature Brew Blackhorse Road in London next month. Running across 3 and 4 October, the festival's stated aim is to celebrate punks of colour, which will be done via live performances, talks and workshops. Piroshka and former Lush member Miki Berenyi, cult Scottish outfit Sacred Paws and fast-rising alternative rap trio Frozemode lead the musical lineup, which also includes Third Kulture, Baby Said, Uninvited, Mashaal, Hang Linton, Silver Tabby, Tmdistant, Eatboys. and…"
-      },
-      {
-        "title": "Feedbacker: Rock Music for September by JR Moores",
-        "link": "https://thequietus.com/quietus-reviews/rock/new-rock-albums-dinosaur-jr-the-strokes-reality-awaits-review/",
-        "published": "2026-09-15T10:24:40Z",
-        "description": "Now that the dust has settled on the 2026 World Cup of soccer, Wayne Rooney assists JR Moores with his rock content, featuring reviews of new records by The Strokes, Dinosaur Jr. and more Dinosaur Jr., photo by Jeff Fowler “I like a lot of them artists, but I thought it was crap.” Those aren’t my words. Those are the words of the BBC’s last surviving music critic, Wayne Rooney. Fingers crossed the ex-Man U. forward will replace Jools Holland or host next year’s Glastonbury coverage. That ought to curb excess use of the word “iconic”. Rooney was talking about the World Cup final’s halftime show, an event less welcome than two hydration breaks and a career-jeopardising knee injury. The…"
-      },
-      {
-        "title": "James F. Johnston of Gallon Drunk on Painting",
-        "link": "https://thequietus.com/interviews/things-i-have-learned/james-johnston-artist/",
-        "published": "2026-09-15T08:59:04Z",
-        "description": "James Johnston picked up a paintbrush while on tour with PJ Harvey ten years ago and never put it down again. This is what the practice has taught him. Words and candid photography by Wesley Doyle Guildford-born James F. Johnston has spent most of his life known as a musician: founder of Gallon Drunk, a former member of Nick Cave and the Bad Seeds, Faust, and Big Sexy Noise with Lydia Lunch, he’s played on records by Barry Adamson, Dot Allison and PJ Harvey. It was while on tour with the latter that a way of killing time turned into a daily practice, then a livelihood, and is now – by Johnston’s own reckoning – his primary identity. The multi-instrumentalist is now..."
-      },
-      {
-        "title": "King Ayisoba – Pure Confusion",
-        "link": "https://thequietus.com/quietus-reviews/king-ayisoba-pure-confusion-review/",
-        "published": "2026-09-15T05:00:00Z",
-        "description": "King Ayisoba Pure Confusion King Ayisoba's seventh album was cut live in a single sitting. Everything else was built around it afterwards Pure Confusion by King Ayisoba The most useful thing to know about Pure Confusion is how it was made. King Ayisoba flew to England in November 2024, sat down in Adrian Sherwood’s studio in Ramsgate, and played the whole record in one afternoon. He says the songs were already finished in his head. Nothing about his performance was altered after the fact. The bass, the cello, the saxophone, the harmonica, the dub processing on the desk: all of it was added later, to a recording of a man who was alone in a room with a two-string lute made from a calabash..."
-      },
-      {
-        "title": "High on Dynamite: the rapid rise & fall of The White Panthers (UK)",
-        "link": "https://thequietus.com/culture/books/the-white-panthers-single/",
-        "published": "2026-09-14T09:22:48Z",
-        "description": "In an extract from the new book International Freak, author M. Syd Rosen describes a doomed attempt in 1970 to ignite a revolution with rock & roll White Panthers EP by Robin Farquharson & The White Panthers Born in 1930 into a privileged South African family, Robin Farquharson was part of a new wave of intellectuals who tasked themselves with reimagining society in the wake of World War II until everything fell apart. Watched by the secret police and hampered by mounting paranoia, Farquharson fled to 1960s London and tried to reinvent himself as a countercultural guru. In 1970 the writer and would-be revolutionary recorded a single dedicated to the Palestinian hijacker Leila Khaled, then…"
-      },
-      {
-        "title": "Adapt or Don’t: Marc Almond Interviewed",
-        "link": "https://thequietus.com/interviews/marc-almond-soft-cell-interview-dave-ball-danceteria/",
-        "published": "2026-09-14T06:00:00Z",
-        "description": "Marc Almond meets Patrick Clarke in Soho to discuss the death of Dave Ball, the final Soft Cell album Danceteria and his career as a shapeshifter Photo by Mike Owen I meet Marc Almond a few minutes’ walk from the Brewer Street flat in which he lived in the early 1980s. There is a longstanding urban myth that a pet boa constrictor once escaped from it and into the Soho sewers where it slithers to this day, although Almond clarifies that it only got as far as terrorising the neighbours. “I think it got out through the piping and came out through their toilet. I got a warning from the police saying, ‘Please look after your boa constrictor!’” The point stands, however, that..."
       }
     ],
     "residentadvisor": [],
     "aquariumdrunkard": [
+      {
+        "title": "The Aquarium Drunkard Show: SIRIUS/XMU (7pm PDT, Channel 35)",
+        "link": "https://aquariumdrunkard.com/2026/09/16/the-aquarium-drunkard-show-sirius-xmu-7pm-pdt-channel-35-184/",
+        "published": "2026-09-17T01:00:00Z",
+        "description": "Broadcasting from northeast Los Angeles — the Aquarium Drunkard Show on SIRIUS/XMU, channel 35. 7pm California time, Wednesdays. A signal from the afterlife of the ’60s—soft-focus surrealism, garage psych, baroque pop, pastoral folk, English eccentricity, studio alchemy and outsider visions. 34.1090° N, 118.2334° W"
+      },
+      {
+        "title": "I Will Die In This Jean Jacket :: Hang From A Cloud",
+        "link": "https://aquariumdrunkard.com/2026/09/16/i-will-die-in-this-jean-jacket-hang-from-a-cloud/",
+        "published": "2026-09-16T18:49:13Z",
+        "description": "Minneapolis lifer Jim Blaha goes it alone on Hang From A Cloud, a raw, bedroom-recorded set of wistful garage-psych and punk songs that crackle with romantic desperation. From the breathy “Some New Day” to the furious, sotto voce anthems of “D.O.A.,” Blaha distills decades in the underground into something intimate, ferocious, and beautifully unvarnished."
+      },
+      {
+        "title": "Transmissions :: James Austin Johnson",
+        "link": "https://aquariumdrunkard.com/2026/09/16/transmissions-james-austin-johnson/",
+        "published": "2026-09-16T12:00:00Z",
+        "description": "This week on the show, comedian James Austin Johnson joins us to dive into the music nerd obsessions of his new comedy special ⁠He'll Yeah⁠. You've likely seen JAJ on the TV. He's known for portraying Donald Trump, Joe Biden, and occasionally, Bob Dylan, on SNL . But He’ll Yeah ’s vignettes and on-stage footage find Johnson creating a more \"indie rock\" styled special. Along the way, we talk Bob Dylan, the perils of political comedy, and much more."
+      },
       {
         "title": "Dollar Brand/Don Cherry/Carlos Ward :: The Third World-Underground",
         "link": "https://aquariumdrunkard.com/2026/09/15/dollar-brand-don-cherry-carlos-ward-the-third-world-underground/",
@@ -573,133 +1041,158 @@
         "link": "https://aquariumdrunkard.com/2026/09/13/well-travelled-talk-talks-final-live-performances-40-years-on/",
         "published": "2026-09-13T15:00:00Z",
         "description": "With In Another World: The Four Seasons of Talk Talk , music writer Graeme Thomson charts one of the most mystical trajectories ever undertaken by a one-time pop band. Today marks the 40th anniversary of the band's final live performance in Spain. To commemorate, we're pleased to share an edited extract from In Another World."
-      },
-      {
-        "title": "Crying Laughing :: Talking",
-        "link": "https://aquariumdrunkard.com/2026/09/11/crying-laughing-talking/",
-        "published": "2026-09-11T12:00:00Z",
-        "description": "Strange and turbulent times call for insistent new theme songs and rallying cries. On Talking , Baltimore’s Crying Laughing answer the call with necessary and emphatic instrumental anthems, driven by a twin alto sax attack and percussion that channels the snap and bounce of New Orleans rhythms. The result feels tightly interlocked, yet constantly in motion."
-      },
-      {
-        "title": "Mike D :: Thank You",
-        "link": "https://aquariumdrunkard.com/2026/09/11/mike-d-thank-you/",
-        "published": "2026-09-11T12:00:00Z",
-        "description": "Thank You , the first solo work from Mike D, ascribed to the appellation Mike D 5D. Though he hasn’t been too far from music, producing records for Portugal. The Man and Soft Play, the album follows a long period of creative grief. But the work of his sons Davis and Skyler Diamond and their circle of friends have drawn the wildest Beastie back to writing and performing once again."
-      },
-      {
-        "title": "The Lagniappe Sessions :: Maisy Owen",
-        "link": "https://aquariumdrunkard.com/2026/09/10/the-lagniappe-sessions-maisy-owen/",
-        "published": "2026-09-10T13:30:00Z",
-        "description": "For her debut Lagniappe Session, Maisy Owen turns to four songwriters who share her gift for making difficult things sound beautiful. From Rosa Lee Carson’s devastating “The Drinker’s Child,” written when Carson was just fourteen, to Townes Van Zandt’s “Snowin’ on Raton,” David Olney’s “Deeper Well,” and Amy Winehouse’s “What Is It About Men,” Owen follows a thread through country, folk and soul-pop songwriting, finding a sweetness in songs that are anything but sweet."
       }
     ],
-    "bfi": [
+    "bandcampdaily": [
       {
-        "title": "20 years of Children of Men: how the London locations look today",
-        "link": "https://www.bfi.org.uk/features/20-years-children-men-how-london-locations-look-today",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-16T04:40:03.671527Z"
+        "title": "Perennial Death on DIY, Olympia, and their Current Pop Hot Streak",
+        "link": "https://daily.bandcamp.com/features/perennial-death-label-profile",
+        "published": "2026-09-16T13:56:03Z",
+        "description": "\"There are a lot of bands in our friend group that are making really great art, and maybe we’re able to put it out into the world a little faster than other labels.\" Read full story on the Bandcamp Daily ."
       },
       {
-        "title": "Where to begin with Claude Chabrol",
-        "link": "https://www.bfi.org.uk/features/where-begin-claude-chabrol",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-16T04:40:03.671527Z"
+        "title": "Green Lung, “Necropolitan”",
+        "link": "https://daily.bandcamp.com/album-of-the-day/green-lung-necropolitan-review",
+        "published": "2026-09-16T13:55:54Z",
+        "description": "The British doom band go full occult-rock on their third LP, living deliciously—and sounding damn good. Read full story on the Bandcamp Daily ."
       },
       {
-        "title": "Dancing at the revolution: the cinema of Sarah Maldoror",
-        "link": "https://www.bfi.org.uk/sight-and-sound/features/dancing-revolution-cinema-sarah-maldoror",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-14T12:36:46.068498Z"
+        "title": "The Sound of Gqom Circa 2026",
+        "link": "https://daily.bandcamp.com/scene-report/gqom-album-guide",
+        "published": "2026-09-15T17:30:58Z",
+        "description": "The Durban-born genre keeps on mutating, spawning endless subgenres. We catch up with some of the latest. Read full story on the Bandcamp Daily ."
       },
       {
-        "title": "The UK’s first arthouse boom: how Contemporary Films blazed a trail in bringing world cinema to British viewers",
-        "link": "https://www.bfi.org.uk/features/contemporary-films-75",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-14T12:36:46.068498Z"
+        "title": "How Tony Humphries Brought New Jersey House to the Masses",
+        "link": "https://daily.bandcamp.com/features/tony-humphries-kiss-fm-zanzibar-years-feature",
+        "published": "2026-09-15T13:37:20Z",
+        "description": "The icon’s vast radio archive, chronicled on a new compilation, is a key document in club music's history. Read full story on the Bandcamp Daily ."
       },
       {
-        "title": "“He is the blockbuster given human form”: J. Hoberman on Arnold Schwarzenegger",
-        "link": "https://www.bfi.org.uk/sight-and-sound/features/he-blockbuster-given-human-form-j-hoberman-arnold-schwarzenegger",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-14T12:36:46.068498Z"
+        "title": "Perennial, “Modernism”",
+        "link": "https://daily.bandcamp.com/album-of-the-day/perennial-modernism-review",
+        "published": "2026-09-15T13:37:16Z",
+        "description": "The synth-punks' latest puts a fresh, audacious spin on ’60s mod chic. Read full story on the Bandcamp Daily ."
       },
       {
-        "title": "In pictures: Vivid behind-the-scenes shots from the jazz club in The L-shaped Room",
-        "link": "https://www.bfi.org.uk/features/pictures-vivid-behind-scenes-shots-from-jazz-club-l-shaped-room",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-14T12:36:46.068498Z"
+        "title": "Heavy Blessings: A Church Road Records Primer",
+        "link": "https://daily.bandcamp.com/label-profile/heavy-blessings-a-church-road-records-primer",
+        "published": "2026-09-14T13:35:14Z",
+        "description": "How the sudden demise of Holy Roar Records kickstarted one of the most venerable indie labels in the UK. Read full story on the Bandcamp Daily ."
       },
       {
-        "title": "In search of the Dorset locations of Nuts in May",
-        "link": "https://www.bfi.org.uk/features/search-dorset-locations-nuts-may",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-14T12:36:46.068498Z"
+        "title": "Haruomi Hosono, “Yours Sincerely”",
+        "link": "https://daily.bandcamp.com/album-of-the-day/haruomi-hosono-yours-sincerely-review",
+        "published": "2026-09-14T13:35:03Z",
+        "description": "The latest from the Japanese icon functions as a showpiece for his many musical eras. Read full story on the Bandcamp Daily ."
       },
       {
-        "title": "Of monsters and men: Peter Wollen on Jurassic Park",
-        "link": "https://www.bfi.org.uk/sight-and-sound/features/monsters-men-peter-wollen-jurassic-park",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-14T12:36:46.068498Z"
+        "title": "It’s Not Easy Being Greenland",
+        "link": "https://daily.bandcamp.com/scene-report/greenland-music-scene-report",
+        "published": "2026-09-11T17:49:00Z",
+        "description": "The country is simultaneously well-known and woefully overlooked. Read full story on the Bandcamp Daily ."
       }
     ],
+    "toneglow": [
+      {
+        "title": "Film Show 072: Yuula Benivolski",
+        "link": "https://toneglow.substack.com/p/film-show-072-yuula-benivolski",
+        "published": "2026-09-14T23:56:24Z",
+        "description": "An interview with the Toronto artist and filmmaker about renouncing her Israeli citizenship, her path to filmmaking, and the stories behind her debut feature film, ‘The Black Box is Orange’ (2026)"
+      },
+      {
+        "title": "Film Show 071: John Torres",
+        "link": "https://toneglow.substack.com/p/film-show-071-john-torres",
+        "published": "2026-09-13T22:02:13Z",
+        "description": "An interview with the Filipino filmmaker about growing up in Manila, how grief leads to people being controlled, and the making of his new feature film, ‘The Remotes’ (2026)"
+      },
+      {
+        "title": "Tone Glow is Cancelling its Upcoming Nirosta Steel Shows",
+        "link": "https://toneglow.substack.com/p/tone-glow-is-cancelling-its-upcoming",
+        "published": "2026-09-02T18:20:39Z",
+        "description": "The concerts were originally slated for September 18th and 19th at The Hideout in Chicago"
+      },
+      {
+        "title": "Tone Glow 239: The Olivia Tremor Control",
+        "link": "https://toneglow.substack.com/p/tone-glow-239-the-olivia-tremor-control",
+        "published": "2026-09-01T23:26:08Z",
+        "description": "An interview with Derek Almstead and Jason NeSmith about completing the final Olivia Tremor Control album, ‘The Same Place’ (2026)"
+      },
+      {
+        "title": "Tone Glow 238: Klara Lewis",
+        "link": "https://toneglow.substack.com/p/tone-glow-238-klara-lewis",
+        "published": "2026-08-31T21:16:14Z",
+        "description": "An interview with the Swedish musician about the late Peter Rehberg, collaborating with Simon Fisher Turner, and how David Lynch’s ‘Inland Empire’ inspired her new album ‘Opening’ (2026)"
+      },
+      {
+        "title": "Tone Glow 237: Duncan Harrison",
+        "link": "https://toneglow.substack.com/p/tone-glow-237-duncan-harrison",
+        "published": "2026-08-30T18:09:59Z",
+        "description": "An interview with the British experimental musician about Brighton’s experimental music scene, running his record label adhuman, and showing up to live gigs with just his voice"
+      },
+      {
+        "title": "Tone Glow 236: Barn Sour",
+        "link": "https://toneglow.substack.com/p/tone-glow-236-barn-sour",
+        "published": "2026-08-20T22:14:44Z",
+        "description": "An interview with the Canadian musician and painter Pat Klassen about trading noise tapes,"
+      },
+      {
+        "title": "Tone Glow 235: keiyaA",
+        "link": "https://toneglow.substack.com/p/tone-glow-235-keiyaa",
+        "published": "2026-08-16T21:54:48Z",
+        "description": "An interview with the Chicago-born, New York-based artist about the online communities that made her who she is, her evolving live shows, and the creation of both 'milk thot' and 'hooke's law'"
+      }
+    ],
+    "bfi": [],
     "criterion": [],
     "rogerebert": [
+      {
+        "title": "TIFF 2026: Bunker, Up Against It, Girl Group",
+        "link": "https://www.rogerebert.com/festivals/tiff-2026-bunker-up-against-it-girl-group",
+        "published": "2026-09-16T18:15:25Z",
+        "description": "On three films from the Gala Presentations of TIFF, including one from the director of The Father."
+      },
+      {
+        "title": "TIFF 2026: Hombre Al Agua, Paradise Lost, Faith",
+        "link": "https://www.rogerebert.com/festivals/tiff-2026-hombre-al-agua-paradise-lost-faith",
+        "published": "2026-09-16T13:38:07Z",
+        "description": "On three films from Toronto's Special Presentations vertical."
+      },
+      {
+        "title": "In Its Second Season, “Outlander: Blood of My Blood” Is Still Peak Romance",
+        "link": "https://www.rogerebert.com/streaming/outlander-blood-of-my-blood-spinoff-starz-tv-review-2026",
+        "published": "2026-09-16T13:00:00Z",
+        "description": "It’s so satisfying to watch because love isn’t treated as a byproduct of a larger story. It is the story."
+      },
+      {
+        "title": "“MobLand” Shoots Its Way Through A Vulgar, Invigorating Second Season",
+        "link": "https://www.rogerebert.com/streaming/mobland-season-2-tom-hardy-pierce-brosnan-helen-mirren-paramount-plus-tv-review-2026",
+        "published": "2026-09-16T13:00:00Z",
+        "description": "You either relish this kind of escapist brutality, or you don’t."
+      },
+      {
+        "title": "Toronto International Film Festival 2026: Table of Contents",
+        "link": "https://www.rogerebert.com/festivals/toronto-international-film-festival-2026-table-of-contents",
+        "published": "2026-09-16T11:31:44Z",
+        "description": "Everything we've covered out of this year's TIFF."
+      },
+      {
+        "title": "Venice Film Festival 2026: Table of Contents",
+        "link": "https://www.rogerebert.com/festivals/venice-film-festival-2026-table-of-contents",
+        "published": "2026-09-16T11:20:08Z",
+        "description": "Everything we've covered at this year's Venice Film Fest."
+      },
+      {
+        "title": "TIFF 2026: Wild Wild East, Our Loves, The Violinist",
+        "link": "https://www.rogerebert.com/festivals/tiff-2026-wild-wild-east-our-loves-the-violinist",
+        "published": "2026-09-16T11:09:45Z",
+        "description": "On three very different historical dramas at TIFF about the impact of violence on community and connection."
+      },
       {
         "title": "Making Fashion Fun: Bob Mackie (1939-2026)",
         "link": "https://www.rogerebert.com/tributes/bob-mackie-tribute",
         "published": "2026-09-15T21:51:03Z",
         "description": "A tribute to the legendary costume designer and fashion icon, who dressed everyone from Cher to Barbra."
-      },
-      {
-        "title": "TIFF 2026: Cheyenne, Rescue, Union Town",
-        "link": "https://www.rogerebert.com/festivals/tiff-2026-cheyenne-rescue-union-town",
-        "published": "2026-09-15T17:45:00Z",
-        "description": "On three great docs from this year's TIFF."
-      },
-      {
-        "title": "TIFF 2026: Trash Mountain, Babies, Everybody Wants to F*ck Me",
-        "link": "https://www.rogerebert.com/festivals/tiff-2026-trash-mountain-babies-everybody-wants-to-fck-me",
-        "published": "2026-09-15T14:02:15Z",
-        "description": "Comedies about dead dads, childless couples, and horny Brits premiered at TIFF this year."
-      },
-      {
-        "title": "A Dog with a Bone: Maria Sten on “Neagley”",
-        "link": "https://www.rogerebert.com/interviews/neagley-maria-sten-interview",
-        "published": "2026-09-15T13:00:00Z",
-        "description": "The star of the Reacher spinoff talks about building her fan favorite character to sustain the weight of her own series."
-      },
-      {
-        "title": "“Neagley” Can’t Reach The Heights of “Reacher,” But It Punches Above Its Weight",
-        "link": "https://www.rogerebert.com/streaming/neagley-reacher-spinoff-prime-video-tv-review-2026",
-        "published": "2026-09-15T13:00:00Z",
-        "description": "This show isn’t \"Reacher.\" The pacing isn’t slower but steadier, darker but less brutal."
-      },
-      {
-        "title": "TIFF 2026: Strong Son, God Bless You Mr. Kopu",
-        "link": "https://www.rogerebert.com/festivals/tiff-2026-strong-son-god-bless-you-mr-kopu",
-        "published": "2026-09-15T04:15:40Z",
-        "description": "On two unusual TIFF premieres about identity and masculinity."
-      },
-      {
-        "title": "TIFF 2026: Julián, Sunburn, In Alaska",
-        "link": "https://www.rogerebert.com/festivals/tiff-2026-julian-sunburn-in-alaska",
-        "published": "2026-09-15T01:00:00Z",
-        "description": "On three films about young people from TIFF, including two of the fest's best."
-      },
-      {
-        "title": "Venice 2026: The Biennale College",
-        "link": "https://www.rogerebert.com/festivals/venice-2026-the-biennale-college",
-        "published": "2026-09-14T23:21:34Z",
-        "description": "On the four features the Biennale College Panel evaluated at this year's Venice festival."
       }
     ],
     "sightandsound": [],
@@ -854,10 +1347,147 @@
         "description": "This article has been peer reviewed. It was the winter of 1637 and tulipmania was in full swing. In Holland, the price of tulips – an exotic new export from Central Asia – soared to record highs. Bulbs were being sold for more than most farmers’ houses, as fortunes were won, lost, and gambled anew. […]"
       }
     ],
+    "filmstage": [
+      {
+        "title": "John Wilson on The History of Concrete, Vulnerability, and Impermanence",
+        "link": "https://thefilmstage.com/john-wilson-on-the-history-of-concrete-vulnerability-and-impermanence/",
+        "published": "2026-09-16T16:31:40Z",
+        "description": "John Wilson is interested in the mundane. He’s fascinated by the specificity of a neighborhood, a building, a sidewalk, a person. In his new documentary and feature directorial debut, The History of Concrete, a follow-up to the HBO series How To with John Wilson, he’s fascinated by concrete. And so he spends 100-ish minutes explaining […]"
+      },
+      {
+        "title": "Resident Evil Review: Zach Cregger Crafts an Ideal Tribute to an Iconic Series",
+        "link": "https://thefilmstage.com/resident-evil-review-zach-cregger-crafts-an-ideal-tribute-to-an-iconic-series/",
+        "published": "2026-09-16T16:00:00Z",
+        "description": "Resident Evil, as a game series, has always borrowed heavily from cinema, whether it be the fixed angles and Kiyoshi Kurosawa inspirations of the first title to the Texas Chainsaw riffs in the 7th. It’s less about the zombies, more the feeling of powerlessness and weird puzzles. Zach Cregger understands this on a deep level. […]"
+      },
+      {
+        "title": "TIFF Review: Jesse Eisenberg’s The Debut Takes a Smug Immersion Into Community Theater",
+        "link": "https://thefilmstage.com/tiff-review-jesse-eisenbergs-the-debut-takes-a-smug-immersion-into-community-theater/",
+        "published": "2026-09-16T09:48:30Z",
+        "description": "Theater kids! Everyone knows the type. And more often than not, you’re annoyed by them. Still, watching The Debut, A24’s token Christmas Oscar push, you almost feel like they deserve a bit better. Is their mania something that deserves to be laughed at? The basic plot of The Debut has drawn instant comparisons to the […]"
+      },
+      {
+        "title": "TIFF Review: Atonement Is an Ambitious But Misguided War on Terror Story",
+        "link": "https://thefilmstage.com/tiff-review-atonement-is-an-ambitious-but-misguided-war-on-terror-story/",
+        "published": "2026-09-16T00:00:00Z",
+        "description": "Dexter Filkins’ 2012 New Yorker article “Atonement After Iraq” tells the incredible story of the Kachadoorian family, whose lives were ripped apart during the US invasion of Iraq in 2003, and Lu Lobello, one of the soldiers responsible for their loss. During a firefight at an intersection in Baghdad, the Kachadoorians drove through to get […]"
+      },
+      {
+        "title": "The Criterion Collection’s December Lineup Includes Nashville and Lubitsch on 4K, Grizzly Man & More",
+        "link": "https://thefilmstage.com/the-criterion-collections-december-lineup-includes-nashville-and-lubitsch-on-4k-grizzly-man-more/",
+        "published": "2026-09-15T16:23:46Z",
+        "description": "As America’s 250th year comes to a close, Criterion takes a look back at the nation’s 200th with a 4K upgrade of Robert Altman’s Nashville. The ’70s summery haze must really pop in Dolby Vision. So, too, should Ernst Lubitsch’s uber-precise framings and rhythms with The Shop Around the Corner entering the collection—not an upgrade, […]"
+      },
+      {
+        "title": "TIFF Review: Simon Rex Gets Villainous In Sharp Yet Superficial God Bless You, Mr. Kopu",
+        "link": "https://thefilmstage.com/tiff-review-simon-rex-gets-villainous-in-sharp-yet-superficial-god-bless-you-mr-kopu/",
+        "published": "2026-09-15T02:30:00Z",
+        "description": "Does it feel like we’re stuck in VHS nostalgia? The New Zealand crime drama God Bless You, Mr. Kopu introduces its villain, the American salesman Marco Cass (Simon Rex), through the prism of a VHS infomercial—complete with tracking lines over images of him lounging in a pool while shilling for a cleaning product and the […]"
+      },
+      {
+        "title": "Venice Review: The Burning Giants Forsakes Its Mysteries to Spin a Repetitive Yarn",
+        "link": "https://thefilmstage.com/venice-review-the-burning-giants-forsakes-its-mysteries-to-spin-a-repetitive-yarn/",
+        "published": "2026-09-15T00:53:41Z",
+        "description": "Buried deep under the jungle in western Thailand where Phuttiphong Aroonpheng’s The Burning Giants takes place is an empty theatre. Rows of velvety seats are coated in dust while a thick white smoke floats above them, like a massive ghost itching to break free. No sooner do the air vents switch back to life that […]"
+      },
+      {
+        "title": "Venice Review: Mariano Llinás’ Life of Jorge Luis Borges Is a Thorough, Innovative View of a Literary Genius",
+        "link": "https://thefilmstage.com/venice-review-mariano-llinas-life-of-jorge-luis-borges-is-a-thorough-innovative-view-of-a-literary-genius/",
+        "published": "2026-09-14T19:30:08Z",
+        "description": "And so El Pampero Cine finally reach Jorge Luis Borges. The Argentine experimental film collective—comprising Mariano Llinás, Laura Citarella, Agustín Mendilaharzu, and Alejo Moguillanksy—are a natural outgrowth of the Latin American literary tradition of Borges, Bolaño and Cortazar, making Llinás’ Venice world premiere Life of Jorge Luis Borges is a perhaps-inevitable tribute to their greatest […]"
+      }
+    ],
+    "cinephilia": [
+      {
+        "title": "Take It to the Limit One More Time: Michael Mann’s ‘Miami Vice’ at 20",
+        "link": "https://cinephiliabeyond.org/miami-vice/",
+        "published": "2026-07-28T12:48:32Z",
+        "description": "By Tim Pelan Michael Mann’s 2006 big screen revamp of 1980s groundbreaking TV show Miami Vice (Brandon […]"
+      },
+      {
+        "title": "‘Midnight Run’ at 38: Martin Brest’s Cult-Action Comedy that Just Doesn’t Seem to Get Old",
+        "link": "https://cinephiliabeyond.org/midnight-run-martin-brests-cult-action-comedy-just-doesnt-seem-get-old/",
+        "published": "2026-07-20T12:01:23Z",
+        "description": "By Sven Mikulec When filmmaker Martin Brest developed a script for a buddy action comedy called Midnight […]"
+      },
+      {
+        "title": "‘Escape from New York’ at 45: John Carpenter’s Thrilling, Pumped-Up Ride through the Streets of a Dystopian New York City",
+        "link": "https://cinephiliabeyond.org/escape-new-york-john-carpenters-thrilling-pumped-ride-streets-dystopian-new-york-city/",
+        "published": "2026-07-10T12:22:26Z",
+        "description": "By Sven Mikulec In the post-Watergate period of America struggling with insecurity, distrust and national embarrassment, USC-educated filmmaker […]"
+      },
+      {
+        "title": "New Model Arnie: How James Cameron’s ‘Terminator 2: Judgment Day’ Held True to Its Exploitation Roots Whilst Remodelling the Action Blockbuster Template",
+        "link": "https://cinephiliabeyond.org/terminator2/",
+        "published": "2026-07-03T12:32:34Z",
+        "description": "Terminator 2: Judgment Day poster art by Tony Stella, https://www.tony-stella.com/ By Tim Pelan I’m not playing it safe […]"
+      },
+      {
+        "title": "How Robert Altman’s Anti-Western Classic ‘McCabe & Mrs. Miller’ Aged Like Fine Wine",
+        "link": "https://cinephiliabeyond.org/mccabe-mrs-miller/",
+        "published": "2026-06-24T09:16:41Z",
+        "description": "By Koraljka Suton The legendary director Robert Altman was given an Academy Honorary Award in 2006, “in recognition of […]"
+      },
+      {
+        "title": "“It Ain’t Like It Used to Be. But It’ll Do:” How Sam Peckinpah’s ‘The Wild Bunch’ Became Both a Eulogy for a Mythic Past and a Template for a New Kind of Action",
+        "link": "https://cinephiliabeyond.org/the-wild-bunch/",
+        "published": "2026-06-19T15:49:34Z",
+        "description": "The Wild Bunch poster art by Tony Stella By Tim Pelan We wanted to show violence in real […]"
+      },
+      {
+        "title": "‘The Parallax View’ at 52: Pakula’s Unsettling Examination of the Post-Compliant America",
+        "link": "https://cinephiliabeyond.org/parallax-view-pakulas-unsettling-examination-post-compliant-america/",
+        "published": "2026-06-19T12:11:34Z",
+        "description": "The Parallax View poster art by Callum Mullin By Sven Mikulec The seventies were a unique period in […]"
+      },
+      {
+        "title": "‘Psycho’ at 66: The Proto-Slasher that Brought On a Revolution in Cinema",
+        "link": "https://cinephiliabeyond.org/psycho-proto-slasher-brought-revolution-cinema/",
+        "published": "2026-06-15T12:09:45Z",
+        "description": "By Sven Mikulec The image of a shabby motel in the middle of nowhere, by-passed by any relevant […]"
+      }
+    ],
     "nyrb": [],
-    "lrb": [],
+    "lrb": [
+      {
+        "title": "The Resistible Rise of the AfD",
+        "link": "https://www.lrb.co.uk/blog/2026/september/the-resistible-rise-of-the-afd",
+        "published": "2026-09-16T16:50:21Z",
+        "description": "A desperate flurry of possible solutions, from the stopgap to the structural, has whirled across the German political establishment and media in the..."
+      },
+      {
+        "title": "Active Dying",
+        "link": "https://www.lrb.co.uk/blog/2026/september/active-dying",
+        "published": "2026-09-16T12:06:29Z",
+        "description": "In July 2021 my Uncle Bilal was dying of lymphoma. In the days before his death, our family gathered at his hospital bed to ‘keep him comfortable..."
+      },
+      {
+        "title": "9/15",
+        "link": "https://www.lrb.co.uk/blog/2026/september/9-15",
+        "published": "2026-09-15T14:44:07Z",
+        "description": "On Saturday, 15 September 2001, a friend and I went to help the members of an Anglia TV documentary team collect their belongings from a building near..."
+      },
+      {
+        "title": "A First Step",
+        "link": "https://www.lrb.co.uk/blog/2026/september/a-first-step",
+        "published": "2026-09-12T15:50:09Z",
+        "description": "On Tuesday, the foreign secretary, Ed Miliband, made a statement to the House of Commons in which he announced an ‘import ban on goods from illegal..."
+      },
+      {
+        "title": "Why is Trump bombing Somalia?",
+        "link": "https://www.lrb.co.uk/blog/2026/september/why-is-trump-bombing-somalia",
+        "published": "2026-09-10T19:04:26Z",
+        "description": "Over the past twenty months, the US has launched airstrikes in Somalia using MQ-9 Reaper drones and sometimes manned aircraft at an average rate of..."
+      }
+    ],
     "larb": [],
     "aeon": [
+      {
+        "title": "The meaning of fake marble",
+        "link": "https://aeon.co/videos/the-millennia-long-history-of-our-obsession-with-fake-marble",
+        "published": "2026-09-16T10:01:00Z",
+        "description": "From ancient Roman frescoes to modern kitchen benchtops, our desire to recreate marble is about more than cutting costs - by Aeon Video Watch on Aeon"
+      },
       {
         "title": "Chasing la dolce vita",
         "link": "https://aeon.co/essays/italianness-is-a-state-of-travelling-in-both-directions",
@@ -899,15 +1529,21 @@
         "link": "https://aeon.co/videos/meet-the-aboriginal-australian-artists-painting-over-the-colonial-past",
         "published": "2026-09-09T10:01:00Z",
         "description": "Indigenous knowledge and art overwrite colonial cartography to correct the historical record in Central Australia - by Aeon Video Watch on Aeon"
-      },
-      {
-        "title": "Our eloquent hands",
-        "link": "https://aeon.co/essays/what-palmistry-and-medicine-have-always-had-in-common",
-        "published": "2026-09-08T10:00:00Z",
-        "description": "Physicians reject palmistry as nonsense. But reading the creases of our palms for hidden meaning is what doctors have always done - by Alison Bashford Read on Aeon"
       }
     ],
     "psyche": [
+      {
+        "title": "A brief history of Viagra",
+        "link": "https://psyche.co/videos/viagra-has-its-upsides-sure-but-has-it-changed-sex-for-the-better",
+        "published": "2026-09-16T10:01:00Z",
+        "description": "Discovered by accident, it became the fastest-selling drug of the century. Did it revolutionise sex or reinforce old ideas? - Video by BBC Ideas, The Open University Watch on Psyche"
+      },
+      {
+        "title": "Terminal lucidity: when dying dementia patients regain awareness",
+        "link": "https://psyche.co/ideas/terminal-lucidity-when-dying-dementia-patients-regain-awareness",
+        "published": "2026-09-16T10:00:00Z",
+        "description": "The reports span centuries and cultures. If they’re real, memory and identity might be far more recoverable than we thought - by Ariel Zeleznikow-Johnston Read on Psyche"
+      },
       {
         "title": "Say yes to regret",
         "link": "https://psyche.co/turning-points/how-a-to-do-task-stopped-the-ruminative-loop-of-my-grief",
@@ -943,80 +1579,17 @@
         "link": "https://psyche.co/notes-to-self/why-it-helps-to-see-impatience-as-an-emotion-not-a-trait",
         "published": "2026-09-10T10:00:00Z",
         "description": "Watching Penelope’s heroic wait in The Odyssey made me lament my impatience. But maybe I’ve been thinking about it wrong - by Amy Arthur Read on Psyche"
-      },
-      {
-        "title": "How to be a word detective",
-        "link": "https://psyche.co/guides/how-to-be-a-word-detective",
-        "published": "2026-09-09T10:00:00Z",
-        "description": "Etymology unravels the mysteries of language and the hidden webs that link people across the world. Here’s how to dive in - by Danny Bate Read on Psyche"
-      },
-      {
-        "title": "Town square",
-        "link": "https://psyche.co/videos/inside-the-alzheimers-care-centre-where-its-always-the-1950s",
-        "published": "2026-09-08T10:01:00Z",
-        "description": "Complete with a retro diner, vintage cars and a classic movie theatre – step into a mini town built to spark memories - Directed by Josh Izenberg Watch on Psyche"
       }
     ],
     "newleftreview": [],
-    "thepoint": [
-      {
-        "title": "No Country for Tech Bros",
-        "link": "https://thepointmag.com/politics/no-country-for-tech-bros/",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-14T12:36:46.068498Z"
-      },
-      {
-        "title": "My Lavender Marriage",
-        "link": "https://thepointmag.com/examined-life/my-lavender-marriage/",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-14T12:36:46.068498Z"
-      },
-      {
-        "title": "On Radical Preservation",
-        "link": "https://thepointmag.com/letter/on-radical-preservation/",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-14T12:36:46.068498Z"
-      },
-      {
-        "title": "Love in the Age of the Pickup Artist",
-        "link": "https://thepointmag.com/examined-life/love-in-the-age-of-the-pickup-artist/",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-14T12:36:46.068498Z"
-      },
-      {
-        "title": "Death Is Not the End",
-        "link": "https://thepointmag.com/criticism/death-is-not-the-end/",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-14T12:36:46.068498Z"
-      },
-      {
-        "title": "Wanting Bad Things",
-        "link": "https://thepointmag.com/dialogue/wanting-bad-things-andrea-long-chu-responds-amia-srinivasan/",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-14T12:36:46.068498Z"
-      },
-      {
-        "title": "On Being an Arsehole",
-        "link": "https://thepointmag.com/examined-life/on-being-an-arsehole/",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-14T12:36:46.068498Z"
-      },
-      {
-        "title": "ISSUE 37 | SUMMER 2026 The house of being",
-        "link": "https://thepointmag.com/general/issue-37",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-14T12:36:46.068498Z"
-      }
-    ],
+    "thepoint": [],
     "publicdomainreview": [
+      {
+        "title": "Veronese's Dogs",
+        "link": "https://publicdomainreview.org/essay/veroneses-dogs",
+        "published": "2026-09-16T14:16:00Z",
+        "description": "“Oh, if I could only pray”, Luther once said of his dog Tölpel, “the way this dog watches the meat”. Attending to attentive canine figures in half a dozen paintings by Paolo Veronese, Thomas W. Laqueur explores the work of an artist whose love of dogs landed him in hot water with the Inquisition."
+      },
       {
         "title": "It’s “A Cat-astrophe”! (1919)",
         "link": "https://publicdomainreview.org/collection/cat-astrophe",
@@ -1058,15 +1631,15 @@
         "link": "https://publicdomainreview.org/collection/maine-forest-fire-maps",
         "published": "2026-07-14T15:21:00Z",
         "description": "Circular maps custom-made for the fire towers that once dotted the American wilderness."
-      },
-      {
-        "title": "“Worthless Idiot, Donkey Head”: Parodies of Pedantry on the Renaissance Stage",
-        "link": "https://publicdomainreview.org/essay/parodies-of-pedantry",
-        "published": "2026-07-08T12:09:00Z",
-        "description": "Pompous know-it-alls were once a mainstay of mockery on the Italian stage. Arnoud Visser investigates this stock character of the pedant and his association with individual superiority, social distinction, and sexual transgression, finding a form of satire that took aim at the Renaissance humanist’s erudition and lofty ideals."
       }
     ],
     "quanta": [
+      {
+        "title": "Ctenophores Aren’t Just Beautiful. They’re Biological Wonders.",
+        "link": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
+        "published": "2026-09-16T15:56:27Z",
+        "description": "Comb jellies are helping answer fundamental questions in biology, from how the earliest nervous systems evolved to how bioluminescence works."
+      },
       {
         "title": "Black Holes or Black Hole Stars? Astronomers Spar Over Webb Telescope’s ‘Little Red Dots.’",
         "link": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
@@ -1090,122 +1663,59 @@
         "link": "https://www.quantamagazine.org/what-is-maths-mysterious-langlands-program-really-about-20260909/",
         "published": "2026-09-09T14:44:13Z",
         "description": "Hidden correspondences hint at a deeper structure to the mathematical universe. Our columnist unpacks one of those connections and asks mathematicians what they might mean."
-      },
-      {
-        "title": "AI Has Solved One of Math’s $1 Million Millennium Prize Problems",
-        "link": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
-        "published": "2026-09-08T08:43:52Z",
-        "description": "Mathematicians at OpenAI showed that the Navier-Stokes equations, which describe how fluids flow, can sometimes “blow up.” But the massive result is not without controversy."
       }
     ],
     "nautilus": [
+      {
+        "title": "Chimps Hand Down Tools Across Generations",
+        "link": "https://nautil.us/chimps-hand-down-tools-across-generations-1285081/",
+        "published": "2026-09-16T22:00:00Z",
+        "description": "Social learning boosts feeding success of young’uns"
+      },
+      {
+        "title": "Cold Weather Could Predict an Increase in Heart Attacks Three Days in Advance",
+        "link": "https://nautil.us/cold-weather-could-predict-an-increase-in-heart-attacks-three-days-in-advance-1285074/",
+        "published": "2026-09-16T21:00:00Z",
+        "description": "And the holidays are especially bad"
+      },
+      {
+        "title": "What Grok and Claude Have to Say about the AI Apocalypse",
+        "link": "https://nautil.us/what-grok-and-claude-have-to-say-about-the-ai-apocalypse-1285077/",
+        "published": "2026-09-16T20:31:02Z",
+        "description": "A maniacal villain and a polite librarian on the risk that AI could end humanity"
+      },
+      {
+        "title": "We Finally Know Tyrannosaurus Rex’s Body Temperature",
+        "link": "https://nautil.us/we-finally-know-tyrannosaurus-rexs-body-temperature-1285067/",
+        "published": "2026-09-16T20:00:00Z",
+        "description": "Check it and see"
+      },
+      {
+        "title": "The Ancient Mammal That Changes Our Understanding of Dinosaur Origins",
+        "link": "https://nautil.us/the-ancient-mammal-that-changes-our-understanding-of-dinosaur-origins-1285071/",
+        "published": "2026-09-16T19:00:00Z",
+        "description": "Tanzania’s Nyasasaurus may not have been the first dinosaur on Earth after all"
+      },
+      {
+        "title": "The Crescent Nebula: A Gas Bubble Surrounding a Violently Dying Star",
+        "link": "https://nautil.us/the-crescent-nebula-a-gas-bubble-surrounding-a-violently-dying-star-1285062/",
+        "published": "2026-09-16T16:00:00Z",
+        "description": "A light show that will get even more dramatic in time"
+      },
+      {
+        "title": "The Rhythm of Your Breath Leaves a Fingerprint on Your Thoughts",
+        "link": "https://nautil.us/the-rhythm-of-your-breath-leaves-a-fingerprint-on-your-thoughts-1285059/",
+        "published": "2026-09-16T14:00:00Z",
+        "description": "Subtle variations in the breath trace electrical signaling in the brain"
+      },
       {
         "title": "Did Wildfires Spark the Invention of Pottery?",
         "link": "https://nautil.us/did-wildfires-spark-the-invention-of-pottery-1285052/",
         "published": "2026-09-15T23:30:00Z",
         "description": "Introducing the “natural kiln hypothesis”"
-      },
-      {
-        "title": "Why Elon Musk’s “Self-Growing” Moon Cities Are Tragically Flawed",
-        "link": "https://nautil.us/why-elon-musks-self-growing-moon-cities-are-tragically-flawed-1285049/",
-        "published": "2026-09-15T22:00:00Z",
-        "description": "There’s simply not enough water"
-      },
-      {
-        "title": "Mercury Has Gotten Smaller Than We Thought",
-        "link": "https://nautil.us/mercury-has-gotten-smaller-than-we-thought-1285044/",
-        "published": "2026-09-15T18:00:00Z",
-        "description": "The first planet from the sun has been hiding its wrinkles"
-      },
-      {
-        "title": "A Process Made for Mars is Now Uncovering Ancient Art on Earth",
-        "link": "https://nautil.us/a-process-made-for-mars-is-now-uncovering-ancient-art-on-earth-1285039/",
-        "published": "2026-09-15T16:30:00Z",
-        "description": "And you can even run it on your own phone"
-      },
-      {
-        "title": "Here’s How Fast An Adult Tyrannosaurus Rex Walked",
-        "link": "https://nautil.us/heres-how-fast-an-adult-tyrannosaurus-rex-walked-1285033/",
-        "published": "2026-09-15T15:30:00Z",
-        "description": "The first fossilized adult T. rex trackway tells us a lot about how these predators got around"
-      },
-      {
-        "title": "How Your Brain See-Saws between Risk and Reward",
-        "link": "https://nautil.us/how-your-brain-see-saws-between-risk-and-reward-1285030/",
-        "published": "2026-09-15T14:30:07Z",
-        "description": "Tough decisions get calculated from a spot right above the eyes involved in impulse control"
-      },
-      {
-        "title": "All the Ways Reading for Pleasure is Good for Your Mental Health",
-        "link": "https://nautil.us/all-the-ways-reading-for-pleasure-is-good-for-your-mental-health-1285027/",
-        "published": "2026-09-14T23:01:00Z",
-        "description": "Even though it might be a dying pastime"
-      },
-      {
-        "title": "The Brutal Origins of Bear-Baiting",
-        "link": "https://nautil.us/the-brutal-origins-of-bear-baiting-1285024/",
-        "published": "2026-09-14T21:00:00Z",
-        "description": "The practice exploded in popularity following the Norman Conquest"
       }
     ],
-    "worksinprogress": [
-      {
-        "title": "Do people prefer traditional architecture?",
-        "link": "https://worksinprogress.co/issue/do-people-prefer-traditional-architecture/",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-14T12:36:46.068498Z"
-      },
-      {
-        "title": "All the microbes you can’t have",
-        "link": "https://worksinprogress.co/issue/all-the-microbes-you-cant-have/",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-14T12:36:46.068498Z"
-      },
-      {
-        "title": "Just bury your trash",
-        "link": "https://worksinprogress.co/issue/just-bury-your-trash/",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-14T12:36:46.068498Z"
-      },
-      {
-        "title": "Spotlight Issue 25",
-        "link": "https://worksinprogress.co/issue-25/",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-14T12:36:46.068498Z"
-      },
-      {
-        "title": "Beauty In My Backyard",
-        "link": "https://worksinprogress.co/issue/beauty-in-my-backyard/",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-14T12:36:46.068498Z"
-      },
-      {
-        "title": "A cop’s case for Flock",
-        "link": "https://worksinprogress.co/issue/a-cops-case-for-flock/",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-14T12:36:46.068498Z"
-      },
-      {
-        "title": "The everything theory of mass transit",
-        "link": "https://worksinprogress.co/issue/the-everything-theory-of-mass-transit/",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-14T12:36:46.068498Z"
-      },
-      {
-        "title": "The kill switch for harmful genes",
-        "link": "https://worksinprogress.co/issue/the-kill-switch-for-harmful-genes/",
-        "published": null,
-        "description": "",
-        "discovered": "2026-09-14T12:36:46.068498Z"
-      }
-    ],
+    "worksinprogress": [],
     "noema": [
       {
         "title": "A New Form Of Life",
@@ -1254,6 +1764,206 @@
         "link": "https://www.noemamag.com/subjective-perspective-makes-objective-reality-everywhere-whole",
         "published": "2026-08-28T16:27:19Z",
         "description": ""
+      }
+    ],
+    "nplusone": [
+      {
+        "title": "The Municipal Sublime",
+        "link": "https://www.nplusonemag.com/online-only/events/the-municipal-sublime/",
+        "published": "2026-09-15T19:18:31Z",
+        "description": "In a city that treats its architectural highlights—and even some of its mediocrities!—with an ardor that verges on the obsessive, plenty of buildings nonetheless manage to escape collective reverence. A disproportionate number of these buildings happen to belong to the public: community spaces, senior centers, park bathrooms. On Friday, October 16, join n+1 and the Center […]"
+      },
+      {
+        "title": "Last Year in End Times Cinema",
+        "link": "https://www.nplusonemag.com/online-only/events/last-year-in-end-times-cinema/",
+        "published": "2026-09-14T15:18:07Z",
+        "description": "It’s been nearly a year since n+1 film critic A. S. Hamrah’s book Last Week in End Times Cinema—a study of bad news in the movie industry over the course of 365 days—was published. What’s happened in end times cinema since then? On Thursday, October 1, join us as we investigate. Hamrah will appear in […]"
+      },
+      {
+        "title": "The Hi-Neighbor! Mayor",
+        "link": "https://www.nplusonemag.com/online-only/online-only/the-hi-neighbor-mayor/",
+        "published": "2026-09-11T20:21:24Z",
+        "description": "When I first met David Morales it was December 2019, and I was standing in David’s ill-lit bachelor apartment as he announced to a small holiday party full of socialists that he intended to run for state representative. I was skeptical. David was young—only 21 at the time—just recently graduated, and not a native Rhode […]"
+      },
+      {
+        "title": "Laura Kolbe and Patricia Lockwood in conversation",
+        "link": "https://www.nplusonemag.com/online-only/events/laura-kolbe-and-patricia-lockwood-in-conversation/",
+        "published": "2026-09-10T17:11:11Z",
+        "description": "On Saturday, October 10, join us at the n+1 office in Brooklyn for a celebration of two new works of poetry: Laura Kolbe’s The Decadent Movement (out in September from University of Pittsburgh Press) and Patricia Lockwood’s Agate Head/Stone Soup (out in October from Penguin Books). Lockwood and Kolbe will read from and discuss their work, […]"
+      },
+      {
+        "title": "Issue 54 Reading and Celebration",
+        "link": "https://www.nplusonemag.com/online-only/events/issue-54-reading-and-celebration/",
+        "published": "2026-09-10T16:10:57Z",
+        "description": "Please join n+1 at our office in Greenpoint for reading and drinks in celebration of Issue 54: POWER PLAY! Featuring readings by Walker Caplan, Mark Krotov, Leigh Claire La Berge, Maria Marchinkoski, and Colin Vanderburg. Readings will start at 7, followed by a party, and cheap drinks will be for sale. Entry is free for subscribers […]"
+      },
+      {
+        "title": "The Billboards of Silicon Valley",
+        "link": "https://www.nplusonemag.com/online-only/online-only/the-billboards-of-silicon-valley/",
+        "published": "2026-09-04T18:42:43Z",
+        "description": "YOUR AI AGENT NEEDS A WORKFLOW ENGINE. The billboard stands by a nondescript stretch of highway somewhere between Redwood City and Mountain View. A boom, likely a bubble, made manifest. A cry of triumphant return. And probably one day, a monument to a bubble bursting. All hype seems destined to furnish tomorrow’s ruin. But for […]"
+      },
+      {
+        "title": "Social and Anti-Social Housing",
+        "link": "https://www.nplusonemag.com/online-only/online-only/social-and-anti-social-housing/",
+        "published": "2026-09-04T16:23:30Z",
+        "description": "We have public housing, but it has never been as well designed, built, or maintained. We have limited-equity co-ops built by limited-dividend companies, but we built far fewer of them, and we allowed some to go private. We have inclusionary zoning, but whereas their model requires two-thirds of the development to be social housing, ours only demands that one-third be targeted to tenants under a certain household income."
+      },
+      {
+        "title": "Ciphers Poufed Out",
+        "link": "https://www.nplusonemag.com/online-only/online-only/ciphers-poufed-out/",
+        "published": "2026-09-01T15:22:30Z",
+        "description": "Hi! Where have I been? Last time we heard from me, Miss Translation, I was on a rocket blasting out of Iowa. I hosted two events, one in New York and one in Chicago. Was I forced into hiding because of how well they went? No, although I could have been. Did I write a […]"
+      }
+    ],
+    "parisreview": [
+      {
+        "title": "On the “Chattanooga Choo Choo”",
+        "link": "https://www.theparisreview.org/blog/2026/09/16/on-the-chattanooga-choo-choo/",
+        "published": "2026-09-16T14:00:55Z",
+        "description": "“Lately, though, I have become fascinated by the so-called big bands on the SiriusXM station called ‘40s Junction.’ ”"
+      },
+      {
+        "title": "You Have to Ask Questions: Svetlana Alexievich, Unlocked",
+        "link": "https://www.theparisreview.org/blog/2026/09/14/you-have-to-ask-questions-svetlana-alexievich-unlocked/",
+        "published": "2026-09-14T20:14:59Z",
+        "description": "This week, we’ve unlocked “Voices from Chernobyl” from the archive."
+      },
+      {
+        "title": "Kiss The Ring: Richard Wagner’s Opera Festival in the Age of AI",
+        "link": "https://www.theparisreview.org/blog/2026/09/11/richard-wagners-opera-festival-in-the-age-of-ai/",
+        "published": "2026-09-11T15:40:40Z",
+        "description": "“ ‘Artificial Intelligence will take part on stage,’ the website informed us, ‘not as a character, but as an image-generating force.’ ”"
+      },
+      {
+        "title": "My Grandfather in Grundy, Virginia",
+        "link": "https://www.theparisreview.org/blog/2026/09/10/my-grandfather-in-grundy-virginia/",
+        "published": "2026-09-10T14:00:23Z",
+        "description": "“Saad passed through a boarded up, overgrown town and thought, Who would live in this place?”"
+      },
+      {
+        "title": "Announcing Our Fall Issue",
+        "link": "https://www.theparisreview.org/blog/2026/09/09/announcing-our-fall-issue-257/",
+        "published": "2026-09-09T16:00:14Z",
+        "description": "“But I did feel, as we worked on this one, that I was listening in on many voices whose speakers were attempting to locate themselves ...”"
+      },
+      {
+        "title": "A Poem Is Full of Meat: Dorothea Lasky on Mother",
+        "link": "https://www.theparisreview.org/blog/2026/09/04/a-poem-is-full-of-meat-dorothea-lasky-on-mother/",
+        "published": "2026-09-04T14:00:10Z",
+        "description": "“The terms ‘mother’ and ‘father’ have the same dominant energy as ‘God’ or ‘the Devil’ in a poem.”"
+      },
+      {
+        "title": "At the Conformation Show: Chasing the Ideal Dog",
+        "link": "https://www.theparisreview.org/blog/2026/09/03/the-conformation-show-and-the-pursuit-of-the-ideal-dog/",
+        "published": "2026-09-03T14:00:31Z",
+        "description": "“Conformation shows measure the degree to which a dog ‘conforms’ to its ‘breed standard,’ a document that transmutes historical function into marketable qualities.”"
+      },
+      {
+        "title": "“Laugh? I Thought I’d Die!!”: Richard Yates’s Unpublished Letters",
+        "link": "https://www.theparisreview.org/blog/2026/09/02/laugh-i-thought-id-die-richard-yatess-unpublished-letters/",
+        "published": "2026-09-02T14:00:02Z",
+        "description": "\"Here’s this month’s alimony, with all my love.\""
+      }
+    ],
+    "baffler": [
+      {
+        "title": "For the Love of Money",
+        "link": "https://thebaffler.com/latest/for-the-love-of-money-taylor?utm_source%3Drss-feed%26utm_medium%3Drss%26utm_campaign%3Dfeed",
+        "published": "2026-09-16T11:59:00Z",
+        "description": "Upending the consensus on wealth inequality in America."
+      },
+      {
+        "title": "Carlo Ginzburg, 1939–2026",
+        "link": "https://thebaffler.com/latest/carlo-ginzburg-1939-2026-foley?utm_source%3Drss-feed%26utm_medium%3Drss%26utm_campaign%3Dfeed",
+        "published": "2026-09-15T13:43:05Z",
+        "description": "Carlo Ginsburg’s microhistories found heroism in the mundane."
+      },
+      {
+        "title": "Vanished Gardens",
+        "link": "https://thebaffler.com/fiction/vanished-gardens-silversmith?utm_source%3Drss-feed%26utm_medium%3Drss%26utm_campaign%3Dfeed",
+        "published": "2026-09-11T11:59:00Z",
+        "description": "The garden is an invention of blindness."
+      },
+      {
+        "title": "Low T for Texas?",
+        "link": "https://thebaffler.com/civilifications/low-t-for-texas-denison?utm_source%3Drss-feed%26utm_medium%3Drss%26utm_campaign%3Dfeed",
+        "published": "2026-09-09T11:59:00Z",
+        "description": "The Texas Senate race could be a tipping point for Trumpism."
+      },
+      {
+        "title": "Going Home",
+        "link": "https://thebaffler.com/latest/going-home-stein?utm_source%3Drss-feed%26utm_medium%3Drss%26utm_campaign%3Dfeed",
+        "published": "2026-09-08T11:59:00Z",
+        "description": "What would it take to make housing a human right?"
+      },
+      {
+        "title": "Archive Fever",
+        "link": "https://thebaffler.com/latest/archive-fever-asch?utm_source%3Drss-feed%26utm_medium%3Drss%26utm_campaign%3Dfeed",
+        "published": "2026-09-04T11:59:00Z",
+        "description": "Where the archive ends, imagination begins."
+      },
+      {
+        "title": "Nomad, Inc.",
+        "link": "https://thebaffler.com/latest/nomad-inc-kruzman?utm_source%3Drss-feed%26utm_medium%3Drss%26utm_campaign%3Dfeed",
+        "published": "2026-09-03T11:59:00Z",
+        "description": "Mongolia’s solution to desertification is privatization."
+      },
+      {
+        "title": "Long Life’s Journey",
+        "link": "https://thebaffler.com/latest/long-lifes-journey-rubsam?utm_source%3Drss-feed%26utm_medium%3Drss%26utm_campaign%3Dfeed",
+        "published": "2026-09-02T11:59:00Z",
+        "description": "All travel narratives are built on fabulation."
+      }
+    ],
+    "longreads": [
+      {
+        "title": "A True-Crime Producer Posed as an Heiress — Then Allegedly Stole $30 Million",
+        "link": "https://longreads.com/2026/09/16/mary-carole-mcdonnell-dirty-money-moves-podcast/",
+        "published": "2026-09-16T17:08:07Z",
+        "description": "\"Mary Carole McDonnell made low-budget crime shows, but her own story was built on deceptions fit for one of her series. Now, she’s on the FBI’s Most Wanted list and the target of a global manhunt.\""
+      },
+      {
+        "title": "Paid Phones",
+        "link": "https://longreads.com/2026/09/16/paid-phones/",
+        "published": "2026-09-16T13:00:00Z",
+        "description": "\"Owing the payday loan apps.\""
+      },
+      {
+        "title": "The Violent Feud That Shocked the Horse World",
+        "link": "https://longreads.com/2026/09/16/the-violent-feud-that-shocked-the-horse-world/",
+        "published": "2026-09-16T11:00:00Z",
+        "description": "\"A prominent dressage trainer shot a belligerent student—and now maintains that he’s the real victim.\""
+      },
+      {
+        "title": "Eating Alone",
+        "link": "https://longreads.com/2026/09/15/convenience-friction-eating-alone/",
+        "published": "2026-09-15T10:00:00Z",
+        "description": "Soggy fries, ghost kitchens, and a $19 bacon, egg, and cheese sandwich: what we've actually gained on the path to convenience."
+      },
+      {
+        "title": "More Nothing Now",
+        "link": "https://longreads.com/2026/09/14/free-play-thinking/",
+        "published": "2026-09-14T19:57:46Z",
+        "description": "\"We are most human when we play freely, imaginatively, pointlessly. Gamification risks atrophying that most precious capacity.\""
+      },
+      {
+        "title": "Studio Ghibli’s Deepest Secret Is What Comes Next",
+        "link": "https://longreads.com/2026/09/14/studio-ghibli-hayao-goro-miyazaki-succession/",
+        "published": "2026-09-14T19:25:53Z",
+        "description": "\"The ambiguous future of Japan’s most prestigious group of animators won’t get clearer anytime soon.\""
+      },
+      {
+        "title": "There’s No Place Like Group Chats",
+        "link": "https://longreads.com/2026/09/14/group-chats-new-yorker/",
+        "published": "2026-09-14T16:28:34Z",
+        "description": "\"My old friends and I have ended up scattered across different states, in different time zones, but we’ve made our own neighborhood inside the black and blue bubbles of our phones.\""
+      },
+      {
+        "title": "The Top 5 Longreads of the Week",
+        "link": "https://longreads.com/2026/09/11/top-5-624/",
+        "published": "2026-09-11T10:00:00Z",
+        "description": "In this edition: ㆍBefore/after ㆍMany/one ㆍAthlete/human ㆍSilent/spoken ㆍGame/mystery"
       }
     ]
   }
