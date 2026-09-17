@@ -124,7 +124,10 @@ h1 { margin: 0 0 -9px; max-width: 780px; font: 800 clamp(76px, 10vw, 150px)/0.72
 .load-more { display: block; width: 100%; min-height: 92px; border: 0; background: var(--red); color: var(--paper); padding: 0 30px; text-align: left; font: 800 27px/1 var(--display); text-transform: uppercase; }
 .load-more:hover { background: var(--ink); }
 .empty-state { padding: 5rem 1rem; border-bottom: 1px solid var(--line); color: var(--muted); text-align: center; }
-.empty-glyph { display: block; margin-bottom: 0.75rem; font-size: 1.5rem; }
+.empty-glyph { position: relative; display: block; width: 64px; height: 42px; margin: 0 auto 18px; border-bottom: 2px solid var(--ink); }
+.empty-glyph::before, .empty-glyph::after { content: ""; position: absolute; width: 24px; height: 24px; }
+.empty-glyph::before { top: 0; left: 8px; border-radius: 50%; background: var(--red); }
+.empty-glyph::after { top: 8px; right: 8px; background: var(--blue); }
 .empty-state h2 { margin: 0; color: var(--ink); font: 800 2rem/1 var(--display); text-transform: uppercase; }
 .empty-state p { margin: 0.6rem 0 0; font: 10px/1.5 var(--mono); text-transform: uppercase; }
 
