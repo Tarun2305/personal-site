@@ -387,28 +387,34 @@
     "reuters": [],
     "bbc": [
       {
+        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+        "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-19T20:16:07Z",
+        "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital."
+      },
+      {
+        "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
+        "link": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-19T20:11:35Z",
+        "description": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel."
+      },
+      {
         "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
         "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
         "published": "2026-09-19T11:36:55Z",
         "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory."
       },
       {
-        "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
-        "link": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-19T16:43:21Z",
-        "description": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel."
-      },
-      {
-        "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-        "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-19T19:09:49Z",
-        "description": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen."
-      },
-      {
         "title": "Davey says Lib Dems are 'firewall against Farage' as conference begins",
         "link": "https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o?at_medium=RSS&at_campaign=rss",
         "published": "2026-09-19T18:03:30Z",
         "description": "Lib Dem leader Ed Davey claimed the party was aiming to beat its 2024 record of 72 MPs in any snap election."
+      },
+      {
+        "title": "Strictly returns with new hosting trio as celebrities find out dance pairings",
+        "link": "https://www.bbc.co.uk/news/articles/c6m2rkx2evxmo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-19T21:27:06Z",
+        "description": "Emma Willis, Josh Widdicombe and Johannes Radebe take over from long-running presenting duo Tess Daly and Claudia Winkleman."
       },
       {
         "title": "Watch: Earl Spencer says he is telling the truth about a phone call with Charles after Diana's death",
@@ -427,62 +433,56 @@
         "link": "https://www.bbc.co.uk/news/articles/cw5yl228lvzlo?at_medium=RSS&at_campaign=rss",
         "published": "2026-09-18T22:03:40Z",
         "description": "A neighbourhood’s fight to save a cherished ginkgo pits them against an unlikely foe."
-      },
-      {
-        "title": "Analysis: Trump escalates media fight after week of setbacks",
-        "link": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-19T17:23:37Z",
-        "description": "An embattled Trump has injected his fight with the news media with new acrimony, writes the BBC's Anthony Zurcher."
       }
     ],
     "aljazeera": [
       {
-        "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
-        "link": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar?traffic_source=rss",
-        "published": "2026-09-19T18:32:30Z",
-        "description": "Mohsen Rezaei, secretary of Iran’s Supreme National Security Council, tells Al Jazeera Tehran awaiting Trump response."
+        "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
+        "link": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
+        "published": "2026-09-19T22:03:05Z",
+        "description": "This was the first time an alert was sounded in Riyadh since an escalation between the Houthis in Yemen and the Saudis."
       },
       {
-        "title": "Israel targets paramedics in southern Lebanon",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon?traffic_source=rss",
-        "published": "2026-09-19T18:06:52Z",
-        "description": "Two back-to-back Israeli air strikes hit Nabatieh in Lebanon, while a third strike targeted an ambulance team."
+        "title": "Fulham vs Manchester United: Premier League – prediction, teams, lineups",
+        "link": "https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
+        "published": "2026-09-19T20:47:20Z",
+        "description": "Man United have won only one league game this season, putting Michael Carrick under pressure ahead of Fulham trip."
       },
       {
-        "title": "Cuba works to restore power after another major nationwide blackout",
-        "link": "https://www.aljazeera.com/news/2026/9/19/cuba-works-to-restore-power-after-another-major-nationwide-blackout?traffic_source=rss",
-        "published": "2026-09-19T17:59:57Z",
-        "description": "The outage marks at least the sixth one this year after a United States-imposed energy blockade went into effect."
+        "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
+        "link": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss",
+        "published": "2026-09-19T20:40:09Z",
+        "description": "Elor Azaria had shot a Palestinian who had already been incapacitated by Israeli troops, in controversial case."
       },
       {
-        "title": "Dutch riot police break up violent far-right protest in The Hague",
-        "link": "https://www.aljazeera.com/news/2026/9/19/dutch-riot-police-break-up-violent-far-right-protest-in-the-hague?traffic_source=rss",
-        "published": "2026-09-19T17:55:45Z",
-        "description": "Justice minister condemns 'Hitler salutes, antisemitic slogans, violence' at the anti-immigration rally."
+        "title": "Lacking equipment, but not ambition: Gaza students try to keep up with tech",
+        "link": "https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss",
+        "published": "2026-09-19T20:30:01Z",
+        "description": "Gaza's IT industry has been devastated from three-years of bombing and destruction."
       },
       {
-        "title": "A ‘ban on the free press’: White House bars journalists from three outlets",
-        "link": "https://www.aljazeera.com/news/2026/9/19/a-ban-on-the-free-press-white-house-bars-journalists-from-three-outlets?traffic_source=rss",
-        "published": "2026-09-19T17:48:18Z",
-        "description": "Reporters from CNN, MS NOW, and Politico were denied access to White House on Saturday."
+        "title": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss",
+        "published": "2026-09-19T20:13:56Z",
+        "description": "US Secretary of Defence Pete Hegseth has kicked off his ‘Send Me Tour’ in Texas amid Iran war backlash."
       },
       {
-        "title": "Ed Sheeran concert set to go ahead after outcry over Gaza",
-        "link": "https://www.aljazeera.com/news/2026/9/19/ed-sheeran-concert-set-to-go-ahead-after-outcry-over-gaza?traffic_source=rss",
-        "published": "2026-09-19T17:14:45Z",
-        "description": "Sheeran may perform solo after musicians dropped out of tour over expulsion of Macklemore for supporting Palestine."
+        "title": "Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty",
+        "link": "https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss",
+        "published": "2026-09-19T20:03:23Z",
+        "description": "Trump has wanted a foothold in Greenland for some time, as a strategic battle unfolds for supremacy in warming Arctic."
       },
       {
-        "title": "Brighton beat Arsenal 3-0 as Man City top Premier League without playing",
-        "link": "https://www.aljazeera.com/sports/2026/9/19/brighton-beat-arsenal-3-0-as-man-city-top-premier-league-without-playing?traffic_source=rss",
-        "published": "2026-09-19T16:42:26Z",
-        "description": "Arsenal suffer shock 3-0 loss at Brighton to lose top spot in the Premier League on goal difference to Manchester City."
+        "title": "Canadians warm to EU ‘associate membership’ proposal",
+        "link": "https://www.aljazeera.com/news/2026/9/19/canadians-warm-to-eu-associate-membership-proposal?traffic_source=rss",
+        "published": "2026-09-19T19:53:55Z",
+        "description": "From work and study to trade, Canadians see new possibilities in closer ties with the European Union."
       },
       {
-        "title": "Demonstrators in US form human chain to protest Kennedy Center closure vote",
-        "link": "https://www.aljazeera.com/news/2026/9/19/demonstrators-in-us-form-human-chain-to-protest-kennedy-center-closure-vote?traffic_source=rss",
-        "published": "2026-09-19T16:21:36Z",
-        "description": "'Hands Around the Kennedy Center' rally drew thousands after Trump-backed board votes to close the iconic arts venue."
+        "title": "Trump says he will create ‘AI Force’ with new ‘AI czar’",
+        "link": "https://www.aljazeera.com/news/2026/9/19/trump-says-he-will-create-ai-force-with-new-ai-czar?traffic_source=rss",
+        "published": "2026-09-19T19:50:10Z",
+        "description": "The announcements come as AI faces mounting concerns from populations across the United States."
       }
     ],
     "ft": [
@@ -523,10 +523,10 @@
         "description": "And why it must endure"
       },
       {
-        "title": "Nobel economists throw support behind California billionaire tax",
-        "link": "https://www.ft.com/content/94ec0fee-53ab-4d7e-9b17-6b05608ad974?syn-25a6b1a6=1",
-        "published": "2026-09-19T11:00:05Z",
-        "description": "Progressive laureates say November ballot measure could ‘start reining in the power’ of ultra-wealthy"
+        "title": "Trump announces ‘AI Force’ as alarm grows over technology’s advance",
+        "link": "https://www.ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477?syn-25a6b1a6=1",
+        "published": "2026-09-19T19:49:31Z",
+        "description": "US president has resisted calls for regulation but said he would appoint a ‘tsar’ to monitor for ‘bad’ behaviour"
       },
       {
         "title": "Google’s Gemini hacked three companies in new AI safety incident",
@@ -698,16 +698,28 @@
         "description": "So much for the new Invincibles. Arsenal were brought back down to earth with a shuddering bump by a scintillating display from Brighton as Fabian Hürzeler’s vibrant side celebrated the club’s 125th anniversary in style. The special edition shirts they wore to mark the occasion will end up being collector’s items after the Premier League champions were ripped apart. Arsenal were attempting to record an eighth successive victory in all competitions to start the new campaign for the first time since 1903 when they were still known as Woolwich Arsenal. Continue reading..."
       },
       {
+        "title": "De Zerbi rips into Spurs players after Villa defeat: ‘Disappointed, sad and frustrated’",
+        "link": "https://www.theguardian.com/football/2026/sep/19/roberto-de-zerbi-spurs-disappointed-sad-frustrated",
+        "published": "2026-09-19T17:01:07Z",
+        "description": "Tottenham lose 3-2 at home with two late goals ‘We can’t lose the game in this way,’ says manager Roberto De Zerbi tore into his failing Tottenham team after their 3-2 defeat by Aston Villa, saying “we can’t lose the game in this way”. The Italian headed straight down the tunnel at full time, but was once again forced to endure boos as Tottenham went into the three-week international break without a Premier League victory to their name and just two points on the board. De Zerbi criticised his team’s mentality, but also the physical condition of his players, and said the substitute Mohammed Kudus had disrupted the balance of his team. Continue reading..."
+      },
+      {
         "title": "Holmberg rescues point for Arsenal but Manchester United off the mark in WSL",
         "link": "https://www.theguardian.com/football/2026/sep/19/arsenal-manchester-united-wsl-match-report",
         "published": "2026-09-19T18:42:26Z",
-        "description": "Arsenal were mightily relieved as a 95th-minute equaliser from Smilla Holmberg rescued them a point at home to a much-improved Manchester United side, but the draw will not be enough to eradicate concerns about how far behind the leaders Manchester City they are slipping already. A defiant Manchester United stunned the north Londoners as Eva Olid’s side claimed the first point of her tenure with a performance that defied all of the pre-match scripts, but it was very nearly a victory, had it not been for Holmberg’s last-gasp back-post finish from Leah Williamson’s deep, diagonal ball into the box, which finally broke the visitors’ stubborn resistance. Continue reading..."
+        "description": "Arsenal were mightily relieved as a 95th-minute Smilla Holmberg volley rescued a point at home to a much-improved Manchester United side, but the draw will not be enough to eradicate concerns about how far behind the leaders Manchester City Renée Slegers’ team are slipping already and how frequently they seem to struggle to break down a low block. A defiant Manchester United stunned the north Londoners as Eva Olid’s side claimed the first point of her tenure with a performance that defied all of the pre-match scripts, but it was very nearly a victory, had it not been for Holmberg’s last-gasp back-post finish from Leah Williamson’s deep, diagonal ball into the box, which finally broke the…"
       },
       {
         "title": "Coventry delight in Jay Dasilva winner but ruled-out goal riles Nottingham Forest",
         "link": "https://www.theguardian.com/football/2026/sep/19/nottingham-forest-coventry-premier-league-match-report",
         "published": "2026-09-19T18:40:46Z",
-        "description": "No, but seriously. Maybe Frank Lampard and Coventry do have a chance of Premier League survival. A first top-division win since April 2001 was celebrated rapturously, victory an object lesson in staying in a game long enough to trouble opponents for whom confidence wavers, and finding the right moment to strike. After that, Coventry dug in doggedly, squeezing play such that Nottingham Forest’s creative talents were blunted, though City rode their luck with a late video assistant referee call that enraged home fans, coaches and players alike. After Championship promotion rehabilitated Lampard’s reputation, Coventry’s troubled start to the season had revived doubts in his capabilities as a…"
+        "description": "No, but seriously. Maybe Frank Lampard and Coventry can achieve Premier League survival. The club’s first top-division win since April 2001 was celebrated rapturously, victory an object lesson in unsettling opponents for whom confidence can waver. Jay Dasilva’s excellent goal was built on the foundations laid by a battling defensive performance that must be replicated on a weekly basis. Coventry, dogged throughout, blunted Nottingham Forest’s creativity, though could thank a late video assistant referee call that enraged the City Ground crowd. Lampard declared, with his broadest grin: “I feel great, I feel amazing.” Next, as is his way, back to serious business. “The reality in football is…"
+      },
+      {
+        "title": "Zidane’s next move as France coach may reveal the wizard behind the curtain | Jonathan Wilson",
+        "link": "https://www.theguardian.com/football/2026/sep/19/zinedine-zidane-france-coach-wizard-behind-curtain",
+        "published": "2026-09-19T19:00:54Z",
+        "description": "It is apt that the most perplexing football country will now be guided by the most enigmatic of leaders Even in his playing days, Zinedine Zidane seemed unknowable. As a manager, the sense of distance has only grown. He won three Champions Leagues with Real Madrid without ever giving a sense of what his idea of football looked like. France are perhaps the most perplexing football country: a squad that teems with such talent that a B team would be serious contenders at a World Cup, that reached three major finals under Didier Deschamps with a sense of unfulfilment, a team that progressed but rarely entranced, or at least didn’t until this summer’s World Cup, when they attacked with gusto…"
       },
       {
         "title": "Everton hold off Ipswich thanks to Thierno Barry goal despite VAR controversy",
@@ -716,28 +728,16 @@
         "description": "After the trials and tribulations of the transfer window, Everton can be content with fifth place, an unbeaten start and five clean sheets in seven games. There will also be relief, for Pro Ref as well as David Moyes, that another controversial call from a video assistant referee did not impede their progress against Ipswich. Thierno Barry decided a close-fought contest with his fifth goal of the campaign. He should have had a sixth but an offside Brennan Johnson was adjudged to have impacted Ipswich goalkeeper Christian Walton’s ability to save a ball he made no attempt to save and was nowhere near saving. Unlike last weekend’s Manchester derby, however, referee Stuart Attwell’s decision…"
       },
       {
-        "title": "De Zerbi rips into Spurs players after Villa defeat: ‘Disappointed, sad and frustrated’",
-        "link": "https://www.theguardian.com/football/2026/sep/19/roberto-de-zerbi-spurs-disappointed-sad-frustrated",
-        "published": "2026-09-19T17:01:07Z",
-        "description": "Tottenham lose 3-2 at home with two late goals ‘We can’t lose the game in this way,’ says manager Roberto De Zerbi tore into his failing Tottenham team after their 3-2 defeat by Aston Villa, saying “we can’t lose the game in this way”. The Italian headed straight down the tunnel at full time, but was once again forced to endure boos as Tottenham went into the three-week international break without a Premier League victory to their name and just two points on the board. De Zerbi criticised his team’s mentality, but also the physical condition of his players, and said the substitute Mohammed Kudus had disrupted the balance of his team. Continue reading..."
-      },
-      {
         "title": "Newcastle back to winning ways as Willock and Hall end Hull’s unbeaten start",
         "link": "https://www.theguardian.com/football/2026/sep/19/newcastle-hull-premier-league-match-report",
         "published": "2026-09-19T16:14:51Z",
         "description": "Hull always knew, sooner or later, they would lose a Premier League game, but no one can say they did not do everything in their power to try to delay that inaugural top-tier defeat. After conceding two goals in the opening seven minutes, Hull could easily have folded but they are made of sterner stuff than that. Tellingly, they also sensed the inherent fragility of a gifted, but injury-hit and extremely youthful Newcastle. Continue reading..."
       },
       {
-        "title": "Manchester United Muslim fans group calls on co-owner Jim Ratcliffe to quit",
-        "link": "https://www.theguardian.com/business/2026/sep/19/jim-ratcliffe-uk-immigration-tax-manchester-united-ineos",
-        "published": "2026-09-19T17:44:32Z",
-        "description": "Supporters’ club says billionaire should stand down after ‘completely unacceptable’ comments on the UK and empire Manchester United’s Muslim supporters’ Club (MUMSC) has called for the Premier League side’s co-owner to step down after he made “completely unacceptable” comments during a BBC interview. Sir Jim Ratcliffe described the UK as being a country “on the slide” from the days when it had “the greatest empire in the world”. Continue reading..."
-      },
-      {
         "title": "European football: Martínez double gives Inter comeback draw at Roma",
         "link": "https://www.theguardian.com/football/2026/sep/19/roma-inter-lazio-dortmund-sevilla-barcelona",
-        "published": "2026-09-19T19:24:33Z",
-        "description": "Roma lead 2-0 after Manu Koné’s first-half double Strasbourg fans abuse Liam Rosenior as Paris FC win Lautaro Martínez rode to Inter ’s rescue as the Serie A champions fought back from two-down to force a 2-2 draw at Roma , in a meeting of what had been the last two sides with 100% records. Manu Koné’s double had given Roma a 2-0 lead at half-time but for the second time in a week Cristian Chivu’s side, inspired by Martínez, showed mettle as the champions fought back from such a deficit. Continue reading..."
+        "published": "2026-09-19T21:12:00Z",
+        "description": "Roma lead 2-0 after Manu Koné’s first-half double Strasbourg fans abuse Rosenior; Salah hits hat-trick Lautaro Martínez rode to Inter ’s rescue as the Serie A champions fought back from 2-0 down to force a 2-2 draw at Roma , in a meeting of what had been the last two sides with 100% records. Manu Koné’s double had given Roma a 2-0 lead at half-time but for the second time in a week Cristian Chivu’s side, inspired by Martínez, showed mettle as the champions fought back from such a deficit. Continue reading..."
       }
     ],
     "spielverlagerung": [
@@ -842,52 +842,52 @@
     ],
     "wagnh": [
       {
-        "title": "Chelsea FCW vs. Birmingham City WFC, Women’s Super League: Confirmed lineups; how to watch",
-        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/172381/chelsea-fcw-vs-birmingham-city-wfc-womens-super-league-confirmed-lineups-how-to-watch",
-        "published": "2026-09-19T11:08:19Z",
-        "description": "Chelsea Women are back at Stamford Bridge for their third Women’s Super League match of the season, hosting WSL 2 champions, Birmingham City. They’ll seek to keep momentum going on the back of a massive 5-0 win over Manchester United last weekend, a scoreline that was the result of a collective performance we haven’t seen […]"
+        "title": "How should Chelsea line up against Brentford amid rising number of injury concerns?",
+        "link": "https://weaintgotnohistory.sbnation.com/premier-league/172305/how-should-chelsea-line-up-against-brentford-amid-rising-number-of-injury-concerns",
+        "published": "2026-09-17T15:04:49Z",
+        "description": "We have one more game before the international break, and it’s tomorrow night at nearby Brentford, which technically makes this yet another West London Derby. But our main concern right now are injuries, which appear to be piling up a bit. While Xabi Alonso specifically didn’t rule anybody out in his press conference earlier today, […]"
       },
       {
-        "title": "Chelsea FCW vs. Birmingham City WFC, Women’s Super League: Preview, team news, how to watch",
-        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/172366/chelsea-fcw-vs-birmingham-city-wfc-womens-super-league-preview-team-news-how-to-watch",
-        "published": "2026-09-19T07:14:09Z",
-        "description": "An astonishing 5-0 win away against Manchester United was exactly what Chelsea Women needed after a Women’s Super League season debut that left a bad impression on everybody. To show this wasn’t mere happenstance the Blues host recently promoted outfit Birmingham City at Stamford Bridge, hoping they don’t fall into the trappings that caught them […]"
+        "title": "Official: Clearlake acquire ‘full control’ of Chelsea",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-finances/172279/official-clearlake-acquire-full-control-of-chelsea",
+        "published": "2026-09-17T14:54:10Z",
+        "description": "After four years of a complicated and increasingly awkward co-ownership, the “Boehly-Clearlake Consortium” (which would be renamed BlueCo to make things easier) are now comprised of “just” Clearlake Capital (and also Hansjörg Wyss with his small stake). As announced today officially by the club, Clearlake have bought out Todd Boehly and Mark Walter to acquire […]"
       },
       {
-        "title": "The Daily Hilario: Saturday",
-        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/172354/the-daily-hilario-september-19th",
-        "published": "2026-09-19T06:12:00Z",
-        "description": "Fastest Excited Over performing"
+        "title": "The Daily Hilario: Thursday",
+        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/172272/the-daily-hilario-september-17th",
+        "published": "2026-09-17T06:35:51Z",
+        "description": "Youngest Flying Oof"
       },
       {
-        "title": "Brentford 3-0 Chelsea, Premier League: Post-match reaction",
-        "link": "https://weaintgotnohistory.sbnation.com/premier-league/172351/brentford-3-0-chelsea-premier-league-post-match-reaction",
-        "published": "2026-09-18T20:54:50Z",
-        "description": "The ever increasing amount of injuries Chelsea have had to endure in this season start isn’t helping manager Xabi Alonso. With at least five of his first-choice players out of contention, rotation was forced upon us on what had all the indications to be a difficult time at Brentford’s home turf. We did the best […]"
+        "title": "João Pedro withdrawn from Brazil squad due to injury",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/172288/joao-pedro-withdrawn-from-brazil-squad-due-to-injury",
+        "published": "2026-09-17T00:04:13Z",
+        "description": "Following his shocking snub for the World Cup, João Pedro was called up to Brazil for the season’s first international break coming up next week. Unfortunately, he’s going to have to wait a bit longer to pull on the famous shirt of the Seleção. Doubly unfortunately, it appears that he’s going to be out for […]"
       },
       {
-        "title": "Brentford vs. Chelsea, Premier League: Confirmed lineups; how to watch",
-        "link": "https://weaintgotnohistory.sbnation.com/premier-league/172342/brentford-vs-chelsea-premier-league-confirmed-lineups-how-to-watch",
-        "published": "2026-09-18T17:50:26Z",
-        "description": "Chelsea look to enter the international break with all three points from tonight’s visit to Brentford, who have yet to lose a game this season with one win and three draws in the first four weeks. Our last three visits to this stadium have also ended in draws, so I suppose that might be a […]"
+        "title": "Chelsea drawn against Liverpool in fourth round of League Cup",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-league-cup/172276/chelsea-drawn-against-liverpool-in-fourth-round-of-league-cup",
+        "published": "2026-09-16T23:08:38Z",
+        "description": "The first of hopefully very many Xabi Alonso Derbies is going to take place the week of October 26, with Chelsea drawn against Liverpool, away, in the fourth round of this year’s League Cup. Obviously, Alonso’s a Liverpool legend and though this won’t be the first time he’s back at Anfield with another team, it […]"
       },
       {
-        "title": "England call up Cole Palmer and Morgan Rogers; confirm Reece James injury",
-        "link": "https://weaintgotnohistory.sbnation.com/injury-news/172336/england-call-up-cole-palmer-and-morgan-rogers-confirm-reece-james-injury",
-        "published": "2026-09-18T15:58:37Z",
-        "description": "Xabi Alonso wasn’t too pleased with Brazil revealing João Pedro’s injury (which may or may not be trivial in length and significance), and now the Chelsea manager’s efforts to keep everyone in the dark about injuries have taken another big hit, with England confirming an injury to Reece James. Thomas Tuchel has called on both […]"
+        "title": "The Daily Hilario: Wednesday",
+        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/172258/the-daily-hilario-september-16th",
+        "published": "2026-09-16T07:02:26Z",
+        "description": "And how did it help? Lol Renewed"
       },
       {
-        "title": "Chelsea fans’ preferred lineup against Brentford: Welbeck and Barco to the rescue",
-        "link": "https://weaintgotnohistory.sbnation.com/premier-league/172330/chelsea-fans-preferred-lineup-against-brentford-welbeck-and-barco-to-the-rescue",
-        "published": "2026-09-18T15:45:57Z",
-        "description": "Chelsea have been hit by a couple key new injuries, with João Pedro and Reece James joining Moisés Caicedo, Marco Palestra, and Jordan Henderson on the unavailable list. We’re not yet sure of the severity of either JP’s or Reecey’s injuries, but they (most likely) will be missing in action tonight (and over the international […]"
+        "title": "The Daily Hilario: Glacier National Park",
+        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/172244/the-daily-hilario-glacier-national-park",
+        "published": "2026-09-15T07:00:42Z",
+        "description": "I’ve spent the last couple days in Glacier National Park, trying to see the sights and do some hiking. The weather has not been cooperating unfortunately: it rained all day today and most of yesterday and the clouds have robbed us of some amazing vistas. We even had snow at the upper elevations, which meant […]"
       },
       {
-        "title": "Brentford vs. Chelsea, Premier League: Preview, team news, how to watch",
-        "link": "https://weaintgotnohistory.sbnation.com/premier-league/172315/brentford-vs-chelsea-premier-league-preview-team-news-how-to-watch",
-        "published": "2026-09-18T07:23:44Z",
-        "description": "Chelsea’s last game before the international break will be played under the Friday Night Lights at Brentford, with the Blues hoping to enter the break on a good note and the Bees looking to put a sting in those plans. Brentford have only won one game so far in this year’s Premier League, drawing their […]"
+        "title": "Xabi Alonso not happy with Chelsea’s ‘dynamic in terms of conceding’ goals",
+        "link": "https://weaintgotnohistory.sbnation.com/premier-league/172241/xabi-alonso-not-happy-with-chelseas-dynamic-in-terms-of-conceding-goals",
+        "published": "2026-09-15T06:07:08Z",
+        "description": "Another two goals were conceded over the weekend, bringing Chelsea’s season total to nine, fourth most in the league behind only Ipswich Town, Crystal Palace, and bottom of the table Coventry City. Thankfully, we do have the second highest scoring attack in the league, so we do have seven points to show for our efforts […]"
       }
     ],
     "rym": [],
@@ -1150,11 +1150,11 @@
         "title": "TIFF 2026: Primetime Program Spotlights Upcoming TV Hits",
         "link": "https://www.rogerebert.com/festivals/tiff-2026-primetime-program-spotlights-upcoming-tv-hits",
         "published": "2026-09-19T17:32:59Z",
-        "description": "As one of the first festivals to have a slate dedicated solely to television, the 11th year of the Toronto International Film Festival’s Primetime slate is the most expansive it’s ever been. The program is billed as one that spotlights “groundbreaking episodic storytelling and auteur-driven television from some of the world’s most exciting creators,” and […]"
+        "description": "TV shows at a film festival? There were some good ones this year."
       },
       {
         "title": "TIFF 2026: Darlene Love: I Know Where I’ve Been, Edward Said: Between Worlds, The Hummingbird Paints Fragrant Songs",
-        "link": "https://www.rogerebert.com/features/tiff-2026-darlene-love-i-know-where-ive-been-edward-said-between-worlds-the-hummingbird-paints-fragrant-songs",
+        "link": "https://www.rogerebert.com/festivals/tiff-2026-darlene-love-i-know-where-ive-been-edward-said-between-worlds-the-hummingbird-paints-fragrant-songs",
         "published": "2026-09-19T16:05:50Z",
         "description": "On three essential profile docs out of this year's TIFF."
       },
@@ -1349,6 +1349,18 @@
     ],
     "filmstage": [
       {
+        "title": "Venice Review: The Echo Chamber Creates Terrific Chemisty for Luca Marinelli and Alicia Vikander",
+        "link": "https://thefilmstage.com/venice-review-the-echo-chamber-creates-terrific-chemisty-for-luca-marinelli-and-alicia-vikander/",
+        "published": "2026-09-19T20:17:26Z",
+        "description": "“My own destruction might be exactly what I want.” – Leo Italian cinema maestro Bernardo Bertolucci died in 2018, leaving behind one unfinished screenplay. For his fourth feature, burgeoning Italian writer-director Andrea Pallaoro was given the keys to that coveted, unfinished script. Pallaoro finished writing the screenplay alongside Bertolucci’s original co-writers, Ilaria Bernardini and Ludovica […]"
+      },
+      {
+        "title": "TIFF Review: The Hummingbird Paints Fragrant Songs Is an Elegiac Portrait of an Indigenous Peruvian Artist",
+        "link": "https://thefilmstage.com/tiff-review-the-hummingbird-paints-fragrant-songs-is-an-elegiac-portrait-of-an-indigenous-peruvian-artist/",
+        "published": "2026-09-19T19:57:48Z",
+        "description": "Seventy-five year-old Indigenous Peruvian artist Sara Flores came to fame late in life, as she acknowledges in The Hummingbird Paints Fragrant Songs. Yet her art and activism resonate with force and conviction in this elegiac portrait by Èlia Gasull Balada and Matteo Norzi. A woman of the earth, Flores forages for resources in the forests […]"
+      },
+      {
         "title": "Pulp: What Do You Do for an Encore? Review: A Brilliant Victory Lap",
         "link": "https://thefilmstage.com/pulp-what-do-you-do-for-an-encore-review-a-brilliant-victory-lap/",
         "published": "2026-09-18T13:00:00Z",
@@ -1383,18 +1395,6 @@
         "link": "https://thefilmstage.com/new-to-streaming-teenage-sex-and-death-at-camp-miasma-the-end-of-oak-street-the-rivals-of-the-amziah-king-dry-leaf-more/",
         "published": "2026-09-18T09:29:46Z",
         "description": "Each week we highlight the noteworthy titles that have recently hit streaming platforms in the United States. Check out this week’s selections below and past round-ups here. Bouchra (Meriem Bennani, Orian Barki) Based on a real-life conversation shared by co-director Meriem Bennani and her own mother, Bouchra (co-directed with Orian Barki and co-written by them and Ayla Mrabet) opens […]"
-      },
-      {
-        "title": "The History of Concrete Review: John Wilson’s Idiosyncratic, Joyous Feature Debut",
-        "link": "https://thefilmstage.com/sundance-review-john-wilsons-the-history-of-concrete-is-an-idiosyncratic-joyous-feature-debut/",
-        "published": "2026-09-18T03:45:41Z",
-        "description": "Note: This review was originally published as part of our 2026 Sundance coverage. The film opens in theaters on September 18. Like a movie tie-in, John Wilson’s debut documentary feature, The History of Concrete, picks up immediately where his HBO series How To with John Wilson left off after three seasons. An elevated public profile […]"
-      },
-      {
-        "title": "The Weight Review: Ethan Hawke is Good as Gold",
-        "link": "https://thefilmstage.com/sundance-review-ethan-hawke-is-good-as-gold-in-the-weight/",
-        "published": "2026-09-18T03:43:09Z",
-        "description": "Note: This review was originally published as part of our 2026 Sundance coverage. The film opens in theaters on September 18. Gold is such an apt metaphor for greed. It’s shiny, it’s heavy, it’s superficial, and it’s obtained through someone’s hard labor. That labor is carried on the backs of the downtrodden and desperate while […]"
       }
     ],
     "cinephilia": [
@@ -1450,12 +1450,6 @@
     "nyrb": [],
     "lrb": [
       {
-        "title": "In Bishkek",
-        "link": "https://www.lrb.co.uk/blog/2026/september/in-bishkek",
-        "published": "2026-09-18T15:50:28Z",
-        "description": "Kok-boru is a horseback sport related to polo, played with a headless goat carcass rather than a ball and mallets. The equestrian scrums are violent..."
-      },
-      {
         "title": "Human Melting",
         "link": "https://www.lrb.co.uk/blog/2026/september/human-melting",
         "published": "2026-09-17T14:46:18Z",
@@ -1478,6 +1472,12 @@
         "link": "https://www.lrb.co.uk/blog/2026/september/9-15",
         "published": "2026-09-15T14:44:07Z",
         "description": "On Saturday, 15 September 2001, a friend and I went to help the members of an Anglia TV documentary team collect their belongings from a building near..."
+      },
+      {
+        "title": "A First Step",
+        "link": "https://www.lrb.co.uk/blog/2026/september/a-first-step",
+        "published": "2026-09-12T15:50:09Z",
+        "description": "On Tuesday, the foreign secretary, Ed Miliband, made a statement to the House of Commons in which he announced an ‘import ban on goods from illegal..."
       }
     ],
     "larb": [],
