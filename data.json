@@ -387,9 +387,15 @@
     "reuters": [],
     "bbc": [
       {
+        "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+        "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-20T01:38:30Z",
+        "description": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour."
+      },
+      {
         "title": "Houthis say they targeted Saudi capital with ballistic missiles",
         "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-19T20:16:07Z",
+        "published": "2026-09-19T23:49:26Z",
         "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital."
       },
       {
@@ -401,14 +407,8 @@
       {
         "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
         "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-19T11:36:55Z",
+        "published": "2026-09-19T23:00:27Z",
         "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory."
-      },
-      {
-        "title": "Davey says Lib Dems are 'firewall against Farage' as conference begins",
-        "link": "https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-19T18:03:30Z",
-        "description": "Lib Dem leader Ed Davey claimed the party was aiming to beat its 2024 record of 72 MPs in any snap election."
       },
       {
         "title": "Strictly returns with new hosting trio as celebrities find out dance pairings",
@@ -417,72 +417,72 @@
         "description": "Emma Willis, Josh Widdicombe and Johannes Radebe take over from long-running presenting duo Tess Daly and Claudia Winkleman."
       },
       {
+        "title": "The deadly new drugs reshaping Scotland's fight against addiction",
+        "link": "https://www.bbc.co.uk/news/articles/c39w4n07ekeno?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-19T22:51:14Z",
+        "description": "Experts warn potent new substances are making an already deadly crisis more dangerous."
+      },
+      {
         "title": "Watch: Earl Spencer says he is telling the truth about a phone call with Charles after Diana's death",
         "link": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss",
         "published": "2026-09-18T15:59:21Z",
         "description": "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book."
       },
       {
-        "title": "Bitter row over Diana book brings back unhappy times for royals",
-        "link": "https://www.bbc.co.uk/news/articles/cr86xyne8xp2o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-19T09:37:35Z",
-        "description": "Many of the Royal Family's current troubles can be traced back to the aftermath of the then-Princess of Wales' death."
-      },
-      {
-        "title": "When a cherished tree began withering away, locals suspected a killer in their midst",
-        "link": "https://www.bbc.co.uk/news/articles/cw5yl228lvzlo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-18T22:03:40Z",
-        "description": "A neighbourhood’s fight to save a cherished ginkgo pits them against an unlikely foe."
+        "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+        "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-19T23:01:38Z",
+        "description": "Students spent years collecting evidence against their Indonesian principal, before falling in love."
       }
     ],
     "aljazeera": [
       {
+        "title": "How much of a challenge are recurrent bombings for Pakistan?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/9/20/how-much-of-a-challenge-recurrent-bombings-to-pakistan?traffic_source=rss",
+        "published": "2026-09-20T02:38:24Z",
+        "description": "Dozens were killed and injured in an attack by an armed group in a northwestern city."
+      },
+      {
+        "title": "DR Congo begins Ebola vaccination trials for frontline health workers",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/dr-congo-begins-ebola-vaccination-trials-for-frontline-health-workers?traffic_source=rss",
+        "published": "2026-09-20T01:51:47Z",
+        "description": "DR Congo is rolling out vaccine trials for health workers at the centre of the country’s Ebola crisis."
+      },
+      {
+        "title": "Michelle Bachelet exits UN chief race after low poll support",
+        "link": "https://www.aljazeera.com/news/2026/9/20/michelle-bachelet-exits-un-chief-race-after-low-poll-support?traffic_source=rss",
+        "published": "2026-09-20T01:36:43Z",
+        "description": "Former Chilean President Michelle Bachelet ends her bid to be the first woman to lead the United Nations."
+      },
+      {
+        "title": "DR Congo rolls out Ebola vaccine for health workers as death toll rises",
+        "link": "https://www.aljazeera.com/news/2026/9/20/dr-congo-rolls-out-ebola-vaccine-for-health-workers-as-death-toll-rises?traffic_source=rss",
+        "published": "2026-09-20T00:36:05Z",
+        "description": "50,000 frontline staff to receive a jab for a different Ebola strain, with 20,000 enrolled in a one-year clinical trial."
+      },
+      {
+        "title": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
+        "published": "2026-09-20T00:00:00Z",
+        "description": "Iran security chief says Tehran's demands include an end to war on all fronts and the lifting of US's naval blockade."
+      },
+      {
+        "title": "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM",
+        "link": "https://www.aljazeera.com/news/2026/9/19/turkiye-backs-saudi-arabias-security-amid-escalating-houthi-attacks-fm?traffic_source=rss",
+        "published": "2026-09-19T23:18:34Z",
+        "description": "Turkish FM highlights Turkiye's readiness to assist Saudi Arabia militarily, as Houthi attacks intensify in Yemen."
+      },
+      {
         "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
         "link": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
         "published": "2026-09-19T22:03:05Z",
-        "description": "This was the first time an alert was sounded in Riyadh since an escalation between the Houthis in Yemen and the Saudis."
+        "description": "It was the first air raid alert in Riyadh since an escalation in fighting between the Houthis in Yemen and Saudi Arabia."
       },
       {
         "title": "Fulham vs Manchester United: Premier League – prediction, teams, lineups",
         "link": "https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
         "published": "2026-09-19T20:47:20Z",
         "description": "Man United have won only one league game this season, putting Michael Carrick under pressure ahead of Fulham trip."
-      },
-      {
-        "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
-        "link": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss",
-        "published": "2026-09-19T20:40:09Z",
-        "description": "Elor Azaria had shot a Palestinian who had already been incapacitated by Israeli troops, in controversial case."
-      },
-      {
-        "title": "Lacking equipment, but not ambition: Gaza students try to keep up with tech",
-        "link": "https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss",
-        "published": "2026-09-19T20:30:01Z",
-        "description": "Gaza's IT industry has been devastated from three-years of bombing and destruction."
-      },
-      {
-        "title": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss",
-        "published": "2026-09-19T20:13:56Z",
-        "description": "US Secretary of Defence Pete Hegseth has kicked off his ‘Send Me Tour’ in Texas amid Iran war backlash."
-      },
-      {
-        "title": "Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty",
-        "link": "https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss",
-        "published": "2026-09-19T20:03:23Z",
-        "description": "Trump has wanted a foothold in Greenland for some time, as a strategic battle unfolds for supremacy in warming Arctic."
-      },
-      {
-        "title": "Canadians warm to EU ‘associate membership’ proposal",
-        "link": "https://www.aljazeera.com/news/2026/9/19/canadians-warm-to-eu-associate-membership-proposal?traffic_source=rss",
-        "published": "2026-09-19T19:53:55Z",
-        "description": "From work and study to trade, Canadians see new possibilities in closer ties with the European Union."
-      },
-      {
-        "title": "Trump says he will create ‘AI Force’ with new ‘AI czar’",
-        "link": "https://www.aljazeera.com/news/2026/9/19/trump-says-he-will-create-ai-force-with-new-ai-czar?traffic_source=rss",
-        "published": "2026-09-19T19:50:10Z",
-        "description": "The announcements come as AI faces mounting concerns from populations across the United States."
       }
     ],
     "ft": [
@@ -491,12 +491,6 @@
         "link": "https://www.ft.com/content/96d0a206-a37b-4166-b78d-b27ed24f7d57?syn-25a6b1a6=1",
         "published": "2026-09-19T04:00:24Z",
         "description": "OpenAI’s resurgence, cheap rivals and safety fears test faith in durability of business model"
-      },
-      {
-        "title": "OpenAI expects to burn $280bn by 2030",
-        "link": "https://www.ft.com/content/6011d061-eee3-4193-b3b7-8ee4155f538c?syn-25a6b1a6=1",
-        "published": "2026-09-18T22:33:32Z",
-        "description": "AI start-up has projected deeply negative cash flows as it invests in infrastructure and faces price pressures"
       },
       {
         "title": "How should investors position for the robot apocalypse?",
@@ -529,10 +523,16 @@
         "description": "US president has resisted calls for regulation but said he would appoint a ‘tsar’ to monitor for ‘bad’ behaviour"
       },
       {
-        "title": "Google’s Gemini hacked three companies in new AI safety incident",
-        "link": "https://www.ft.com/content/158740d1-fde7-4dbc-a282-5830c3201189?syn-25a6b1a6=1",
-        "published": "2026-09-19T01:29:25Z",
-        "description": "Breakout during training exercises follows instances at rivals OpenAI and Anthropic as concerns grow over safety of frontier systems"
+        "title": "US state department under pressure to disclose Venezuelan oil takings",
+        "link": "https://www.ft.com/content/05887f92-c777-48ab-8efa-9a39e7e18a9f?syn-25a6b1a6=1",
+        "published": "2026-09-19T04:00:23Z",
+        "description": "Trump administration holds back from revealing how much money it has collected and how much it has sent back to Caracas"
+      },
+      {
+        "title": "Nobel economists throw support behind California billionaire tax",
+        "link": "https://www.ft.com/content/94ec0fee-53ab-4d7e-9b17-6b05608ad974?syn-25a6b1a6=1",
+        "published": "2026-09-19T11:00:05Z",
+        "description": "Progressive laureates say November ballot measure could ‘start reining in the power’ of ultra-wealthy"
       }
     ],
     "restofworld": [
@@ -842,52 +842,52 @@
     ],
     "wagnh": [
       {
-        "title": "How should Chelsea line up against Brentford amid rising number of injury concerns?",
-        "link": "https://weaintgotnohistory.sbnation.com/premier-league/172305/how-should-chelsea-line-up-against-brentford-amid-rising-number-of-injury-concerns",
-        "published": "2026-09-17T15:04:49Z",
-        "description": "We have one more game before the international break, and it’s tomorrow night at nearby Brentford, which technically makes this yet another West London Derby. But our main concern right now are injuries, which appear to be piling up a bit. While Xabi Alonso specifically didn’t rule anybody out in his press conference earlier today, […]"
+        "title": "Xabi Alonso disappointed with Chelsea’s ‘competitive mentality’ in Brentford defeat",
+        "link": "https://weaintgotnohistory.sbnation.com/premier-league/172399/xabi-alonso-disappointed-with-chelseas-competitive-mentality-in-brentford-defeat",
+        "published": "2026-09-19T23:29:10Z",
+        "description": "Xabi Alonso had talked about wanting a “boring” win for Chelsea, and for the first 45 minutes at the Brentford Community Stadium, it looked like we actually might be on our way. While the match was scoreless, we were far less chaotic than usual, winning the possession battle and largely controlling the flow of the […]"
       },
       {
-        "title": "Official: Clearlake acquire ‘full control’ of Chelsea",
-        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-finances/172279/official-clearlake-acquire-full-control-of-chelsea",
-        "published": "2026-09-17T14:54:10Z",
-        "description": "After four years of a complicated and increasingly awkward co-ownership, the “Boehly-Clearlake Consortium” (which would be renamed BlueCo to make things easier) are now comprised of “just” Clearlake Capital (and also Hansjörg Wyss with his small stake). As announced today officially by the club, Clearlake have bought out Todd Boehly and Mark Walter to acquire […]"
+        "title": "Chelsea FCW 2-0 Birmingham City WFC, Women’s Super League: Post-match reaction",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/172391/chelsea-fcw-2-0-birmingham-city-wfc-womens-super-league-post-match-reaction",
+        "published": "2026-09-19T13:39:10Z",
+        "description": "Hard hit by injuries just like the men’s side, head coach Sonia Bompastor’s options for picking up Chelsea Women starting lineups have been very limited. The striker-less scheme worked against Manchester United but the often conservative boss in her tactical approach doesn’t seem like she wants to reinvent the wheel by doing it so twice. […]"
       },
       {
-        "title": "The Daily Hilario: Thursday",
-        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/172272/the-daily-hilario-september-17th",
-        "published": "2026-09-17T06:35:51Z",
-        "description": "Youngest Flying Oof"
+        "title": "Chelsea FCW vs. Birmingham City WFC, Women’s Super League: Confirmed lineups; how to watch",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/172381/chelsea-fcw-vs-birmingham-city-wfc-womens-super-league-confirmed-lineups-how-to-watch",
+        "published": "2026-09-19T11:08:19Z",
+        "description": "Chelsea Women are back at Stamford Bridge for their third Women’s Super League match of the season, hosting WSL 2 champions, Birmingham City. They’ll seek to keep momentum going on the back of a massive 5-0 win over Manchester United last weekend, a scoreline that was the result of a collective performance we haven’t seen […]"
       },
       {
-        "title": "João Pedro withdrawn from Brazil squad due to injury",
-        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/172288/joao-pedro-withdrawn-from-brazil-squad-due-to-injury",
-        "published": "2026-09-17T00:04:13Z",
-        "description": "Following his shocking snub for the World Cup, João Pedro was called up to Brazil for the season’s first international break coming up next week. Unfortunately, he’s going to have to wait a bit longer to pull on the famous shirt of the Seleção. Doubly unfortunately, it appears that he’s going to be out for […]"
+        "title": "Chelsea FCW vs. Birmingham City WFC, Women’s Super League: Preview, team news, how to watch",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/172366/chelsea-fcw-vs-birmingham-city-wfc-womens-super-league-preview-team-news-how-to-watch",
+        "published": "2026-09-19T07:14:09Z",
+        "description": "An astonishing 5-0 win away against Manchester United was exactly what Chelsea Women needed after a Women’s Super League season debut that left a bad impression on everybody. To show this wasn’t mere happenstance the Blues host recently promoted outfit Birmingham City at Stamford Bridge, hoping they don’t fall into the trappings that caught them […]"
       },
       {
-        "title": "Chelsea drawn against Liverpool in fourth round of League Cup",
-        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-league-cup/172276/chelsea-drawn-against-liverpool-in-fourth-round-of-league-cup",
-        "published": "2026-09-16T23:08:38Z",
-        "description": "The first of hopefully very many Xabi Alonso Derbies is going to take place the week of October 26, with Chelsea drawn against Liverpool, away, in the fourth round of this year’s League Cup. Obviously, Alonso’s a Liverpool legend and though this won’t be the first time he’s back at Anfield with another team, it […]"
+        "title": "The Daily Hilario: Saturday",
+        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/172354/the-daily-hilario-september-19th",
+        "published": "2026-09-19T06:12:00Z",
+        "description": "Fastest Excited Over performing"
       },
       {
-        "title": "The Daily Hilario: Wednesday",
-        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/172258/the-daily-hilario-september-16th",
-        "published": "2026-09-16T07:02:26Z",
-        "description": "And how did it help? Lol Renewed"
+        "title": "Brentford 3-0 Chelsea, Premier League: Post-match reaction",
+        "link": "https://weaintgotnohistory.sbnation.com/premier-league/172351/brentford-3-0-chelsea-premier-league-post-match-reaction",
+        "published": "2026-09-18T20:54:50Z",
+        "description": "The ever increasing amount of injuries Chelsea have had to endure in this season start isn’t helping manager Xabi Alonso. With at least five of his first-choice players out of contention, rotation was forced upon us on what had all the indications to be a difficult time at Brentford’s home turf. We did the best […]"
       },
       {
-        "title": "The Daily Hilario: Glacier National Park",
-        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/172244/the-daily-hilario-glacier-national-park",
-        "published": "2026-09-15T07:00:42Z",
-        "description": "I’ve spent the last couple days in Glacier National Park, trying to see the sights and do some hiking. The weather has not been cooperating unfortunately: it rained all day today and most of yesterday and the clouds have robbed us of some amazing vistas. We even had snow at the upper elevations, which meant […]"
+        "title": "Brentford vs. Chelsea, Premier League: Confirmed lineups; how to watch",
+        "link": "https://weaintgotnohistory.sbnation.com/premier-league/172342/brentford-vs-chelsea-premier-league-confirmed-lineups-how-to-watch",
+        "published": "2026-09-18T17:50:26Z",
+        "description": "Chelsea look to enter the international break with all three points from tonight’s visit to Brentford, who have yet to lose a game this season with one win and three draws in the first four weeks. Our last three visits to this stadium have also ended in draws, so I suppose that might be a […]"
       },
       {
-        "title": "Xabi Alonso not happy with Chelsea’s ‘dynamic in terms of conceding’ goals",
-        "link": "https://weaintgotnohistory.sbnation.com/premier-league/172241/xabi-alonso-not-happy-with-chelseas-dynamic-in-terms-of-conceding-goals",
-        "published": "2026-09-15T06:07:08Z",
-        "description": "Another two goals were conceded over the weekend, bringing Chelsea’s season total to nine, fourth most in the league behind only Ipswich Town, Crystal Palace, and bottom of the table Coventry City. Thankfully, we do have the second highest scoring attack in the league, so we do have seven points to show for our efforts […]"
+        "title": "England call up Cole Palmer and Morgan Rogers; confirm Reece James injury",
+        "link": "https://weaintgotnohistory.sbnation.com/injury-news/172336/england-call-up-cole-palmer-and-morgan-rogers-confirm-reece-james-injury",
+        "published": "2026-09-18T15:58:37Z",
+        "description": "Xabi Alonso wasn’t too pleased with Brazil revealing João Pedro’s injury (which may or may not be trivial in length and significance), and now the Chelsea manager’s efforts to keep everyone in the dark about injuries have taken another big hit, with England confirming an injury to Reece James. Thomas Tuchel has called on both […]"
       }
     ],
     "rym": [],
@@ -1450,24 +1450,6 @@
     "nyrb": [],
     "lrb": [
       {
-        "title": "Human Melting",
-        "link": "https://www.lrb.co.uk/blog/2026/september/human-melting",
-        "published": "2026-09-17T14:46:18Z",
-        "description": "Planning regulations were modified last year, with AI data centres redefined as ‘nationally significant infrastructure projects’. Any attempt by a..."
-      },
-      {
-        "title": "The Resistible Rise of the AfD",
-        "link": "https://www.lrb.co.uk/blog/2026/september/the-resistible-rise-of-the-afd",
-        "published": "2026-09-16T16:50:21Z",
-        "description": "A desperate flurry of possible solutions, from the stopgap to the structural, has whirled across the German political establishment and media in the..."
-      },
-      {
-        "title": "Active Dying",
-        "link": "https://www.lrb.co.uk/blog/2026/september/active-dying",
-        "published": "2026-09-16T12:06:29Z",
-        "description": "In July 2021 my Uncle Bilal was dying of lymphoma. In the days before his death, our family gathered at his hospital bed to ‘keep him comfortable..."
-      },
-      {
         "title": "9/15",
         "link": "https://www.lrb.co.uk/blog/2026/september/9-15",
         "published": "2026-09-15T14:44:07Z",
@@ -1478,6 +1460,24 @@
         "link": "https://www.lrb.co.uk/blog/2026/september/a-first-step",
         "published": "2026-09-12T15:50:09Z",
         "description": "On Tuesday, the foreign secretary, Ed Miliband, made a statement to the House of Commons in which he announced an ‘import ban on goods from illegal..."
+      },
+      {
+        "title": "Why is Trump bombing Somalia?",
+        "link": "https://www.lrb.co.uk/blog/2026/september/why-is-trump-bombing-somalia",
+        "published": "2026-09-10T19:04:26Z",
+        "description": "Over the past twenty months, the US has launched airstrikes in Somalia using MQ-9 Reaper drones and sometimes manned aircraft at an average rate of..."
+      },
+      {
+        "title": "After the Bishyari",
+        "link": "https://www.lrb.co.uk/blog/2026/september/after-the-bishyari",
+        "published": "2026-09-08T17:39:00Z",
+        "description": "Not long after 8.30 a.m. on 26 August, a mass of rock and ice, more than six hundred metres wide, broke off the face of Langtang Lirung, a mountain in..."
+      },
+      {
+        "title": "Masks Off",
+        "link": "https://www.lrb.co.uk/blog/2026/september/masks-off",
+        "published": "2026-09-07T17:17:59Z",
+        "description": "One of the main differences between today’s far right and the fascism of the mid-20th century is the absence of a uniformed paramilitary street wing..."
       }
     ],
     "larb": [],
