@@ -387,10 +387,22 @@
     "reuters": [],
     "bbc": [
       {
+        "title": "Man City found guilty of majority of 115 financial rule breaches",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-25T20:11:12Z",
+        "description": "The club, which denies all wrongdoing, is accused of breaching the Premier League's financial rules between 2009 and 2018."
+      },
+      {
         "title": "Watch: What could the potential sanctions for Man City be?",
         "link": "https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&at_campaign=rss",
         "published": "2026-09-25T14:55:14Z",
         "description": "Football finance expert Kieran Maguire says the potential sanctions for Manchester City will be 'significant' after the sources told BBC Sport that the club has been found guilty of breaking the majority of the 115 financial rules they were accused of breaching."
+      },
+      {
+        "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+        "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-25T23:38:48Z",
+        "description": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators."
       },
       {
         "title": "I'm not tempted to call an early election, Burnham says",
@@ -399,22 +411,16 @@
         "description": "The prime minister told the BBC an early poll would throw the country into a \"backward-looking process\"."
       },
       {
-        "title": "Special agents' blood and urine test results stolen in FBI hack",
-        "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-25T13:56:16Z",
-        "description": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks."
+        "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+        "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-25T22:43:54Z",
+        "description": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said."
       },
       {
-        "title": "Some BBC channels and radio stations may well have to close, director general says",
-        "link": "https://www.bbc.co.uk/news/articles/c6grv78d59jpo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-25T12:00:11Z",
-        "description": "The BBC's financial situation \"may well mean\" some channels and stations close, Matt Brittin says."
-      },
-      {
-        "title": "Daniel Thomas pleads not guilty after dinghy slashed",
-        "link": "https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-25T15:01:42Z",
-        "description": "Daniel Thomas is accused of criminal damage after a video appeared to show him slashing at a dinghy."
+        "title": "Trump's plans for massive arch move ahead",
+        "link": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-25T18:27:46Z",
+        "description": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\"."
       },
       {
         "title": "U2 celebrate 50th anniversary at the school where they formed",
@@ -423,92 +429,74 @@
         "description": "The rock band go back to their roots, playing a gig in the Dublin playground where they first met."
       },
       {
-        "title": "Noah Woods left playground through gap in fence, inquest hears",
-        "link": "https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-25T12:51:48Z",
-        "description": "Noah's mother tells parents to \"hold their children a little tighter and cherish every moment\"."
-      },
-      {
-        "title": "Zelensky says Russia has widened attacks to hit Ukraine's data centres",
+        "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
         "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-25T18:02:55Z",
+        "published": "2026-09-25T20:47:49Z",
         "description": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president."
       }
     ],
     "aljazeera": [
       {
-        "title": "Iraqi airports halt Iranian flights after new US aviation sanctions",
-        "link": "https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions?traffic_source=rss",
-        "published": "2026-09-25T18:30:20Z",
-        "description": "Baghdad, Najaf, Erbil and Sulaimaniyah airports suspend flights as US ramps up pressure on Iran's aviation sector."
+        "title": "Pope Leo XIV warns AI could undermine humanity during France visit",
+        "link": "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss",
+        "published": "2026-09-25T23:21:52Z",
+        "description": "Thousands gather in Paris as the pope warns against a 'paradise of machines' at the Elysee Palace."
       },
       {
-        "title": "India’s Cockroach movement joins opposition push to oust election chief",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-india-election-chief-protests-sv?traffic_source=rss",
-        "published": "2026-09-25T18:16:47Z",
-        "description": "India’s youth-led Cockroach Janta Party has joined opposition calls for election chief Gyanesh Kumar to resign."
+        "title": "Iran to reopen Strait of Hormuz within a week if US agrees to plan",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-to-reopen-strait-of-hormuz-within-a-week-if-us-agrees-to-plan?traffic_source=rss",
+        "published": "2026-09-25T22:33:27Z",
+        "description": "Iran says it has given the US a seven-day plan to reopen the Strait of Hormuz, with the choice to accept now up to them"
       },
       {
-        "title": "Families fleeing Yemen’s war face displacement, hunger and water shortages",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/families-fleeing-yemens-war-face-displacement-hunger-and-water-shortages?traffic_source=rss",
-        "published": "2026-09-25T18:15:43Z",
-        "description": "Fighting between Houthi and government-aligned forces forces families out of their homes in Yemen."
+        "title": "DR Congo’s Ebola outbreak spreads to two new health zones, WHO says",
+        "link": "https://www.aljazeera.com/news/2026/9/25/dr-congos-ebola-outbreak-spreads-to-two-new-health-zones-who-says?traffic_source=rss",
+        "published": "2026-09-25T22:16:35Z",
+        "description": "Health workers struggle as new Ebola cases are found in border regions of South Ubangi and Haut-Uele."
       },
       {
-        "title": "Poland boosts air defence after ‘Russian provocations’ amid Ukraine war",
-        "link": "https://www.aljazeera.com/news/2026/9/25/poland-boosts-air-defence-after-russian-provocations-amid-ukraine-war?traffic_source=rss",
-        "published": "2026-09-25T18:05:32Z",
-        "description": "Alleged incursions put NATO nations on alert as Ukraine launches strikes on Russia during parliamentary voting."
+        "title": "Netanyahu calls Al Jazeera a ‘toxic media outlet’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss",
+        "published": "2026-09-25T21:37:35Z",
+        "description": "Israeli Prime Minister Benjamin Netanyahu called Al Jazeera a “toxic media outlet.”"
       },
       {
-        "title": "US top court allows Trump to use controversial voter verification system",
-        "link": "https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss",
-        "published": "2026-09-25T17:45:24Z",
-        "description": "Voting rights groups have warned system may falsely identify voters as non-citizens, leading to disenfranchisement."
+        "title": "Mbappe goal overshadowed by knee injury to mar Zidane debut France win",
+        "link": "https://www.aljazeera.com/sports/2026/9/25/mbappe-goal-overshadowed-by-knee-injury-to-mar-zidane-debut-france-win?traffic_source=rss",
+        "published": "2026-09-25T21:32:43Z",
+        "description": "Kylian Mbappe scores the only goal of France's win in Turkiye, but Real Madrid striker immediately forced off by injury."
       },
       {
-        "title": "Lebanese in Brazil, Brazilian in Lebanon",
-        "link": "https://www.aljazeera.com/features/longform/2026/9/25/lebanese-in-brazil-brazilian-in-lebanon?traffic_source=rss",
-        "published": "2026-09-25T17:44:39Z",
-        "description": "Their families left Lebanon generations ago. For some Lebanese Brazilians, Lebanon’s pull never disappeared."
+        "title": "What would a US diesel export ban mean for global fuel prices?",
+        "link": "https://www.aljazeera.com/economy/2026/9/25/what-would-a-us-diesel-export-ban-mean-for-global-fuel-prices?traffic_source=rss",
+        "published": "2026-09-25T21:28:56Z",
+        "description": "Energy experts warn US diesel export ban could increase fuel costs domestically and internationally."
       },
       {
-        "title": "Al Jazeera rejects Netanyahu’s attack on journalists in UN speech",
-        "link": "https://www.aljazeera.com/news/2026/9/25/al-jazeera-rejects-netanyahus-attack-on-journalists-in-un-speech?traffic_source=rss",
-        "published": "2026-09-25T17:34:16Z",
-        "description": "Israeli PM's criticism of Al Jazeera during UNGA address threatens safety of journalists, the media network says."
+        "title": "Italy crisis deepens as Belgium’s win stalls World Cup rebuild in Rome",
+        "link": "https://www.aljazeera.com/sports/2026/9/25/belgium-win-deepens-italy-crisis-as-latest-world-cup-rebuild-begins?traffic_source=rss",
+        "published": "2026-09-25T21:20:05Z",
+        "description": "Belgium win 2-0 in Italy as Nations League opener is played out in front of nearly half empty Stadio Olimpico."
       },
       {
-        "title": "Timeline: Man City’s Premier League financial charges to reported verdict",
-        "link": "https://www.aljazeera.com/sports/2026/9/25/timeline-man-citys-premier-league-financial-charges-to-reported-verdict?traffic_source=rss",
-        "published": "2026-09-25T17:20:58Z",
-        "description": "City reportedly found guilty of all but one of the 115 charges that were first brought in February 2023."
+        "title": "Houthi attack on Mecca, Medina would cross ‘red line’, Pakistan PM tells UN",
+        "link": "https://www.aljazeera.com/news/2026/9/25/houthi-attack-on-mecca-medina-would-cross-red-line-pakistan-pm-tells-un?traffic_source=rss",
+        "published": "2026-09-25T20:59:43Z",
+        "description": "Shehbaz Sharif speaks as Islamabad, Riyadh and Ankara army chiefs meet to discuss Mecca pact, closer military ties."
       }
     ],
     "ft": [
       {
-        "title": "Houthis promise not to target European ships",
-        "link": "https://www.ft.com/content/a255d9e6-ae6f-4b30-9ca6-b694663f547c?syn-25a6b1a6=1",
-        "published": "2026-09-25T16:14:24Z",
-        "description": "Pledge comes as container shipping through key Bab al-Mandeb Strait reaches highest level in almost three years"
+        "title": "Soaring bond yields ‘not even close’ to cooling red-hot US economy, investors say",
+        "link": "https://www.ft.com/content/bcf0715b-4292-428e-80ec-e6702d430aa4?syn-25a6b1a6=1",
+        "published": "2026-09-25T20:00:09Z",
+        "description": "Rising borrowing costs so far show no sign of putting a brake on activity in world’s biggest economy"
       },
       {
-        "title": "Iran offers US new seven-day ceasefire proposal",
-        "link": "https://www.ft.com/content/917a9cba-6afd-4ba3-8742-2b7601ecc2ba?syn-25a6b1a6=1",
-        "published": "2026-09-25T16:16:21Z",
-        "description": "Foreign minister says plan could see Strait of Hormuz reopen within a week"
-      },
-      {
-        "title": "Former US spymaster Avril Haines: a third world war is ‘plausible’",
-        "link": "https://www.ft.com/content/8f1030c3-9ad0-45b2-86bf-71d8dec27be4?syn-25a6b1a6=1",
-        "published": "2026-09-25T12:00:26Z",
-        "description": "The security expert on the chances of a Trump-Xi deal on Taiwan, her interactions with President Biden — and why a third world war is a ‘plausible scenario’"
-      },
-      {
-        "title": "Pomp prevails over substance as Trump hosts Xi",
-        "link": "https://www.ft.com/content/cdff194b-8106-4f71-b5b8-d0dbaf2c4d79?syn-25a6b1a6=1",
-        "published": "2026-09-25T03:03:28Z",
-        "description": "Fanfare masks some of the US president’s own troubles, including his war in Iran and plummeting domestic popularity"
+        "title": "US bond sell-off pushes long-term yields to highest since 2004",
+        "link": "https://www.ft.com/content/c5af4151-2c14-481b-8145-f5ec1f43a3f4?syn-25a6b1a6=1",
+        "published": "2026-09-25T20:24:38Z",
+        "description": "Investors ‘don’t want to hold risk going into the weekend’, said one investor, as market heads for worst week since 2024"
       },
       {
         "title": "Bond ructions point to new danger zone in markets",
@@ -517,22 +505,34 @@
         "description": "Sell-offs of this scale and speed have the potential to light fires in other parts of the financial system"
       },
       {
-        "title": "US bond sell-off pushes long-term yields to new post-2004 high",
-        "link": "https://www.ft.com/content/c5af4151-2c14-481b-8145-f5ec1f43a3f4?syn-25a6b1a6=1",
-        "published": "2026-09-25T16:47:47Z",
-        "description": "Investors ‘don’t want to hold risk going into the weekend’, said one investor, as market heads for worst week since 2024"
+        "title": "Maga base recoils as Trump goes all-in on AI",
+        "link": "https://www.ft.com/content/e8a815e6-a105-42ea-938e-352b8c8d5c3b?syn-25a6b1a6=1",
+        "published": "2026-09-25T04:00:30Z",
+        "description": "US president’s Big Tech boosterism is alienating once-loyal supporters just weeks ahead of the midterms"
+      },
+      {
+        "title": "Pomp prevails over substance as Trump hosts Xi",
+        "link": "https://www.ft.com/content/cdff194b-8106-4f71-b5b8-d0dbaf2c4d79?syn-25a6b1a6=1",
+        "published": "2026-09-25T03:03:28Z",
+        "description": "Fanfare masks some of the US president’s own troubles, including his war in Iran and plummeting domestic popularity"
+      },
+      {
+        "title": "OpenAI says governments among ‘dozens’ of organisations hacked by its agents",
+        "link": "https://www.ft.com/content/651024b1-d1ce-40c1-acae-a92c3505d3f1?syn-25a6b1a6=1",
+        "published": "2026-09-25T22:18:19Z",
+        "description": "Company says its models leaked images shared by users in a disclosure that is likely to further inflame AI safety fears"
+      },
+      {
+        "title": "US Supreme Court lets Trump vet voters’ immigration status",
+        "link": "https://www.ft.com/content/469c3f85-ee58-41ed-8289-33866a72549a?syn-25a6b1a6=1",
+        "published": "2026-09-25T16:22:36Z",
+        "description": "Ruling boosts the president’s efforts to overhaul election rules before the midterms"
       },
       {
         "title": "Manchester City found guilty of breaching Premier League rules",
         "link": "https://www.ft.com/content/2f820ff9-28c2-4e53-9948-6be009a8a23c?syn-25a6b1a6=1",
         "published": "2026-09-25T16:02:39Z",
         "description": "Independent panel finds club guilty on 114 out of 115 charges after a lengthy investigation into financial rule breaches"
-      },
-      {
-        "title": "David Beckham takes $51mn dividend as World Cup deals lift earnings",
-        "link": "https://www.ft.com/content/7273f2f9-e630-479d-a1b7-ba29cbb96b5e?syn-25a6b1a6=1",
-        "published": "2026-09-25T04:00:38Z",
-        "description": "Tournament boosts profits at DRJB Holdings, the former footballer’s brand business company, to record level last year"
       }
     ],
     "restofworld": [
@@ -692,10 +692,22 @@
     "chelsea_sky": [],
     "guardianfootball": [
       {
+        "title": "The age of asterisk: Manchester City’s glittering era of success is tainted now | Barney Ronay",
+        "link": "https://www.theguardian.com/football/2026/sep/25/manchester-city-era-success-all-tainted-now-premier-league-charges",
+        "published": "2026-09-25T18:36:58Z",
+        "description": "Friday’s verdict against Manchester City will change everything we understood about their Premier League title triumphs Welcome, then, to the age of asterisk. Whatever punishment Manchester City and their owners receive at the end of this process, the fact remains, everything is tainted now. Overturn the tables, scatter the gold coins. Throw your medals in the bin. You cheated to win them. Whatever that thing was, it’s done. Stolen glory, stolen income, stolen joy. Every chant, every “we won the lot”, every awkward documentary scene about the deep, throbbing heart of this empire of love. It all looks odd, sinister, cold, sloppy, but also, and this is always the best response, utterly…"
+      },
+      {
         "title": "Manchester City found guilty of breaking Premier League’s financial fair play rules",
         "link": "https://www.theguardian.com/football/2026/sep/25/manchester-city-found-guilty-of-breaking-premier-leagues-financial-fair-play-rules",
         "published": "2026-09-25T15:35:49Z",
-        "description": "City face sanctions after more than 100 rule breaches Club insists it is innocent and is expected to appeal Manchester City have been found guilty of the vast majority of more than a hundred charges related to breaches of the Premier League’s financial rules, throwing English football into turmoil. The serial champions now face the possibility of being relegated from the Premier League, or expelled from the competition altogether, after a verdict in the biggest disciplinary case in the history of the sport was finally delivered. Continue reading..."
+        "description": "City face sanctions after more than 100 rule breaches Club insist on innocence and are expected to appeal Manchester City have been found guilty of the vast majority of more than a hundred charges related to breaches of the Premier League’s financial rules, throwing English football into turmoil. The serial champions now face the possibility of being relegated from the Premier League, or expelled from the competition altogether, after a verdict in the biggest disciplinary case in the history of the sport was finally delivered. Continue reading..."
+      },
+      {
+        "title": "Andy Robertson says players are ‘not to blame’ for Manchester City’s actions",
+        "link": "https://www.theguardian.com/football/2026/sep/25/andy-robertson-says-players-are-not-to-blame-for-manchester-citys-actions",
+        "published": "2026-09-25T20:16:41Z",
+        "description": "City found guilty of breaching Premier League rules Liverpool finished second to City in 2019 and 2022 The former Liverpool defender Andy Robertson believes trophy-winning Manchester City players should not have their achievements diminished or removed because of the actions of the club’s ownership. Robertson was flying from a training camp in Spain to Slovenia with the Scotland squad when news emerged that City have been found guilty of multiple breaches of the Premier League’s financial fair play rules. The Scotland captain, who regularly jousted with City during his nine years at Anfield from 2017, was taken aback when news of the upcoming verdict was put to him in Ljubljana. Continue…"
       },
       {
         "title": "We Manchester City fans fear relegation and losing trophies … but club are bang to rights",
@@ -704,28 +716,16 @@
         "description": "Despite attempts to legally filibuster the charges out of existence for the past three years, we’ve rightfully failed It couldn’t have been more prophetic. In 2008, 15 years before Manchester City were charged with financial fraud, fans started singing “City’s going down with a billion in the bank” to the tune of Yellow Submarine. This was because the former Thailand president Thaksin Shinawatra’s 15-month ownership of City had come to an abrupt end when more than £1bn of his assets were frozen . And although Sheikh Mansour of the UAE had stepped in to save City, we were sinking fast. Despite the UAE’s untold riches, by December we were in the relegation zone. It’s called Cityitis –…"
       },
       {
-        "title": "Manchester City v Premier League: how the legal teams lined up",
-        "link": "https://www.theguardian.com/football/2026/sep/25/manchester-city-v-premier-league-how-the-legal-teams-lined-up",
-        "published": "2026-09-25T15:56:11Z",
-        "description": "David Pannick may not earn as much as Erling Haaland but the club spared no expense to defend themselves against more than 100 charges The result is finally in from a highly anticipated Premier League match-up: the legal battle which pitted the league against Manchester City, the team that have dominated the competition in recent years. As befitting such a heavyweight clash, both sides fielded an impressive team of lawyers, which lined up as follows: Continue reading..."
-      },
-      {
-        "title": "Turkey v France, Italy v Belgium, Northern Ireland win in Georgia: Nations League – live",
-        "link": "https://www.theguardian.com/football/live/2026/sep/25/turkey-v-france-italy-v-belgium-and-more-nations-league-clockwatch-live",
-        "published": "2026-09-25T18:49:32Z",
-        "description": "⚽ Updates from Friday evening’s Nations League games ⚽ Live scoreboard | Read Football Daily | Mail Michael Before kick-off in Italy , there is a minute’s applause for Sandro Mazzola, the legendary Inter midfielder who won two European Cups and a World Cup runners-up medal. You can read our obituary, by Richard Williams, here . The teams are out! It’s quite the atmosphere in Izmit as the Turkish fans give the France side a warm welcome. Real Madrid teammates Kylian Mbappé and Arda Güler embrace, both talismen for their countries. Zidane looks typically stoic in the French dugout, dressed head to toe in navy suit, shirt, tie. Continue reading..."
-      },
-      {
         "title": "Thomas Tuchel warns Cole Palmer about ‘missing way too many’ England camps",
         "link": "https://www.theguardian.com/football/2026/sep/25/thomas-tuchel-cole-palmer-england-spain-nations-league",
         "published": "2026-09-25T18:00:13Z",
         "description": "Head coach said latest withdrawal is ‘missed opportunity’ England host Spain in Nations League on Saturday Thomas Tuchel has thrown Cole Palmer’s England future into major doubt by questioning whether the Chelsea attacker wants to be part of his squad. England’s head coach did not hold back on Palmer’s latest withdrawal from international duty, warning that the 24-year-old has missed too many opportunities to play for his country. Palmer has only 14 caps and his decision not to join up with the squad this week, because of a minor muscular injury, caused disappointment given he was left out of Tuchel’s World Cup squad after struggling with form and fitness last season. Continue reading..."
       },
       {
-        "title": "Top European leagues heighten pressure on Infantino with call for major changes at Fifa",
-        "link": "https://www.theguardian.com/football/2026/sep/25/gianni-infantino-fifa-pressure-reform-premier-league-bundesliga-la-liga-serie-a",
-        "published": "2026-09-25T09:28:33Z",
-        "description": "Four leagues says Fifa governance ‘not fit for purpose’ They criticise ‘expansionism’ and want more input The Premier League has joined forces with La Liga, Serie A and the Bundesliga to call for urgent governance reform at Fifa after the World Cup sell-off debacle (FFE) as Gianni Infantino prepares to seek a fourth term as president. Their strongly worded statement is the latest indication that Infantino’s willingness to hold an external governance review does not go far enough, after the Guardian revealed that several Fifa council members ha ve rejected that proposal . Continue reading..."
+        "title": "Nations League: Kylian Mbappé injured after scoring France winner in Turkey",
+        "link": "https://www.theguardian.com/football/2026/sep/25/nations-league-roundup-turkey-france-kylian-mbappe-italy-belgium",
+        "published": "2026-09-25T21:35:43Z",
+        "description": "France beat 10-man Turkey 1-0 to start Zidane era Italy 0-2 Belgium, Georgia 0-1 Northern Ireland Kylian Mbappé limped off with an apparent knee injury, moments after scoring France’s winner against Turkey in the Nations League on Friday. The Real Madrid striker rifled in a low shot in the 55th minute after he was set up by Michael Olise. Soon after his record-extending 67th France goal, Mbappé sat on the ground and grimaced as he rubbed the area around his left knee. Continue reading..."
       },
       {
         "title": "Israel’s match with Republic of Ireland will be an eerie occasion as political debate rages on",
@@ -734,10 +734,10 @@
         "description": "Despite fierce opposition to the Nations League encounters across Irish society, a boycott has not materialised The match is being played in a neutral country and the stands are likely to be empty but Sunday’s Nations League fixture between Israel and the Republic of Ireland will nonetheless have the eyes of the world upon it. Since February’s draw paired the sides against each other, voices across Irish society have demanded a boycott of the match. The Republic of Ireland’s government says Israel is committing genocide through its military action in Gaza, and the Football Association of Ireland (FAI) wants Israel suspended from international competition. But unless Ireland’s players…"
       },
       {
-        "title": "Liverpool’s Cody Gakpo reflects on ‘tough summer’ after collapse of Manchester City move",
+        "title": "Liverpool’s Cody Gakpo reflects on ‘tough summer … in football and life’",
         "link": "https://www.theguardian.com/football/2026/sep/25/liverpool-cody-gakpo-tough-summer-manchester-city",
         "published": "2026-09-25T16:00:11Z",
-        "description": "Dutchman’s second son died during pregnancy in June ‘If I have no control over the situation, I will not worry’ Cody Gakpo has reflected on a “very tough” summer that ended with the collapse of a transfer to Manchester City, revealing Liverpool changed their minds about letting him join their top-flight rivals. The forward scored a superb stoppage-time equaliser to earn the Netherlands a 1-1 draw in Thursday’s Nations League game against Germany, who are coached by his former club manager Jürgen Klopp. It continues a bright start to the season for Gakpo, who was an £80m target for City in August before talks stalled. Earlier in the summer he was struck by tragedy, announcing with his…"
+        "description": "Gakpo’s second son died during pregnancy in June Dutch winger almost left Anfield for Manchester City Cody Gakpo has reflected on a “very tough” summer that ended with the collapse of a transfer to Manchester City, revealing Liverpool changed their minds about letting him join their top-flight rivals. The forward scored a superb stoppage-time equaliser to earn the Netherlands a 1-1 draw in Thursday’s Nations League game against Germany, who are coached by his former club manager Jürgen Klopp. It continues a bright start to the season for Gakpo, who was an £80m target for City in August before talks stalled. Earlier in the summer he was struck by tragedy, announcing with his partner, Noa…"
       }
     ],
     "spielverlagerung": [
@@ -1147,6 +1147,12 @@
     "criterion": [],
     "rogerebert": [
       {
+        "title": "NYFF 2026: Opening Night Preview and Early Highlights",
+        "link": "https://www.rogerebert.com/festivals/nyff-2026-opening-night-preview-and-early-highlights",
+        "published": "2026-09-25T19:50:22Z",
+        "description": "A preview of early highlights and anticipated titles from this year's NY Film Festival."
+      },
+      {
         "title": "I’m Not Going Anywhere: Twiggy and Sadie Frost on “Twiggy”",
         "link": "https://www.rogerebert.com/interviews/im-not-going-anywhere-twiggy-and-sadie-frost-on-twiggy",
         "published": "2026-09-25T13:00:00Z",
@@ -1187,12 +1193,6 @@
         "link": "https://www.rogerebert.com/festivals/tiff-2026-a-canadian-critics-looks-at-this-years-fest",
         "published": "2026-09-23T14:33:12Z",
         "description": "Our Canadian correspondent on his country's biggest film event."
-      },
-      {
-        "title": "TIFF 2026: The Assassin(s), Diary of a Mad Old Man, It’s My Time",
-        "link": "https://www.rogerebert.com/festivals/tiff-2026-the-assassins-diary-of-an-old-man-its-my-time",
-        "published": "2026-09-23T14:15:34Z",
-        "description": "On three Gala Presentations from TIFF this year."
       }
     ],
     "sightandsound": [],
@@ -1450,6 +1450,24 @@
     "nyrb": [],
     "lrb": [
       {
+        "title": "Public Positions",
+        "link": "https://www.lrb.co.uk/blog/2026/september/public-positions",
+        "published": "2026-09-23T14:20:38Z",
+        "description": "Given much of the coverage of the Ed Sheeran-Macklemore debacle, you could be forgiven for thinking that Sheeran had been dropped from his tour for..."
+      },
+      {
+        "title": "Layers of Denial",
+        "link": "https://www.lrb.co.uk/blog/2026/september/layers-of-denial",
+        "published": "2026-09-23T13:45:53Z",
+        "description": "The frenzy in Israel surrounding the documentary NAZA is fundamentally undemocratic. That is what happens after years of extreme right-wing populism,..."
+      },
+      {
+        "title": "Johnny Marr’s Guitars",
+        "link": "https://www.lrb.co.uk/blog/2026/september/johnny-marr-s-guitars",
+        "published": "2026-09-21T17:40:32Z",
+        "description": "The Smiths kicked off the Scottish leg of their Meat is Murder tour at the Magnum Leisure Centre in Irvine New Town on 22 September 1985, and I was at..."
+      },
+      {
         "title": "In Bishkek",
         "link": "https://www.lrb.co.uk/blog/2026/september/in-bishkek",
         "published": "2026-09-18T15:50:28Z",
@@ -1460,24 +1478,6 @@
         "link": "https://www.lrb.co.uk/blog/2026/september/human-melting",
         "published": "2026-09-17T14:46:18Z",
         "description": "Planning regulations were modified last year, with AI data centres redefined as ‘nationally significant infrastructure projects’. Any attempt by a..."
-      },
-      {
-        "title": "The Resistible Rise of the AfD",
-        "link": "https://www.lrb.co.uk/blog/2026/september/the-resistible-rise-of-the-afd",
-        "published": "2026-09-16T16:50:21Z",
-        "description": "A desperate flurry of possible solutions, from the stopgap to the structural, has whirled across the German political establishment and media in the..."
-      },
-      {
-        "title": "Active Dying",
-        "link": "https://www.lrb.co.uk/blog/2026/september/active-dying",
-        "published": "2026-09-16T12:06:29Z",
-        "description": "In July 2021 my Uncle Bilal was dying of lymphoma. In the days before his death, our family gathered at his hospital bed to ‘keep him comfortable..."
-      },
-      {
-        "title": "9/15",
-        "link": "https://www.lrb.co.uk/blog/2026/september/9-15",
-        "published": "2026-09-15T14:44:07Z",
-        "description": "On Saturday, 15 September 2001, a friend and I went to help the members of an Anglia TV documentary team collect their belongings from a building near..."
       }
     ],
     "larb": [],
@@ -1667,6 +1667,18 @@
     ],
     "nautilus": [
       {
+        "title": "Let’s Do Some Leaf-Peeping From Space",
+        "link": "https://nautil.us/lets-do-some-leaf-peeping-from-space-1285302/",
+        "published": "2026-09-25T22:00:00Z",
+        "description": "Fall foliage from hundreds of miles up"
+      },
+      {
+        "title": "How Gentle Tapping on the Shin Heals the Brain",
+        "link": "https://nautil.us/how-gentle-tapping-on-the-shin-heals-the-brain-1285299/",
+        "published": "2026-09-25T20:00:00Z",
+        "description": "The shin bone’s connected to the… brain?"
+      },
+      {
         "title": "Why We Stay Afraid",
         "link": "https://nautil.us/why-we-stay-afraid-1285292/",
         "published": "2026-09-25T18:00:00Z",
@@ -1701,18 +1713,6 @@
         "link": "https://nautil.us/in-a-culture-obsessed-with-staying-young-we-ignore-the-many-benefits-of-aging-1285263/",
         "published": "2026-09-24T20:00:00Z",
         "description": "Things can get better with age"
-      },
-      {
-        "title": "Can a Drug Reverse Age-Related Muscle Weakness?",
-        "link": "https://nautil.us/can-a-drug-reverse-age-related-muscle-weakness-1285260/",
-        "published": "2026-09-24T19:00:00Z",
-        "description": "New research focuses on the neuromuscular junction"
-      },
-      {
-        "title": "How Social Learning Keeps Orangutans Fed",
-        "link": "https://nautil.us/how-social-learning-keeps-orangutans-fed-1285257/",
-        "published": "2026-09-24T18:00:00Z",
-        "description": "Orangutans learn by watching, then trying"
       }
     ],
     "worksinprogress": [],
@@ -1818,7 +1818,7 @@
     ],
     "parisreview": [
       {
-        "title": "“Do You Think This Conversation Is Going Well?” and Other Pickup Lines",
+        "title": "Notes from a Party for a Dating App “Grounded in Lacanian Psycholinguistics”",
         "link": "https://www.theparisreview.org/blog/2026/09/25/co-star-app-dispatch-readme/",
         "published": "2026-09-25T14:00:26Z",
         "description": "“The dating app has engineered what one might call an Enneagrammatical system of bookish star signs.”"
