@@ -387,40 +387,22 @@
     "reuters": [],
     "bbc": [
       {
-        "title": "Controversial Orange Order march to go ahead for first time in nearly 30 years after late night drama",
-        "link": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-27T02:25:07Z",
-        "description": "After a series of court rulings the High Court ruled in the early hours of Sunday morning that the Parades Commission decision allowing a restricted parade should be respected"
+        "title": "Ten NHS staff removed over Noah Woods data breach",
+        "link": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-27T08:28:49Z",
+        "description": "East Suffolk and North Essex NHS Foundation Trust says it has launched an \"urgent\" investigation."
       },
       {
-        "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
-        "link": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-26T18:50:02Z",
-        "description": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help."
-      },
-      {
-        "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
+        "title": "Faisal Islam: The two big decisions the chancellor must make",
         "link": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
         "published": "2026-09-26T23:00:42Z",
         "description": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam."
       },
       {
-        "title": "Iran says it will wait for official US response after Trump rejects Strait of Hormuz proposal",
+        "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
         "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-27T02:16:52Z",
-        "description": "The US president earlier said that Tehran only made the proposal to open the strait within seven days because \"they're losing so badly\"."
-      },
-      {
-        "title": "Heathrow Airport warns third runway could be delayed by four years",
-        "link": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-26T16:32:42Z",
-        "description": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\"."
-      },
-      {
-        "title": "Republic of Ireland to wear black armbands for Israel game",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-26T19:59:00Z",
-        "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel."
+        "published": "2026-09-27T07:44:11Z",
+        "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments."
       },
       {
         "title": "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
@@ -432,83 +414,95 @@
         "title": "Can you eat ultra-processed foods and still be healthy? A dietitian analysed my weekly shop",
         "link": "https://www.bbc.co.uk/news/articles/cqn4knlj9v81o?at_medium=RSS&at_campaign=rss",
         "published": "2026-09-26T23:03:39Z",
-        "description": "UPFs are linked to a range of health problems. But no-one seems to be able to agree why."
+        "description": "UPFs are linked to a range of health problems. But no-one seems able to agree on why."
+      },
+      {
+        "title": "Why families are being urged to look closer on autumn walks",
+        "link": "https://www.bbc.co.uk/news/articles/cvlylxxp3xg9o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-27T06:25:05Z",
+        "description": "Experts urge families to spot, photograph and enjoy autumn fungi on their doorstep."
+      },
+      {
+        "title": "Killer Christa Pike is to be executed within days but her defence say she's a victim too",
+        "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-26T23:04:08Z",
+        "description": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today."
+      },
+      {
+        "title": "Young people in China are fangirling over a professor who gets their anxiety",
+        "link": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-26T22:02:18Z",
+        "description": "China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z."
       }
     ],
     "aljazeera": [
       {
-        "title": "Powerful storm batters US Northeast disrupting power and travel",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/powerful-storm-batters-us-northeast-disrupting-power-and-travel?traffic_source=rss",
-        "published": "2026-09-27T02:19:34Z",
-        "description": "Powerful winds and towering waves are battering the US Northeast, causing flight chaos and blackouts."
+        "title": "Massive Attack singer arrested over pro-Palestine protest in UK",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/massive-attack-singer-arrested-over-pro-palestine-protest-in-uk?traffic_source=rss",
+        "published": "2026-09-27T08:49:47Z",
+        "description": "Massive Attack singer arrested over pro-Palestine protest in UK"
       },
       {
-        "title": "Did the biggest week of diplomacy make headway in ending the US-Iran war?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/did-the-biggest-week-of-diplomacy-make-headway-in-ending-the-us-iran-war?traffic_source=rss",
-        "published": "2026-09-27T01:59:17Z",
-        "description": "The UN General Assembly wraps up with mixed diplomatic outcomes."
+        "title": "Can Iran shift trade north to Caspian Sea as war impairs Strait of Hormuz?",
+        "link": "https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz?traffic_source=rss",
+        "published": "2026-09-27T08:49:32Z",
+        "description": "Iran is looking for alternatives to export its oil as the US blockades its southern ports."
       },
       {
-        "title": "Venezuela frees 39 political prisoners after post-Maduro talks",
-        "link": "https://www.aljazeera.com/news/2026/9/27/venezuela-frees-39-political-prisoners-after-post-maduro-talks?traffic_source=rss",
-        "published": "2026-09-27T01:42:46Z",
-        "description": "The releases follow a second round of negotiations between Venezuela's interim government and the opposition."
+        "title": "Djibouti urges world to help as Yemen war drives refugee influx",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/djibouti-urges-world-to-help-as-yemen-war-drives-refugee-influx?traffic_source=rss",
+        "published": "2026-09-27T08:35:25Z",
+        "description": "Djibouti urges world to help as Yemen war drives refugee influx"
       },
       {
-        "title": "EU unlocks humanitarian aid for Africa and other crisis-hit regions",
-        "link": "https://www.aljazeera.com/news/2026/9/27/eu-unlocks-humanitarian-aid-for-africa-and-other-crisis-hit-regions?traffic_source=rss",
-        "published": "2026-09-27T01:27:13Z",
-        "description": "EU allocates majority of aid to sub-Saharan Africa to fund actions related to migration, conflict and food insecurity."
+        "title": "Suicide bombing in northwest Pakistan kills at least 12",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/suicide-bombing-in-northwest-pakistan-kills-at-least-12?traffic_source=rss",
+        "published": "2026-09-27T08:26:24Z",
+        "description": "A vehicle laden with explosives rammed into a roadside checkpoint in Pakistan, killing at least a dozen people."
       },
       {
-        "title": "Araghchi ignores Trump, waits for mediators’ response on Hormuz",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/araghchi-ignores-trump-waits-for-mediators-response-on-hormuz?traffic_source=rss",
-        "published": "2026-09-27T00:50:31Z",
-        "description": "Iran says it’s still waiting for an official response from the US on its proposal to reopen the Strait of Hormuz."
+        "title": "Photos: Pope Leo draws hundreds of thousands for open-air Mass in Paris",
+        "link": "https://www.aljazeera.com/gallery/2026/9/27/photos-pope-leo-draws-hundreds-of-thousands-for-open-air-mass-in-paris?traffic_source=rss",
+        "published": "2026-09-27T08:22:01Z",
+        "description": "Pope Leo XIV celebrates an open-air mass for hundreds of thousands of believers on the Champs-Elysees."
       },
       {
-        "title": "Iran war live: Tehran awaits official response as Trump rejects Hormuz plan",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss",
-        "published": "2026-09-27T00:00:00Z",
-        "description": "US president rejects Iran's seven-day plan to reopen the Strait of Hormuz, saying the deal is not 'acceptable'."
+        "title": "Israel’s Netanyahu criticises opposition uniting against him for elections",
+        "link": "https://www.aljazeera.com/news/2026/9/27/israels-netanyahu-criticises-opposition-uniting-against-him-for-election?traffic_source=rss",
+        "published": "2026-09-27T08:10:22Z",
+        "description": "Five opposition leaders agree to cooperate to boost voter turnout to secure a majority in the October 27 elections."
       },
       {
-        "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss",
-        "published": "2026-09-26T23:49:30Z",
-        "description": "Iran’s Pezeshkian says Tehran no longer trusts US talks, shortly before Trump rejected its Hormuz proposal."
+        "title": "Iceland FM hits back at Netanyahu over ‘moral cowards’ UNGA remark",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iceland-fm-hits-back-at-netanyahu-over-moral-cowards-unga-remark?traffic_source=rss",
+        "published": "2026-09-27T08:05:09Z",
+        "description": "Iceland’s FM hit back at Netanyahu after he called diplomats who walked out of his UN address ‘moral cowards’."
       },
       {
-        "title": "Four American tourists among 6 killed in suspected gas leak blast in Athens",
-        "link": "https://www.aljazeera.com/news/2026/9/26/four-american-tourists-among-6-killed-in-suspected-gas-leak-blast-in-athens?traffic_source=rss",
-        "published": "2026-09-26T23:26:31Z",
-        "description": "Two women reportedly injured after building collapse in Athens' historic Plaka district."
+        "title": "Photos: Heavy rains and flooding in Bangkok force thousands into shelters",
+        "link": "https://www.aljazeera.com/gallery/2026/9/27/heavy-rain-and-flooding-in-bangkok-force-thousands-into-shelters?traffic_source=rss",
+        "published": "2026-09-27T07:49:58Z",
+        "description": "Continuous downpours have hammered several areas of Thailand’s capital."
       }
     ],
     "ft": [
       {
-        "title": "Foreign capital flows into US stocks hit record as appetite for debt fades",
-        "link": "https://www.ft.com/content/a1a1318b-8051-4539-a485-5a4e1d021578?syn-25a6b1a6=1",
-        "published": "2026-09-26T10:00:04Z",
-        "description": "Overseas purchases of US equities topped $940bn in the year to July, coinciding with strong gains in the S&P 500"
+        "title": "US housing crunch puts private equity in midterm campaign crosshairs",
+        "link": "https://www.ft.com/content/7e91f857-30d9-4bf9-b7c9-ec04d4a6e1ed?syn-25a6b1a6=1",
+        "published": "2026-09-27T04:00:11Z",
+        "description": "FT analysis shows that institutional investors are being blamed for soaring costs"
       },
       {
-        "title": "The great tourist tax boom",
-        "link": "https://www.ft.com/content/e6856a1a-77e4-42b5-bcd8-f91973ca9755?syn-25a6b1a6=1",
-        "published": "2026-09-26T04:00:32Z",
-        "description": "Some governments want to fight back the hordes"
+        "title": "De Beers bets on a taste for the real to restore diamonds’ sparkle",
+        "link": "https://www.ft.com/content/40ec5413-3990-40b8-8066-6d6c215626f7?syn-25a6b1a6=1",
+        "published": "2026-09-27T04:00:11Z",
+        "description": "Chief executive believes cultural shift back to ‘natural’ products can help it battle lab-grown rivals"
       },
       {
-        "title": "A tribute to great wrong ideas",
-        "link": "https://www.ft.com/content/d877455c-ee9a-4753-87e2-6e31522e3862?syn-25a6b1a6=1",
-        "published": "2026-09-26T04:00:32Z",
-        "description": "Francis Fukuyama’s famous thesis is not the only example of a useful intellectual mistake"
-      },
-      {
-        "title": "The climate doom-mongers now dread sovereign debt blowouts",
-        "link": "https://www.ft.com/content/9c071d82-4a23-4b77-b5dd-384e39a95140?syn-25a6b1a6=1",
-        "published": "2026-09-26T04:00:33Z",
-        "description": "The same people are gnashing the same teeth and making the same arguments"
+        "title": "The executives going ‘fractional’, not freelance",
+        "link": "https://www.ft.com/content/d08d8530-ef99-49f3-a7b3-a886139f6b27",
+        "published": "2026-09-27T04:00:11Z",
+        "description": "Some workers are choosing to be embedded at a senior level in several companies at a time"
       },
       {
         "title": "Trump and Xi to meet twice more after summit fails to resolve tensions",
@@ -517,22 +511,28 @@
         "description": "Observers say the US and China maintained good communications during state visit but achieved no breakthroughs in trade stand-off"
       },
       {
-        "title": "Trump rejects Iran’s ceasefire proposal to reopen Strait of Hormuz",
-        "link": "https://www.ft.com/content/4d71acf8-dda7-475e-88c5-5351f0176558?syn-25a6b1a6=1",
-        "published": "2026-09-26T17:01:19Z",
-        "description": "Tehran offered a week-long break in hostilities to kick-start peace talks aimed at ending seven-month-long conflict"
+        "title": "Gold-rich Nicaragua hands Chinese miners rights to a tenth of its land",
+        "link": "https://www.ft.com/content/452648fd-90d6-450f-9739-073f5b6a0d18?syn-25a6b1a6=1",
+        "published": "2026-09-27T04:00:11Z",
+        "description": "Dozens of mining concessions deepen Beijing’s strategic foothold as it tussles with US for influence in Central America"
       },
       {
-        "title": "Medicines run short in Iran under US sanctions",
-        "link": "https://www.ft.com/content/fb890a8d-f530-497e-8486-27186ee66b9b?syn-25a6b1a6=1",
-        "published": "2026-09-26T07:15:32Z",
-        "description": "Washington’s campaign to isolate the Islamic republic has made securing pharmaceuticals increasingly difficult"
+        "title": "Big companies warn lack of ‘AI openness’ could hit investment in Europe",
+        "link": "https://www.ft.com/content/aeabd0d5-be0e-4270-987e-0b119b24b355?syn-25a6b1a6=1",
+        "published": "2026-09-27T04:00:11Z",
+        "description": "Multinationals evaluating countries’ approach to AI before making expansion plans, say executives"
       },
       {
-        "title": "German and Russian foreign ministers meet for first time in over four years",
-        "link": "https://www.ft.com/content/ec92933f-7147-410e-8ade-ab09add476a7?syn-25a6b1a6=1",
-        "published": "2026-09-26T19:01:46Z",
-        "description": "Johann Wadephul said he warned Sergei Lavrov about drone incursions and urged de-escalation in Ukraine in ‘intense conversation’"
+        "title": "South Korea bets big on AI for all",
+        "link": "https://www.ft.com/content/2c5e6862-65b6-4569-8c03-464e686ea88e",
+        "published": "2026-09-27T04:00:11Z",
+        "description": "Deputy prime minister is an unabashed evangelist for the technology even as some fear it could pose catastrophic risks"
+      },
+      {
+        "title": "Armani to kick off stake sale talks with LVMH and L’Oréal",
+        "link": "https://www.ft.com/content/8dd0d877-5254-48d5-ae33-c181bf9d3c64?syn-25a6b1a6=1",
+        "published": "2026-09-27T04:00:11Z",
+        "description": "Fashion company to meet French groups and EssilorLuxottica in accordance with wishes of late founder Giorgio Armani"
       }
     ],
     "restofworld": [
@@ -692,28 +692,34 @@
     "chelsea_sky": [],
     "guardianfootball": [
       {
-        "title": "Oyarzabal earns Spain Nations League win as England pay for Kane penalty miss",
-        "link": "https://www.theguardian.com/football/2026/sep/26/england-spain-nations-league-match-report",
-        "published": "2026-09-26T21:05:35Z",
-        "description": "It was another high-profile game when Thomas Tuchel’s England let a lead slip in the second half and went on to lose. But unlike the last time, it was not one for recriminations. The England support can accept losing when their team plays with cut and thrust. More to the point, they can accept losing to Spain who, at times, played football from a different stratosphere. England were game. They were driven by Jude Bellingham, who ran on adrenaline and played to the point of maximum expression. They had positive surges either side of the interval, especially the one towards the end of the first half when goals from Anthony Gordon and Harry Kane put them in charge, hauling them back after…"
+        "title": "Israel game goes ahead after Irish players’ vote; reaction to Spain’s win over England – matchday live",
+        "link": "https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-england-spain-matchday-live",
+        "published": "2026-09-27T08:46:53Z",
+        "description": "The latest football news, reaction and discussion Today’s fixtures | And you can mail matchday live England: Yes, there was not much he could do about the two defensive errors that led to Spain goals, but there is still something to be said about Thomas Tuchel’s in-game management last night. He seemed to get the initial team selection right – Elliot Anderson and Myles Lewis-Skelly were an effective counter to Rodri and Fabian Ruiz in midfield, while Anthony Gordon was an inspired choice on the left – but the second-half substitutes didn’t have much impact at all. After Harry Kane’s penalty miss on 54 minutes, Luis de la Fuente brought on Alex Baena and Mikel Oyarzabal – two later…"
       },
       {
-        "title": "Republic of Ireland’s Gavin Bazunu boycotts Israel match ‘as a person of principle’",
-        "link": "https://www.theguardian.com/football/2026/sep/26/ireland-players-vote-to-go-ahead-with-nations-league-match-against-israel",
-        "published": "2026-09-26T20:18:05Z",
-        "description": "Bolton goalkeeper issues statement after withdrawal Ireland players will wear black armbands in match The Republic of Ireland will fulfil their fixture against Israel in Hungary on Sunday night, but only after lengthy deliberations between the players resulted in a “significant majority” voting to play. The Bolton goalkeeper Gavin Bazunu, however, will not be involved, after pulling out in protest. After a week in which the Irish team and officials have come under increasing domestic pressure to boycott the match due to Israel’s military actions in Gaza, training was delayed by five hours on Saturday while the squad discussed whether to go ahead. Continue reading..."
+        "title": "Meet the new minute 55 England collapse, not the same as the old minute 55 England collapse | Barney Ronay",
+        "link": "https://www.theguardian.com/football/2026/sep/27/england-spain-nations-league-meet-new-55-minute-collapse-not-same-as-old",
+        "published": "2026-09-26T23:19:00Z",
+        "description": "Things started to go wrong against Spain at the same time they did against Argentina, but for very different reasons and with far more cause for optimism You could feel it inside the stadium, one of those moments where the air starts to shift, the birds fly backwards through the sky, and outside on Wembley Way an old man clutches his copy of the England Pathway Blueprint to his chest and cowers up at the moon. Welcome to the witching hour, 55 minutes in, when things just seem to happen to Thomas Tuchel’s England. Before this Nations League opener there was general agreement on the desirability of systems, pattern, repeatability. And you can’t say England aren’t consistent. Their last two…"
       },
       {
-        "title": "Pocognoli’s reign as Scotland coach begins with stalemate in Slovenia",
-        "link": "https://www.theguardian.com/football/2026/sep/26/slovenia-scotland-nations-league-match-report",
-        "published": "2026-09-26T15:19:01Z",
-        "description": "Sébastien Pocognoli grimaced on Friday when recalling his debut as an international player for Belgium. Alessandro del Piero and Italy discovered favourable opposition when preparing for the 2006 World Cup. Pocognoli will also look back, in time, at his first game as the manager of Scotland. Blue skies, a dainty stadium in Ljubljana and a second-half display that provided glimpses of optimism in respect of Scotland’s world, post-Steve Clarke. The best-forgotten first 45 minutes can be explained away by a squad operating under a new regime. By full time, Slovenia were grateful for their point. Scotland’s players took deserved applause. Continue reading..."
+        "title": "Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson",
+        "link": "https://www.theguardian.com/football/2026/sep/27/ever-feel-youve-been-cheated-consequences-could-be-profound-after-manchester-city-guilty-verdict",
+        "published": "2026-09-27T07:00:57Z",
+        "description": "Premier League could be hit hard by aftermath, while Manchester City fans may know they took 30 years to recover from a guilty verdict in 1906 So it turns out none of that was real. Nothing that happened in English football between 2009-10 and 2017-18 that involved Manchester City actually happened. City beating Manchester United 6-1 at Old Trafford? Fake. Sergio Agüero’s 94th-minute winner to clinch the title in 2012 ? A figment of the imagination. That season City reached 100 points ? Bobby Ewing dreamed it in the shower. Without those successes, City wouldn’t have been in the position they were for the past eight seasons (and 35 of the charges relate to a failure to cooperate with…"
       },
       {
-        "title": "WSL roundup: Putellas scores first London City goal, Manchester City maintain perfect start",
-        "link": "https://www.theguardian.com/football/2026/sep/26/wsl-roundup-greenwood-maintains-manchester-citys-100-record",
-        "published": "2026-09-26T18:39:15Z",
-        "description": "Two-time Ballon d’Or winner nets against Brighton Alex Greenwood’s free-kick sinks Charlton Alexia Putellas scored her first WSL goal as London City Lionesses moved second in the table after beating Brighton 2-0 at home. The two-time Ballon d’Or winner, who left Barcelona in the summer, put London City ahead in the 29th minute when she slotted a low shot into the far corner. Continue reading..."
+        "title": "Gateshead’s fruitless trip south offers hint of Manchester City’s doomsday future",
+        "link": "https://www.theguardian.com/football/2026/sep/27/national-league-gateshead-wealdstone",
+        "published": "2026-09-27T07:00:59Z",
+        "description": "His team bottom of the National League, Lee Cattermole’s ‘bomb squad’ approach could well end with him departing Among many doomsday scenarios facing Manchester City is plunging down the football pyramid. Would that be so bad? Instead of yawning at the prospect of yet another meeting with Real Madrid or repeated Aviva train-hampered journeys to Wembley, how about the exoticism of away travel to Wealdstone? In the National League, City’s ownership may wish to know, there are no formal financial fair play or strict salary cap regulations. Wrexham, Notts County and Chesterfield have taken advantage of such lax constraints to regenerate. For City fans, Ruislip’s buzzy high street, full of nail…"
+      },
+      {
+        "title": "Footgolf and the Jabulani: a second life for ‘the worst ball I’ve seen in my life’",
+        "link": "https://www.theguardian.com/football/2026/sep/27/footgolfers-in-arms-race-to-replicate-the-worst-ball-ive-seen-in-my-life",
+        "published": "2026-09-27T07:00:58Z",
+        "description": "The infamous Jabulani, created for the 2010 World Cup, is now footgolf’s ball of choice and going for upwards of £500 About once a month, Ben Clarke, the world’s leading footgolfer, carefully pumps up his collection of coveted Adidas Jabulani footballs. Like most elite players, Clarke possesses an extensive array of balls, all of which require regular inflation to prevent degradation, even those sitting pristine in their original boxes, unsullied by a single boot. Footballs are prime currency in a niche sport that tasks players with kicking one around a course, and into 18 oversized holes, in as few strokes as possible. Precision is everything. Continue reading..."
       },
       {
         "title": "Messi’s exit leaves Argentina with impossible task of replacing their superhero | Jonathan Wilson",
@@ -722,22 +728,16 @@
         "description": "When things are going awry, the Albiceleste will no longer be able to rely on their ultimate get-out clause It isn’t quite over yet. Lionel Messi will return a week on Wednesday for his formal farewell in a friendly against Benin, but, before that, Argentina face two games when they will begin to experience a future without the most potent get-out-of-jail-free card football has known. Messi’s international career falls into two distinct halves. There was the first decade when there was a sense that he didn’t quite fit, was somehow insufficiently Argentinian, didn’t care for his country. That was always absurd and can be recognised now as a manifestation of the Argentinian public’s…"
       },
       {
-        "title": "Manchester City verdict: what happens next, will club appeal and could they be relegated?",
-        "link": "https://www.theguardian.com/football/2026/sep/26/manchester-city-verdict-what-happens-next-appeal-relegated",
-        "published": "2026-09-26T07:00:30Z",
-        "description": "We analyse what City must do to appeal, why even that might not be the end of the legal wrangling, and the potential penalties if the verdict is upheld Manchester City have been found guilty of the vast majority of the 134 disciplinary charges brought against them by the Premier League. Continue reading..."
+        "title": "USA thrash Peru as teenage newcomers shine in first step toward 2030",
+        "link": "https://www.theguardian.com/football/2026/sep/26/usmnt-peru-cavan-sullivan-2030-world-cup-cycle",
+        "published": "2026-09-26T22:42:32Z",
+        "description": "Eleven players make US debuts in Orlando Sullivan, 16, starts in youngest US appearance in years Ellis and Hall score as Pochettino’s new faces impress Playing in their first match of the 2030 World Cup cycle, the US men’s national team crushed Peru 4-1 in at Orlando’s Inter&Co Stadium on Saturday, riding goals from newcomers Justin Ellis, Zavier Gozo and Justin Hall to victory. The win marked the US debut of 16-year-old Philadelphia Union midfielder Cavan Sullivan, whose appearance in the US starting XI makes him the youngest player to feature for the national team in over two decades. Sullivan received the lion’s share of the attention in the lead-up to Saturday’s match but it was…"
       },
       {
-        "title": "Manchester City chair al-Mubarak insists ‘nothing has changed’ after guilty verdict",
-        "link": "https://www.theguardian.com/football/2026/sep/26/enzo-maresca-noel-gallagher-manchester-city-guilty-verdict",
-        "published": "2026-09-26T14:52:09Z",
-        "description": "‘We have faced challenges together before and have prevailed’ Maresca quotes Socrates on social media – ‘I know nothing’ Khaldoon al-Mubarak, the Manchester City chair, has spoken for the first time since the club was found guilty on virtually all counts of breaching Premier League financial rules. He said “nothing has changed” and “our confidence and intent in proving the club’s innocence is just as strong as when this began”. News broke on Friday that City had been found guilty on all but one of the 115 charges laid by the Premier League in February 2023, charges the club have always strenuously denied. Continue reading..."
-      },
-      {
-        "title": "We Manchester City fans fear relegation and losing trophies … but club are bang to rights",
-        "link": "https://www.theguardian.com/football/2026/sep/25/manchester-city-fans-fear-relegation-losing-trophies",
-        "published": "2026-09-25T17:51:27Z",
-        "description": "Despite attempts to legally filibuster the charges out of existence for the past three years, we’ve rightfully failed It couldn’t have been more prophetic. In 2008, 15 years before Manchester City were charged with financial fraud, fans started singing “City’s going down with a billion in the bank” to the tune of Yellow Submarine. This was because the former Thailand president Thaksin Shinawatra’s 15-month ownership of City had come to an abrupt end when more than £1bn of his assets were frozen . And although Sheikh Mansour of the UAE had stepped in to save City, we were sinking fast. Despite the UAE’s untold riches, by December we were in the relegation zone. It’s called Cityitis –…"
+        "title": "Pocognoli’s reign as Scotland coach begins with stalemate in Slovenia",
+        "link": "https://www.theguardian.com/football/2026/sep/26/slovenia-scotland-nations-league-match-report",
+        "published": "2026-09-26T15:19:01Z",
+        "description": "Sébastien Pocognoli grimaced on Friday when recalling his debut as an international player for Belgium. Alessandro del Piero and Italy discovered favourable opposition when preparing for the 2006 World Cup. Pocognoli will also look back, in time, at his first game as the manager of Scotland. Blue skies, a dainty stadium in Ljubljana and a second-half display that provided glimpses of optimism in respect of Scotland’s world, post-Steve Clarke. The best-forgotten first 45 minutes can be explained away by a squad operating under a new regime. By full time, Slovenia were grateful for their point. Scotland’s players took deserved applause. Continue reading..."
       }
     ],
     "spielverlagerung": [
@@ -842,6 +842,18 @@
     ],
     "wagnh": [
       {
+        "title": "England lose to Spain in Nations League",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/172580/england-lose-to-spain-in-nations-league",
+        "published": "2026-09-27T07:34:27Z",
+        "description": "Morgan Rogers came off the bench in the second half, but England were not able to defeat Spain in Nations League action last night, with the Three Lions failing to make good on a 2-1 half-time lead to lose 3-2 in the end. Harry Kane missed a penalty that would’ve given England a 3-1 advantage […]"
+      },
+      {
+        "title": "The Daily Hilario: Sunday",
+        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/172560/the-daily-hilario-september-27th",
+        "published": "2026-09-27T07:13:21Z",
+        "description": "Hmm Hopefully Optimistic"
+      },
+      {
         "title": "Chelsea FCW vs. Arsenal WFC, Women’s Super League: Preview, team news, how to watch",
         "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/172563/chelsea-fcw-vs-arsenal-wfc-womens-super-league-preview-team-news-how-to-watch",
         "published": "2026-09-26T21:13:28Z",
@@ -876,23 +888,17 @@
         "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/172516/the-daily-hilario-friday",
         "published": "2026-09-25T07:29:38Z",
         "description": "Back to 17th? Tabs Hmm"
-      },
-      {
-        "title": "Mike Penders to miss Belgium game with quadriceps injury",
-        "link": "https://weaintgotnohistory.sbnation.com/injury-news/172525/mike-penders-to-miss-belgium-game-with-quadriceps-injury",
-        "published": "2026-09-25T03:57:04Z",
-        "description": "According to reports out of Belgium, Mike Penders (and Leandro Trossard) are set to miss Belgium’s game against Italy on Friday, with the pair getting left behind at their training center in Tubize while the rest of the squad flew out to Rome for the game. Penders is said to be dealing with a quadriceps […]"
-      },
-      {
-        "title": "The Daily Hilario: Thursday",
-        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/172494/the-daily-hilario-september-24th",
-        "published": "2026-09-24T07:05:02Z",
-        "description": "Most Hmm Fewest"
       }
     ],
     "rym": [],
     "aoty": [],
     "pitchfork": [
+      {
+        "title": "Northern Exposure",
+        "link": "https://pitchfork.com/reviews/albums/sasha-john-digweed-northern-exposure/",
+        "published": "2026-09-27T04:00:00Z",
+        "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the British DJs’ monumental 1996 mix, a virtuosic blend of after-hours grooves and floor-filling intensity that helped to canonize the elusive sound of progressive house."
+      },
       {
         "title": "Eternal (Live)",
         "link": "https://pitchfork.com/reviews/albums/joy-division-eternal-live/",
@@ -934,15 +940,15 @@
         "link": "https://pitchfork.com/reviews/albums/az-chike-no-rest-for-the-wicked/",
         "published": "2026-09-24T04:02:00Z",
         "description": "With A&R assistance from Kendrick Lamar, the L.A. rapper shows off his versatility and knack for hooks on an album that effortlessly balances fury, swagger, and introspection."
-      },
-      {
-        "title": "Melodie",
-        "link": "https://pitchfork.com/reviews/albums/slow-pulp-melodie/",
-        "published": "2026-09-24T04:01:00Z",
-        "description": "The Midwest indie rock band returns with a new wave-influenced album that explores our innate desire to understand and be understood."
       }
     ],
     "quietus": [
+      {
+        "title": "Living And Dying, Laughing And Crying: the Legacy of Cliff Burton",
+        "link": "https://thequietus.com/news/remember-them/cliff-burton-metallica/",
+        "published": "2026-09-27T08:00:00Z",
+        "description": "The undiminished, deep affection for Metallica’s late bassist Cliff Burton reveals a lot about the strength of fanhood in the implacable face of tragedy, says Joel McIver on the 40th anniversary of his death Cliff at his first soundcheck with Metallica at The Stone, San Francisco, 5 March 1983, by Brian Lew I spent six weeks in southern Sweden recently and encountered the spectre of Death in two significant locations. The first was at a rocky beach called Hovs Hallar, near the town of Ängelholm, where the late director Ingmar Bergman shot a couple of apocalyptic scenes from his 1957 film The Seventh Seal. If you know the famous opening scene, you’ll recall that the personification of Death…"
+      },
       {
         "title": "Carrying the Fire: Cormac McCarthy’s The Road and the Tradition of Apocalypse",
         "link": "https://thequietus.com/opinion-and-essays/anniversary/cormac-mccarthy-the-road-review/",
@@ -984,12 +990,6 @@
         "link": "https://thequietus.com/opinion-and-essays/black-sky-thinking/silent-hill-2-review/",
         "published": "2026-09-25T07:21:52Z",
         "description": "To celebrate its 25th birthday, Anna Mahtani unravels how the total assault of Silent Hill 2 – and its roots in modernist literature, alternative music, progressive cinema and modern art – birthed a new era of psychological horror for gamers. Contains spoilers A gentle mist curled around the gravestones as I struggled to find my way out. It was 2021, and I was wandering along the seemingly endless stone wall which separates Cimetière du Père-Lachaise from the rest of Paris. The air resounded with what I assumed was schoolyard glee, but which sounded exactly like screaming. I’d been carried here by an unshakable curiosity, a longing to commune with those already buried. Now, I felt like one…"
-      },
-      {
-        "title": "Music of the Month: The Best Albums and Tracks of September 2026",
-        "link": "https://thequietus.com/tq-charts/music-of-the-month/music-of-the-month-the-best-albums-and-tracks-of-september-2026/",
-        "published": "2026-09-25T07:00:00Z",
-        "description": "Here's everything we've loved at The Quietus this month, hand-picked by our staffers As much as I love autumn, the extreme whiplash from endless heatwaves to a sudden brisk chill has left me in a strange state of mind as we pass the equinox, almost dreamlike. It's times like this that I find music can have the most impact – psychic defences are down, grey matter left open for songs to worm their way in. Everything featured below, as well as all the other knockout music we’ve covered at tQ this month, will be compiled into an hours-long playlist exclusive to our subscribers. In addition, subscribers can enjoy exclusive music from some of the world’s most forward-thinking artists, regular…"
       }
     ],
     "residentadvisor": [],
