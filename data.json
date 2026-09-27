@@ -387,6 +387,12 @@
     "reuters": [],
     "bbc": [
       {
+        "title": "Controversial Orange Order march to go ahead for first time in nearly 30 years after late night drama",
+        "link": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-27T02:25:07Z",
+        "description": "After a series of court rulings the High Court ruled in the early hours of Sunday morning that the Parades Commission decision allowing a restricted parade should be respected"
+      },
+      {
         "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
         "link": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
         "published": "2026-09-26T18:50:02Z",
@@ -399,10 +405,10 @@
         "description": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam."
       },
       {
-        "title": "Court of Appeal overturns ban on Drumcree parade",
-        "link": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-26T22:45:52Z",
-        "description": "Portadown District Orange Lodge had declined a request from Judge Patricia Smyth to postpone the parade along the Garvaghy Road"
+        "title": "Iran says it will wait for official US response after Trump rejects Strait of Hormuz proposal",
+        "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-27T02:16:52Z",
+        "description": "The US president earlier said that Tehran only made the proposal to open the strait within seven days because \"they're losing so badly\"."
       },
       {
         "title": "Heathrow Airport warns third runway could be delayed by four years",
@@ -411,78 +417,72 @@
         "description": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\"."
       },
       {
-        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-        "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-26T22:15:59Z",
-        "description": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators."
-      },
-      {
         "title": "Republic of Ireland to wear black armbands for Israel game",
         "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
         "published": "2026-09-26T19:59:00Z",
         "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel."
       },
       {
-        "title": "How the bare nails trend became a class issue",
-        "link": "https://www.bbc.co.uk/news/articles/cpd7zw43wexo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-25T23:31:20Z",
-        "description": "Bare nails - or nails that appear that way - are a growing trend. But is it as innocent as it seems?"
+        "title": "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
+        "link": "https://www.bbc.co.uk/news/articles/cv5yjzz803edo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-26T23:01:47Z",
+        "description": "The reality TV game show returns on Thursday, with 21 stars vying to win £100,000 for their chosen charity."
       },
       {
-        "title": "Your child has left home. Here's why it's time to stop checking up on them",
-        "link": "https://www.bbc.co.uk/news/articles/c6evwmzxdn4do?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-25T23:03:51Z",
-        "description": "Parents say social media groups and tracking apps are feeding their anxiety about children who have recently gone to uni."
+        "title": "Can you eat ultra-processed foods and still be healthy? A dietitian analysed my weekly shop",
+        "link": "https://www.bbc.co.uk/news/articles/cqn4knlj9v81o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-26T23:03:39Z",
+        "description": "UPFs are linked to a range of health problems. But no-one seems to be able to agree why."
       }
     ],
     "aljazeera": [
       {
-        "title": "Powerful storm brings flooding, power outages to northeastern United States",
-        "link": "https://www.aljazeera.com/news/2026/9/26/powerful-storm-brings-flooding-power-outages-to-northeastern-united-states?traffic_source=rss",
-        "published": "2026-09-26T22:51:57Z",
-        "description": "Authorities warn residents that extreme conditions in the region could pose risks."
+        "title": "Powerful storm batters US Northeast disrupting power and travel",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/powerful-storm-batters-us-northeast-disrupting-power-and-travel?traffic_source=rss",
+        "published": "2026-09-27T02:19:34Z",
+        "description": "Powerful winds and towering waves are battering the US Northeast, causing flight chaos and blackouts."
       },
       {
-        "title": "Deadly shooting hits Caribbean islands of Saint Vincent and the Grenadines",
-        "link": "https://www.aljazeera.com/news/2026/9/26/deadly-shooting-hits-caribbean-islands-of-saint-vincent-and-the-grenadines?traffic_source=rss",
-        "published": "2026-09-26T22:38:01Z",
-        "description": "Four people were killed and four wounded near the capital of Kingstown on the islands, known as a tourism destination."
+        "title": "Did the biggest week of diplomacy make headway in ending the US-Iran war?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/did-the-biggest-week-of-diplomacy-make-headway-in-ending-the-us-iran-war?traffic_source=rss",
+        "published": "2026-09-27T01:59:17Z",
+        "description": "The UN General Assembly wraps up with mixed diplomatic outcomes."
       },
       {
-        "title": "Student protesters disrupt NVIDIA AI climate panel",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/student-protesters-disrupt-nvidia-ai-climate-panel?traffic_source=rss",
-        "published": "2026-09-26T22:09:33Z",
-        "description": "Student protesters have interrupted an NVIDIA panel during NYC Climate Week."
+        "title": "Venezuela frees 39 political prisoners after post-Maduro talks",
+        "link": "https://www.aljazeera.com/news/2026/9/27/venezuela-frees-39-political-prisoners-after-post-maduro-talks?traffic_source=rss",
+        "published": "2026-09-27T01:42:46Z",
+        "description": "The releases follow a second round of negotiations between Venezuela's interim government and the opposition."
       },
       {
-        "title": "Trump says he is rolling back Biden-era US fuel economy rules for cars",
-        "link": "https://www.aljazeera.com/news/2026/9/26/trump-says-he-is-rolling-back-biden-era-us-fuel-economy-rules-for-cars?traffic_source=rss",
-        "published": "2026-09-26T21:51:56Z",
-        "description": "The US president said he would end a so-called 'EV mandate' that steered consumers to electric vehicles."
+        "title": "EU unlocks humanitarian aid for Africa and other crisis-hit regions",
+        "link": "https://www.aljazeera.com/news/2026/9/27/eu-unlocks-humanitarian-aid-for-africa-and-other-crisis-hit-regions?traffic_source=rss",
+        "published": "2026-09-27T01:27:13Z",
+        "description": "EU allocates majority of aid to sub-Saharan Africa to fund actions related to migration, conflict and food insecurity."
       },
       {
-        "title": "Yamal nets in Spain’s 3-2 comeback win against England in Nations League",
-        "link": "https://www.aljazeera.com/sports/2026/9/26/yamal-nets-in-spains-3-2-comeback-win-against-england-in-nations-league?traffic_source=rss",
-        "published": "2026-09-26T21:09:59Z",
-        "description": "Lamine Yamal goal opens the scoring, but Spain made to comeback in Nations League win as Harry Kane misses penalty."
+        "title": "Araghchi ignores Trump, waits for mediators’ response on Hormuz",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/araghchi-ignores-trump-waits-for-mediators-response-on-hormuz?traffic_source=rss",
+        "published": "2026-09-27T00:50:31Z",
+        "description": "Iran says it’s still waiting for an official response from the US on its proposal to reopen the Strait of Hormuz."
       },
       {
-        "title": "Russia scales up strikes on Ukraine as largest steelmaker halts operations",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/russia-scales-up-strikes-on-ukraine-as-largest-steelmaker-halts-operations?traffic_source=rss",
-        "published": "2026-09-26T20:57:54Z",
-        "description": "A wave of Russian strikes has hit various regions across Ukraine."
+        "title": "Iran war live: Tehran awaits official response as Trump rejects Hormuz plan",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss",
+        "published": "2026-09-27T00:00:00Z",
+        "description": "US president rejects Iran's seven-day plan to reopen the Strait of Hormuz, saying the deal is not 'acceptable'."
       },
       {
-        "title": "Why is violence between Pakistan and Afghanistan recurring?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/9/26/why-is-violence-between-pakistan-and-afghanistan-recurring?traffic_source=rss",
-        "published": "2026-09-26T20:55:44Z",
-        "description": "Pakistan has carried out new strikes inside Afghanistan."
+        "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss",
+        "published": "2026-09-26T23:49:30Z",
+        "description": "Iran’s Pezeshkian says Tehran no longer trusts US talks, shortly before Trump rejected its Hormuz proposal."
       },
       {
-        "title": "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
-        "link": "https://www.aljazeera.com/news/2026/9/26/hamas-slams-board-of-peace-for-refusal-to-work-with-unrwa-in-gaza?traffic_source=rss",
-        "published": "2026-09-26T20:33:05Z",
-        "description": "Hamas accuses Board of Peace of aligning with Israel after excluding UN agency for Palestinians from Gaza operations."
+        "title": "Four American tourists among 6 killed in suspected gas leak blast in Athens",
+        "link": "https://www.aljazeera.com/news/2026/9/26/four-american-tourists-among-6-killed-in-suspected-gas-leak-blast-in-athens?traffic_source=rss",
+        "published": "2026-09-26T23:26:31Z",
+        "description": "Two women reportedly injured after building collapse in Athens' historic Plaka district."
       }
     ],
     "ft": [
@@ -511,10 +511,10 @@
         "description": "The same people are gnashing the same teeth and making the same arguments"
       },
       {
-        "title": "German and Russian foreign ministers meet for first time in over four years",
-        "link": "https://www.ft.com/content/ec92933f-7147-410e-8ade-ab09add476a7?syn-25a6b1a6=1",
-        "published": "2026-09-26T19:01:46Z",
-        "description": "Johann Wadephul said he warned Sergei Lavrov about drone incursions and urged de-escalation in Ukraine in ‘intense conversation’"
+        "title": "Trump and Xi to meet twice more after summit fails to resolve tensions",
+        "link": "https://www.ft.com/content/bd99d372-d3d1-4972-a3fe-1bed8f71e14c?syn-25a6b1a6=1",
+        "published": "2026-09-26T18:42:28Z",
+        "description": "Observers say the US and China maintained good communications during state visit but achieved no breakthroughs in trade stand-off"
       },
       {
         "title": "Trump rejects Iran’s ceasefire proposal to reopen Strait of Hormuz",
@@ -529,10 +529,10 @@
         "description": "Washington’s campaign to isolate the Islamic republic has made securing pharmaceuticals increasingly difficult"
       },
       {
-        "title": "Trump and Xi to meet twice more after summit fails to resolve tensions",
-        "link": "https://www.ft.com/content/bd99d372-d3d1-4972-a3fe-1bed8f71e14c?syn-25a6b1a6=1",
-        "published": "2026-09-26T18:42:28Z",
-        "description": "Observers say the US and China maintained good communications during state visit but achieved no breakthroughs in trade stand-off"
+        "title": "German and Russian foreign ministers meet for first time in over four years",
+        "link": "https://www.ft.com/content/ec92933f-7147-410e-8ade-ab09add476a7?syn-25a6b1a6=1",
+        "published": "2026-09-26T19:01:46Z",
+        "description": "Johann Wadephul said he warned Sergei Lavrov about drone incursions and urged de-escalation in Ukraine in ‘intense conversation’"
       }
     ],
     "restofworld": [
@@ -728,10 +728,10 @@
         "description": "We analyse what City must do to appeal, why even that might not be the end of the legal wrangling, and the potential penalties if the verdict is upheld Manchester City have been found guilty of the vast majority of the 134 disciplinary charges brought against them by the Premier League. Continue reading..."
       },
       {
-        "title": "Manchester City chair Al Mubarak insists ‘nothing has changed’ after guilty verdict",
+        "title": "Manchester City chair al-Mubarak insists ‘nothing has changed’ after guilty verdict",
         "link": "https://www.theguardian.com/football/2026/sep/26/enzo-maresca-noel-gallagher-manchester-city-guilty-verdict",
         "published": "2026-09-26T14:52:09Z",
-        "description": "‘We have faced challenges together before and have prevailed’ Maresca quotes Socrates on social media – ‘I know nothing’ Khaldoon Al Mubarak, the Manchester City chair, has spoken for the first time since the club was found guilty on virtually all counts of breaching Premier League financial rules. He said “nothing has changed” and “our confidence and intent in proving the club’s innocence is just as strong as when this began”. News broke on Friday that City had been found guilty on all but one of the 115 charges laid by the Premier League in February 2023, charges the club have always strenuously denied. Continue reading..."
+        "description": "‘We have faced challenges together before and have prevailed’ Maresca quotes Socrates on social media – ‘I know nothing’ Khaldoon al-Mubarak, the Manchester City chair, has spoken for the first time since the club was found guilty on virtually all counts of breaching Premier League financial rules. He said “nothing has changed” and “our confidence and intent in proving the club’s innocence is just as strong as when this began”. News broke on Friday that City had been found guilty on all but one of the 115 charges laid by the Premier League in February 2023, charges the club have always strenuously denied. Continue reading..."
       },
       {
         "title": "We Manchester City fans fear relegation and losing trophies … but club are bang to rights",
