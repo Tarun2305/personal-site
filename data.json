@@ -399,6 +399,12 @@
         "description": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase."
       },
       {
+        "title": "Protesters disperse after blocking contentious Orange Order parade",
+        "link": "https://www.bbc.co.uk/news/articles/c6qjkk55wd47o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-28T02:04:30Z",
+        "description": "Northern Ireland Secretary Sir Chris Bryant, who returned from the Labour Party conference for talks, urged both sides of the dispute to \"double down on compromise\"."
+      },
+      {
         "title": "Inside Yemen's front-line city as Houthis battle for control",
         "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
         "published": "2026-09-27T21:16:31Z",
@@ -427,62 +433,56 @@
         "link": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
         "published": "2026-09-27T23:01:47Z",
         "description": "The chancellor will unveil policies aimed at boosting British shipbuilding in his speech to Labour's annual conference on Monday."
-      },
-      {
-        "title": "Ten NHS staff removed over Noah Woods data breach",
-        "link": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-27T13:25:27Z",
-        "description": "East Suffolk and North Essex NHS Foundation Trust says it has launched an \"urgent\" investigation."
       }
     ],
     "aljazeera": [
       {
+        "title": "Palestine Action protesters arrested outside UK Labour Party conference",
+        "link": "https://www.aljazeera.com/news/2026/9/28/palestine-action-protesters-arrested-outside-uk-labour-party-conference?traffic_source=rss",
+        "published": "2026-09-28T02:23:30Z",
+        "description": "Demonstrators protest against UK government's proscription of Palestine Action as a 'terrorist' organisation."
+      },
+      {
+        "title": "Ireland beats Israel 3-0 wearing black armbands to support Gaza",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/27-09-sv-ireland-beats-israel-ie?traffic_source=rss",
+        "published": "2026-09-28T01:39:02Z",
+        "description": "Ireland scored a 3-0 victory over Israel in a politically-charged UEFA Nations League match played in Hungary."
+      },
+      {
+        "title": "UK Foreign Secretary confronted by activists over Palestine Action ban",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/uk-foreign-secretary-confronted-by-activists-over-palestine-action-ban?traffic_source=rss",
+        "published": "2026-09-28T01:37:27Z",
+        "description": "UK Foreign Secretary Ed Miliband was confronted by activists at a restaurant over the proscription of Palestine Action."
+      },
+      {
+        "title": "Ben-Gvir releases video threatening to kill senior Hamas figure in jail",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/ben-gvir-releases-video-threatening-to-kill-senior-hamas-figure-in-jail?traffic_source=rss",
+        "published": "2026-09-28T01:33:52Z",
+        "description": "Israel’s security minister Itamar Ben-Gvir has released a video in which he is seen threatening to kill Hassan Salameh."
+      },
+      {
+        "title": "Refugees in South Africa fear new attacks as September 30 deadline looms",
+        "link": "https://www.aljazeera.com/news/2026/9/28/refugees-in-south-africa-fear-new-attacks-as-september-30-deadline-looms?traffic_source=rss",
+        "published": "2026-09-28T00:29:25Z",
+        "description": "Refugees in Durban say they have nowhere safe to return to after being forced from a makeshift camp."
+      },
+      {
+        "title": "South African police discover body of 11th woman near Johannesburg",
+        "link": "https://www.aljazeera.com/news/2026/9/28/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
+        "published": "2026-09-28T00:25:12Z",
+        "description": "Police are investigating the killings in a country with one of the highest femicide rates in the world."
+      },
+      {
+        "title": "Iran war live: Tehran says it’s fully prepared for war amid Hormuz tensions",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
+        "published": "2026-09-28T00:00:00Z",
+        "description": "Abbas Araghchi's warning comes after Washington rejected a seven-day roadmap to end the war and reopen Strait of Hormuz."
+      },
+      {
         "title": "Pope pledges action on clergy child abuse in meeting with French survivors",
         "link": "https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss",
         "published": "2026-09-27T23:14:15Z",
-        "description": "Head of the Roman Catholic Church holds 'emotional' two-hour meeting with seven abuse victims in French town of Lourdes."
-      },
-      {
-        "title": "Man City’s 115 Charges — The Scandal, The Escape, and Pep’s Own Past",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/man-citys-115-charges-the-scandal-the-escape-and-peps-own?traffic_source=rss",
-        "published": "2026-09-27T23:09:48Z",
-        "description": "Man City just got found guilty on 114 of 115 financial charges — but the story behind it is much more complex."
-      },
-      {
-        "title": "Powerful storm floods US Northeast, causes power outages",
-        "link": "https://www.aljazeera.com/news/2026/9/27/powerful-storm-floods-us-northeast-causes-power-outages?traffic_source=rss",
-        "published": "2026-09-27T22:51:29Z",
-        "description": "The nor'easter causes another round of flooding in low-lying areas in New Jersey and New York City and knocks out power."
-      },
-      {
-        "title": "Ireland defeats Israel in controversial UEFA Nations League match",
-        "link": "https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss",
-        "published": "2026-09-27T21:41:59Z",
-        "description": "Ireland's players wore black armbands in support of Palestine, bowed their heads, and refused pre-match handshakes."
-      },
-      {
-        "title": "Alleged rape on campus sparks violent protest at Indian university",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/alleged-rape-on-campus-sparks-violent-protest-at-indian-university?traffic_source=rss",
-        "published": "2026-09-27T21:17:05Z",
-        "description": "Student protests at an Indian university have turned violent following claims that a female student was raped on campus."
-      },
-      {
-        "title": "Floods inundate roads in southeastern Algeria",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/floods-inundate-roads-in-southeastern-algeria?traffic_source=rss",
-        "published": "2026-09-27T21:03:47Z",
-        "description": "Circulating footage showed significant flooding, following heavy rain in southeastern Algeria."
-      },
-      {
-        "title": "Ramos fires holders Portugal to 2-1 Nations League win in Norway",
-        "link": "https://www.aljazeera.com/sports/2026/9/27/ramos-fires-holders-portugal-to-2-1-nations-league-win-in-norway?traffic_source=rss",
-        "published": "2026-09-27T21:02:48Z",
-        "description": "Goncalo Ramos starts in place of Cristiano Ronaldo and scores the winner for Portugal in Oslo."
-      },
-      {
-        "title": "Deadly strike hits market in Yemen’s Taiz",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/deadly-strike-hits-market-in-yemens-taiz?traffic_source=rss",
-        "published": "2026-09-27T21:00:55Z",
-        "description": "A strike on a market in the Yemeni city of Taiz has killed at least seven people and wounded 40."
+        "description": "Head of the Roman Catholic Church holds 'emotional' two-hour meeting with seven survivors in French town of Lourdes."
       }
     ],
     "ft": [
@@ -511,16 +511,10 @@
         "description": "Emigration has helped New Delhi manage its labour surplus, but the strategy has limits"
       },
       {
-        "title": "Terrorism arrests made in ‘major incident’ near RAF Fairford",
+        "title": "Terrorism arrests made in ‘major incident’ near US air base in UK",
         "link": "https://www.ft.com/content/875027a3-db29-40a6-b17c-fa97c30fd07b?syn-25a6b1a6=1",
         "published": "2026-09-27T17:24:59Z",
         "description": "President Donald Trump suggests US worked with UK to prevent an attack on air base used for US strikes on Iran"
-      },
-      {
-        "title": "Investors pursue Dubai investment group over missing payments",
-        "link": "https://www.ft.com/content/39eb5cb2-f73e-4c18-8357-f7378428c8e1?syn-25a6b1a6=1",
-        "published": "2026-09-27T09:38:04Z",
-        "description": "AIX accused of having skipped or delayed payouts on bond-like products offering double-digit annual returns"
       },
       {
         "title": "Trump asked Xi if China wanted to buy American weapons, US envoy says",
@@ -529,10 +523,16 @@
         "description": "Administration denies delaying sale of a $14bn arms package to Taiwan to appease Beijing"
       },
       {
-        "title": "Corporate America embraces cheaper ‘open’ AI models",
-        "link": "https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd?syn-25a6b1a6=1",
-        "published": "2026-09-27T17:00:04Z",
-        "description": "US businesses far beyond Silicon Valley are adopting Chinese alternatives to OpenAI and Anthropic’s systems"
+        "title": "World’s worst-performing market slashes minimum price for stocks",
+        "link": "https://www.ft.com/content/04923b0e-a955-4cfa-bd05-cd828807f61d?syn-25a6b1a6=1",
+        "published": "2026-09-27T21:00:05Z",
+        "description": "Indonesia is trying to boost liquidity by allowing shares to trade at a tiny fraction of a US cent"
+      },
+      {
+        "title": "Trump hosts Anthropic boss Dario Amodei at White House dinner",
+        "link": "https://www.ft.com/content/fb3aa961-fa28-4dd0-a2ea-cdb03ac8258d?syn-25a6b1a6=1",
+        "published": "2026-09-28T00:34:33Z",
+        "description": "Dinner hints at rapprochement between US president and chief executive of leading AI lab"
       }
     ],
     "restofworld": [
@@ -695,7 +695,7 @@
         "title": "Republic of Ireland put controversy aside to earn impressive win over Israel",
         "link": "https://www.theguardian.com/football/2026/sep/27/israel-republic-ireland-nations-league-group-3-match-report",
         "published": "2026-09-27T21:24:03Z",
-        "description": "Football and politics are inseparable in the modern world, no matter how many people wish they were not. But whether the beautiful game can ease the ills of our age is another matter. After a week in which the issue of Irish support for the people of Gaza had turned this fixture into a battle of conscience, the outcome of this underwhelming match ultimately felt inconsequential. In the end the result was indeed a walkover, just not because of a ­boycott. On Saturday night the ­question had been whether Heimir Hallgrimsson’s side would take to the field in Hungary at all. If they did, would their heads be in the game? It turned out that a week of internal angst had been enough to produce…"
+        "description": "Football and politics are inseparable in the modern world, no matter how many people wish they were not. But whether the beautiful game can ease the ills of our age is another matter. After a week in which the issue of Irish support for the people of Gaza had turned this fixture into a battle of conscience, the outcome of this underwhelming match ultimately felt inconsequential. In the end the result was indeed a walkover, just not because of a boycott. On Saturday night the question had been whether Heimir Hallgrimsson’s side would take to the field in Hungary at all. If they did, would their heads be in the game? It turned out that a week of internal angst had been enough to produce…"
       },
       {
         "title": "Tony Pulis says he and Stoke were ‘cheated’ in 2011 FA Cup final after Manchester City verdict",
@@ -842,12 +842,6 @@
     ],
     "wagnh": [
       {
-        "title": "Chelsea FCW 1-0 Arsenal WFC, Women’s Super League: Post-match reaction",
-        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/172595/chelsea-fcw-1-0-arsenal-wfc-womens-super-league-post-match-reaction",
-        "published": "2026-09-27T17:24:39Z",
-        "description": "Taking Arsenal on at a time where we seem on the verge of turmoil might be just what Chelsea Women needed. A team that were once written off as tough competitors but rarely ever being able to close the deal on a game and much less a championship, coming to the Bridge off a 2-0 […]"
-      },
-      {
         "title": "Chelsea FCW vs. Arsenal WFC, Women’s Super League: Confirmed lineups; how to watch",
         "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/172587/chelsea-fcw-vs-arsenal-wfc-womens-super-league-confirmed-lineups-how-to-watch",
         "published": "2026-09-27T14:34:30Z",
@@ -888,6 +882,12 @@
         "link": "https://weaintgotnohistory.sbnation.com/injury-news/172541/thomas-tuchel-claims-cole-palmer-still-playing-through-discomfort-and-pain",
         "published": "2026-09-25T18:10:17Z",
         "description": "Cole Palmer was recalled to the England squad for the current international break following his omission for the World Cup, but the Chelsea star would be subsequently withdrawn, with reports citing “load management” as the reason. England’s official statement did hint at injury however, and national team manager Thomas Tuchel has confirmed the same in […]"
+      },
+      {
+        "title": "Manchester City found guilty on 114 of 115 charges by Premier League — report",
+        "link": "https://weaintgotnohistory.sbnation.com/around-the-premier-league/172532/manchester-city-found-guilty-on-114-of-115-charges-by-premier-league-report",
+        "published": "2026-09-25T16:21:03Z",
+        "description": "As reported by The Athletic, among many many others, Manchester City have been found guilty on 114 of the 115 charges levied against them by the Premier League pertaining to financial transactions between 2009 and 2018. The league’s investigation began nearly eight years ago this point, with the charges brought against the decade’s dominant club […]"
       }
     ],
     "rym": [],
@@ -1450,6 +1450,24 @@
     "nyrb": [],
     "lrb": [
       {
+        "title": "Public Positions",
+        "link": "https://www.lrb.co.uk/blog/2026/september/public-positions",
+        "published": "2026-09-23T14:20:38Z",
+        "description": "Given much of the coverage of the Ed Sheeran-Macklemore debacle, you could be forgiven for thinking that Sheeran had been dropped from his tour for..."
+      },
+      {
+        "title": "Layers of Denial",
+        "link": "https://www.lrb.co.uk/blog/2026/september/layers-of-denial",
+        "published": "2026-09-23T13:45:53Z",
+        "description": "The frenzy in Israel surrounding the documentary NAZA is fundamentally undemocratic. That is what happens after years of extreme right-wing populism,..."
+      },
+      {
+        "title": "Johnny Marr’s Guitars",
+        "link": "https://www.lrb.co.uk/blog/2026/september/johnny-marr-s-guitars",
+        "published": "2026-09-21T17:40:32Z",
+        "description": "The Smiths kicked off the Scottish leg of their Meat is Murder tour at the Magnum Leisure Centre in Irvine New Town on 22 September 1985, and I was at..."
+      },
+      {
         "title": "In Bishkek",
         "link": "https://www.lrb.co.uk/blog/2026/september/in-bishkek",
         "published": "2026-09-18T15:50:28Z",
@@ -1460,24 +1478,6 @@
         "link": "https://www.lrb.co.uk/blog/2026/september/human-melting",
         "published": "2026-09-17T14:46:18Z",
         "description": "Planning regulations were modified last year, with AI data centres redefined as ‘nationally significant infrastructure projects’. Any attempt by a..."
-      },
-      {
-        "title": "The Resistible Rise of the AfD",
-        "link": "https://www.lrb.co.uk/blog/2026/september/the-resistible-rise-of-the-afd",
-        "published": "2026-09-16T16:50:21Z",
-        "description": "A desperate flurry of possible solutions, from the stopgap to the structural, has whirled across the German political establishment and media in the..."
-      },
-      {
-        "title": "Active Dying",
-        "link": "https://www.lrb.co.uk/blog/2026/september/active-dying",
-        "published": "2026-09-16T12:06:29Z",
-        "description": "In July 2021 my Uncle Bilal was dying of lymphoma. In the days before his death, our family gathered at his hospital bed to ‘keep him comfortable..."
-      },
-      {
-        "title": "9/15",
-        "link": "https://www.lrb.co.uk/blog/2026/september/9-15",
-        "published": "2026-09-15T14:44:07Z",
-        "description": "On Saturday, 15 September 2001, a friend and I went to help the members of an Anglia TV documentary team collect their belongings from a building near..."
       }
     ],
     "larb": [],
