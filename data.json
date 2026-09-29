@@ -387,28 +387,34 @@
     "reuters": [],
     "bbc": [
       {
-        "title": "What we know about RAF Fairford counter-terror probe",
-        "link": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-28T15:40:24Z",
-        "description": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase."
+        "title": "Five men arrested in RAF Fairford incident released on police bail",
+        "link": "https://www.bbc.co.uk/news/articles/c6e9elmpvglno?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-28T19:16:26Z",
+        "description": "Police are exploring whether proxies or individuals working on behalf of a foreign state are involved."
+      },
+      {
+        "title": "Watch: RAF Fairford suspects are bailed, what happens now?",
+        "link": "https://www.bbc.co.uk/news/videos/cw33kxk3707jo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-28T19:28:54Z",
+        "description": "The men were all UK nationals in their 20s who live in London and were arrested under the Explosives Act and on suspicion of preparing a terrorist act."
       },
       {
         "title": "UK tries to stop Trump's diesel export ban",
         "link": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-28T17:00:52Z",
+        "published": "2026-09-28T20:39:31Z",
         "description": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports."
       },
       {
-        "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
-        "link": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-28T18:07:25Z",
-        "description": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs."
+        "title": "Burnham to unveil public body to invest in electricity grid",
+        "link": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-29T00:40:29Z",
+        "description": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader."
       },
       {
-        "title": "Watch: From launch to fiery splashdown, SpaceX's Starship completes orbit test",
-        "link": "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-28T13:59:06Z",
-        "description": "A thunderous lift off, rapid satellite deployments and a fiery ending. That's how SpaceX's 14th launch of its Starship rocket panned out today."
+        "title": "Migrants using longer, more dangerous routes across Channel",
+        "link": "https://www.bbc.co.uk/news/articles/c6y8zzdjmrgvo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-29T00:42:15Z",
+        "description": "The government says it is bearing down on dangerous small boat crossings."
       },
       {
         "title": "Mahmood signals rethink on migrants' right to remain",
@@ -417,16 +423,10 @@
         "description": "The home secretary has been under pressure to water down the proposals from some Labour MPs, including Angela Rayner."
       },
       {
-        "title": "Slipknot fans threaten boycott after Marilyn Manson announced as support act for UK show",
-        "link": "https://www.bbc.co.uk/news/articles/ckjw5egyexz8o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-28T17:00:29Z",
-        "description": "The heavy metal band will be joined by the US rock musician during their London show."
-      },
-      {
-        "title": "Orange Order parade dispute continues as main players hold talks",
-        "link": "https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-28T17:51:15Z",
-        "description": "A controversial march was due to take place on Sunday morning but was blocked by protesters on the mainly-nationalist Garvaghy Road."
+        "title": "Temperatures to hit 25C in burst of late September warmth",
+        "link": "https://www.bbc.co.uk/weather/articles/cqn7438pym51o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-28T23:13:58Z",
+        "description": "Temperatures are expected to rise well above the late September average on Tuesday with a very warm night to follow, as Simon King explains."
       },
       {
         "title": "Aldi boss says some of rivals' loyalty discounts 'dupe' customers",
@@ -437,78 +437,60 @@
     ],
     "aljazeera": [
       {
-        "title": "Spain vs Croatia: UEFA Nations League – Yamal, Modric, teams, form",
-        "link": "https://www.aljazeera.com/sports/2026/9/28/spain-croatia-uefa-nations-league-yamal-modric-teams-form?traffic_source=rss",
-        "published": "2026-09-28T18:18:32Z",
-        "description": "World champions Spain host Croatia in matchday two of the UEFA Nations League, with Yamal facing Modric."
+        "title": "Africa’s space ambitions are moving from policy to practice",
+        "link": "https://www.aljazeera.com/news/2026/9/29/africas-space-ambitions-are-moving-from-policy-to-practice?traffic_source=rss",
+        "published": "2026-09-29T00:26:22Z",
+        "description": "As the Africa Space Expo closes in Abidjan, African innovators are showing what the continent can build."
       },
       {
-        "title": "Trump made the right decision to reject Iran’s offer",
-        "link": "https://www.aljazeera.com/opinions/2026/9/28/trump-made-the-right-decision-to-reject-irans-offer?traffic_source=rss",
-        "published": "2026-09-28T18:16:26Z",
-        "description": "The US president has denied Tehran the opportunity to use the US midterm elections as a pressure point."
+        "title": "Inside Al Jazeera’s UNGA coverage",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/inside-al-jazeeras-unga-coverage?traffic_source=rss",
+        "published": "2026-09-29T00:10:21Z",
+        "description": "Here’s a look at what it was like behind the scenes of the coverage you saw online and on TV."
       },
       {
-        "title": "Somali army clashes with local forces for control of Baidoa",
-        "link": "https://www.aljazeera.com/news/2026/9/28/somali-army-clashes-with-local-forces-for-control-of-baidoa?traffic_source=rss",
-        "published": "2026-09-28T17:58:11Z",
-        "description": "The latest outbreak of fighting in the South West State city stranded civilians unable to flee or reach hospitals."
+        "title": "Iran war live: Trump says he did not offer Tehran sanctions relief",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief?traffic_source=rss",
+        "published": "2026-09-29T00:00:00Z",
+        "description": "US President Trump rejects a news report claiming his administration offered Iran sanctions relief and frozen funds."
       },
       {
-        "title": "Iran touts Hormuz attacks as oil flows increase despite tensions",
-        "link": "https://www.aljazeera.com/news/2026/9/28/iran-touts-hormuz-attacks-as-oil-flows-increase-despite-tensions?traffic_source=rss",
-        "published": "2026-09-28T17:43:10Z",
-        "description": "Mediators are trying to facilitate more talks, but Washington signals faith in its pressure tactics."
+        "title": "Fiery end for SpaceX Starship mission",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/fiery-end-for-spacex-starship-mission?traffic_source=rss",
+        "published": "2026-09-28T23:48:48Z",
+        "description": "Elon Musk’s SpaceX's next-generation Starship rocket reached orbit for the first time despite an engine shutdown."
       },
       {
-        "title": "Photos: Russian drone strikes pound civilian targets across Kyiv",
-        "link": "https://www.aljazeera.com/gallery/2026/9/28/photos-aftermath-of-a-russian-drone-attack-in-kyiv?traffic_source=rss",
-        "published": "2026-09-28T17:37:36Z",
-        "description": "Ukraine condemns Russian targeting of civilians as strikes kill seven and injure dozens across Kyiv."
+        "title": "UK: ‘Too soon’ to blame airbase plot on foreign state",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/uk-too-soon-to-blame-airbase-plot-on-foreign-state?traffic_source=rss",
+        "published": "2026-09-28T23:34:19Z",
+        "description": "UK Defence Minister Wes Streeting said it was ‘too soon’ to blame a foreign state for a suspected plot near RAF Fairford"
       },
       {
-        "title": "UK police release suspects on bail after RAF arrests, investigation ongoing",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/uk-police-release-suspects-on-bail-after-raf-arrests-investigation-ongoing?traffic_source=rss",
-        "published": "2026-09-28T17:32:44Z",
-        "description": "British police officials say that suspects arrested over a 'terror' incident at a RAF base were released on police bail."
+        "title": "Anti-South Asian ‘hate speech’ has exploded online in US, report finds",
+        "link": "https://www.aljazeera.com/news/2026/9/28/anti-south-asian-hate-speech-has-exploded-online-in-us-new-report-finds?traffic_source=rss",
+        "published": "2026-09-28T22:05:43Z",
+        "description": "Researchers link the rise to immigration politics, economic anxiety and the growing visibility of South Asians in US."
       },
       {
-        "title": "Paris court finds Swiftair guilty over 2014 Mali crash that killed 116",
-        "link": "https://www.aljazeera.com/news/2026/9/28/paris-court-finds-swiftair-guilty-over-2014-mali-crash-that-killed-116?traffic_source=rss",
-        "published": "2026-09-28T17:13:03Z",
-        "description": "Spain's Swiftair was fined 225,000 euros in France for corporate manslaughter over 2014 Air Algerie disaster in Mali."
+        "title": "Gold falls amid rising oil prices and higher US dollar",
+        "link": "https://www.aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar?traffic_source=rss",
+        "published": "2026-09-28T21:34:51Z",
+        "description": "Gold hits seven-week low; silver follows suit and records a nearly 5 percent loss."
       },
       {
-        "title": "Russia strike sets National Academy of Sciences of Ukraine ablaze",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/russia-strike-sets-national-academy-of-sciences-of-ukraine-ablaze?traffic_source=rss",
-        "published": "2026-09-28T17:06:00Z",
-        "description": "A Russian drone struck the National Academy of Sciences of Ukraine in central Kyiv, killing one person"
+        "title": "Hundreds set up tent encampments in Madrid over housing crisis",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/hundreds-set-up-tent-encampments-in-madrid-over-housing-crisis?traffic_source=rss",
+        "published": "2026-09-28T21:12:29Z",
+        "description": "Protesters have set up tent encampments in central Madrid to demand government action on soaring housing costs."
       }
     ],
     "ft": [
       {
-        "title": "Nvidia launches record $150bn share buyback",
-        "link": "https://www.ft.com/content/88e87863-4cf6-4c4e-8858-f0099db350d4?syn-25a6b1a6=1",
-        "published": "2026-09-28T11:23:16Z",
-        "description": "Chipmaker’s plan to repurchase stock comes as share price gains have slowed this year"
-      },
-      {
-        "title": "Meta launches enterprise AI business seeking to cash in on vast spending",
-        "link": "https://www.ft.com/content/fbe0a48f-4d33-42eb-8d2c-79f662c88678?syn-25a6b1a6=1",
-        "published": "2026-09-28T15:54:34Z",
-        "description": "Chief executive Mark Zuckerberg opens a new front in his push to turn huge investment in the technology into profits"
-      },
-      {
-        "title": "What is the AI capex breakeven rate?",
-        "link": "https://www.ft.com/content/f83b44e9-406b-4004-9fdb-83357c3ac977",
-        "published": "2026-09-28T11:00:42Z",
-        "description": "Heroic ROIC"
-      },
-      {
-        "title": "AI hyperscalers are transforming debt",
-        "link": "https://www.ft.com/content/00f94018-e658-4545-b16e-1bc00e19b754?syn-25a6b1a6=1",
-        "published": "2026-09-28T04:00:10Z",
-        "description": "The sector’s huge capital needs are forcing companies and countries to rethink how they borrow money"
+        "title": "Bond sell-off deepens and oil rises as Iran-US deal hopes fade",
+        "link": "https://www.ft.com/content/d751ad99-531d-4990-9a4c-ee89a9fc1b2d?syn-25a6b1a6=1",
+        "published": "2026-09-28T21:38:05Z",
+        "description": "Brent crude jumps and 10-year Treasury yield surpasses 5.2% as hopes for US-Iran agreement fade"
       },
       {
         "title": "Why Europe’s centre will hold",
@@ -517,22 +499,40 @@
         "description": "The 1930s are not a good guide to the politics of the 21st century"
       },
       {
-        "title": "For once, the Fed has put Main Street before Wall Street",
-        "link": "https://www.ft.com/content/4339e9f0-ff48-4873-be6a-36cbac2631c4",
-        "published": "2026-09-28T04:00:18Z",
-        "description": "Rather than criticising the central bank’s rate increase, Republicans should be praising Warsh for putting American families first"
+        "title": "The crisis at Big Law powerhouse Weil",
+        "link": "https://www.ft.com/content/ba19ec85-c736-4cfd-9a85-4e1ddf1938e5?syn-25a6b1a6=1",
+        "published": "2026-09-28T04:00:10Z",
+        "description": "One of America’s most prestigious firms is in turmoil as a series of departures prompts talk of a merger"
       },
       {
-        "title": "Bond sell-off deepens as oil prices rise",
-        "link": "https://www.ft.com/content/d751ad99-531d-4990-9a4c-ee89a9fc1b2d?syn-25a6b1a6=1",
-        "published": "2026-09-28T16:37:44Z",
-        "description": "Brent crude jumps and 10-year Treasury yield surpasses 5.2% as hopes for US-Iran agreement fade"
+        "title": "Pope Leo criticises Nvidia’s Jensen Huang over AI safety",
+        "link": "https://www.ft.com/content/5c627794-766b-49db-ab96-7532731e7084?syn-25a6b1a6=1",
+        "published": "2026-09-28T23:51:14Z",
+        "description": "Rare intervention from head of Catholic Church comes as top executives are due to meet at White House on Tuesday"
       },
       {
-        "title": "World’s worst-performing market slashes minimum price for stocks",
-        "link": "https://www.ft.com/content/04923b0e-a955-4cfa-bd05-cd828807f61d?syn-25a6b1a6=1",
-        "published": "2026-09-28T02:51:26Z",
-        "description": "Indonesia is trying to boost liquidity by allowing shares to trade at a tiny fraction of a US cent"
+        "title": "AMD to buy Fei-Fei Li’s AI start-up for $8bn",
+        "link": "https://www.ft.com/content/33344fa5-6a25-4d72-8934-528526dd89bd?syn-25a6b1a6=1",
+        "published": "2026-09-28T21:53:59Z",
+        "description": "World Labs was founded by Stanford University researcher to work on AI models that understand 3D environments"
+      },
+      {
+        "title": "Erdoğan holds rare meeting with Germany’s potential next leader",
+        "link": "https://www.ft.com/content/49bff877-ae51-481d-8223-5c0d04f4ba87?syn-25a6b1a6=1",
+        "published": "2026-09-28T16:14:09Z",
+        "description": "Hendrik Wüst, premier of Germany’s most populous state, meets Turkish president on three-day visit amid speculation he could become chancellor"
+      },
+      {
+        "title": "Erdoğan bids to contain fallout from Turkey’s $18bn stock market scandal",
+        "link": "https://www.ft.com/content/c72a016b-ad45-4cde-8020-dc1da7ab0839?syn-25a6b1a6=1",
+        "published": "2026-09-28T20:57:06Z",
+        "description": "President says those ‘engaged in manipulative schemes’ will be held to account as deputy chair of governing party resigns"
+      },
+      {
+        "title": "Netanyahu under pressure over reports he was warned about October 7",
+        "link": "https://www.ft.com/content/f261c9cd-7169-4d16-97fc-9859099ce0f8?syn-25a6b1a6=1",
+        "published": "2026-09-28T20:37:45Z",
+        "description": "Opposition attacks Israeli premier ahead of election over leaks suggesting Egyptian and Emirati officials alerted him to Hamas threat"
       }
     ],
     "restofworld": [
@@ -692,10 +692,22 @@
     "chelsea_sky": [],
     "guardianfootball": [
       {
-        "title": "Belgium v France, Northern Ireland v Hungary and more: Nations League – live",
-        "link": "https://www.theguardian.com/football/live/2026/sep/28/belgium-v-france-northern-ireland-v-hungary-and-more-nations-league-live",
-        "published": "2026-09-28T19:00:10Z",
-        "description": "⚽ Updates from 7.45pm (BST) kick-offs across Europe ⚽ Get in touch: email Michael about the action The teams are out! We’ll have the anthems now. There really is nothing that holds a candle to Il Canto degli Italiani , in my book. There is some sort of delay in Brussels, where neither Belgium or France are yet to emerge. Ominously, Sweet Caroline is playing over the tannoy. Continue reading..."
+        "title": "Manchester City chief maintains club’s innocence as rivals push for verdict to be published",
+        "link": "https://www.theguardian.com/football/2026/sep/28/manchester-city-chief-executive-ferran-soriano-premier-league-rivals-urge-commission-publish-verdict",
+        "published": "2026-09-28T20:30:45Z",
+        "description": "Ferran Soriano tells European clubs City will fight verdict Premier League clubs complain of ‘void’ over timeline A number of Premier League clubs are pushing for the Manchester City verdict to be published as soon as possible, with the club digging in for a long battle to clear their name. City’s chief executive, Ferran Soriano, told a meeting of the European Football Clubs board on Monday that they will fight to prove their innocence after being found guilty by an independent commission of the vast majority of the Premier League’s 115 charges of breaching financial rules. Continue reading..."
+      },
+      {
+        "title": "Gianni Infantino ready to accept demands for larger payouts from $6bn reserves",
+        "link": "https://www.theguardian.com/football/2026/sep/28/gianni-infantino-fifa-president-ffe-national-association-payouts",
+        "published": "2026-09-28T22:14:53Z",
+        "description": "Fifa president says: ‘The ambition is welcome’ Infantino mounts fresh defence of failed FFE scheme The Fifa president, Gianni Infantino, is poised to bow to demands from Uefa and Concacaf to distribute more money from its $6bn cash reserves to member associations. In a letter sent on Monday to all six confederation presidents and copied to members of the Fifa council, Infantino indicated his willingness to “support the greatest level of additional funding”, without committing to the $10m-per-member that has been proposed. Continue reading..."
+      },
+      {
+        "title": "Thomas Tuchel resists change against Czechia despite England defensive errors",
+        "link": "https://www.theguardian.com/football/2026/sep/28/thomas-tuchel-czechia-england-nations-league-spain",
+        "published": "2026-09-28T20:00:43Z",
+        "description": "‘We defended well [v Spain] but had individual mistakes’ Nico O’Reilly and Ezri Konsa are injury doubts for match Thomas Tuchel will resist making drastic changes to his defence despite England going six games without a clean sheet before facing Czechia in the Nations League on Tuesday. Although Tuchel acknowledged that his side were a “danger to ourselves” when they lost 3-2 against Spain last Saturday, the head coach stood by Marc Guéhi and Nico O’Reilly after their errors against the world champions. Continue reading..."
       },
       {
         "title": "Israel captain stokes feud by saying ‘our country is 10 times better than Ireland’",
@@ -704,40 +716,28 @@
         "description": "Manor Solomon angry at Ireland’s stance over Gaza ‘They hate us and we don’t like them’ Manor Solomon claimed Israel was “10 times better” than Ireland as fallout intensified from their Nations League match and stated bluntly: “They hate us and we don’t like them.” Players in the Republic of Ireland side stared at the ground during Israel’s anthem and their staff faced away from the pitch. Ireland’s players also chose not to shake hands or exchange pennants with their opponents in protest at Israeli military actions in Gaza which have killed tens of thousands of people. Continue reading..."
       },
       {
-        "title": "Football Daily | Manchester City come out swinging haymakers after charges galore",
-        "link": "https://www.theguardian.com/football/2026/sep/28/manchester-city-charges-football-daily",
-        "published": "2026-09-28T16:12:28Z",
-        "description": "Sign up now! Sign up now! Sign up now? Sign up now! Football Daily wasn’t alone in spending the weekend wondering if we might have a legal case against Manchester City, while pondering what fiscal value we’d put on the mild disappointment of seeing our team lose the 2014 Fizzy (nee Credit Card) Cup final to a team since found guilty of cheating. Elsewhere, Tony Pulis has made it clear he wants the FA Cup his Stoke City sophisticates didn’t win in 2011 . Romelu Lukaku used a Nations League match to accuse Gianluigi Donnarumma of owing him two Premier League titles and the Michael Sheen/Brian Clough “chuck all your medals in the biggest effing dustbin you can find” gif has been doing…"
+        "title": "Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey",
+        "link": "https://www.theguardian.com/football/2026/sep/28/nations-league-belgium-france-turkey-italy-northern-ireland-hungary",
+        "published": "2026-09-28T21:45:36Z",
+        "description": "Belgium 0-1 France, Turkey 1-4 Italy, Sweden 3-1 Poland Northern Ireland left frustrated by Hungary stalemate Michael Olise’s magnificent late strike gave France a 1-0 Nations League victory over Belgium in Brussels, as Zinedine Zidane made it two wins out of two since being named as the new head coach. Olise came off the bench late on with the game goalless, and set off from inside his own half to score the winner in the 88th minute. Olise advanced all the way to the edge of the Belgium area before curling a shot beyond the reach of Senne Lammens. Continue reading..."
+      },
+      {
+        "title": "‘Football with a smile’: Pocognoli wants happy Gilmour to tee up Scotland success",
+        "link": "https://www.theguardian.com/football/2026/sep/28/billy-gilmour-sebastien-pocognoli-scotland-nations-league",
+        "published": "2026-09-28T22:54:38Z",
+        "description": "New Scotland manager says midfielder ‘has to take risks’ Players warned they need consistent game time for clubs Sébastien Pocognoli hopes a “smiling” Billy Gilmour will be central to Scotland’s hopes of improvement following a bruising World Cup. Gilmour excelled in the second half on Saturday, as Pocognoli’s debut as manager ended in a goalless away draw against Slovenia in the Nations League . The Napoli midfielder missed the World Cup, where the Scots exited at the group stage , through injury. “If you have a player who plays one touch without even looking where he puts the ball it means that he understands the game plan,” Pocognoli said of Gilmour before his Hampden Park bow against…"
+      },
+      {
+        "title": "Scale of City’s punishment is the only story but Premier League must bear some responsibility | Barney Ronay",
+        "link": "https://www.theguardian.com/football/2026/sep/28/manchester-city-punishment-premier-league-charges",
+        "published": "2026-09-28T19:30:19Z",
+        "description": "Manchester City have come out fighting against the guilty verdict but the Premier League faces questions of its own Nothing is over, nothing is done. Or at least not judging by the bravura, balls-out confidence of Manchester City’s chair, Khaldoon al-Mubarak, who remains convinced the past three days of whiplash are simply the drumroll before the big reveal, prelude to some clinching piece of evidence that will swish away the initial finding of guilt on the Premier League’s 100-plus charges. This appears to be the official City position right now. Rope‑a‑dope litigation. Scooby‑Doo justice. A verdict that is simply exposition, buildup to that moment where we finally get to rip off the…"
       },
       {
         "title": "Europe’s top-flight clubs to get share of £185m from Club World Cup",
         "link": "https://www.theguardian.com/football/2026/sep/28/europe-top-flight-clubs-get-share-pot-from-fifa-club-world-cup",
         "published": "2026-09-28T15:26:32Z",
         "description": "Europe dividing money 50-50 with rest of the world Confirmation expected after Fifa meeting in October Europe’s top-flight clubs will share half of the $250m (£185m) solidarity pot from the Club World Cup last year, ending a saga that had caused widespread frustration among those who did not participate in the tournament. Fifa and European Football Clubs (EFC) are close to an agreement that would bring a 50-50 split between sides in Europe and the rest of the world. The fund, set aside to ensure the competition contributes to football’s wider ecosystem, will be distributed once the deal has been ratified. Continue reading..."
-      },
-      {
-        "title": "Mallorca goalkeeper Iván Cuéllar injured after ‘large structure’ in canteen falls on him",
-        "link": "https://www.theguardian.com/football/2026/sep/28/mallorca-goalkeeper-ivan-cuellar-injured-structure-canteen",
-        "published": "2026-09-28T18:35:00Z",
-        "description": "42-year-old suffers ‘serious head injury’ at training base Cuéllar recovering in hospital after alarming accident The Real Mallorca goalkeeper Iván “Pichu” Cuéllar suffered a serious head injury when “a large structure” at the club’s ⁠training ground canteen collapsed on him. The club said Cuéllar was taken to hospital on Monday after the incident at ⁠the Ciutat Esportiva Antonio Asensio – also known ​as Son Bibiloni – ‌before the team’s scheduled training session. Continue reading..."
-      },
-      {
-        "title": "Defensive flux gives Tuchel headache but Alexander-Arnold could be remedy | Jacob Steinberg",
-        "link": "https://www.theguardian.com/football/2026/sep/28/thomas-tuchel-england-trent-alexander-arnold-nations-league",
-        "published": "2026-09-28T16:45:04Z",
-        "description": "Chopping and changing the back four has been a big feature for England this year and the Real Madrid man could be a solution England ended 2025 protected by a shield of deceptive strength. They went through qualifying for the World Cup without conceding a goal and secured a shutout during a routine friendly win against Wales. However, clean sheets have been harder to come by this year. England have kept four in 13 games in 2026, meaning it may not be long before Thomas Tuchel rethinks his suggestion that the way to deal with his side’s lack of control is to embrace chaos. There is, of course, an irony to telling Tuchel to sort out his defence. Isn’t this what we wanted? England were limp…"
-      },
-      {
-        "title": "WSL talking points: Chelsea punish Arsenal and Putellas finds her rhythm",
-        "link": "https://www.theguardian.com/football/2026/sep/28/wsl-talking-points-chelsea-arsenal-alexia-putellas",
-        "published": "2026-09-28T10:43:14Z",
-        "description": "Gunners lacked cutting edge again at Stamford Bridge while the former Barcelona star dominated against Brighton How to solve the problem of an inability to take your chances? That is the question that will haunt the Arsenal head coach, Renée Slegers, over the coming days. In their 1-0 defeat by Chelsea, Arsenal applied more than enough pressure to make a difference, but in registering two of their 18 shots on target, a fundamental lack of ruthlessness remains. They dominated the opening stages at Stamford Bridge, but, as has often been the case this season, they were made to pay for their wastefulness. None of their nine first-half attempts troubled the goalkeeper, Hannah Hampton. Chelsea,…"
-      },
-      {
-        "title": "The Nations League is a welcome example of soccer done well",
-        "link": "https://www.theguardian.com/football/2026/sep/28/nations-league-uefa-england-spain",
-        "published": "2026-09-28T15:15:37Z",
-        "description": "The tournament was treated with skepticism when it was introduced in 2018, but it shows that sometimes administrators get things right Sign up for our free newsletter here England’s first game after the 2022 World Cup was a 2-1 win away over Italy. Their first game after the 2018 World Cup was a 2-1 defeat to Spain. Their first game after the 2014 World Cup was a 1-0 friendly win over Norway – and that was not the Norway of Erling Haaland, Martin Ødegaard and Antonio Nusa but of Joshua King, Håvard Nordtveit and Tarik Elyounoussi. The first game after the 2010 World Cup was a 2-1 friendly win over Hungary. The Italy and Spain games perhaps had their appeal, but the sense of anticlimax was…"
       }
     ],
     "spielverlagerung": [
@@ -1299,6 +1299,30 @@
     "reverseshot": [],
     "sensesofcinema": [
       {
+        "title": "1xcasino 프로모션 အဆင့်များနှင့် နည်းလမ်းများ",
+        "link": "https://www.sensesofcinema.com/2026/uncategorized/1xcasino-peuromosyeon-achng-maa-nng-nnny-lm-maa/",
+        "published": "2026-09-28T21:24:17Z",
+        "description": "1xcasino 프로모션 အပြည့်အစုံ လမ်းညွှန် Myanmar မှာ အွန်လိုင်းကက်စီနို၊ အပေါ်ယံ အပွဲများကို ရှာဖွေနေတဲ့သူတွေ အတွက် 1xcasino 프로모션 ဆိုတာ အရေးကြီးတစ်ခုပါ။ ဒီစာတမ်းမှာ အဆိုပါ ပရိုမိုးရှင်းတွေကို ဘယ်လို အသုံးပြုရမလဲ၊ ဘယ်လို အကျိုးအမြတ်တွေ ရနိုင်မလဲ၊ အထူးသဖြင့် မည်သူတွေ့နိုင်မယ်ဆိုတာကို အကြမ်းဖျဉ်း ပြောပြလိုက်ပါတယ်။ အခုပင် 1xcasinomyanmar.com ကို ဝင်ရောက်ကြည့်ရှုနိုင်ပါတယ်။ 1xcasino 프로모션 ကိုနားလည်ခြင်း ကြိုဆိုပိုနစ် နှင့် အထူးပရိုမိုးရှင်းများ ဂိမ်းအမျိုးအစားနှင့် RTP အထောက်အထား အထူးပြု အတိုးအကျခံမှုများ (Wagering Requirements) ငွေပေးချေမှုနည်းလမ်းများနှင့် ထုတ်ယူခြင်း အကောင့် ဖွင့်ခြင်း၊ အတည်ပြုခြင်း၊ မိုဘိုင်းအက်ပ် လုံခြုံရေး၊ လိုင်စင်နှင့် အကူအညီ တာဝန်ယူသော ဂိမ်းကစားမှု […]"
+      },
+      {
+        "title": "Money Coming Online Casino Legal app and mobile guide for Malaysia",
+        "link": "https://www.sensesofcinema.com/2026/uncategorized/money-coming-online-casino-legal-app-and-mobile-guide-for-malaysia/",
+        "published": "2026-09-28T21:24:12Z",
+        "description": "Is Online Casino Legal in Malaysia? How Money Comes Into an Online Casino Account Choosing a Legal Casino That Handles Money Securely Bonuses, Welcome Offers, and Wagering Requirements Registration and Verification – What You Need to Know Withdrawals: Speed, Fees, and Common Pitfalls Mobile App, Live Casino, and Sports Betting Experience Responsible Gambling and Customer […]"
+      },
+      {
+        "title": "1x casino apk download: دليل التحميل والتثبيت على هاتف Android في مصر",
+        "link": "https://www.sensesofcinema.com/2026/uncategorized/1x-casino-apk-download-dlyl-lthmyl-wltthbyt-aal-htf-android-fy-msr/",
+        "published": "2026-09-28T21:24:09Z",
+        "description": "دليل شامل لتنزيل 1x casino apk download في مصر ما هو 1x casino ولماذا يفضله اللاعبون؟ منذ ظهوره في الأسواق العالمية، أصبح 1x casino منصة تجمع بين الكازينو المباشر، الألعاب التقليدية، والرياضات الإلكترونية في مكان واحد. المستخدمين في مصر يلاقوا فيه تشكيلة واسعة من السلوتس ذات الـ RTP العالي، وطاولة البلاك جاك اللي فيها خيارات […]"
+      },
+      {
+        "title": "Exploring the Thrilling World of Canada Casinos",
+        "link": "https://www.sensesofcinema.com/2026/uncategorized/exploring-the-thrilling-world-of-canada-casinos/",
+        "published": "2026-09-19T06:39:30Z",
+        "description": "Discover the vibrant atmosphere of casinos in Canada, their offerings, gaming options, and how they contribute to the country’s entertainment landscape. Canada is home to a diverse array of casinos that cater to both locals and tourists alike. From extravagant gaming resorts to cozy local establishments, canada casino venues provide excitement and entertainment for everyone. […]"
+      },
+      {
         "title": "Lisa and the Devil",
         "link": "https://www.sensesofcinema.com/2026/cteq/lisa-and-the-devil/",
         "published": "2026-09-13T06:01:22Z",
@@ -1321,33 +1345,15 @@
         "link": "https://www.sensesofcinema.com/2026/cteq/playful-provocation-hypermediacy-in-mario-bavas-danger-diabolik/",
         "published": "2026-09-01T00:10:43Z",
         "description": "We begin with a heist. But not quite – we really begin with an elaborate ploy, a project of misdirection. Inspector Ginko (Michel Piccoli) has orchestrated a spectacular motorcade to transport a large sum of banknotes; only, this motorcade is not carrying any actual banknotes at all; they are merely the diversion that Ginko has […]"
-      },
-      {
-        "title": "Kill, Baby… Kill!",
-        "link": "https://www.sensesofcinema.com/2026/cteq/kill-baby-kill/",
-        "published": "2026-09-01T00:00:19Z",
-        "description": "2026 marks the 60th anniversary of the release of Operazione paura (Kill, Baby… Kill!, 1966), the film widely considered to be horror maestro Mario Bava’s finest. Set in 1907, the story opens with a coroner, Dr. Eswai (Giacomo Rossi-Stuart), arriving at a small German village to perform an autopsy on the body of a young […]"
-      },
-      {
-        "title": "The Faces of Mario Bava’s Black Sabbath",
-        "link": "https://www.sensesofcinema.com/2026/cteq/the-faces-of-mario-bavas-black-sabbath/",
-        "published": "2026-08-31T23:34:50Z",
-        "description": "The original Italian title for Mario Bava’s 1963 film, I tre volti della paura, which translates as “The Three Faces of Fear,” is far more appropriate than Black Sabbath – the title chosen by its international distributor American International Pictures, who also recut, redubbed, and removed parts of the film. The numero tre of the […]"
-      },
-      {
-        "title": "Whales: Giants of the Ocean",
-        "link": "https://www.sensesofcinema.com/2026/uncategorized/test-post-c6306718-e7bf-4688-8b44-7b8805f9508e-95c8aa79e7e78900/",
-        "published": "2026-08-28T14:00:00Z",
-        "description": "Whales: Giants of the Ocean Whales are among the largest and most remarkable animals on Earth. These marine mammals live in oceans around the world, from warm tropical waters to the cold seas surrounding the poles. Life Beneath the Surface Although whales spend their lives in water, they breathe air through blowholes located on top […]"
-      },
-      {
-        "title": "Whales: Giants of the Ocean",
-        "link": "https://www.sensesofcinema.com/2026/uncategorized/test-post-37292a0e-c908-4b04-bbda-6b4a643304a7-95c8aa79e7e78900/",
-        "published": "2026-08-26T14:00:00Z",
-        "description": "Whales: Giants of the Ocean Whales are among the largest and most remarkable animals on Earth. These marine mammals live in oceans around the world, from warm tropical waters to the cold seas surrounding the poles. Life Beneath the Surface Although whales spend their lives in water, they breathe air through blowholes located on top […]"
       }
     ],
     "filmstage": [
+      {
+        "title": "Michael Mann’s Miami Vice Arriving on 4K This December with “Significantly Recut” Edition",
+        "link": "https://thefilmstage.com/michael-manns-miami-vice-arriving-on-4k-this-december-with-significantly-recut-edition/",
+        "published": "2026-09-28T18:46:34Z",
+        "description": "While recuts are nothing new for Michael Mann, who made some controversial changes to his classic Manhunter just this year, we were surprised to learn the director once more picked up his scalpel and applied it to Miami Vice. Masterpiece and essential text of the 21st century though it maybe, the film had been troubled […]"
+      },
       {
         "title": "Rose Trailer: Sandra Hüller Leads Berlinale Winner and Austria’s Oscar Entry",
         "link": "https://thefilmstage.com/rose-trailer-sandra-huller-leads-berlinale-winner-and-austrias-oscar-entry/",
@@ -1389,12 +1395,6 @@
         "link": "https://thefilmstage.com/new-to-streaming-dead-souls-brand-new-landscape-backrooms-idiots-more/",
         "published": "2026-09-25T13:13:30Z",
         "description": "Each week we highlight the noteworthy titles that have recently hit streaming platforms in the United States. Check out this week’s selections below and past round-ups here. Backrooms (Kane Parsons) The opening five minutes serve as an ideal primer for anybody unfamiliar with Parsons’ Backrooms web series, and who maybe need a little extra convincing that a 20-year-old […]"
-      },
-      {
-        "title": "Oasis: Don’t Look Back in Anger Review: A Wonderfully Unguarded Reunion",
-        "link": "https://thefilmstage.com/oasis-dont-look-back-in-anger-review-a-wonderfully-unguarded-reunion/",
-        "published": "2026-09-25T13:00:00Z",
-        "description": "“I need to be myself / I can’t be no one else.” Has an opening line of a first release better captured the appeal, complexity, and intent of a band than Oasis’ 1994 debut single “Supersonic”? This sense—that brothers Noel and Liam Gallagher could never, ever be anything but themselves—is why the idea of an […]"
       }
     ],
     "cinephilia": [
@@ -1453,7 +1453,7 @@
         "title": "Public Positions",
         "link": "https://www.lrb.co.uk/blog/2026/september/public-positions",
         "published": "2026-09-23T14:20:38Z",
-        "description": "In much of the coverage of the Ed Sheeran-Macklemore debacle, the reality of the incident is turned on its head, as people ask whether Sheeran has..."
+        "description": "Given much of the coverage of the Ed Sheeran-Macklemore debacle, you could be forgiven for thinking that Sheeran had been dropped from his tour for..."
       },
       {
         "title": "Layers of Denial",
@@ -1667,6 +1667,24 @@
     ],
     "nautilus": [
       {
+        "title": "Frogs Wear Bacterial Armor to Defend Against Fungus",
+        "link": "https://nautil.us/frogs-wear-bacterial-armor-to-defend-against-fungus-1285363/",
+        "published": "2026-09-28T22:00:00Z",
+        "description": "It gives them a leg up in survival"
+      },
+      {
+        "title": "Famed Dancer’s Diary Offers Glimpse into Psychosis",
+        "link": "https://nautil.us/famed-dancers-diary-offers-glimpse-into-psychosis-1285359/",
+        "published": "2026-09-28T21:00:00Z",
+        "description": "It’s rare to have a record of someone’s descent into madness"
+      },
+      {
+        "title": "How Menopause Symptoms Could Predict Alzheimer’s Risk",
+        "link": "https://nautil.us/how-menopause-symptoms-could-predict-alzheimers-risk-1285356/",
+        "published": "2026-09-28T20:00:00Z",
+        "description": "It may explain why women develop the disease more than men"
+      },
+      {
         "title": "A Dispatch from the Trenches of Algorithmic Living",
         "link": "https://nautil.us/a-dispatch-from-the-trenches-of-algorithmic-living-1285345/",
         "published": "2026-09-28T18:00:00Z",
@@ -1695,24 +1713,6 @@
         "link": "https://nautil.us/a-blow%e2%80%91by%e2%80%91blow-account-of-what-would-happen-if-the-yellowstone-supervolcano-erupted-now-1285322/",
         "published": "2026-09-26T16:00:00Z",
         "description": "Would it be the end of humanity?"
-      },
-      {
-        "title": "A Striking New Fish Species Discovered in Amazon",
-        "link": "https://nautil.us/a-striking-new-fish-species-discovered-in-amazon-1285318/",
-        "published": "2026-09-26T14:00:00Z",
-        "description": "And it’s already endangered"
-      },
-      {
-        "title": "How Fast You Age During 40s May Predict Memory Lapses in Your 50s",
-        "link": "https://nautil.us/how-fast-you-age-during-40s-may-predict-memory-lapses-in-your-50s-1285315/",
-        "published": "2026-09-26T12:00:00Z",
-        "description": "As if middle-aged people don’t have enough to worry about"
-      },
-      {
-        "title": "Let’s Do Some Leaf-Peeping From Space",
-        "link": "https://nautil.us/lets-do-some-leaf-peeping-from-space-1285302/",
-        "published": "2026-09-25T22:00:00Z",
-        "description": "Fall foliage from hundreds of miles up"
       }
     ],
     "worksinprogress": [],
