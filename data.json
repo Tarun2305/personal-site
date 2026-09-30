@@ -387,28 +387,34 @@
     "reuters": [],
     "bbc": [
       {
-        "title": "'We've just taken control': Passengers describe what happened on flight",
-        "link": "https://www.bbc.co.uk/news/videos/cv70d22kd34do?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-30T15:07:00Z",
-        "description": "Passengers on the Flydubai flight bound for Israel filmed the moments following the stabbing."
+        "title": "Dame Esther Rantzen: A presenter who campaigned for change",
+        "link": "https://www.bbc.co.uk/news/videos/cmn8e8736wjyo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-30T19:00:50Z",
+        "description": "The veteran broadcaster's career spanned street interviews, national campaigns and emotional reunions."
       },
       {
         "title": "UK believes Iran involved in RAF Fairford incident, PM says",
         "link": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-30T15:59:51Z",
-        "description": "The prime minister's comments come days after the suspects were released on the 'strictest possible bail conditions'."
+        "published": "2026-09-30T21:26:59Z",
+        "description": "Iran's foreign minister has responded, saying the PM was \"barking up the wrong tree\"."
+      },
+      {
+        "title": "UK-France 'one in, one out' migrant scheme scrapped",
+        "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-30T17:11:08Z",
+        "description": "Some 1,500 people have been removed to France since the scheme began just over a year ago."
       },
       {
         "title": "China funding UK research and sending it to Beijing's spies, MI5 warns",
         "link": "https://www.bbc.co.uk/news/articles/cwy7zrljp527o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-30T13:49:38Z",
+        "published": "2026-09-30T18:15:15Z",
         "description": "British universities are being urged to sever ties with China General Technology Research Institute which is linked to the Chinese Ministry of State Security (MSS)."
       },
       {
-        "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
-        "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-30T15:29:11Z",
-        "description": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer."
+        "title": "Teens who died in car that entered River Wear named",
+        "link": "https://www.bbc.co.uk/news/articles/ck5yw1zg8lqgo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-30T18:40:18Z",
+        "description": "Jackson Duke, Luke Etheridge and Zara Shaw died when the car they were in ended up in the River Wear."
       },
       {
         "title": "Brexit referendum 'possible' in Labour election manifesto, Burnham tells BBC",
@@ -417,92 +423,74 @@
         "description": "The PM says a referendum wouldn't be the right thing now but the UK needs to consider its options for the future."
       },
       {
-        "title": "Teens who died in car that entered river named",
-        "link": "https://www.bbc.co.uk/news/articles/ck5yw1zg8lqgo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-30T16:51:10Z",
-        "description": "Jackson Duke, Luke Etheridge and Zara Shaw died when the car they were in ended up in the Wear."
+        "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
+        "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-30T15:29:11Z",
+        "description": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer."
       },
       {
         "title": "We fear for our lives after being told our abusive exes will be freed from jail early",
         "link": "https://www.bbc.co.uk/news/articles/crz6zq5pew89o?at_medium=RSS&at_campaign=rss",
         "published": "2026-09-30T16:11:32Z",
         "description": "Three victims of domestic abuse tell the BBC why they feel let down by the early prisoner release scheme."
-      },
-      {
-        "title": "Sussexes condemn 'reckless intrusion' after photographer spotted near Archie and Lilibet's school",
-        "link": "https://www.bbc.co.uk/news/articles/cw0kl62zn0p7o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-30T12:50:51Z",
-        "description": "One of two men seen outside the UK school attended by the children is understood to be an international press photographer."
       }
     ],
     "aljazeera": [
       {
-        "title": "Hundreds of Israelis storm Al-Aqsa Mosque compound",
-        "link": "https://www.aljazeera.com/news/2026/9/30/over-1300-settlers-raid-al-aqsa-mosque-alongside-israeli-forces?traffic_source=rss",
-        "published": "2026-09-30T17:13:05Z",
-        "description": "Israeli raids at Al-Aqsa Mosque compound have intensified during the Jewish holiday season."
+        "title": "Flydubai passengers arrive in Tel Aviv after pilot stabbing",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-passengers-arrive-in-tel-aviv-after-pilot-stabbing?traffic_source=rss",
+        "published": "2026-09-30T21:12:46Z",
+        "description": "A replacement Flydubai aircraft has landed in Israel, carrying passengers from the flight on which a pilot was stabbed."
       },
       {
-        "title": "MI5 warns UK academics to cut ties with Chinese group over alleged spying",
-        "link": "https://www.aljazeera.com/news/2026/9/30/mi5-warns-uk-academics-to-cut-ties-with-chinese-group-over-alleged-spying?traffic_source=rss",
-        "published": "2026-09-30T17:07:09Z",
-        "description": "UK intelligence agency accuses Chinese institute of funding academic research to boost Beijing’s espionage capability."
+        "title": "Gas pipeline explodes in Syria, knocks three power plants offline",
+        "link": "https://www.aljazeera.com/news/2026/9/30/gas-pipeline-explodes-in-syria-knocks-three-power-plants-offline?traffic_source=rss",
+        "published": "2026-09-30T21:01:13Z",
+        "description": "Powe rationing hours are to increase as a result of the blast."
       },
       {
-        "title": "US appeals court halts Tennessee execution of Christa Pike",
-        "link": "https://www.aljazeera.com/news/2026/9/30/us-appeals-court-halts-tennessee-execution-of-christa-pike?traffic_source=rss",
-        "published": "2026-09-30T16:44:16Z",
-        "description": "Christa Pike was set to become the first woman executed by Tennessee in more than 200 years."
+        "title": "Israeli attacks across Gaza kill at least eight",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight?traffic_source=rss",
+        "published": "2026-09-30T20:12:22Z",
+        "description": "Israeli attacks on residential areas across Gaza killed at least eight civilians and wounded others on Wednesday"
       },
       {
-        "title": "Swiss Football Association withdraws support for FIFA boss Gianni Infantino",
-        "link": "https://www.aljazeera.com/sports/2026/9/30/swiss-football-association-withdraws-support-for-fifa-boss-gianni-infantino?traffic_source=rss",
-        "published": "2026-09-30T16:38:25Z",
-        "description": "Executive committee reverses its support ‌for the ​Swiss football administrator after endorsing his candidacy in June."
+        "title": "US judge rules Wisconsin mosque leader Salah Sarsour can be deported",
+        "link": "https://www.aljazeera.com/news/2026/9/30/us-judge-rules-wisconsin-mosque-leader-salah-sarsour-can-be-deported?traffic_source=rss",
+        "published": "2026-09-30T20:00:36Z",
+        "description": "Sarsour’s lawyers say the decision threatens free speech protections and plan to fight the ruling."
       },
       {
-        "title": "Jerusalem Daily: Flight carrying Israelis diverted after stabbing",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/jerusalem-daily-flight-carrying-israelis-diverted-after-stabbing?traffic_source=rss",
-        "published": "2026-09-30T16:36:52Z",
-        "description": "A Flydubai flight to Tel Aviv was diverted after a stabbing, with Israeli officials calling it 'an act of terror'."
+        "title": "Netanyahu praises stabbed Indian pilot for saving lives on Flydubai flight",
+        "link": "https://www.aljazeera.com/news/2026/9/30/netanyahu-praises-indian-pilot-for-saving-lives-on-flydubai-flight?traffic_source=rss",
+        "published": "2026-09-30T19:49:21Z",
+        "description": "The Israeli prime minister thanks 'true hero' Captain Smit Machchhar for 'extraordinary bravery'."
       },
       {
-        "title": "Pentagon says US troop withdrawal from Iraq is complete",
-        "link": "https://www.aljazeera.com/news/2026/9/30/pentagon-says-us-troop-withdrawal-from-iraq-is-complete?traffic_source=rss",
-        "published": "2026-09-30T16:33:02Z",
-        "description": "The withdrawal ends two decades of foreign intervention in Iraq as part of 'global war on terror' and anti-ISIL fight."
+        "title": "US regulator launches probe into AI companies",
+        "link": "https://www.aljazeera.com/economy/2026/9/30/us-regulator-launches-probe-into-ai-companies?traffic_source=rss",
+        "published": "2026-09-30T19:46:35Z",
+        "description": "FTC investigates AI firms amid concerns over rogue agents and potential threats to humanity within the next decade."
       },
       {
-        "title": "Romania’s political crisis intensifies as Parliament rejects pro-EU PM",
-        "link": "https://www.aljazeera.com/news/2026/9/30/romanian-political-crisis-intensifies-as-parliament-rejects-pro-eu-pm?traffic_source=rss",
-        "published": "2026-09-30T16:18:11Z",
-        "description": "Siegfried Muresan's loss of the confidence motion increases the prospect for snap elections."
+        "title": "How does Trump’s White House AI accord work?",
+        "link": "https://www.aljazeera.com/economy/2026/9/30/how-does-trumps-white-house-ai-accord-work?traffic_source=rss",
+        "published": "2026-09-30T19:44:42Z",
+        "description": "Trump announces voluntary pact on AI, urging companies to self-police amid growing calls for strict safety regulations."
       },
       {
-        "title": "What happened on diverted Flydubai flight from Dubai to Tel Aviv?",
-        "link": "https://www.aljazeera.com/news/2026/9/30/what-happened-on-diverted-flydubai-flight-from-dubai-to-tel-aviv?traffic_source=rss",
-        "published": "2026-09-30T15:27:26Z",
-        "description": "Israel's prime minister said one of the pilots stabbed the other and then tried to crash the plane."
+        "title": "Displaced by war, young Sudanese turn to entrepeneurship to survive",
+        "link": "https://www.aljazeera.com/features/2026/9/30/displaced-by-war-young-sudanese-turn-to-entrepeneurship-to-survive?traffic_source=rss",
+        "published": "2026-09-30T19:43:47Z",
+        "description": "Displaced by war and shut out of formal jobs, young Sudanese are turning to art, small businesses, and entrepeneurship."
       }
     ],
     "ft": [
       {
-        "title": "One pilot of Israel-bound flight stabbed the other and tried to crash plane",
-        "link": "https://www.ft.com/content/7ed6ed48-79e4-46c2-968f-f2a69d263d35?syn-25a6b1a6=1",
-        "published": "2026-09-30T16:01:39Z",
-        "description": "Plane carrying more than 150 passengers en route to Tel Aviv was diverted to Saudi Arabia after issuing ‘unlawful interference’ code"
-      },
-      {
-        "title": "‘Strong indications’ Iran was involved in RAF Fairford incident, says Burnham",
-        "link": "https://www.ft.com/content/bb557b06-6880-4bae-a719-fbd733c63787?syn-25a6b1a6=1",
-        "published": "2026-09-30T16:00:10Z",
-        "description": "Prime minister says UK is working closely with US administration following release of five suspects on bail"
-      },
-      {
-        "title": "Fed watchdog finds ‘deficiencies’ in $2.5bn headquarters renovation project",
-        "link": "https://www.ft.com/content/78431eef-50ee-4ec9-9ca6-af801da1e617?syn-25a6b1a6=1",
-        "published": "2026-09-30T17:00:09Z",
-        "description": "Inspector general found no evidence of the criminal wrongdoing alleged by Donald Trump"
+        "title": "US government debt rout triggers ‘vicious loop’ of selling",
+        "link": "https://www.ft.com/content/39de7709-7b5b-42f6-ad90-df50f1308ea2?syn-25a6b1a6=1",
+        "published": "2026-09-30T21:32:32Z",
+        "description": "Yields on 10-year Treasuries soar half a percentage point in worst month in four years"
       },
       {
         "title": "Don’t own bonds and be cautious with stocks",
@@ -511,28 +499,40 @@
         "description": "Balance sheets have become unbalanced and growth in turn may suffer the consequences"
       },
       {
-        "title": "Luxury watches must win back wrist space",
-        "link": "https://www.ft.com/content/838a6480-9888-4f4a-9d2f-8e02cb3889c9?syn-25a6b1a6=1",
-        "published": "2026-09-30T04:00:05Z",
-        "description": "The rise of health-tracking rings creates an opportunity for Cartier, Rolex and the like"
+        "title": "One pilot of Israel-bound flight stabbed the other and tried to crash plane",
+        "link": "https://www.ft.com/content/7ed6ed48-79e4-46c2-968f-f2a69d263d35?syn-25a6b1a6=1",
+        "published": "2026-09-30T20:14:13Z",
+        "description": "Plane carrying more than 150 passengers en route to Tel Aviv was diverted to Saudi Arabia after issuing ‘unlawful interference’ code"
       },
       {
-        "title": "Ken Griffin donates record $3bn to Carnegie Mellon in push for Miami campus",
-        "link": "https://www.ft.com/content/3b5b46d7-2dcf-40f0-82f3-65ab6e4be76b?syn-25a6b1a6=1",
-        "published": "2026-09-30T08:30:05Z",
-        "description": "Record contribution comes as the billionaire seeks to reshape the Florida city to rival the likes of New York and London"
+        "title": "18,000 feet in 90 seconds: Inside Flydubai’s near-catastrophe",
+        "link": "https://www.ft.com/content/ecc95946-92ed-426c-bcf9-e6575e1cf6c6?syn-25a6b1a6=1",
+        "published": "2026-09-30T19:23:22Z",
+        "description": "Disaster was averted on a flight from Dubai to Tel Aviv after one pilot stabbed another"
       },
       {
-        "title": "SEC proposes performance fees for retail funds in private markets push",
-        "link": "https://www.ft.com/content/5e39d12d-c088-458f-9b03-0594292f772e?syn-25a6b1a6=1",
-        "published": "2026-09-30T15:10:39Z",
-        "description": "US securities regulator seeks to widen access to alternative assets and overhaul fund fee rules"
+        "title": "What we know about the Flydubai flight to Israel",
+        "link": "https://www.ft.com/content/cd4611e7-c0ee-4acf-b0dd-e820b067a9f6?syn-25a6b1a6=1",
+        "published": "2026-09-30T17:15:05Z",
+        "description": "Plane made emergency landing in Saudi Arabia after terrifying fight in cockpit"
       },
       {
-        "title": "Russia makes extreme threats against Nato countries over Kaliningrad",
-        "link": "https://www.ft.com/content/1bb7ec8d-7252-4fa3-8c4a-81fa5b6906a2?syn-25a6b1a6=1",
-        "published": "2026-09-30T11:35:42Z",
-        "description": "Kremlin accuses western defence alliance of preparing to blockade Russian exclave on Baltic Sea"
+        "title": "Trump says Powell should resign after Fed watchdog clears ex-chair of misconduct",
+        "link": "https://www.ft.com/content/78431eef-50ee-4ec9-9ca6-af801da1e617?syn-25a6b1a6=1",
+        "published": "2026-09-30T20:56:46Z",
+        "description": "Inspector-general cites ‘deficiencies’ in management of $2.5bn renovation project but finds no evidence of criminal wrongdoing"
+      },
+      {
+        "title": "Paramount names Mattel boss co-CEO as it looks to close Warner Bros deal",
+        "link": "https://www.ft.com/content/baa261b7-681d-41b7-b41a-d704858cd0b2?syn-25a6b1a6=1",
+        "published": "2026-09-30T21:03:06Z",
+        "description": "Ynon Kreiz appointed as the entertainment company looks to integrate two of the most storied entertainment studios"
+      },
+      {
+        "title": "Google releases most advanced Gemini AI model",
+        "link": "https://www.ft.com/content/46194a0b-a0e4-42cc-ad40-0df753492768?syn-25a6b1a6=1",
+        "published": "2026-09-30T21:21:48Z",
+        "description": "Tech giant hopes ‘Argon’ will help it re-establish itself at the frontier of artificial intelligence"
       }
     ],
     "restofworld": [
@@ -692,10 +692,16 @@
     "chelsea_sky": [],
     "guardianfootball": [
       {
-        "title": "Paris FC v Arsenal: Women’s Champions League – live",
-        "link": "https://www.theguardian.com/football/live/2026/sep/30/paris-fc-v-arsenal-womens-champions-league-live",
-        "published": "2026-09-30T17:19:42Z",
-        "description": "⚽ Updates from the 5.45pm BST kick-off in France ⚽ Live scores | Read Moving the Goalposts | Mail Niall 7 mins: Arsenal win another corner and play it short, before Cooney Cross’ ball into the middle bobbles through the penalty area. 5 mins: Lisa Baum lifts a useful cross towards Caldentey, who can’t get enough power on her header from an awkward angle. Continue reading..."
+        "title": "Building of the Pep supremacy is an era that will be defined by sham-ball",
+        "link": "https://www.theguardian.com/football/2026/sep/30/pep-guardiola-manchester-city-premier-league",
+        "published": "2026-09-30T20:00:17Z",
+        "description": "What Guardiola knew at City relates to the true nature of the club and more basic things like spectacle and human nature “Do you know the question that you are asking me? Today, do you honestly think it is my job to make this kind of question happen …” Cut to the long, painful pause. Chuck in a deep, shaming stare, eyes that have suddenly become death rays of betrayal and disgust and Pep Guardiola himself transformed from a man cheerfully toasting his own FA Cup final victory to a grizzled chief detective addressing a room full of convicted perverts. Guardiola had the wind entirely at his back at this point, sitting in the Wembley press room an hour after Manchester City’s 6-0 defeat of…"
+      },
+      {
+        "title": "Rival clubs feel relegating Manchester City to Championship would not be enough",
+        "link": "https://www.theguardian.com/football/2026/sep/30/rival-clubs-feel-relegating-manchester-city-championship-not-enough-premier-league",
+        "published": "2026-09-30T18:55:24Z",
+        "description": "Premier League executives push for severe punishment City maintain they are ‘innocent of the accusations’ The Premier League will face pressure from Manchester City’s rivals to push for a sanction that will result in a prolonged absence from the top flight after the club were found guilty of more than 100 charges of financial rule-breaking. Executives at a number of Premier League clubs have told the Guardian that a points deduction that would relegate City to the Championship for a single season would be insufficient given the scale of what an independent commission described as the club’s “disguised funding scheme” and “sham commercial deals” , which enabled them to artificially inflate…"
       },
       {
         "title": "‘I am here more than ever’: Guardiola backs Manchester City owners over guilty verdicts",
@@ -704,40 +710,34 @@
         "description": "‘I am, always have been, always will, be behind my club’ Former City chair Bernstein calls for directors to quit Pep Guardiola has thrown his support behind Manchester City after the club were found guilty of all charges of breaching Premier League financial rules over a nine-year period, telling fans: “We will get through this together.” Guardiola left City in the summer after a trophy-laden decade in charge, with his first two seasons falling within the period investigated by the independent commission. The Spaniard remains a close ally of the chief executive, Ferran Soriano, who brought him to England, the pair having previously worked together at Barcelona. City maintain their…"
       },
       {
-        "title": "Sham City: verdict on financial breaches is damning and punishment must be severe | Jonathan Wilson",
-        "link": "https://www.theguardian.com/football/2026/sep/29/manchester-city-financial-breaches-verdict-premier-league",
-        "published": "2026-09-29T20:30:10Z",
-        "description": "How can Manchester City be trusted under these owners after they were found to have devised £900m of ‘sham’ contracts? How bad could it be, really? How serious can a breach of arcane financial regulations be, really? Just how damning can accountancy be? Even after Friday’s revelation that Manchester City had been found guilty of all but one of the charges brought against them by the Premier League, it was perhaps difficult to grasp the scale of what that meant. After the publication of the independent commission’s findings, there can be no doubt: the commission found that Manchester City cheated, that they did so deliberately, and that they have sought to cover that up with a campaign of…"
+        "title": "Hampton’s heroics preserve WCL point for Chelsea on Bompastor’s OL Lyonnes return",
+        "link": "https://www.theguardian.com/football/2026/sep/30/ol-lyonnes-chelsea-womens-champions-league-match-report",
+        "published": "2026-09-30T21:11:38Z",
+        "description": "Chelsea claimed a valuable point in the Champions League on their head coach Sonia Bompastor’s return to face her former team, on a night where the English side’s controlled performance merited significant plaudits, even if the match itself was surprisingly low on goalmouth action. The French side had scored eight times in their first fixture in the league phase, away against the Swiss side Servette, and had in fact scored at least seven times in all four matches they had played in all competitions this season. Given that formidable form and the confidence in the hosts’ frontline, Chelsea were grateful to Hannah Hampton for her sharp save from Salma Paralluelo on 20 minutes, and similarly…"
       },
       {
-        "title": "‘A lot of lies’: Ireland manager hits out over coverage of Bazunu exit from Israel game",
-        "link": "https://www.theguardian.com/football/2026/sep/30/republic-of-ireland-manager-hits-out-over-coverage-of-bazunu-exit-from-israel-game",
-        "published": "2026-09-30T14:55:43Z",
-        "description": "Keeper pulled out of both Nations League games with Israel Hallgrímsson confident Sunday’s second match will go ahead The Republic of Ireland manager, Heimir Hallgrímsson, has claimed “a lot of lies” were told over keeper Gavin ⁠Bazunu’s decision to withdraw ⁠from the Nations League ​game against Israel last weekend, and he does not anticipate any problems with Sunday’s second match against them going ahead. Ireland are one of Europe’s most outspoken critics of Israel’s war in Gaza, ⁠and protests calling for the team to boycott the fixture prompted Bazunu to pull out of both games between the two countries. Continue reading..."
+        "title": "‘I like him as a No 9’: Bellingham a striking alternative for England, says Tuchel",
+        "link": "https://www.theguardian.com/football/2026/sep/30/thomas-tuchel-harry-kane-jude-bellingham-trent-alexander-arnold-england-nations-league",
+        "published": "2026-09-30T18:00:15Z",
+        "description": "Head coach sees Real Madrid man as an option up front Kane praises Alexander-Arnold’s impact and work rate Thomas Tuchel’s hunt for alternatives to Harry Kane has led to him identifying Jude Bellingham as an option at No 9 for England. Kane continued his remarkable scoring record in the 2-0 win against Czechia in the Nations League on Tuesday, moving to 87 goals in 123 international appearances with a late strike in Prague, but he has little cover up front. There is no prospect yet of Tuchel having to consider life without Kane. The England head coach backed the 33-year-old striker to last another decade at the highest level, tipped him to reach a century of international goals soon, and…"
       },
       {
-        "title": "Next Generation 2021: why slow and steady sometimes wins the race",
-        "link": "https://www.theguardian.com/football/2026/sep/30/next-generation-2021-why-slow-and-steady-sometimes-wins-the-race",
-        "published": "2026-09-30T10:00:24Z",
-        "description": "Our NextGen picks from five years ago show that breaking through early does not guarantee longevity or future success Read the full updates on our class of 2021 here and here In 2021, as every year, we picked 80 players from around the world who had a chance of making it in world football – 20 from the Premier League and 60 from the rest of the world – as part of our Next Generation series . We then follow these talented boys on their journeys for five years. Often it is almost impossible to predict how they will get on (OK, when Sid Lowe sent over Lamine Yamal in 2024 we had an inkling he might do well). The ball-playing central midfielder comes from a footballing family and academy staff…"
+        "title": "Leah Williamson blunder gifts Paris FC a point as Arsenal’s struggles continue",
+        "link": "https://www.theguardian.com/football/2026/sep/30/paris-fc-arsenal-womens-champions-league-match-report",
+        "published": "2026-09-30T19:31:37Z",
+        "description": "Renée Slegers did not attend the post‑match press conference, the manager understood to have been too furious after Arsenal threw away a two-goal lead in their draw with Paris FC on Wednesday night. The assistant coach Aaron D’Antino stepped in to speak to the media instead of Slegers, after a disastrous mix-up between the goalkeeper Misa Rodríguez and the centre-back Leah Williamson gifted Paris FC a penalty that Maeline Mendy converted to deny Arsenal all three points in the Champions League. Continue reading..."
       },
       {
         "title": "Craig Bellamy urges Wales improvement but wary of Norway’s threat",
         "link": "https://www.theguardian.com/football/2026/sep/30/craig-bellamy-wales-norway-nations-league-erling-haaland-manchester-city",
         "published": "2026-09-30T17:11:37Z",
-        "description": "Wales ‘unrecognisable’ in defeat against Denmark Haaland ‘exactly the same’ after Manchester City verdict Craig Bellamy has said Wales must improve against Norway on Thursday after appearing unrecognisable in defeat against Denmark, and highlighted their next opponent’s run to the World Cup quarter-finals as proof of their talent. Wales host Norway in Cardiff on Thursday hoping to record their first win since last November and their first since promotion to Nations League A. “This team has been on a surge,” Bellamy said of Ståle Solbakken’s side. “They are progressing and they will keep going as well – they ain’t going away, especially with the youngsters they’ve got coming through. We’ve…"
+        "description": "Wales ‘unrecognisable’ in defeat against Denmark Haaland ‘exactly the same’ after Manchester City verdict Craig Bellamy has said Wales must improve against Norway on Thursday after appearing unrecognisable in their defeat against Denmark , and highlighted their next opponents’ run to the World Cup quarter-finals as proof of their talent. Wales host Norway in Cardiff hoping to record their first win since last November and their first since promotion to Nations League A. “This team has been on a surge,” he said of Ståle Solbakken’s side. “They are progressing and they will keep going as well – they ain’t going away, especially with the youngsters they’ve got coming through. We’ve all been…"
       },
       {
-        "title": "Cristiano Ronaldo misses Portugal training amid reports of rift with coach Jesus",
-        "link": "https://www.theguardian.com/football/2026/sep/30/cristiano-ronaldo-misses-portugal-training-jorge-jesus-denmark",
-        "published": "2026-09-30T14:01:38Z",
-        "description": "Veteran left on bench by Jorge Jesus for win in Norway The 41-year-old has trained alone in gym since weekend Cristiano Ronaldo’s continued absence from Portugal team training has led to speculation that the 41-year-old might miss his country’s match in Denmark on Thursday due to a rift with the head coach, Jorge Jesus. Ronaldo, the all-time leading scorer in men’s international football and pursuing the milestone of 1,000 career goals , was left on the bench on Sunday in Portugal’s 2-1 win at Norway in the Nations League. He has not practised with the team since then, doing only gym work, the Portuguese Football Federation said. Continue reading..."
-      },
-      {
-        "title": "Disguised funding and dishonest witnesses: key findings in Manchester City case",
-        "link": "https://www.theguardian.com/football/2026/sep/29/disguised-funding-and-dishonest-witnesses-key-findings-in-manchester-city-case-premier-league",
-        "published": "2026-09-29T21:02:02Z",
-        "description": "After the Premier League published the ‘core decision’ of its independent commission, we pick out the main elements The independent commission’s “core decision” is a 40-page document which appears to confirm the worst interpretation of Manchester City’s behaviour. Central to the finding that the club were guilty of all charges of breaching the Premier League’s financial rules is the conclusion that City’s lucrative sponsorship arrangements were “shams” . Continue reading..."
+        "title": "‘A lot of lies’: Ireland manager hits out over coverage of Bazunu exit from Israel game",
+        "link": "https://www.theguardian.com/football/2026/sep/30/republic-of-ireland-manager-hits-out-over-coverage-of-bazunu-exit-from-israel-game",
+        "published": "2026-09-30T14:55:43Z",
+        "description": "Keeper pulled out of Nations League games with Israel Hallgrímsson confident Sunday’s rematch will go ahead The Republic of Ireland manager, Heimir Hallgrímsson, has claimed “a lot of lies” were told over the goalkeeper Gavin Bazunu’s decision to withdraw from the Nations League ​game against Israel last weekend, and he does not anticipate any problems with the second match against them going ahead on Sunday. Ireland are one of Europe’s most outspoken critics of Israel’s war in Gaza, and protests calling for the team to boycott the fixture prompted Bazunu to pull out of both games between the two countries. Continue reading..."
       }
     ],
     "spielverlagerung": [
@@ -842,6 +842,18 @@
     ],
     "wagnh": [
       {
+        "title": "OL Lyonnes 0-0 Chelsea FCW, UEFA Women’s Champions League: Post-match reaction",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/172684/ol-lyonnes-0-0-chelsea-fcw-uefa-womens-champions-league-post-match-reaction",
+        "published": "2026-09-30T21:02:19Z",
+        "description": "When facing a side like OL Lyonnes at their home ground, you can never let your guard down. Chelsea Women took this lesson to the extreme, which made for a rather uneventful first half as the hosts themselves were also very wary of the Blues’ ability to breach through a defence and find a goal […]"
+      },
+      {
+        "title": "OL Lyonnes vs. Chelsea FCW, UEFA Women’s Champions League: Confirmed lineups; how to watch",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/172679/ol-lyonnes-vs-chelsea-fcw-uefa-womens-champions-league-confirmed-lineups-how-to-watch",
+        "published": "2026-09-30T18:03:43Z",
+        "description": "Two clubs consistently among Europe’s elite face each other in France today. The hosts are looking to revive their days of dominating the continent, beating every opponent in their way to a title. The visitors came close to glory on a few occasions, but were never able to fetch it for themselves. Coming out on […]"
+      },
+      {
         "title": "The Daily Hilario: Wednesday",
         "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/172651/the-daily-hilario-september-30th",
         "published": "2026-09-30T07:15:20Z",
@@ -876,18 +888,6 @@
         "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/172619/the-daily-hilario-september-29th",
         "published": "2026-09-29T07:03:55Z",
         "description": "Most How about your team wins it first? Hmm"
-      },
-      {
-        "title": "Roméo Lavia starts for Belgium against Maxence Lacroix and France",
-        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/172622/romeo-lavia-starts-for-belgium-against-maxence-lacroix-and-france",
-        "published": "2026-09-29T03:06:36Z",
-        "description": "Chelsea teammates Roméo Lavia and Maxence Lacroix faced off in Nations League action on Monday, an occasion perhaps most notable for it being Lavia’s first ever senior international start. It was the 22-year-old third ever appearance and second in just a few days — certainly a welcome development considering he had to wait over three […]"
-      },
-      {
-        "title": "Pedro Neto sets up João Félix in Portugal win",
-        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/172612/pedro-neto-sets-up-joao-felix-in-portugal-win",
-        "published": "2026-09-28T07:05:52Z",
-        "description": "Portugal made it two wins from two in their Nations League campaign as they triumphed over World Cup darlings Norway last night in Oslo. Former Blue (twice over) João Félix got the game’s only first-half goal when he was set up by current Blue Pedro Neto from the left wing, before Erling Haaland and Gonçalo […]"
       }
     ],
     "rym": [],
@@ -1045,6 +1045,12 @@
     ],
     "bandcampdaily": [
       {
+        "title": "The Best Field Recordings on Bandcamp, September 2026",
+        "link": "https://daily.bandcamp.com/best-field-recordings/the-best-field-recordings-on-bandcamp-september-2026",
+        "published": "2026-09-30T18:09:23Z",
+        "description": "A higher-than-average number of insects make the scene on September's best sounds captured outside the studio. Read full story on the Bandcamp Daily ."
+      },
+      {
         "title": "TV Buddha, “Hallelujah Anyway”",
         "link": "https://daily.bandcamp.com/album-of-the-day/tv-buddha-hallelujah-anyway-review",
         "published": "2026-09-30T14:01:36Z",
@@ -1085,12 +1091,6 @@
         "link": "https://daily.bandcamp.com/tape-label-report/the-tape-label-report-september-2026",
         "published": "2026-09-28T17:25:26Z",
         "description": "5 more tape labels to know and love. How have we not run out yet. Read full story on the Bandcamp Daily ."
-      },
-      {
-        "title": "The Best Hip-Hop on Bandcamp, September 2026",
-        "link": "https://daily.bandcamp.com/best-hip-hop/the-best-hip-hop-on-bandcamp-september-2026",
-        "published": "2026-09-28T13:31:27Z",
-        "description": "Our guide to the month’s crucial hip-hop LPs. Read full story on the Bandcamp Daily ."
       }
     ],
     "toneglow": [
@@ -1450,34 +1450,34 @@
     "nyrb": [],
     "lrb": [
       {
-        "title": "Ozempic in Iran",
-        "link": "https://www.lrb.co.uk/blog/2026/september/ozempic-in-iran",
-        "published": "2026-09-29T15:02:41Z",
-        "description": "In Iran, as elsewhere, GLP-1 agonists such as semaglutide and tirzepatide offer a chance to address obesity, improve organ functioning and treat..."
-      },
-      {
-        "title": "Public Positions",
-        "link": "https://www.lrb.co.uk/blog/2026/september/public-positions",
-        "published": "2026-09-23T14:20:38Z",
-        "description": "Given much of the coverage of the Ed Sheeran-Macklemore debacle, you could be forgiven for thinking that Sheeran had been dropped from his tour for..."
-      },
-      {
-        "title": "Layers of Denial",
-        "link": "https://www.lrb.co.uk/blog/2026/september/layers-of-denial",
-        "published": "2026-09-23T13:45:53Z",
-        "description": "The frenzy in Israel surrounding the documentary NAZA is fundamentally undemocratic. That is what happens after years of extreme right-wing populism,..."
-      },
-      {
-        "title": "Johnny Marr’s Guitars",
-        "link": "https://www.lrb.co.uk/blog/2026/september/johnny-marr-s-guitars",
-        "published": "2026-09-21T17:40:32Z",
-        "description": "The Smiths kicked off the Scottish leg of their Meat is Murder tour at the Magnum Leisure Centre in Irvine New Town on 22 September 1985, and I was at..."
-      },
-      {
         "title": "In Bishkek",
         "link": "https://www.lrb.co.uk/blog/2026/september/in-bishkek",
         "published": "2026-09-18T15:50:28Z",
         "description": "Kok-boru is a horseback sport related to polo, played with a headless goat carcass rather than a ball and mallets. The equestrian scrums are violent..."
+      },
+      {
+        "title": "Human Melting",
+        "link": "https://www.lrb.co.uk/blog/2026/september/human-melting",
+        "published": "2026-09-17T14:46:18Z",
+        "description": "Planning regulations were modified last year, with AI data centres redefined as ‘nationally significant infrastructure projects’. Any attempt by a..."
+      },
+      {
+        "title": "The Resistible Rise of the AfD",
+        "link": "https://www.lrb.co.uk/blog/2026/september/the-resistible-rise-of-the-afd",
+        "published": "2026-09-16T16:50:21Z",
+        "description": "A desperate flurry of possible solutions, from the stopgap to the structural, has whirled across the German political establishment and media in the..."
+      },
+      {
+        "title": "Active Dying",
+        "link": "https://www.lrb.co.uk/blog/2026/september/active-dying",
+        "published": "2026-09-16T12:06:29Z",
+        "description": "In July 2021 my Uncle Bilal was dying of lymphoma. In the days before his death, our family gathered at his hospital bed to ‘keep him comfortable..."
+      },
+      {
+        "title": "9/15",
+        "link": "https://www.lrb.co.uk/blog/2026/september/9-15",
+        "published": "2026-09-15T14:44:07Z",
+        "description": "On Saturday, 15 September 2001, a friend and I went to help the members of an Anglia TV documentary team collect their belongings from a building near..."
       }
     ],
     "larb": [],
@@ -1667,6 +1667,18 @@
     ],
     "nautilus": [
       {
+        "title": "Your Speech May Contain Hidden Information About How Fast You’re Aging",
+        "link": "https://nautil.us/your-speech-may-contain-hidden-information-about-how-fast-youre-aging-1285433/",
+        "published": "2026-09-30T20:00:00Z",
+        "description": "What you say truly isn’t as important as how you say it"
+      },
+      {
+        "title": "“Morally Binding” AI Safety Pledge Mocked",
+        "link": "https://nautil.us/morally-binding-ai-safety-pledge-mocked-1285430/",
+        "published": "2026-09-30T18:00:00Z",
+        "description": "AI Safety experts seem to agree the companies can’t self-regulate, and the new White House accord lacks teeth"
+      },
+      {
         "title": "A Photographic Look at Sputnik 1, the Satellite That Launched the Space Age 69 Years Ago",
         "link": "https://nautil.us/a-photographic-look-at-sputnik-1-the-satellite-that-launched-the-space-age-69-years-ago-1285418/",
         "published": "2026-09-30T16:00:00Z",
@@ -1701,18 +1713,6 @@
         "link": "https://nautil.us/ice-age-spear-points-tell-a-fascinating-story-of-human-progress-1285384/",
         "published": "2026-09-29T20:00:00Z",
         "description": "What do we keep, and what do we throw away?"
-      },
-      {
-        "title": "Do Transplanted Hearts Assume the Age of Their New Host?",
-        "link": "https://nautil.us/do-transplanted-hearts-assume-the-age-of-their-new-host-1285381/",
-        "published": "2026-09-29T19:00:00Z",
-        "description": "Experiments in humans and mice suggest a way to make more organs available for transplant, but may squash a theory of rejuvenation"
-      },
-      {
-        "title": "The Sleep Cycle of Ideas, Seeded Dream Poems, and the Queen of Dinosaurs: 8 Books We’re Excited to Read This October",
-        "link": "https://nautil.us/the-sleep-cycle-of-ideas-seeded-dream-poems-and-the-queen-of-dinosaurs-8-books-were-excited-to-read-this-october-1285375/",
-        "published": "2026-09-29T16:00:00Z",
-        "description": "The Nautilus monthly reading list"
       }
     ],
     "worksinprogress": [],
@@ -1918,6 +1918,12 @@
     ],
     "longreads": [
       {
+        "title": "Hockey Dads and Hockey Sons",
+        "link": "https://longreads.com/2026/09/30/ice-hockey-kids-violence-parenting/",
+        "published": "2026-09-30T19:11:22Z",
+        "description": "\"Parenting is a practice. You learn from your mistakes and then repeat them anyway.\""
+      },
+      {
         "title": "A Record of Breath",
         "link": "https://longreads.com/2026/09/30/preservation-oxford-american/",
         "published": "2026-09-30T15:36:30Z",
@@ -1958,12 +1964,6 @@
         "link": "https://longreads.com/2026/09/28/gen-z-undertakers-britain/",
         "published": "2026-09-28T13:00:00Z",
         "description": "\"Could apprentice undertakers solve youth unemployment?\""
-      },
-      {
-        "title": "The Top 5 Longreads of the Week",
-        "link": "https://longreads.com/2026/09/25/top-5-626/",
-        "published": "2026-09-25T10:00:00Z",
-        "description": "In this edition: the cuckoo’s nest, fruitful work, keys and locks, commander in fief; perfect sound forever, and more."
       }
     ]
   }
