@@ -387,155 +387,161 @@
     "reuters": [],
     "bbc": [
       {
-        "title": "Veteran broadcaster Dame Esther Rantzen dies aged 86",
-        "link": "https://www.bbc.co.uk/news/articles/c4g4z255y30o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-01T01:10:30Z",
-        "description": "Rantzen, who fronted the BBC's That's Life for two decades, went on to found Childline, and in recent years had been a campaigner for assisted dying."
-      },
-      {
-        "title": "How That's Life! gave Esther Rantzen a career-defining moment",
-        "link": "https://www.bbc.co.uk/news/articles/c3gr5ynd5p1o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-30T18:19:30Z",
-        "description": "Sir Nicholas Winton's story became national news when he appeared on That's Life! in February 1988."
-      },
-      {
-        "title": "'Hero' pilot stabbed by other pilot on Israel-bound plane, Israeli PM says",
-        "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-01T02:29:04Z",
-        "description": "Passengers and crew overpowered the attacker and safely landed the plane in Saudi Arabia."
-      },
-      {
-        "title": "Tennessee death row inmate Christa Pike taken to hospital after attempted execution, lawyer says",
-        "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-01T03:25:51Z",
-        "description": "One of her attorneys told the BBC that Pike, 50, was in hospital after two syringes of pentobarbital had been administered."
-      },
-      {
-        "title": "Employers should teach primary-age children about work, says Milburn",
-        "link": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-30T21:40:31Z",
-        "description": "The author of a major report into youth activity in the UK says children as young as four should be learning about careers."
-      },
-      {
-        "title": "China has cracked down on AI relationships. Is it ahead of the game?",
-        "link": "https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-30T23:25:23Z",
-        "description": "Beijing has cracked down on AI chatbots that can replicate human relationships. Experts are asking if this is the right thing to do."
-      },
-      {
-        "title": "Celebrity Traitors is back - here's what you need to know ahead of the first show",
-        "link": "https://www.bbc.co.uk/news/articles/ckqxvnpy7e49o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-01T00:09:38Z",
-        "description": "Maya Jama, Michael Sheen and Bella Ramsey are among this year's celebrities taking part in the show."
-      },
-      {
         "title": "We fear for our lives after being told our abusive exes will be freed from jail early",
         "link": "https://www.bbc.co.uk/news/articles/crz6zq5pew89o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-30T16:11:32Z",
+        "published": "2026-10-01T05:56:47Z",
         "description": "Three victims of domestic abuse tell the BBC why they feel let down by the early prisoner release scheme."
+      },
+      {
+        "title": "US death row inmate survives execution attempt after two lethal injections",
+        "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-01T09:59:59Z",
+        "description": "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital."
+      },
+      {
+        "title": "What happened in failed execution of Christa Pike - and what next?",
+        "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-01T10:29:49Z",
+        "description": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions."
+      },
+      {
+        "title": "Travelodge failed sex assault victim 'at every stage', review finds",
+        "link": "https://www.bbc.co.uk/news/articles/c93429dg425o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-01T11:44:40Z",
+        "description": "Room intrusions were still being reported at one-in-10 Travelodge hotels this summer, a review finds."
+      },
+      {
+        "title": "Moment Esther Rantzen surprises Nicholas Winton with children he saved",
+        "link": "https://www.bbc.co.uk/news/videos/cxnvlvm2r85zo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-01T09:07:36Z",
+        "description": "One of her most memorable career moments came during one particular episode in 1988 - the footage of which has gone viral several times over in recent years."
+      },
+      {
+        "title": "Tiny image sparks big backlash in Nikon photo contest",
+        "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-30T23:10:19Z",
+        "description": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest."
+      },
+      {
+        "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
+        "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-01T11:26:46Z",
+        "description": "A pilot who stabbed another pilot on an Israel-bound plane is being investigated in Saudi Arabia, Benjamin Netanyahu says."
+      },
+      {
+        "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+        "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-01T11:37:46Z",
+        "description": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains."
       }
     ],
     "aljazeera": [
       {
-        "title": "AFCON 2027: East Africa races to get tournament-ready",
-        "link": "https://www.aljazeera.com/news/2026/10/1/afcon-2027-east-africa-races-to-get-tournament-ready?traffic_source=rss",
-        "published": "2026-10-01T03:04:24Z",
-        "description": "Kenya, Uganda and Tanzania have less than nine months to prepare for AFCON 2027."
+        "title": "How was the Flydubai pilot who attacked his co-pilot cleared to fly?",
+        "link": "https://www.aljazeera.com/news/2026/10/1/how-was-the-flydubai-pilot-who-attacked-his-co-pilot-cleared-to-fly?traffic_source=rss",
+        "published": "2026-10-01T11:50:25Z",
+        "description": "The Flydubai scare has raised several questions for Israel and the civil aviation industry."
       },
       {
-        "title": "US Supreme Court clears way for Christa Pike’s execution in Tennessee",
-        "link": "https://www.aljazeera.com/news/2026/10/1/us-supreme-court-clears-way-for-christa-pikes-execution-in-tennessee?traffic_source=rss",
-        "published": "2026-10-01T02:35:59Z",
-        "description": "Top court's decision overturns last-minute stay that had stalled Tennessee's first execution of a woman in 200 years."
+        "title": "UAE investigates possible ‘terrorist’ link in attack on flight to Israel",
+        "link": "https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss",
+        "published": "2026-10-01T11:46:08Z",
+        "description": "Investigators will probe whether incident was linked to any 'terrorist activity or intent', UAE state media reports."
       },
       {
-        "title": "Hegseth announces 20% cut to US military commanders",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/hegseth-announces-20-cut-to-us-military-commanders?traffic_source=rss",
-        "published": "2026-10-01T02:34:55Z",
-        "description": "US Secretary of Defense Pete Hegseth says he’s firing 20% of the military’s generals and admirals."
+        "title": "Carlos Queiroz quits as Ghana coach after AFCON qualifying defeats",
+        "link": "https://www.aljazeera.com/sports/2026/10/1/carlos-queiroz-quits-as-ghana-coach-after-afcon-qualifying-defeats?traffic_source=rss",
+        "published": "2026-10-01T11:43:04Z",
+        "description": "The Portuguese oversaw two defeats in the qualifying round for AFCON 2027 since taking the job again on September 2."
       },
       {
-        "title": "UK says Iran may be linked to alleged airbase plot, drawing angry denial",
-        "link": "https://www.aljazeera.com/news/2026/10/1/uk-says-iran-may-be-linked-to-alleged-airbase-plot-drawing-angry-denial?traffic_source=rss",
-        "published": "2026-10-01T02:30:45Z",
-        "description": "Andy Burnham says UK has 'strong indications' Iran involved in alleged security incident at RAF base used by US."
+        "title": "Jewish human rights barrister, 94, arrested for supporting Palestine Action",
+        "link": "https://www.aljazeera.com/news/2026/10/1/jewish-human-rights-barrister-94-arrested-for-supporting-palestine-action?traffic_source=rss",
+        "published": "2026-10-01T11:42:27Z",
+        "description": "Margaret Owen OBE, a celebrated human rights lawyer and friend of Ed Miliband’s late mother, talks to Al Jazeera."
       },
       {
-        "title": "Iraq celebrates Sovereignty Day as US troops complete withdrawal",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iraq-celebrates-sovereignty-day-as-us-troops-complete-withdrawal?traffic_source=rss",
-        "published": "2026-10-01T01:11:22Z",
-        "description": "Night time celebrations filled the air as Iraqis observed the start of a four-day holiday."
+        "title": "Minaret of Indian mosque collapses during controversial demolition",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/01-10-clip-shahi-mosque-demolition-minaret-in?traffic_source=rss",
+        "published": "2026-10-01T11:39:56Z",
+        "description": "Video shows the moment the minaret of India’s 600-year-old Ujjain mosque collapsed during demolition work."
       },
       {
-        "title": "Passengers tell of ‘nightmare’ onboard diverted Flydubai flight",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/passengers-tell-of-nightmare-onboard-diverted-flydubai-flight?traffic_source=rss",
-        "published": "2026-10-01T00:53:54Z",
-        "description": "Israeli passengers tell of the horror onboard the Flydubai flight that was diverted after a pilot was stabbed."
+        "title": "Afghanistan says Pakistani airstrikes killed women and children",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-airstrikes-killed-women-and-children?traffic_source=rss",
+        "published": "2026-10-01T11:38:59Z",
+        "description": "Afghan officials say at least nine women and children were killed and 11 people wounded by Pakistani air attacks."
       },
       {
-        "title": "Iran parades Shahed drones through capital",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iran-parades-shahed-drones-through-capital?traffic_source=rss",
-        "published": "2026-10-01T00:39:04Z",
-        "description": "Crowds cheered and waved national flags as two Shahed drones were paraded through Tehran."
+        "title": "Alex Eala loses Asian Games semifinal to China’s Wang Xiyu",
+        "link": "https://www.aljazeera.com/sports/2026/10/1/alex-eala-loses-asian-games-semifinal-to-chinas-wang-xiyu?traffic_source=rss",
+        "published": "2026-10-01T11:27:56Z",
+        "description": "World number 18 Eala was beaten 3-6, 6-3, 6-2 by 85th-ranked Xiyu, who will face compatriot Zhang Shuai in the final."
       },
       {
-        "title": "Iran war live: Trump hints US could strike Iran, warns time coming",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss",
-        "published": "2026-10-01T00:00:00Z",
-        "description": "Trump says the US may “blow up” Iran or strike a deal, insisting the standoff will end very soon one way or the other."
+        "title": "Christa Pike execution fails: What next when a lethal injection is botched?",
+        "link": "https://www.aljazeera.com/news/2026/10/1/christa-pike-execution-fails-what-next-when-a-lethal-injection-is-botched?traffic_source=rss",
+        "published": "2026-10-01T10:52:42Z",
+        "description": "Only woman on Tennessee 'death row' is in hospital after two injections failed to kill her."
       }
     ],
     "ft": [
       {
-        "title": "US government debt rout triggers ‘vicious loop’ of selling",
-        "link": "https://www.ft.com/content/39de7709-7b5b-42f6-ad90-df50f1308ea2?syn-25a6b1a6=1",
-        "published": "2026-09-30T21:32:32Z",
-        "description": "Yields on 10-year Treasuries soar half a percentage point in worst month in four years"
+        "title": "Global bond sell-off pushes 10-year Treasury yield to highest since 2002",
+        "link": "https://www.ft.com/content/e485a228-1efe-426b-addc-26069ba48bf3?syn-25a6b1a6=1",
+        "published": "2026-10-01T11:12:41Z",
+        "description": "Sovereign debt costs around world return to multiyear highs"
       },
       {
-        "title": "Don’t own bonds and be cautious with stocks",
-        "link": "https://www.ft.com/content/c05f3ba5-e24e-4c88-86ed-04f4b229cd15",
-        "published": "2026-09-30T15:53:05Z",
-        "description": "Balance sheets have become unbalanced and growth in turn may suffer the consequences"
+        "title": "Four potential positives from higher bond yields",
+        "link": "https://www.ft.com/content/96e004e0-43ab-46e6-9116-fabfc7251496?syn-25a6b1a6=1",
+        "published": "2026-10-01T08:37:57Z",
+        "description": "The sharp rise in borrowing costs has raised justified alarm but there are benefits too"
       },
       {
-        "title": "18,000 feet in 90 seconds: Inside Flydubai’s near-catastrophe",
+        "title": "An optimist’s guide to the bond market",
+        "link": "https://www.ft.com/content/4ab6df98-f14d-49d1-a170-8087dc517b08?syn-25a6b1a6=1",
+        "published": "2026-10-01T05:30:04Z",
+        "description": "It could be a lot worse. Really!"
+      },
+      {
+        "title": "18,000 feet in 90 seconds: inside Flydubai’s near-catastrophe",
         "link": "https://www.ft.com/content/ecc95946-92ed-426c-bcf9-e6575e1cf6c6?syn-25a6b1a6=1",
         "published": "2026-09-30T19:23:22Z",
         "description": "Disaster was averted on a flight from Dubai to Tel Aviv after one pilot stabbed another"
       },
       {
-        "title": "What we know about the Flydubai flight to Israel",
-        "link": "https://www.ft.com/content/cd4611e7-c0ee-4acf-b0dd-e820b067a9f6?syn-25a6b1a6=1",
-        "published": "2026-09-30T17:15:05Z",
-        "description": "Plane made emergency landing in Saudi Arabia after terrifying fight in cockpit"
+        "title": "An AI sovereign wealth fund isn’t progressive — it’s techno-imperialism",
+        "link": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+        "published": "2026-10-01T10:53:26Z",
+        "description": "Accruing income at home from land and power abroad has an old name: empire"
       },
       {
-        "title": "How the UAE became a destination for Israelis",
-        "link": "https://www.ft.com/content/08109881-f33c-43e0-9dc6-fc3a00d4e35b?syn-25a6b1a6=1",
-        "published": "2026-09-30T18:30:42Z",
-        "description": "Security incident on a Flydubai plane to Tel Aviv risks casts doubt on the Arab nation’s status as a safe haven for Israelis"
+        "title": "How Europe can stall Russia’s hybrid war",
+        "link": "https://www.ft.com/content/cd2e89d3-2606-4116-b523-309450462d2b",
+        "published": "2026-10-01T04:00:16Z",
+        "description": "Enhancing domestic security, using new technologies and negotiating guardrails could lessen the risk of mass-casualty events"
       },
       {
-        "title": "Trump says Powell should quit Fed board despite being cleared of misconduct",
-        "link": "https://www.ft.com/content/78431eef-50ee-4ec9-9ca6-af801da1e617?syn-25a6b1a6=1",
-        "published": "2026-09-30T20:56:46Z",
-        "description": "Watchdog cites ‘deficiencies’ in management of $2.5bn renovation project but finds no evidence of criminal wrongdoing"
+        "title": "Manchester City chair shielded by diplomatic immunity",
+        "link": "https://www.ft.com/content/125675ee-0d2c-4ffc-b7c5-814dd6b82612?syn-25a6b1a6=1",
+        "published": "2026-10-01T04:00:24Z",
+        "description": "Khaldoon al-Mubarak was granted immunity six years ago, protecting him from potential legal proceedings in the UK"
       },
       {
-        "title": "Tencent leases 100,000 chips from Oracle to accelerate AI push",
-        "link": "https://www.ft.com/content/8799b33d-f07c-4a03-82f0-bf5d3d1d29e9?syn-25a6b1a6=1",
-        "published": "2026-10-01T02:57:46Z",
-        "description": "WeChat owner strikes deal to access US group’s south-east Asia data centres amid race with ByteDance and Alibaba"
-      },
-      {
-        "title": "Google releases most advanced Gemini AI model",
-        "link": "https://www.ft.com/content/46194a0b-a0e4-42cc-ad40-0df753492768?syn-25a6b1a6=1",
-        "published": "2026-09-30T21:21:48Z",
-        "description": "Tech giant hopes ‘Argon’ will help it re-establish itself at the frontier of artificial intelligence"
+        "title": "Top Man City sponsor threatens legal action against Premier League",
+        "link": "https://www.ft.com/content/188752a3-c43c-4bad-a59b-19d76074b1e0?syn-25a6b1a6=1",
+        "published": "2026-09-30T21:36:16Z",
+        "description": "Etihad Airways says football body’s communication on critical report into club has ‘damaging implications’"
       }
     ],
     "restofworld": [
+      {
+        "title": "Awkward: Saudi Arabia’s new EV brand takes on the U.S. rival it already controls",
+        "link": "https://restofworld.org/2026/saudi-arabia-ceer-motors-ev-exobot-pif-lucid-byd/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "published": "2026-10-01T10:00:00Z",
+        "description": "The Saudi wealth fund’s new EV will compete with Chinese rivals and with Lucid, the U.S. carmaker the fund controls."
+      },
       {
         "title": "AI companies want to embed safety evaluators, but countries need their own",
         "link": "https://restofworld.org/2026/ai-safety-independent-evaluation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
@@ -577,15 +583,15 @@
         "link": "https://restofworld.org/2026/nvidia-open-source-ai-models-uae/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
         "published": "2026-09-21T10:00:00Z",
         "description": "The Emirates owns the machines but rents the intelligence. Nvidia’s next free AI model could change that."
-      },
-      {
-        "title": "The case for a robot tax to redistribute wealth",
-        "link": "https://restofworld.org/2026/robot-tax-ai-wealth-redistribution/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "published": "2026-09-18T10:00:00Z",
-        "description": "In an excerpt from his book, “Innovate for Impact: A Roadmap to Sustainable Technology Beyond AI,” Alessandro Crimi explains that a tax on automation is more effective than retraining labor."
       }
     ],
     "propublica": [
+      {
+        "title": "Four Kids in One Faith-Healing Family Died. Authorities Could Do Nothing.",
+        "link": "https://www.propublica.org/article/idaho-faith-healing-multiple-deaths",
+        "published": "2026-10-01T09:00:00Z",
+        "description": ""
+      },
       {
         "title": "A Girl Nearly Died After Drinking Raw Milk. The State Did Little to Punish the Unlicensed Farmer Who Sold It.",
         "link": "https://www.propublica.org/article/california-raw-milk-regulation-emily-marris-moonlight-ridge-farm",
@@ -626,12 +632,6 @@
         "title": "Colorado Marijuana Company Voluntarily Recalls Dozens of Contaminated Products Amid State Regulatory Delays",
         "link": "https://www.propublica.org/article/marijuana-vape-recall-craft-colorado-regulatory-delay",
         "published": "2026-09-25T16:45:00Z",
-        "description": ""
-      },
-      {
-        "title": "Across the Country, Youth Prisons Are Closing. This State Is Building More.",
-        "link": "https://www.propublica.org/article/juvenile-crime-decrease-youth-prisons-tennessee-construction",
-        "published": "2026-09-25T09:00:00Z",
         "description": ""
       }
     ],
@@ -692,52 +692,52 @@
     "chelsea_sky": [],
     "guardianfootball": [
       {
+        "title": "City sponsor Etihad Airways considering legal action against the Premier League",
+        "link": "https://www.theguardian.com/football/2026/sep/30/etihad-airways-considering-legal-action-premier-league-manchester-city",
+        "published": "2026-09-30T21:30:33Z",
+        "description": "Airline ‘categorically rejects’ commission’s guilty verdict Etihad has been club’s principal shirt sponsor since 2009 Manchester City’s main sponsor, Etihad Airways, is considering legal action against the Premier League following its publication of the independent commission’s core decision on more than 100 findings of financial rule breaches by the club. In a statement released on Wednesday evening, Etihad said it “categorically rejects” the guilty verdicts of the independent commission, which it claimed had “damaging implications” for the airline, despite not being named in the published report. Continue reading..."
+      },
+      {
         "title": "Building of the Pep supremacy is an era that will be defined by sham-ball",
         "link": "https://www.theguardian.com/football/2026/sep/30/pep-guardiola-manchester-city-premier-league",
         "published": "2026-09-30T20:00:17Z",
         "description": "Guardiola’s success at Manchester City was underpinned by financial cheating. Now he can only double down on his adherence to the owners “Do you know the question that you are asking me? Today, do you honestly think it is my job to make this kind of question happen …” Cut to the long, painful pause. Chuck in a deep, shaming stare, eyes that have suddenly become death rays of betrayal and disgust and Pep Guardiola himself transformed from a man cheerfully toasting his own FA Cup final victory to a grizzled chief detective addressing a room full of convicted perverts. Guardiola had the wind entirely at his back at this point, sitting in the Wembley press room an hour after Manchester City’s…"
       },
       {
-        "title": "Rival clubs feel relegating Manchester City to Championship would not be enough",
-        "link": "https://www.theguardian.com/football/2026/sep/30/rival-clubs-feel-relegating-manchester-city-championship-not-enough-premier-league",
-        "published": "2026-09-30T18:55:24Z",
-        "description": "Premier League executives push for severe punishment City maintain they are ‘innocent of the accusations’ The Premier League will face pressure from Manchester City’s rivals to push for a sanction that will result in a prolonged absence from the top flight after the club were found guilty of more than 100 charges of financial rule-breaking. Executives at a number of Premier League clubs have told the Guardian that a points deduction that would relegate City to the Championship for a single season would be insufficient given the scale of what an independent commission described as the club’s “disguised funding scheme” and “sham commercial deals” , which enabled them to artificially inflate…"
+        "title": "Moving the Goalposts | Women’s Ballon d’Or 2026 power rankings: will a new winner be crowned?",
+        "link": "https://www.theguardian.com/football/2026/oct/01/womens-ballon-dor-2026-power-rankings-will-a-new-winner-be-crowned",
+        "published": "2026-10-01T10:27:48Z",
+        "description": "Race to be named the world’s best female player is the most open in years. But who should claim the prize? 1 Melchie Dumornay (OL Lyonnes/Haiti) Yes, Dumornay was part of a team that lost 4-0 to Barcelona in last season’s Champions League final , but her influence in the OL Lyonnes midfield as they cruised to a domestic treble stepped up a gear. The technically brilliant 23-year-old midfielder was named player of the year by the French players’ union, and her importance to Lyonnes was most clearly demonstrated by her absence through injury for their 2-1 loss to Arsenal in their Champions League semi-final first leg. She returned for the second leg and produced a player-of-the-match…"
       },
       {
-        "title": "‘I am here more than ever’: Guardiola backs Manchester City owners over guilty verdicts",
-        "link": "https://www.theguardian.com/football/2026/sep/30/guardiola-backs-manchester-city-owners-over-guilty-verdicts",
-        "published": "2026-09-30T13:39:43Z",
-        "description": "‘I am, always have been, always will, be behind my club’ Former City chair Bernstein calls for directors to quit Pep Guardiola has thrown his support behind Manchester City after the club were found guilty of all charges of breaching Premier League financial rules over a nine-year period, telling fans: “We will get through this together.” Guardiola left City in the summer after a trophy-laden decade in charge, with his first two seasons falling within the period investigated by the independent commission. The Spaniard remains a close ally of the chief executive, Ferran Soriano, who brought him to England, the pair having previously worked together at Barcelona. City maintain their…"
+        "title": "England forward Ivan Toney pleads not guilty to Soho nightclub assault",
+        "link": "https://www.theguardian.com/football/2026/oct/01/ivan-toney-pleads-not-guilty-to-soho-nightclub-assault",
+        "published": "2026-10-01T11:50:05Z",
+        "description": "Striker accused of headbutting and punching man Elected for crown court trial in front of judge and jury Ivan Toney has pleaded not guilty to assault after being accused of headbutting and punching a member of the public at a Soho nightclub. The England striker appeared at Westminster magistrates court, standing in the dock to confirm his name and date of birth before entering a plea of not guilty to assault occasioning actual bodily harm. Continue reading..."
       },
       {
-        "title": "Hampton’s heroics preserve WCL point for Chelsea on Bompastor’s OL Lyonnes return",
-        "link": "https://www.theguardian.com/football/2026/sep/30/ol-lyonnes-chelsea-womens-champions-league-match-report",
-        "published": "2026-09-30T21:11:38Z",
-        "description": "There were plenty of encouraging signs for Chelsea as they claimed a valuable point in the Champions League on their head coach Sonia Bompastor’s return to face her former team OL Lyonnes. The goalless draw was a slow-burner but concluded with a flurry of late action where both teams missed chances to steal the points. However a draw felt fair on a night when Chelsea’s double pivot of Keira Walsh and Lexi Potter in midfield continued to flourish, three days after they similarly impressed in Sunday’s victory over Arsenal . Continue reading..."
+        "title": "Next Generation 2022: 60 of the best young talents in world football",
+        "link": "https://www.theguardian.com/football/ng-interactive/2022/sep/28/next-generation-2022-60-of-the-best-young-talents-in-world-football",
+        "published": "2022-09-28T09:54:53Z",
+        "description": "From Antonio Nusa to Mathys Tel, we pick 60 of the most talented players born in 2005. Check the progress of our classes of 2021 | 2020 | 2019 | 2018 | 2017 | 2016 | 2015 | 2014 Twenty of the best Premier League prospects from 2022 Continue reading..."
       },
       {
-        "title": "‘I like him as a No 9’: Bellingham a striking alternative for England, says Tuchel",
-        "link": "https://www.theguardian.com/football/2026/sep/30/thomas-tuchel-harry-kane-jude-bellingham-trent-alexander-arnold-england-nations-league",
-        "published": "2026-09-30T18:00:15Z",
-        "description": "Head coach sees Real Madrid man as an option up front Kane praises Alexander-Arnold’s impact and work rate Thomas Tuchel’s hunt for alternatives to Harry Kane has led to him identifying Jude Bellingham as an option at No 9 for England. Kane continued his remarkable scoring record in the 2-0 win against Czechia in the Nations League on Tuesday, moving to 87 goals in 123 international appearances with a late strike in Prague, but he has little cover up front. There is no prospect yet of Tuchel having to consider life without Kane. The England head coach backed the 33-year-old striker to last another decade at the highest level, tipped him to reach a century of international goals soon, and…"
+        "title": "Jürgen Klopp disgusted by claims his Germany team are ‘not white enough’",
+        "link": "https://www.theguardian.com/football/2026/oct/01/jurgen-klopp-germany-team-not-white-enough-disgusted-claims",
+        "published": "2026-10-01T10:06:14Z",
+        "description": "Says social media claims are ‘nonsense’ and ‘idiocy’ Coach sees ‘no reason to pay attention to these people’ Jürgen Klopp has reacted with disgust to a social media debate questioning whether the Germany team he is in the process of forming are “white enough”. Klopp said he believed there was no point in giving room to “such people and their utterances”, dismissing them as “complete nonsense”. Asked to respond to the debate as to whether the national team were “not German enough” or “not white enough”, he said: “There is absolutely no reason to pay attention to these people. You won’t get my thoughts on this. I have little time in everyday life for idiocy – and even less on social media.…"
       },
       {
-        "title": "Leah Williamson blunder gifts Paris FC a point as Arsenal’s struggles continue",
-        "link": "https://www.theguardian.com/football/2026/sep/30/paris-fc-arsenal-womens-champions-league-match-report",
-        "published": "2026-09-30T19:31:37Z",
-        "description": "Renée Slegers did not attend the post‑match press conference, the manager understood to have been too furious after Arsenal threw away a two-goal lead in their draw with Paris FC on Wednesday night. The assistant coach Aaron D’Antino stepped in to speak to the media instead of Slegers, after a disastrous mix-up between the goalkeeper Misa Rodríguez and the centre-back Leah Williamson gifted Paris FC a penalty that Maeline Mendy converted to deny Arsenal all three points in the Champions League. Continue reading..."
+        "title": "‘Is there still a glass ceiling? Of course’: Kazim-Richards fights for breakthrough at Crawley",
+        "link": "https://www.theguardian.com/football/2026/oct/01/colin-kazim-richards-julian-gray-crawley-town-league-two",
+        "published": "2026-10-01T09:00:35Z",
+        "description": "Alongside his assistant, Julian Gray, rookie manager talks about the state of play for black coaches and trying to lift his club off the bottom of League Two Colin Kazim-Richards accepts the scale of the task of improving the situation at Crawley who sit bottom of League Two after seven games. But on the evidence of what he has seen, the head coach is sure better times lie ahead. On a late summer’s afternoon at Crawley’s training ground in Sussex, Kazim-Richards, alongside his assistant, Julian Gray, the pair arriving in April and managing to save the club from relegation to the National League on the final day, speaks of the challenges ahead and how the team’s league position tells only…"
       },
       {
-        "title": "Craig Bellamy urges Wales improvement but wary of Norway’s threat",
-        "link": "https://www.theguardian.com/football/2026/sep/30/craig-bellamy-wales-norway-nations-league-erling-haaland-manchester-city",
-        "published": "2026-09-30T17:11:37Z",
-        "description": "Wales ‘unrecognisable’ in defeat against Denmark Haaland ‘exactly the same’ after Manchester City verdict Craig Bellamy has said Wales must improve against Norway on Thursday after appearing unrecognisable in their defeat against Denmark , and highlighted their next opponents’ run to the World Cup quarter-finals as proof of their talent. Wales host Norway in Cardiff hoping to record their first win since last November and their first since promotion to Nations League A. “This team has been on a surge,” he said of Ståle Solbakken’s side. “They are progressing and they will keep going as well – they ain’t going away, especially with the youngsters they’ve got coming through. We’ve all been…"
-      },
-      {
-        "title": "‘A lot of lies’: Ireland manager hits out over coverage of Bazunu exit from Israel game",
-        "link": "https://www.theguardian.com/football/2026/sep/30/republic-of-ireland-manager-hits-out-over-coverage-of-bazunu-exit-from-israel-game",
-        "published": "2026-09-30T14:55:43Z",
-        "description": "Keeper pulled out of Nations League games with Israel Hallgrímsson confident Sunday’s rematch will go ahead The Republic of Ireland manager, Heimir Hallgrímsson, has claimed “a lot of lies” were told over the goalkeeper Gavin Bazunu’s decision to withdraw from the Nations League ​game against Israel last weekend, and he does not anticipate any problems with the second match against them going ahead on Sunday. Ireland are one of Europe’s most outspoken critics of Israel’s war in Gaza, and protests calling for the team to boycott the fixture prompted Bazunu to pull out of both games between the two countries. Continue reading..."
+        "title": "Cristiano Ronaldo walks out on Portugal after being dropped from starting lineup",
+        "link": "https://www.theguardian.com/football/2026/sep/30/cristiano-ronaldo-misses-portugal-training-jorge-jesus-denmark",
+        "published": "2026-09-30T19:55:55Z",
+        "description": "Jorge Jesus earlier said captain would again be a sub The 41-year-old has trained alone in gym since weekend The Portugal captain, Cristiano Ronaldo, announced on Wednesday that he had left the team’s training camp in Denmark after head coach Jorge Jesus told reporters that the iconic striker would not start their next match. Ronaldo had been due to train with his teammates at the Parken Stadium in Copenhagen on Wednesday but left abruptly after Jesus’s press conference. The veteran coach had said that Ronaldo, who spent the entire match on the bench against Norway on Sunday, would not start Thursday’s Nations League clash away to Denmark either. Continue reading..."
       }
     ],
     "spielverlagerung": [
@@ -842,62 +842,92 @@
     ],
     "wagnh": [
       {
-        "title": "Pedro Neto sets up João Félix in Portugal win",
-        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/172612/pedro-neto-sets-up-joao-felix-in-portugal-win",
-        "published": "2026-09-28T07:05:52Z",
-        "description": "Portugal made it two wins from two in their Nations League campaign as they triumphed over World Cup darlings Norway last night in Oslo. Former Blue (twice over) João Félix got the game’s only first-half goal when he was set up by current Blue Pedro Neto from the left wing, before Erling Haaland and Gonçalo […]"
+        "title": "The Daily Hilario: Thursday",
+        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/172687/the-daily-hilario-october-1st",
+        "published": "2026-10-01T07:10:46Z",
+        "description": "Agreed Of course they do Lol"
       },
       {
-        "title": "The Daily Hilario: Monday",
-        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/172602/the-daily-hilario-september-28th",
-        "published": "2026-09-28T07:04:38Z",
-        "description": "Oof Lol Nice"
+        "title": "OL Lyonnes 0-0 Chelsea FCW, UEFA Women’s Champions League: Post-match reaction",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/172684/ol-lyonnes-0-0-chelsea-fcw-uefa-womens-champions-league-post-match-reaction",
+        "published": "2026-09-30T21:02:19Z",
+        "description": "When facing a side like OL Lyonnes at their home ground, you can never let your guard down. Chelsea Women took this lesson to the extreme, which made for a rather uneventful first half as the hosts themselves were also very wary of the Blues’ ability to breach through a defence and find a goal […]"
       },
       {
-        "title": "Chelsea FCW 1-0 Arsenal WFC, Women’s Super League: Post-match reaction",
-        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/172595/chelsea-fcw-1-0-arsenal-wfc-womens-super-league-post-match-reaction",
-        "published": "2026-09-27T17:24:39Z",
-        "description": "Taking Arsenal on at a time where we seem on the verge of turmoil might be just what Chelsea Women needed. A team that were once written off as tough competitors but rarely ever being able to close the deal on a game and much less a championship, coming to the Bridge off a 2-0 […]"
+        "title": "OL Lyonnes vs. Chelsea FCW, UEFA Women’s Champions League: Confirmed lineups; how to watch",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/172679/ol-lyonnes-vs-chelsea-fcw-uefa-womens-champions-league-confirmed-lineups-how-to-watch",
+        "published": "2026-09-30T18:03:43Z",
+        "description": "Two clubs consistently among Europe’s elite face each other in France today. The hosts are looking to revive their days of dominating the continent, beating every opponent in their way to a title. The visitors came close to glory on a few occasions, but were never able to fetch it for themselves. Coming out on […]"
       },
       {
-        "title": "Chelsea FCW vs. Arsenal WFC, Women’s Super League: Confirmed lineups; how to watch",
-        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/172587/chelsea-fcw-vs-arsenal-wfc-womens-super-league-confirmed-lineups-how-to-watch",
-        "published": "2026-09-27T14:34:30Z",
-        "description": "Chelsea Women’s rivals today, Arsenal, are as misfiring as the Blues when facing any type of opposition at the start of this season. They have an edge in terms of health, with only a couple of players injured and definitely out of contention whereas our head coach, Sonia Bompastor, hasn’t had the best of time […]"
+        "title": "The Daily Hilario: Wednesday",
+        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/172651/the-daily-hilario-september-30th",
+        "published": "2026-09-30T07:15:20Z",
+        "description": "Involved Well Hmm"
       },
       {
-        "title": "England lose to Spain in Nations League",
-        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/172580/england-lose-to-spain-in-nations-league",
-        "published": "2026-09-27T07:34:27Z",
-        "description": "Morgan Rogers came off the bench in the second half, but England were not able to defeat Spain in Nations League action last night, with the Three Lions failing to make good on a 2-1 half-time lead to lose 3-2 in the end. Harry Kane missed a penalty that would’ve given England a 3-1 advantage […]"
+        "title": "OL Lyonnes vs. Chelsea FCW, UEFA Women’s Champions League: Preview, team news, how to watch",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/172633/ol-lyonnes-vs-chelsea-fcw-uefa-womens-champions-league-preview-team-news-how-to-watch",
+        "published": "2026-09-30T06:52:41Z",
+        "description": "To be one of the best, you have to beat the very best. We did so last weekend versus Arsenal in the Women’s Super League, and the challenge today is arguably much harder as we travel to France to face eight-time UEFA Women’s Champions League champions — and runners-up to last season’s title — OL […]"
       },
       {
-        "title": "The Daily Hilario: Sunday",
-        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/172560/the-daily-hilario-september-27th",
-        "published": "2026-09-27T07:13:21Z",
-        "description": "Hmm Hopefully Optimistic"
+        "title": "Morgan Rogers starts in England’s win over Czech Republic",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/172663/morgan-rogers-starts-in-englands-win-over-czech-republic",
+        "published": "2026-09-30T04:55:31Z",
+        "description": "Morgan Rogers seems to love an early goal, and he almost got another one last night, in England’s Nations League match against the Czech Republic in Prague. Unfortunately for our record-signing, his curling shot in the fifteenth minute found only woodwork. That early goal could’ve been useful as the Three Lions instead had to wait […]"
       },
       {
-        "title": "Chelsea FCW vs. Arsenal WFC, Women’s Super League: Preview, team news, how to watch",
-        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/172563/chelsea-fcw-vs-arsenal-wfc-womens-super-league-preview-team-news-how-to-watch",
-        "published": "2026-09-26T21:13:28Z",
-        "description": "Questions loom over Chelsea Women’s limits this season. A unexpectedly hard-fought win against the third-best team in the Austrian Bundesliga midweek in the UEFA Women’s Champions League doesn’t inspire much confidence. It could be the case of playing with the handbrake on, something that won’t happen when we face Arsenal at home this weekend. Date […]"
+        "title": "João Pedro ‘receiving treatment from specialist’ for knee injury — report",
+        "link": "https://weaintgotnohistory.sbnation.com/injury-news/172656/joao-pedro-receiving-treatment-from-specialist-for-knee-injury-report",
+        "published": "2026-09-30T03:55:45Z",
+        "description": "There are few words and phrases more frightening in the English language than “knee injury specialist”, which makes yesterday’s report from the Evening Standard a bit of a scary story indeed. The outlet’s exclusive claims that João Pedro has been “receiving treatment from a specialist” for the knee injury that’s kept him out of our […]"
       },
       {
-        "title": "The Daily Hilario: Saturday",
-        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/172544/the-daily-hilario-september-26th",
-        "published": "2026-09-26T05:44:23Z",
-        "description": "Will anything come from it? Lol Everyone should be doing this"
+        "title": "Official: Premier League confirm Manchester City charges with over £900m in false reporting",
+        "link": "https://weaintgotnohistory.sbnation.com/around-the-premier-league/172646/official-premier-league-confirm-manchester-city-charges-with-over-900m-in-false-reporting",
+        "published": "2026-09-30T02:28:19Z",
+        "description": "The Premier League have confirmed reports from last week that Manchester City have been found guilty on 114 of the 115 charges levied against them for various financial breaches between 2009 and 2018. The League’s official statement reveals that City were found guilty on “all charges related to serious breaches of the Premier League’s financial […]"
       }
     ],
     "rym": [],
     "aoty": [],
     "pitchfork": [
       {
+        "title": "THIS IS SPA TOWN!",
+        "link": "https://pitchfork.com/reviews/albums/300skullsandcounting-jenny-sparks-this-is-spa-town/",
+        "published": "2026-10-01T04:03:00Z",
+        "description": "The UK artist brings a frenzy of club-grime provocation and internet humor to his glitched-out emo, but his portrayal of small-town malaise is what makes it a riot."
+      },
+      {
+        "title": "Landlocked",
+        "link": "https://pitchfork.com/reviews/albums/hallucinator-landlocked/",
+        "published": "2026-10-01T04:02:00Z",
+        "description": "Expanding dub techno’s spare grid toward rave and industrial, the UK trio’s newly reissued 1999 compilation summons roiling synth, excoriating feedback, and percussion that feels almost improvisatory."
+      },
+      {
+        "title": "ESTRUS",
+        "link": "https://pitchfork.com/reviews/albums/tove-lo-estrus/",
+        "published": "2026-10-01T04:01:00Z",
+        "description": "The Swedish pop singer’s sixth album mainly leans on a familiar, hedonistic electro-pop sound. Its best moments explore what happens when full-bodied pleasure meets a fearful mind."
+      },
+      {
+        "title": "Bubble Treasure",
+        "link": "https://pitchfork.com/reviews/albums/toxe-bubble-treasure/",
+        "published": "2026-10-01T04:00:00Z",
+        "description": "The Swedish singer-producer abandons club convention on her new album, opting instead for soft keys, chimes, and featherlight vocals, along with undulating arrangements teasing drops that never come."
+      },
+      {
         "title": "Popstar",
         "link": "https://pitchfork.com/reviews/albums/tinashe-popstar/",
         "published": "2026-09-30T04:03:00Z",
         "description": "Tinashe’s eighth album is her best and bravest yet: more ambitious, more focused, and effortlessly in touch with the zeitgeist. It’s the best pop album of the year."
+      },
+      {
+        "title": "Westside Whimsy",
+        "link": "https://pitchfork.com/reviews/albums/jhene-aiko-westside-whimsy/",
+        "published": "2026-09-30T04:02:00Z",
+        "description": "After records steeped in grief and heartbreak, the singer’s latest album is framed as a laid-back ode to Los Angeles, but it can be tough to tease out the substance behind the sunny vibes."
       },
       {
         "title": "Intentions",
@@ -906,43 +936,37 @@
         "description": "On her International Anthem debut, the Los Angeles-based singer threads R&B, jazz, and downbeat electronic into lovestruck reveries that still feel true to life."
       },
       {
-        "title": "The Gem",
-        "link": "https://pitchfork.com/reviews/albums/julia-jacklin-the-gem/",
-        "published": "2026-09-29T04:02:00Z",
-        "description": "On her fourth album, the Australian singer-songwriter surrenders to the idea of change, filling her warm, reassuring songs with poignant imagery and a greater sense of perspective."
-      },
-      {
-        "title": "Mule",
-        "link": "https://pitchfork.com/reviews/albums/orville-peck-mule/",
-        "published": "2026-09-28T04:01:00Z",
-        "description": "The South African-born country singer’s latest album is a hell-and-back tale of addiction and redemption. But where other artists might opt for austerity, Peck goes all in on his usual pomp."
-      },
-      {
-        "title": "Eternal (Live)",
-        "link": "https://pitchfork.com/reviews/albums/joy-division-eternal-live/",
-        "published": "2026-09-26T04:00:00Z",
-        "description": "A 16-disc box set captures 14 months of live sets from the post-punk titans’ prime. Despite their dour reputation, they prove consistently thrilling on stage, led by Ian Curtis’ whirlwind intensity."
-      },
-      {
-        "title": "Pugnello",
-        "link": "https://pitchfork.com/reviews/albums/gilla-band-pugnello/",
-        "published": "2026-09-25T04:03:00Z",
-        "description": "Exploding its signature blend of noise-punk and dance music to masterful extremes, the Irish band gets louder, rawer, funnier, and more methodical on its exhilarating fourth album."
-      },
-      {
-        "title": "AUDACITY",
-        "link": "https://pitchfork.com/reviews/albums/jae-stephens-audacity/",
-        "published": "2026-09-25T04:02:00Z",
-        "description": "A Beyoncé stan turned pop songwriter, the L.A.-based singer steps out with a major label debut that highlights her versatile vocals, winking humor, and close study of the Top 40."
-      },
-      {
-        "title": "Everyone Gets Everything They Want",
-        "link": "https://pitchfork.com/reviews/albums/tom-morello-everyone-gets-everything-they-want/",
-        "published": "2026-09-25T04:01:00Z",
-        "description": "The Rage Against the Machine guitarist’s towering legacy and sincere political convictions are at painful odds with the sanitized blues-rawk and tedious folk poetry on his new solo album."
+        "title": "Dream House",
+        "link": "https://pitchfork.com/reviews/albums/empress-of-dream-house/",
+        "published": "2026-09-30T04:00:00Z",
+        "description": "Lorely Rodriguez’s fifth album contends with the grief of losing her childhood home in a wildfire. These songs still center her virtuosic voice, but sometimes smother her eccentric perspective."
       }
     ],
     "quietus": [
+      {
+        "title": "Album of the Week: Vanishing Twin’s Archives",
+        "link": "https://thequietus.com/quietus-reviews/album-of-the-week/vanishing-twin-archives-review/",
+        "published": "2026-10-01T07:30:00Z",
+        "description": "Absence makes the art grow bolder says Will Ainsley about Archives, which sounds like Chiastic Slide-era Autechre reimagining the Wicker Man soundtrack Archives by Vanishing Twin The idea that an album could be made piecemeal, in different countries, via the internet, would have been inconceivable forty years ago. Such technology would have seemed strange; stranger still might have been the idea that the traditional method – that is, recording a series of songs in one place during a set period of time – is far less viable these days. The logistical demands of creative practice in 2026 mean a piecemeal approach is an all-too necessary solution for many artists. Studios and practice spaces…"
+      },
+      {
+        "title": "Today You Become Man, New Writing by Lias Saoudi",
+        "link": "https://thequietus.com/culture/books/lias-saoudi-tears-of-the-patriarch-book/",
+        "published": "2026-10-01T07:16:50Z",
+        "description": "The Fat White / Decius frontman has announced his second book, Tears Of The Patriarch; we're delighted to present an extract from it. Portrait: Brian David Stevens. Other photographs: Yaz Saoudi Tears Of The Patriarch is Lias Saoudi's second book, due to be published by White Rabbit early next year. In 2014 Lias and his brother Yaz travelled to North Africa to recreate the 'Bittersweet Symphony' for an experimental Fat White Family single about circumcision. Which was all fun and games until the pair ended up in Algerian jail... All these bands speaking in regional accents instead of singing, it vexed me. Vexed me because I have no region. Vexed me because it seemed like a cult of…"
+      },
+      {
+        "title": "Public Enemy’s Apocalypse 91 The Enemy Strikes Black Revisited 35 years on",
+        "link": "https://thequietus.com/opinion-and-essays/anniversary/public-enemy-apocalypse-91-review/",
+        "published": "2026-10-01T06:57:02Z",
+        "description": "Public Enemy's fourth album is often overlooked but it's a true killer, says Angus Batey When the greatness of Public Enemy is discussed – which is often, for the band were, and indeed still are, one of the most consistently inventive, provocative and excellent outfits of the recorded-music-as-business era – the focus inevitably falls on their second and third albums. It Takes a Nation of Millions To Hold Us Back routinely turns up near the top of the all-time lists assembled by people who care about ensuring their opinions are thought sage; Fear Of A Black Planet, its follow-up, is actually its better, though its sonics had been well enough trailed and it perhaps therefore lacked the…"
+      },
+      {
+        "title": "Curbside Lambsear – Put Rings On All My Fingers To Weigh Down My Hands",
+        "link": "https://thequietus.com/quietus-reviews/curbside-lambsear-put-rings-on-all-my-fingers-to-weigh-down-my-hands-review/",
+        "published": "2026-10-01T04:55:00Z",
+        "description": "Curbside Lambsear Put Rings On All My Fingers To Weigh Down My Hands Members of The Umlauts and caroline find scrappy joy in dissonant chaos mixed with cinematic grandeur Put Rings On All My Fingers To Weigh Down My Hands by Curbside Lambsear This is an intriguingly hard-to-pin-down debut from London’s Curbside Lambsear, AKA Magdalena McLean and Annabelle Mödlinger. Having met while playing in the (still active) art punk band The Umlauts, the duo assembled this lengthy EP in a patchwork fashion. You wouldn't know it. There’s a coherent sense of purpose to these five tracks, as well as a free-roaming attitude when it comes to genre."
+      },
       {
         "title": "Mogwai and Iggy Pop Collaborate on New Track, ‘Underground’",
         "link": "https://thequietus.com/news/mogwai-and-iggy-pop-collaborate-on-new-track-underground/",
@@ -966,30 +990,6 @@
         "link": "https://thequietus.com/news/andy-stott-shares-new-track-songbird/",
         "published": "2026-09-30T14:46:00Z",
         "description": "It's the second cut to be unveiled from forthcoming album Late Loop Andy Stott has shared a new track, called 'Songbird'. It's the second cut to be lifted from forthcoming album Late Loop, which the UK artist announced earlier this month alongside lead track 'Something In Mind'. Like that song, 'Songbird' features vocals from Elaine Howley. Howley provides vocals for four tracks on Late Loop, while longtime collaborator Alison Skidmore contributes vocals to the other four songs on the album. Stott gave himself a number of parameters when he set out working on the record, deciding to use no basslines, no reverb and no effects, save for a delay unit. Four of Stott's previous albums – Luxury…"
-      },
-      {
-        "title": "The Fall Reveal Final Studio Album, ‘Post Script’",
-        "link": "https://thequietus.com/news/the-fall-reveal-final-studio-album-post-script/",
-        "published": "2026-09-30T14:25:47Z",
-        "description": "The LP has been built from archival vocal recordings of late frontman Mark E Smith dating from 2001 to 2014 The Fall are releasing their \"definitive\" final studio album, Post Script. Coming nine years on from 2017's New Facts Emerge, the band's 32nd studio LP was built from archival vocal recordings of late frontman Mark E Smith dating from 2001 to 2014. The musical backing was completed by long-time collaborators and former manager / producers Ed Blaney and Simon Archer. The nine-track record brings together garage rock and spoken word pieces, according to a press release. It will be released on CD and vinyl formats. Cog Sinister will release Post Script on 2 October 2026. ..."
-      },
-      {
-        "title": "The Flaming Lips Unveil 20th Anniversary Reissue of ‘At War With The Mystics’",
-        "link": "https://thequietus.com/news/the-flaming-lips-unveil-20th-anniversary-reissue-of-at-war-with-the-mystics/",
-        "published": "2026-09-30T13:32:16Z",
-        "description": "The deluxe box set includes unreleased demos and studio recordings, as well as various non-album cuts The Flaming Lips are reissuing their 2006 album At War With The Mystics to mark its 20th anniversary. Available in 6xCD, 6xLP and digital editions, the deluxe reissue features the full original album, as well as 19 previously unreleased demo tracks, 14 previously unreleased studio recordings, and a further 42 non-album cuts. The audio recordings of 2007 live film U.F.O.s At The Zoo and a concert at The Hollywood Bowl will also be included in the CD release. Released four years after the wildly successful Yoshimi Battles The Pink Robots, At War With The Mystics was The Flaming Lips' 11th…"
-      },
-      {
-        "title": "Popol Vuh Score for 1974 Werner Herzog Film to Get First Official Release",
-        "link": "https://thequietus.com/news/popol-vuh-score-for-1974-werner-herzog-film-to-get-first-official-release/",
-        "published": "2026-09-30T11:14:00Z",
-        "description": "The Great Ecstasy Of Woodcarver Steiner also features reworks of their tracks by james K, ML Buch and Lorenzo Senni Popol Vuh's soundtrack to Werner Herzog's 1974 film The Great Ecstasy Of Woodcarver Steiner is getting a long-awaited official release. The score had previously only been available to listen to via fan-made audio recordings, but will now get a first-time vinyl and digital release. It features the German band's full score, as well as new reworks of the track 'Steiner's Ecstasy' by james K, ML Buch and Lorenzo Senni. Herzog's film told the story of Walter Steiner, a Swiss ski jumper who was chasing a world record in ski flying while also working full-time as a carpenter and…"
-      },
-      {
-        "title": "Susanne Sundfør on Julian of Norwich",
-        "link": "https://thequietus.com/interviews/things-i-have-learned/susanne-sundfor-julian-of-norwich-interview/",
-        "published": "2026-09-30T07:53:00Z",
-        "description": "Ahead of her new album which touches on the fear, power and ecstasy of childbirth, the Norwegian musician explains her fierce interest in a Medieval English anchoress. Words: Jude Rogers. Church photography: Eirik Havnes Revelations of Divine Love by Susanne Sundfør with Kit Downes If you know Susanne Sundfør’s shapeshifting back catalogue, it will be unsurprising to hear she’s made an album of devotional music, recorded live in a Norwegian church, inspired by a female mystic. From her third album (2010’s The Brothel) onwards, she’s nailed doomy piano balladry, high-octane electronica, fingerpicked folk and art-pop in both polished and fidgety forms. Her voice is a powerful pop instrument,…"
       }
     ],
     "residentadvisor": [],
@@ -1248,6 +1248,12 @@
     ],
     "mubi": [
       {
+        "title": "Life at Its Wildest: Werner Herzog on “Bucking Fastard”",
+        "link": "https://mubi.com/en/notebook/posts/life-at-its-wildest-werner-herzog-on-bucking-fastard",
+        "published": "2026-10-01T08:00:00Z",
+        "description": "From left to right: Cinematographer Peter Zeitlinger, director Werner Herzog, and stars Rooney Mara and Kate Mara shooting Bucking Fastard (2026). Courtesy of Gateway to Orkney LLC. Werner Herzog’s first fiction film in seven years, Bucking Fastard (2026),stands as one of his most bizarre. That’s high praise for a director who’s pulled 300-plus-ton steamships over mountains ( Fitzcarraldo , 1982), hypnotized his actors ( Heart of Glass , 1976), and followed “deranged” penguins across Antarctica ( Encounters at the End of the World , 2007). Herzog’s entire oeuvre teems with drifters pursuing quixotic dreams, people and stories often so odd as to strain credulity. But rarely has that…"
+      },
+      {
         "title": "Members Only: Cabal-Core Horror in the 21st Century",
         "link": "https://mubi.com/en/notebook/posts/members-only-cabal-core-horror-in-the-21st-century",
         "published": "2026-09-29T08:00:00Z",
@@ -1288,12 +1294,6 @@
         "link": "https://mubi.com/en/notebook/posts/toronto-dispatch-the-war-against-memory",
         "published": "2026-09-21T08:00:00Z",
         "description": "Life of Jorge Luis Borges (Mariano Llinás, 2026). Words mean things, but that meaning is always changing. Sometimes those changes are organic, a gradual movement that is driven by the changing needs of speakers. But sometimes those changes are engineered from above, to serve the needs of those in power. After years of algorithmic censorship, we now see words like “unalive” or “le$bean” replacing their antecedents even in conversation, even if only ironically. (As if to prove the point, the plot of the new film by Denis Côté, Nobody’s Violence , manages to hinge on the issue of assisted suicide without ever uttering the s-word. It’s as if the film anticipates the language that will be…"
-      },
-      {
-        "title": "The Action Scene | “The Raid” at 15",
-        "link": "https://mubi.com/en/notebook/posts/the-action-scene-the-raid-at-15",
-        "published": "2026-09-18T08:00:00Z",
-        "description": "The Action Scene explores the form, history, and visceral power of action cinema through its set pieces. Clockwise from top-left: The Raid (Gareth Evans, 2011), Merantau (Gareth Evans, 2009), The Raid 2 (Gareth Evans, 2014), The Raid (Gareth Evans, 2011). It needs virtually no introduction. Fifteen years after its world premiere in the Midnight Madness section of the 2011 Toronto International Film Festival, The Raid (2011) has so shaped the landscape of contemporary action cinema that it’s birthed its own prepositional descriptor: “like The Raid ” adorns sundry headlines to describe any action film featuring some combination of a single-location setting, gritty atmosphere, barbarous…"
       }
     ],
     "reverseshot": [],
@@ -1341,10 +1341,10 @@
         "description": "Discover the vibrant atmosphere of casinos in Canada, their offerings, gaming options, and how they contribute to the country’s entertainment landscape. Canada is home to a diverse array of casinos that cater to both locals and tourists alike. From extravagant gaming resorts to cozy local establishments, canada casino venues provide excitement and entertainment for everyone. […]"
       },
       {
-        "title": "Lisa and the Devil",
-        "link": "https://www.sensesofcinema.com/2026/cteq/lisa-and-the-devil/",
-        "published": "2026-09-13T06:01:22Z",
-        "description": "Mario Bava entered the Italian film industry as an extremely resourceful cameraman, make-up artist, special effects worker and screenwriter way back in the late 1930s. However, he did not make his officially credited solo debut as director until 1960 with the exceedingly stylish Barbara Steele vehicle Maschera del Demonio (Black Sunday). That the versatile Bava’s […]"
+        "title": "Solusi Mudah – Panduan Lengkap 1xBet Indonesia Support — Tim Customer Service Responsif Cepat",
+        "link": "https://www.sensesofcinema.com/2026/uncategorized/solusi-mudah-panduan-lengkap-1xbet-indonesia-support-tim-customer-service-responsif-cepat/",
+        "published": "2026-09-19T06:00:46Z",
+        "description": "Butuh bantuan di situs taruhan? Temukan panduan lengkap 1xBet Indonesia Support — Tim Customer Service Responsif Cepat agar keluhan dan pertanyaan Anda teratasi."
       }
     ],
     "filmstage": [
@@ -1483,6 +1483,18 @@
     "larb": [],
     "aeon": [
       {
+        "title": "Green tree ants are famous in the tropics",
+        "link": "https://aeon.co/videos/green-tree-ants-have-been-successful-for-ages-enter-the-imposters",
+        "published": "2026-10-01T10:01:00Z",
+        "description": "In tropical forests ruled by aggressive ants, these species have adopted a ‘fake it till you make it’ survival strategy - by Aeon Video Watch on Aeon"
+      },
+      {
+        "title": "Reason is more than a tool",
+        "link": "https://aeon.co/essays/why-real-intelligence-is-something-more-than-optimisation",
+        "published": "2026-10-01T10:00:00Z",
+        "description": "If intelligence is merely optimisation then machines will outrun us. Kant tells us why human reason is so much more - by Sasha Mudd Read on Aeon"
+      },
+      {
         "title": "Passportless mess",
         "link": "https://aeon.co/videos/searching-for-a-local-legend-a-filmmaker-stumbles-into-a-tragicomedy",
         "published": "2026-09-30T10:01:00Z",
@@ -1517,21 +1529,15 @@
         "link": "https://aeon.co/videos/before-the-hindenburg-there-was-r101-britains-ill-fated-airship",
         "published": "2026-09-24T10:01:00Z",
         "description": "The remarkable engineering and tragic demise of the vessel that would end Britain’s dream to dominate the skies - by Aeon Video Watch on Aeon"
-      },
-      {
-        "title": "Where a land ethic blooms",
-        "link": "https://aeon.co/essays/a-prairie-enthusiast-in-search-of-a-farming-land-ethic",
-        "published": "2026-09-24T10:00:00Z",
-        "description": "Caring for this planet entails decisions that are intimate, about our farms, our homes, our human and our wild neighbours - by Craig Maier Read on Aeon"
-      },
-      {
-        "title": "How the West was fun",
-        "link": "https://aeon.co/videos/at-an-old-west-theme-park-tourists-play-in-a-past-that-never-existed",
-        "published": "2026-09-23T10:01:00Z",
-        "description": "Be it movie mythos or nostalgia for a ‘simpler’ time, there’s an undeniable allure in stepping into the American West - by Aeon Video Watch on Aeon"
       }
     ],
     "psyche": [
+      {
+        "title": "Why long-brewing physical and mental breakdowns feel so sudden",
+        "link": "https://psyche.co/ideas/why-long-brewing-physical-and-mental-breakdowns-feel-so-sudden",
+        "published": "2026-10-01T10:00:00Z",
+        "description": "As a neurosurgeon and a son, I’ve come to see the parallel processes underlying growing tumours and stressed-out minds - by Sasi S Senga Read on Psyche"
+      },
       {
         "title": "The full-service grandad",
         "link": "https://psyche.co/turning-points/i-am-a-full-service-grandad-where-are-the-others",
@@ -1573,12 +1579,6 @@
         "link": "https://psyche.co/ideas/the-evil-eye-is-irrational-abandon-it-at-your-peril",
         "published": "2026-09-24T10:00:00Z",
         "description": "So many of the world’s superstitions have been supplanted by rational thinking. Why does one of the oldest beliefs persist? - by Timna Abramov Read on Psyche"
-      },
-      {
-        "title": "How to cope with the stress of anti-LGBTQ+ prejudice",
-        "link": "https://psyche.co/guides/how-to-cope-with-the-stress-of-anti-lgbtq-prejudice",
-        "published": "2026-09-23T10:00:00Z",
-        "description": "A queer psychologist shares skills from dialectical behaviour therapy to help you cope and find joy in a stigmatising world - by Kiki Fehling Read on Psyche"
       }
     ],
     "newleftreview": [],
@@ -1667,6 +1667,12 @@
     ],
     "nautilus": [
       {
+        "title": "This Nebula Looks Like a Shark",
+        "link": "https://nautil.us/this-nebula-looks-like-a-shark-1285445/",
+        "published": "2026-10-01T12:00:00Z",
+        "description": "In space, no one can hear the “Jaws” theme"
+      },
+      {
         "title": "This Cool Lava Planet Has an Atmosphere",
         "link": "https://nautil.us/this-cool-lava-planet-has-an-atmosphere-1285436/",
         "published": "2026-09-30T22:00:00Z",
@@ -1707,12 +1713,6 @@
         "link": "https://nautil.us/the-evolutionary-raw-deal-of-the-human-knee-1285392/",
         "published": "2026-09-29T23:30:00Z",
         "description": "Why don’t great apes have knee problems?"
-      },
-      {
-        "title": "Aging Muscle Has a Hidden Molecular Switch",
-        "link": "https://nautil.us/aging-muscle-has-a-hidden-molecular-switch-1285389/",
-        "published": "2026-09-29T22:00:00Z",
-        "description": "Uncovering the paradox behind the shift from fast to slow twitch muscle fibers"
       }
     ],
     "worksinprogress": [],
@@ -1918,6 +1918,18 @@
     ],
     "longreads": [
       {
+        "title": "I Lost Myself When I Lost Hong Kong",
+        "link": "https://longreads.com/2026/10/01/expat-nostalgia-love-loss/",
+        "published": "2026-10-01T11:00:00Z",
+        "description": "\"If returning to America was like getting on a lifeboat, why did I feel like I was drowning?\""
+      },
+      {
+        "title": "A Place Among the Fiddlers",
+        "link": "https://longreads.com/2026/10/01/galax-old-fiddlers-convention-music/",
+        "published": "2026-10-01T10:00:00Z",
+        "description": "In a southwest Virginia fairground, thousands of musicians gather every August to keep a centuries-old tradition from flickering out."
+      },
+      {
         "title": "Hockey Dads and Hockey Sons",
         "link": "https://longreads.com/2026/09/30/ice-hockey-kids-violence-parenting/",
         "published": "2026-09-30T19:11:22Z",
@@ -1952,18 +1964,6 @@
         "link": "https://longreads.com/2026/09/29/labyrinths-mazes-kanya-kanchana/",
         "published": "2026-09-29T10:00:00Z",
         "description": "Lost in a maze or found in a labyrinth? Come, let’s keep walking."
-      },
-      {
-        "title": "Oh, How Lucky We Are",
-        "link": "https://longreads.com/2026/09/28/ossabaw-bitter-southerner/",
-        "published": "2026-09-28T17:48:55Z",
-        "description": "\"Sandy West believed that embracing what we cannot understand is the pathway to enlightenment, and that time on her beloved Ossabaw was the best way to learn that lesson.\""
-      },
-      {
-        "title": "A Graveyard Shift with Britain’s Gen Z Undertakers",
-        "link": "https://longreads.com/2026/09/28/gen-z-undertakers-britain/",
-        "published": "2026-09-28T13:00:00Z",
-        "description": "\"Could apprentice undertakers solve youth unemployment?\""
       }
     ]
   }
