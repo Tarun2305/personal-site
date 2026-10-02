@@ -387,22 +387,40 @@
     "reuters": [],
     "bbc": [
       {
+        "title": "Widdecombe suspect charged with planning terror act against Farage",
+        "link": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-02T21:32:25Z",
+        "description": "Counter terror police say the further charge comes after a \"hugely intensive and complex investigation\"."
+      },
+      {
+        "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+        "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-02T20:25:19Z",
+        "description": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports."
+      },
+      {
+        "title": "Watch: Why has UK diesel price hit an all time high?",
+        "link": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-02T16:58:30Z",
+        "description": "Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group says, with petrol prices also rising."
+      },
+      {
+        "title": "Men charged over alleged plot to target Manchester Jewish community",
+        "link": "https://www.bbc.co.uk/news/articles/cqx29nke55kno?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-02T21:38:05Z",
+        "description": "The pair were arrested in the Northern Quarter area of the city on the eve of Yom Kippur."
+      },
+      {
         "title": "Riot police clash with students as education protests rage in France",
         "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-02T16:26:09Z",
-        "description": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue."
+        "published": "2026-10-02T21:13:27Z",
+        "description": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue."
       },
       {
-        "title": "Watch: Why students in France are protesting",
-        "link": "https://www.bbc.co.uk/news/videos/cr5ynddn318eo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-02T15:02:15Z",
-        "description": "Demonstrations started in the French capital, then spread across the country in the days that followed."
-      },
-      {
-        "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-        "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-02T17:05:39Z",
-        "description": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024."
+        "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+        "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-02T20:32:07Z",
+        "description": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee."
       },
       {
         "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
@@ -411,86 +429,68 @@
         "description": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure."
       },
       {
-        "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
-        "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-02T14:01:09Z",
-        "description": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived."
-      },
-      {
-        "title": "Dolly Parton sings Jolene in Welsh in recording released after her death",
-        "link": "https://www.bbc.co.uk/news/articles/cw8d3ddpz8dlo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-02T14:00:38Z",
-        "description": "Parton's niece Jada Star and Welsh singer Bronwen Lewis say the country artist was proud to sing in Welsh."
-      },
-      {
-        "title": "Watch: 'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-        "link": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-02T08:46:37Z",
-        "description": "He has been hailed a hero for opening the cockpit door, allowing passengers to overpower his co-pilot."
-      },
-      {
-        "title": "Alison Hammond has heart check-up in hospital after leaving TV's This Morning",
-        "link": "https://www.bbc.co.uk/news/articles/c60rlwgx9n9go?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-02T16:00:18Z",
-        "description": "The host says she is \"fine\" but getting checked after leaving midway through Friday's This Morning."
+        "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+        "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-02T17:44:08Z",
+        "description": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024."
       }
     ],
     "aljazeera": [
       {
-        "title": "How the Banco Master scandal injected chaos into Brazil’s presidential race",
-        "link": "https://www.aljazeera.com/features/longform/2026/10/2/how-the-banco-master-scandal-injected-chaos-into-brazils-presidential-race?traffic_source=rss",
-        "published": "2026-10-02T16:36:38Z",
-        "description": "Figures across Brazil's political spectrum have been linked to the scandal in the midst of a key election."
+        "title": "France held 1-1 by Italy in Zidane home debut after Olise stunner",
+        "link": "https://www.aljazeera.com/sports/2026/10/2/france-held-by-italy-in-zidanes-homecoming-after-olise-stunner?traffic_source=rss",
+        "published": "2026-10-02T21:24:24Z",
+        "description": "Italy's Alessandro Bastoni cancels out Michael Olise's opener for France in 1-1 UEFA Nations League draw in Paris."
       },
       {
-        "title": "Taiwan Coast Guard confronts Chinese fishing boats in Dongsha waters",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/aje-onl-nf_taiwan-coast-guard-fires-water-cannon-on-chinese-021026?traffic_source=rss",
-        "published": "2026-10-02T16:23:02Z",
-        "description": "Taiwan’s Coast Guard used a water cannon to drive two Chinese fishing boats away from waters near the Dongsha Islands."
+        "title": "Bosnia’s elections explained",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/bosnias-elections-explained?traffic_source=rss",
+        "published": "2026-10-02T21:21:47Z",
+        "description": "Bosnia and Herzegovina votes on October 4 in an election that may determine whether it breaks its political deadlock."
       },
       {
-        "title": "US job growth slows as unemployment rises before midterm elections",
-        "link": "https://www.aljazeera.com/economy/2026/10/2/us-job-growth-slows-as-unemployment-rises-before-midterm-elections?traffic_source=rss",
-        "published": "2026-10-02T16:20:46Z",
-        "description": "The US economy added 29,000 jobs in September, with unemployment rising to 4.2 percent, according to Labor Department."
+        "title": "Israeli general: Gaza captives could have been freed a year earlier",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/israeli-general-gaza-captives-could-have-been-freed-a-year-earlier?traffic_source=rss",
+        "published": "2026-10-02T21:15:58Z",
+        "description": "Israeli Gen. Nitzan Alon told a Washington Institute forum that all Gaza captives could've been freed a year earlier."
       },
       {
-        "title": "Three in four households go hungry in parts of Yemen amid fighting: UN",
-        "link": "https://www.aljazeera.com/news/2026/10/2/three-in-four-households-go-hungry-in-parts-of-yemen-amid-fighting-un?traffic_source=rss",
-        "published": "2026-10-02T16:06:25Z",
-        "description": "World Food Programme warns of 'devastating' impact as conflict displaces thousands and cuts off food supplies."
+        "title": "Christa Pike unconscious, on ventilator after botched execution: Lawyers",
+        "link": "https://www.aljazeera.com/news/2026/10/2/christa-pike-unconscious-on-ventilator-after-botched-execution-lawyers?traffic_source=rss",
+        "published": "2026-10-02T20:57:32Z",
+        "description": "The Tennessee woman's legal team says doctors are working to clear doses of the drug pentobarbital from her system."
       },
       {
-        "title": "Trump to name intelligence chief Clayton as AI tsar: Reports",
-        "link": "https://www.aljazeera.com/news/2026/10/2/reports-trump-to-name-intel-chief-clayton-as-ai-tsar?traffic_source=rss",
-        "published": "2026-10-02T16:06:15Z",
-        "description": "The possible selection comes amid increasing calls for the government to intervene in the rapidly developing technology."
+        "title": "FlyDubai pilot hailed as ‘national hero’ as he describes attack",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/flydubai-pilot-hailed-as-national-hero-as-he-describes-attack?traffic_source=rss",
+        "published": "2026-10-02T20:54:49Z",
+        "description": "FlyDubai pilot hailed as ‘national hero’ as he describes attack"
       },
       {
-        "title": "Does the punishment fit the crime? Controversy erupts around ‘Cornell 7’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/does-the-punishment-fit-the-crime-controversy-erupts-around-cornell?traffic_source=rss",
-        "published": "2026-10-02T16:02:39Z",
-        "description": "US university Cornell’s handling of sexual assault allegations is under scrutiny."
+        "title": "Latin America sees China as more positive global influence than US: Poll",
+        "link": "https://www.aljazeera.com/news/2026/10/2/latin-america-sees-china-as-more-positive-global-influence-than-us-poll?traffic_source=rss",
+        "published": "2026-10-02T20:52:29Z",
+        "description": "Annual Latinobarometro survey finds views of China’s influence improving as perceptions of US influence worsen."
       },
       {
-        "title": "LIVE: France vs Italy – UEFA Nations League",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/10/2/live-france-vs-italy-uefa-nations-league?traffic_source=rss",
-        "published": "2026-10-02T15:45:55Z",
-        "description": "Follow the updates, with build-up, predictions, team news and full match coverage, from our live text commentary stream."
+        "title": "Iraq grants Iranian airlines 40 daily Najaf flights after US exemption",
+        "link": "https://www.aljazeera.com/news/2026/10/2/iraq-grants-iranian-airlines-40-daily-najaf-flights-after-us-exemption?traffic_source=rss",
+        "published": "2026-10-02T20:32:02Z",
+        "description": "Mahan Air is excluded from the agreement as Baghdad says Washington granted its request for a waiver."
       },
       {
-        "title": "Spain’s parliament rejects gov’t housing decrees amid mass protests",
-        "link": "https://www.aljazeera.com/news/2026/10/2/spains-parliament-rejects-govt-housing-decrees-amid-mass-protests?traffic_source=rss",
-        "published": "2026-10-02T15:01:08Z",
-        "description": "Both decrees to tackle housing affordability crisis shot down as critics say measures would tighten the housing market."
+        "title": "California leads lawsuit against Trump fuel efficiency standards rollback",
+        "link": "https://www.aljazeera.com/economy/2026/10/2/california-leads-lawsuit-against-trump-fuel-efficiency-standards-rollback?traffic_source=rss",
+        "published": "2026-10-02T20:28:07Z",
+        "description": "Lawsuit alleges NHTSA contravenes its congressional mandate to set fuel-economy standards at 'maximum feasible' ."
       }
     ],
     "ft": [
       {
         "title": "US backs down from fuel export ban threat as G7 agrees to release 100mn barrels",
         "link": "https://www.ft.com/content/97200b07-755c-40ce-a50b-b51666bd4b7e?syn-25a6b1a6=1",
-        "published": "2026-10-02T16:20:17Z",
-        "description": "G7 leaders said after a meeting on Friday that they would release 100mn barrels of crude and diesel"
+        "published": "2026-10-02T20:31:49Z",
+        "description": "Donald Trump calls decision by European nations to release diesel from strategic reserves a ‘great thing’"
       },
       {
         "title": "Trump’s short-sighted diesel gamble",
@@ -505,10 +505,10 @@
         "description": "Oil producer income has drawn scrutiny but lower-profile refiners have posted a fourfold increase in margins"
       },
       {
-        "title": "AI got smarter. The bills got harder to control",
-        "link": "https://ig.ft.com/ai-tokens/?syn-25a6b1a6=1",
-        "published": "2026-10-02T04:00:05Z",
-        "description": "Powerful AI tools are burning through budgets, prompting a rethink of how the technology is priced ahead of frontier lab IPOs"
+        "title": "Black voters rally against redrawn electoral maps",
+        "link": "https://www.ft.com/content/83e9a7cb-95b4-48a8-9cdc-88d3fa8f03c0?syn-25a6b1a6=1",
+        "published": "2026-10-02T04:15:08Z",
+        "description": "African Americans in Louisiana predict a backlash over a Supreme Court ruling that authorised constituency changes"
       },
       {
         "title": "Why does Anthropic’s IPO feel so weird?",
@@ -525,7 +525,7 @@
       {
         "title": "US economy adds just 29,000 jobs in September as hiring slows sharply",
         "link": "https://www.ft.com/content/7fc80097-1926-4306-81e0-83d90a3d8a1d?syn-25a6b1a6=1",
-        "published": "2026-10-02T16:59:00Z",
+        "published": "2026-10-02T20:05:51Z",
         "description": "Figure renews market debate about outlook for further Fed rate rises"
       },
       {
@@ -692,52 +692,52 @@
     "chelsea_sky": [],
     "guardianfootball": [
       {
-        "title": "Manchester City lodge appeal as FA warns of major implications for integrity of game: football news – live",
-        "link": "https://www.theguardian.com/football/live/2026/oct/02/manchester-city-appeal-deadline-nations-league-news-and-more-football-live",
-        "published": "2026-10-02T17:06:45Z",
-        "description": "Updates on Manchester City and Nations League news Fixtures | Get Football Daily | And you can email John That’s it from me for now. Luke McLaughlin is here to take over. Manchester City: Andy Burnham’s intervention in the Manchester City debate has revived tensions between the Premier League and the UK prime minister. Continue reading..."
+        "title": "Etihad’s statements on funding appear to contradict Manchester City’s defence",
+        "link": "https://www.theguardian.com/football/2026/oct/02/manchester-city-fa-guilty-verdict-premier-league-appeal",
+        "published": "2026-10-02T17:58:20Z",
+        "description": "Airline denied links to Abu Dhabi government in 2015 FA confirms it has powers to take disciplinary action Manchester City’s defence in their appeal against the independent commission’s guilty verdict in more than 100 charges of financial rule breaches appears to be contradicted by previous statements made by their main sponsor, Etihad Airways, to the US government. A key element of City’s appeal, which was confirmed by the club on Friday, is understood to be based on their claim that commercial contracts, which the commission concluded were part-funded by their owner, were in fact paid for by the Abu Dhabi government. Continue reading..."
       },
       {
-        "title": "Andy Burnham urged by Lib Dems to reveal all meetings with owners of Manchester City",
-        "link": "https://www.theguardian.com/football/2026/oct/02/andy-burnham-meetings-manchester-city-owners-lib-dems",
-        "published": "2026-10-02T13:00:13Z",
-        "description": "Burnham should also declare City hospitality, party says PM said he would be concerned if owners forced to sell Andy Burnham is facing calls from the Liberal Democrats to publish details of all his meetings with Manchester City’s owners, the Abu Dhabi United Group (ADUG), and declare all hospitality he has accepted at the Etihad Stadium. The prime minister was widely criticised this week for saying he would be “really concerned” if ADUG were forced to sell City after being found guilty of breaching the Premier League’s financial regulations, which led to Downing Street issuing two clarifications of his position on Thursday. Continue reading..."
+        "title": "Nations League: Italy earn draw against 10-man France, Northern Ireland stun Ukraine",
+        "link": "https://www.theguardian.com/football/2026/oct/02/nations-league-roundup-france-italy-northern-ireland-ukraine-belgium",
+        "published": "2026-10-02T21:11:15Z",
+        "description": "League A: France 1-1 Italy, Belgium 3-0 Turkey Northern Ireland boost promotion bid with 3-0 win Zinedine Zidane’s first home game in charge of France ended with a 1-1 draw against Italy in the Nations League on Friday. The home fans got an exciting game at Stade de France but not the result they expected, mainly because of Italy goalkeeper Gianluigi Donnarumma’s performance. Continue reading..."
+      },
+      {
+        "title": "How best to punish City? Restitution over retribution, then hand club to the fans | Jonathan Liew",
+        "link": "https://www.theguardian.com/football/2026/oct/02/how-best-to-punish-manchester-city-restitution-retribution-hand-club-to-fans",
+        "published": "2026-10-02T19:00:37Z",
+        "description": "There are no real precedents and emotions are still raw, but good can come from this mess if ownership models change A 17-year transfer embargo. Replay the entire era with all the original players. Restore the 2009 squad and force them to mount a title challenge with Stephen Ireland, Martin Petrov and Richard Dunne. Force Ferran Soriano to drive a parade bus backwards through Manchester, once for every major trophy won. Ban the Poznan, or at least make City fans do it facing forwards. Yes, in the week since it emerged that Manchester City have been found guilty of all the financial charges laid against them by the Premier League, a great and cathartic silliness has begun to stalk the land.…"
+      },
+      {
+        "title": "Manchester City’s England players are worried about their futures, admits Tuchel",
+        "link": "https://www.theguardian.com/football/2026/oct/02/manchester-citys-england-players-are-worried-about-their-futures-admits-tuchel",
+        "published": "2026-10-02T18:06:11Z",
+        "description": "‘It is of course a topic and we speak about it at dinner’ Head coach has right-back dilemma for game in Croatia Thomas Tuchel has suggested Manchester City’s England contingent are worried about the club being found guilty of breaching the Premier League’s financial rules. Tuchel, who said he would be prepared to keep picking City players if they were relegated, revealed the case had been a major topic of conversation in the England camp before the Nations League game against Croatia. The head coach said there had been discussions during meals and delivered an honest response after being asked whether the situation had become a distraction. Continue reading..."
+      },
+      {
+        "title": "Arsenal shelve plans for major expansion of Emirates Stadium",
+        "link": "https://www.theguardian.com/football/2026/oct/02/arsenal-shelve-plans-for-major-expansion-of-emirates-stadium",
+        "published": "2026-10-02T20:10:12Z",
+        "description": "Club opt for improvements in hospitality and retail An increase to 60,704 capacity had been considered Arsenal have shelved plans for a major expansion of the Emirates Stadium, opting for a programme of smaller improvements as the club’s owners review the Premier League champions’ wider operation. Arsenal set up a working group led by the chief executive, Richard Garlick, in 2024 to examine the feasibility of increasing the 60,704 capacity, with some reports they could temporarily hold home matches at Wembley. But the club has decided against major redevelopment and will concentrate on what it described as the “continued evolution” of their home since 2006. Continue reading..."
+      },
+      {
+        "title": "Manchester City whistleblower Rui Pinto to leave Portugal over safety fears",
+        "link": "https://www.theguardian.com/football/2026/oct/02/manchester-city-whistleblower-rui-pinto-leave-portugal-over-safety-fears",
+        "published": "2026-10-02T19:43:59Z",
+        "description": "Pinto has witness protection status removed His lawyers will appeal and say his situation is ‘critical’ Rui Pinto has revealed he is preparing to leave Portugal because he fears for his safety after being informed that his participation in the country’s witness protection programme has been terminated. The Football Leaks founder claimed he has received “multiple death threats” and is facing “the serious risk of an assassination attempt against me” after being informed of the decision by Portuguese authorities on Wednesday. That came two days after Manchester City were found guilty of 115 charges by an independent commission – an investigation that was prompted by Pinto’s leaks of thousands…"
       },
       {
         "title": "Slegers feels support from Arsenal hierarchy despite dismal run but biggest test looms",
         "link": "https://www.theguardian.com/football/2026/oct/02/renee-slegers-feels-support-arsenal-hierarchy-despite-miserable-run-wsl",
         "published": "2026-10-02T16:38:59Z",
-        "description": "Board ‘really good and positive’ at ‘difficult time’ Gunners visit WSL leaders Manchester City on Sunday Renée Slegers says she has felt the full support of Arsenal’s board and praised her senior players for showing “monumental leadership” this week as she vows to find solutions to recent poor form before Sunday’s pivotal trip to Manchester City. One win in five matches has left Slegers under mounting pressure. Arsenal let slip a two-goal lead to draw at Paris FC in the Women’s Champions League on Wednesday and in the WSL they have slipped seven points behind City, the leaders and defending champions, having scored once in their past three league games. Continue reading..."
-      },
-      {
-        "title": "Next Generation 2023: 60 of the best young talents in world football",
-        "link": "https://www.theguardian.com/football/ng-interactive/2023/oct/11/next-generation-2023-60-of-the-best-young-talents-in-world-football",
-        "published": "2023-10-11T11:00:38Z",
-        "description": "From Warren Zaïre-Emery to Endrick, we select some of the best players born in 2006. Check the progress of our classes of 2022 | 2021 | 2020 | 2019 | 2018 Next Generation 2023: 20 of the best Premier League talents Continue reading..."
-      },
-      {
-        "title": "Football Daily | Manchester City lace up their gloves ready for another round. Bring your dinner",
-        "link": "https://www.theguardian.com/football/2026/oct/02/manchester-city-football-daily-newsletter",
-        "published": "2026-10-02T14:23:47Z",
-        "description": "Sign up now! Sign up now! Sign up now? Sign up now! Seven days after leaking out , the Manchester City saga has become a flood. Peace in our time has disappeared into the distance as football jurisprudence’s longest-running case enters Defcon 1 lawfare. Football Daily is duty bound by its learned friends in the legal department who gamely pick through this cheery teatime email before it reaches you, to say that City continue to deny all charges [we don’t necessarily need this but we’re happy to remain the butt of the joke – Football Daily Lawyers]. Though that also serves as a statement of the bleeding obvious. Club operatives and associates have employed not so much a double but a…"
+        "description": "Board ‘really good and positive’ at ‘difficult time’ Gunners visit WSL leaders Manchester City on Sunday Renée Slegers says she has felt the full support of Arsenal’s board and praised her senior players for showing “monumental leadership” this week as she vows to find solutions to recent poor form before Sunday’s pivotal trip to Manchester City. One win in five matches has put Slegers under mounting pressure. Arsenal let slip a two-goal lead to draw at Paris FC in the Women’s ­Champions League on Wednesday and in the WSL they have slipped seven points behind City, the ­leaders and defending champions, having scored only twice in their four league games. Continue reading..."
       },
       {
         "title": "Robbie Savage steps up to take Peterborough job: ‘All I want is a chance’",
         "link": "https://www.theguardian.com/football/2026/oct/02/robbie-savage-peterborough-manager-job-understands-reservations",
         "published": "2026-10-02T12:11:20Z",
         "description": "Savage leaves Forest Green to take League One role ‘Excitement is the word I can use,’ say MacAnthony Robbie Savage has been confirmed as the new manager of League One strugglers Peterborough. Savage has left his role at National League side Forest Green Rovers and signed a long-term contract at Posh, who are currently second from bottom and sacked Luke Williams last month. His appointment marks his first Football League role since retiring as a player in 2011 , and Savage said he is relishing the opportunity to prove any doubters wrong. Continue reading..."
-      },
-      {
-        "title": "Bilic is back: bravery and belief underpin second coming as Croatia manager",
-        "link": "https://www.theguardian.com/football/2026/oct/02/slaven-bilic-croatia-manager-second-coming-england-nations-league",
-        "published": "2026-10-02T10:20:54Z",
-        "description": "Match against England is welcome test for former West Ham coach as he replaces history-making Zlatko Dalic “I don’t believe in comebacks.” Slaven Bilic sat in the lobby of a hotel in Canary Wharf wearing a black Soundgarden T-shirt and dark denim, confidently discussing a wide variety of topics ranging from Sir Alex Ferguson’s autobiography to historical epics of Yugoslav cinematography and Nikola Tesla’s celibacy. He was living the good life in London, just before his third Premier League season as West Ham’s manager, and a rare interview for Croatian media was a chance for him to catch up with domestic intrigues. “I’m now distanced by default, geographically,” he said, breathing a sigh…"
-      },
-      {
-        "title": "Nations League: Ronaldo-less Portugal prosper while Klopp gets first win as Germany coach",
-        "link": "https://www.theguardian.com/football/2026/oct/01/nations-league-portugal-denmark-germany-serbia",
-        "published": "2026-10-01T22:00:50Z",
-        "description": "Portugal pull away to 4-2 win in Denmark Jürgen Klopp’s Germany beat Serbia 2-0 Portugal maintained their perfect start to Nations League Group A4 as Jorge Jesus’s squad showed little signs of missing Cristiano Ronaldo with a 4-2 victory over Denmark in Copenhagen. The 41-year-old Al-Nassr forward and five-time Ballon d’Or winner left the camp before the match amid reports of a falling out with Jesus , his former club manager, having been left on the bench throughout a victory in Norway. Continue reading..."
       }
     ],
     "spielverlagerung": [
@@ -842,6 +842,18 @@
     ],
     "wagnh": [
       {
+        "title": "The Daily Hilario: Friday",
+        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/172706/the-daily-hilario-october-2nd",
+        "published": "2026-10-02T07:02:42Z",
+        "description": "First Drama Lol"
+      },
+      {
+        "title": "Pedro Neto and Portugal keep rolling amid Cristiano Ronaldo drama",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/172711/pedro-neto-and-portugal-keep-rolling-amid-cristiano-ronaldo-drama",
+        "published": "2026-10-02T06:31:14Z",
+        "description": "Pedro Neto may have been kept off the scoresheet, but he had himself a pretty good game as Portugal notched yet another victory in this international break, this time putting four past Denmark. Portugal have lost just one game in the last ten months or so, and that was to the eventual champions at the […]"
+      },
+      {
         "title": "The Daily Hilario: Thursday",
         "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/172687/the-daily-hilario-october-1st",
         "published": "2026-10-01T07:10:46Z",
@@ -876,18 +888,6 @@
         "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/172663/morgan-rogers-starts-in-englands-win-over-czech-republic",
         "published": "2026-09-30T04:55:31Z",
         "description": "Morgan Rogers seems to love an early goal, and he almost got another one last night, in England’s Nations League match against the Czech Republic in Prague. Unfortunately for our record-signing, his curling shot in the fifteenth minute found only woodwork. That early goal could’ve been useful as the Three Lions instead had to wait […]"
-      },
-      {
-        "title": "João Pedro ‘receiving treatment from specialist’ for knee injury — report",
-        "link": "https://weaintgotnohistory.sbnation.com/injury-news/172656/joao-pedro-receiving-treatment-from-specialist-for-knee-injury-report",
-        "published": "2026-09-30T03:55:45Z",
-        "description": "There are few words and phrases more frightening in the English language than “knee injury specialist”, which makes yesterday’s report from the Evening Standard a bit of a scary story indeed. The outlet’s exclusive claims that João Pedro has been “receiving treatment from a specialist” for the knee injury that’s kept him out of our […]"
-      },
-      {
-        "title": "Official: Premier League confirm Manchester City charges with over £900m in false reporting",
-        "link": "https://weaintgotnohistory.sbnation.com/around-the-premier-league/172646/official-premier-league-confirm-manchester-city-charges-with-over-900m-in-false-reporting",
-        "published": "2026-09-30T02:28:19Z",
-        "description": "The Premier League have confirmed reports from last week that Manchester City have been found guilty on 114 of the 115 charges levied against them for various financial breaches between 2009 and 2018. The League’s official statement reveals that City were found guilty on “all charges related to serious breaches of the Premier League’s financial […]"
       }
     ],
     "rym": [],
@@ -1450,10 +1450,16 @@
     "nyrb": [],
     "lrb": [
       {
+        "title": "Ozempic in Iran",
+        "link": "https://www.lrb.co.uk/blog/2026/september/ozempic-in-iran",
+        "published": "2026-09-29T15:02:41Z",
+        "description": "In Iran, as elsewhere, GLP-1 agonists such as semaglutide and tirzepatide offer a chance to address obesity, improve organ functioning and treat..."
+      },
+      {
         "title": "Public Positions",
         "link": "https://www.lrb.co.uk/blog/2026/september/public-positions",
         "published": "2026-09-23T14:20:38Z",
-        "description": "In much of the coverage of the Ed Sheeran-Macklemore debacle, the reality of the incident is turned on its head, as people ask whether Sheeran has..."
+        "description": "Given much of the coverage of the Ed Sheeran-Macklemore debacle, you could be forgiven for thinking that Sheeran had been dropped from his tour for..."
       },
       {
         "title": "Layers of Denial",
@@ -1472,12 +1478,6 @@
         "link": "https://www.lrb.co.uk/blog/2026/september/in-bishkek",
         "published": "2026-09-18T15:50:28Z",
         "description": "Kok-boru is a horseback sport related to polo, played with a headless goat carcass rather than a ball and mallets. The equestrian scrums are violent..."
-      },
-      {
-        "title": "Human Melting",
-        "link": "https://www.lrb.co.uk/blog/2026/september/human-melting",
-        "published": "2026-09-17T14:46:18Z",
-        "description": "Planning regulations were modified last year, with AI data centres redefined as ‘nationally significant infrastructure projects’. Any attempt by a..."
       }
     ],
     "larb": [],
@@ -1667,6 +1667,24 @@
     ],
     "nautilus": [
       {
+        "title": "Your Immune System Ages in Two Big Bursts",
+        "link": "https://nautil.us/your-immune-system-ages-in-two-big-bursts-1285487/",
+        "published": "2026-10-02T20:30:00Z",
+        "description": "Your 40s and 60s are periods of intense remodeling"
+      },
+      {
+        "title": "This Spectacular Star Field Hides Brown Dwarfs That Never Ignite",
+        "link": "https://nautil.us/this-spectacular-star-field-hides-brown-dwarfs-that-never-ignite-1285482/",
+        "published": "2026-10-02T19:30:00Z",
+        "description": "The James Webb Space Telescope does it again"
+      },
+      {
+        "title": "What Goes on in the Brain When a Good Buzz Gets Harshed",
+        "link": "https://nautil.us/what-goes-on-in-the-brain-when-a-good-buzz-gets-harshed-1285479/",
+        "published": "2026-10-02T18:30:26Z",
+        "description": "In 1974, Pfizer developed a synthetic cannabinoid that mimicked the effects of tetrahydrocannabinol (THC), but was around 40 times stronger. Unfortunately, this synthetic super weed was never marketed. Instead, it’s used to test the effects of THC on lab animals, like the mice in a new Nature study . Using cannabis (as you may know from firsthand experience), can be very relaxing, but it can also produce anxiety. It turns out mice experience the same thing. Now scientists might know what’s going on in the brain during a bad trip. Neuroscientists from Northwestern University dosed a group of mice with different levels of the synthetic cannabinoid (called CP55940) and placed them in an…"
+      },
+      {
         "title": "This Obscure 1960s Guide to LSD Holds Up",
         "link": "https://nautil.us/this-obscure-1960s-guide-to-lsd-holds-up-1285476/",
         "published": "2026-10-02T17:00:58Z",
@@ -1695,24 +1713,6 @@
         "link": "https://nautil.us/ancient-pocket-change-reveals-special-status-of-romes-little-englanders-1285457/",
         "published": "2026-10-01T20:30:00Z",
         "description": "These pilgrims didn’t have to secure travel money"
-      },
-      {
-        "title": "A Look at How Many Cancers Are Caused by Infections Worldwide",
-        "link": "https://nautil.us/a-look-at-how-many-cancers-are-caused-by-infections-worldwide-1285454/",
-        "published": "2026-10-01T19:00:00Z",
-        "description": "Nearly one in eight cancers are caused by a pathogen"
-      },
-      {
-        "title": "Where Did the “Social Magic” Go?",
-        "link": "https://nautil.us/where-did-the-social-magic-go-1285451/",
-        "published": "2026-10-01T18:06:09Z",
-        "description": "A conversation with an Icelandic sociologist about the paradox of connection in our digital age"
-      },
-      {
-        "title": "This Real-Life Sea Monster is Controlled by Joysticks",
-        "link": "https://nautil.us/this-real-life-sea-monster-is-controlled-by-joysticks-1285439/",
-        "published": "2026-10-01T14:00:00Z",
-        "description": "Its unique hypnotic movements are inspiring roboticists"
       }
     ],
     "worksinprogress": [],
@@ -1768,6 +1768,12 @@
     ],
     "nplusone": [
       {
+        "title": "Last Week in End Times Cinema",
+        "link": "https://www.nplusonemag.com/online-only/online-only/last-week-in-end-times-cinema-2/",
+        "published": "2026-10-02T15:30:09Z",
+        "description": "After a series of massive concessions by everyone from state attorneys general to the WGA to the great mass of the American people, the Paramount Skydance–Warner Brothers Discovery merger looks to be complete. Eyebrowless scion David Ellison will now be in charge of one of the largest media conglomerates in the world Although the concessions […]"
+      },
+      {
         "title": "Away Game",
         "link": "https://www.nplusonemag.com/online-only/gooooaaal/away-game/",
         "published": "2026-09-29T14:49:11Z",
@@ -1808,12 +1814,6 @@
         "link": "https://www.nplusonemag.com/online-only/events/issue-54-reading-and-celebration/",
         "published": "2026-09-10T16:10:57Z",
         "description": "Please join n+1 at our office in Greenpoint for reading and drinks in celebration of Issue 54: POWER PLAY! Featuring readings by Walker Caplan, Mark Krotov, Leigh Claire La Berge, Maria Marchinkoski, and Colin Vanderburg. Readings will start at 7, followed by a party, and cheap drinks will be for sale. Entry is free for subscribers […]"
-      },
-      {
-        "title": "The Billboards of Silicon Valley",
-        "link": "https://www.nplusonemag.com/online-only/online-only/the-billboards-of-silicon-valley/",
-        "published": "2026-09-04T18:42:43Z",
-        "description": "YOUR AI AGENT NEEDS A WORKFLOW ENGINE. The billboard stands by a nondescript stretch of highway somewhere between Redwood City and Mountain View. A boom, likely a bubble, made manifest. A cry of triumphant return. And probably one day, a monument to a bubble bursting. All hype seems destined to furnish tomorrow’s ruin. But for […]"
       }
     ],
     "parisreview": [
@@ -1918,6 +1918,12 @@
     ],
     "longreads": [
       {
+        "title": "Behind His Great Novels, an Unbearable Family Secret",
+        "link": "https://longreads.com/2026/10/02/sebastian-barry-writer-family-abuse-ireland/",
+        "published": "2026-10-02T16:26:13Z",
+        "description": "\"The Irish author Sebastian Barry has made a career of mining his family history. But he kept one story buried.\""
+      },
+      {
         "title": "What It Feels Like at Cornell Right Now",
         "link": "https://longreads.com/2026/10/02/cornell-rape-culture-lawsuit/",
         "published": "2026-10-02T12:00:00Z",
@@ -1958,12 +1964,6 @@
         "link": "https://longreads.com/2026/09/30/ice-hockey-kids-violence-parenting/",
         "published": "2026-09-30T19:11:22Z",
         "description": "\"Parenting is a practice. You learn from your mistakes and then repeat them anyway.\""
-      },
-      {
-        "title": "A Record of Breath",
-        "link": "https://longreads.com/2026/09/30/preservation-oxford-american/",
-        "published": "2026-09-30T15:36:30Z",
-        "description": "\"Archiving a life at the edge of disposal.\""
       }
     ]
   }
