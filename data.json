@@ -387,15 +387,27 @@
     "reuters": [],
     "bbc": [
       {
-        "title": "US unveils sanctions on ICC in move court condems as 'assault on rule of law'",
+        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+        "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-09T21:54:28Z",
+        "description": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended."
+      },
+      {
+        "title": "NI secretary to ban the Drumcree parade",
+        "link": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-09T21:46:19Z",
+        "description": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks."
+      },
+      {
+        "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
         "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-09T17:43:03Z",
-        "description": "The European Union described the move against the International Criminal Court as \"deeply regrettable\"."
+        "published": "2026-10-09T18:40:10Z",
+        "description": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions."
       },
       {
         "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
         "link": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-09T15:16:54Z",
+        "published": "2026-10-09T19:26:53Z",
         "description": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat."
       },
       {
@@ -403,6 +415,12 @@
         "link": "https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&at_campaign=rss",
         "published": "2026-10-09T12:29:02Z",
         "description": "Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion."
+      },
+      {
+        "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+        "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-09T21:50:47Z",
+        "description": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years."
       },
       {
         "title": "Widdecombe suspect had 'particular hostility to Reform', court told",
@@ -415,94 +433,82 @@
         "link": "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo?at_medium=RSS&at_campaign=rss",
         "published": "2026-10-09T17:14:16Z",
         "description": "Deputy party leader Daisy Cooper says \"the vast majority of our MPs support Ed... and are furious at this distraction.\""
-      },
-      {
-        "title": "Alison Hammond: 'I thought I was having heart attack on air'",
-        "link": "https://www.bbc.co.uk/news/articles/cq5yn75pgyjjo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-09T10:52:34Z",
-        "description": "The host says a health scare on live TV was one of the \"scariest things I've ever been through\"."
-      },
-      {
-        "title": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
-        "link": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-09T15:26:33Z",
-        "description": "BBC correspondent Joe Inwood explains how Pillay's childhood in South Africa led her to become a driving force in international law from Myanmar to Gaza."
-      },
-      {
-        "title": "Bank cashier outed by holiday photos after stealing £13k is ordered to pay back money",
-        "link": "https://www.bbc.co.uk/news/articles/c6rmy7287njko?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-09T15:14:30Z",
-        "description": "Kelly Kershaw stole from vulnerable customers to fund a safari in Africa and a trip to Paris."
       }
     ],
     "aljazeera": [
       {
-        "title": "Drone strike kills 30 people in Sudan’s Blue Nile region",
-        "link": "https://www.aljazeera.com/news/2026/10/9/drone-strike-kills-30-people-in-sudans-blue-nile-region?traffic_source=rss",
-        "published": "2026-10-09T17:19:43Z",
-        "description": "Drone reportedly linked to RSF targets Wad al-Mahi, killing dozens near displacement camp, including women and children."
+        "title": "US judge rules Trump administration’s use of voter data unlawful",
+        "link": "https://www.aljazeera.com/news/2026/10/9/us-judge-rules-trump-administrations-use-of-voter-data-unlawful?traffic_source=rss",
+        "published": "2026-10-09T21:29:01Z",
+        "description": "A federal judge ruled against the Justice Department's use of voter data to cross-reference an immigration database."
       },
       {
-        "title": "Palestinians seek protection from violent settlers during olive harvest",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/palestinians-seek-protection-from-violent-settlers-during-olive-harvest?traffic_source=rss",
-        "published": "2026-10-09T17:05:25Z",
-        "description": "Palestinian farmers harvesting olives in the occupied West Bank are calling on international activists to protect them."
+        "title": "Africa Cup of Nations may stay as a biennial event, says CAF chief Motsepe",
+        "link": "https://www.aljazeera.com/sports/2026/10/9/afcon-may-stay-as-a-biennial-event-says-caf-chief-motsepe?traffic_source=rss",
+        "published": "2026-10-09T21:17:42Z",
+        "description": "CAF had declared the Africa Cup of Nations would be held every four years, but may reverse that decision."
       },
       {
-        "title": "Powerful tornado rips through western Sicily",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/powerful-tornado-rips-through-western-sicily?traffic_source=rss",
-        "published": "2026-10-09T16:37:33Z",
-        "description": "A powerful tornado tore through western Sicily, causing destruction across the cities of Marsala and Petrosino."
+        "title": "Manchester United vs Tottenham: Premier League – teams, prediction, lineups",
+        "link": "https://www.aljazeera.com/sports/2026/10/9/manchester-united-vs-tottenham-premier-league-teams-prediction-lineups?traffic_source=rss",
+        "published": "2026-10-09T21:04:00Z",
+        "description": "Man United and Tottenham Hotspur managers under increasing pressure ahead of Premier League clash at Old Trafford."
       },
       {
-        "title": "DHS defends ICE shooting in NYC, says officers believed they were in danger",
-        "link": "https://www.aljazeera.com/news/2026/10/9/dhs-defends-ice-shooting-in-nyc-says-officers-believed-they-were-in-danger?traffic_source=rss",
-        "published": "2026-10-09T16:36:31Z",
-        "description": "The shooting prompted protests in New York City and Mayor Zohran Mamdani condemned the incident."
+        "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
+        "link": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss",
+        "published": "2026-10-09T20:56:01Z",
+        "description": "Saudi Arabia and Yemen's internationally recognised gov't urge UN Security Council action amid Houthi escalation."
       },
       {
-        "title": "‘A Ceuta-style surge is possible’: Border tensions on NATO’s eastern flank",
-        "link": "https://www.aljazeera.com/news/2026/10/9/a-ceuta-style-surge-is-possible-border-tensions-on-natos-eastern-flank?traffic_source=rss",
-        "published": "2026-10-09T16:33:26Z",
-        "description": "Belarus-linked incidents trouble Latvia and Lithuania, where experts warn of security challenges."
+        "title": "How will Spain’s housing crisis affect elections?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/10/9/how-will-spains-housing-crisis-impact-elections?traffic_source=rss",
+        "published": "2026-10-09T20:39:11Z",
+        "description": "Snap vote called after Parliament rejects measures to protect tenants and freeze rents."
       },
       {
-        "title": "Thousands rally for anti-austerity protest in Brussels amid clashes",
-        "link": "https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss",
-        "published": "2026-10-09T16:07:29Z",
-        "description": "Belgian police respond to 'troublemakers' on sidelines of main rally with tear gas, water cannon and baton charges."
+        "title": "Human rights veteran Navi Pillay wins 2026 Nobel Peace Prize",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss",
+        "published": "2026-10-09T20:29:30Z",
+        "description": "South African jurist Navanethem Pillay has been awarded the 2026 Nobel Peace Prize for her work to promote peace."
       },
       {
-        "title": "Trump launches probe into Federal Reserve Governor Lisa Cook",
-        "link": "https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook?traffic_source=rss",
-        "published": "2026-10-09T16:01:37Z",
-        "description": "Trump began efforts to remove Cook as one of the governors on the US Fed Reserve Board in 2025 and litigation is on."
+        "title": "Rising fuel costs slashed Delta’s profit outlook despite strong demand",
+        "link": "https://www.aljazeera.com/economy/2026/10/9/rising-fuel-costs-slashed-deltas-profit-outlook-despite-strong-demand?traffic_source=rss",
+        "published": "2026-10-09T20:17:15Z",
+        "description": "Rising fuel prices push Delta's annual fuel expenses up by $6bn, affecting its profit outlook for 2026."
       },
       {
-        "title": "‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize?traffic_source=rss",
-        "published": "2026-10-09T15:59:04Z",
-        "description": "US Secretary of State Marco Rubio announced sanctions against the International Criminal Court on Friday."
+        "title": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
+        "link": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss",
+        "published": "2026-10-09T20:13:24Z",
+        "description": "Attorney General says suspect admitted he acted alone after preparing ‌‌psychologically ‌‌and physically for the attack."
       }
     ],
     "ft": [
       {
-        "title": "US 10-year Treasury yields risk hitting 6% for first time since 2000, Pimco says",
-        "link": "https://www.ft.com/content/a752a86c-cf05-4152-b842-2ae6b6bf3fe0?syn-25a6b1a6=1",
-        "published": "2026-10-09T04:00:31Z",
-        "description": "Bond giant’s investment chief warns that further sharp rise in borrowing costs is ‘feasible’ as market participants are forced to unwind losing bets"
+        "title": "Trump agrees deal with Putin for Russia to release diesel",
+        "link": "https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1",
+        "published": "2026-10-09T20:34:01Z",
+        "description": "Pact between Washington and Moscow comes just weeks before critical midterm elections in the US"
       },
       {
-        "title": "Why bank stocks are falling despite surging interest rates",
-        "link": "https://www.ft.com/content/83993bb2-35dd-4ae1-a4b2-8b6c3762a84b?syn-25a6b1a6=1",
-        "published": "2026-10-09T04:00:31Z",
-        "description": "If funding costs rise, the expanding profit margins banks have enjoyed may start to reverse"
+        "title": "Oil and gas production disrupted as Hurricane Isaias barrels towards Gulf",
+        "link": "https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1",
+        "published": "2026-10-09T18:38:06Z",
+        "description": "First Atlantic hurricane of the season headed towards Florida, Alabama, Georgia and Mississippi"
       },
       {
-        "title": "AI ‘deepfakes’ give US political attack ads a new twist",
-        "link": "https://www.ft.com/content/42fea52e-a4de-4613-b409-ca52d0a2aac2?syn-25a6b1a6=1",
-        "published": "2026-10-09T04:00:12Z",
-        "description": "Manipulated images are filling the airwaves in the run-up to November’s midterm elections"
+        "title": "EU to explore windfall tax on energy companies",
+        "link": "https://www.ft.com/content/ffb13044-216b-4b31-885c-cda9c78cbfdb?syn-25a6b1a6=1",
+        "published": "2026-10-09T16:05:12Z",
+        "description": "Commissioner to consider levies as oil and gas businesses reap big profits from fallout of US-Israeli war on Iran"
+      },
+      {
+        "title": "The hazy OpenAI growth metric driving Wall Street",
+        "link": "https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1",
+        "published": "2026-10-09T20:57:10Z",
+        "description": "Revelations that the AI giant’s annualised revenues were $20bn less than previously reported triggered volatility in US stocks"
       },
       {
         "title": "Computer scientist David Silver: ‘Where are we going without AI?’",
@@ -511,10 +517,10 @@
         "description": "The architect of Google DeepMind’s AlphaGo on building machines that can teach themselves — and why he feels a moral obligation to advance the technology"
       },
       {
-        "title": "Trump and Hegseth’s execution-type deal",
-        "link": "https://www.ft.com/content/39764d10-6b87-4103-8e7d-290a72a5ea5a?syn-25a6b1a6=1",
-        "published": "2026-10-09T16:18:01Z",
-        "description": "The decision to livestream the execution of Nidal Malik Hasan is a sign of profound moral decay"
+        "title": "Why OpenAI’s revenue numbers really matter",
+        "link": "https://www.ft.com/content/58e684a0-b8ed-4d7a-a2d6-6bf739cb2fa2?syn-25a6b1a6=1",
+        "published": "2026-10-09T21:48:14Z",
+        "description": "Vague figures may lay the groundwork for inflated valuations when much-hyped companies finally go public"
       },
       {
         "title": "Trump launches committee to investigate Fed governor Lisa Cook",
@@ -523,16 +529,10 @@
         "description": "Move comes after Supreme Court in June rebuffed president’s attempt to sack central banker"
       },
       {
-        "title": "Kennedy Center donor accused of fraud was secret FBI informant",
-        "link": "https://www.ft.com/content/73359693-9d76-47c9-a6e0-25ab22d3a5e0?syn-25a6b1a6=1",
-        "published": "2026-10-09T14:33:44Z",
-        "description": "Accused conman who donated $2mn to Trump-run performing arts centre was once a confidential FBI source with a checkered record"
-      },
-      {
-        "title": "China and EU avert trade conflict with ‘understanding’ on hybrid cars",
-        "link": "https://www.ft.com/content/2823ef6f-b3d7-494b-b131-414c02d6a59f?syn-25a6b1a6=1",
-        "published": "2026-10-09T15:41:56Z",
-        "description": "European trade commissioner says Beijing has agreed to restrict vehicle exports in deal that shows negotiation ‘brings results’"
+        "title": "US 10-year Treasury yields risk hitting 6% for first time since 2000, Pimco says",
+        "link": "https://www.ft.com/content/a752a86c-cf05-4152-b842-2ae6b6bf3fe0?syn-25a6b1a6=1",
+        "published": "2026-10-09T04:00:31Z",
+        "description": "Bond giant’s investment chief warns that further sharp rise in borrowing costs is ‘feasible’ as market participants are forced to unwind losing bets"
       }
     ],
     "restofworld": [
@@ -587,6 +587,12 @@
     ],
     "propublica": [
       {
+        "title": "New York Plans Stronger Sports Betting Regulation to Curb Gambling Addiction",
+        "link": "https://www.propublica.org/article/new-york-gaming-commission-sports-betting-regulation",
+        "published": "2026-10-09T20:14:42Z",
+        "description": ""
+      },
+      {
         "title": "The Pentagon Gave $350 Million in Contracts to a Firm Closely Tied to a Senior Defense Department Official",
         "link": "https://www.propublica.org/article/george-kollitides-pentagon-contracts-alvarez-marsal",
         "published": "2026-10-09T16:45:00Z",
@@ -626,12 +632,6 @@
         "title": "Homeless Shelters Around Phoenix Are Full. His Phone Is the Unofficial Hotline for Struggling Families.",
         "link": "https://www.propublica.org/article/arizona-homeless-austin-davis-az-hugs",
         "published": "2026-10-07T09:00:00Z",
-        "description": ""
-      },
-      {
-        "title": "I’ve Covered Death Row Cases for Nearly a Decade. What Happened to Christa Pike Wasn’t an Anomaly.",
-        "link": "https://www.propublica.org/article/christa-pike-tennessee-execution-lethal-injection-failure",
-        "published": "2026-10-06T18:55:00Z",
         "description": ""
       }
     ],
@@ -692,28 +692,34 @@
     "chelsea_sky": [],
     "guardianfootball": [
       {
-        "title": "Greece v England: Women’s World Cup playoff semi-final, first leg – live",
-        "link": "https://www.theguardian.com/football/live/2026/oct/09/greece-v-england-womens-world-cup-playoff-semi-final-first-leg-live",
-        "published": "2026-10-09T17:44:25Z",
-        "description": "⚽ World Cup qualifying news, 5.30pm BST kick-off in Crete ⚽ Read the latest Moving the Goalposts extract | Mail Rob Thanks to Trevor for pointing out that Tuesday’s second leg is at the King Power Stadium – not, as I suggested earlier, at Wembley. Grauniad gonna Grauniad. Continue reading..."
+        "title": "The Premier League is back: welcome to the new era of post-verdict unreality | Barney Ronay",
+        "link": "https://www.theguardian.com/football/2026/oct/09/the-premier-league-is-back-welcome-to-the-new-era-of-post-verdict-unreality",
+        "published": "2026-10-09T19:00:35Z",
+        "description": "As the top flight returns, armed with the knowledge its serial champions have been the authors of a 10-year sham supremacy, the first question is simple: how is it going to feel? The internet: an apology. It turns out you were right. It was actually a simulation all along. Now, talk to me about chemtrails again. And yes, maybe Vinícius Júnior has been replaced by a handsome, baffled-looking waxwork. Welcome to the weirdest weekend of them all. We are now post-judgment, post-statement, postlapsarian. As the Premier League prepares to snap back into what must be described, out of habit, as reality, armed with the knowledge its serial champions have been the authors of a 10-year sham…"
       },
       {
-        "title": "Maresca maintains almost total control as he follows Manchester City owners’ line | Jamie Jackson",
-        "link": "https://www.theguardian.com/football/2026/oct/09/maresca-maintains-almost-total-control-as-he-follows-manchester-city-owners-line",
-        "published": "2026-10-09T16:00:55Z",
-        "description": "Manager’s media conference was three times busier than usual, but he and his club are still speaking with one voice – for now Enzo Maresca’s first public display since Manchester City were found guilty on virtually all counts of breaching Premier League financial rules was controlled – apart from the sole, and telling, slip-up of his very first answer. In Thursday’s pre-emptive PR move, the club had Maresca tell their channels that he was aware of the “noise” around City. Fast forward 24 hours, and to a packed media conference of 45 attendees – around a threefold increase on the norm – at the Etihad Campus, the Italian was asked if this was dismissive of the anger felt towards the club’s…"
+        "title": "Lionesses take control of World Cup playoff tie but unfancied Greece still in fight",
+        "link": "https://www.theguardian.com/football/2026/oct/09/greece-england-womens-world-cup-qualifying-playoff",
+        "published": "2026-10-09T18:46:37Z",
+        "description": "World Cup qualifying playoff: Greece 1-3 England Stanway, Le Tissier and Russo on target Sarina Wiegman said she wanted to see a bit more from her side after their fairly underwhelming performance against a hugely unfancied Greek side, despite securing a valuable first-leg victory in their Women’s World Cup playoff tie. Georgia Stanway’s neat finish, Maya Le Tissier’s first England goal and Alessia Russo’s low strike were enough to give England control but a Kallisti Brouksair goal for Greece means that the tie is not definitively over, going into Tuesday’s second leg, and Wiegman acknowledged that England had been “a bit sloppy” at times. Continue reading..."
       },
       {
         "title": "Managers react to Manchester City’s guilty verdict: ‘Uncertainty is not good for anyone’",
         "link": "https://www.theguardian.com/football/2026/oct/09/premier-league-managers-reaction-manchester-city-verdict",
-        "published": "2026-10-09T15:06:36Z",
-        "description": "United manager Carrick rues missing out on ‘emotion in the moment’ while Iraola’s players are focusing on next game, not the fallout Continue reading..."
+        "published": "2026-10-09T21:30:05Z",
+        "description": "United manager Carrick rues missing out on ‘emotion in the moment’ while Iraola says he understands why Liverpool fans are angry Continue reading..."
       },
       {
-        "title": "Rui Pinto to remain under witness protection after U-turn by Portuguese authorities",
-        "link": "https://www.theguardian.com/football/2026/oct/09/rui-pinto-remain-under-witness-protection-u-turn-portuguese-authorities-manchester-city-whistleblower",
-        "published": "2026-10-09T14:32:39Z",
-        "description": "CPES will now allow Pinto to challenge original decision Whistleblower to receive risk assessment reports Rui Pinto will remain under witness protection for the time being after Portuguese authorities suspended the decision to end it. The special security programmes commission (CPES) acknowledged he should have been given an opportunity to present his case before the decision was taken. The Manchester City whistleblower can now challenge the withdrawal of his protection, with the commission expected to reconsider the matter. In a statement signed by the Ministry of Justice, the CPES was said to have recognised that Pinto had not been adequately informed of the grounds for terminating the…"
+        "title": "West Ham’s penalty pain costs them top spot in Championship after QPR draw",
+        "link": "https://www.theguardian.com/football/2026/oct/09/west-ham-qpr-championship-report-penalties",
+        "published": "2026-10-09T21:19:19Z",
+        "description": "The QPR goalkeeper Pierce Charles made a stunning double save from a Jarrod Bowen penalty in stoppage time to secure a 1-1 draw at West Ham. The 21-year-old, who kept four clean sheets and saved a penalty for Northern Ireland over the international break, pulled off more heroics to deny the Hammers top spot in the Championship. Bowen had already equalised for West Ham, cancelling out a hugely controversial first-half penalty from Nicolas Madsen. But the Hammers captain saw his spot-kick saved and Charles then somehow pushed the rebound from Arne Engels on to the crossbar. Continue reading..."
+      },
+      {
+        "title": "Chelsea manager Alonso insists Cole Palmer is committed to playing for England",
+        "link": "https://www.theguardian.com/football/2026/oct/09/chelsea-xabi-alonso-cole-palmer-england-thomas-tuchel",
+        "published": "2026-10-09T21:30:38Z",
+        "description": "Palmer pulled out of England squad due to injury Attacker available for Chelsea’s game with Bournemouth Xabi Alonso has said Cole Palmer is committed to playing for England and revealed Chelsea’s No 10 missed this international break with a problem related to the groin injury that kept him out for much of last season. Thomas Tuchel did not hide his disappointment with Palmer, who is fit to face Bournemouth on Saturday, after the attacker made himself unavailable for the start of his country’s Nations League campaign last month. Tuchel said the 24-year-old “misses too many opportunities” to play for England and questioned whether Palmer wanted to be part of the squad. Continue reading..."
       },
       {
         "title": "Manchester United’s early wobble makes Tottenham visit a must-win for Carrick",
@@ -722,22 +728,16 @@
         "description": "After a scratchy start in the league, injuries and an underwhelming Rashford, Spurs’s visit to Old Trafford is already crucial for the hosts The noise in the Premier League was focused elsewhere for the last two weeks of the international break, allowing a glorious silence to drift across Manchester United. Without Manchester City’s woes , Michael Carrick may have faced a more difficult time, with plenty to review in regards to the first five games of the season. United sit solemnly in 12th with only one league win, and misery needs company. The hosts will find just that at Old Trafford on Saturday evening. Tottenham, bottom of the Premier League, visit, with both sides hoping to kickstart…"
       },
       {
+        "title": "The Premier League so far: draws, underperforming xG and other data pointers",
+        "link": "https://www.theguardian.com/football/2026/oct/09/premier-league-so-far-data-pointers-draw-xg",
+        "published": "2026-10-09T18:00:34Z",
+        "description": "Goal averages are crumbling as players take fewer touches in the box and forwards underperform against xG Goals are on the up in the Premier League. The average of 2.70 non-penalty goals per game in 2026-27 is higher than last season and two of the four previous campaigns. Yet we should have been even more royally entertained. Matches have averaged 2.88 non-penalty expected goals, the second most in the past six seasons. Chances have been going to waste. If the 20 teams converted at the par rate, there would have been almost two extra goals per week. As few as that sounds, the proportion of games drawn is higher than in any past Premier League season. Some tied matches might have been…"
+      },
+      {
         "title": "Premier League team news: predicted lineups for the weekend action",
         "link": "https://www.theguardian.com/football/2026/oct/09/premier-league-team-news-predicted-lineups-for-the-weekend-action",
         "published": "2026-10-09T16:22:09Z",
         "description": "Manchester City face Liverpool after a trying international break while struggling Tottenham go to Old Trafford Saturday 12.30pm TNT Sports 1 Venue Emirates Stadium Continue reading..."
-      },
-      {
-        "title": "Everton owner The Friedkin Group exploring sale of club after two years",
-        "link": "https://www.theguardian.com/football/2026/oct/09/everton-owner-friedkin-group-exploring-sale-club",
-        "published": "2026-10-09T07:43:02Z",
-        "description": "Owner looking at investment options including sale Transfer window raised questions over commitment Everton’s owner, The Friedkin Group, is looking to sell the club less than two years after taking over from Farhad Moshiri . The Houston-based company confirmed in a statement on Friday that it was seeking fresh investment in Everton but was also open to relinquishing control should a suitable buyer be found. No timescale has been placed on a sale but TFG is confident of attracting a buyer quickly and potentially concluding a deal this season. Continue reading..."
-      },
-      {
-        "title": "European FAs pushing for three-week international break to be abandoned",
-        "link": "https://www.theguardian.com/football/2026/oct/09/european-fas-want-three-week-international-break-abandoned-injuries",
-        "published": "2026-10-09T09:00:01Z",
-        "description": "Workload, injuries and finances underpin concerns Most European FAs want return to previous format Europe’s football associations have raised serious concerns about the impact of the extended international break and will ask Uefa to push for a reversion to the previous scheduling. The new three-week break left European countries tasked with four Nations League games, which typically took place within 11 days. It has brought deep misgivings about player workload, injuries and financial viability, with one FA president telling the Guardian it was “a disaster” and numerous others saying the schedule is unworkable. Continue reading..."
       }
     ],
     "spielverlagerung": [
@@ -842,6 +842,30 @@
     ],
     "wagnh": [
       {
+        "title": "Moisés Caicedo, João Pedro, Cole Palmer, Reece James all ‘ready to go’ against Bournemouth",
+        "link": "https://weaintgotnohistory.sbnation.com/injury-news/172901/moises-caicedo-joao-pedro-cole-palmer-reece-james-all-ready-to-go-against-bournemouth",
+        "published": "2026-10-09T21:53:18Z",
+        "description": "Xabi Alonso had some excellent news in his press conference earlier today, revealing that Moisés Caicedo, João Pedro, Cole Palmer, and Reece James are all ready to play this weekend after being able to return to training this week. This quartet of key players have all been dealing with injuries over the past few weeks, […]"
+      },
+      {
+        "title": "The Daily Hilario: Friday",
+        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/172878/the-daily-hilario-october-9th",
+        "published": "2026-10-09T07:08:10Z",
+        "description": "Season 2 Lol In the works"
+      },
+      {
+        "title": "How should Chelsea line up against AFC Bournemouth?",
+        "link": "https://weaintgotnohistory.sbnation.com/premier-league/172882/how-should-chelsea-line-up-against-afc-bournemouth",
+        "published": "2026-10-09T06:08:13Z",
+        "description": "Proper football is finally back this weekend, and Chelsea return to it by welcoming AFC Bournemouth to Stamford Bridge for a classic Saturday afternoon 3pm showdown. On paper, it’s a favorable matchup for our return from the international break: Bournemouth have yet to win a Premier League game this season, and we are unbeaten against […]"
+      },
+      {
+        "title": "The Daily Hilario: Thursday",
+        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/172862/the-daily-hilario-october-8th",
+        "published": "2026-10-08T07:01:28Z",
+        "description": "Lol Hmm Lollll"
+      },
+      {
         "title": "Sporting director Laurence Stewart set to leave Chelsea — reports",
         "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-news/172857/sporting-director-laurence-stewart-set-to-leave-chelsea-reports",
         "published": "2026-10-07T08:35:35Z",
@@ -864,30 +888,6 @@
         "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc/172833/estevao-and-jorrel-hato-among-25-finalists-for-golden-boy-award-once-again",
         "published": "2026-10-06T09:32:47Z",
         "description": "For the second successive season, Chelsea youngsters Jorrel Hato and Estêvão have made the final shortlist for the annual Golden Boy Award, which goes to the best young player (under 21) playing in one of European’s top leagues. Barcelona have dominated this award in recent seasons, winning three of four (Pedri, Gavi, and Lamine Yamal) […]"
-      },
-      {
-        "title": "The Daily Hilario: Tuesday",
-        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/172818/the-daily-hilario-october-6th",
-        "published": "2026-10-06T07:13:03Z",
-        "description": "New deal What Be safe"
-      },
-      {
-        "title": "Roméo Lavia picks up assist for Belgium against Maxence Lacroix’s France",
-        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/172821/romeo-lavia-picks-up-assist-for-belgium-against-maxence-lacroixs-france",
-        "published": "2026-10-06T05:09:59Z",
-        "description": "It’s been a banner break for young Roméo Lavia, returning to the Belgian national team setup after a more than three-year absence, during which (as we know all too well) he’d been battling injury after injury after injury. But the 22-year-old midfielder is enjoying his best run of fitness since joining Chelsea in 2023, and […]"
-      },
-      {
-        "title": "Valentín Barco picks up assist for Argentina; Jorrel Hato finally gets to play for the Netherlands",
-        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/172813/valentin-barco-picks-up-assist-for-argentina-jorrel-hato-finally-gets-to-play-for-the-netherlands",
-        "published": "2026-10-05T07:23:34Z",
-        "description": "As the seemingly never-ending extra-long international break rolls into its third week, we finally have some minutes for young Jorrel Hato, who came off the bench to feature in the Netherlands’ 2-1 victory over Serbia in UEFA Nations League last night. Hato arrived on the scene around the hour-mark, with the scores level at 1-1. […]"
-      },
-      {
-        "title": "The Daily Hilario: Monday",
-        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/172801/the-daily-hilario-october-5th",
-        "published": "2026-10-05T07:06:49Z",
-        "description": "Only Lol Oof"
       }
     ],
     "rym": [],
@@ -1349,6 +1349,12 @@
     ],
     "filmstage": [
       {
+        "title": "Between Legacy and Discovery: Rebekah Sherman-Myntti on the 2026 Downtown Festival",
+        "link": "https://thefilmstage.com/between-legacy-and-discovery-rebekah-sherman-myntti-on-the-2026-downtown-festival/",
+        "published": "2026-10-09T17:30:53Z",
+        "description": "In a city like New York, what’s another film festival? When one can crop up in any neighborhood, keeping track is neither possible nor desirable. So if I might’ve accordingly raised an eyebrow to hear of the Downtown Festival upon its appearance in 2024, allow me a moment of judging a book by its cover. […]"
+      },
+      {
         "title": "NYFF Review: In Absurdist Comedy Everything Else is Noise, Women Fight to Be Heard",
         "link": "https://thefilmstage.com/nyff-review-in-absurdist-comedy-everything-else-is-noise-women-fight-to-be-heard/",
         "published": "2026-10-09T17:26:21Z",
@@ -1389,12 +1395,6 @@
         "link": "https://thefilmstage.com/nyc-weekend-watch-hou-hsiao-hsien-henry-jaglom-claire-atherton-southland-tales-more/",
         "published": "2026-10-08T21:18:09Z",
         "description": "NYC Weekend Watch is our weekly round-up of repertory offerings. Film at Lincoln CenterNYFF Revivals closes with a restoration of Hou Hsiao-hsien’s Goodbye South, Goodbye and a 16mm print of Fred Camper’s Suicide Note. Roxy CinemaA 25th-anniversary screening of L.I.E. and restoration of Henry Jaglom’s Sitting Ducks show on Saturday and Sunday, respectively, with Q&As. […]"
-      },
-      {
-        "title": "Soul Patrol Trailer: Sundance Winner Arrives This November",
-        "link": "https://thefilmstage.com/soul-patrol-trailer-sundance-winner-arrives-this-november/",
-        "published": "2026-10-08T17:29:18Z",
-        "description": "Winner of the Directing Award for U.S. Documentary at the Sundance Film Festival, J.M. Harper’s Soul Patrol tells the story of the Vietnam War’s first Black special operations team as they reunite to dig up the past. Ahead of a November 6 release from Kino Lorber, the first trailer has now arrived. Here’s the synopsis: […]"
       }
     ],
     "cinephilia": [
@@ -1450,34 +1450,34 @@
     "nyrb": [],
     "lrb": [
       {
-        "title": "Here Are Some of the Poems Anne Carson Has Written and You Are Welcome to Them",
-        "link": "https://www.lrb.co.uk/blog/2026/october/here-are-some-of-the-poems-anne-carson-has-written-and-you-are-welcome-to-them",
-        "published": "2026-10-08T12:57:03Z",
-        "description": "Anne Carson has won the 2026 Nobel Prize in Literature. She first appeared in the London Review on the letters page in 1993. The first poems of hers..."
+        "title": "Ozempic in Iran",
+        "link": "https://www.lrb.co.uk/blog/2026/september/ozempic-in-iran",
+        "published": "2026-09-29T15:02:41Z",
+        "description": "In Iran, as elsewhere, GLP-1 agonists such as semaglutide and tirzepatide offer a chance to address obesity, improve organ functioning and treat..."
       },
       {
-        "title": "Among Schoolchildren",
-        "link": "https://www.lrb.co.uk/blog/2026/october/among-schoolchildren",
-        "published": "2026-10-08T11:47:49Z",
-        "description": "There were still several gendarmerie vans parked near Lycée Hélène Boucher in the 20th arrondissement at noon on Tuesday. In a nearby bar, some of..."
+        "title": "Public Positions",
+        "link": "https://www.lrb.co.uk/blog/2026/september/public-positions",
+        "published": "2026-09-23T14:20:38Z",
+        "description": "Given much of the coverage of the Ed Sheeran-Macklemore debacle, you could be forgiven for thinking that Sheeran had been dropped from his tour for..."
       },
       {
-        "title": "Wok Diplomacy",
-        "link": "https://www.lrb.co.uk/blog/2026/october/wok-diplomacy",
-        "published": "2026-10-06T16:20:49Z",
-        "description": "The biggest movie at the Chinese box office this August – grossing nearly three times as much as The Odyssey, released the same week – was Once..."
+        "title": "Layers of Denial",
+        "link": "https://www.lrb.co.uk/blog/2026/september/layers-of-denial",
+        "published": "2026-09-23T13:45:53Z",
+        "description": "The frenzy in Israel surrounding the documentary NAZA is fundamentally undemocratic. That is what happens after years of extreme right-wing populism,..."
       },
       {
-        "title": "Collective Harm",
-        "link": "https://www.lrb.co.uk/blog/2026/october/collective-harm",
-        "published": "2026-10-05T14:27:28Z",
-        "description": "The Israeli military claims that each individual strike in Gaza is justified but ignores their collective consequences. A reason is given for each..."
+        "title": "Johnny Marr’s Guitars",
+        "link": "https://www.lrb.co.uk/blog/2026/september/johnny-marr-s-guitars",
+        "published": "2026-09-21T17:40:32Z",
+        "description": "The Smiths kicked off the Scottish leg of their Meat is Murder tour at the Magnum Leisure Centre in Irvine New Town on 22 September 1985, and I was at..."
       },
       {
-        "title": "Election Time?",
-        "link": "https://www.lrb.co.uk/blog/2026/october/election-time",
-        "published": "2026-10-02T22:04:43Z",
-        "description": "If the radical agenda is real, it points to an early general election. Burnham said that the National Care Service will be introduced ‘in the next..."
+        "title": "In Bishkek",
+        "link": "https://www.lrb.co.uk/blog/2026/september/in-bishkek",
+        "published": "2026-09-18T15:50:28Z",
+        "description": "Kok-boru is a horseback sport related to polo, played with a headless goat carcass rather than a ball and mallets. The equestrian scrums are violent..."
       }
     ],
     "larb": [],
@@ -1667,6 +1667,18 @@
     ],
     "nautilus": [
       {
+        "title": "Did These Microbes Eat A Lot of the Fossil Record?",
+        "link": "https://nautil.us/did-these-microbes-eat-a-lot-of-the-fossil-record-1285704/",
+        "published": "2026-10-09T20:00:00Z",
+        "description": "Polymers are stubborn things"
+      },
+      {
+        "title": "See the Artemis II Crew’s Handwritten Notes Documenting the Lunar Surface",
+        "link": "https://nautil.us/see-the-artemis-ii-crews-handwritten-notes-documenting-the-lunar-surface-1285671/",
+        "published": "2026-10-09T18:00:00Z",
+        "description": "People like to say we have more computing power in our pockets than NASA used to get to the moon, but even that understates things. The Apollo guidance computer had a measly four kilobytes of RAM, while the iPhone 17 Pro Max has 12 gigabytes—an increase of roughly three million-fold. Of course the Artemis II astronauts who visited the moon earlier this year had state-of-the-art technology, not just housed in the vehicle, but in their pockets as well. Each one was given an iPhone 17 Pro Max (with no internet connectivity) to document the lunar surface. Read more: “ The Best Photos of the Artemis II Mission ” And they got a second set of screens as well. NASA issued the team Microsoft…"
+      },
+      {
         "title": "Mosasaurs Were Capable of Explosive Speed",
         "link": "https://nautil.us/mosasaurs-were-capable-of-explosive-speed-1285667/",
         "published": "2026-10-09T16:00:00Z",
@@ -1701,18 +1713,6 @@
         "link": "https://nautil.us/a-recipe-for-stopping-ai-from-going-rogue-1285647/",
         "published": "2026-10-08T19:00:00Z",
         "description": "This formula aims to prevent LLMs from doing things that endanger humans"
-      },
-      {
-        "title": "In 1960, Mathematicians Predicted that Earth’s Population Would Reach Infinity on a Friday Next Month",
-        "link": "https://nautil.us/in-1960-mathematicians-predicted-that-earths-population-would-reach-infinity-on-a-friday-next-month-1285640/",
-        "published": "2026-10-08T18:00:00Z",
-        "description": "It will not"
-      },
-      {
-        "title": "A Distant Star is Slowly Snacking on a Brown Dwarf",
-        "link": "https://nautil.us/a-distant-star-is-slowly-snacking-on-a-brown-dwarf-1285643/",
-        "published": "2026-10-08T16:00:00Z",
-        "description": "This absorption could take billions of years"
       }
     ],
     "worksinprogress": [],
