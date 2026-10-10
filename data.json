@@ -387,34 +387,40 @@
     "reuters": [],
     "bbc": [
       {
+        "title": "Man dies after tiger attack at wildlife park",
+        "link": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-10T19:09:59Z",
+        "description": "It was reported the man entered the tiger enclosure at the attraction near Doncaster, police say."
+      },
+      {
+        "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+        "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-10T19:28:28Z",
+        "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war."
+      },
+      {
         "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
         "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-10T16:30:21Z",
+        "published": "2026-10-10T17:44:26Z",
         "description": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month."
       },
       {
-        "title": "Man attacked by tiger at Yorkshire Wildlife Park",
-        "link": "https://www.bbc.co.uk/news/articles/c6jrw8g1123vo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-10T16:32:25Z",
-        "description": "The attraction near Doncaster says emergency response procedures were \"immediately activated\"."
+        "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+        "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-10T19:08:17Z",
+        "description": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone."
       },
       {
-        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-        "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-10T14:24:14Z",
-        "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\"."
+        "title": "Sara Sharif's grandfather granted guardianship of her siblings in Pakistan",
+        "link": "https://www.bbc.co.uk/news/articles/cqdjvdpxmvn3o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-10T14:27:43Z",
+        "description": "All five children have been living with him in Pakistan since 2023, when 10-year-old Sara was murdered."
       },
       {
-        "title": "Head of Met's volunteer force fired after AI tool found deleted intimate images on work phone",
-        "link": "https://www.bbc.co.uk/news/articles/cjx23yxwe73qo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-10T09:19:53Z",
-        "description": "Special chief officer James Deller copied intimate images on to his work phone, AI monitoring finds."
-      },
-      {
-        "title": "Watch: 'Cockroach' group leaders among hundreds detained in Delhi protest",
-        "link": "https://www.bbc.co.uk/news/videos/cqwy7p2y20gxo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-10T14:13:13Z",
-        "description": "Thousands of security personnel were deployed in Delhi ahead of the Gen-Z led Cockroach Janta Party protest on Saturday calling for electoral reforms."
+        "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+        "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-10T18:22:29Z",
+        "description": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance."
       },
       {
         "title": "King warns malicious online actors are evolving tactics",
@@ -427,76 +433,70 @@
         "link": "https://www.bbc.co.uk/news/articles/cx30en32gd39o?at_medium=RSS&at_campaign=rss",
         "published": "2026-10-09T23:01:22Z",
         "description": "The US singer-songwriter reveals the story behind her international smash hit, Stop The Wedding."
-      },
-      {
-        "title": "I couldn't access my family's medical history - not knowing was terrifying",
-        "link": "https://www.bbc.co.uk/news/articles/cq1mvdmd1y7vo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-10T05:00:22Z",
-        "description": "People who have been adopted or are in care sometimes struggle to access family medical history which could be crucial to their own health."
       }
     ],
     "aljazeera": [
       {
-        "title": "Hurricane Isaias leaves two dead and 800,000 without power in US Southeast",
-        "link": "https://www.aljazeera.com/news/2026/10/10/hurricane-isaias-leaves-two-dead-and-800000-without-power-in-us-southeast?traffic_source=rss",
-        "published": "2026-10-10T15:45:36Z",
-        "description": "Storm damage stretches across Florida and Alabama as officials warn of continued flooding and possible tornadoes."
+        "title": "Philippines volcano erupts, creating 6km-high ash cloud",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/philippines-volcano-erupts-creating-6km-high-ash-cloud?traffic_source=rss",
+        "published": "2026-10-10T20:37:17Z",
+        "description": "Mount Kanlaon volcano in central Philippines erupted on Saturday sending thick plumes of smoke and ash."
       },
       {
-        "title": "Trump Accounts: Free money, but who gets a say?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-accounts-free-money-but-who-gets-a-say?traffic_source=rss",
-        "published": "2026-10-10T15:21:39Z",
-        "description": "Trump Accounts promise children a financial head start. Al Jazeera’s Emma Withrow spoke with one parent."
+        "title": "Rubio pledges US cooperation in Marine-linked murder case",
+        "link": "https://www.aljazeera.com/news/2026/10/10/rubio-pledges-us-cooperation-in-marine-linked-murder-case?traffic_source=rss",
+        "published": "2026-10-10T20:30:36Z",
+        "description": "A US Marine stationed on Okinawa has been arrested on suspicion of killing a 39-year-old woman."
       },
       {
-        "title": "With or without Hamas",
-        "link": "https://www.aljazeera.com/opinions/2026/10/10/with-or-without-hamas?traffic_source=rss",
-        "published": "2026-10-10T15:19:41Z",
-        "description": "Hamas’s fate will not profoundly shape Gaza’s future."
+        "title": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss",
+        "published": "2026-10-10T20:14:01Z",
+        "description": "An Israeli strike destroyed a residential building in the Al-Rimal neighbourhood in Gaza City."
       },
       {
-        "title": "Three injured in third school attack in Poland in less than a week",
-        "link": "https://www.aljazeera.com/news/2026/10/10/three-injured-in-third-school-attack-in-poland-in-less-than-a-week?traffic_source=rss",
-        "published": "2026-10-10T15:13:55Z",
-        "description": "The attack comes after police announced the detention of 76 people across Poland in connection with previous incidents."
+        "title": "Why is the Trump administration trying to dismantle the ICC?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss",
+        "published": "2026-10-10T19:59:18Z",
+        "description": "The US has imposed sweeping new sanctions on the International Criminal Court."
       },
       {
-        "title": "Liverpool vs Man City: Premier League – teams, prediction, Haaland, charges",
-        "link": "https://www.aljazeera.com/sports/2026/10/10/liverpool-man-city-premier-league-isak-haaland-predictions-financial-breach?traffic_source=rss",
-        "published": "2026-10-10T15:11:22Z",
-        "description": "Man City travel to Liverpool for their first game since being found guilty of serious EPL financial breaches."
+        "title": "Lionel Messi returns from Argentina farewell as Inter Miami face DC United",
+        "link": "https://www.aljazeera.com/sports/2026/10/10/messi-returns-from-argentina-farewell-as-inter-miami-face-dc-united?traffic_source=rss",
+        "published": "2026-10-10T19:59:08Z",
+        "description": "Fresh off final game with Argentina, Messi leads Miami against DC United in Major League Soccer in the United States."
       },
       {
-        "title": "Arsenal beat Leeds 2-1 in comeback win to move level with Man City at top",
-        "link": "https://www.aljazeera.com/sports/2026/10/10/arsenal-beat-leeds-2-1-in-comeback-win-to-move-level-with-man-city-at-top?traffic_source=rss",
-        "published": "2026-10-10T14:42:39Z",
-        "description": "Arsenal come from behind to beat Leeds United moving them joint top of the Premier League with Manchester City."
+        "title": "Azerbaijan school pupils protest over reported hijab restrictions",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/azerbaijan-school-pupils-protest-over-reported-hijab-restrictions?traffic_source=rss",
+        "published": "2026-10-10T19:49:33Z",
+        "description": "Pupils have been protesting after the implementation of a new dress code restricting the hijab in Azerbaijan’s schools."
       },
       {
-        "title": "Jerusalem Daily: Israeli settlers attack olive farmers",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/jerusalem-daily-israeli-settlers-attack-olive-farmers?traffic_source=rss",
-        "published": "2026-10-10T14:39:53Z",
-        "description": "Israeli settlers steal olives and attack Palestinian farmers during this year’s harvest."
+        "title": "Manchester United held by ten-man Tottenham as woes for both continue",
+        "link": "https://www.aljazeera.com/sports/2026/10/10/manchester-united-held-by-ten-man-tottenham-as-woes-for-both-continue?traffic_source=rss",
+        "published": "2026-10-10T19:47:10Z",
+        "description": "Ten-man Tottenham fight back from a goal behind to draw 1-1 at Manchester United in the Premier League."
       },
       {
-        "title": "Mexican judge sentences three men for murders of Australian, US surfers",
-        "link": "https://www.aljazeera.com/news/2026/10/10/mexican-judge-sentences-three-men-for-murders-of-australian-us-surfers?traffic_source=rss",
-        "published": "2026-10-10T14:37:26Z",
-        "description": "The trial in Baja California had revealed chilling details of the triple homicide of the surfers."
+        "title": "Trump says Ukraine needs a new president who will agree to end the war",
+        "link": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss",
+        "published": "2026-10-10T19:32:37Z",
+        "description": "US leader suggests Zelenskyy has not done enough to end the war amid tensions with Kyiv over a diesel deal with Russia."
       }
     ],
     "ft": [
       {
-        "title": "US warns Kyiv that strikes on Russia jeopardise intelligence-sharing",
-        "link": "https://www.ft.com/content/7fd4dffc-8adf-4ad8-9fba-333e1ced991d?syn-25a6b1a6=1",
-        "published": "2026-10-10T13:32:58Z",
-        "description": "Donald Trump’s administration delivered threat after Volodymyr Zelenskyy criticised diesel deal with Moscow"
+        "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
+        "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
+        "published": "2026-10-10T18:14:28Z",
+        "description": "Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek"
       },
       {
-        "title": "Russia targets Ukraine’s bridges as Vladimir Putin expands air war",
-        "link": "https://www.ft.com/content/4e4ea744-6603-499b-baf7-83c74e4dc53e?syn-25a6b1a6=1",
-        "published": "2026-10-10T04:00:38Z",
-        "description": "Moscow’s drones have hit two bridges in Kyiv and one in Zaporizhzhia over the past week"
+        "title": "AI borrowing slows as investors grow wary of debt binge",
+        "link": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9?syn-25a6b1a6=1",
+        "published": "2026-10-10T11:00:07Z",
+        "description": "Appetite for financing infrastructure boom is tested after months of record-breaking bond issuance"
       },
       {
         "title": "Napa Valley’s hangover",
@@ -517,22 +517,22 @@
         "description": "Richard Nixon has become the unlikely darling of Trump’s Washington"
       },
       {
+        "title": "US warns Kyiv that strikes on Russia jeopardise intelligence-sharing",
+        "link": "https://www.ft.com/content/7fd4dffc-8adf-4ad8-9fba-333e1ced991d?syn-25a6b1a6=1",
+        "published": "2026-10-10T17:42:28Z",
+        "description": "Trump suggests Volodymyr Zelenskyy should be replaced after Ukraine’s leader criticised diesel deal with Moscow"
+      },
+      {
+        "title": "Russia targets Ukraine’s bridges as Vladimir Putin expands air war",
+        "link": "https://www.ft.com/content/4e4ea744-6603-499b-baf7-83c74e4dc53e?syn-25a6b1a6=1",
+        "published": "2026-10-10T04:00:38Z",
+        "description": "Moscow’s drones have hit two bridges in Kyiv and one in Zaporizhzhia over the past week"
+      },
+      {
         "title": "Police arrest leader of India’s ‘Cockroach’ movement as protesters take to streets",
         "link": "https://www.ft.com/content/407fa757-cc77-49c0-871a-5140dd3a9a80?syn-25a6b1a6=1",
-        "published": "2026-10-10T16:07:40Z",
-        "description": "Abhijeet Dipke was escorted off a flight as authorities crack down on demonstrations in New Delhi"
-      },
-      {
-        "title": "India’s central bank tries to shore up rupee as it nears record lows",
-        "link": "https://www.ft.com/content/b373cf00-9a94-4dc7-bdda-bc7006da1148?syn-25a6b1a6=1",
-        "published": "2026-10-10T11:57:36Z",
-        "description": "Rise in energy costs due to US-Israel war on Iran has put downward pressure on the currency of the world’s fastest-growing major economy"
-      },
-      {
-        "title": "AI borrowing slows as investors grow wary of debt binge",
-        "link": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9?syn-25a6b1a6=1",
-        "published": "2026-10-10T11:00:07Z",
-        "description": "Appetite for financing infrastructure boom is tested after months of record-breaking bond issuance"
+        "published": "2026-10-10T18:37:00Z",
+        "description": "Abhijeet Dipke was escorted off a flight in New Delhi as authorities crack down on demonstrations"
       }
     ],
     "restofworld": [
@@ -641,6 +641,12 @@
     "chelsea": [],
     "chelsea_bbc": [
       {
+        "title": "'Take a bow!' Chelsea fan heaps praise on 'sublime' Henderson",
+        "link": "https://www.bbc.co.uk/sport/football/videos/c6ly3k31853po?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-10T20:22:18Z",
+        "description": "Chelsea fan Savage Dan gives praise for Jordan Henderson."
+      },
+      {
         "title": "Palmer signs new Chelsea contract until 2034",
         "link": "https://www.bbc.co.uk/sport/football/articles/cwe9lngxzjpno?at_medium=RSS&at_campaign=rss",
         "published": "2026-10-10T09:51:09Z",
@@ -681,27 +687,33 @@
         "link": "https://www.bbc.co.uk/sport/football/articles/crp3ke05z5jqo?at_medium=RSS&at_campaign=rss",
         "published": "2026-09-30T13:23:34Z",
         "description": "Bournemouth are not willing to entertain offers for midfielder Alex Scott during the January transfer window."
-      },
-      {
-        "title": "England's Palmer a 'victim' of 'sick' schedule, says PFA chief",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c68048pynj94o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-29T15:37:43Z",
-        "description": "Cole Palmer is the \"victim\" of a \"sick\" system that is expecting too much of players, according to Professional Footballers' Association chief executive Maheta Molango."
       }
     ],
     "chelsea_sky": [],
     "guardianfootball": [
       {
-        "title": "Manchester United v Tottenham: Premier League – live",
-        "link": "https://www.theguardian.com/football/live/2026/oct/10/manchester-united-v-tottenham-premier-league-live",
-        "published": "2026-10-10T16:34:44Z",
-        "description": "⚽ Updates from the 5.30pm BST kick-off at Old Trafford ⚽ Scores | Table | Mail Scott Spurs get the ball rolling. They’re kicking towards the Stretford End in this first half. The teams are out. Manchester United in their famous red, white and black, Tottenham in second-choice dark blue with diagonal multi-coloured neon nonsense. Meanwhile here’s the first line of a song ringing out loud from all four corners of Old Trafford: “You know what you are.” No prizes for guessing the rest of the lyrics, or which club they’re serenading. Don’t look back in anger? Good luck with that! We’ll be off in a minute. Continue reading..."
+        "title": "Solanke strikes late as 10-man Spurs salvage point at Manchester United",
+        "link": "https://www.theguardian.com/football/2026/oct/10/manchester-united-tottenham-premier-league-match-report",
+        "published": "2026-10-10T18:50:45Z",
+        "description": "Manchester United are on six points – their poorest start since 1986 – and Tottenham have three less and remain stuck in the relegation zone: testing times for Michael Carrick and Roberto De Zerbi, who must somehow revive their teams following a contest that was lit up by a moment of quality in the 73rd minute. Matheus Cunha was fed by Luke Shaw down the left and the Brazilian crossed to Bryan Mbeumo, who spun and finished for United . It drew delirious chants of “You’re going down with the City”: Spurs, at this stage, were rock-bottom, and Manchester City’s long-term future in the division is in the balance. Continue reading..."
       },
       {
         "title": "Henderson and João Pedro lead Chelsea charge against Bournemouth",
         "link": "https://www.theguardian.com/football/2026/oct/10/chelsea-bournemouth-premier-league-match-report",
         "published": "2026-10-10T16:18:07Z",
-        "description": "Watch and learn, kids. The day began with one for the youth audience, Cole Palmer appearing on a live stream to explain the thinking behind his latest contract extension, and it ended with the oldest player to join Chelsea during the BlueCo era stealing the show with an all-action midfield display in a 5-1 win over Bournemouth. The Age of Henderson is under way. There was a time when the idea of a 36-year-old starting in midfield for the Chelsea constructed by Clearlake Capital was impossible to imagine, but not any more. The vibe changed when Xabi Alonso joined as manager last summer, leading to a shift in transfer strategy, and the benefit of placing more faith in experience was on show…"
+        "description": "Watch and learn, kids. The day began with one for the youth audience, Cole Palmer appearing on a live stream to explain the thinking behind his latest contract extension. It finished with the oldest player to join Chelsea during the BlueCo era stealing the show with an all-action midfield display. Even Palmer was happy to step aside as Jordan Henderson used his right foot to curl home a free-kick that drew comparisons with one of David Beckham’s specials. It was Henderson’s second spectacular strike – he marked his home debut by opening the scoring with a bending effort from 20 yards and also laid on an assist for Morgan Rogers to make it 2-0 – although it is fair to assume that Xabi…"
+      },
+      {
+        "title": "Ten-man Brighton continue fine form with battling win at Sunderland",
+        "link": "https://www.theguardian.com/football/2026/oct/10/sunderland-brighton-premier-league-match-report",
+        "published": "2026-10-10T16:20:30Z",
+        "description": "When Jaouen Hadjam lashed Brighton’s second goal low beyond Robin Roefs, it sparked a mass exodus. With a smattering of boos, the Stadium of Light emptied at a speed of knots and frown lines creased the forehead of Sunderland’s manager, Régis Le Bris. Undaunted by Pascal Struijk’s second-half red card, Brighton had not merely cemented their hold on third place but boosted an already healthy points tally to 13. Continue reading..."
+      },
+      {
+        "title": "Aston Villa’s wait for home win goes on after Ajer hits back for Brentford",
+        "link": "https://www.theguardian.com/football/2026/oct/10/aston-villa-brentford-premier-league-match-report",
+        "published": "2026-10-10T16:09:59Z",
+        "description": "Kristoffer Ajer spent a chunk of the extended international window fielding questions about the state of mind of his Norway teammate Erling Haaland and perhaps in recent weeks he also picked up some finishing tips. Two minutes after John McGinn’s shot cannoned in via Ajer’s calf, the centre-back strode into the Villa box and kept three defenders at arm’s length before equalising, his side-foot shot also catching a nick off a defender, on this occasion Victor Lindelöf. For the second time in the game, one team cancelled out the other within two minutes; just 88 seconds separated Yehor Yarmolyuk’s opener, born from Jaidon Anthony pressing Tyrone Mings, from Nicolas Jackson’s simple…"
       },
       {
         "title": "Bruno Guimarães completes Arsenal comeback to end Leeds’ unbeaten run",
@@ -710,34 +722,22 @@
         "description": "Arsenal built the foundations of their new success on a desire for competition, an appetite for battle. But what happens when that spirit is insufficient, when your opponents play just as hard as you do? Well, then you bring on Bruno Guimarães and you play even harder. Arsenal had just snatched an equaliser against a dominant Leeds side when Mikel Arteta introduced his key summer signing . The former Newcastle captain has been having to bide his time but when he entered the field just after the hour, he turned the game on its head. Continue reading..."
       },
       {
-        "title": "Ten-man Brighton continue fine form with battling win at Sunderland",
-        "link": "https://www.theguardian.com/football/2026/oct/10/sunderland-brighton-premier-league-match-report",
-        "published": "2026-10-10T16:20:30Z",
-        "description": "When Jaouen Hadjam lashed Brighton’s second goal beyond the reach of Robin Roefs, it sparked a mass exodus. As the Stadium of Light emptied amid a smattering of boos, and frown lines creased the forehead of the Sunderland manager, Régis Le Bris, the Brighton players and their manager, Fabian Hürzeler, prepared to celebrate. Continue reading..."
+        "title": "European football: Gordon boosts Barcelona and Bayern battle back",
+        "link": "https://www.theguardian.com/football/2026/oct/10/european-football-bayern-concede-fastest-goal-bundeliga-history",
+        "published": "2026-10-10T19:05:20Z",
+        "description": "Gordon scores first goal for club as Getafe are beaten 3-0 Bayern draw despite conceding fastest Bundesliga goal Anthony Gordon scored his first goal for Barcelona as the Spanish champions extended their perfect start in La Liga with a 3-0 home win over Getafe . The England international opened the scoring in the second minute and Gabriel Jesus added another after half an hour for the league leaders, who have won every match they have played this season. Jules Koundé tucked home the third from Lamine Yamal’s cross to cap Barça’s solid win at the Camp Nou. Barça moved five points clear of second-placed Atlético Madrid, who won 2-1 at Alavés earlier, and lead Real Madrid, fourth, by nine…"
       },
       {
-        "title": "Aston Villa’s wait for home win goes on after Ajer hits back for Brentford",
-        "link": "https://www.theguardian.com/football/2026/oct/10/aston-villa-brentford-premier-league-match-report",
-        "published": "2026-10-10T16:09:59Z",
-        "description": "Kristoffer Ajer spent a chunk of the extended international window fielding questions about the state of mind of his Norway teammate Erling Haaland and perhaps in recent weeks he also picked up some finishing tips. Two minutes after John McGinn’s shot cannoned in via Ajer’s calf, the centre-back strode forward in the Villa box and kept three defenders at arm’s length before scoring the equaliser, his shot also catching a nick off a defender, this time Victor Lindelöf. For the second time in the game, one team cancelled out the other within two minutes, just 88 seconds between Yehor Yarmolyuk’s opener, born from Jaidon Anthony pressing Tyrone Mings, and Nicolas Jackson’s simple equaliser.…"
+        "title": "Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson",
+        "link": "https://www.theguardian.com/football/2026/oct/10/why-premier-league-in-clutches-of-global-mega-rich",
+        "published": "2026-10-10T19:00:05Z",
+        "description": "There’s little prospect of the model changing in a country that welcomes wealthy international owners with open arms Football, the world’s most popular sport, played by laws drawn up in London in 1863. The Premier League is the UK’s greatest soft power export. Premier League clubs are owned by a deputy prime minister of Abu Dhabi, the public investment fund of Saudi Arabia, a billionaire based in Monaco for tax reasons and a disappointing assortment of investors and private equity funds. And what, really, could be more British than that? Football truly is the national game. What the Manchester City case has exposed is just how difficult it is to regulate some of the richest and most…"
       },
       {
-        "title": "Ipswich’s O’Shea and and Outtara stun Fulham with last-gasp comeback win",
+        "title": "Ipswich stun Fulham with last-gasp comeback to increase heat on Arbeloa",
         "link": "https://www.theguardian.com/football/2026/oct/10/ipswich-fulham-premier-league-match-report",
-        "published": "2026-10-10T16:07:05Z",
-        "description": "Ipswich produced a dramatic turnaround to beat Fulham 2-1 after late goals by Abdoul Ouattara and Dara O’Shea extended Álvaro Arbeloa’s winless start to six Premier League matches. The former Real Madrid manager had been on course to toast a maiden league victory in charge of the Cottagers after Ryan Sessegnon’s sweet 55th-minute strike put the visitors ahead. It would have eased the pressure on Arbeloa, but the Spaniard watched his team collapse, with Ouattara producing a spectacular 30-yard equaliser with two minutes left before O’Shea, the Ipswich captain, headed home in stoppage time to spark wild celebrations at Portman Road. Continue reading..."
-      },
-      {
-        "title": "Portugal suspend Cristiano Ronaldo after walking out on national team",
-        "link": "https://www.theguardian.com/football/2026/oct/10/portugal-suspend-cristiano-ronaldo",
-        "published": "2026-10-10T13:30:04Z",
-        "description": "Federation opens disciplinary proceedings Veteran has been critical of coach Jorge Jesus Cristiano Ronaldo has been provisionally suspended as the Portuguese football federation opened disciplinary proceedings against the 41-year-old after his decision to walk out on the national team . Ronaldo apologised to supporters on Tuesday while criticising the Portugal coach, Jorge Jesus , and said he would serve any “suspension that is imposed” on him. Continue reading..."
-      },
-      {
-        "title": "Championship roundup: Swansea top after beating Norwich; Burnley put four past Watford",
-        "link": "https://www.theguardian.com/football/2026/oct/10/championship-roundup-swansea-norwich-birmingham-west-brom-middlesbrough-wolves",
-        "published": "2026-10-10T16:32:25Z",
-        "description": "Middlesbrough go second with win over Wolves Burnley off bottom; Birmingham beat West Brom Vítor Matos praised his Swansea side for overcoming limited preparations to strengthen their position at the top of the Championship with a 2-1 comeback win over Norwich . Second-half goals from Moussa Yeo in the 49th minute and the Republic of Ireland striker Adam Idah in the 59th wiped out Jacob Wright’s strike just before the half-hour mark. It was the third time Swansea had come from behind this season to win, and, after West Ham’s draw the previous night , it enabled them to secure top spot in the table. Idah, though, limped out of the action and could be a doubt for Tuesday’s visit to Millwall.…"
+        "published": "2026-10-10T18:29:27Z",
+        "description": "Álvaro Arbeloa bristled at suggestions he cannot handle the pressure after Fulham’s at Ipswich extended their winless start in the Premier League to six matches. The former Real Madrid manager was minutes away from a first managerial victory in the competition after Ryan Sessegnon’s brilliant 55th-minute strike, but the visitors collapsed late on in abject fashion. Abdoul Ouattara produced a thunderbolt from 30 yards to level for Ipswich after 88 minutes and Dara O’Shea headed home Jack Clarke’s free-kick in the second minute of stoppage time to consign the visitors to a painful loss. Tottenham securing a point at Manchester United pushed Fulham to the bottom of the table. Continue…"
       }
     ],
     "spielverlagerung": [
