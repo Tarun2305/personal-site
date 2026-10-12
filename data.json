@@ -387,10 +387,16 @@
     "reuters": [],
     "bbc": [
       {
-        "title": "Saudi capital airport hit by second Houthi strike in two days",
+        "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+        "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-11T21:36:40Z",
+        "description": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement."
+      },
+      {
+        "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
         "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-11T16:41:37Z",
-        "description": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities."
+        "published": "2026-10-11T22:45:58Z",
+        "description": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend."
       },
       {
         "title": "PM says it is 'clear' Russia interfered with Brexit vote",
@@ -423,66 +429,60 @@
         "description": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer."
       },
       {
-        "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-        "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-11T15:32:23Z",
-        "description": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night."
-      },
-      {
-        "title": "Burnham to release details of Man City meetings",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c962y5nd273no?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-11T18:01:13Z",
-        "description": "Andy Burnham has faced criticism for comments he made in the wake of Manchester City being found guilty of all charges related to breaches of the Premier League's financial rules."
+        "title": "Iran war threatens Healey's Budget plans, think tank warns",
+        "link": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-11T23:04:07Z",
+        "description": "The impact of the Iran war poses significant risks for the government’s spending plans, the Institute for Fiscal Studies says."
       }
     ],
     "aljazeera": [
       {
-        "title": "UK Greens leader seeks rule change after party declares Zionism is racism",
-        "link": "https://www.aljazeera.com/news/2026/10/11/uk-greens-leader-seeks-rule-change-after-party-declares-zionism-is-racism?traffic_source=rss",
-        "published": "2026-10-11T20:57:48Z",
-        "description": "Zack Polanski calls for internal rule reforms to give party leaders greater control over policy after Zionism vote."
+        "title": "North Korea fires multiple ballistic missiles towards the sea",
+        "link": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
+        "published": "2026-10-12T03:37:12Z",
+        "description": "Latest missile launch appears to be a show of force since South Korea's hypersonic missile test-fire, Seoul says."
       },
       {
-        "title": "Two killed near Israeli-occupied area in south Lebanon",
-        "link": "https://www.aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon?traffic_source=rss",
-        "published": "2026-10-11T20:46:45Z",
-        "description": "Despite ceasefire reached between Israel and Lebanon in June, Israeli attacks continue."
+        "title": "At least 139 dead as migrant boat from Djibouti to Yemen capsizes",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/at-least-139-dead-as-migrant-boat-from-djibouti-to-yemen-capsizes?traffic_source=rss",
+        "published": "2026-10-12T03:09:11Z",
+        "description": "At least 139 migrants, including 15 children, have died and 84 remain missing after a migrant boat capsized."
       },
       {
-        "title": "Deadly air strike kills dozens at Sudan gold mine near Egypt border",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss",
-        "published": "2026-10-11T20:44:17Z",
-        "description": "An air strike hit a gold mine near Sudan’s border with Egypt, killing at least 72 people and injuring more than 50."
+        "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
+        "link": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
+        "published": "2026-10-12T02:11:21Z",
+        "description": "Sunday's strike on King Khalid International airport kills a Pakistani national."
       },
       {
-        "title": "How Man City beat Liverpool after guilty verdict",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/how-man-city-beat-liverpool-after-guilty-verdict?traffic_source=rss",
-        "published": "2026-10-11T20:41:09Z",
-        "description": "Al Jazeera’s Rahul Pathak was at Anfield, where fans reminded City of their guilty verdict after the match."
+        "title": "Bridge washed away by torrent of water in Nepal",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-clip-nepal-bridgewashesaway-np?traffic_source=rss",
+        "published": "2026-10-12T01:24:26Z",
+        "description": "Flash floods along Nepal’s Budhi Gandaki River swept away homes and bridges, forcing residents to flee to higher ground."
       },
       {
-        "title": "Zelenskyy welcomes US-announced energy ceasefire",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
-        "published": "2026-10-11T20:28:46Z",
-        "description": "President Zelenskyy has responded to Donald Trump’s announcement that Russia and Ukraine agreed to an energy ceasefire"
+        "title": "UK PM Andy Burnham says it is ‘clear’ Russia interfered in 2016 Brexit vote",
+        "link": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-says-it-is-clear-russia-interfered-in-2016-brexit-vote?traffic_source=rss",
+        "published": "2026-10-12T01:12:35Z",
+        "description": "Claim marks the first time a UK prime minister has publicly acknowledged Russia's interference in the vote to leave EU."
       },
       {
-        "title": "Syrian families demand release of detainees held by Israel",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/syrian-families-demand-release-of-detainees-held-by-israel?traffic_source=rss",
-        "published": "2026-10-11T20:24:19Z",
-        "description": "Syrian families demand release of detainees held by Israel"
+        "title": "Iran’s FM urges diplomacy in call with Saudi counterpart",
+        "link": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss",
+        "published": "2026-10-12T00:39:08Z",
+        "description": "Tehran offers to facilitate talks between Saudi Arabia and Yemen's Houthis following deadly strikes on the kingdom."
       },
       {
-        "title": "Pakistan suspends Imran Khan’s party-led provincial government",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistan-suspends-imran-khans-party-led-provincial-government?traffic_source=rss",
-        "published": "2026-10-11T20:21:13Z",
-        "description": "Pakistan has suspended Khyber Pakhtunkhwa's PTI-led government after declaring a state of emergency in the province."
+        "title": "Hurricane Isaias leaves trail of destruction across the US Gulf Coast",
+        "link": "https://www.aljazeera.com/gallery/2026/10/12/hurricane-isaias-leaves-trail-of-destruction-across-the-us-gulf-coast?traffic_source=rss",
+        "published": "2026-10-12T00:21:46Z",
+        "description": "Crews rally for massive cleanup effort in Florida and Alabama as Isaias leaves hundreds of thousands in the dark."
       },
       {
-        "title": "Saudi health minister visits survivors of deadly Riyadh airport attack",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss",
-        "published": "2026-10-11T19:59:15Z",
-        "description": "Saudi Arabia’s health minister Fahad Aljalajel has paid a visit to survivors of Saturday’s deadly attack."
+        "title": "Ceuta or Sebta? Why one city has two names and a disputed status",
+        "link": "https://www.aljazeera.com/news/2026/10/12/ceuta-or-sebta-why-one-city-has-two-names-and-a-disputed-status?traffic_source=rss",
+        "published": "2026-10-12T00:14:46Z",
+        "description": "Felipe VI’s first visit to Ceuta and Melilla as king brings Spain’s territorial dispute with Morocco back into focus."
       }
     ],
     "ft": [
@@ -493,16 +493,16 @@
         "description": "Officials lobby European capitals and Kyiv following Trump’s diesel deal with Putin"
       },
       {
+        "title": "Trump faces Republican opposition to his diesel deal with Russia’s Putin",
+        "link": "https://www.ft.com/content/debf0be6-d5aa-4ba7-bb66-7daf770d99ff?syn-25a6b1a6=1",
+        "published": "2026-10-11T21:17:58Z",
+        "description": "Lawmakers from both parties say the agreement would finance Putin’s war machine in Ukraine and violate US law"
+      },
+      {
         "title": "Can Russia meet Trump’s diesel demands?",
         "link": "https://www.ft.com/content/445b2856-a276-4d4c-bdea-44799d771c21?syn-25a6b1a6=1",
         "published": "2026-10-11T17:13:56Z",
         "description": "Ukrainian strikes have triggered the worst petrol shortages since the collapse of the Soviet Union but diesel is not in short supply"
-      },
-      {
-        "title": "Russia ‘interfered’ in 2016 Brexit vote, says Burnham",
-        "link": "https://www.ft.com/content/4fcbf57e-c73e-4ced-be4a-5ecc6f4874de?syn-25a6b1a6=1",
-        "published": "2026-10-11T18:01:02Z",
-        "description": "UK prime minister calls for European voters to be better informed about Kremlin-backed efforts to disrupt democratic process"
       },
       {
         "title": "Houthis show military reach with deadly missile strikes on Riyadh",
@@ -529,10 +529,10 @@
         "description": "BP and others skip World Petroleum Council meeting after 12 killed in Houthi attack"
       },
       {
-        "title": "US hits commercial tanker in Gulf of Oman as tensions flare",
-        "link": "https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1",
-        "published": "2026-10-11T19:53:56Z",
-        "description": "Ship tried to break through American naval blockade of Iranian ports, Central Command says of its first attack in a month"
+        "title": "India’s ‘Cockroach’ movement plans more protests after release of leaders",
+        "link": "https://www.ft.com/content/9b30ee59-b542-48b8-85f6-d60dce897342?syn-25a6b1a6=1",
+        "published": "2026-10-11T13:07:40Z",
+        "description": "Abhijeet Dipke of the youth-led Cockroach Janta Party was freed by a court order as police tightened security in New Delhi"
       }
     ],
     "restofworld": [
@@ -730,14 +730,14 @@
       {
         "title": "European football: Freiburg move top of Bundesliga while Isco keeps Betis flying high",
         "link": "https://www.theguardian.com/football/2026/oct/11/european-football-lazio-maintain-strong-start-with-win-over-monza",
-        "published": "2026-10-11T19:44:42Z",
-        "description": "Goto seals late 2-1 win over Schalke for 10-man Freiburg Lazio join Inter at top of Serie A as Roma held at Como Ten-man Freiburg scored an 85th-minute winner ⁠through Keisuke Goto to snatch a 2-1 victory over ⁠visitors Schalke 04 ⁠on ​Sunday and move top of the Bundesliga. Freiburg, who had ⁠already made a club-record start with 10 points from their opening ⁠four matches, climbed to 13 points, ​ahead of Borussia ‌Dortmund on ‌goal difference. Champions Bayern, who drew 2-2 ‌against Augsburg on Saturday, are third on 11. Continue reading..."
+        "published": "2026-10-11T21:15:26Z",
+        "description": "Goto seals late 2-1 win over Schalke for 10-man Freiburg Lazio join Inter at top of Serie A as Roma held at Como Ten-man Freiburg scored an 85th-minute winner ⁠through Keisuke Goto to snatch a 2-1 home victory over ⁠ Schalke 04 ⁠on ​Sunday and move top of the Bundesliga. Freiburg, who had ⁠already made a club-record start with 10 points from their opening ⁠four matches, climbed to 13 points, ​ahead of Borussia ‌Dortmund on ‌goal difference. The champions, Bayern Munich, who drew 2-2 ‌against Augsburg on Saturday, are third on 11. Continue reading..."
       },
       {
-        "title": "Scottish Premiership: Celtic end losing skid and take top spot back from Rangers",
-        "link": "https://www.theguardian.com/football/2026/oct/10/scottish-premiership-rangers-hearts-celtic",
-        "published": "2026-10-11T16:20:59Z",
-        "description": "Bhoys on top of table, while Rangers beat Kilmarnock 3-1 Calvin Miller scores two penalties in Hearts 5-0 St Mirren Jota made his long-awaited return to action as Celtic claimed a much-needed 2-0 victory at Motherwell to move top of the Premiership again and ease the sense of gloom and tension that had engulfed the club during the international break. Five months on from a dramatic late win that helped them on their way to last season’s title, Martin O’Neill’s side enjoyed another big result at Fir Park to end a three-game losing streak and climb back ahead of Rangers , who had leapfrogged them at the summit on Saturday. Continue reading..."
+        "title": "Joy for Eckert as 10-man Southampton edge out Portsmouth in feisty derby",
+        "link": "https://www.theguardian.com/football/2026/oct/11/southampton-portsmouth-championship-match-report",
+        "published": "2026-10-11T13:18:33Z",
+        "description": "At the full-time whistle in the south coast derby, Tonda Eckert thrust his arms out wide and roared into the sky with the rest of the Southampton supporters. It had been a tense 90 minutes after a tense few months, but finally the young German coach could let it all out. At the end of a week where he found out that he will face no immediate ban for his part in the Spygate scandal that rocked the Championship last season, he helped deliver Southampton’s first home win over Portsmouth for 22 years. Southampton played more than half of a fiercely contested game with 10 men after Cameron Bragg was sent off for a second yellow card on 44 minutes and Eckert was keen to divert credit elsewhere at…"
       }
     ],
     "spielverlagerung": [
@@ -1450,34 +1450,34 @@
     "nyrb": [],
     "lrb": [
       {
-        "title": "Here Are Some of the Poems Anne Carson Has Written and You Are Welcome to Them",
-        "link": "https://www.lrb.co.uk/blog/2026/october/here-are-some-of-the-poems-anne-carson-has-written-and-you-are-welcome-to-them",
-        "published": "2026-10-08T12:57:03Z",
-        "description": "Anne Carson has won the 2026 Nobel Prize in Literature. She first appeared in the London Review on the letters page in 1993. The first poems of hers..."
+        "title": "Ozempic in Iran",
+        "link": "https://www.lrb.co.uk/blog/2026/september/ozempic-in-iran",
+        "published": "2026-09-29T15:02:41Z",
+        "description": "In Iran, as elsewhere, GLP-1 agonists such as semaglutide and tirzepatide offer a chance to address obesity, improve organ functioning and treat..."
       },
       {
-        "title": "Among Schoolchildren",
-        "link": "https://www.lrb.co.uk/blog/2026/october/among-schoolchildren",
-        "published": "2026-10-08T11:47:49Z",
-        "description": "There were still several gendarmerie vans parked near Lycée Hélène Boucher in the 20th arrondissement at noon on Tuesday. In a nearby bar, some of..."
+        "title": "Public Positions",
+        "link": "https://www.lrb.co.uk/blog/2026/september/public-positions",
+        "published": "2026-09-23T14:20:38Z",
+        "description": "Given much of the coverage of the Ed Sheeran-Macklemore debacle, you could be forgiven for thinking that Sheeran had been dropped from his tour for..."
       },
       {
-        "title": "Wok Diplomacy",
-        "link": "https://www.lrb.co.uk/blog/2026/october/wok-diplomacy",
-        "published": "2026-10-06T16:20:49Z",
-        "description": "The biggest movie at the Chinese box office this August – grossing nearly three times as much as The Odyssey, released the same week – was Once..."
+        "title": "Layers of Denial",
+        "link": "https://www.lrb.co.uk/blog/2026/september/layers-of-denial",
+        "published": "2026-09-23T13:45:53Z",
+        "description": "The frenzy in Israel surrounding the documentary NAZA is fundamentally undemocratic. That is what happens after years of extreme right-wing populism,..."
       },
       {
-        "title": "Collective Harm",
-        "link": "https://www.lrb.co.uk/blog/2026/october/collective-harm",
-        "published": "2026-10-05T14:27:28Z",
-        "description": "The Israeli military claims that each individual strike in Gaza is justified but ignores their collective consequences. A reason is given for each..."
+        "title": "Johnny Marr’s Guitars",
+        "link": "https://www.lrb.co.uk/blog/2026/september/johnny-marr-s-guitars",
+        "published": "2026-09-21T17:40:32Z",
+        "description": "The Smiths kicked off the Scottish leg of their Meat is Murder tour at the Magnum Leisure Centre in Irvine New Town on 22 September 1985, and I was at..."
       },
       {
-        "title": "Election Time?",
-        "link": "https://www.lrb.co.uk/blog/2026/october/election-time",
-        "published": "2026-10-02T22:04:43Z",
-        "description": "If the radical agenda is real, it points to an early general election. Burnham said that the National Care Service will be introduced ‘in the next..."
+        "title": "In Bishkek",
+        "link": "https://www.lrb.co.uk/blog/2026/september/in-bishkek",
+        "published": "2026-09-18T15:50:28Z",
+        "description": "Kok-boru is a horseback sport related to polo, played with a headless goat carcass rather than a ball and mallets. The equestrian scrums are violent..."
       }
     ],
     "larb": [],
@@ -1533,6 +1533,12 @@
     ],
     "psyche": [
       {
+        "title": "Black men suffer racial trauma yet are seen as the threat",
+        "link": "https://psyche.co/ideas/black-men-suffer-racial-trauma-yet-are-seen-as-the-threat",
+        "published": "2026-10-11T22:00:00Z",
+        "description": "The very conditions that subject Black men to chronic strain make it hard for them to receive the help they need and deserve - by Yamonte Cooper Read on Psyche"
+      },
+      {
         "title": "How to ignite your creativity",
         "link": "https://psyche.co/videos/ten-crafty-ideas-to-escape-the-doom-scroll-and-start-making-things",
         "published": "2026-10-09T10:01:00Z",
@@ -1573,12 +1579,6 @@
         "link": "https://psyche.co/ideas/what-does-it-really-take-to-be-a-resilient-mother",
         "published": "2026-10-05T10:00:00Z",
         "description": "New motherhood is hard – and a mother’s ability to cope depends on multiple kinds of strength, both internal and external - by Sarah Emmerson Read on Psyche"
-      },
-      {
-        "title": "Ask me anything",
-        "link": "https://psyche.co/videos/what-happens-when-a-sudanese-refugee-lets-strangers-ask-him-anything",
-        "published": "2026-10-02T10:01:00Z",
-        "description": "As the Netherlands adopts its strictest-ever asylum policy, Abdulaal Hussein creates space for candid conversation - Directed by Wyneke van Nieuwenhuyzen Watch on Psyche"
       }
     ],
     "newleftreview": [],
