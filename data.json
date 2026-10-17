@@ -387,10 +387,28 @@
     "reuters": [],
     "bbc": [
       {
+        "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+        "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-17T20:52:17Z",
+        "description": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests."
+      },
+      {
+        "title": "How day of protests unfolded as disorder breaks out across France",
+        "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-17T21:33:17Z",
+        "description": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked."
+      },
+      {
         "title": "More NHS staff sacked over attacks victims' records",
         "link": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
         "published": "2026-10-17T16:34:39Z",
         "description": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records."
+      },
+      {
+        "title": "Anti-government protesters battle with police in Albania",
+        "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-17T20:53:00Z",
+        "description": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana."
       },
       {
         "title": "European diplomats attacked by Israeli settlers in West Bank",
@@ -399,22 +417,10 @@
         "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign."
       },
       {
-        "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
-        "link": "https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-17T12:56:09Z",
-        "description": "Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites."
-      },
-      {
         "title": "Swinney's emotional explanation for his commitment to independence",
         "link": "https://www.bbc.co.uk/news/articles/cx5yn9n7v5zeo?at_medium=RSS&at_campaign=rss",
         "published": "2026-10-17T18:11:42Z",
         "description": "BBC Scotland's political editor Glenn Campbell reflects on John Swinney's SNP conference speech."
-      },
-      {
-        "title": "Pope discharged from hospital days after lung cancer surgery",
-        "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-17T13:51:36Z",
-        "description": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday."
       },
       {
         "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
@@ -427,62 +433,56 @@
         "link": "https://www.bbc.co.uk/news/articles/crn4ej7vdwdno?at_medium=RSS&at_campaign=rss",
         "published": "2026-10-16T23:27:01Z",
         "description": "Freaky Nikki, Dolly Parton and whimsical costumes like gargoyles are popular among adults dressing up this year."
-      },
-      {
-        "title": "Why people who have never smoked are getting hooked on vapes",
-        "link": "https://www.bbc.co.uk/news/articles/ck62y33489zqo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-16T23:49:16Z",
-        "description": "More than one million people now vape who have never been smokers, according to the ONS."
       }
     ],
     "aljazeera": [
+      {
+        "title": "Photos: No Kings rallies in US urge midterm voters to cast ballots early",
+        "link": "https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss",
+        "published": "2026-10-17T21:08:10Z",
+        "description": "Thousands gathered at events throughout the country on Saturday, building on two years of No Kings marches."
+      },
+      {
+        "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
+        "link": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
+        "published": "2026-10-17T21:02:26Z",
+        "description": "Hundreds of thousands took to the streets for separate demonstrations putting pressure on governments across the EU."
+      },
+      {
+        "title": "Ten killed in fire at beach resort in Bangladesh",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd?traffic_source=rss",
+        "published": "2026-10-17T20:50:01Z",
+        "description": "Ten people, including six members of the same family, were killed in a fire at a beach resort in Bangladesh."
+      },
+      {
+        "title": "Protesters allege police brutality as violent clashes rage on in Albania",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/protesters-allege-police-brutality-as-violent-clashes-rage-on-in-albania?traffic_source=rss",
+        "published": "2026-10-17T20:40:38Z",
+        "description": "Protesters in Albania accuse riot police of brutality as clashes turn violent outside the Education Ministry."
+      },
+      {
+        "title": "Al Jazeera reporter harassed, struck on head amid France protests, looting",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reporter-harassed-struck-on-head-amid-france-protests-looting?traffic_source=rss",
+        "published": "2026-10-17T20:20:25Z",
+        "description": "Al Jazeera’s Rosie Rosie Birchard was harassed by protesters looting shops in Rennes, France."
+      },
+      {
+        "title": "Iranian TV airs video said to show tanker explosion in Hormuz",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss",
+        "published": "2026-10-17T20:02:22Z",
+        "description": "Iranian state TV aired footage claiming to show an oil tanker exploding after striking a naval mine in Hormuz"
+      },
+      {
+        "title": "At least 17 killed in stampede at religious gathering in India",
+        "link": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss",
+        "published": "2026-10-17T19:48:54Z",
+        "description": "Incident took place at festival in north Kolkata, in India's West Bengal state, amid big crowds and rainfall, police said."
+      },
       {
         "title": "Albanian police fire rubber bullets as protests against Rama escalate",
         "link": "https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss",
         "published": "2026-10-17T19:26:13Z",
         "description": "Five days of clashes rock Tirana as students join a wider movement demanding Prime Minister Edi Rama's resignation."
-      },
-      {
-        "title": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss",
-        "published": "2026-10-17T19:04:00Z",
-        "description": "Hundreds of protesters rallied outside the office of Kyiv’s mayor Vitali Klitschko, demanding that he steps down."
-      },
-      {
-        "title": "Will the EU come to Ukraine’s rescue in war against Russia?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss",
-        "published": "2026-10-17T19:03:49Z",
-        "description": "US support at risk as Trump-Zelenskyy relations nosedive."
-      },
-      {
-        "title": "Is the US Embassy in Jerusalem for Israel or America?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
-        "published": "2026-10-17T18:41:30Z",
-        "description": "What led to the deaths of the nine Americans killed in the occupied West Bank since 2022?"
-      },
-      {
-        "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
-        "link": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss",
-        "published": "2026-10-17T18:26:59Z",
-        "description": "Attacks hit several areas as UNICEF reports more than 340 children killed since 'ceasefire' began a year ago."
-      },
-      {
-        "title": "India and West Indies denied a thrilling finale as rain hits final T20",
-        "link": "https://www.aljazeera.com/sports/2026/10/17/india-and-west-indies-denied-thrilling-finale-as-rain-hits-final-t20?traffic_source=rss",
-        "published": "2026-10-17T17:42:01Z",
-        "description": "India reached 118-5 after seven overs with Naman Dhir hitting 24 off six balls before rain forced an end to the game."
-      },
-      {
-        "title": "Pope Leo returns to Vatican after lung cancer surgery",
-        "link": "https://www.aljazeera.com/news/2026/10/17/pope-leo-returns-to-vatican-after-lung-cancer-surgery?traffic_source=rss",
-        "published": "2026-10-17T17:37:52Z",
-        "description": "Doctors say they are seeing 'continued improvement' after the US-born pope had a lump removed from his lung on Tuesday."
-      },
-      {
-        "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
-        "link": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss",
-        "published": "2026-10-17T17:24:07Z",
-        "description": "Republicans and Democrats condemn Trump’s decision to suspend sanctions, saying it undermines support for Ukraine."
       }
     ],
     "ft": [
@@ -529,10 +529,10 @@
         "description": "Ructions point to what a true bursting of the bubble might do to financial markets"
       },
       {
-        "title": "‘Inflation will make people poor’: Airlines brace for years of pain",
-        "link": "https://www.ft.com/content/993940f2-c9a3-4e20-8c0a-f73d448f090d?syn-25a6b1a6=1",
-        "published": "2026-10-17T04:00:11Z",
-        "description": "Carriers fear customers may be unwilling to stomach more price rises if energy costs stoke further inflation"
+        "title": "Protesters clash with police as demonstrations erupt across France",
+        "link": "https://www.ft.com/content/bcb6c27a-f082-4867-ade4-ae6eb757b780?syn-25a6b1a6=1",
+        "published": "2026-10-17T19:15:19Z",
+        "description": "Clashes overshadow day of protests by tens of thousands over high living costs and dissatisfaction with the education system"
       }
     ],
     "restofworld": [
@@ -641,6 +641,12 @@
     "chelsea": [],
     "chelsea_bbc": [
       {
+        "title": "Chelsea's 'most accomplished performance of the season' in Everton win",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cmgqwn28de8yo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-17T21:09:25Z",
+        "description": "Chelsea fan Savage Dan praised a mature performance from the Blues in their 2-0 win over Everton, which delivered their first clean sheet in the Premier League this season."
+      },
+      {
         "title": "Neto scores twice as Chelsea win at Everton",
         "link": "https://www.bbc.co.uk/sport/football/videos/cq146nz03k16o?at_medium=RSS&at_campaign=rss",
         "published": "2026-10-17T19:00:03Z",
@@ -681,33 +687,27 @@
         "link": "https://www.bbc.co.uk/news/videos/c9rkynp1m01mo?at_medium=RSS&at_campaign=rss",
         "published": "2026-10-12T06:35:02Z",
         "description": "Working with the Bureau of Investigative Journalism, BBC Panorama reveals how the Russian billionaire hid his wealth with the help of Deloitte."
-      },
-      {
-        "title": "'Take a bow!' Chelsea fan praises 'sublime' Henderson",
-        "link": "https://www.bbc.co.uk/sport/football/videos/c6ly3k31853po?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-10T20:22:18Z",
-        "description": "Chelsea fan Savage Dan gives praise for Jordan Henderson."
       }
     ],
     "chelsea_sky": [],
     "guardianfootball": [
       {
-        "title": "Manzambi maintains Aston Villa progress with win to seal dismal week for Newcastle",
-        "link": "https://www.theguardian.com/football/2026/oct/17/newcastle-aston-villa-premier-league-match-report",
-        "published": "2026-10-17T18:38:58Z",
-        "description": "There is a reason why Aston Villa were so desperate to hijack Johan Manzambi’s proposed move from Freiburg to Newcastle this summer, which appeared nailed on. The tall, quick, tricky, clever and perfectly balanced 21-year-old Switzerland attacking midfielder looked worth every penny of the record £50m plus fee Villa ended up paying for him and duly delighted in showing Tynesiders what they missed. For Newcastle and their disconsolate manager, Matthias Jaissle, there was a cruel irony that Manzambi ended up heading the winner on a day when the Premier League’s CEO, Richard Masters, was in the directors’ box to watch arguably the two teams most affected by the spending rules imposed during…"
+        "title": "Europe is a blast – but more a curse than a blessing if you are not a Premier League super-club I Jonathan Wilson",
+        "link": "https://www.theguardian.com/football/2026/oct/17/europe-is-a-blast-but-more-a-curse-than-a-blessing-if-you-are-not-a-super-club",
+        "published": "2026-10-17T19:00:38Z",
+        "description": "The four Premier League clubs playing in the lesser continental competitions face each other on Sunday – but three are struggling domestically The sun shone. The temperature was in the high 20s. There was a mood of great conviviality. If you were struggling with the official allocation, it turned out you could just email the president of Torreense and he’d sort you out. Were these “Nuno-tickets” real? It turned out they were. Not only that, but you could sit anywhere you wanted in a stadium too big for the game and, if you happened to have gravitated to the comfortable hospitality seating at the back of the lower tier, the beer was inexplicably free. Locals in Leiria seemed bewildered but…"
       },
       {
         "title": "Haaland helps Maresca achieve record start as Manchester City defeat Ipswich",
         "link": "https://www.theguardian.com/football/2026/oct/17/manchester-city-ipswich-premier-league-match-report",
         "published": "2026-10-17T16:08:40Z",
-        "description": "There have been few winners in Manchester City’s guilty verdict, except highly paid lawyers and the inflatable fruit industry. The fans have suffered, being forced to question everything they have been told, while being labelled “cheats”, but they were able to forget the cacophony of noise around the club as Enzo Maresca became the first manager to win his first seven games in charge of a team. Ipswich were the latest victims, but they put up a fight in City’s first home Premier League game since being found to have breached financial rules . Defiance has fortified most of the City fanbase, who were able to see local boy Phil Foden instigate the triumph with a kiss of the badge, before an…"
+        "description": "There have been few winners in Manchester City’s guilty verdict, except highly paid lawyers and the inflatable fruit industry. The fans have suffered, being forced to question everything they have been told, while being labelled “cheats”, but they were able to forget the cacophony of noise around the club as Enzo Maresca became the first Premier League manager to win his first seven games. Ipswich were the latest victims, but they put up a fight in City’s first home Premier League game since being found to have breached financial rules . Defiance has fortified most of the City fanbase, who were able to see local boy Phil Foden instigate the triumph with a kiss of the badge, before an…"
       },
       {
-        "title": "Isak completes Liverpool’s comeback win as Brentford finish with nine",
-        "link": "https://www.theguardian.com/football/2026/oct/17/brentford-liverpool-premier-league-match-report",
-        "published": "2026-10-17T16:21:40Z",
-        "description": "If Liverpool’s spluttering forwards end up remembering this as the day when their luck turned then they will owe a big debt of gratitude to Yehor Yarmolyuk. This was a game with a very clear before and after. Andoni Iraola will hope surviving one of the toughest tests the Premier League has to offer is a sign his methods are starting to work, but Liverpool’s manager will not forget it was a very different contest after Yarmolyuk’s red card for a butt on Jérémy Jacquet left Brentford trying to defend a 1-0 lead with 10 men for the entire second half. Continue reading..."
+        "title": "Manzambi maintains Aston Villa progress with win to seal dismal week for Newcastle",
+        "link": "https://www.theguardian.com/football/2026/oct/17/newcastle-aston-villa-premier-league-match-report",
+        "published": "2026-10-17T18:38:58Z",
+        "description": "There is a reason why Aston Villa were so desperate to hijack Johan Manzambi’s proposed summer move from Freiburg to Newcastle. The tall, quick, tricky, clever and perfectly balanced 21-year-old Switzerland attacking midfielder looked worth every penny of the record £50m plus fee Villa ended up paying and he duly delighted in showing Tynesiders what they missed. For Newcastle and their disconsolate manager, Matthias Jaissle, there was a cruel irony that Manzambi ended up heading the winner on a day when the Premier League’s CEO, Richard Masters, was in the directors’ box to watch arguably the two teams most affected by the spending rules imposed during his tenure. Continue reading..."
       },
       {
         "title": "Pressure on Arbeloa lifted after Alex Iwobi sinks Hull for Fulham’s first win",
@@ -716,28 +716,28 @@
         "description": "It was not until his post-match lap of the pitch that Álvaro Arbeloa allowed himself a smile. After an uncomfortable week when his future was being called into question , the former Real Madrid manager has a Premier League win under his belt at the seventh attempt, lifting his side off the foot of the table. But it is not a win without caveats. Alex Iwobi’s goal in the first half should have been one of many, with the Nigeria winger among those guilty of missing gilt-edge chances. Gonzalo García, who has not scored in the league since the opening weekend of the season, headed against the crossbar from close range in the second half. Continue reading..."
       },
       {
+        "title": "Isak completes Liverpool’s comeback win as Brentford finish with nine",
+        "link": "https://www.theguardian.com/football/2026/oct/17/brentford-liverpool-premier-league-match-report",
+        "published": "2026-10-17T16:21:40Z",
+        "description": "If Liverpool’s spluttering forwards end up remembering this as the day when their luck turned then they will owe a big debt of gratitude to Yehor Yarmolyuk. This was a game with a very clear before and after. Andoni Iraola will hope surviving one of the toughest tests the Premier League has to offer is a sign his methods are starting to work, but Liverpool’s manager will not forget it was a very different contest after Yarmolyuk’s red card for a butt on Jérémy Jacquet left Brentford trying to defend a 1-0 lead with 10 men for the entire second half. Continue reading..."
+      },
+      {
         "title": "Boos for Arsenal as draw with Birmingham extends winless WSL run",
         "link": "https://www.theguardian.com/football/2026/oct/17/arsenal-birmingham-wsl-match-report",
         "published": "2026-10-17T15:44:19Z",
         "description": "An equaliser from Olivia Smith averted defeat for Arsenal, but a home draw with Birmingham did little to calm fears for Renée Slegers’s future as Gunners coach. Boos accompanied the final whistle at the Emirates Stadium, as the result left Arsenal on six points from six matches and without a win in five Women’s Super League matches, the club’s longest winless run in WSL history. They are eighth in the table, nine points behind the leaders, Manchester City, who have played one game fewer. Birmingham opened the scoring at the start of the second half when Océane Hurtré coolly tapped in after her run from the halfway line went unchecked. Alessia Russo had hit the woodwork in the first half…"
       },
       {
-        "title": "Scottish Premiership: Kiltie double sinks Motherwell to lift Kilmarnock",
-        "link": "https://www.theguardian.com/football/2026/oct/17/scottish-premiership-kilmarnock-rangers-dundee-celtic-hearts",
-        "published": "2026-10-17T17:05:15Z",
-        "description": "Kilmarnock move off bottom with 3-2 win Hibs 1-2 Falkirk; Aberdeen 3-1 St Mirren Greg Kiltie scored twice to lift Kilmarnock off the bottom with a 3-2 home victory over Motherwell . Kiltie struck first and last as Neil McCann’s side inflicted a fifth consecutive defeat on the Steelmen, who join Killie in the bottom three, one point above bottom-placed Hibernian. Motherwell had a dominant spell after recovering from Kiltie’s second-minute opener and goals from Alex Lowry and Seb Palmer-Houlden turned the game on its head. But Tyreece John-Jules soon equalised and Motherwell were cut open before Kiltie knocked home a 69th-minute winner. This story will be updated Continue reading..."
-      },
-      {
-        "title": "Neto double at Everton leads Chelsea to victory marred by Martínez head injury",
-        "link": "https://www.theguardian.com/football/2026/oct/17/everton-chelsea-premier-league-match-report",
-        "published": "2026-10-17T13:53:13Z",
-        "description": "Chelsea have returned from the international break with a spirit, authority and resilience that augurs well for Xabi Alonso. Their troubles at Everton, not a happy hunting ground in recent years, were confined to the seven minutes Emi Martínez needed treatment for a head injury as Pedro Neto’s double delivered a deserved victory in the Merseyside sunshine. The Argentina goalkeeper was taken to hospital for tests after an accidental collision with Jarrad Branthwaite left him with suspected concussion. “When he left the stadium he was conscious,” Alonso said. “Hopefully it is not too bad but we need to wait.” A first Premier League clean sheet since January, and a second successive win since…"
-      },
-      {
         "title": "Championship roundup: West Ham go second; Norwich beaten again",
         "link": "https://www.theguardian.com/football/2026/oct/17/championship-roundup-middlesbrough-watford-millwall-swansea-west-ham",
         "published": "2026-10-17T16:29:23Z",
-        "description": "Mukasa’s first-half goal enough to beat leaders Swansea Canaries suffer sixth straight loss; Watford beat Charlton Nuno Espírito Santo was delighted West Ham finished a “demanding week” by toppling Championship leaders Swansea . Divine Mukasa’s first-half strike in front of a record Swansea.com Stadium crowd of 20,973 gave the Hammers a 1-0 win and took them into second place and within a point of the league leaders. It was the Hammers’ second success in four days after a 6-0 romp at Lincoln , and ended a week that began with a 1-1 home draw against QPR following Jarrod Bowen’s last-gasp penalty miss. Continue reading..."
+        "description": "Mukasa’s first-half goal enough to beat leaders Swansea Canaries suffer sixth straight loss; Watford beat Charlton Nuno Espírito Santo was delighted West Ham finished a “demanding week” by toppling Championship leaders Swansea . Divine Mukasa’s first-half strike in front of a record Swansea.com Stadium crowd of 20,973 gave the Hammers a 1-0 win and took them into second place and within a point of the league leaders. It was their second success in four days after a 6-0 romp at Lincoln , and ended a week that began with a 1-1 home draw against QPR following Jarrod Bowen’s last-gasp penalty miss. Continue reading..."
+      },
+      {
+        "title": "Scottish Premiership: Rangers miss chance to go top after pulsating draw with Dundee",
+        "link": "https://www.theguardian.com/football/2026/oct/17/scottish-premiership-kilmarnock-rangers-dundee-celtic-hearts",
+        "published": "2026-10-17T21:33:58Z",
+        "description": "Jones equaliser denies Rangers victory Kilmarnock beat Motherwell 3-2 to move off bottom Rangers passed up the chance to go top of the Premiership in a pulsating 2-2 draw against Dundee at Dens Park. The home side took a deserved lead in the 38th minute through the striker Bradley Fink but the returning Gers attacker Badredine Bouanani fired in a stunning equaliser three minutes later with his first goal for the club. Derek McInnes’s side came out re-energised for the second half and took the lead on the hour with the midfielder Nico Raskin’s long-range drive but in the 68th minute the midfielder Callum Jones took advantage of Gers slackness to level. Dundee were well worth a point, with…"
       }
     ],
     "spielverlagerung": [
@@ -842,6 +842,36 @@
     ],
     "wagnh": [
       {
+        "title": "Everton 0-2 Chelsea, Premier League: Post-match reaction, ratings",
+        "link": "https://weaintgotnohistory.sbnation.com/premier-league/173167/everton-0-2-chelsea-premier-league-post-match-reaction-ratings",
+        "published": "2026-10-17T13:39:50Z",
+        "description": "It didn’t take long for the game to settle into its expected state, Chelsea having all of the ball but Everton leaving no spaces to play in the final third. There was good intensity from the visiting Blues, but little in the way of actual threat. The home Blues weren’t offering any of that either, […]"
+      },
+      {
+        "title": "Everton vs. Chelsea, Premier League: Confirmed lineups; how to watch",
+        "link": "https://weaintgotnohistory.sbnation.com/premier-league/173147/everton-vs-chelsea-premier-league-confirmed-lineups-how-to-watch",
+        "published": "2026-10-17T10:24:29Z",
+        "description": "It’s bright and it’s early and it’s a Saturday. And it’s Chelsea. And it’s Everton. And it’s Merseyside. And it’s live! The Premier League weekend begins with a top-six clash of fifth versus sixth, as the league’s meanest defense go up against the league’s second best attack (and one of the league’s worst attacks go […]"
+      },
+      {
+        "title": "The Daily Hilario: Saturday",
+        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/173132/the-daily-hilario-october-17th",
+        "published": "2026-10-17T06:53:55Z",
+        "description": "Hmm Highest Misses"
+      },
+      {
+        "title": "Chelsea fans’ preferred lineup against Everton: Never change a winning lineup",
+        "link": "https://weaintgotnohistory.sbnation.com/premier-league/173142/chelsea-fans-preferred-lineup-against-everton-never-change-a-winning-lineup",
+        "published": "2026-10-17T06:53:09Z",
+        "description": "It’s the age-old question. Do you change a winning lineup? Do you play to your strengths as you perceive them, or do you try to anticipate and react to the opponents’ perceived strengths? The answers to those two questions rarely align exactly. As far as the WAGNH Community’s concerned, the correct answer is to stay […]"
+      },
+      {
+        "title": "Everton vs. Chelsea, Premier League: Preview, team news, how to watch",
+        "link": "https://weaintgotnohistory.sbnation.com/premier-league/173135/everton-vs-chelsea-premier-league-preview-team-news-how-to-watch",
+        "published": "2026-10-17T04:24:25Z",
+        "description": "Chelsea are up first in the Premier League this weekend as Xabi Alonso takes his charges north to Goodison Park. Thankfully, someone told our manager, the former Liverpool player, that Everton no longer play at Goodison but rather at Hill Dickinson down the street. That could’ve been awkward! So, assuming we show up at the […]"
+      },
+      {
         "title": "How should Chelsea line up against Everton?",
         "link": "https://weaintgotnohistory.sbnation.com/premier-league/173125/how-should-chelsea-line-up-against-everton",
         "published": "2026-10-16T16:00:30Z",
@@ -858,36 +888,6 @@
         "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/173101/the-daily-hilario-october-16th",
         "published": "2026-10-16T05:51:53Z",
         "description": "It has been a stressful couple of days, all the more worrying that I seem to have lost a few days. I’m back now, with my calendar updated. Of course Lol Hmm"
-      },
-      {
-        "title": "AFC Bournemouth now willing to consider Alex Scott offers starting at £80m — report",
-        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/173099/afc-bournemouth-now-willing-to-consider-alex-scott-offers-starting-at-80m-report",
-        "published": "2026-10-16T04:05:27Z",
-        "description": "Reality may be starting to sink in a bit at AFC Bournemouth, who are now said to be ready to consider offers starting at £80m for Alex Scott in January — a fair discount on the previously reported £100m fee just to get them to the negotiating table. Sky Sports claim that “an offer in […]"
-      },
-      {
-        "title": "The Daily Hilario: Monday",
-        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/173025/the-daily-hilario-october-15th",
-        "published": "2026-10-15T04:56:19Z",
-        "description": "Ed.note: It’s actually Thursday, which is worse. Perhaps it’s Monday in TMIL’s universe, the Hilarioverse. First Unbeaten Well"
-      },
-      {
-        "title": "How a private equity investment analyst might view BlueCo’s acquisition of Chelsea",
-        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-finances/173034/how-a-private-equity-investment-analyst-might-view-bluecos-acquisition-of-chelsea",
-        "published": "2026-10-15T06:20:41Z",
-        "description": "Before I start, a few things: This was originally posted on The Daily Hilario on Monday, 12th October. If you have already read it there, this has incorporated the gist of my responses to comments made in order to avoid repetition. Despite the title, I’m not an investment analyst. However, I have worked alongside private […]"
-      },
-      {
-        "title": "The Daily Hilario: Questings of Vision(s)",
-        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/173011/the-daily-hilario-questings-of-visions",
-        "published": "2026-10-14T07:59:20Z",
-        "description": "Watching the first episode of VisionQuest and maybe about to watch the second. So far, so good. Quite liked WandaVision and James Spader is usually a fun time, so I’m on board, at least for now. Also, Philomena Cunk as a person-in-the-chair? Brilliant. Will it better than Lanterns? I suspect it’ll be quite different, so […]"
-      },
-      {
-        "title": "Stamford Bridge hosting Shakhtar’s Champions League matches, starting tonight",
-        "link": "https://weaintgotnohistory.sbnation.com/around-europe/173004/stamford-bridge-hosting-shakhtars-champions-league-matches-starting-tonight",
-        "published": "2026-10-14T07:22:20Z",
-        "description": "Chelsea and Shakhtar Donetsk struck a deal earlier this year to stage the latter’s Champions League matches at Stamford Bridge this season, giving the nomadic team from the war-torn region (since 2014) in Ukraine a proper European home, at least temporarily. It’s an especially appropriate arrangement given Chelsea’s former ties to Roman Abramovich. “At this […]"
       }
     ],
     "rym": [],
