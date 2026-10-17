@@ -387,16 +387,16 @@
     "reuters": [],
     "bbc": [
       {
-        "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
-        "link": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-17T12:14:52Z",
-        "description": "The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations."
-      },
-      {
         "title": "More NHS staff sacked over attacks victims' records",
         "link": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
         "published": "2026-10-17T16:34:39Z",
         "description": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records."
+      },
+      {
+        "title": "European diplomats attacked by Israeli settlers in West Bank",
+        "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-17T18:38:57Z",
+        "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign."
       },
       {
         "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
@@ -405,16 +405,22 @@
         "description": "Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites."
       },
       {
-        "title": "Scotland 'not like Manchester', Swinney says in dig at PM Burnham",
-        "link": "https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-17T15:36:05Z",
-        "description": "The first minister also used his SNP conference speech to announce plans for Scotland's bus network to be brought under public control."
+        "title": "Swinney's emotional explanation for his commitment to independence",
+        "link": "https://www.bbc.co.uk/news/articles/cx5yn9n7v5zeo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-17T18:11:42Z",
+        "description": "BBC Scotland's political editor Glenn Campbell reflects on John Swinney's SNP conference speech."
       },
       {
         "title": "Pope discharged from hospital days after lung cancer surgery",
         "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
         "published": "2026-10-17T13:51:36Z",
         "description": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday."
+      },
+      {
+        "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-17T16:02:31Z",
+        "description": "Goalkeeper Emiliano Martinez was taken to hospital as Chelsea's 2-0 win at Everton on Saturday meant they secured their first clean sheet in nine months."
       },
       {
         "title": "Not sure what to wear for Halloween? These outfits are set to be the most popular this year",
@@ -427,62 +433,56 @@
         "link": "https://www.bbc.co.uk/news/articles/ck62y33489zqo?at_medium=RSS&at_campaign=rss",
         "published": "2026-10-16T23:49:16Z",
         "description": "More than one million people now vape who have never been smokers, according to the ONS."
-      },
-      {
-        "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-        "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-16T18:11:29Z",
-        "description": "The Australian government hopes to protect social media users from being served content they don't want to see."
       }
     ],
     "aljazeera": [
       {
-        "title": "Al Jazeera reports from Paris as protests turns violent",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss",
-        "published": "2026-10-17T16:56:40Z",
-        "description": "In Paris, thousands are protesting teacher shortages, poor school facilities and cuts to public services."
+        "title": "Albanian police fire rubber bullets as protests against Rama escalate",
+        "link": "https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss",
+        "published": "2026-10-17T19:26:13Z",
+        "description": "Five days of clashes rock Tirana as students join a wider movement demanding Prime Minister Edi Rama's resignation."
       },
       {
-        "title": "Why are Latin American countries building closer ties with Israel?",
-        "link": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss",
-        "published": "2026-10-17T16:54:44Z",
-        "description": "A wave of new Latin American leaders reverses measures meant to isolate Israel after its genocidal war on Gaza."
+        "title": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss",
+        "published": "2026-10-17T19:04:00Z",
+        "description": "Hundreds of protesters rallied outside the office of Kyiv’s mayor Vitali Klitschko, demanding that he steps down."
       },
       {
-        "title": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss",
-        "published": "2026-10-17T16:49:07Z",
-        "description": "Egyptian President Abdel Fattah el-Sisi has vowed to take 'any measure' to defend Saudi Arabia amid Houthi attacks."
+        "title": "Will the EU come to Ukraine’s rescue in war against Russia?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss",
+        "published": "2026-10-17T19:03:49Z",
+        "description": "US support at risk as Trump-Zelenskyy relations nosedive."
       },
       {
-        "title": "Kenya confirms four more Ebola cases, bringing total to seven",
-        "link": "https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss",
-        "published": "2026-10-17T16:48:46Z",
-        "description": "⁠Three health workers who ⁠treated the country's first Ebola patient are among the latest confirmed cases."
+        "title": "Is the US Embassy in Jerusalem for Israel or America?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
+        "published": "2026-10-17T18:41:30Z",
+        "description": "What led to the deaths of the nine Americans killed in the occupied West Bank since 2022?"
       },
       {
-        "title": "Buildings and cars set on fire as cost of living protests rock France",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-clip-france-clashes-protests-fr?traffic_source=rss",
-        "published": "2026-10-17T16:00:40Z",
-        "description": "Protesters have set fire to cars and buildings in France as demonstrations escalate."
+        "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
+        "link": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss",
+        "published": "2026-10-17T18:26:59Z",
+        "description": "Attacks hit several areas as UNICEF reports more than 340 children killed since 'ceasefire' began a year ago."
       },
       {
-        "title": "Pope Leo leaves hospital after lung cancer surgery",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss",
-        "published": "2026-10-17T15:47:52Z",
-        "description": "Pope Leo left Rome's Gemelli Hospital on Saturday after successful lung cancer surgery"
+        "title": "India and West Indies denied a thrilling finale as rain hits final T20",
+        "link": "https://www.aljazeera.com/sports/2026/10/17/india-and-west-indies-denied-thrilling-finale-as-rain-hits-final-t20?traffic_source=rss",
+        "published": "2026-10-17T17:42:01Z",
+        "description": "India reached 118-5 after seven overs with Naman Dhir hitting 24 off six balls before rain forced an end to the game."
       },
       {
-        "title": "Neto’s brace fires Chelsea past Everton but Martinez head injury mars win",
-        "link": "https://www.aljazeera.com/sports/2026/10/17/neto-brace-fires-chelsea-past-everton-but-martinez-head-injury-mars-win?traffic_source=rss",
-        "published": "2026-10-17T15:25:27Z",
-        "description": "Argentinian international taken to hospital for precautionary tests after head clash with Everton's Jarrad Branthwaite."
+        "title": "Pope Leo returns to Vatican after lung cancer surgery",
+        "link": "https://www.aljazeera.com/news/2026/10/17/pope-leo-returns-to-vatican-after-lung-cancer-surgery?traffic_source=rss",
+        "published": "2026-10-17T17:37:52Z",
+        "description": "Doctors say they are seeing 'continued improvement' after the US-born pope had a lump removed from his lung on Tuesday."
       },
       {
-        "title": "Ilhan Omar’s lawyers demand the return of property seized in house raid",
-        "link": "https://www.aljazeera.com/news/2026/10/17/ilhan-omars-lawyers-demand-the-return-of-property-seized-in-house-raid?traffic_source=rss",
-        "published": "2026-10-17T15:20:27Z",
-        "description": "Omar’s legal team says the search violated safeguards designed to protect constitutional rights of members of Congress."
+        "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
+        "link": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss",
+        "published": "2026-10-17T17:24:07Z",
+        "description": "Republicans and Democrats condemn Trump’s decision to suspend sanctions, saying it undermines support for Ukraine."
       }
     ],
     "ft": [
@@ -499,12 +499,6 @@
         "description": "US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel"
       },
       {
-        "title": "Trump’s press secretary Katie Zacharia fired after five days",
-        "link": "https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1",
-        "published": "2026-10-17T01:29:51Z",
-        "description": "Exit comes amid deepening turmoil for White House as midterm elections loom"
-      },
-      {
         "title": "Are we sleepwalking into World War III?",
         "link": "https://www.ft.com/content/3a56575e-ecfb-4fa9-af70-01aebd869729?syn-25a6b1a6=1",
         "published": "2026-10-17T04:00:11Z",
@@ -517,10 +511,10 @@
         "description": "The tribalism of football fans parallels modern politics like nothing else"
       },
       {
-        "title": "The dress rehearsal for an AI reckoning",
-        "link": "https://www.ft.com/content/3f982af9-3eec-476f-9d29-39145ac485c4?syn-25a6b1a6=1",
+        "title": "Why have screens replaced socialising?",
+        "link": "https://www.ft.com/content/989c757d-29ba-46fd-82de-427b810a8649?syn-25a6b1a6=1",
         "published": "2026-10-17T04:00:21Z",
-        "description": "Ructions point to what a true bursting of the bubble might do to financial markets"
+        "description": "The economics of why we increasingly avoid the company of both other humans and books"
       },
       {
         "title": "Anthropic offers Blackstone double-digit yield in latest chip financing",
@@ -529,10 +523,16 @@
         "description": "High borrowing costs complicate AI lab’s goal of achieving investment-grade status"
       },
       {
-        "title": "Apple blames ‘extraordinary’ demand as foldable iPhones sell out",
-        "link": "https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f?syn-25a6b1a6=1",
-        "published": "2026-10-16T21:03:42Z",
-        "description": "Deliveries of the $2,000 Duo slip to 2027 within hours of going on sale"
+        "title": "The dress rehearsal for an AI reckoning",
+        "link": "https://www.ft.com/content/3f982af9-3eec-476f-9d29-39145ac485c4?syn-25a6b1a6=1",
+        "published": "2026-10-17T04:00:21Z",
+        "description": "Ructions point to what a true bursting of the bubble might do to financial markets"
+      },
+      {
+        "title": "‘Inflation will make people poor’: Airlines brace for years of pain",
+        "link": "https://www.ft.com/content/993940f2-c9a3-4e20-8c0a-f73d448f090d?syn-25a6b1a6=1",
+        "published": "2026-10-17T04:00:11Z",
+        "description": "Carriers fear customers may be unwilling to stomach more price rises if energy costs stoke further inflation"
       }
     ],
     "restofworld": [
@@ -641,6 +641,12 @@
     "chelsea": [],
     "chelsea_bbc": [
       {
+        "title": "Neto scores twice as Chelsea win at Everton",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cq146nz03k16o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-17T19:00:03Z",
+        "description": "Pedro Neto scores twice for Chelsea as they beat Everton 2-0 at the Hill Dickinson Stadium, in a game overshadowed by a nasty head injury to Emiliano Martinez."
+      },
+      {
         "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
         "link": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss",
         "published": "2026-10-17T16:02:31Z",
@@ -681,39 +687,33 @@
         "link": "https://www.bbc.co.uk/sport/football/videos/c6ly3k31853po?at_medium=RSS&at_campaign=rss",
         "published": "2026-10-10T20:22:18Z",
         "description": "Chelsea fan Savage Dan gives praise for Jordan Henderson."
-      },
-      {
-        "title": "Palmer signs new Chelsea contract until 2034",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cwe9lngxzjpno?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-10T09:51:09Z",
-        "description": "Cole Palmer signs a new Chelsea contract on improved terms until 2034, one of the longest active deals in the Premier League."
       }
     ],
     "chelsea_sky": [],
     "guardianfootball": [
       {
-        "title": "Newcastle v Aston Villa: Premier League – live",
-        "link": "https://www.theguardian.com/football/live/2026/oct/17/newcastle-v-aston-villa-premier-league-live",
-        "published": "2026-10-17T17:19:40Z",
-        "description": "⚽ Premier League updates from the 5.30pm BST kick-off ⚽ Live scores | Tables | Top scorers | Follow us on Bluesky A reminder of the teams It looks like Joe Willock will play on the right wing for Newcastle, with Joelinton in midfield alongside Nico Gonzalez. Newcastle (4-2-3-1) Hornicek; Miley, Thiaw, Botman, Hall; Gonzalez, Joelinton; Willock, Wissa, Barnes; Fernandez-Pardo. Continue reading..."
+        "title": "Manzambi maintains Aston Villa progress with win to seal dismal week for Newcastle",
+        "link": "https://www.theguardian.com/football/2026/oct/17/newcastle-aston-villa-premier-league-match-report",
+        "published": "2026-10-17T18:38:58Z",
+        "description": "There is a reason why Aston Villa were so desperate to hijack Johan Manzambi’s proposed move from Freiburg to Newcastle this summer, which appeared nailed on. The tall, quick, tricky, clever and perfectly balanced 21-year-old Switzerland attacking midfielder looked worth every penny of the record £50m plus fee Villa ended up paying for him and duly delighted in showing Tynesiders what they missed. For Newcastle and their disconsolate manager, Matthias Jaissle, there was a cruel irony that Manzambi ended up heading the winner on a day when the Premier League’s CEO, Richard Masters, was in the directors’ box to watch arguably the two teams most affected by the spending rules imposed during…"
       },
       {
         "title": "Haaland helps Maresca achieve record start as Manchester City defeat Ipswich",
         "link": "https://www.theguardian.com/football/2026/oct/17/manchester-city-ipswich-premier-league-match-report",
         "published": "2026-10-17T16:08:40Z",
-        "description": "There have been few winners in Manchester City’s guilty verdict, except highly paid lawyers and the inflatable fruit industry. The fans have suffered, being forced to question everything they have been told, while being labelled “cheats” but they were able to forget the cacophony of noise around the club as Enzo Maresca became the first manager to win his first seven games in charge of a team. Ipswich were the latest victims, but they put up a fight in City’s first home Premier League game since being found to have breached financial rules . Defiance has fortified most of the City fanbase, who were able to see local boy Phil Foden instigate the triumph with a kiss of the badge, before an…"
+        "description": "There have been few winners in Manchester City’s guilty verdict, except highly paid lawyers and the inflatable fruit industry. The fans have suffered, being forced to question everything they have been told, while being labelled “cheats”, but they were able to forget the cacophony of noise around the club as Enzo Maresca became the first manager to win his first seven games in charge of a team. Ipswich were the latest victims, but they put up a fight in City’s first home Premier League game since being found to have breached financial rules . Defiance has fortified most of the City fanbase, who were able to see local boy Phil Foden instigate the triumph with a kiss of the badge, before an…"
       },
       {
         "title": "Isak completes Liverpool’s comeback win as Brentford finish with nine",
         "link": "https://www.theguardian.com/football/2026/oct/17/brentford-liverpool-premier-league-match-report",
         "published": "2026-10-17T16:21:40Z",
-        "description": "If this truly was the turning point for Liverpool’s spluttering forwards then they will owe a big debt of gratitude to Yehor Yarmolyuk. Brentford were 1-0 up when their midfielder saw red for a butt on Jérémy Jacquet just before half-time. While Andoni Iraola will hope surviving one of the toughest tests the Premier League has to offer is a sign his methods are starting to take hold, the Spaniard will know it was very different contest once his side had a numerical advantage to exploit. Continue reading..."
+        "description": "If Liverpool’s spluttering forwards end up remembering this as the day when their luck turned then they will owe a big debt of gratitude to Yehor Yarmolyuk. This was a game with a very clear before and after. Andoni Iraola will hope surviving one of the toughest tests the Premier League has to offer is a sign his methods are starting to work, but Liverpool’s manager will not forget it was a very different contest after Yarmolyuk’s red card for a butt on Jérémy Jacquet left Brentford trying to defend a 1-0 lead with 10 men for the entire second half. Continue reading..."
       },
       {
         "title": "Pressure on Arbeloa lifted after Alex Iwobi sinks Hull for Fulham’s first win",
         "link": "https://www.theguardian.com/football/2026/oct/17/fulham-hull-premier-league-match-report",
         "published": "2026-10-17T16:08:39Z",
-        "description": "After such a dominant performance against a team so blunt going forward, it almost felt inevitable that Álvaro Arbeloa was going to be denied his first Premier League win as Fulham head coach in similar fashion as the weeks and games before. After all their chances and possession, Craven Cottage should not have been a place of nerves when Mohamed Belloumi lined up a free-kick as three minutes of stoppage time were shown. When the Hull winger blazed that free-kick over the bar – the closest Hull had come to scoring throughout the second half – the tension was released that little bit more. Despite Ryan Sessegnon’s late red card, the full-time whistle brought a first victory of the season,…"
+        "description": "It was not until his post-match lap of the pitch that Álvaro Arbeloa allowed himself a smile. After an uncomfortable week when his future was being called into question , the former Real Madrid manager has a Premier League win under his belt at the seventh attempt, lifting his side off the foot of the table. But it is not a win without caveats. Alex Iwobi’s goal in the first half should have been one of many, with the Nigeria winger among those guilty of missing gilt-edge chances. Gonzalo García, who has not scored in the league since the opening weekend of the season, headed against the crossbar from close range in the second half. Continue reading..."
       },
       {
         "title": "Boos for Arsenal as draw with Birmingham extends winless WSL run",
@@ -737,7 +737,7 @@
         "title": "Championship roundup: West Ham go second; Norwich beaten again",
         "link": "https://www.theguardian.com/football/2026/oct/17/championship-roundup-middlesbrough-watford-millwall-swansea-west-ham",
         "published": "2026-10-17T16:29:23Z",
-        "description": "Mukasa’s first-half goal enough to beat leaders Swansea Canaries suffer sixth straight loss; Watford beat Charlton West Ham ended Swansea’s four-match winning streak with a 1-0 away victory that reduced the gap at the top of the Championship to a single point. Divine Mukasa’s calm first-half finish proved the difference, with the result putting the Hammers second, within a point of Swansea, who lost at home for the first time since April. Swansea had made their best start since 1923 by winning seven and drawing two of their opening 10 games. Continue reading..."
+        "description": "Mukasa’s first-half goal enough to beat leaders Swansea Canaries suffer sixth straight loss; Watford beat Charlton Nuno Espírito Santo was delighted West Ham finished a “demanding week” by toppling Championship leaders Swansea . Divine Mukasa’s first-half strike in front of a record Swansea.com Stadium crowd of 20,973 gave the Hammers a 1-0 win and took them into second place and within a point of the league leaders. It was the Hammers’ second success in four days after a 6-0 romp at Lincoln , and ended a week that began with a 1-1 home draw against QPR following Jarrod Bowen’s last-gasp penalty miss. Continue reading..."
       }
     ],
     "spielverlagerung": [
@@ -1450,6 +1450,12 @@
     "nyrb": [],
     "lrb": [
       {
+        "title": "Dédiabolisation",
+        "link": "https://www.lrb.co.uk/blog/2026/october/dediabolisation",
+        "published": "2026-10-15T16:37:22Z",
+        "description": "Jordan Bardella was supposed to be a different kind of far-right French politician: young, technically savvy, a long way from the poisonous..."
+      },
+      {
         "title": "Bolsonaro Redux?",
         "link": "https://www.lrb.co.uk/blog/2026/october/bolsonaro-redux",
         "published": "2026-10-13T17:48:50Z",
@@ -1472,12 +1478,6 @@
         "link": "https://www.lrb.co.uk/blog/2026/october/wok-diplomacy",
         "published": "2026-10-06T16:20:49Z",
         "description": "The biggest movie at the Chinese box office this August – grossing nearly three times as much as The Odyssey, released the same week – was Once..."
-      },
-      {
-        "title": "Collective Harm",
-        "link": "https://www.lrb.co.uk/blog/2026/october/collective-harm",
-        "published": "2026-10-05T14:27:28Z",
-        "description": "The Israeli military claims that each individual strike in Gaza is justified but ignores their collective consequences. A reason is given for each..."
       }
     ],
     "larb": [],
