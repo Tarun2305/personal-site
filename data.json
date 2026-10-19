@@ -387,10 +387,16 @@
     "reuters": [],
     "bbc": [
       {
-        "title": "Watch: Are the French riots a warning of an intense election to come?",
-        "link": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-19T13:43:27Z",
-        "description": "Rioting, looting and vandalism has gripped France over the weekend after protests spiralled out of control across the country."
+        "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+        "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-19T21:14:53Z",
+        "description": "It comes after the country's interior minister admits that police \"lost control\" in some cities."
+      },
+      {
+        "title": "Watch: Clean up begins after French riots but police remain",
+        "link": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-19T21:30:08Z",
+        "description": "Outside of Paris, Marseille saw some of the worst damage, with shop owners reporting more than 600 premises having been looted."
       },
       {
         "title": "Australian MP critically injured after being hit by car in apparent attack",
@@ -399,90 +405,84 @@
         "description": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack."
       },
       {
+        "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-19T20:49:00Z",
+        "description": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing."
+      },
+      {
+        "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+        "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-19T21:30:06Z",
+        "description": "Penalties are seen as too harsh on motorists who are penalised for parking on private land."
+      },
+      {
         "title": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
         "link": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-19T13:01:50Z",
+        "published": "2026-10-19T18:22:06Z",
         "description": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault."
+      },
+      {
+        "title": "Mission blasts off for Mars to grab a piece of its moon",
+        "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-19T19:45:46Z",
+        "description": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth."
       },
       {
         "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
         "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-19T15:51:20Z",
+        "published": "2026-10-19T17:18:04Z",
         "description": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children."
-      },
-      {
-        "title": "Uefa gives Infantino two-week deadline to release key documents",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cq398rkpjljlo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-19T15:40:21Z",
-        "description": "European governing body Uefa tells Fifa it must release key documents related to its governance and decision-making by 2 November."
-      },
-      {
-        "title": "Born in jail to a mum with a heroin addiction - how US teenager Abby has been affected by drugs",
-        "link": "https://www.bbc.co.uk/news/videos/cmlyljlzw487o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-19T12:12:02Z",
-        "description": "The BBC's Quentin Sommerville spoke to the daughter of a former heroin addict about the effect drugs have had on her family."
-      },
-      {
-        "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
-        "link": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-19T09:11:42Z",
-        "description": "Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance."
-      },
-      {
-        "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
-        "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-19T00:06:25Z",
-        "description": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war."
       }
     ],
     "aljazeera": [
       {
-        "title": "Kenyan court convicts starvation cult leader for murder of 191 people",
-        "link": "https://www.aljazeera.com/news/2026/10/19/kenyan-court-convicts-starvation-cult-leader-for-murder-of-191-people?traffic_source=rss",
-        "published": "2026-10-19T15:34:22Z",
-        "description": "This is a breaking news story."
+        "title": "160 reported killed in escalating drone attacks across Sudan",
+        "link": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss",
+        "published": "2026-10-19T21:38:46Z",
+        "description": "Rights groups warn increasing attacks by unmanned aircraft are targeting civilians and infrastructure."
       },
       {
-        "title": "How has the cost of living changed in France, Italy, Spain and Portugal?",
-        "link": "https://www.aljazeera.com/news/2026/10/19/how-has-the-cost-of-living-changed-in-france-italy-spain-and-portugal?traffic_source=rss",
-        "published": "2026-10-19T15:19:04Z",
-        "description": "Protesters across Europe have hit the streets amid anger over the cost of living."
+        "title": "Could your halal pension be funding Israel’s military?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss",
+        "published": "2026-10-19T21:28:02Z",
+        "description": "HSBC’s ‘sharia-compliant’ fund invested over $100 million in companies linked to Israel’s military."
       },
       {
-        "title": "Decision on Senegal’s AFCON final appeal to be made by end of November",
-        "link": "https://www.aljazeera.com/sports/2026/10/19/decision-on-senegals-afcon-final-appeal-to-be-made-by-end-of-november?traffic_source=rss",
-        "published": "2026-10-19T15:15:27Z",
-        "description": "The Court of Arbitration for Sport will announce its verdict on the title, which was awarded to Morocco by CAF."
+        "title": "Israeli police say they arrested 10 in connection with settler attacks",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/israeli-police-say-they-arrested-10-in-connection-with-settler-attacks?traffic_source=rss",
+        "published": "2026-10-19T21:00:03Z",
+        "description": "Israeli police released a video they say shows the arrest of 10 suspects over weekend settler violence."
       },
       {
-        "title": "Russia’s Lavrov discusses US war and regional security in Tehran visit",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/russias-lavrov-discusses-us-war-and-regional-security-in-tehran-visit?traffic_source=rss",
-        "published": "2026-10-19T15:15:02Z",
-        "description": "Russia’s FM Sergey Lavrov is in Tehran for his first visit since the outbreak of the US-Israeli war on Iran."
+        "title": "Trump approval hits record-low 31 percent, polls show Republican struggles",
+        "link": "https://www.aljazeera.com/news/2026/10/19/trump-approval-hits-record-low-31-percent-polls-show-republican-struggles?traffic_source=rss",
+        "published": "2026-10-19T20:59:05Z",
+        "description": "Reuters/Ipsos poll shows Democrats leading by 12 points in generic US congressional ballot surveys against Republicans."
       },
       {
-        "title": "Man City’s Semenyo out for up to eight weeks due to knee injury",
-        "link": "https://www.aljazeera.com/sports/2026/10/19/man-citys-semenyo-out-for-up-to-eight-weeks-due-to-knee-injury?traffic_source=rss",
-        "published": "2026-10-19T15:07:19Z",
-        "description": "City coach confirmed Semenyo's injury but said Haaland would be available for the Champions League match on Tuesday."
+        "title": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss",
+        "published": "2026-10-19T20:49:39Z",
+        "description": "The Ukrainian army says it has carried out the world’s first drone evacuation of a wounded soldier from the front line."
       },
       {
-        "title": "Famine fears as aid cuts and shipment restrictions coincide in Gaza",
-        "link": "https://www.aljazeera.com/news/2026/10/19/famine-fears-as-aid-cuts-and-shipment-restrictions-coincide-in-gaza?traffic_source=rss",
-        "published": "2026-10-19T15:05:16Z",
-        "description": "Displaced families in Gaza fear worsening food insecurity as planned aid cuts coincide with continued restrictions."
+        "title": "Kenya convicts cult leader over the murder of 190 children",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/kenya-convicts-cult-leader-over-the-murder-of-190-children?traffic_source=rss",
+        "published": "2026-10-19T20:31:21Z",
+        "description": "The leader of a Kenyan cult who instructed followers to starve themselves to death to reach heaven has been found guilty"
       },
       {
-        "title": "Who is cult head Paul Mackenzie, convicted of convincing followers to die?",
-        "link": "https://www.aljazeera.com/news/2026/10/19/who-is-cult-leader-paul-mackenzie-accused-of-convincing-followers-to-die?traffic_source=rss",
-        "published": "2026-10-19T14:54:24Z",
-        "description": "A Kenyan court has handed down the first judgement in the 'doomsday' cult case."
+        "title": "Trump signs order launching women’s health division at NIH, White House",
+        "link": "https://www.aljazeera.com/news/2026/10/19/trump-signs-order-launching-womens-health-division-at-nih-white-house?traffic_source=rss",
+        "published": "2026-10-19T20:29:46Z",
+        "description": "First Lady Melania Trump has championed the executive action as a 'transformative moment' for US women's health."
       },
       {
-        "title": "Albania’s protests explained",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_albanias-protests-explained-191026?traffic_source=rss",
-        "published": "2026-10-19T14:46:53Z",
-        "description": "Protesters in Albania say demonstrations will intensify as Prime Minister Edi Rama rejects calls to resign."
+        "title": "Finland seeking one million land mines as it eyes Russian threat",
+        "link": "https://www.aljazeera.com/news/2026/10/19/finland-seeking-one-million-land-mines-as-it-eyes-russian-threat?traffic_source=rss",
+        "published": "2026-10-19T19:57:10Z",
+        "description": "Helsinki recently joined regional peers in withdrawing from UN Charter banning munitions as it eyes its eastern border."
       }
     ],
     "ft": [
@@ -499,10 +499,16 @@
         "description": "China has restricted exports of critical mineral used in armour-piercing munitions"
       },
       {
-        "title": "Americans are unhappy. How will they vote in the midterms?",
+        "title": "‘I suffer with my wallet’: American voters weigh in on the midterms",
         "link": "https://www.ft.com/content/d375cde1-ec37-4c5e-87ab-a3a655e879d8?syn-25a6b1a6=1",
         "published": "2026-10-19T04:00:06Z",
-        "description": "The FT’s focus group in the Pennsylvania battleground of Bethlehem revealed anxiety about the country ahead of the US midterm elections"
+        "description": "The FT’s focus group in the Pennsylvania battleground of Bethlehem revealed anxiety about the country ahead of November’s elections"
+      },
+      {
+        "title": "France’s riots expose the impotence of its political class",
+        "link": "https://www.ft.com/content/388569e9-3936-4359-8856-48b006587fb7?syn-25a6b1a6=1",
+        "published": "2026-10-19T17:07:43Z",
+        "description": "Shocking violence highlights deepening social division, fiscal constraints and a crisis of leadership"
       },
       {
         "title": "Zelenskyy, Europe and the end of Trump whispering",
@@ -511,22 +517,16 @@
         "description": "This new crisis looks different and the bloc’s leaders are preparing to talk directly to Putin"
       },
       {
-        "title": "Hollywood recasts tech tycoons as bad billionaires",
-        "link": "https://www.ft.com/content/5483aa1b-7380-45d6-be0f-1a4b2098c903?syn-25a6b1a6=1",
-        "published": "2026-10-19T04:00:15Z",
-        "description": "This new twist may portend a backlash against wealth creation in America"
-      },
-      {
         "title": "Saudi Arabia to postpone ‘Davos in the desert’ after Houthi attacks",
         "link": "https://www.ft.com/content/75a2ee4e-ead9-4d37-b1ea-6fd759c4691d?syn-25a6b1a6=1",
         "published": "2026-10-19T15:40:33Z",
         "description": "Flagship Future Investment Initiative was scheduled to begin next week in Riyadh but will now take place next year"
       },
       {
-        "title": "Macron rejects interior minister’s resignation after French riots",
+        "title": "French bond sell-off intensifies after riots and looting",
         "link": "https://www.ft.com/content/cc7e577a-db7a-4e12-9a42-443696b98ec5?syn-25a6b1a6=1",
-        "published": "2026-10-19T11:29:41Z",
-        "description": "Political recriminations fly and bonds fall as authorities admit that police botched oversight of protests"
+        "published": "2026-10-19T18:31:54Z",
+        "description": "Authorities introduce curfews and admit police botched oversight of protests"
       },
       {
         "title": "Violent protests multiply across Europe",
@@ -587,6 +587,12 @@
     ],
     "propublica": [
       {
+        "title": "Citing ProPublica, Lawmakers Introduce Bill to Help U.S. Citizens Sue ICE for Wrongful Detentions",
+        "link": "https://www.propublica.org/article/american-citizens-wrongfully-detained-ice-bill",
+        "published": "2026-10-19T20:15:00Z",
+        "description": ""
+      },
+      {
         "title": "He Tried to Set Limits on His State’s School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him.",
         "link": "https://www.propublica.org/article/west-virginia-school-choice-billionaires-vernon-criss",
         "published": "2026-10-19T10:00:00Z",
@@ -599,7 +605,7 @@
         "description": ""
       },
       {
-        "title": "This Cybersecurity Agency Is Supposed to Protect U.S. Elections. Officials Fear It’s Been Compromised by Trump.",
+        "title": "Trump Appointees Asked a Federal Cybersecurity Agency to Secretly Acquire a Voting Machine — and Hack It",
         "link": "https://www.propublica.org/article/cisa-election-security-donald-trump",
         "published": "2026-10-19T09:00:00Z",
         "description": ""
@@ -626,12 +632,6 @@
         "title": "Estas mujeres intentaban escaparse del abuso doméstico. Sin embargo, ICE las detuvo.",
         "link": "https://www.propublica.org/article/violencia-domestica-inmigrante-victimas-ice-detencion",
         "published": "2026-10-14T22:00:00Z",
-        "description": ""
-      },
-      {
-        "title": "These Women Were Trying to Escape Domestic Abuse. ICE Detained Them Instead.",
-        "link": "https://www.propublica.org/article/domestic-violence-immigrant-victims-ice-detention",
-        "published": "2026-10-14T11:42:43Z",
         "description": ""
       }
     ],
@@ -692,52 +692,52 @@
     "chelsea_sky": [],
     "guardianfootball": [
       {
+        "title": "Davies ensures Spurs off the bottom after first win of season against Coventry",
+        "link": "https://www.theguardian.com/football/2026/oct/19/tottenham-coventry-premier-league-match-report",
+        "published": "2026-10-19T21:05:46Z",
+        "description": "Tottenham are level with Beyoncé at last. Progress is represented in Roberto De Zerbi’s side earning only their sixth home win in the Premier League since November 2024. Cynics will point out that this spectacular stadium has hosted as many Beyoncé gigs during that time, but Spurs are finally singing a happier tune after dragging themselves out of the bottom three thanks to a messy but gritty 3-1 win over Coventry. It was not especially convincing. Coventry raged at the second Spurs goal, delivered when Omar Marmoush responded to Jack Rudoni’s equaliser for the visitors with a vicious effort in the 59th minute. Relief poured out of Marmoush after his first goal since joining on loan from…"
+      },
+      {
         "title": "Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson",
         "link": "https://www.theguardian.com/football/2026/oct/19/brighton-premier-league-start",
         "published": "2026-10-19T14:51:11Z",
         "description": "Diego Gómez’s wondergoal in a five-star demolition is just the latest in an impressive run of results for the south coast team Sign up for our free newsletter here For two or three years now, it’s been standard to nod approvingly at how well-run Brighton, Brentford and Bournemouth are, and to move on. What else is there to say? It’s true, of course – these are sides who have made the most of relatively limited resources. But there’s also an underlying assumption in the designation: that these are clubs who have no higher aspiration, that their limit is earning praise for upper mid-table finishes. This season, perhaps, offers an opportunity to change that. Other than Arsenal, every major…"
       },
       {
-        "title": "Football Daily | Diego Gómez’s undisputed headline act proves fans still just love a very big kick",
-        "link": "https://www.theguardian.com/football/2026/oct/19/diego-gomezs-undisputed-headline-act-proves-fans-still-just-love-a-very-big-kick",
-        "published": "2026-10-19T14:56:28Z",
-        "description": "Sign up now! Sign up now! Sign up now? Sign up now! In an age of counter-pressing, progressive carries and PPDA (passes per defensive action, apparently), it is heartening to know that we are – just like our childhood selves in the playground looking up in wonder at those in the year above – still absolutely entranced by people that can kick a football really, really far. In response to Mike Turney’s question about bands being present in a game ( Friday’s Football Daily letters ), and at the risk of revealing my advanced age, how about Peters and Lee in England’s 1970 World Cup squad? Though Martin and Franny probably weren’t welcomed home after being knocked out by West Germany in the…"
-      },
-      {
         "title": "Crystal Palace to give Sage more time but manager under serious scrutiny",
         "link": "https://www.theguardian.com/football/2026/oct/19/crystal-palace-pierre-sage-future-steve-parish-brighton-loss",
         "published": "2026-10-19T15:00:18Z",
-        "description": "Frenchman under pressure after Brighton thrashing McKenna and Frank among potential replacements Pierre Sage has been granted more time to fix Crystal Palace’s defensive issues but warned things must improve quickly after Sunday’s humiliating 5-0 defeat at Brighton . The Frenchman’s future was in serious doubt after his side conceded three times inside the opening 10 minutes before equalling the 70-year-old record for the club’s heaviest loss against their arch-rivals. The thrashing means Palace have conceded the most goals in the Premier League: 17 from seven matches. Continue reading..."
+        "description": "Frenchman under pressure after Brighton thrashing McKenna and Frank among potential replacements Pierre Sage has been granted more time to fix Crystal Palace’s defensive issues but he has been warned that things must improve quickly after the 5-0 defeat at Brighton on Sunday. The Frenchman’s future was in serious doubt after his side conceded three times inside the opening 10 minutes before equalling the 70‑year record for the club’s heaviest defeat against their arch-rivals. The thrashing means Palace have conceded the most goals in the Premier League: 17 from seven games. Continue reading..."
       },
       {
-        "title": "Bayern and Luis Díaz warm up for Arsenal revenge mission with furious rout of Leipzig | Andy Brassell",
-        "link": "https://www.theguardian.com/football/2026/oct/19/bayern-munich-luis-diaz-arsenal-revenge-mission-leipzig-bundesliga",
-        "published": "2026-10-19T11:49:33Z",
-        "description": "Bruised Bundesliga champions hit a supposed rival for six and their flying winger is peaking at a perfect moment When Bayern Munich fail to win for two games in a row, you know what is coming next. Particularly on a Saturday night showcase, against the sort of good domestic opposition that tend to bring the best out of the champions. It had been a frustrating week, domestically and continentally, in two games on the road. On both occasions they had been caught cold, conceding the Bundesliga’s fastest goal at Augsburg and going 1-0 down in less than 90 seconds in Stavanger . Vincent Kompany’s low profile on the Allianz Arena touchline, almost motionless in his seat as his team rattled a…"
+        "title": "Uefa demands Fifa releases documents relating to World Cup sell-off scheme",
+        "link": "https://www.theguardian.com/football/2026/oct/19/uefa-demands-fifa-releases-documents-relating-to-world-cup-sell-off-scheme",
+        "published": "2026-10-19T18:52:05Z",
+        "description": "European governing body gives two-week deadline Letter addresses other issues including Balogun affair Uefa has given Fifa a two-week deadline to release key documents relating to Gianni Infantino’s World Cup sell-off plan and other governance issues in its latest critique of football’s world governing body . A letter sent to Fifa’s general secretary, Mattias Grafström, by his counterpart at Uefa, Theodore Theodoridis, is accompanied by an eight-page document that has more than 50 questions about Fifa’s handling of dozens of issues over the past 12 months. These include the proposed sale of 20% of its commercial rights, the Folarin Balogun affair , the peace prize and relations with Donald…"
       },
       {
-        "title": "Sarina Wiegman signs contract extension to stay as England women head coach until 2029",
-        "link": "https://www.theguardian.com/football/2026/oct/19/sarina-wiegman-signs-contract-extension-england-women-euro-2029",
-        "published": "2026-10-19T10:00:04Z",
-        "description": "Wiegman says she ‘cannot think of a better job in football’ She can target three Euros wins in a row with Lionesses Sarina Wiegman has extended her contract to continue as the head coach of England women for Euro 2029. Her deal was due to expire after next summer’s World Cup and this gives her the chance to lead the Lionesses to three European championship titles in a row. Wiegman, who took on the role in September 2021 , also led her native Netherlands to Euros glory in 2017 and has reached the final of the past five major tournaments, twice finishing as a World Cup runner-up. Continue reading..."
+        "title": "Cristiano Ronaldo receives 30-day suspension and £215 fine over Portugal walkout",
+        "link": "https://www.theguardian.com/football/2026/oct/19/cristiano-ronaldo-30-day-suspension-and-215-fine-portugal-walkout",
+        "published": "2026-10-19T20:34:05Z",
+        "description": "Disciplinary council upholds charge against 41-year-old Fifa suspends Egypt’s Hossam Hassan and Mostafa Ziko Cristiano Ronaldo has been suspended for 30 days by the Portuguese ⁠FA after leaving the national team camp following a rift with the coach, ⁠Jorge Jesus, over ⁠his role in the side. The federation’s disciplinary council said it had upheld the charge against ⁠the 41-year-old forward in full and imposed a fine of €255 (£215). Ronaldo left Portugal’s base in ⁠Copenhagen before their Nations League match against Denmark earlier this month, having accused ‌Jesus of twice ‌breaking his word about his role after he was an ‌unused substitute against Norway. Jesus denied making any…"
       },
       {
-        "title": "‘Leaving England is scary but I’m here to win’: Charlie Cresswell on Ligue 1 life and his international dream",
-        "link": "https://www.theguardian.com/football/2026/oct/19/england-charlie-cresswell-ligue-1-england-france-leeds-juventus-europa-league",
-        "published": "2026-10-19T14:30:55Z",
-        "description": "The centre-back could not see a way forward at Leeds so moved to France. Now he’s preparing for the biggest game of his life against Juventus By Get French Football News “Leaving England is such a scary, scary decision,” says Charlie Cresswell. It is a decision that he never thought he would make. His father Richard made a career as a journeyman footballer in England; his brother Alfie was coming through Leeds’ academy; Charlie was already on the fringes of the Yorkshire club’s first team when the opportunity to join Toulouse arose in 2024. “That was the biggest decision I made in football,” he says. “I’ve been a Leeds fan since I was eight. I’d been at the club since I was 10 but, looking…"
+        "title": "Will that do? Lamine Yamal conjures another magical spell as Barça pass first test | Sid Lowe",
+        "link": "https://www.theguardian.com/football/2026/oct/19/lamine-yamal-wonder-goal-barcelona-real-betis-la-liga",
+        "published": "2026-10-19T17:29:16Z",
+        "description": "The 19-year-old scored a cracker in Seville, days after his ‘almost rabona’ at Galatasaray, as La Liga leaders beat Real Betis When at last it was time for Lamine Yamal to leave, the 19-year-old’s number going up before the 90th minute for only the second time since the opening day, Real Betis fans whistled him all the way to the touchline where Barcelona’s coach was waiting. His work here done, Hansi Flick invited him to take the weight off his feet and his shoulders, not that he wanted to. First, though, he took Lamine Yamal’s head in his hands and, leaning in away from the amateur lip readers, tried to make himself heard over the noise. “I told him I was proud of him because he played a…"
+      },
+      {
+        "title": "Semenyo’s eight-week injury absence leaves Manchester City short on cover for Haaland",
+        "link": "https://www.theguardian.com/football/2026/oct/19/antoine-semenyo-eight-week-knee-injury-absence-manchester-city-short-cover-erling-haaland",
+        "published": "2026-10-19T13:03:00Z",
+        "description": "Ghana forward sustained knee injury against Ipswich Maresca to ring changes against AEK Athens on Tuesday Antoine Semenyo has been ruled out for eight weeks with a knee injury, leaving Enzo Maresca short of alternatives to Erling Haaland, who is a doubt for Manchester City’s Champions League game at home against AEK Athens on Tuesday. Semenyo limped off against Ipswich on Saturday and Haaland hobbled off at full time with a foot injury. City are eager to get their European campaign back on track after losing against Paris Saint-Germain last Wednesday. Maresca has said he will make changes and has admitted previously that Haaland will require resting at some point. Semenyo would have been…"
       },
       {
         "title": "Konsa bullish about Arsenal’s Champions League hopes as Bayern clash looms",
         "link": "https://www.theguardian.com/football/2026/oct/19/ezri-konsa-arsenal-champions-league-bayern-munich",
         "published": "2026-10-19T14:00:59Z",
         "description": "Centre-back has settled right in at Arsenal and is looking ‘to win everything’, starting with Wednesday’s duel against Harry Kane For Ezri Konsa, it was just a wonderfully satisfying challenge. The Nottingham Forest striker Liam Delap had stolen in behind him up the inside left channel on Sunday. There were 93 minutes gone, Arsenal were 1-0 up and it was now or never for Forest. Konsa decreed that it would be never, curving his covering run back, matching Delap for pace and stretching into the perfect block tackle. So, another win for Arsenal : their 10th in 11 matches this season. Another clean sheet. And for Konsa, a continuation of what has been a dreamlike couple of months. Do…"
-      },
-      {
-        "title": "Semenyo’s eight-week injury absence leaves Manchester City short on cover for Haaland",
-        "link": "https://www.theguardian.com/football/2026/oct/19/antoine-semenyo-eight-week-knee-injury-absence-manchester-city-short-cover-erling-haaland",
-        "published": "2026-10-19T13:03:00Z",
-        "description": "Ghana forward suffered knee injury against Ipswich Maresca to ring changes against AEK Athens on Tuesday Antoine Semenyo has been ruled out for eight weeks with a knee injury, leaving Enzo Maresca short of alternatives to Erling Haaland, who is a doubt for Manchester City’s Champions League game at home to AEK Athens on Tuesday. Semenyo limped off against Ipswich on Saturday and Haaland hobbled off at full time with a foot injury. City are eager to get their European campaign back on track after losing to Paris Saint-Germain last Wednesday. Maresca has said he will make changes and has previously admitted Haaland will require resting at some point. Semenyo would have been the most obvious…"
       }
     ],
     "spielverlagerung": [
@@ -842,6 +842,42 @@
     ],
     "wagnh": [
       {
+        "title": "The Daily Hilario: Monday",
+        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/173237/the-daily-hilario-october-19th",
+        "published": "2026-10-19T07:05:34Z",
+        "description": "Biggest Hmm Crazy"
+      },
+      {
+        "title": "Chelsea FCW 6-2 Tottenham Hotspur FCW, Women’s Super League: Post-match reaction",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/173226/chelsea-fcw-6-2-tottenham-hotspur-fcw-womens-super-league-post-match-reaction",
+        "published": "2026-10-18T12:53:13Z",
+        "description": "A rather bright day graced the fans at Stamford Bridge for a London derby between Chelsea Women and Tottenham in the Women’s Super League. The Spurs had done very well in the league up until facing London City Lionesses, with the up-and-coming team brushing them aside with a 6-1 scoreline at Brisbane Road. Chelsea haven’t […]"
+      },
+      {
+        "title": "Chelsea FCW vs. Tottenham Hotspur FCW, Women’s Super League: Confirmed lineups; how to watch",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/173217/chelsea-fcw-vs-tottenham-hotspur-fcw-womens-super-league-confirmed-lineups-how-to-watch",
+        "published": "2026-10-18T10:11:19Z",
+        "description": "If Chelsea Women are to fight for the league title this season, they need to keep up with a very competent Manchester City team more than keen on retaining the trophy for a second consecutive season. They have been perfect in the Women’s Super League so far while the Blues already slipped twice. Beyond this […]"
+      },
+      {
+        "title": "Chelsea FCW vs. Tottenham Hotspur FCW, Women’s Super League: Preview, team news, how to watch",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/173198/chelsea-fcw-vs-tottenham-hotspur-fcw-womens-super-league-preview-team-news-how-to-watch",
+        "published": "2026-10-18T07:10:09Z",
+        "description": "The international break is over, and Chelsea Women are back in action with a London derby against Tottenham at Stamford Bridge. We enter this weekend unbeaten in the Women’s Super League, but still two points behind Manchester City and their perfect start to the season. Beating Spurs is the least we can do to keep […]"
+      },
+      {
+        "title": "The Daily Hilario: Sunday",
+        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/173178/the-daily-hilario-october-18th",
+        "published": "2026-10-18T06:48:24Z",
+        "description": "Oof Most Hmm"
+      },
+      {
+        "title": "Emiliano Martínez set to miss 6-7 weeks after surgery on fractured jaw — report",
+        "link": "https://weaintgotnohistory.sbnation.com/injury-news/173182/emiliano-martinez-set-to-miss-6-7-weeks-after-surgery-on-fractured-jaw-report",
+        "published": "2026-10-18T04:24:32Z",
+        "description": "Emiliano Martínez suffered a fractured jaw in the win against Everton yesterday, with the goalkeeper rushed to hospital after receiving nearly ten minutes of treatment on the pitch following a … “collison”, if we want to be generous … with Everton defender Jarrad Branthwaite in the second half. Branthwaite himself somehow would be allowed to […]"
+      },
+      {
         "title": "Everton 0-2 Chelsea, Premier League: Post-match reaction, ratings",
         "link": "https://weaintgotnohistory.sbnation.com/premier-league/173167/everton-0-2-chelsea-premier-league-post-match-reaction-ratings",
         "published": "2026-10-17T13:39:50Z",
@@ -852,42 +888,6 @@
         "link": "https://weaintgotnohistory.sbnation.com/premier-league/173147/everton-vs-chelsea-premier-league-confirmed-lineups-how-to-watch",
         "published": "2026-10-17T10:24:29Z",
         "description": "It’s bright and it’s early and it’s a Saturday. And it’s Chelsea. And it’s Everton. And it’s Merseyside. And it’s live! The Premier League weekend begins with a top-six clash of fifth versus sixth, as the league’s meanest defense go up against the league’s second best attack (and one of the league’s worst attacks go […]"
-      },
-      {
-        "title": "The Daily Hilario: Saturday",
-        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/173132/the-daily-hilario-october-17th",
-        "published": "2026-10-17T06:53:55Z",
-        "description": "Hmm Highest Misses"
-      },
-      {
-        "title": "Chelsea fans’ preferred lineup against Everton: Never change a winning lineup",
-        "link": "https://weaintgotnohistory.sbnation.com/premier-league/173142/chelsea-fans-preferred-lineup-against-everton-never-change-a-winning-lineup",
-        "published": "2026-10-17T06:53:09Z",
-        "description": "It’s the age-old question. Do you change a winning lineup? Do you play to your strengths as you perceive them, or do you try to anticipate and react to the opponents’ perceived strengths? The answers to those two questions rarely align exactly. As far as the WAGNH Community’s concerned, the correct answer is to stay […]"
-      },
-      {
-        "title": "Everton vs. Chelsea, Premier League: Preview, team news, how to watch",
-        "link": "https://weaintgotnohistory.sbnation.com/premier-league/173135/everton-vs-chelsea-premier-league-preview-team-news-how-to-watch",
-        "published": "2026-10-17T04:24:25Z",
-        "description": "Chelsea are up first in the Premier League this weekend as Xabi Alonso takes his charges north to Goodison Park. Thankfully, someone told our manager, the former Liverpool player, that Everton no longer play at Goodison but rather at Hill Dickinson down the street. That could’ve been awkward! So, assuming we show up at the […]"
-      },
-      {
-        "title": "How should Chelsea line up against Everton?",
-        "link": "https://weaintgotnohistory.sbnation.com/premier-league/173125/how-should-chelsea-line-up-against-everton",
-        "published": "2026-10-16T16:00:30Z",
-        "description": "Chelsea travel up to Merseyside this weekend for a Saturday lunchtime occasion at Everton’s new Hill Dickinson Stadium, and unfortunately we will be doing so without the Captain, who was confirmed to have undergone knee surgery and will be out until at least Christmas. Despite James’s absence, our injury list is actually quite short at […]"
-      },
-      {
-        "title": "Reece James to miss three months with knee injury — report",
-        "link": "https://weaintgotnohistory.sbnation.com/injury-news/173119/reece-james-to-miss-three-months-with-knee-injury-report",
-        "published": "2026-10-16T15:48:59Z",
-        "description": "After last weekend’s game, Xabi Alonso made an off-hand mention of how Reece James suffered a little knee problem in training leading up to the match, and that he’s going to be week-to-week as we assess his condition. There were a few scary words in that brief mention, and sure enough, the problem turns out […]"
-      },
-      {
-        "title": "The Daily Hilario: Friday",
-        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/173101/the-daily-hilario-october-16th",
-        "published": "2026-10-16T05:51:53Z",
-        "description": "It has been a stressful couple of days, all the more worrying that I seem to have lost a few days. I’m back now, with my calendar updated. Of course Lol Hmm"
       }
     ],
     "rym": [],
@@ -1349,6 +1349,18 @@
     ],
     "filmstage": [
       {
+        "title": "“I Couldn’t See Anybody Else Doing This”: David Greaves on Bringing Once Upon a Time in Harlem to Life",
+        "link": "https://thefilmstage.com/i-couldnt-see-anybody-else-doing-this-david-greaves-on-bringing-once-upon-a-time-in-harlem-to-life/",
+        "published": "2026-10-19T16:29:23Z",
+        "description": "In 1972, legendary director William Greaves set out to record history. With the help of Jean Hutson and Regina Andrews, two librarians at the Schomburg Center of Research in Black Culture, he threw a cocktail party in Duke Ellington’s apartment, convening a joyful group of surviving Harlem Renaissance artists, writers, and musicians. That day, Greaves […]"
+      },
+      {
+        "title": "The Criterion Channel’s November Lineup Features Nicolas Cage, Jeremy Thomas, Roy Andersson & More",
+        "link": "https://thefilmstage.com/the-criterion-channels-november-lineup-features-nicolas-cage-jeremy-thomas-roy-andersson-more/",
+        "published": "2026-10-19T16:02:25Z",
+        "description": "The Criterion Channel’s three big retrospectives for November are not director-centric, but each comprise entire film histories of their own. A Nicolas Cage series spans some of his earliest films (Fast Times, Rumble Fish) to auteurist favorites (Adaptation, Wild at Heart, Bringing Out the Dead) to later oddities (The Wicker Man, Bad Lieutenant). Meanwhile, a […]"
+      },
+      {
         "title": "Christine Haroutounian Crafts a Surreal Vision of War In Exclusive Trailer for After Dreaming",
         "link": "https://thefilmstage.com/christine-haroutounian-crafts-a-surreal-vision-of-war-in-exclusive-trailer-for-after-dreaming/",
         "published": "2026-10-19T15:09:21Z",
@@ -1383,18 +1395,6 @@
         "link": "https://thefilmstage.com/exclusive-trailer-for-acclaimed-drama-in-transit-acquired-by-factory-25-for-november-release/",
         "published": "2026-10-16T09:42:36Z",
         "description": "We’re thrilled to announce that Factory 25, the celebrated Brooklyn-based independent film distribution company, has acquired world rights on Jaclyn Bethany’s acclaimed drama In Transit, starring Alex Sarrigeorgiou (who also wrote the script), François Arnaud (Heated Rivalry), and Jennifer Ehle. Winner of the Audience Award for Best Narrative Feature at NewFest, Factory 25 will give […]"
-      },
-      {
-        "title": "“I Can’t Quite Believe It’s Happening”: Mark Kermode on Resurrecting Ken Russell’s The Devils",
-        "link": "https://thefilmstage.com/i-cant-quite-believe-its-happening-mark-kermode-on-resurrecting-ken-russells-the-devils/",
-        "published": "2026-10-15T18:01:33Z",
-        "description": "There are holy grails, and then there’s The Devils. While Ken Russell’s 1971 film has been available in some form or another for decades, many (like me) always avoided it—not for its scandalous content, but for the lack of such. In a rare class of studio films that passed through the era of director’s cut […]"
-      },
-      {
-        "title": "The Best Movies Now Playing in Theaters",
-        "link": "https://thefilmstage.com/the-best-movies-now-playing-in-theaters/",
-        "published": "2026-10-15T17:06:18Z",
-        "description": "Looking for what to see in theaters? Our feature, updated weekly, highlights our top recommendations for films currently in theaters, from new releases to restorations receiving a proper theatrical run. While we already provide extensive monthly new-release recommendations and weekly streaming recommendations, as distributors’ roll-outs can vary, this is a one-stop list to share the […]"
       }
     ],
     "cinephilia": [
@@ -1667,6 +1667,30 @@
     ],
     "nautilus": [
       {
+        "title": "“It Feels Like Something Out of Science Fiction”: Astronomers Find First Green Star",
+        "link": "https://nautil.us/it-feels-like-something-out-of-science-fiction-astronomers-find-first-green-star-1285927/",
+        "published": "2026-10-19T21:00:00Z",
+        "description": "The universe just got a little more colorful"
+      },
+      {
+        "title": "The Wildlife Photo of the Year May Break Your Heart",
+        "link": "https://nautil.us/the-wildlife-photo-of-the-year-may-break-your-heart-1285913/",
+        "published": "2026-10-19T20:00:00Z",
+        "description": "The circle of life fully on display"
+      },
+      {
+        "title": "Teen Girls Are Now More Likely to Vape Than Boys",
+        "link": "https://nautil.us/teen-girls-are-now-more-likely-to-vape-than-boys-1285910/",
+        "published": "2026-10-19T18:32:46Z",
+        "description": "With the advent of e-cigarettes, millions of smokers gained a way to get their nicotine fix without many of the negative health effects of lighting tobacco on fire. Of course, because the technology is relatively new, there’s plenty we don’t know about any other adverse long-term effects. That’s one reason it’s particularly troubling that young people have adopted vaping, too. Now the latest data on youth vaping trends is out, and it’s showing some interesting gender differences. In a letter published today in JAMA Pediatrics , a team of researchers from the Medical University of South Carolina reports that vaping is on the rise among girls. It’s a bit puzzling. For decades, the reverse…"
+      },
+      {
+        "title": "How Our Brains Read Emotions in Other People",
+        "link": "https://nautil.us/how-our-brains-read-emotions-in-other-people-1285896/",
+        "published": "2026-10-19T17:00:00Z",
+        "description": "This multisensory process engages many brain networks at once"
+      },
+      {
         "title": "Watch This Snake Cartwheel Away From Danger",
         "link": "https://nautil.us/watch-this-snake-cartwheel-away-from-danger-1285899/",
         "published": "2026-10-19T15:00:00Z",
@@ -1689,30 +1713,6 @@
         "link": "https://nautil.us/can-we-ditch-bmi-for-an-obesity-index-that-predicts-disease-risk-better-1285877/",
         "published": "2026-10-17T14:00:00Z",
         "description": "It’s ridiculously simplistic and nearly two centuries old"
-      },
-      {
-        "title": "Replacing Just 10 Percent of Ultra‑processed Foods with Whole Foods Linked to Drop in Bowel Cancer Rate",
-        "link": "https://nautil.us/replacing-just-10-percent-of-ultra-processed-foods-with-whole-foods-linked-to-drop-in-bowel-cancer-rate-1285872/",
-        "published": "2026-10-17T12:00:00Z",
-        "description": "Examples of ultra processed foods include many supermarket breads, cured meats and some breakfast cereals"
-      },
-      {
-        "title": "Workers Who Fear AI May be More Prone to Slacking Off",
-        "link": "https://nautil.us/workers-who-fear-ai-may-be-more-prone-to-slacking-off-1285865/",
-        "published": "2026-10-16T20:30:00Z",
-        "description": "“Jobs apocalypse” or not, threats have consequences"
-      },
-      {
-        "title": "How Our Skin Reveals the Link Between Insomnia and Fear",
-        "link": "https://nautil.us/how-our-skin-reveals-the-link-between-insomnia-and-fear-1285862/",
-        "published": "2026-10-16T18:00:00Z",
-        "description": "It’s an exhausting cycle"
-      },
-      {
-        "title": "Meet Loki the Sea Cucumber, One of 57 Newly Discovered Deep-Sea Species",
-        "link": "https://nautil.us/meet-loki-the-sea-cucumber-one-of-57-newly-discovered-deep-sea-species-1285856/",
-        "published": "2026-10-16T17:00:00Z",
-        "description": "It looks friendly at least"
       }
     ],
     "worksinprogress": [],
@@ -1818,6 +1818,12 @@
     ],
     "parisreview": [
       {
+        "title": "John Steinbeck, Unlocked: “East of Eden is Going to Take a Bad Beating”",
+        "link": "https://www.theparisreview.org/blog/2026/10/19/john-steinbeck-art-of-fiction-east-of-eden/",
+        "published": "2026-10-19T18:29:33Z",
+        "description": "\"East of Eden is going to take a bad beating.”"
+      },
+      {
         "title": "Making of a Poem: Geoffrey G. O’Brien on “Ray of Light”",
         "link": "https://www.theparisreview.org/blog/2026/10/16/geoffrey-g-obrien-joshua-clover-making-poem/",
         "published": "2026-10-16T14:00:33Z",
@@ -1858,12 +1864,6 @@
         "link": "https://www.theparisreview.org/blog/2026/10/07/jh-prynnes-last-poem-ryan-ruby/",
         "published": "2026-10-07T14:00:51Z",
         "description": "“His poems were always ultracontemporary, unless they were of the future.”"
-      },
-      {
-        "title": "A Battle We Had to Win: Yan Lianke on Matchmaking",
-        "link": "https://www.theparisreview.org/blog/2026/10/06/yan-lianke-memoir-the-women-matchmaking/",
-        "published": "2026-10-06T15:00:32Z",
-        "description": "“A girl who worked in a Luoyang department store was willing to marry me—I had only to say the word.”"
       }
     ],
     "baffler": [
