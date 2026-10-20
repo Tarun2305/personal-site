@@ -387,10 +387,40 @@
     "reuters": [],
     "bbc": [
       {
-        "title": "Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
+        "title": "Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
         "link": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss",
         "published": "2026-10-20T18:32:14Z",
         "description": "The head of UK Counter Terrorism Policing said they consider Iranian state involvement \"highly likely\"."
+      },
+      {
+        "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+        "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-20T21:27:39Z",
+        "description": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington."
+      },
+      {
+        "title": "UK government to make Jackdaw gas field announcement",
+        "link": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-20T17:33:42Z",
+        "description": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning."
+      },
+      {
+        "title": "Tory MP questions government advisor's position after wife's Palestine Action post",
+        "link": "https://www.bbc.co.uk/news/articles/cke8r0me3y9vo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-20T22:29:24Z",
+        "description": "A Downing Street spokeswoman told the BBC: \"These views are held by an individual who does not represent the government in any capacity.\""
+      },
+      {
+        "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
+        "link": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-20T21:10:38Z",
+        "description": "The Sultan of Oman, leader of a Middle Eastern strategic partner, is welcomed to Windsor for a state visit."
+      },
+      {
+        "title": "Elon Musk says Tesla-SpaceX merger being considered",
+        "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-20T23:24:47Z",
+        "description": "Musk says special committees within both companies have been formed to look at a possible mega-merger."
       },
       {
         "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
@@ -399,93 +429,69 @@
         "description": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital."
       },
       {
-        "title": "Google resolves cloud outage affecting UK banks and websites",
-        "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-20T18:03:19Z",
-        "description": "Revolut was one of the hardest hit, with banking services going down for many customers."
-      },
-      {
-        "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
-        "link": "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-20T13:10:43Z",
-        "description": "The closures are announced as the corporation continues to try to save £500m over two years."
-      },
-      {
-        "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-        "link": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-20T11:45:49Z",
-        "description": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread."
-      },
-      {
-        "title": "Harry says he wants to 'reconcile' with his family",
-        "link": "https://www.bbc.co.uk/news/articles/cry4xj79zxd1o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-20T15:49:54Z",
-        "description": "Prince Harry says he wants reconciliation with his family, in an interview with a magazine in New York last month."
-      },
-      {
-        "title": "Student who stabbed housemate 30 times admits murder",
-        "link": "https://www.bbc.co.uk/news/articles/ckq6n55l23rlo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-20T14:35:14Z",
-        "description": "Jamie Collins is described as a \"sensitive and caring young man\" after his killer admits murder."
-      },
-      {
-        "title": "Huge setback for Alberta's separatist movement after decisive defeat",
-        "link": "https://www.bbc.co.uk/news/articles/cjly016320q1o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-20T13:39:11Z",
-        "description": "Leaders of the movement for independence vow to push on but the margin of defeat could make that difficult."
+        "title": "Schools should recognise antisemitism as distinct form of harm, review says",
+        "link": "https://www.bbc.co.uk/news/articles/c623d7z1rxg5o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-20T18:52:32Z",
+        "description": "The government is expected to accept all 27 recommendations made in the review by ex-Ofsted boss, Sir David Bell."
       }
     ],
     "aljazeera": [
       {
-        "title": "CDC reports third measles death in the United States this year",
-        "link": "https://www.aljazeera.com/news/2026/10/20/cdc-reports-third-measles-death-in-the-united-states-this-year?traffic_source=rss",
-        "published": "2026-10-20T17:58:09Z",
-        "description": "The death was added to the federal tally, as the US records more than 4,400 measles cases nationwide."
+        "title": "NATO to send additional patrol planes to Black Sea after drone attacks",
+        "link": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
+        "published": "2026-10-20T23:19:52Z",
+        "description": "The alliance announces the deployment after a series of deadly drone attacks in the region."
       },
       {
-        "title": "Kenya confirms ninth Ebola case amid concerns about regional spread",
-        "link": "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case?traffic_source=rss",
-        "published": "2026-10-20T17:31:26Z",
-        "description": "A 24-year-old man, who was already being held in quarantine, is the latest to test positive."
+        "title": "The Gambia to pay reparations to ex-dictator’s victims from sale of US mansion",
+        "link": "https://www.aljazeera.com/news/2026/10/20/the-gambia-to-pay-reparations-to-ex-dictators-victims-from-sale-of-us-mansion?traffic_source=rss",
+        "published": "2026-10-20T22:51:35Z",
+        "description": "The Gambia confirmed it received $2.5m from the sale of a US mansion belonging to former president Jammeh."
       },
       {
-        "title": "As Macron visits Gulf, can France forge its own energy-for-security future?",
-        "link": "https://www.aljazeera.com/news/2026/10/20/as-macron-visits-gulf-can-france-forge-its-own-energy-for-security-future?traffic_source=rss",
-        "published": "2026-10-20T17:22:05Z",
-        "description": "President Macron's Gulf visit aims to address rising energy prices and strengthen ties amid regional security concerns."
+        "title": "‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal",
+        "link": "https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss",
+        "published": "2026-10-20T22:20:13Z",
+        "description": "The US president's remarks come amid a deepening feud with Ukraine's President Volodymyr Zelenskyy."
       },
       {
-        "title": "How does language affect how we think?",
-        "link": "https://www.aljazeera.com/video/doha-debates/2026/10/20/how-does-language-affect-how-we-think?traffic_source=rss",
-        "published": "2026-10-20T17:09:48Z",
-        "description": "Does language shape the way we think?"
+        "title": "Trump commits more than $400m ahead of high-stakes midterm elections",
+        "link": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss",
+        "published": "2026-10-20T21:27:38Z",
+        "description": "The president's Republican Party seeks to maintain its hold over both chambers of Congress, despite declining polls."
       },
       {
-        "title": "JERUSALEM DAILY: Half a million Palestinians lose food aid",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/jerusalem-daily-half-a-million-palestinians-lose-food-aid?traffic_source=rss",
-        "published": "2026-10-20T16:59:55Z",
-        "description": "Israeli strikes kill Palestinians in Gaza as funding shortages threaten food aid for half a million people"
+        "title": "PSG score late to sink Barcelona 4-2 in Champions League blockbuster",
+        "link": "https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss",
+        "published": "2026-10-20T21:24:06Z",
+        "description": "Late strikes by Vitinha and Fabian Ruiz grab victory for PSG as they aim to win the UCL for third season running."
       },
       {
-        "title": "Ben-Gvir mocks Gaza destruction in AI-generated video",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/ben-gvir-mocks-gaza-destruction-in-ai-generated-video?traffic_source=rss",
-        "published": "2026-10-20T16:51:02Z",
-        "description": "Israeli National Security Minister Itamar Ben-Gvir has posted an AI-generated video mocking the devastation in Gaza."
+        "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
+        "link": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
+        "published": "2026-10-20T21:19:12Z",
+        "description": "The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports."
       },
       {
-        "title": "Turkiye moves to ratify Mecca defence pact with Pakistan, Saudi Arabia",
-        "link": "https://www.aljazeera.com/news/2026/10/20/turkiye-moves-to-ratify-mecca-joint-defence-agreement?traffic_source=rss",
-        "published": "2026-10-20T16:34:20Z",
-        "description": "Trilateral deal between Saudi Arabia, Turkiye and Pakistan lays out provisions for joint defence."
+        "title": "Why do the US midterms matter for Trump and Congress?",
+        "link": "https://www.aljazeera.com/news/2026/10/20/why-do-the-us-midterms-matter-for-trump-and-congress?traffic_source=rss",
+        "published": "2026-10-20T21:00:42Z",
+        "description": "Republicans and Democrats jockey for control of Congress, which will set course for Trump's final two years in office."
       },
       {
-        "title": "Macron lines up more Gulf diesel as France battles soaring fuel prices",
-        "link": "https://www.aljazeera.com/economy/2026/10/20/macron-lines-up-more-gulf-diesel-as-france-battles-soaring-fuel?traffic_source=rss",
-        "published": "2026-10-20T16:33:43Z",
-        "description": "The UAE and Bahrain deals increase French commitments to 295,000 tonnes a month, just over 10 percent of consumption."
+        "title": "PSG and Barcelona fans divided over politics in football amid Paris riots",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/psg-and-barcelona-fans-divided-over-politics-in-football-amid-paris-riots?traffic_source=rss",
+        "published": "2026-10-20T20:49:00Z",
+        "description": "As PSG face Barcelona in a Champions League clash, fans weigh in on whether football should be a political platform."
       }
     ],
     "ft": [
+      {
+        "title": "SpaceX and Tesla boards are exploring potential merger",
+        "link": "https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37?syn-25a6b1a6=1",
+        "published": "2026-10-20T21:56:34Z",
+        "description": "Elon Musk says combining his two public companies would be a ‘good idea’ as the world approaches an AI singularity"
+      },
       {
         "title": "AI debt worries spark surge in default insurance trading",
         "link": "https://www.ft.com/content/6dd31584-064c-4015-bf5d-e5747799ccd5?syn-25a6b1a6=1",
@@ -493,16 +499,10 @@
         "description": "Volumes of credit default swaps linked to big tech groups soar as investors seek protection against boom unravelling"
       },
       {
-        "title": "South Korean data centre builder tumbles 32% on trading debut",
-        "link": "https://www.ft.com/content/cddafc0a-1ae6-467b-84b8-34c172002b6a?syn-25a6b1a6=1",
-        "published": "2026-10-20T07:03:21Z",
-        "description": "Shares in Elice sink in Seoul, adding to rising concern about AI valuations"
-      },
-      {
-        "title": "The hidden water crisis beneath the American west",
-        "link": "https://www.ft.com/content/ff5859fb-dfa6-4fe5-a5cf-824a98ad32d4?syn-25a6b1a6=1",
-        "published": "2026-10-20T10:00:03Z",
-        "description": "As the area dries, cities and farmers draw on groundwater, the leading source of water loss across the Colorado River Basin"
+        "title": "Who are the Black Bloc?",
+        "link": "https://www.ft.com/content/f97755f2-8b07-47bf-9c14-7963a701c9c3?syn-25a6b1a6=1",
+        "published": "2026-10-20T18:15:43Z",
+        "description": "French government says agitators from the far left helped transform peaceful protests into riots"
       },
       {
         "title": "Putin’s American friends",
@@ -511,28 +511,28 @@
         "description": "‘Realist’ critics of Nato echo Moscow’s talking points on Ukraine"
       },
       {
-        "title": "Older Americans brace for higher healthcare costs",
-        "link": "https://www.ft.com/content/b101071b-0b47-4cf2-a35f-9ebb04539df2?syn-25a6b1a6=1",
-        "published": "2026-10-20T10:10:01Z",
-        "description": "Burden of inflation on seniors is set to worsen as US health insurers raise prices"
+        "title": "The unlikely winners from Trump’s Iran war",
+        "link": "https://www.ft.com/content/cfa976d5-e320-4ee8-8c86-84733471a4a1?syn-25a6b1a6=1",
+        "published": "2026-10-20T04:00:19Z",
+        "description": "Countries from Canada to Argentina have seen surge in investment and production as buyers rush to replace supply lost to Hormuz disruption"
       },
       {
-        "title": "Witkoff meets Zelenskyy before travelling to Russia",
+        "title": "Finnish president hails progress in talks about ending Russia’s war in Ukraine",
         "link": "https://www.ft.com/content/a068036c-a752-4267-9a2f-a95190ef619f?syn-25a6b1a6=1",
-        "published": "2026-10-20T15:11:57Z",
-        "description": "Trump envoy attempts to restart peace talks between Ukraine and Russia and is expected to ask for release of a US hostage"
+        "published": "2026-10-20T21:30:25Z",
+        "description": "Volodymyr Zelenskyy participates in discussions in Oslo that also involve Donald Trump’s envoy"
       },
       {
-        "title": "US pending home sales fall to record low as mortgage rates surge",
-        "link": "https://www.ft.com/content/42ed6778-d350-48a6-ba3d-99efca3cd276?syn-25a6b1a6=1",
-        "published": "2026-10-20T15:47:56Z",
-        "description": "Sales contracts dropped 7.3% in September as rising borrowing costs deepened housing market slowdown"
+        "title": "UAE official emerges as late contender to lead UN",
+        "link": "https://www.ft.com/content/765cb887-05da-4971-9f28-bcf5430f09ac?syn-25a6b1a6=1",
+        "published": "2026-10-20T18:32:31Z",
+        "description": "Supporters of Lana Nusseibeh sound out UN missions for backing as official candidates struggle to break deadlock"
       },
       {
-        "title": "Alberta voters reject separation from Canada",
-        "link": "https://www.ft.com/content/8afb4e0b-302b-445c-8dde-4c5b091b808e?syn-25a6b1a6=1",
-        "published": "2026-10-20T15:51:21Z",
-        "description": "Referendum in oil-rich western province had threatened new turmoil for Mark Carney amid stand-off with Donald Trump"
+        "title": "Netflix gives downbeat outlook as streaming hits dry up",
+        "link": "https://www.ft.com/content/1b5d97dc-535a-42d9-ac0e-2c00e91c0aed?syn-25a6b1a6=1",
+        "published": "2026-10-20T20:32:24Z",
+        "description": "Entertainment giant shakes up creative leadership as viewership growth stalls and current quarter profits set to disappoint"
       }
     ],
     "restofworld": [
@@ -692,22 +692,40 @@
     "chelsea_sky": [],
     "guardianfootball": [
       {
-        "title": "Liverpool v Villarreal: Champions League – live",
-        "link": "https://www.theguardian.com/football/live/2026/oct/20/liverpool-v-villarreal-champions-league-live",
-        "published": "2026-10-20T18:31:32Z",
-        "description": "⚽ Updates from the 8pm BST kick-off at Anfield ⚽ Football clockwatch | Live scores | Table | Mail Scott Villarreal qualified for this season’s Champions League by finishing third in Spain last season. They didn’t start the new campaign very well, with two draws and three defeats, but they’ve since rediscovered a little mojo, a couple of wins bringing them some mid-table respectability: they’re currently 12th in La Liga. Meanwhile they’re one from two in Europe, having lost their opening Champions League fixture 3-2 at Borussia Dortmund, then beaten Napoli 3-1 at home. Liverpool and Villarreal have been drawn together in Europe on two previous occasions. Both ties were semi-finals – of the…"
+        "title": "Doué and Vitinha burn bright as brittle Barcelona come unstuck against PSG",
+        "link": "https://www.theguardian.com/football/2026/oct/20/paris-saint-germain-psg-barcelona-champions-league-match-report",
+        "published": "2026-10-20T21:08:45Z",
+        "description": "Fire, noise, fury, a sense of empty energy. And across town, a football match too. Do any of these randomly pitched autumnal Champions League fixtures mean anything? Probably not when you’re Paris Saint-Germain and Barcelona, and the only game in town is risk-free TV income and a semi-guaranteed place in the knockout stuff. But this was still a dazzling occasion at the Parc des Princes, where the champions of France and Spain played out a light, open, frictionless, exhibition-style game of football. PSG finished 4-2 winners, having been pegged back to 2-2 midway through the second half. But this was also a game where the score almost did not seem to matter, and where the only really hard…"
       },
       {
-        "title": "PSG v Barcelona, Manchester City v AEK Athens, and more: Champions League – live",
-        "link": "https://www.theguardian.com/football/live/2026/oct/20/psg-v-barcelona-manchester-city-v-aek-athens-and-more-champions-league-live",
-        "published": "2026-10-20T18:38:55Z",
-        "description": "⚽ Updates from Tuesday’s Champions League games ⚽ Liverpool v Villarreal | Live scores | Table | Mail Simon Meanwhile, the Atletico Madrid changing room in Stuttgart features one small table and some bananas. A peek inside Paris Saint-Germain’s dressing-room and their pre-match snack lineup. Fruit, for sure, but then a variety of finger food. French sides, by law*, must offer an array of hors d’oeuvres . Continue reading..."
+        "title": "Mac Allister double sparks Liverpool’s thrilling comeback win over Villarreal",
+        "link": "https://www.theguardian.com/football/2026/oct/20/liverpool-villarreal-champions-league-match-report",
+        "published": "2026-10-20T21:04:02Z",
+        "description": "Andoni Iraola and Iñigo Pérez parked a long and close friendship in the buildup to their first competitive confrontation as coaches. The old Athletic Bilbao teammates will have a humdinger of a Champions League contest to dissect once communications are restored. Liverpool, ignited by Rio Ngumoha, recovered from two goals down against Villarreal to maintain their 100% record plus their gathering momentum. Alexis Mac Allister struck twice, Florian Wirtz capped recent improvement with his first goal of the season while Liverpool were dreadful for the opening 30 minutes, transformed after the break and fretting in stoppage time after Tani Oluwaseyi had volleyed in a third for Villarreal. The…"
       },
       {
-        "title": "Vincent Kompany may miss Bayern’s clash with Arsenal due to legs-affecting virus",
+        "title": "Foden hat-trick helps Manchester City cut through noise and crush AEK Athens",
+        "link": "https://www.theguardian.com/football/2026/oct/20/manchester-city-aek-athens-champions-league-match-report",
+        "published": "2026-10-20T21:00:58Z",
+        "description": "Phil Foden shouted the loudest on a quiet night at the Etihad Stadium, announcing his personal return to form with an instinctive hat-trick as Manchester City dispatched AEK Athens with little fuss. Enzo Maresca had called for City to make their own noise amid the cacophony around the club but a businesslike victory in front of 20,000 fewer than watched the weekend’s win over Ipswich was required to get their Champions League back on track after suffering at the hands of Paris Saint-Germain . Those in attendance, officially 40,042 but that felt optimistic, saw Foden shine on the right wing and as a central striker, showing there is life without Erling Haaland, who watched from the bench.…"
+      },
+      {
+        "title": "Champions League roundup: McTominay double leads Napoli past Bodø/Glimt",
+        "link": "https://www.theguardian.com/football/2026/oct/20/champions-league-roundup-mctominay-scores-twice-on-return-from-heart-surgery",
+        "published": "2026-10-20T21:55:04Z",
+        "description": "Midfielder scores for first time since heart surgery Ten-man Atlético hang on for draw against Stuttgart Scott McTominay scored his first two goals of the season to help Napoli beat Bodø/Glimt 4-3 and relieve pressure on the coach, Massimiliano Allegri. McTominay, who also hit a post, missed a month of the season after undergoing a surgical procedure in early September to treat an irregular heartbeat. Matteo Politano’s first-minute opener was cancelled out by Bodø’s Jens Petter Hauge. McTominay restored Napoli’s lead before the break only for Andreas Helmersen to again level for the Norwegian club. Continue reading..."
+      },
+      {
+        "title": "Carrick insists Manchester United board back him after Ten Hag points to ‘toxic culture’",
+        "link": "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united",
+        "published": "2026-10-20T21:13:28Z",
+        "description": "Manager acknowledges he needs to start winning games Ten Hag accuses Cristiano Ronaldo of letting club down Michael Carrick believes Manchester United’s board continue to back him, although the manager admits he must start winning matches to keep his job. Carrick also denied there is a toxic culture at the club, after Erik ten Hag’s claim there had been when he was manager. Carrick’s side travel to Como on Wednesday for their third Champions League game, aiming for a third victory of the season in all competitions. Sunday’s 1-1 draw at Leeds left United 13th in the Premier League, having won only once. Continue reading..."
+      },
+      {
+        "title": "Arsenal’s David Raya hits back at ‘boring’ label as Arteta defends side’s style of play",
         "link": "https://www.theguardian.com/football/2026/oct/20/bayern-munich-arsenal-champions-league",
-        "published": "2026-10-20T15:37:55Z",
-        "description": "Kompany told to rest after struggling with infection His assistant poised to oversee Champions League game Vincent Kompany is touch and go to be in the Bayern Munich dugout against Arsenal at the Allianz Arena on Wednesday night as he battles a debilitating virus that has affected his legs. Kompany was unable to attend his team’s training session on Tuesday before the Champions League tie, ceding the responsibility for the pre-match press conference to his assistant, Aaron Danks. Kompany has been told to rest after he struggled through Bayern’s 6-1 home win over RB Leipzig in the Bundesliga on Saturday, after which the club’s sporting director, Max Eberl, addressed the media instead of…"
+        "published": "2026-10-20T20:00:37Z",
+        "description": "Goalkeeper brushes off criticism before Bayern clash Kompany could miss game with virus affecting his legs David Raya says he does not care if rival supporters call Arsenal “boring” as his manager, Mikel Arteta, insisted that critics of the team’s style were only a “very small minority”. Arsenal made it 10 wins out of 11 in all competitions for the season when they beat Nottingham Forest 1-0 at the City Ground on Sunday. But it was a day when Noni Madueke’s late goal papered over a flat and one-paced performance. Arteta admitted his players had to be better in attacking terms and the discussion over how they are able to get the job done has tracked them to Germany where they face Bayern…"
       },
       {
         "title": "How Brazil’s election result could shape women’s football in the country",
@@ -716,28 +734,10 @@
         "description": "Female players including Carlinha and Tayla Carolina have spoken out against the far right, who they fear will harm the women’s game as well as wider society The day before the first round of Brazilian elections, the Estádio do Morumbi hosted the second leg of the Brazilian Women’s Championship final, in which São Paulo drew 1-1 with Corinthians to win 3-2 on aggregate and secure the Brasileirão Women’s title. It had been an incredible final but after the game the goalkeeper Carlinha used an interview to appeal to her fans: “Never again Bolsonaro in power,” she shouted to a record-breaking TV audience of 23 million people. Continue reading..."
       },
       {
-        "title": "Football Daily | Kulusevski and Maddison return to form but are Tottenham also back?",
-        "link": "https://www.theguardian.com/football/2026/oct/20/tottenham-hotspur-win-football-daily-newsletter",
-        "published": "2026-10-20T14:39:16Z",
-        "description": "As Tottenham edged to victory over Coventry , a familiar face among the post-match salutations. Could that be Dejan Kulusevski? For it was he, playing 526 days since his last Spurs appearance. Much has changed though still much stays the same. Ben Davies’s deflected late clincher catapulted Spurs up to … 16th. When Kulusevski last played on 11 May 2025, Tottenham were 17th, the position in which they finished both that season and in 2025-26. Further to Peters and Lee [ Monday’s Football Daily letters] another 70s example that occurred to me was the West Ham players Mervyn Day and Bill Green . They were both in the West Ham United team from 1976-78, and in Carlisle United’s greatest season…"
-      },
-      {
         "title": "Animal rights group urges Crystal Palace to retire bald eagle mascot",
         "link": "https://www.theguardian.com/football/2026/oct/20/amimal-rights-group-peta-urges-crystal-palace-retire-bald-eagle-mascot-phoenix-selhurst-park",
         "published": "2026-10-20T12:00:35Z",
         "description": "Peta calls on club to never again use a live animal mascot ‘There’s no reason to drag a wild animal into a stadium’ A leading animal rights group has urged Crystal Palace to retire their American bald eagle mascot because, it says, the matchday experience can leave the bird “frightened, disoriented and panicked” and put spectators at risk. In a letter to Palace’s chief executive, Sharon Lacey, People for the Ethical Treatment of Animals (Peta) called on the club to end Phoenix’s appearances at Selhurst Park and commit never to use a live animal mascot again. Continue reading..."
-      },
-      {
-        "title": "David Squires on … Manchester City sailing into unknown Premier League waters",
-        "link": "https://www.theguardian.com/football/picture/2026/oct/20/david-squires-on-manchester-city-sailing-into-unknown-premier-league-waters",
-        "published": "2026-10-20T10:04:53Z",
-        "description": "Our cartoonist on a perfect start for Enzo Maresca’s league leaders. What could possibly go wrong? Buy a cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading..."
-      },
-      {
-        "title": "Erik ten Hag accuses Cristiano Ronaldo of ‘letting down’ Manchester United",
-        "link": "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united",
-        "published": "2026-10-20T10:43:00Z",
-        "description": "Ten Hag says Ronaldo did not complete post-match run Former manager claims club broke promises made to him Erik ten Hag has claimed Cristiano Ronaldo “let the team down” during their time together at Manchester United. Ten Hag has also alleged that promises made by United’s owners went unfulfilled, leading to his sacking by the club in October 2024 . Ronaldo returned for a second spell at United in August 2021 and was already at the club when Ten Hag was appointed in April 2022 as Ole Gunnar Solskjær’s successor . The relationship between the pair quickly broke down, however, with Ronaldo refusing to come on as a substitute in a win against Tottenham in October 2022 before he then publicly…"
       }
     ],
     "spielverlagerung": [
@@ -971,7 +971,7 @@
         "title": "Storefront Church – Blue Movie",
         "link": "https://thequietus.com/quietus-reviews/storefront-church-blue-movie-review/",
         "published": "2026-10-20T05:00:00Z",
-        "description": "Storefront Church Blue Movie When he's not playing session for Perfume Genius and Phoebe Bridgers, Lukas Frank is getting seedy with Storefront Church Blue Movie by Storefront Church God knows if they were handing out fivers for every time the phrase ‘it’s like a soundtrack to a film that hasn’t been made yet’ appeared in a press release or blurb, then no one would need to be writing reviews and instead they’d be lavishing it up in a bath of cash, but Los Angeles’ Storefront Church’s latest, and third album proper, Blue Movie, is just that. Frontman Lukas Frank has dabbled in soundtracks as well as having a few bits of acting on his CV, so if anyone knows what he’s doing, he does. Having..."
+        "description": "Storefront Church Blue Movie When he's not playing the session musician game, Lukas Frank is getting seedy with Storefront Church Blue Movie by Storefront Church God knows if they were handing out fivers for every time the phrase ‘it’s like a soundtrack to a film that hasn’t been made yet’ appeared in a press release or blurb, then no one would need to be writing reviews and instead they’d be lavishing it up in a bath of cash, but Los Angeles’ Storefront Church’s latest, and third album proper, Blue Movie, is just that. Frontman Lukas Frank has dabbled in soundtracks as well as having a few bits of acting on his CV, so if anyone knows what he’s doing, he does. Having stepped out from..."
       },
       {
         "title": "Guest Playlist: Dis Fig",
@@ -1450,6 +1450,12 @@
     "nyrb": [],
     "lrb": [
       {
+        "title": "Dédiabolisation",
+        "link": "https://www.lrb.co.uk/blog/2026/october/dediabolisation",
+        "published": "2026-10-15T16:37:22Z",
+        "description": "Jordan Bardella was supposed to be a different kind of far-right French politician: young, technically savvy, a long way from the poisonous..."
+      },
+      {
         "title": "Bolsonaro Redux?",
         "link": "https://www.lrb.co.uk/blog/2026/october/bolsonaro-redux",
         "published": "2026-10-13T17:48:50Z",
@@ -1472,12 +1478,6 @@
         "link": "https://www.lrb.co.uk/blog/2026/october/wok-diplomacy",
         "published": "2026-10-06T16:20:49Z",
         "description": "The biggest movie at the Chinese box office this August – grossing nearly three times as much as The Odyssey, released the same week – was Once..."
-      },
-      {
-        "title": "Collective Harm",
-        "link": "https://www.lrb.co.uk/blog/2026/october/collective-harm",
-        "published": "2026-10-05T14:27:28Z",
-        "description": "The Israeli military claims that each individual strike in Gaza is justified but ignores their collective consequences. A reason is given for each..."
       }
     ],
     "larb": [],
@@ -1533,16 +1533,16 @@
     ],
     "psyche": [
       {
-        "title": "How to overcome task paralysis",
-        "link": "https://psyche.co/guides/how-to-overcome-task-paralysis",
-        "published": "2026-10-20T10:00:00Z",
-        "description": "If you have ADHD or you’re stressed, tired and stuck, goal management training can help you get started and keep going - by Joe Wilner Read on Psyche"
-      },
-      {
         "title": "Are you getting enough sun?",
         "link": "https://psyche.co/notes-to-self/why-sunlight-is-vital-to-our-physical-and-mental-health",
         "published": "2026-10-20T10:00:00Z",
         "description": "The new book ‘In Defense of Sunlight’ argues that our concerns about the sun’s risks lead us to overlook its benefits - by Hannah Seo Read on Psyche"
+      },
+      {
+        "title": "How to overcome task paralysis",
+        "link": "https://psyche.co/guides/how-to-overcome-task-paralysis",
+        "published": "2026-10-20T10:00:00Z",
+        "description": "If you have ADHD or you’re stressed, tired and stuck, goal management training can help you get started and keep going - by Joe Wilner Read on Psyche"
       },
       {
         "title": "Portraits of another life: Nemo Gould",
@@ -1667,6 +1667,30 @@
     ],
     "nautilus": [
       {
+        "title": "Primates Also Become Germophobes After Living Through a Viral Outbreak",
+        "link": "https://nautil.us/primates-also-become-germophobes-after-living-through-a-viral-outbreak-1285973/",
+        "published": "2026-10-20T23:05:00Z",
+        "description": "And it could shed light on the evolutionary origins of disgust"
+      },
+      {
+        "title": "Are Our Hearts Strong Enough to Get to Mars?",
+        "link": "https://nautil.us/are-our-hearts-strong-enough-to-get-to-mars-1285977/",
+        "published": "2026-10-20T22:30:00Z",
+        "description": "Prolonged space travel can wreak havoc on the circulatory system"
+      },
+      {
+        "title": "The Most Unsettling Books We Know",
+        "link": "https://nautil.us/the-most-unsettling-books-we-know-1285958/",
+        "published": "2026-10-20T20:00:00Z",
+        "description": "Scientists and artists tell us about the book that scared them to the core"
+      },
+      {
+        "title": "How Hunger Can Trigger Alcohol Cravings",
+        "link": "https://nautil.us/how-hunger-can-trigger-alcohol-cravings-1285953/",
+        "published": "2026-10-20T19:00:58Z",
+        "description": "At least in fruit flies"
+      },
+      {
         "title": "This Giant Waterlily Species Was Discovered Via Instagram",
         "link": "https://nautil.us/this-giant-waterlily-species-was-discovered-via-instagram-1285947/",
         "published": "2026-10-20T16:30:00Z",
@@ -1689,30 +1713,6 @@
         "link": "https://nautil.us/longevity-research-has-a-bullshit-problem-1285933/",
         "published": "2026-10-19T22:00:00Z",
         "description": "How impossible ages, lost paperwork, and invented biographies become scientific fact"
-      },
-      {
-        "title": "“It Feels Like Something Out of Science Fiction”: Astronomers Find First Green Star",
-        "link": "https://nautil.us/it-feels-like-something-out-of-science-fiction-astronomers-find-first-green-star-1285927/",
-        "published": "2026-10-19T21:00:00Z",
-        "description": "The universe just got a little more colorful"
-      },
-      {
-        "title": "The Wildlife Photo of the Year May Break Your Heart",
-        "link": "https://nautil.us/the-wildlife-photo-of-the-year-may-break-your-heart-1285913/",
-        "published": "2026-10-19T20:00:00Z",
-        "description": "The circle of life fully on display"
-      },
-      {
-        "title": "Teen Girls Are Now More Likely to Vape Than Boys",
-        "link": "https://nautil.us/teen-girls-are-now-more-likely-to-vape-than-boys-1285910/",
-        "published": "2026-10-19T18:32:46Z",
-        "description": "With the advent of e-cigarettes, millions of smokers gained a way to get their nicotine fix without many of the negative health effects of lighting tobacco on fire. Of course, because the technology is relatively new, there’s plenty we don’t know about any other adverse long-term effects. That’s one reason it’s particularly troubling that young people have adopted vaping, too. Now the latest data on youth vaping trends is out, and it’s showing some interesting gender differences. In a letter published today in JAMA Pediatrics , a team of researchers from the Medical University of South Carolina reports that vaping is on the rise among girls. It’s a bit puzzling. For decades, the reverse…"
-      },
-      {
-        "title": "How Our Brains Read Emotions in Other People",
-        "link": "https://nautil.us/how-our-brains-read-emotions-in-other-people-1285896/",
-        "published": "2026-10-19T17:00:00Z",
-        "description": "This multisensory process engages many brain networks at once"
       }
     ],
     "worksinprogress": [],
