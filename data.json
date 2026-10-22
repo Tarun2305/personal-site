@@ -387,28 +387,40 @@
     "reuters": [],
     "bbc": [
       {
+        "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public",
+        "link": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-22T17:46:58Z",
+        "description": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains."
+      },
+      {
+        "title": "Race to update services' computer systems after cyber-security flaw found",
+        "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-22T17:12:51Z",
+        "description": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered."
+      },
+      {
         "title": "AI discovered a massive cyber-security flaw - here's what happened",
         "link": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss",
         "published": "2026-10-22T12:17:44Z",
         "description": "The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you."
       },
       {
-        "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-        "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-22T14:05:23Z",
-        "description": "The bank says it is using more AI leading to a 5% reduction in its workforce."
+        "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+        "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-22T17:14:04Z",
+        "description": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021."
       },
       {
         "title": "Russell Brand accuser said alleged rape 'really hurt', court hears",
         "link": "https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-22T12:34:36Z",
+        "published": "2026-10-22T16:45:09Z",
         "description": "The friend of a woman claiming to have been raped by Russell Brand says she said he was \"quite aggressive\"."
       },
       {
-        "title": "Moment man rescued from sinking car by Australian TV reporter",
-        "link": "https://www.bbc.co.uk/news/videos/cwdr8zm3r5gko?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-22T11:08:33Z",
-        "description": "Journalist Will Murray describes how he and a bystander saved an SUV driver from his vehicle."
+        "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+        "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-22T15:56:36Z",
+        "description": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis."
       },
       {
         "title": "Two storms in two days as Austen and Boelo head for UK",
@@ -417,80 +429,74 @@
         "description": "The Met Office has named a new storm, Boelo, which is set to bring another round of stormy weather to the UK over the weekend."
       },
       {
-        "title": "Retired decorator's Pokémon cards sell for £1.5m after years in attic",
-        "link": "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-22T13:31:04Z",
-        "description": "He says he found treasure in his attic where the collection had been stored for 15 years."
-      },
-      {
-        "title": "French weekend protests to be limited to union demos only, says Macron",
-        "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-22T13:02:14Z",
-        "description": "Some cities including Lyon and Nice have banned all protests, and the French president said only authorised demos would be allowed."
-      },
-      {
-        "title": "Dame Judi Dench: 'I can't do a play, a film or read anymore'",
-        "link": "https://www.bbc.co.uk/news/articles/c6ly09v09lnjo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-22T06:41:29Z",
-        "description": "The actress tells BBC Radio 4's Today programme about how her eye condition has affected her life."
+        "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
+        "link": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-22T17:07:03Z",
+        "description": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year."
       }
     ],
     "aljazeera": [
       {
-        "title": "Yemenis face severe shortages in Taiz amid Houthi blockade",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/yemenis-face-severe-shortages-in-taiz-amid-houthi-blockade?traffic_source=rss",
-        "published": "2026-10-22T13:42:26Z",
-        "description": "Residents in Yemen’s Taiz are facing severe food and water shortages as a Houthi blockade cuts off a key supply route."
+        "title": "Israel frees suspects in two settler attacks as West Bank pogroms intensify",
+        "link": "https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss",
+        "published": "2026-10-22T18:17:29Z",
+        "description": "Israeli court releases nine settler suspects over West Bank attacks as investigations into recent assaults continue."
       },
       {
-        "title": "How Sudan’s shift to drone warfare is fuelling a civilian crisis",
-        "link": "https://www.aljazeera.com/news/2026/10/22/how-sudans-shift-to-drone-warfare-is-fuelling-a-civilian-crisis?traffic_source=rss",
-        "published": "2026-10-22T13:35:31Z",
-        "description": "Drone attacks on supply lines and safe cities are taking a devastating toll on civilians."
+        "title": "Trump says NBA star LeBron James disrespected US national anthem",
+        "link": "https://www.aljazeera.com/sports/2026/10/22/trump-says-nba-star-lebron-james-disrespected-us-national-anthem?traffic_source=rss",
+        "published": "2026-10-22T18:05:52Z",
+        "description": "NBA superstar LeBron James criticised by US President ⁠Donald ⁠Trump for disrespctful behaviour during national anthem."
       },
       {
-        "title": "Outposts, violence, impunity: The anatomy of Israeli settler land grabs",
-        "link": "https://www.aljazeera.com/features/2026/10/22/outposts-violence-impunity-the-anatomy-of-israeli-settler-land-grabs?traffic_source=rss",
-        "published": "2026-10-22T13:33:27Z",
-        "description": "With government backing and little accountability, an ominous pattern casts a shadow over the Palestinian olive harvest."
+        "title": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
+        "link": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss",
+        "published": "2026-10-22T17:58:04Z",
+        "description": "The US has pushed back on the IRGC's claims, dismissing them as an attempt to increase oil prices ahead of US elections."
       },
       {
-        "title": "Macron blames ‘seditious’ far left for unrest as France bans some protests",
-        "link": "https://www.aljazeera.com/news/2026/10/22/macron-blames-seditious-ultra-left-for-unrest-as-france-bans-protests?traffic_source=rss",
-        "published": "2026-10-22T13:12:22Z",
-        "description": "Thursday's planned demonstrations are outlawed in parts of Paris, Lyon, Lille and Grenoble."
+        "title": "US-sanctioned ICC wins top EU human rights award",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/us-sanctioned-icc-wins-top-eu-human-rights-award?traffic_source=rss",
+        "published": "2026-10-22T17:46:03Z",
+        "description": "The EU has awarded the International Criminal Court its top human rights award."
       },
       {
-        "title": "Maradona doctor was made ‘scapegoat’ for his death, Argentinian court told",
-        "link": "https://www.aljazeera.com/sports/2026/10/22/maradona-doctor-was-made-scapegoat-for-his-death-argentinian-court-told?traffic_source=rss",
-        "published": "2026-10-22T13:10:22Z",
-        "description": "Prosecutors have requested a 12-year prison sentence for Leopoldo Luque, one of seven healthcare professionals on trial."
+        "title": "‘Longer we wait, worse it gets’: Struggle of Gaza’s breast cancer patients",
+        "link": "https://www.aljazeera.com/features/2026/10/22/longer-we-wait-worse-it-gets-struggle-of-gazas-breast-cancer-patients?traffic_source=rss",
+        "published": "2026-10-22T17:40:24Z",
+        "description": "Breast cancer patients in Gaza face delayed diagnoses, medicine shortages and limited access to scans and treatment."
       },
       {
-        "title": "Shark returns to South Korea canal after failed rescue attempt",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/shark-returns-to-south-korea-canal-after-failed-rescue-attempt?traffic_source=rss",
-        "published": "2026-10-22T13:05:42Z",
-        "description": "An endangered shark swam back into a canal in South Korea after rescuers had led it back out to sea."
+        "title": "Foreign national beaten to death by a mob in South Africa",
+        "link": "https://www.aljazeera.com/news/2026/10/22/foreign-national-beaten-to-death-by-a-mob-in-south-africa?traffic_source=rss",
+        "published": "2026-10-22T17:35:44Z",
+        "description": "Police say a 50-person mob in Durban killed a man amid a wave of anti-migrant marches."
       },
       {
-        "title": "What’s the PHP coding flaw that could pull down 70 percent of the internet?",
-        "link": "https://www.aljazeera.com/news/2026/10/22/whats-the-php-coding-flaw-that-could-pull-down-70-percent-of-the-internet?traffic_source=rss",
-        "published": "2026-10-22T12:37:34Z",
-        "description": "The vulnerability allows a hacker to change a website or extract data, including personal information."
+        "title": "Sri Lanka beat England to overcome Harry Brook hitting fastest 200 in ODIs",
+        "link": "https://www.aljazeera.com/sports/2026/10/22/sri-lanka-beat-england-to-overcome-harry-brook-hitting-fastest-200-in-odis?traffic_source=rss",
+        "published": "2026-10-22T17:28:55Z",
+        "description": "England captain Brook hits 202 in record ODI time, but Sri Lanka hit a six to win by two wickets with one ball to spare."
       },
       {
-        "title": "Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent?",
-        "link": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss",
-        "published": "2026-10-22T12:12:32Z",
-        "description": "US orders diplomatic staff out of Saudi Arabia amid escalating conflict and reports of potential US strikes on Iran."
+        "title": "Jerusalem Daily: Israeli soldier abusing cat goes viral",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/jerusalem-daily-israeli-soldier-abusing-cat-goes-viral?traffic_source=rss",
+        "published": "2026-10-22T17:25:29Z",
+        "description": "A video of an Israeli soldier throwing a cat over a fence has gone viral online."
       }
     ],
     "ft": [
       {
-        "title": "Global stocks tumble as oil price tops $112",
+        "title": "Meta sell-off drags US tech stocks lower as AI spending fears flare up",
         "link": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
-        "published": "2026-10-22T13:31:31Z",
-        "description": "Brent crude jumps 3.3% while Wall Street opens lower and Eurozone bond sell-off deepens"
+        "published": "2026-10-22T18:15:32Z",
+        "description": "US Treasuries rally strongly as traders rush into haven assets"
+      },
+      {
+        "title": "Bessent shrugs off ‘systemic’ AI risks at closed-door investor conference",
+        "link": "https://www.ft.com/content/5b7c2fdf-2300-4208-860e-6389ceb18886?syn-25a6b1a6=1",
+        "published": "2026-10-21T18:46:59Z",
+        "description": "Treasury secretary spoke to financiers at charity event where tickets cost $7,500"
       },
       {
         "title": "Europe’s bracing reality on US bond yields",
@@ -499,10 +505,16 @@
         "description": "The region cannot just hope for a fall in borrowing costs across the Atlantic - it must tackle its own problems"
       },
       {
-        "title": "No wars and no inflation: Has Trump delivered on his big promises?",
+        "title": "A report card on Trump’s second term",
         "link": "https://www.ft.com/content/fead8c02-877a-4fd4-b940-71045266e2c4?syn-25a6b1a6=1",
         "published": "2026-10-22T04:00:03Z",
         "description": "The US president swept to victory two years ago pledging to fix the economy and close the border. Here is the FT’s scorecard."
+      },
+      {
+        "title": "‘Know Your Agent’ will be the new rule of the AI age",
+        "link": "https://www.ft.com/content/5116beca-1b6e-418e-99d7-462339b3b57e?syn-25a6b1a6=1",
+        "published": "2026-10-22T14:38:28Z",
+        "description": "As autonomous software does more, we need to focus on how to control its behaviour and establish accountability"
       },
       {
         "title": "Europe’s moderates must stop treating politics as a spectator sport",
@@ -511,28 +523,16 @@
         "description": "While centrists have retreated to myriad bubbles, extremists turn up, join up and organise"
       },
       {
-        "title": "Which G7 economy is the profligacy poster child?",
-        "link": "https://www.ft.com/content/43a2e871-2e82-4af7-8d56-2f00202df949?syn-25a6b1a6=1",
-        "published": "2026-10-22T04:00:21Z",
-        "description": "Among the group, France and the US are heading into a wall"
-      },
-      {
         "title": "Blackstone cuts property valuations as higher rates hit returns",
         "link": "https://www.ft.com/content/df7c95d7-72d1-4cec-87f6-9f7968ac3e5e?syn-25a6b1a6=1",
         "published": "2026-10-22T11:03:21Z",
         "description": "Group’s president Jonathan Gray says rising market volatility stalled a quick return of cash to investors through IPOs"
       },
       {
-        "title": "Meta agrees deal to keep Zuckerberg in California despite wealth tax proposal",
-        "link": "https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31?syn-25a6b1a6=1",
-        "published": "2026-10-22T13:40:22Z",
-        "description": "Group to create new class of non-voting shares to allow stock sales without diluting founder’s control"
-      },
-      {
-        "title": "Websites taken offline in race to patch PHP security flaw",
-        "link": "https://www.ft.com/content/d438af1e-a48c-4aeb-8c84-00cdb5e741e3?syn-25a6b1a6=1",
-        "published": "2026-10-22T10:13:57Z",
-        "description": "Government security agencies warn companies to take immediate action after AI uncovers widespread vulnerabilities"
+        "title": "US to fund speculative fusion venture backed by investors with ties to Trump",
+        "link": "https://www.ft.com/content/d774c15e-22e4-4873-9a1d-92d6561290f9?syn-25a6b1a6=1",
+        "published": "2026-10-22T17:20:01Z",
+        "description": "Commerce department to take $175mn equity stake in start-up that is financed by brother of the president’s son-in-law"
       }
     ],
     "restofworld": [
@@ -692,16 +692,28 @@
     "chelsea_sky": [],
     "guardianfootball": [
       {
+        "title": "Lech Poznan 1-1 Sunderland, Juventus 2-2 Rennes, and more: Europa League – live",
+        "link": "https://www.theguardian.com/football/live/2026/oct/22/lech-poznan-sunderland-juventus-rennes-bournemouth-milan-crystal-palace-celtic-europa-league-live",
+        "published": "2026-10-22T18:45:05Z",
+        "description": "⚽ Updates from 5.45pm BST kick-offs, then the 8pm games ⚽ Live scores | Table | Read Football Daily | And mail Daniel That took 78 seconds – and remember, Sunderland scored at 90+3 of 90+5 in their last game against Torreense. The Prem, problems, but in Europe they’re flying! Poznan are bottom of the Europa League and already, we’ve seen why. The ball goes back to Lis, who sells Gurgul short with the ball out wide. Angulo snaps into the challenge, needs only one touch to set, and crosses for Tutierov to head home his first Sunderland goal! Continue reading..."
+      },
+      {
+        "title": "Next in line? Main contenders for the Manchester United hot seat",
+        "link": "https://www.theguardian.com/football/2026/oct/22/contenders-manchester-united-next-manager-michael-carrick",
+        "published": "2026-10-22T18:32:32Z",
+        "description": "With Michael Carrick’s future at Old Trafford a matter of some debate, we examine the credentials of those who could succeed him The German was of interest to Manchester City while Omar Berrada was part of the hierarchy on the other side of town. He is highly thought of and would come with an impressive CV for a 39-year-old, having taken charge of Bayern Munich and Germany. Nagelsmann is regarded as an innovator who is very demanding of his players and builds teams to press relentlessly, a concept not currently used at United, as Bruno Fernandes will testify . His spell with Germany was underwhelming, concluding with a 2026 World Cup last-32 defeat by Paraguay , and at Bayern – with an…"
+      },
+      {
+        "title": "Bruno’s betrayal? ‘Toxic’ Fernandes is symptom of United’s culture of entitlement | Jamie Jackson",
+        "link": "https://www.theguardian.com/football/2026/oct/22/bruno-fernandes-betrayal-manchester-united-michael-carrick-culture-of-entitlement",
+        "published": "2026-10-22T17:15:50Z",
+        "description": "Michael Carrick must now deal with more dressing-room unrest after Lisandro Martínez’s attack on the board “Toxic”: this is the damning characterisation of Bruno Fernandes from one highly placed Manchester United source after the captain’s incendiary betrayal of Michael Carrick. There has surely never been a greater anti-leadership act in United’s storied history than Fernandes questioning the man who trusts him to unify the dressing room and execute his on-field plan. The Portuguese has proved this faith wrong at the precise moment he was required to step up and exude a defiant togetherness. Continue reading..."
+      },
+      {
         "title": "Champions League review: PSG take a hit, Man City’s empty seats and teenage hope for Liverpool",
         "link": "https://www.theguardian.com/football/2026/oct/22/champions-league-review-psg-take-a-hit-man-citys-empty-seats-and-teenage-hope-for-liverpool",
         "published": "2026-10-22T13:42:43Z",
         "description": "The reigning champions must deal with the absence of Khvicha Kvaratskhelia for some time, while fans at Anfield were thrilled by Rio Ngumoha Paris Saint-Germain beat Barcelona 4-2 on Tuesday , but the reigning champions lost the best player in last season’s tournament, Khvicha Kvaratskhelia. This autumn has seen much lobbying for the Ballon d’Or, with the Georgian a popular choice, despite his absence from the World Cup. He is expected to be out for six months, although Rodri’s comeback from serious injury – he was rested by Barcelona on Tuesday until coming off the bench in the 60th minute – shows it can take far longer than that for players to rediscover their highest level. Continue…"
-      },
-      {
-        "title": "‘Angry’ Carrick on the brink as Fernandes hits out at Manchester United tactics",
-        "link": "https://www.theguardian.com/football/2026/oct/21/michael-carrick-bruno-fernandes-manchester-united-como-champions-league",
-        "published": "2026-10-21T21:15:23Z",
-        "description": "Manager apologises to fans after 4-1 defeat in Como Captain criticises ‘decision from the staff’ not to press Michael Carrick’s future as Manchester United manager is in the balance after a humiliating 4-1 Champions League defeat by Como on Wednesday night. Before Bournemouth’s visit to Old Trafford on Sunday his future may be discussed by Jason Wilcox, the director of football, Omar Berrada, the chief executive, and Sir Jim Ratcliffe, the co-owner who controls sporting policy. Continue reading..."
       },
       {
         "title": "Bruno Guimarães had sleepless nights before Newcastle exit but hopes for same ‘love’ at Arsenal",
@@ -719,25 +731,13 @@
         "title": "Nottingham Forest’s false start places early focus on Glasner and Delap",
         "link": "https://www.theguardian.com/football/2026/oct/22/nottingham-forest-oliver-glasner-time-evangelos-marinakis",
         "published": "2026-10-22T11:20:01Z",
-        "description": "Austrian’s tactics need adapting to but Forest are in the bottom three and their owner is not the patient type Sitting 19th in the Premier League was not the plan for Nottingham Forest after the arrival of a highly acclaimed manager and a £45m striker to fuel their ambitions. The fates of Oliver Glasner and Liam Delap are intertwined and with the stark stats of zero home goals and a solitary point at the City Ground: it is not the dream start they were aiming for. As Delap prepares to return to Ipswich, where his career ignited, on Friday night, Forest are remaining calm. There is a desperation to get away from the short-termism that caused so many problems; 12 months ago, they were on…"
+        "description": "Austrian’s tactics need adapting to but Forest are in the bottom three and their owner is not the patient type Sitting 19th in the Premier League was not the plan for Nottingham Forest after the arrival of a highly acclaimed manager and a £45m striker to fuel their ambitions. The fates of Oliver Glasner and Liam Delap are intertwined and with the stark stats of zero home goals and a solitary point at the City Ground it is not the dream start they were aiming for. As Delap prepares to return to Ipswich, where his career ignited, on Friday night, Forest are remaining calm. There is a desperation to get away from the short-termism that caused so many problems; 12 months ago, they were on…"
       },
       {
         "title": "Enzo Maresca says honest talks have revitalised Foden’s Manchester City form",
         "link": "https://www.theguardian.com/football/2026/oct/22/enzo-maresca-phil-foden-manchester-city-form",
         "published": "2026-10-22T11:36:29Z",
-        "description": "Player has scored four goals in last two games for City Aston Villa the next test for Premier League leaders Enzo Maresca has revealed he held heart-to-heart conversations with Phil Foden to help the midfielder back to his best. Foden has struggled over the past two years but has scored four goals in his past two games to give hope he can recapture the form that won him the a Professional Footballers’ Association players’ player of the year award in 2023-24. City travel to Aston Villa on Saturday lunchtime aiming to continue their perfect Premier League start under Maresca, with Erling Haaland fit after sitting on the bench for Wednesday’s Champions League win over AEK Athens . Continue…"
-      },
-      {
-        "title": "Cathinka Tandberg: ‘Spurs fans hate Arsenal. That’s how it is’",
-        "link": "https://www.theguardian.com/football/2026/oct/22/cathinka-tandberg-interview-tottenham-arsenal-rivalry-moving-the-goalposts-you-now",
-        "published": "2026-10-22T10:44:48Z",
-        "description": "Norwegian forward might look to Harry Kane for inspiration on the pitch, but when north London derby comes around, she needs no lessons on what the rivalry means “It means more than just three points. It’s for the whole club. It’s for the whole place. It’s for the whole of Tottenham.” One only needs to be in the presence of Tottenham Hotspur’s Cathinka Tandberg for a few minutes to feel the passion that emanates from her when it comes to this weekend’s north London derby. As a lifelong Spurs fan, the forward understands more than most the intensity of the rivalry that exists between her side and Arsenal, one that she cannot wait to experience once again on Saturday. “It will just be an…"
-      },
-      {
-        "title": "‘It doesn’t look good’: Arteta concerned as Saka limps off against Bayern Munich",
-        "link": "https://www.theguardian.com/football/2026/oct/21/champions-league-bayern-munich-arsenal-mikel-arteta-bukayo-saka-injury",
-        "published": "2026-10-21T22:56:42Z",
-        "description": "‘A player off with really sharp pain is never good news’ Winger forced off 10 minutes into Arsenal’s 2-2 draw Mikel Arteta made no attempt to conceal his concern over the quad injury that forced Bukayo Saka out of Arsenal’s 2-2 Champions League draw at Bayern Munich , saying it did not “look good at all”. The manager was delighted with the fight that his players showed, Declan Rice earning a deserved point with an 82nd-minute equaliser. Arsenal had led through Eberechi Eze, who came on in the 10th minute for the stricken Saka, before Harry Kane took centre stage. The Bayern striker set up Alphonso Davies for 1-1 before giving his team the lead from the penalty spot. Continue reading..."
+        "description": "Player has scored four goals in last two games for City Aston Villa the next test for Premier League leaders Enzo Maresca has revealed he held heart-to-heart conversations with Phil Foden to help the midfielder back to his best. Foden has struggled over the past two years but has scored four goals in his past two games to give hope he can recapture the form that won him the Professional Footballers’ Association player of the year award in 2023-24. City travel to Aston Villa on Saturday lunchtime aiming to continue their perfect Premier League start under Maresca, with Erling Haaland fit after sitting on the bench for Wednesday’s Champions League win over AEK Athens . Continue reading..."
       }
     ],
     "spielverlagerung": [
@@ -971,7 +971,7 @@
         "title": "Reigns – Antigeist",
         "link": "https://thequietus.com/quietus-reviews/reigns-antigeist-review/",
         "published": "2026-10-22T04:55:00Z",
-        "description": "Reigns Antigeist Wessex duo grow into a quartet, get amped, still full of doom The Antigeist by Reigns Somerset is a real epicentre of modern druidry and all things occult. Stonehenge is there, the Stanton Drew Stone Circles are there and Glastonbury Tor is there, all generating plenty of neo-pagan energy. It is also the mystical home county of sibling duo Reigns (Roo and Tim Farthing) who since their 2004 debut have consistently welded horror-flavoured storytelling and a trippy electro-folk sound to create a discography that could serve a spiritual companion to Fernando Pessoa’s The Book of Disquiet Reigns’ signature is mining the darker side of humanity through their work, offering the…"
+        "description": "Reigns Antigeist Wessex duo grow into a quartet, get amped, still full of doom The Antigeist by Reigns Somerset is a real epicentre of modern druidry and all things occult. The Stanton Drew Stone Circles are there and Glastonbury Tor is there, both generating plenty of neo-pagan energy. It is also the mystical home county of sibling duo Reigns (Roo and Tim Farthing) who since their 2004 debut have consistently welded horror-flavoured storytelling and a trippy electro-folk sound to create a discography that could serve a spiritual companion to Fernando Pessoa’s The Book of Disquiet Reigns’ signature is mining the darker side of humanity through their work, offering the audience scant relief…"
       },
       {
         "title": "Matt Carmichael on New Album and EFG London Jazz Festival Appearance",
@@ -994,6 +994,12 @@
     ],
     "residentadvisor": [],
     "aquariumdrunkard": [
+      {
+        "title": "Chris Lyons :: New Love for the Old Flame",
+        "link": "https://aquariumdrunkard.com/2026/10/22/chris-lyons-new-love-for-the-old-flame/",
+        "published": "2026-10-22T17:07:16Z",
+        "description": "After a pair of excellent albums fronting his New Orleans quartet Silver Synthetic, last year's Painters Street saw musician and vocalist Chris Lyons venturing into promising solo pathways. On sophomore record New Love for the Old Flame , Lyons presents a dazzling collection hovering like the forlorn days of the golden AM dial. The comfort of a lazy afternoon personified in sound."
+      },
       {
         "title": "Jimmy Webb :: The Aquarium Drunkard Interview",
         "link": "https://aquariumdrunkard.com/2026/10/22/jimmy-webb-the-aquarium-drunkard-interview/",
@@ -1035,12 +1041,6 @@
         "link": "https://aquariumdrunkard.com/2026/10/15/twin-peaks-fire-walk-with-me-soundtrack-angelo-badalamenti/",
         "published": "2026-10-15T13:30:00Z",
         "description": "Mid-October approaches, and the owls are not what they seem. The best records belong to a particular hour, season, or state of mind. The soundtrack to David Lynch’s Twin Peaks: Fire Walk with Me seems to exist just beyond all three, somewhere between the last light and whatever waits after dark."
-      },
-      {
-        "title": "Booker Stardrum :: The Aquarium Drunkard Interview",
-        "link": "https://aquariumdrunkard.com/2026/10/15/booker-stardrum-the-aquarium-drunkard-interview/",
-        "published": "2026-10-15T13:00:00Z",
-        "description": "Jazz grip. Booker Stardrum’s work spans solo recordings, electronic experiments, and collective improvisation. In 2026, he’s released his fourth solo album, Close-up On The Outside , alongside new records with Play Time, OOPS!, Silk Fence, and SML. We spoke with Stardrum about his compositional process and the challenges and possibilities of working across so many different musical settings."
       }
     ],
     "bandcampdaily": [
@@ -1263,7 +1263,7 @@
         "title": "Masao Adachi: Demystifying a Legend",
         "link": "https://mubi.com/en/notebook/posts/masao-adachi-demystifying-a-legend",
         "published": "2026-10-20T08:00:00Z",
-        "description": "Masao Adachi in 2025. Photograph by David Matthew Davis. Masao Adachi is a filmmaker whose reputation well and truly proceeds him. Born in 1939 in Kyushu, Japan, he moved to Tokyo to attend Nihon University, coming of age during the turbulent protests against the renewal of the mutual security treaty between Japan and the United States in 1959–60. He started making films with a student group and soon emerged as one of the leading figures in the burgeoning underground cinema scene. In the mid-1960s, Adachi became involved with the sexploitation industry, writing and directing several striking examples of the genre for Koji Wakamatsu’s production company. He was also collaborating with major…"
+        "description": "Masao Adachi in 2025. Photograph by David Matthew Davis. Masao Adachi is a filmmaker whose reputation well and truly precedes him. Born in 1939 in Kyushu, Japan, he moved to Tokyo to attend Nihon University, coming of age during the turbulent protests against the renewal of the mutual security treaty between Japan and the United States in 1959–60. He started making films with a student group and soon emerged as one of the leading figures in the burgeoning underground cinema scene. In the mid-1960s, Adachi became involved with the sexploitation industry, writing and directing several striking examples of the genre for Koji Wakamatsu’s production company. He was also collaborating with major…"
       },
       {
         "title": "Remake, Remodel, Remarket",
@@ -1349,6 +1349,24 @@
     ],
     "filmstage": [
       {
+        "title": "The Complete Kubrick: Early Documentary Shorts, Fear and Desire, and Killer’s Kiss",
+        "link": "https://thefilmstage.com/the-complete-kubrick-early-documentary-shorts-fear-and-desire-and-killers-kiss/",
+        "published": "2026-10-22T18:04:46Z",
+        "description": "In celebration of Criterion’s The Complete Kubrick, we’re publishing a season of features dedicated to the filmmaker’s oeuvre and beyond, going through Criterion’s box set era by era and disc by disc—plus a couple of surprises from the archives. Explore more here and read part one below. Early documentary shorts: Day of the Fight (1951), […]"
+      },
+      {
+        "title": "The Complete Kubrick: A Season of Celebrating the Legendary Director",
+        "link": "https://thefilmstage.com/the-complete-kubrick-a-season-of-celebrating-the-legendary-director/",
+        "published": "2026-10-22T18:03:51Z",
+        "description": "Hollywood’s feted genius, chessmaster, international man of mystery; yet a simple Jewish mama’s boy, insatiably curious, who retained his plainspoken Bronx drawl and unconditional adoration of his family and pets to his dying day; across thirteen feature films in just under half a century, the greatest enduring gift of Stanley Kubrick may be his obliteration […]"
+      },
+      {
+        "title": "Haley Lu Richardson and Michelle Mao Forge a Hong Kong Connection In U.S. Trailer for Kogonada’s Zi",
+        "link": "https://thefilmstage.com/haley-lu-richardson-and-michelle-mao-connect-forge-a-hong-kong-connection-in-u-s-trailer-for-kogonadas-zi/",
+        "published": "2026-10-22T15:31:10Z",
+        "description": "Following his lovely debut Columbus and strange, stirring sci-fi tale After Yang, Kogonada entered the big-budget filmmaking arena with A Big Bold Beautiful Journey, a misguided romantic fantasy that, despite having its heart in the right place, failed to connect. In an attempt to create something more spontaneous and free from complex studio logistics, he ventured to Hong Kong […]"
+      },
+      {
         "title": "The Best Movies Now Playing in Theaters",
         "link": "https://thefilmstage.com/the-best-movies-now-playing-in-theaters/",
         "published": "2026-10-22T13:09:04Z",
@@ -1377,24 +1395,6 @@
         "link": "https://thefilmstage.com/venice-review-possible-love-marks-a-triumphant-return-for-lee-chang-dong/",
         "published": "2026-10-22T10:54:00Z",
         "description": "Note: This review was originally published as part of our 2026 Sundance coverage. The film opens in theaters on October 23 and hits Netflix on November 6. In a year of unknown quantities at the Venice Film Festival, Lee Chang-dong’s Possible Love has delivered the triumph for which fans of the elusive director had been […]"
-      },
-      {
-        "title": "The Only Living Pickpocket in New York Review: John Turturro Shines",
-        "link": "https://thefilmstage.com/sundance-review-john-turturro-shines-in-the-only-living-pickpocket-in-new-york/",
-        "published": "2026-10-22T10:30:00Z",
-        "description": "Note: This review was originally published as part of our 2026 Sundance coverage. The film opens in theaters on October 23. The thing about New York City is: it’s never as good as it was, yet it’s still better than anywhere else. The only thing constant is change, and the city is a paragon of […]"
-      },
-      {
-        "title": "Wicker Review: Audaciously Contemplating the Self-Destructive Perils of Jealousy",
-        "link": "https://thefilmstage.com/sundance-review-wicker-audaciously-contemplates-the-self-destructive-perils-of-jealousy/",
-        "published": "2026-10-22T09:52:00Z",
-        "description": "Note: This review was originally published as part of our 2026 Sundance coverage. The film opens in theaters on October 23. The jealousy of unhappy couples. The pettiness of mean girls. The frustration of insecure husbands. It’s a tale as old as time that’s curiously interpreted by writer-directors Eleanor Wilson and Alex Huston Fischer in […]"
-      },
-      {
-        "title": "A Talent for Murder Review: Thriller Doesn’t Live Up to Patricia Highsmith’s Legacy",
-        "link": "https://thefilmstage.com/tiff-review-a-talent-for-murder-doesnt-live-up-to-patricia-highsmiths-legacy/",
-        "published": "2026-10-22T09:51:00Z",
-        "description": "Note: This review was originally published as part of our 2026 TIFF coverage. The film opens in theaters on October 23. Old ladies need movies as festivals like TIFF need world premieres. So is the case with A Talent for Murder, which can be applied to a subgenre known as Mirrenslop. Other highlights (or rather […]"
       }
     ],
     "cinephilia": [
@@ -1551,16 +1551,16 @@
         "description": "I wrote my mother’s mad letters to celebrities. It was the only time we shared the same plane of reality - by Joe Mullich Read on Psyche"
       },
       {
-        "title": "How to overcome task paralysis",
-        "link": "https://psyche.co/guides/how-to-overcome-task-paralysis",
-        "published": "2026-10-20T10:00:00Z",
-        "description": "If you have ADHD or you’re stressed, tired and stuck, goal management training can help you get started and keep going - by Joe Wilner Read on Psyche"
-      },
-      {
         "title": "Are you getting enough sun?",
         "link": "https://psyche.co/notes-to-self/why-sunlight-is-vital-to-our-physical-and-mental-health",
         "published": "2026-10-20T10:00:00Z",
         "description": "The new book ‘In Defense of Sunlight’ argues that our concerns about the sun’s risks lead us to overlook its benefits - by Hannah Seo Read on Psyche"
+      },
+      {
+        "title": "How to overcome task paralysis",
+        "link": "https://psyche.co/guides/how-to-overcome-task-paralysis",
+        "published": "2026-10-20T10:00:00Z",
+        "description": "If you have ADHD or you’re stressed, tired and stuck, goal management training can help you get started and keep going - by Joe Wilner Read on Psyche"
       },
       {
         "title": "Portraits of another life: Nemo Gould",
@@ -1667,6 +1667,24 @@
     ],
     "nautilus": [
       {
+        "title": "We Now Know What Denisovans Looked Like",
+        "link": "https://nautil.us/we-now-know-what-denisovans-looked-like-1286027/",
+        "published": "2026-10-22T18:00:00Z",
+        "description": "An analysis of their skulls paints a picture of our archaic cousins"
+      },
+      {
+        "title": "A New Fossil Hints at the Surprising Origins of Snakes",
+        "link": "https://nautil.us/a-new-fossil-hints-at-the-surprising-origins-of-snakes-1286024/",
+        "published": "2026-10-22T17:00:00Z",
+        "description": "By the Cretaceous, they’d already tried on several different lifestyles and sensory styles"
+      },
+      {
+        "title": "Watch Humpback Whales Team Up With Sea Lions to Hunt",
+        "link": "https://nautil.us/watch-humpback-whales-team-up-with-sea-lions-to-hunt-1286012/",
+        "published": "2026-10-22T14:25:15Z",
+        "description": "A beneficial partnership in Monterey Bay"
+      },
+      {
         "title": "The Surprising Origins of Native Hawaiians",
         "link": "https://nautil.us/the-surprising-origins-of-native-hawaiians-1286009/",
         "published": "2026-10-21T23:00:00Z",
@@ -1695,24 +1713,6 @@
         "link": "https://nautil.us/the-worlds-largest-penguin-colony-suffers-catastrophic-loss-1285989/",
         "published": "2026-10-21T17:00:00Z",
         "description": "Something is amiss in Antarctica"
-      },
-      {
-        "title": "Be Nice to Your Chatbot",
-        "link": "https://nautil.us/be-nice-to-your-chatbot-1285986/",
-        "published": "2026-10-21T16:00:00Z",
-        "description": "It couldn’t hurt, and it might help"
-      },
-      {
-        "title": "63 Years Ago This Week, Félicette Became the First Cat in Space",
-        "link": "https://nautil.us/63-years-ago-this-week-felicette-became-the-first-cat-in-space-1285981/",
-        "published": "2026-10-21T15:00:00Z",
-        "description": "She’s still the only feline to have the honor"
-      },
-      {
-        "title": "Primates Also Become Germophobes After Living Through a Viral Outbreak",
-        "link": "https://nautil.us/primates-also-become-germophobes-after-living-through-a-viral-outbreak-1285973/",
-        "published": "2026-10-20T23:05:00Z",
-        "description": "And it could shed light on the evolutionary origins of disgust"
       }
     ],
     "worksinprogress": [],
@@ -1827,7 +1827,7 @@
         "title": "The Uncanny Catharsis of the AI Emomercial",
         "link": "https://www.theparisreview.org/blog/2026/10/20/the-uncanny-catharsis-of-the-ai-emomercial/",
         "published": "2026-10-20T15:34:54Z",
-        "description": "The new kind of AI skincare ad is a subgenre in a rampant category that I have come to think of as “Purification Slop.\""
+        "description": "“The new kind of AI skincare ad is a subgenre in a rampant category that I have come to think of as ‘Purification Slop.’ ”"
       },
       {
         "title": "John Steinbeck, Unlocked: “East of Eden is Going to Take a Bad Beating”",
@@ -1918,6 +1918,12 @@
     ],
     "longreads": [
       {
+        "title": "The Dominican Baseball Factory",
+        "link": "https://longreads.com/2026/10/22/dominican-republic-major-league-baseball-investigation/",
+        "published": "2026-10-22T15:22:41Z",
+        "description": "\"Teams make handshake deals with players as young as 11 while moneylenders prey on their families. The industry is corrupt, but Major League Baseball and the players union have done little about it.\""
+      },
+      {
         "title": "Apocalypse Now and Then",
         "link": "https://longreads.com/2026/10/22/arundhati-roy-ai/",
         "published": "2026-10-22T12:00:00Z",
@@ -1958,12 +1964,6 @@
         "link": "https://longreads.com/2026/10/20/john-berger-about-looking-ways-of-seeing/",
         "published": "2026-10-20T16:12:51Z",
         "description": "\"The works of the British art critic John Berger offer the antidote to our age of infinite scrolling.\""
-      },
-      {
-        "title": "Death by a Thousand Dams",
-        "link": "https://longreads.com/2026/10/20/dams-fish-migration-america/",
-        "published": "2026-10-20T11:00:00Z",
-        "description": "\"Tens of thousands of small barriers hamper fish recovery in the northeastern United States.\""
       }
     ]
   }
