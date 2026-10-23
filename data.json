@@ -387,6 +387,30 @@
     "reuters": [],
     "bbc": [
       {
+        "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
+        "link": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-23T13:58:04Z",
+        "description": "The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines."
+      },
+      {
+        "title": "Watch: BBC presenter battles strong winds as storm hits Newquay",
+        "link": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-23T08:26:47Z",
+        "description": "BBC lead weather presenter Simon King is in Newquay as the \"full force\" of the storm arrives."
+      },
+      {
+        "title": "Anti-terror police investigate as one person killed in shooting near Paris",
+        "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-23T13:26:48Z",
+        "description": "French Prime Minister Sébastien Lecornu says the suspected gunman has been apprehended."
+      },
+      {
+        "title": "Burnham suggests stocking up on tinned food and bottled water",
+        "link": "https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-23T12:41:10Z",
+        "description": "The prime ministers says unexpected events seem to be becoming more common and it was wise to prepare."
+      },
+      {
         "title": "Detective raped by colleague says Met handling of case 'like being raped again'",
         "link": "https://www.bbc.co.uk/news/articles/ckdd83dz0153o?at_medium=RSS&at_campaign=rss",
         "published": "2026-10-23T05:00:05Z",
@@ -399,97 +423,73 @@
         "description": "Det Con Linda Williams, a victim of serial abuser David Carrick, says she has no faith in the system."
       },
       {
-        "title": "Trump says Musk has restored access to Ukraine's Starlink network",
-        "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-22T21:42:39Z",
-        "description": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access."
+        "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
+        "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-23T12:48:52Z",
+        "description": "The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election."
       },
       {
-        "title": "Raye wins the Mercury Prize with This Music May Contain Hope",
-        "link": "https://www.bbc.co.uk/news/articles/cw073mj02v72o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-23T00:14:08Z",
-        "description": "The pop star beat artists like Paul McCartney, Suede and Jade Thirlwall to lift the £25,000 prize."
-      },
-      {
-        "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
-        "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-23T07:52:32Z",
-        "description": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes."
-      },
-      {
-        "title": "First personalised cancer vaccine cuts risk of disease returning in major trial",
-        "link": "https://www.bbc.co.uk/news/articles/cq0ld9g9e913o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-23T07:49:02Z",
-        "description": "The scientists involved say the results could mark a turning point in cancer treatment, bringing personalised medicine a step closer."
-      },
-      {
-        "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
-        "link": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-23T05:05:03Z",
-        "description": "The sequence is part of the latest Blue Planet series from Sir David Attenborough."
-      },
-      {
-        "title": "Chancellor says he will cut 'pointless paperwork' to save businesses up to £800m",
-        "link": "https://www.bbc.co.uk/news/articles/cm5ynpywq1e3o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-23T05:00:32Z",
-        "description": "Ministers say the changes in regulations will reduce unnecessary bureaucracy."
+        "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
+        "link": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-23T10:14:37Z",
+        "description": "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month."
       }
     ],
     "aljazeera": [
       {
-        "title": "Harry Kane hopes Ballon d’Or produces ‘special night’ in hometown",
-        "link": "https://www.aljazeera.com/sports/2026/10/23/harry-kane-hopes-ballon-dor-produces-special-night-in-hometown?traffic_source=rss",
-        "published": "2026-10-23T07:56:27Z",
-        "description": "Kane, who scored 73 goals last season, is among the favourites for award with Lamine Yamal and Kylian Mbappe."
+        "title": "Dembele to miss Ballon d’Or event as PSG game moved amid protests in France",
+        "link": "https://www.aljazeera.com/sports/2026/10/23/dembele-to-miss-ballon-dor-event-as-psg-game-moved-amid-protests-in-france?traffic_source=rss",
+        "published": "2026-10-23T13:46:12Z",
+        "description": "Paris Saint-Germain's game has been postponed following a request by police amid a wave of violent protests in France."
       },
       {
-        "title": "Why is Gen Z revolting?",
-        "link": "https://www.aljazeera.com/opinions/2026/10/23/why-is-gen-z-revolting?traffic_source=rss",
-        "published": "2026-10-23T07:51:31Z",
-        "description": "From France to India, young people are in the streets over inequality, failing public services and bleak prospects."
+        "title": "Kenya’s marathon champion Peres Jepchirchir provisionally banned by AIU",
+        "link": "https://www.aljazeera.com/sports/2026/10/23/kenyas-marathon-champion-peres-jepchirchir-provisionally-banned-by-aiu?traffic_source=rss",
+        "published": "2026-10-23T13:45:21Z",
+        "description": "Jepchirchir tested positive for banned blood booster EPO in a sample taken before her Sydney Marathon win in August."
       },
       {
-        "title": "Are global oil reserves sufficient to withstand renewed US-Iran war?",
-        "link": "https://www.aljazeera.com/news/2026/10/23/are-global-oil-reserves-sufficient-to-withstand-renewed-us-iran-war?traffic_source=rss",
-        "published": "2026-10-23T07:37:12Z",
-        "description": "With emergency stocks at multidecade lows, analysts say the world may have only a month or two if Hormuz shuts again."
+        "title": "White House says Melania Trump ‘secured a ceasefire’ in Ukraine’s Oleshky",
+        "link": "https://www.aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky?traffic_source=rss",
+        "published": "2026-10-23T13:39:06Z",
+        "description": "No confirmation from Russia or Ukraine as White House says 'localised' ceasefire to take effect in Oleshky."
       },
       {
-        "title": "Europe needs a war economy",
-        "link": "https://www.aljazeera.com/opinions/2026/10/23/europe-needs-a-war-economy?traffic_source=rss",
-        "published": "2026-10-23T07:08:10Z",
-        "description": "With US support increasingly uncertain, Europe must mobilise its financial and industrial power to defend itself."
+        "title": "At least seven killed after gunmen open fire at church in Jordan",
+        "link": "https://www.aljazeera.com/news/2026/10/23/at-least-seven-killed-after-gunmen-open-fire-at-church-in-jordan?traffic_source=rss",
+        "published": "2026-10-23T13:32:40Z",
+        "description": "Survivors say two masked gunmen began shooting as dozens attended a funeral procession."
       },
       {
-        "title": "Maradona death: Verdict in trial to be delivered on December 22",
-        "link": "https://www.aljazeera.com/sports/2026/10/23/maradona-death-verdict-in-trial-to-be-delivered-on-december-22?traffic_source=rss",
-        "published": "2026-10-23T06:55:21Z",
-        "description": "The trial of seven healthcare professionals accused of negligence in Maradona's death concludes, December verdict set."
+        "title": "Hundreds to defy Palestine Action ban in protest at US embassy in London",
+        "link": "https://www.aljazeera.com/features/2026/10/23/hundreds-to-defy-palestine-action-ban-in-protest-at-us-embassy-in-london?traffic_source=rss",
+        "published": "2026-10-23T13:25:58Z",
+        "description": "Campaigners plan mass Halloween action before Supreme Court hearing on challenge to group's 'terrorist' proscription."
       },
       {
-        "title": "How the midterms could change Trump’s presidency",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_trumpmidterms-231026?traffic_source=rss",
-        "published": "2026-10-23T06:28:05Z",
-        "description": "Donald Trump isn't on the ballot this November, but the midterms could change the final two years of his presidency."
+        "title": "NFL would cancel Paris game if unsafe due to riots, Steelers’ Rodgers says",
+        "link": "https://www.aljazeera.com/sports/2026/10/23/nfl-would-cancel-paris-game-if-unsafe-due-to-riots-steelers-rodgers-says?traffic_source=rss",
+        "published": "2026-10-23T13:19:19Z",
+        "description": "Steelers to face New Orleans Saints in ⁠Saint-Denis on Sunday, about 10km from where Saturday's protests ​are expected."
       },
       {
-        "title": "FIFA President Infantino’s re-election endorsed in U-turn by Asian football",
-        "link": "https://www.aljazeera.com/sports/2026/10/23/asian-football-endorses-infantino-re-election-as-fifa-president?traffic_source=rss",
-        "published": "2026-10-23T06:11:27Z",
-        "description": "Support crucial from 47-nation AFC's president, who was critic of Gianni Infantino over failed private investment plan."
+        "title": "Trump ordered to testify in $10bn BBC lawsuit discovery: What happens now?",
+        "link": "https://www.aljazeera.com/news/2026/10/23/trump-ordered-to-testify-in-10bn-bbc-lawsuit-discovery-what-happens-now?traffic_source=rss",
+        "published": "2026-10-23T13:17:46Z",
+        "description": "Trump could face sanctions, including dismissal of his lawsuit, if he fails to cooperate with questioning."
       },
       {
-        "title": "Manchester United labelled ‘babies’ by club legend Wayne Rooney",
-        "link": "https://www.aljazeera.com/sports/2026/10/23/manchester-united-labelled-clowns-by-club-legend-wayne-rooney?traffic_source=rss",
-        "published": "2026-10-23T06:11:17Z",
-        "description": "Manchester United manager Michael Carrick is under growing pressure, but club legend Wayne Rooney takes aim at players."
+        "title": "Russia drops cluster bombs on Ukraine as Kyiv consolidates front line",
+        "link": "https://www.aljazeera.com/news/2026/10/23/russia-drops-cluster-bombs-on-ukraine-as-kyiv-consolidates-front-line?traffic_source=rss",
+        "published": "2026-10-23T13:17:18Z",
+        "description": "Russia’s territorial gains this year are effectively nil as it heads into trilateral talks with Ukraine, US."
       }
     ],
     "ft": [
       {
-        "title": "Oil hits $114 for first time since May as global stocks hit by AI fears",
+        "title": "Oil hits $115 for first time since May as global stocks knocked by AI fears",
         "link": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
-        "published": "2026-10-23T07:05:27Z",
+        "published": "2026-10-23T12:16:14Z",
         "description": "Markets face twin threats of surging crude prices and concern over durability of AI boom"
       },
       {
@@ -523,16 +523,16 @@
         "description": "If inflation and debt rise and AI optimism falls, then the danger of reducing Treasury maturities grows"
       },
       {
-        "title": "US is prepared for long stand-off with Iran, says Trump envoy",
-        "link": "https://www.ft.com/content/70379a26-c20e-4501-aec9-a9a0089cdd3d?syn-25a6b1a6=1",
-        "published": "2026-10-23T04:00:37Z",
-        "description": "Mike Waltz warns Tehran it must reach a ‘meaningful agreement’ on its nuclear programme"
+        "title": "Anthropic strikes deal to launch European consultancy",
+        "link": "https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4?syn-25a6b1a6=1",
+        "published": "2026-10-23T09:04:09Z",
+        "description": "New company backed by Anthropic and UK buyout group Hg will advise companies on how to deploy AI"
       },
       {
-        "title": "Europe’s largest landlord exposed to €8bn hit from Berlin apartment plans",
-        "link": "https://www.ft.com/content/57e5b584-78b8-49a5-be2b-c02bba63886a?syn-25a6b1a6=1",
-        "published": "2026-10-23T04:00:28Z",
-        "description": "Vonovia vulnerable to compulsory purchase of 120,000 flats under proposals from winners of state election"
+        "title": "OpenAI trims valuation target to $1.25tn after pitching higher price",
+        "link": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc?syn-25a6b1a6=1",
+        "published": "2026-10-22T21:50:16Z",
+        "description": "AI lab floated $1.4tn price tag earlier this month, according to documents seen by the FT"
       }
     ],
     "restofworld": [
@@ -587,6 +587,12 @@
     ],
     "propublica": [
       {
+        "title": "Bird Flu Is Raging on a Mink Farm. It Could Spark a Human Pandemic, Experts Say, but Officials Won’t Act.",
+        "link": "https://www.propublica.org/article/bird-flu-mink-farm-utah-human-risk",
+        "published": "2026-10-23T09:00:00Z",
+        "description": ""
+      },
+      {
         "title": "Nuclear Weapons Waste Made Workers Sick. Despite a Law Meant to Help, the DOE Keeps Fighting Their Claims.",
         "link": "https://www.propublica.org/article/hanford-nuclear-workers-compensation-washington-doe",
         "published": "2026-10-22T12:00:00Z",
@@ -626,12 +632,6 @@
         "title": "The Secret Terms of Trump’s Venezuelan Oil Deal",
         "link": "https://www.propublica.org/article/trump-venezuela-oil-agreement-terms",
         "published": "2026-10-21T01:53:00Z",
-        "description": ""
-      },
-      {
-        "title": "How Trump’s FBI Purge Saved Lindsey Graham and James Clyburn From a Bribery Investigation",
-        "link": "https://www.propublica.org/article/navatek-lindsey-graham-jim-clyburn-fbi-anti-corruption-bribery",
-        "published": "2026-10-20T09:00:00Z",
         "description": ""
       }
     ],
@@ -692,16 +692,16 @@
     "chelsea_sky": [],
     "guardianfootball": [
       {
-        "title": "Manchester United latest, European reaction and more: football news – live",
+        "title": "Carrick ‘100%’ sure he can lead United forward; Dortmund take on the influencers: football – live",
         "link": "https://www.theguardian.com/football/live/2026/oct/23/manchester-united-latest-european-reaction-and-more-football-news-live",
-        "published": "2026-10-23T07:52:21Z",
-        "description": "⚽ All the latest news going into the weekend’s action ⚽ Premier League: weekend guide | Mail Tom Morning everyone. What about them Cherries eh? Before we dive deep into weekend previews, Manchester United melodramas and what have you, some moments to reflect on last night’s action. Chief among them was the continuation of Bournemouth’s European fairytale – a deserved 3-0 Europa League shellacking of Milan, a result barely conceivable two decades ago, but, as Nick Ames sagely points out in his match report , not a great surprise given the resources even mid-ranking Premier League clubs can now command compared to fading Serie A giants. Elsewhere, Sunderland dug in for a draw at Lech Poznan,…"
+        "published": "2026-10-23T13:45:23Z",
+        "description": "⚽ All the latest news going into the weekend’s action ⚽ Premier League: weekend guide | Mail Tom Álvaro Arbeloa’s been talking ahead of Fulham’s trip to Coventry on Saturday, and buoyed up by last weekend’s much needed win over Hull. “Nothing has changed for us,” insisted the manager, “we were not winning games but we believed in ourselves, we were doing so many things well, “The most important thing [about the Hull win] is we were in same situation against Manchester United and Ipswich but didn’t win but now we had to improve in our transition and did. We controlled the ball in their half better than before.” As the Messi-Ronaldo rivalry faded, though, so too did the clásico ’s relevance.…"
       },
       {
-        "title": "Premier League: 10 things to look out for this weekend",
-        "link": "https://www.theguardian.com/football/2026/oct/23/premier-league-10-things-to-look-out-for-this-weekend",
-        "published": "2026-10-22T23:01:52Z",
-        "description": "Max Dowman may get a chance, Spurs need to find balance at Stamford Bridge and Axel Disasi must make amends Premier League top scorers After seven games, Nottingham Forest’s record is eerily similar to last season: five points, five goals scored. A year ago Forest’s eighth game was a 3-0 home loss to Chelsea that marked the end for Ange Postecoglou , the second of four managers to occupy the dugout last term. There is no suggestion that Oliver Glasner is under similar scrutiny yet, but the Austrian needs to find solutions for the league’s lowest scorers. Morgan Gibbs-White is available after missing the narrow defeat by Arsenal , while Liam Delap may benefit from a return to familiar…"
+        "title": "Slegers and misfiring Arsenal badly need a result in WSL north London derby",
+        "link": "https://www.theguardian.com/football/2026/oct/23/arsenal-women-renee-slegers-tottenham-north-london-derby-womens-super-league",
+        "published": "2026-10-23T11:58:27Z",
+        "description": "Gunners’ title hopes have seemingly evaporated and their under-pressure manager faces her latest test against Spurs It says much about Arsenal’s predicament that the team who have conceded 12 in two games are not the side whose manager is under most pressure before a north London derby. Tottenham, four points above their neighbours before Saturday’s meeting, may have been humbled in consecutive Women’s Super League matches – but all eyes are on Renée Slegers. Arsenal are winless in five WSL matches for the first time, and the most decorated club in English women’s football desperately need a turning point. Their failure to beat Birmingham City at home last Saturday, dropping points against…"
       },
       {
         "title": "Chaotic state of football in Brazil epitomises a nation where greed has conquered glory | Jonathan Liew",
@@ -710,34 +710,34 @@
         "description": "The national game merely reflects the mood in a divided nation which is going to the polls with very little faith in the power of democracy Look, cards on the table: I don’t know for certain, and nor do you, whether Flávio Bolsonaro – the man widely tipped to become the next president of Brazil after Sunday night’s election – really did steal an island from Richarlison. There are lawyers involved, claims and counter-claims, and in any case, adjudicating land ownership disputes between right-wing strongmen and Tottenham reserve-team strikers lies very much beyond this column’s spectrum of expertise. It’s why, for example, this newspaper took no official position on the well-publicised…"
       },
       {
+        "title": "Is el clásico still the world’s biggest match? Three questions before Barcelona v Real Madrid",
+        "link": "https://www.theguardian.com/football/2026/oct/23/el-clasico-real-madrid-barcelona-lamine-yamal-kylian-mbappe",
+        "published": "2026-10-23T09:00:05Z",
+        "description": "The fixture’s relevance waned as the Messi-Ronaldo rivalry faded. Can Lamine Yamal and Mbappé lift it into a new era? For the best part of a decade, el clásico was more than just soccer’s biggest fixture. It was the defining narrative. At the peak of the Lionel Messi v Cristiano Ronaldo era, there were clásicos everywhere. Yes, when the two historic rivals clashed on the pitch, but also in the voting for the Ballon d’Or every year and in so much of the discourse around the sport. As the Messi-Ronaldo rivalry faded, though, so too did the clásico ’s relevance. This isn’t to say matches between Barcelona and Real Madrid no longer matter. They always have and always will. In 2026, however,…"
+      },
+      {
+        "title": "Crystal Palace and Newcastle face off with both in search of season kickstart",
+        "link": "https://www.theguardian.com/football/2026/oct/23/crystal-palace-and-newcastle-face-off-with-both-in-search-of-season-kickstart",
+        "published": "2026-10-23T13:36:21Z",
+        "description": "Pierre Sage and Matthias Jaissle were appointed this summer and good form has been elusive, with injuries and tactics as factors Conceding 17 goals in seven Premier League matches is not exactly the start Pierre Sage or Crystal Palace’s hierarchy would have hoped for. The transition from Oliver Glasner’s counterattacking 3-4-2-1 formation to the Frenchman’s more aggressive approach has exposed massive weaknesses in defence, culminating with last week’s humiliating defeat at Brighton. Palace fans became used to success under Glasner and they are already looking nervously over their shoulders at the bottom three. Even their league wins under Sage so far – against Fulham and Nottingham Forest…"
+      },
+      {
+        "title": "Pascal Gross: the obsessive runner keeping Brighton ‘one step ahead’ after fast start",
+        "link": "https://www.theguardian.com/football/2026/oct/23/fabian-gross-obsessive-runner-brighton-one-step-ahead",
+        "published": "2026-10-23T11:11:11Z",
+        "description": "Midfielder ‘who can never stand still’ has brought renewed energy to Seagulls since return to the club in January Most footballers like to spend their summers unwinding after a long season but not Pascal Gross. Having been part of the Germany squad eliminated in the quarter-finals of Euro 2024 , the midfielder entered – and won – a running race. Gross completed the 8.4km course on Juist, in the East Frisian islands, in 31 minutes and 35 seconds. He is not known as someone who courts attention, and his victory by more than a minute came to light only when a video was posted on social media by a competitor. Continue reading..."
+      },
+      {
         "title": "Asian Football Confederation backs Gianni Infantino in U-turn on Fifa presidency",
         "link": "https://www.theguardian.com/football/2026/oct/23/asian-football-confederation-backs-gianni-infantino-u-turn-fifa-president",
         "published": "2026-10-23T07:37:56Z",
         "description": "AFC president Sheikh Salman praises and hugs Infantino It had stood with Uefa and Concacaf against him The Asian Football Confederation has endorsed Gianni Infantino for another term as Fifa’s president in a turnaround in its stance from two months ago when it criticised the head of football’s world governing body for a breach of trust. The AFC president, Sheikh Salman bin Ibrahim al-Khalifa, speaking at the body’s extraordinary congress in Tokyo on Friday, embraced Infantino with a large hug in front of the membership as he delivered his endorsement. Continue reading..."
       },
       {
-        "title": "Bournemouth enjoy night to remember as 10-man Milan fail to weather storm",
-        "link": "https://www.theguardian.com/football/2026/oct/22/bournemouth-milan-europa-league-match-report",
-        "published": "2026-10-22T21:00:49Z",
-        "description": "This was a momentous night in Bournemouth’s history, although the truth is they would have been given a far sterner examination by Coventry or Hull. Whatever this rotten impersonation of a Milan side was, it bore no relation to those that forged such a celebrated history. The visitors resembled holograms even before their goalkeeper Mike Maignan, with an extraordinary rush of blood resulting in a penalty and red card, rendered their task impossible. They never showed the slightest hint of putting up a fight. Bournemouth simply swamped the seven-time European champions and, amid a swirling south coast storm that rarely let up, could depart singing in the rain. Amine Adli’s sumptuous late…"
-      },
-      {
-        "title": "Europa League: Celtic lose to Celta after leading, Mateta returns in Palace draw",
-        "link": "https://www.theguardian.com/football/2026/oct/22/europa-league-sunderland-held-in-poznan-as-juventus-denied-comeback-win",
-        "published": "2026-10-22T21:41:11Z",
-        "description": "Sunderland drop points in 1-1 draw but stay unbeaten VAR rules out Juventus winner in draw with Rennes Celtic suffered more Europa League pain as Spanish side Celta Vigo came from behind to win 2-1 at Parkhead. After defeats by Ferencvaros and Benfica in their first two league phase fixtures, Martin O’Neill’s side struggled to impose themselves on the visitors who were neat and tidy without really testing Hoops keeper Sam Johnstone. Germany midfielder Mika Baur fired the home side in front just over a minute into the second half to thrill the Celtic fans but Spain defender Javi Rodríguez scored twice in three minutes – a header then an unstoppable drive – to stun the home side who could…"
-      },
-      {
-        "title": "Champions League review: PSG take a hit, Man City’s empty seats and teenage hope for Liverpool",
-        "link": "https://www.theguardian.com/football/2026/oct/22/champions-league-review-psg-take-a-hit-man-citys-empty-seats-and-teenage-hope-for-liverpool",
-        "published": "2026-10-22T13:42:43Z",
-        "description": "The reigning champions must deal with the absence of Khvicha Kvaratskhelia for some time, while fans at Anfield were thrilled by Rio Ngumoha Paris Saint-Germain beat Barcelona 4-2 on Tuesday , but the reigning champions lost the best player in last season’s tournament, Khvicha Kvaratskhelia. This autumn has seen much lobbying for the Ballon d’Or, with the Georgian a popular choice, despite his absence from the World Cup. He is expected to be out for six months, although Rodri’s comeback from serious injury – he was rested by Barcelona on Tuesday until coming off the bench in the 60th minute – shows it can take far longer than that for players to rediscover their highest level. Continue…"
-      },
-      {
-        "title": "Bruno Guimarães had sleepless nights before Newcastle exit but hopes for same ‘love’ at Arsenal",
-        "link": "https://www.theguardian.com/football/2026/oct/22/bruno-guimaraes-had-sleepless-nights-before-newcastle-exit-but-hopes-for-same-love-at-arsenal",
-        "published": "2026-10-22T14:00:32Z",
-        "description": "Midfielder says there were a lot of tears as he said goodbye at St James’ Park but he is enjoying the remorselessness at his new club For Bruno Guimarães, it was a time to show his steeliness, to fix his eyes on the prize – even if he knew it would surely mean them welling up. And then some. It was a tumultuous summer for the Brazil midfielder. A fine World Cup on a personal level was marred by a crucial penalty miss in the last-16 loss against Norway . Now he had the dream move lined up to Arsenal but it could not happen without breaking some hearts at Newcastle. Guimarães admits he lay awake at night as the emotions swirled. How could he leave Newcastle, the club where he made so many…"
+        "title": "Premier League: 10 things to look out for this weekend",
+        "link": "https://www.theguardian.com/football/2026/oct/23/premier-league-10-things-to-look-out-for-this-weekend",
+        "published": "2026-10-22T23:01:52Z",
+        "description": "Max Dowman may get a chance, Spurs need to find balance at Stamford Bridge and Axel Disasi must make amends Premier League top scorers After seven games, Nottingham Forest’s record is eerily similar to last season: five points, five goals scored. A year ago Forest’s eighth game was a 3-0 home loss to Chelsea that marked the end for Ange Postecoglou , the second of four managers to occupy the dugout last term. There is no suggestion that Oliver Glasner is under similar scrutiny yet, but the Austrian needs to find solutions for the league’s lowest scorers. Morgan Gibbs-White is available after missing the narrow defeat by Arsenal , while Liam Delap may benefit from a return to familiar…"
       }
     ],
     "spielverlagerung": [
@@ -995,6 +995,12 @@
     "residentadvisor": [],
     "aquariumdrunkard": [
       {
+        "title": "A La Altura: Visionary Mexican Music 1977-1999",
+        "link": "https://aquariumdrunkard.com/2026/10/23/a-la-altura-visionary-mexican-music-1977-1999/",
+        "published": "2026-10-23T13:00:00Z",
+        "description": "Experimental music history is still, in large part, a Euro-American project. Rare are the efforts that highlight Latin American pioneers like Beatriz Ferreyra or Jocy de Oliveira, and rarer still are histories of electronic scenes with a pop, new age edge. A La Altura: Visionary Mexican Music 1977-1999 excavates the ambient underground of Mexico City, tracing a vibrant, largely overlooked circuit of independent cassette culture, dubbed tapes, and street stalls. Compiled by Carlos Icaza and Mark McNeill after a decade of research into the city’s cassette history, it offers a long-overdue portrait of Mexico’s experimental music underground."
+      },
+      {
         "title": "Chris Lyons :: New Love for the Old Flame",
         "link": "https://aquariumdrunkard.com/2026/10/22/chris-lyons-new-love-for-the-old-flame/",
         "published": "2026-10-22T17:07:16Z",
@@ -1035,12 +1041,6 @@
         "link": "https://aquariumdrunkard.com/2026/10/18/introducing-radio-free-aquarium-drunkard-longform-listening-worldwide-24-7/",
         "published": "2026-10-19T03:15:50Z",
         "description": "A Continuous Broadcast from Aquarium Drunkard. Hand-curated. No playlists. Nothing to scroll. Nothing random. Everything intentional. Transmitting from the hills of Northeast Los Angeles, Radio Free Aquarium Drunkard is a free, always-on radio station. Press play and you're tuned in to what's on the air right now, alongside everyone else. The broadcast continues and tracks advance whether or not you're listening. The app is free, but requires an active Apple Music subscription. James Barnes is the architect. Justin Gage is the selector."
-      },
-      {
-        "title": "Twin Peaks: Fire Walk With Me (Soundtrack, Angelo Badalamenti)",
-        "link": "https://aquariumdrunkard.com/2026/10/15/twin-peaks-fire-walk-with-me-soundtrack-angelo-badalamenti/",
-        "published": "2026-10-15T13:30:00Z",
-        "description": "Mid-October approaches, and the owls are not what they seem. The best records belong to a particular hour, season, or state of mind. The soundtrack to David Lynch’s Twin Peaks: Fire Walk with Me seems to exist just beyond all three, somewhere between the last light and whatever waits after dark."
       }
     ],
     "bandcampdaily": [
@@ -1147,6 +1147,24 @@
     "criterion": [],
     "rogerebert": [
       {
+        "title": "An Act of Devotion: Travis Knight on “Wildwood”",
+        "link": "https://www.rogerebert.com/interviews/an-act-of-devotion-travis-knight-on-wildwood",
+        "published": "2026-10-23T13:00:00Z",
+        "description": "A conversation with the director of Laika's new film Wildwood."
+      },
+      {
+        "title": "Sexy, Gripping Folk Horror Series “Yaga” Is a Surefire Hit",
+        "link": "https://www.rogerebert.com/streaming/yaga-amc-carrie-anne-moss-tv-review-2026",
+        "published": "2026-10-23T13:00:00Z",
+        "description": "Sandler’s screen adaptation slowly morphs into one of the year's most thrilling and sexy series."
+      },
+      {
+        "title": "CIFF 2026: Liz Here Now, Three Colors: Pan-African",
+        "link": "https://www.rogerebert.com/festivals/ciff-2026-liz-here-now-three-colors-pan-african",
+        "published": "2026-10-23T13:00:00Z",
+        "description": "On two indelible tales from the festival's Black Perspectives program."
+      },
+      {
         "title": "Seeking Truth: Tom Skerritt (1933-2026)",
         "link": "https://www.rogerebert.com/tributes/seeking-truth-tom-skerritt-1933-2026",
         "published": "2026-10-22T20:34:15Z",
@@ -1175,24 +1193,6 @@
         "link": "https://www.rogerebert.com/features/notorious-hitchcock-apppreciation",
         "published": "2026-10-21T13:00:00Z",
         "description": "Notorious turns 80 this year and it's as effective and powerful as ever."
-      },
-      {
-        "title": "CIFF 2026: “Finding Your Laughter,” “Ana, en passant,” “Chocolate Babies”",
-        "link": "https://www.rogerebert.com/festivals/ciff-2026-finding-your-laughter-ana-en-passant-chocolate-babies",
-        "published": "2026-10-20T15:46:06Z",
-        "description": "On three films from this year's Black Perspectives program."
-      },
-      {
-        "title": "The Things That Make You Who You Are: John Turturro on “The Only Living Pickpocket in New York”",
-        "link": "https://www.rogerebert.com/interviews/the-only-living-pickpocket-in-new-york-john-turturro-interview",
-        "published": "2026-10-20T13:00:00Z",
-        "description": "An interview with the star of The Only Living Pickpocket in New York."
-      },
-      {
-        "title": "Busan 2026: Midday Meal, Ibuku, Beach Fictions",
-        "link": "https://www.rogerebert.com/festivals/busan-international-film-festival-2026-midday-meal-ibuku-beach-fictions",
-        "published": "2026-10-19T18:13:15Z",
-        "description": "This latest dispatch covers a trio of award winners competing in Busan’s main competition."
       }
     ],
     "sightandsound": [],
@@ -1248,7 +1248,7 @@
     ],
     "mubi": [
       {
-        "title": "The Current Debate: The Unbearable Preachiness of Alejandro González Iñárritu “Digger”",
+        "title": "The Current Debate: The Unbearable Preachiness of Alejandro González Iñárritu's “Digger”",
         "link": "https://mubi.com/en/notebook/posts/the-current-debate-the-unbearable-preachiness-of-alejandro-gonzalez-inarritu-digger",
         "published": "2026-10-23T08:00:00Z",
         "description": "The Current Debate connects the dots around a topic of the critical conversation. Digger (Alejandro G. Iñárritu, 2026). Speaking to The New York Times a few days before Digger (2026) hit theaters, Alejandro G. Iñárritu said that the script of his eighth feature was originally called Blah, Blah, Blah . “The film was conceptually about the most dangerous weapon that we human beings have,” he told Melena Ryzik: “This little organ that is called the tongue.” Sure enough, people talk plenty in Digger , often at unhealthy decibels, and none more than the man at the heart—or the place where the heart should be—of this sprawling, verbose satire. To see Tom Cruise star in something other than the…"
@@ -1349,6 +1349,18 @@
     ],
     "filmstage": [
       {
+        "title": "Gu You on The First Taste of Loneliness and Returning to a “More Honest Way” of Filmmaking",
+        "link": "https://thefilmstage.com/gu-you-on-the-first-taste-of-loneliness-and-returning-to-a-more-honest-way-of-filmmaking/",
+        "published": "2026-10-23T13:00:00Z",
+        "description": "Three generations of women confront grief in The First Taste of Loneliness, the third entry in a trilogy from director Gu You. His debut film, Dwelling in the Fuchun Mountains (2019), screened at Cannes. Dwelling by the West Lake followed in 2023. First Taste stars the noted Chinese actor Zhou Xun as Jiang Yue, a […]"
+      },
+      {
+        "title": "New to Streaming: The Invite, The Weight, Marie Antoinette & More",
+        "link": "https://thefilmstage.com/new-to-streaming-the-invite-the-weight-marie-antoinette-more/",
+        "published": "2026-10-23T11:13:41Z",
+        "description": "Each week we highlight the noteworthy titles that have recently hit streaming platforms in the United States. Check out this week’s selections below and past round-ups here. The Invite (Olivia Wilde) Small in scale, yet so much greater than the sum of its parts, Wilde conducts her quartet of players to an orchestral performance. She builds […]"
+      },
+      {
         "title": "NYC Weekend Watch: Sergei Loznitsa, Society, Hellraiser & More",
         "link": "https://thefilmstage.com/nyc-weekend-watch-sergei-loznitsa-society-hellraiser-more/",
         "published": "2026-10-22T23:59:06Z",
@@ -1383,18 +1395,6 @@
         "link": "https://thefilmstage.com/the-best-movies-now-playing-in-theaters/",
         "published": "2026-10-22T13:09:04Z",
         "description": "Looking for what to see in theaters? Our feature, updated weekly, highlights our top recommendations for films currently in theaters, from new releases to restorations receiving a proper theatrical run. While we already provide extensive monthly new-release recommendations and weekly streaming recommendations, as distributors’ roll-outs can vary, this is a one-stop list to share the […]"
-      },
-      {
-        "title": "Wildwood Review: Magic and Terror on a Breathtaking Scale",
-        "link": "https://thefilmstage.com/bfi-london-review-wildwood-presents-magic-and-terror-on-a-breathtaking-scale/",
-        "published": "2026-10-22T13:07:42Z",
-        "description": "Note: This review was originally published as part of our 2026 BFI London coverage. The film opens in theaters on October 23. Because of Coraline, LAIKA’s first effort as a studio and still its best-known, there’s an expectation that each subsequent project will fit comfortably within the horror realm, each new release a rite of […]"
-      },
-      {
-        "title": "“I Don’t Want to Lose the City We Have”: Noah Segan on The Only Living Pickpocket in New York",
-        "link": "https://thefilmstage.com/i-dont-want-to-lose-the-city-we-have-noah-segan-on-the-only-living-pickpocket-in-new-york/",
-        "published": "2026-10-22T13:03:16Z",
-        "description": "Note: This interview was originally published as part of our 2026 Sundance coverage. The film opens in theaters on October 23. Noah Segan’s The Only Living Pickpocket in New York is an ode to a past New York City and the films set there. John Turturro plays Harry, an old-school pickpocket who’s become out of […]"
       }
     ],
     "cinephilia": [
@@ -1450,6 +1450,18 @@
     "nyrb": [],
     "lrb": [
       {
+        "title": "Write a Novel in Thirty Days",
+        "link": "https://www.lrb.co.uk/blog/2026/october/write-a-novel-in-thirty-days",
+        "published": "2026-10-21T16:22:08Z",
+        "description": "My boss at the bookshop has said he would sell AI novels if there were clear demand and clear labelling. We almost certainly already sell books that..."
+      },
+      {
+        "title": "‘Close your eyes and enjoy the music’",
+        "link": "https://www.lrb.co.uk/blog/2026/october/close-your-eyes-and-enjoy-the-music",
+        "published": "2026-10-20T17:38:08Z",
+        "description": "At the first interval in the Berlin Staatsoper’s new production of La Vestale, the man to my right turned to me and said: ‘Mein Gott, ist das dumm..."
+      },
+      {
         "title": "Dédiabolisation",
         "link": "https://www.lrb.co.uk/blog/2026/october/dediabolisation",
         "published": "2026-10-15T16:37:22Z",
@@ -1466,22 +1478,16 @@
         "link": "https://www.lrb.co.uk/blog/2026/october/here-are-some-of-the-poems-anne-carson-has-written-and-you-are-welcome-to-them",
         "published": "2026-10-08T12:57:03Z",
         "description": "Anne Carson has won the 2026 Nobel Prize in Literature. She first appeared in the London Review on the letters page in 1993. The first poems of hers..."
-      },
-      {
-        "title": "Among Schoolchildren",
-        "link": "https://www.lrb.co.uk/blog/2026/october/among-schoolchildren",
-        "published": "2026-10-08T11:47:49Z",
-        "description": "There were still several gendarmerie vans parked near Lycée Hélène Boucher in the 20th arrondissement at noon on Tuesday. In a nearby bar, some of..."
-      },
-      {
-        "title": "Wok Diplomacy",
-        "link": "https://www.lrb.co.uk/blog/2026/october/wok-diplomacy",
-        "published": "2026-10-06T16:20:49Z",
-        "description": "The biggest movie at the Chinese box office this August – grossing nearly three times as much as The Odyssey, released the same week – was Once..."
       }
     ],
     "larb": [],
     "aeon": [
+      {
+        "title": "Traction!",
+        "link": "https://aeon.co/essays/why-a-world-without-friction-is-a-world-without-progress",
+        "published": "2026-10-23T10:00:00Z",
+        "description": "Tribologists study friction: what happens when things rub together. It’s indispensable, from the wheel to the paths of stars - by Jennifer R Vail Read on Aeon"
+      },
       {
         "title": "Bhutan: the last place",
         "link": "https://aeon.co/videos/what-happened-when-the-only-country-to-ban-tv-lifted-the-ban",
@@ -1523,15 +1529,15 @@
         "link": "https://aeon.co/essays/the-politics-of-masculinity-at-the-end-of-the-roman-republic",
         "published": "2026-10-16T10:00:00Z",
         "description": "Cicero’s ideal of manly virtue stressed the performance of self-control and bravery, not boastful egotism and domination - by Catharine Edwards Read on Aeon"
-      },
-      {
-        "title": "The secrets of Hohle Fels cave",
-        "link": "https://aeon.co/videos/hohle-fels-cave-illuminates-the-rich-symbolic-world-of-ice-age-humans",
-        "published": "2026-10-15T10:01:00Z",
-        "description": "Why aren’t we all Neanderthals? These ancient bird figurines suggest that art was essential to our evolutionary success - by Aeon Video Watch on Aeon"
       }
     ],
     "psyche": [
+      {
+        "title": "Can you ever really think what someone else is thinking?",
+        "link": "https://psyche.co/ideas/can-you-ever-really-think-what-someone-else-is-thinking",
+        "published": "2026-10-23T10:00:00Z",
+        "description": "To see how communication truly works, we should set aside the notion that different people can share the same thoughts - by Víctor Verdejo Read on Psyche"
+      },
       {
         "title": "How to live a life of awe",
         "link": "https://psyche.co/videos/encounters-with-awe-have-profound-benefits-heres-how-to-have-more",
@@ -1573,12 +1579,6 @@
         "link": "https://psyche.co/ideas/what-life-in-denmark-shows-about-the-power-of-emotional-safety",
         "published": "2026-10-19T10:00:00Z",
         "description": "A deep sense of ease – what the Danes call ‘tryg’ – is a collective responsibility that allows individuals to flourish - by Ruth Aharoni Nielsen Read on Psyche"
-      },
-      {
-        "title": "The social construction of emotions",
-        "link": "https://psyche.co/videos/dont-reduce-emotions-to-biology-theyre-contingent-and-emergent",
-        "published": "2026-10-16T10:01:00Z",
-        "description": "Are our emotions universal? How two landmark studies upended our view of emotions – and challenged colonial stereotypes - Video by Then & Now Watch on Psyche"
       }
     ],
     "newleftreview": [],
@@ -1818,6 +1818,12 @@
     ],
     "parisreview": [
       {
+        "title": "Turner Brooks’s Spatial Memories",
+        "link": "https://www.theparisreview.org/blog/2026/10/23/turner-brooks-spatial-memories/",
+        "published": "2026-10-23T12:00:57Z",
+        "description": "Brooks examines buildings less as ends in themselves than as prisms for the human preoccupations they contain."
+      },
+      {
         "title": "Murano Parsnips: The Unexpected Literary History of the Dildo",
         "link": "https://www.theparisreview.org/blog/2026/10/22/unexpected-literary-history-of-the-dildo/",
         "published": "2026-10-22T12:00:20Z",
@@ -1858,12 +1864,6 @@
         "link": "https://www.theparisreview.org/blog/2026/10/09/passages-we-underlined-this-fall/",
         "published": "2026-10-09T14:00:45Z",
         "description": "A selection of some of our favorite passages from September and October new releases."
-      },
-      {
-        "title": "Anne Carson Wins the Nobel Prize in Literature",
-        "link": "https://www.theparisreview.org/blog/2026/10/08/anne-carson-nobel-prize/",
-        "published": "2026-10-08T19:18:27Z",
-        "description": "This week, we’ve unlocked all of Carson’s work from our archive."
       }
     ],
     "baffler": [
@@ -1918,6 +1918,12 @@
     ],
     "longreads": [
       {
+        "title": "The Top 5 Longreads of the Week",
+        "link": "https://longreads.com/2026/10/23/the-top-5-longreads-of-the-week-630/",
+        "published": "2026-10-23T10:00:00Z",
+        "description": "Doubt, idiocracy, baseball, meals, and fish. Find out why these five stories stood out."
+      },
+      {
         "title": "The Dominican Baseball Factory",
         "link": "https://longreads.com/2026/10/22/dominican-republic-major-league-baseball-investigation/",
         "published": "2026-10-22T15:22:41Z",
@@ -1958,12 +1964,6 @@
         "link": "https://longreads.com/2026/10/21/forrest-welborn-texas-monthly/",
         "published": "2026-10-21T11:00:00Z",
         "description": "\"Forrest Welborn spent decades as a suspect in the infamous Austin murders. It all but destroyed his life. This year, he was finally exonerated. So why doesn’t he feel free?\""
-      },
-      {
-        "title": "The Man Who Taught Us How to Pay Attention",
-        "link": "https://longreads.com/2026/10/20/john-berger-about-looking-ways-of-seeing/",
-        "published": "2026-10-20T16:12:51Z",
-        "description": "\"The works of the British art critic John Berger offer the antidote to our age of infinite scrolling.\""
       }
     ]
   }
