@@ -387,18 +387,6 @@
     "reuters": [],
     "bbc": [
       {
-        "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
-        "link": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-23T21:10:47Z",
-        "description": "A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather."
-      },
-      {
-        "title": "Watch: Trees ripped up as Storm Austen batters Britain",
-        "link": "https://www.bbc.co.uk/news/videos/c6x2qdpnn35po?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-23T21:01:31Z",
-        "description": "The first named storm of the season brought powerful gusts to Jersey, and in southern England the wild weather disrupted travel with fallen trees blocking railway lines and roads."
-      },
-      {
         "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
         "link": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss",
         "published": "2026-10-23T18:17:06Z",
@@ -414,13 +402,19 @@
         "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
         "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
         "published": "2026-10-23T19:42:08Z",
-        "description": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended."
+        "description": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended."
       },
       {
-        "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-        "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-23T19:30:19Z",
-        "description": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
+        "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+        "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-24T00:05:45Z",
+        "description": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget."
+      },
+      {
+        "title": "Father who killed Oregon school shooter describes anguish over children he couldn't save",
+        "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-23T22:47:07Z",
+        "description": "Kaylub Giamanco, has been hailed as a hero for killing a teenager who fatally shot three children and a teacher."
       },
       {
         "title": "Celebrity Traitors left on a knife edge after a trip to the field of screams",
@@ -429,13 +423,55 @@
         "description": "A newly earned special power left one contestant with a big decision to make in Friday's episode."
       },
       {
-        "title": "Father who killed Oregon school shooter describes anguish over children he couldn't save",
-        "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-23T22:47:07Z",
-        "description": "Kaylub Giamanco, has been hailed as a hero for killing a teenager who fatally shot three children and a teacher."
+        "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+        "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-23T19:30:19Z",
+        "description": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
+      },
+      {
+        "title": "Bayern Munich manager Kompany taken to hospital after collapsing at training",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ck3r5792en7go?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-23T16:39:03Z",
+        "description": "Bayern Munich manager Vincent Kompany is taken to hospital after collapsing as he watched the club's second team train on Friday."
       }
     ],
     "aljazeera": [
+      {
+        "title": "Argentinian judge drops fraud investigation into Milei over crypto scandal",
+        "link": "https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal?traffic_source=rss",
+        "published": "2026-10-24T01:21:18Z",
+        "description": "President Javier Milei’s role in cryptocurrency launch does not translate into a fraudulent scheme, judge says."
+      },
+      {
+        "title": "Syrians protest Israel’s incursions near occupied Golan Heights",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-reported-heidi-pett-syria?traffic_source=rss",
+        "published": "2026-10-24T00:50:05Z",
+        "description": "Syrians are protesting Israel’s occupation of parts of the country’s south, near the occupied Golan Heights."
+      },
+      {
+        "title": "WHO announces start of Ebola vaccine clinical trial in DR Congo",
+        "link": "https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss",
+        "published": "2026-10-24T00:27:21Z",
+        "description": "A clinical trial begins to test the safety, efficacy and immunogenicity of multiple vaccines."
+      },
+      {
+        "title": "Iran war live: Saudi downs Houthi ballistic missile targeting Riyadh",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
+        "published": "2026-10-24T00:00:00Z",
+        "description": "Saudi-led coalition says air defences downed a Houthi ballistic missile targeting Riyadh."
+      },
+      {
+        "title": "Macklemore: ‘I say free Palestine’ as he kicks off a new tour",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss",
+        "published": "2026-10-23T23:25:11Z",
+        "description": "Macklemore says ‘being human is not complicated’ as he kicked off his Free Palestine tour on Thursday night."
+      },
+      {
+        "title": "Typhoon Champi hits Taiwan, killing one and injuring hundreds",
+        "link": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss",
+        "published": "2026-10-23T23:10:54Z",
+        "description": "Authorities warn of 'destructive winds' and urge residents to shelter as the storm passes the island's northeast."
+      },
       {
         "title": "Kenya announces second Ebola death, says ‘no evidence’ of community spread",
         "link": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss",
@@ -447,62 +483,26 @@
         "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss",
         "published": "2026-10-23T22:01:52Z",
         "description": "In the Balkans, leaders are deepening ties with Israel through defence, surveillance, and political backing. But why?"
-      },
-      {
-        "title": "Masked gunmen kill seven in attack on church funeral in Jordan",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
-        "published": "2026-10-23T21:27:32Z",
-        "description": "At least seven people were killed and 34 wounded after two masked gunmen opened fire at a church in Karak, Jordan."
-      },
-      {
-        "title": "‘Generation Right’: Israeli youth show strong support for the right",
-        "link": "https://www.aljazeera.com/news/2026/10/23/generation-right-israeli-youth-show-strong-support-for-the-right?traffic_source=rss",
-        "published": "2026-10-23T20:52:32Z",
-        "description": "Some three quarters of Jewish first-time voters identify as right or centre-right, higher than rest of Israeli society."
-      },
-      {
-        "title": "FCC Democrat warns broadcasters to resist Trump’s media pressure tactics",
-        "link": "https://www.aljazeera.com/economy/2026/10/23/fcc-democrat-warns-broadcasters-to-resist-trumps-media-pressure-tactics?traffic_source=rss",
-        "published": "2026-10-23T20:44:14Z",
-        "description": "Democrat Anna Gomez warns broadcasters against yielding to the Trump-era FCC's claims of fake polls and news distortions."
-      },
-      {
-        "title": "Time ‘running out’ to reach Yemen’s Taiz amid deepening crisis, UN says",
-        "link": "https://www.aljazeera.com/news/2026/10/23/time-running-out-to-reach-yemens-taiz-amid-deepening-crisis-un-says?traffic_source=rss",
-        "published": "2026-10-23T20:44:02Z",
-        "description": "More than 800,000 people have been cut off from aid since the Houthis encircled Taiz city in early October."
-      },
-      {
-        "title": "Why is the UK at the forefront of AI-driven job cuts?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/10/23/why-is-the-uk-at-the-forefront-of-ai-driven-job-cuts?traffic_source=rss",
-        "published": "2026-10-23T20:43:47Z",
-        "description": "AI-linked job losses in the UK are running at twice the rate of US and Germany."
-      },
-      {
-        "title": "Why is Trump questioning Ilhan Omar’s name?",
-        "link": "https://www.aljazeera.com/news/2026/10/23/why-is-trump-questioning-ilhan-omars-name?traffic_source=rss",
-        "published": "2026-10-23T20:37:19Z",
-        "description": "A Justice Department filing listed a different name for her, prompting Trump to call for her resignation."
       }
     ],
     "ft": [
       {
-        "title": "Oil hits $117 for first time since April on fears of flare-up in Iran hostilities",
-        "link": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
-        "published": "2026-10-23T20:13:21Z",
-        "description": "Rise in energy prices pushes US inflation expectations higher"
+        "title": "US executives quit $25bn gas venture over claims of secret Russian control",
+        "link": "https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1",
+        "published": "2026-10-24T00:22:20Z",
+        "description": "Former CEO of Polar Train LNG tells FT that energy giant Novatek financed and held reins of strategic Alaska project without Washington’s approval"
       },
       {
-        "title": "US is prepared for long stand-off with Iran, says Trump envoy",
-        "link": "https://www.ft.com/content/70379a26-c20e-4501-aec9-a9a0089cdd3d?syn-25a6b1a6=1",
-        "published": "2026-10-23T04:00:37Z",
-        "description": "Mike Waltz warns Tehran it must reach a ‘meaningful agreement’ on its nuclear programme"
+        "title": "Russia and Ukraine agree to temporary ceasefire around occupied town of Oleshky",
+        "link": "https://www.ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1?syn-25a6b1a6=1",
+        "published": "2026-10-23T21:11:11Z",
+        "description": "Pope and Melania Trump help organise deal to allow humanitarian aid to enter area and for civilians to be evacuated"
       },
       {
-        "title": "Gold drops below $4,000 as ‘haven’ asset joins market sell-off",
-        "link": "https://www.ft.com/content/5a6e15e9-249d-4d59-a140-c51302930a9f?syn-25a6b1a6=1",
-        "published": "2026-10-23T14:37:46Z",
-        "description": "Price has plunged this week even as investors rush to safety of US Treasuries"
+        "title": "Ukraine says Starlink speeds still throttled",
+        "link": "https://www.ft.com/content/e67a3d0e-5893-45a5-b098-64a68a4ef032?syn-25a6b1a6=1",
+        "published": "2026-10-23T19:14:52Z",
+        "description": "Kyiv accuses Washington of intentionally slowing technology crucial for intercepting Russian attacks"
       },
       {
         "title": "Xi gathers China’s top cadres with focus on discipline",
@@ -523,16 +523,16 @@
         "description": "Monetising America has pleased tycoons but not citizens"
       },
       {
-        "title": "Anthropic strikes deal to launch European consultancy",
-        "link": "https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4?syn-25a6b1a6=1",
-        "published": "2026-10-23T09:04:09Z",
-        "description": "New company backed by Anthropic and UK buyout group Hg will advise companies on how to deploy AI"
+        "title": "Oil hits $117 for first time since April on fears of flare-up in Iran hostilities",
+        "link": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
+        "published": "2026-10-23T20:13:21Z",
+        "description": "Rise in energy prices pushes US inflation expectations higher"
       },
       {
-        "title": "Trump to cut Canadian tariffs after pressure from Republicans",
-        "link": "https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1",
-        "published": "2026-10-23T22:29:30Z",
-        "description": "President to ease some levies to help candidates facing tough US Senate election battles"
+        "title": "US is prepared for long stand-off with Iran, says Trump envoy",
+        "link": "https://www.ft.com/content/70379a26-c20e-4501-aec9-a9a0089cdd3d?syn-25a6b1a6=1",
+        "published": "2026-10-23T04:00:37Z",
+        "description": "Mike Waltz warns Tehran it must reach a ‘meaningful agreement’ on its nuclear programme"
       }
     ],
     "restofworld": [
