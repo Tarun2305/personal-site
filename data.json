@@ -393,9 +393,9 @@
         "description": "The Met said it passed information to the duchess but did not share it with other law enforcement agencies."
       },
       {
-        "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
+        "title": "Amber warnings kick in as Storm Boelo brings 70mph wind gusts to parts of UK",
         "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-24T15:13:40Z",
+        "published": "2026-10-24T20:01:23Z",
         "description": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days."
       },
       {
@@ -411,7 +411,7 @@
         "description": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\"."
       },
       {
-        "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+        "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
         "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
         "published": "2026-10-24T17:21:42Z",
         "description": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election."
@@ -437,6 +437,30 @@
     ],
     "aljazeera": [
       {
+        "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
+        "link": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
+        "published": "2026-10-24T19:11:48Z",
+        "description": "Opposition figures join Tel Aviv protesters demanding an independent October 7 inquiry."
+      },
+      {
+        "title": "Thousands join Paris protests as authorities clamp down on disorder",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss",
+        "published": "2026-10-24T19:01:52Z",
+        "description": "Thousands of protesters are on the streets of Paris for a second weekend."
+      },
+      {
+        "title": "Thousands gather at new Albanian antigovernment rally",
+        "link": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
+        "published": "2026-10-24T18:30:56Z",
+        "description": "More than 300 protesters and police were injured in the Albanian capital Tirana's fiercest clashes in days."
+      },
+      {
+        "title": "Kim Jong Un crosses new bridge linking North Korea and China",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss",
+        "published": "2026-10-24T18:00:20Z",
+        "description": "Kim Jong Un crosses new bridge linking North Korea and China"
+      },
+      {
         "title": "Trump says he may move White House press corps to new location",
         "link": "https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss",
         "published": "2026-10-24T17:01:34Z",
@@ -459,30 +483,6 @@
         "link": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams?traffic_source=rss",
         "published": "2026-10-24T16:18:17Z",
         "description": "Bragging rights are up for grabs in Sunday's El Clasico between La Liga leaders Barcelona and third-placed Real Madrid."
-      },
-      {
-        "title": "More than 2,000 forced from homes in Hebron amid Israel’s West Bank raids",
-        "link": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss",
-        "published": "2026-10-24T15:50:49Z",
-        "description": "Palestinians in Hebron are 'living in fear' with the city closed, while Israeli forces arrest dozens across the West Bank."
-      },
-      {
-        "title": "Brazil’s Lula and Bolsonaro about even ahead of election run-off: Poll",
-        "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss",
-        "published": "2026-10-24T15:36:38Z",
-        "description": "The race between Brazil's president and the right-wing senator has tightened in recent days."
-      },
-      {
-        "title": "Security forces deploy as Milan braces for another day of protests",
-        "link": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
-        "published": "2026-10-24T15:05:58Z",
-        "description": "The Italian government has sent hundreds of soldiers to the country's financial hub ahead of anticipated unrest."
-      },
-      {
-        "title": "Why Israeli tourists and investors are unsettling Cypriots",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_why-israeli-investors-are-unsettling-cypriots-241026?traffic_source=rss",
-        "published": "2026-10-24T14:56:47Z",
-        "description": "Cypriots say the influx of Israelis is threatening local businesses and pushing communities out of their neighbourhoods."
       }
     ],
     "ft": [
@@ -517,22 +517,22 @@
         "description": "Slowdown in drone communication system hampered Kyiv’s ability to defend itself against Russian strikes"
       },
       {
-        "title": "Russia and Ukraine agree to temporary ceasefire around occupied town of Oleshky",
-        "link": "https://www.ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1?syn-25a6b1a6=1",
-        "published": "2026-10-23T21:11:11Z",
-        "description": "Pope and Melania Trump help organise deal to allow humanitarian aid to enter area and for civilians to be evacuated"
-      },
-      {
         "title": "Hundreds of thousands protest in France in second weekend of mass demonstrations",
         "link": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1",
         "published": "2026-10-24T17:13:23Z",
-        "description": "Government puts 70,000 police officers on to the streets to boost security after last weekend’s riots"
+        "description": "Government puts 70,000 police officers on the streets to boost security after last weekend’s riots"
       },
       {
         "title": "France avoids downgrade from Moody’s in boost for Macron’s government",
         "link": "https://www.ft.com/content/840f9c94-cb41-4340-9fc4-41e76d908831?syn-25a6b1a6=1",
         "published": "2026-10-23T22:28:52Z",
         "description": "Rating agency retains Aa3 score as it assumes ‘deficit-reducing budget for 2027 will be adopted’"
+      },
+      {
+        "title": "Intelligence memo warns Iran is plotting to kill Americans in Middle East",
+        "link": "https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7?syn-25a6b1a6=1",
+        "published": "2026-10-24T15:09:52Z",
+        "description": "Plans against US citizens have reached ‘advanced stages’ as tensions rise in region, according to document"
       }
     ],
     "restofworld": [
@@ -641,6 +641,12 @@
     "chelsea": [],
     "chelsea_bbc": [
       {
+        "title": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-24T18:26:29Z",
+        "description": "Goalkeeper Mike Penders endures a difficult first Premier League start, scoring an own goal in Spurs' 2-0 win at Chelsea. Here's how we - and you - rated the players."
+      },
+      {
         "title": "Derby day - when Chelsea and Spurs meet, is chaos guaranteed?",
         "link": "https://www.bbc.co.uk/sport/football/videos/c50mex301jjno?at_medium=RSS&at_campaign=rss",
         "published": "2026-10-23T14:49:59Z",
@@ -681,27 +687,21 @@
         "link": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss",
         "published": "2026-10-17T16:02:31Z",
         "description": "Goalkeeper Emiliano Martinez was taken to hospital as Chelsea's 2-0 win at Everton on Saturday meant they secured their first clean sheet in nine months."
-      },
-      {
-        "title": "'Old fashioned' Alonso mixes up Everton stadium",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cwvgr6prgjzpo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-16T16:24:30Z",
-        "description": "Chelsea manager Xabi Alonso temporarily forgot the name of Everton's new stadium during his pre-match press conference."
       }
     ],
     "chelsea_sky": [],
     "guardianfootball": [
       {
-        "title": "Chelsea v Tottenham: Premier League – live",
-        "link": "https://www.theguardian.com/football/live/2026/oct/24/chelsea-v-tottenham-premier-league-live",
-        "published": "2026-10-24T17:37:44Z",
-        "description": "⚽ Premier League updates from the 5.30pm BST kick-off ⚽ Aston Villa 2-1 Man City | Live scores | Table | Mail Scott The teams take to the pitch. Chelsea in blue, Spurs in white, and it won’t be long before every shirt is soaking wet. Has the signature work of the Harry J All Stars ever been so apposite? We’ll be off in a couple of minutes. Roberto De Zerbi also speaks to Sky. “James Maddison is a very important player … he brings personality, qualities, experience … a different position on the pitch … he’s a different player to Conor Gallagher or [Omar] Marmoush as a number ten … we have to find him in the right moment in the best position … [Dominic Solanke] felt fatigue after Coventry ……"
+        "title": "Tottenham stun Chelsea for second league win in a week as Cole Palmer is sent off",
+        "link": "https://www.theguardian.com/football/2026/oct/24/chelsea-tottenham-premier-league-match-report",
+        "published": "2026-10-24T18:32:03Z",
+        "description": "There were times when Roberto De Zerbi’s frustration threatened to boil over. The Tottenham manager cut a tense figure in his technical area. He bounced around for 90 minutes and let out blasts of fury whenever he saw something that displeased him, but in the end he was able to celebrate leading Spurs to their first win at Stamford Bridge since 2018. It was not a pretty game. It was not a good game. The breakthrough was a comedy own goal from Mike Penders. The young Belgian goalkeeper, deputising for the injured Emi Martínez, was culpable when Spurs went ahead, flapping at a corner from the excellent Mateus Fernandes and punching the ball into his own net. Continue reading..."
       },
       {
         "title": "Clinical Arsenal earn precious win against Everton thanks to Konsa and Gabriel",
         "link": "https://www.theguardian.com/football/2026/oct/24/arsenal-everton-premier-league-match-report",
         "published": "2026-10-24T16:03:49Z",
-        "description": "The wait goes on for David Moyes. The Scot must have been hoping that, on his 14th visit to this stadium as Everton’s manager, his luck would finally change. Yet from the moment Ezri Konsa slammed home his first goal for Arsenal as the Premier League champions rediscovered their knack of scoring from set pieces, the writing was on the wall for Moyes against his former captain, Mikel Arteta. While it took until midway through the second half for Gabriel Magalhães to make sure of the victory, Arsenal never looked likely to let slip the chance of moving level on points at the top with Manchester City after their defeat by Aston Villa earlier in the day. This was hardly a vintage performance…"
+        "description": "The wait goes on for David Moyes. The 63-year-old Scot must have been hoping that on his 14th visit to this stadium as Everton’s manager, his luck would change. Yet from the moment Ezri Konsa slammed home his first goal for Arsenal as the Premier League champions rediscovered their knack of scoring from set pieces, the writing was on the wall. While it took until midway through the second half for Gabriel Magalhães to make sure of the victory, Arsenal were never going to let slip the chance of moving level on points at the top with Manchester City after their defeat by Aston Villa earlier in the day. Continue reading..."
       },
       {
         "title": "Fulham climb out of drop zone after Oscar Bobb’s late show sinks Coventry",
@@ -716,31 +716,37 @@
         "description": "Alessia Russo’s contentious second-half penalty delivered relief, a reprieve and a chance for a reset as Arsenal came from a goal down to earn their second win of the WSL season in the north London derby. At a rain-lashed Tottenham Hotspur Stadium, the Gunners were again their own worst enemy, forced to come from behind after Cathinka Tandberg’s headed opener. Georgia Stanway levelled and Russo powered in the penalty that gave them the lead they protected defiantly. Continue reading..."
       },
       {
-        "title": "Nicolas Jackson double sees Aston Villa end Manchester City’s perfect start",
-        "link": "https://www.theguardian.com/football/2026/oct/24/aston-villa-manchester-city-premier-league-match-report",
-        "published": "2026-10-24T13:33:01Z",
-        "description": "Manchester City added a loss in the Premier League to one to the Premier League, as their perfect record this season vanished without an independent commission in sight. Two of the most in-form strikers in England did battle and it was Nicolas Jackson’s double that meant his side came out on top against Erling Haaland. City are certainly fallible, losing for the fourth time in a row here, and it was a reminder that life will not always be as simple as their first seven games. Mistakes cost City as Marc Guéhi and Gianluigi Donnarumma were punished by Jackson, who will have taken great pleasure in ending the winning run of his former Chelsea manager Enzo Maresca. Continue reading..."
+        "title": "Maresca ‘not worried’ by Guéhi’s gaffes as Aston Villa end City’s flawless start",
+        "link": "https://www.theguardian.com/football/2026/oct/24/maresca-guehi-errors-aston-villa-manchester-city-premier-league",
+        "published": "2026-10-24T15:16:45Z",
+        "description": "Defender costs three goals in past two league matches Emery praises ‘fantastic’ match-winner Jackson Enzo Maresca is not concerned by the form of Marc Guéhi despite the defender costing his side three goals in the past two Premier League matches, the Manchester City manager said after seeing his side lose in the league for the first time this season. Nicolas Jackson’s double earned Aston Villa a 2-1 victory at Villa Park after Guéhi was unable to control the ball for the opener. Instead he spilled it into the path of John McGinn, who played it to Jackson, allowing him to score the first of two goals. The defender was then substituted at half-time having been booked on 32 minutes. Guéhi’s…"
       },
       {
-        "title": "Championship roundup: Southampton beat West Ham; QPR put five past Swansea",
-        "link": "https://www.theguardian.com/football/2026/oct/24/championship-roundup-sheffield-united-derby-west-ham-swansea",
-        "published": "2026-10-24T16:36:57Z",
-        "description": "Hammers humbled at home; Swansea thrashed 5-0 Burnley fans turn on manager after 4-1 loss at Lincoln Southampton announced themselves in the promotion race with a statement 3-2 win at the pre-season title favourites, West Ham . Kuryu Matsuki, James Bree and Lewis Dobbin were all on target in a chaotic first half, while Kyle Walker-Peters and Tomas Soucek replied for the Hammers. Nuno Espírito Santo’s side would have gone top with a win but instead saw their nine-match unbeaten run halted. There were thousands of empty seats by the end at the London Stadium, with those who stayed booing the Hammers off. Southampton, deducted four points at the start of the season, are now just two points…"
+        "title": "European football: Roma snatch late draw in 3-3 thriller as Como win again",
+        "link": "https://www.theguardian.com/football/2026/oct/24/european-football-napoli-roma-borussia-dortmund-atletico-madrid-paris-fc",
+        "published": "2026-10-24T19:27:13Z",
+        "description": "McTominay scores twice for Napoli against Roma Dortmund top Bundesliga after Eintracht Frankfurt win Roma missed the chance to move top of Serie A, but preserved their unbeaten status as Leonardo Balerdi’s 89th-minute goal snatched a thrilling 3-3 draw at Napoli . Scott McTominay put Napoli ahead with his second goal in the 83rd minute, but Balerdi completed his own double to ensure Roma extended their undefeated start to the league campaign to eight matches. Como backed up their Champions League victory over Manchester United as Anastasios Douvikas scored twice in 11 minutes for a 2-0 win against Sassuolo . They climbed to fourth in the table, two points adrift of Inter who host…"
+      },
+      {
+        "title": "Burnley sack Nicky Hayen after Lincoln rout leaves them in bottom three",
+        "link": "https://www.theguardian.com/football/2026/oct/24/burnley-sack-nicky-hayen-lincoln-rout-championship",
+        "published": "2026-10-24T18:05:08Z",
+        "description": "Belgian won only one of his 14 games in charge Relegated Burnley expected to challenge for promotion Burnley have sacked Nicky Hayen after only 14 games in charge, in the wake of a 4-1 defeat at Lincoln that left the Clarets in the Championship’s relegation zone. The Belgian was appointed in the summer as the permanent successor to Scott Parker, who left in April with relegation from the Premier League inevitable. He leaves having won just one match, a 4-0 league victory at Watford on 10 October. Continue reading..."
       },
       {
         "title": "Scottish Premiership: Kelsy fires Rangers to emphatic win; Dundee United pip Aberdeen",
         "link": "https://www.theguardian.com/football/2026/oct/24/scottish-premiership-rangers-dundee-celtic-hearts",
         "published": "2026-10-24T16:52:06Z",
-        "description": "Rangers 4-0 St Johnstone; Dundee United 3-2 Aberdeen Kevin Kelsy scores two to sink 10-man Saints Derek McInnes asked his Rangers side to be “brilliant” against St Johnstone and was rewarded with a 4-0 Premiership win at Ibrox. After dropping two points at Dundee last Saturday , the Light Blues dominated the first half but only led at the interval through a goal in the 29th minute from Venezuela forward Kevin Kelsy. Saints started the second half brightly but goals from Gers striker Ryan Naderi in the 61st minute and Kelsy again five minutes later had the home side cruising. Saints substitute Kai Fotheringham was shown a straight red card by referee Chris Graham in the 74th minute for his…"
-      },
-      {
-        "title": "Vincent Kompany to miss ‘weeks, not days’ with virus treatment, say Bayern Munich",
-        "link": "https://www.theguardian.com/football/2026/oct/24/vincent-kompany-recovery-virus-bayern-munich-bundesliga-football",
-        "published": "2026-10-24T09:40:45Z",
-        "description": "Head coach in hospital after collapsing in training Assistant coach Aaron Danks to take charge against Freiburg Bayern Munich expect Vincent Kompany to miss an extended period as their head coach continues his hospital treatment for a virus after collapsing on the training pitch on Friday. Speaking at a press conference on Saturday, Bayern’s sporting director, Max Eberl, confirmed Kompany was still in hospital in a stable condition. Kompany’s English assistant coach, Aaron Danks, will replace the 40-year-old for Sunday’s Bundesliga match at Freiburg. Eberl said examinations were continuing to determine the nature of the former Manchester City and Belgium captain’s condition, with a…"
+        "description": "Rangers 4-0 St Johnstone; Dundee United 3-2 Aberdeen Kevin Kelsy scores two to sink 10-man Saints Derek McInnes asked his Rangers side to be “brilliant” against St Johnstone and was rewarded with a 4-0 Premiership win at Ibrox. After dropping two points at Dundee last Saturday , the Light Blues dominated the first half but only led at the interval through a goal in the 29th minute from the Venezuela forward Kevin Kelsy. Saints started the second half brightly but goals from the Gers striker Ryan Naderi in the 61st minute and Kelsy again five minutes later had the home side cruising. The Saints substitute Kai Fotheringham was shown a straight red card by Chris Graham in the 74th minute for…"
       }
     ],
     "spielverlagerung": [
+      {
+        "title": "Access, Not Chances: How Como Took Manchester United Apart – LC",
+        "link": "https://spielverlagerung.com/2026/10/24/access-not-chances-how-como-took-manchester-united-apart-lc/",
+        "published": "2026-10-24T19:28:16Z",
+        "description": "Como beat Manchester United 4-1 — and in this case the scoreline really is a fair expression of the game. For long stretches the match was one-sided, not in terms of chance volume but in terms of access: Como dictated in every phase where the ball went, who received it, and under what conditions it […]"
+      },
       {
         "title": "Aspect analysis: Leipzig never found a trigger – LC",
         "link": "https://spielverlagerung.com/2026/10/20/aspect-analysis-leipzig-never-found-a-trigger-lc/",
@@ -782,12 +788,6 @@
         "link": "https://spielverlagerung.com/2026/06/01/champions-league-final-what-the-future-of-football-looks-like-mh/",
         "published": "2026-06-01T09:03:23Z",
         "description": "Which ideology will shape the football of the future? The 2026 Champions League final was supposed to provide answers to this question. After all, FC Arsenal and Paris Saint-Germain had reached the final, two teams whose playing philosophies could hardly seem more different at first glance. A snapshot: What defines the most successful teams this […]"
-      },
-      {
-        "title": "De schaduwzijde van relationisme (in de Nederlandse bekerfinale)",
-        "link": "https://spielverlagerung.com/2026/05/06/de-schaduwzijde-van-relationisme-in-de-nederlandse-bekerfinale/",
-        "published": "2026-05-06T05:51:37Z",
-        "description": "N.E.C. Nijmegen kon dit seizoen vanwege hun relationistische patronen en hun oplossingsstrategieën tegen mandekkingen met verticale positiewisselingen van hun centrale verdedigers op zich attent maken. Op de voorlaatste zondag ontmoetten zich in Rotterdam voor de Nederlandse bekerfinale AZ Alkmaar en het verrassende team van Nederland, N.E.C. Nijmegen. AZ won na een doelpunt uit een standaardsituatie […]"
       }
     ],
     "swissramble": [
@@ -842,6 +842,18 @@
     ],
     "wagnh": [
       {
+        "title": "Chelsea 0-2 Spurs, Premier League: Post-match reaction, ratings",
+        "link": "https://weaintgotnohistory.sbnation.com/premier-league/173378/chelsea-0-2-spurs-premier-league-post-match-reaction-ratings",
+        "published": "2026-10-24T18:25:02Z",
+        "description": "Chelsea made a decent start to the game, and forced Spurs into several mistakes with some effective high pressing amid the non-ideal conditions of an absolute downpour. Unfortunately, we were not able to make that early pressure count. A fantastic Cole Palmer ball across the six-yard box was especially begging for a striker’s touch: alas, […]"
+      },
+      {
+        "title": "Chelsea vs. Tottenham Hotspur, Premier League: Lineups & Game Thread",
+        "link": "https://weaintgotnohistory.sbnation.com/premier-league/173352/chelsea-vs-tottenham-hotspur-premier-league-confirmed-lineups-how-to-watch",
+        "published": "2026-10-24T16:10:17Z",
+        "description": "It’s been an exciting day in the Premier League already, but hopefully we’ve saved the best for last. It’s Chelsea versus Spurs at the Bridge; let’s get ready for Battle! Xabi Alonso seems to have found a solid lineup over the past few weeks, and he’d surely be sticking with that today as well…but it […]"
+      },
+      {
         "title": "The Daily Hilario: Saturday",
         "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/173324/the-daily-hilario-october-24th",
         "published": "2026-10-24T07:13:21Z",
@@ -876,18 +888,6 @@
         "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/173287/the-daily-hilario-october-22nd",
         "published": "2026-10-22T06:53:48Z",
         "description": "Winless Hmm Second"
-      },
-      {
-        "title": "How should Chelsea line up against Spurs?",
-        "link": "https://weaintgotnohistory.sbnation.com/premier-league/173292/how-should-chelsea-line-up-against-spurs",
-        "published": "2026-10-22T03:42:49Z",
-        "description": "It’s a big one this weekend, as Tottenham Hotspur come over for the latest bit of Battling at the Bridge. Spurs finally got their first win of the season on Monday, and they’ll surely will want the DVD-production line going with an even rarer win against Chelsea. And that makes it even more imperative that […]"
-      },
-      {
-        "title": "The Daily Hilario: Wednesday",
-        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/173270/the-daily-hilario-october-21st",
-        "published": "2026-10-21T04:12:32Z",
-        "description": "Youngest Most Wow"
       }
     ],
     "rym": [],
@@ -1450,24 +1450,6 @@
     "nyrb": [],
     "lrb": [
       {
-        "title": "Write a Novel in Thirty Days",
-        "link": "https://www.lrb.co.uk/blog/2026/october/write-a-novel-in-thirty-days",
-        "published": "2026-10-21T16:22:08Z",
-        "description": "My boss at the bookshop has said he would sell AI novels if there were clear demand and clear labelling. We almost certainly already sell books that..."
-      },
-      {
-        "title": "‘Close your eyes and enjoy the music’",
-        "link": "https://www.lrb.co.uk/blog/2026/october/close-your-eyes-and-enjoy-the-music",
-        "published": "2026-10-20T17:38:08Z",
-        "description": "At the first interval in the Berlin Staatsoper’s new production of La Vestale, the man to my right turned to me and said: ‘Mein Gott, ist das dumm..."
-      },
-      {
-        "title": "Dédiabolisation",
-        "link": "https://www.lrb.co.uk/blog/2026/october/dediabolisation",
-        "published": "2026-10-15T16:37:22Z",
-        "description": "Jordan Bardella was supposed to be a different kind of far-right French politician: young, technically savvy, a long way from the poisonous..."
-      },
-      {
         "title": "Bolsonaro Redux?",
         "link": "https://www.lrb.co.uk/blog/2026/october/bolsonaro-redux",
         "published": "2026-10-13T17:48:50Z",
@@ -1478,6 +1460,24 @@
         "link": "https://www.lrb.co.uk/blog/2026/october/here-are-some-of-the-poems-anne-carson-has-written-and-you-are-welcome-to-them",
         "published": "2026-10-08T12:57:03Z",
         "description": "Anne Carson has won the 2026 Nobel Prize in Literature. She first appeared in the London Review on the letters page in 1993. The first poems of hers..."
+      },
+      {
+        "title": "Among Schoolchildren",
+        "link": "https://www.lrb.co.uk/blog/2026/october/among-schoolchildren",
+        "published": "2026-10-08T11:47:49Z",
+        "description": "There were still several gendarmerie vans parked near Lycée Hélène Boucher in the 20th arrondissement at noon on Tuesday. In a nearby bar, some of..."
+      },
+      {
+        "title": "Wok Diplomacy",
+        "link": "https://www.lrb.co.uk/blog/2026/october/wok-diplomacy",
+        "published": "2026-10-06T16:20:49Z",
+        "description": "The biggest movie at the Chinese box office this August – grossing nearly three times as much as The Odyssey, released the same week – was Once..."
+      },
+      {
+        "title": "Collective Harm",
+        "link": "https://www.lrb.co.uk/blog/2026/october/collective-harm",
+        "published": "2026-10-05T14:27:28Z",
+        "description": "The Israeli military claims that each individual strike in Gaza is justified but ignores their collective consequences. A reason is given for each..."
       }
     ],
     "larb": [],
