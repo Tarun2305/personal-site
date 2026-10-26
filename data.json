@@ -387,16 +387,28 @@
     "reuters": [],
     "bbc": [
       {
-        "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
+        "title": "Lula wins but faces hostile Congress and divided country",
+        "link": "https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-26T00:45:10Z",
+        "description": "President Lula has pulled of a surprise win, but he will face a hostile Congress and a polarised country."
+      },
+      {
+        "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
         "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-25T22:24:16Z",
+        "published": "2026-10-26T02:01:29Z",
         "description": "An amber wind warning has now expired after severe weather sweeps across the UK."
       },
       {
-        "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+        "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
         "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-25T22:54:57Z",
+        "published": "2026-10-26T01:07:05Z",
         "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
+      },
+      {
+        "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+        "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-26T00:26:49Z",
+        "description": "The economic is positive now but come January things could become trickier for the Labour government"
       },
       {
         "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
@@ -405,92 +417,86 @@
         "description": "Burnham made ending rough sleeping his first pledge when entering Downing Street in July."
       },
       {
-        "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
-        "link": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-25T18:38:17Z",
-        "description": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the \"disturbing allegations\" in 2018."
-      },
-      {
-        "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-25T21:24:21Z",
-        "description": "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else."
-      },
-      {
         "title": "Deeply divided Israel braces for pivotal election",
         "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
         "published": "2026-10-25T22:11:13Z",
         "description": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson."
       },
       {
-        "title": "Couple were celebrating anniversary before Bahamas tragedy",
-        "link": "https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-25T14:38:51Z",
-        "description": "Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea."
-      },
-      {
         "title": "Venezuelan opposition leader María Machado returns after months in exile",
         "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-25T18:29:00Z",
+        "published": "2026-10-25T23:33:14Z",
         "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro."
+      },
+      {
+        "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
+        "link": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-25T18:38:17Z",
+        "description": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the \"disturbing allegations\" in 2018."
       }
     ],
     "aljazeera": [
       {
-        "title": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
-        "link": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss",
-        "published": "2026-10-25T22:22:53Z",
-        "description": "French superstar Kylian Mbappe scores brace for Madrid to inflict Barcelona's first domestic defeat of the campaign."
+        "title": "Two storms slam northern Europe, cut power to 150,000 homes",
+        "link": "https://www.aljazeera.com/news/2026/10/26/two-storms-slam-northern-europe-cut-power-to-150000-homes?traffic_source=rss",
+        "published": "2026-10-26T02:04:31Z",
+        "description": "Storms Boelo and Austen kill a man in Scotland and cut electricity to homes in the UK, France and Germany."
       },
       {
-        "title": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
-        "link": "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss",
-        "published": "2026-10-25T21:50:36Z",
-        "description": "National Rally's Le Pen launches presidential campaign against backdrop of protests and social, economic discontent."
+        "title": "Netanyahu rival Eisenkot holds final rally before Israeli election",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss",
+        "published": "2026-10-26T01:02:57Z",
+        "description": "Gadi Eisenkot, Benjamin Netanyahu’s rival in Israel’s upcoming election, held his final campaign rally on Sunday."
       },
       {
-        "title": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
-        "link": "https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss",
-        "published": "2026-10-25T21:41:10Z",
-        "description": "The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race."
+        "title": "Serbia celebrates historic election win for student-backed movement",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss",
+        "published": "2026-10-26T00:58:21Z",
+        "description": "Celebrations erupted across Belgrade as Serbia's student-backed movement claimed a major election victory"
       },
       {
-        "title": "Marine Le Pen launches French presidential campaign",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss",
-        "published": "2026-10-25T21:39:13Z",
-        "description": "Marine Le Pen launches French presidential campaign"
+        "title": "Lula holds off far right with victory in Brazil presidential election",
+        "link": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
+        "published": "2026-10-26T00:16:29Z",
+        "description": "Leftist president mounts stunning comeback after unexpected first-round loss galvanised supporters of Flavio Bolsonaro."
       },
       {
-        "title": "Trump VS California",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-vs-california?traffic_source=rss",
-        "published": "2026-10-25T21:29:23Z",
-        "description": "The Democrats have redrawn district lines in a bid to flip five Republican-held seats in California."
+        "title": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss",
+        "published": "2026-10-26T00:02:55Z",
+        "description": "Trump has launched another fierce anti-Muslim attack on Democratic Senate candidate Abdul El-Sayed."
       },
       {
-        "title": "Kenya bus crash kills at least 24 as government vows road safety crackdown",
-        "link": "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss",
-        "published": "2026-10-25T21:00:02Z",
-        "description": "Church mourners die on Kenya’s Nairobi-Mombasa Highway weeks after another crash killed 17 people."
+        "title": "Iran war live: Trump rules out strikes ‘today’; missile downed near Riyadh",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
+        "published": "2026-10-26T00:00:00Z",
+        "description": "Trump's statement comes as Iran says renewed US-Israeli attacks 'will achieve no different outcome'."
       },
       {
-        "title": "Can Carrick survive Man United’s slump and Fernandes fallout?",
-        "link": "https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss",
-        "published": "2026-10-25T20:01:00Z",
-        "description": "Manchester United cheer Michael Carrick off after Bournemouth loss but boo Bruno Fernandes, what now for crisis club?"
+        "title": "Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?",
+        "link": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss",
+        "published": "2026-10-25T23:38:57Z",
+        "description": "Still a teenager, Yamal could surpass Brazilian legend Ronaldo Nazario, who won the Ballon d'Or at the age of 21."
       },
       {
-        "title": "Brazil election results 2026 live: Vote counting begins for Lula, Bolsonaro",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
-        "published": "2026-10-25T20:00:04Z",
-        "description": "Legal challenges likely as voting hour extension adds tension to Brazil's polarized political landscape."
+        "title": "Thousands protest in Prague against public media funding reforms",
+        "link": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss",
+        "published": "2026-10-25T23:29:13Z",
+        "description": "Demonstrators allege Prime Minister Andrej Babis and his coalition's proposed reforms pose a threat to press freedom."
       }
     ],
     "ft": [
       {
-        "title": "Brazil’s Supreme Court extends voting as transport complaints mar election",
-        "link": "https://www.ft.com/content/29033fb9-2dc7-4af0-a2ff-55d1bdd5dece?syn-25a6b1a6=1",
-        "published": "2026-10-25T22:10:25Z",
-        "description": "Lack of buses and ferries adds to tense contest as rightwing challenger seeks to oust leftist president and bring country closer to Trump"
+        "title": "Lula is re-elected Brazil’s president in knife-edge vote",
+        "link": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1",
+        "published": "2026-10-26T02:19:07Z",
+        "description": "Victory of 80-year-old leftist over Flávio Bolsonaro is blow to Trump’s plan for greater US influence in Latin America"
+      },
+      {
+        "title": "After stunning victory, Lula will face a deep hangover",
+        "link": "https://www.ft.com/content/5c283ba4-37cf-4b0e-81f3-6df04b29529b?syn-25a6b1a6=1",
+        "published": "2026-10-26T01:15:16Z",
+        "description": "Veteran leader will be challenged by battles with congress and high debt levels after rightward shift of centre of political gravity"
       },
       {
         "title": "Venezuelan opposition leader Machado returns from exile",
@@ -513,26 +519,20 @@
       {
         "title": "Weil’s incoming leader to walk away from top job as law firm faces talent crisis",
         "link": "https://www.ft.com/content/0ce8a176-19d9-4fb8-8708-0c3fbd04f89c?syn-25a6b1a6=1",
-        "published": "2026-10-25T21:40:04Z",
+        "published": "2026-10-25T23:19:41Z",
         "description": "Ramona Nee had been due to take the helm in January but has declined position amid an exodus from the Wall Street law firm"
       },
       {
         "title": "Serbia’s ex-president Vučić concedes defeat to Student List in parliamentary poll",
         "link": "https://www.ft.com/content/546f21f5-22d3-4696-8371-7bef8c0410b3?syn-25a6b1a6=1",
-        "published": "2026-10-25T22:08:07Z",
+        "published": "2026-10-26T00:38:57Z",
         "description": "Election loss marks a dramatic fall from power for strongman nationalist leader as near-record turnout favours grassroots party"
       },
       {
-        "title": "Bon Secours nears $6bn takeover of Bain-backed Surgery Partners",
-        "link": "https://www.ft.com/content/e7b82fe0-db51-49cf-bad4-2168a905652b?syn-25a6b1a6=1",
-        "published": "2026-10-25T18:56:37Z",
-        "description": "US hospital chain is the latest not-for-profit healthcare provider to seek a large deal"
-      },
-      {
-        "title": "Enough golfers commit to LIV 2.0 to keep hopes of new league alive",
-        "link": "https://www.ft.com/content/935f19bc-bb43-4840-8a55-d8ef409c7b52?syn-25a6b1a6=1",
-        "published": "2026-10-25T17:56:50Z",
-        "description": "Around 15 players have expressed interest, with several others expected to join by a Friday deadline set by the Saudi Public Investment Fund"
+        "title": "Serbia follows Hungary in showing the power of the people",
+        "link": "https://www.ft.com/content/dde6aa59-d48d-429a-9a29-db2dc5ae418c?syn-25a6b1a6=1",
+        "published": "2026-10-25T23:54:05Z",
+        "description": "Anger at corruption and an unaccountable government turned the country decisively against autocratic leader Aleksandar Vučić"
       }
     ],
     "restofworld": [
@@ -698,28 +698,16 @@
         "description": "Job in balance after 3-0 home defeat by Bournemouth Howe is director of football Jason Wilcox’s top candidate Manchester United’s hierarchy are in crisis talks over whether or not to sack Michael Carrick as head coach after he oversaw another torrid defeat , against Bournemouth at Old ­Trafford on Sunday, that left his job in the balance. Carrick was defiant after the 3-0 humbling, insisting he was not expecting to be removed from his post. “I totally understand the situation,” Carrick said of his job prospects. “I’m not expecting anything in ­particular, to be honest. Carrying on as normal and I love this place.” Continue reading..."
       },
       {
-        "title": "Mbappé double secures Real Madrid late victory at Barcelona after Raphinha leveller",
-        "link": "https://www.theguardian.com/football/2026/oct/25/barcelona-real-madrid-el-clasico-la-liga-match-report",
-        "published": "2026-10-25T22:12:20Z",
-        "description": "Thirteen years later, José Mourinho led Real Madrid into the Camp Nou, and he led them out again with a late, late victory that opens up a whole new world. With three minutes remaining and the energy with which they had played dropping, a wonderful piece of skill from Jude Bellingham found Eduardo Camavinga and set them on one last run on a night in which there were so many of them. Camavinga sprinted into the area, slipped away from Pau Cubarsí and pulled the ball back for Kylian Mbappé to provide the finish. It had been an intense, breathless ride, a proper battle, and Madrid had won it, Mbappé getting his second goal of a special match to end Barcelona’s record nine-game winning run. So…"
+        "title": "Isak applies finishing touch as Liverpool bring Brighton’s winning run to an end",
+        "link": "https://www.theguardian.com/football/2026/oct/25/liverpool-brighton-premier-league-match-report",
+        "published": "2026-10-25T16:12:57Z",
+        "description": "Brighton’s impressive run was blown off course at Anfield where Liverpool performed with an appetite and urgency at both ends of the pitch that showed Andoni Iraola’s methods taking root. It was Liverpool, deserving winners on home soil for the first time in the Premier League this season, who looked upwardly mobile. There was more evidence of the expensive trio of Florian Wirtz, Alexander Isak and Bradley Barcola feeling at home and adapting to Iraola’s demands. Wirtz was instrumental in an opening goal officially credited to Brighton’s Pascal Gross and Isak scored for the sixth time in six Premier League appearances to shatter the visitors’ sequence of four successive league wins. The…"
       },
       {
         "title": "Terland strikes late as United end Manchester City’s winning start in WSL",
         "link": "https://www.theguardian.com/football/2026/oct/25/manchester-united-manchester-city-wsl-match-report",
         "published": "2026-10-25T20:38:20Z",
-        "description": "At long last, a weakness has been spotted. Finally, the 100% winning start ends for Manchester City, much to the pleasure of Manchester United, who struck late through Elisabeth Terland to claim a point in a well-contested and at times breathless derby. Khadija ‘Bunny’ Shaw’s second-half strike – her 91st WSL goal on her 100th appearance in the division – appeared to have settled the game and kept the defending champions top of the table, and it had looked likely to be the same old story, of City finding a way to win a game that was on a knife-edge, because they have the game’s deadliest finisher. Continue reading..."
-      },
-      {
-        "title": "Roefs and Trafford stand firm as Sunderland and Leeds battle for point",
-        "link": "https://www.theguardian.com/football/2026/oct/25/sunderland-leeds-premier-league-match-report",
-        "published": "2026-10-25T18:46:08Z",
-        "description": "Régis Le Bris can usually do impassive to perfection but, by the final whistle, even Sunderland’s ultra-balanced manager was looking more than a little fed up and frustrated. His bottom-placed team had arguably just about deserved a second Premier League win of the season but, instead, had to settle for a draw on an afternoon when the hugely disruptive Storm Boelo proved the enemy of good football. Continue reading..."
-      },
-      {
-        "title": "Isak applies finishing touch as Liverpool bring Brighton’s winning run to an end",
-        "link": "https://www.theguardian.com/football/2026/oct/25/liverpool-brighton-premier-league-match-report",
-        "published": "2026-10-25T16:12:57Z",
-        "description": "Brighton’s impressive run was blown off course at Anfield where Liverpool performed with an appetite and urgency at both ends of the pitch that showed Andoni Iraola’s methods taking root. It was Liverpool, deserving winners on home soil for the first time in the Premier League this season, who looked upwardly mobile. There was more evidence of the expensive trio of Florian Wirtz, Alexander Isak and Bradley Barcola feeling at home and adapting to Iraola’s demands. Wirtz was instrumental in an opening goal officially credited to Brighton’s Pascal Gross and Isak scored for the sixth time in six Premier League appearances to shatter the visitors’ sequence of four successive league wins. The…"
+        "description": "At long last, a weakness has been spotted. Finally, the 100% winning start ends for Manchester City, much to the pleasure of Manchester United, who struck late through Elisabeth Terland to claim a point in a well-contested and at times breathless derby. Khadija “Bunny” Shaw’s second-half strike – her 91st WSL goal on her 100th appearance in the division – appeared to have settled the game and kept the defending champions top of the table, and it had looked likely to be the same old story, of City finding a way to win a game that was on a knife-edge, because they have the game’s deadliest finisher. Continue reading..."
       },
       {
         "title": "Pierre Sage regrets ‘missed 15 minutes’ as defeat increases heat on Crystal Palace manager",
@@ -732,6 +720,18 @@
         "link": "https://www.theguardian.com/football/2026/oct/25/hull-brentford-premier-league-match-report",
         "published": "2026-10-25T16:40:07Z",
         "description": "Hull’s unbeaten home record remains intact but the Tigers have not tasted victory for seven games after this draw with Brentford. The opening goal came courtesy of a 24th-minute Oli McBurnie penalty, awarded when Aaron Hickey flattened Tim Iroegbunam while trying to hook the ball away. Continue reading..."
+      },
+      {
+        "title": "Roefs and Trafford stand firm as Sunderland and Leeds battle for point",
+        "link": "https://www.theguardian.com/football/2026/oct/25/sunderland-leeds-premier-league-match-report",
+        "published": "2026-10-25T18:46:08Z",
+        "description": "Régis Le Bris can usually do impassive to perfection but, by the final whistle, even Sunderland’s ultra-balanced manager was looking more than a little fed up and frustrated. His bottom-placed team had arguably just about deserved a second Premier League win of the season but, instead, had to settle for a draw on an afternoon when the hugely disruptive Storm Boelo proved the enemy of good football. Continue reading..."
+      },
+      {
+        "title": "Mbappé double secures Real Madrid late victory at Barcelona after Raphinha leveller",
+        "link": "https://www.theguardian.com/football/2026/oct/25/barcelona-real-madrid-el-clasico-la-liga-match-report",
+        "published": "2026-10-25T22:12:20Z",
+        "description": "Thirteen years later, José Mourinho led Real Madrid into the Camp Nou as one team and them out again as another having secured the kind of late victory he loves and which opens up a whole new world. With just three minutes and the final reserves of energy remaining, a wonderful moment of skill from Jude Bellingham found Eduardo Camavinga and set them on one last run. Camavinga sprinted free, skilfully slipped Pau Cubarsí and pulled back for Kylian Mbappé to provide the finish, a little bit of history written. “The world that loves football will have stopped to watch this and they won’t have gone disappointed; this was two teams that played to win,” Mourinho said. It had been an intense,…"
       },
       {
         "title": "Scottish Premiership: Durán caps Celtic’s comeback win over Hibernian",
@@ -1450,34 +1450,34 @@
     "nyrb": [],
     "lrb": [
       {
-        "title": "Dédiabolisation",
-        "link": "https://www.lrb.co.uk/blog/2026/october/dediabolisation",
-        "published": "2026-10-15T16:37:22Z",
-        "description": "Jordan Bardella was supposed to be a different kind of far-right French politician: young, technically savvy, a long way from the poisonous..."
+        "title": "Moral Injury",
+        "link": "https://www.lrb.co.uk/blog/2026/october/moral-injury",
+        "published": "2026-10-24T15:02:26Z",
+        "description": "On 19 October, the World Food Programme announced that it would be reducing its monthly food assistance in Gaza, providing support to 1.1 million..."
       },
       {
-        "title": "Bolsonaro Redux?",
-        "link": "https://www.lrb.co.uk/blog/2026/october/bolsonaro-redux",
-        "published": "2026-10-13T17:48:50Z",
-        "description": "Lula raised the budget for school lunches, improved access to higher education and free medication, and increased the hiring of public health..."
+        "title": "In Paris",
+        "link": "https://www.lrb.co.uk/blog/2026/october/in-paris",
+        "published": "2026-10-23T15:57:23Z",
+        "description": "Amid the tear-gas fumes and flying stun grenades it was easy to miss the ceremony taking place on the Pont Saint-Michel on Saturday, 17 October. A..."
       },
       {
-        "title": "Here Are Some of the Poems Anne Carson Has Written and You Are Welcome to Them",
-        "link": "https://www.lrb.co.uk/blog/2026/october/here-are-some-of-the-poems-anne-carson-has-written-and-you-are-welcome-to-them",
-        "published": "2026-10-08T12:57:03Z",
-        "description": "Anne Carson has won the 2026 Nobel Prize in Literature. She first appeared in the London Review on the letters page in 1993. The first poems of hers..."
+        "title": "Waiting for Water",
+        "link": "https://www.lrb.co.uk/blog/2026/october/waiting-for-water",
+        "published": "2026-10-22T22:10:10Z",
+        "description": "My mother rang to say that my father had called a water truck owner and offered to pay him to fill our jerry cans, but the man said his truck had..."
       },
       {
-        "title": "Among Schoolchildren",
-        "link": "https://www.lrb.co.uk/blog/2026/october/among-schoolchildren",
-        "published": "2026-10-08T11:47:49Z",
-        "description": "There were still several gendarmerie vans parked near Lycée Hélène Boucher in the 20th arrondissement at noon on Tuesday. In a nearby bar, some of..."
+        "title": "Write a Novel in Thirty Days",
+        "link": "https://www.lrb.co.uk/blog/2026/october/write-a-novel-in-thirty-days",
+        "published": "2026-10-21T16:22:08Z",
+        "description": "My boss at the bookshop has said he would sell AI novels if there were clear demand and clear labelling. We almost certainly already sell books that..."
       },
       {
-        "title": "Wok Diplomacy",
-        "link": "https://www.lrb.co.uk/blog/2026/october/wok-diplomacy",
-        "published": "2026-10-06T16:20:49Z",
-        "description": "The biggest movie at the Chinese box office this August – grossing nearly three times as much as The Odyssey, released the same week – was Once..."
+        "title": "‘Close your eyes and enjoy the music’",
+        "link": "https://www.lrb.co.uk/blog/2026/october/close-your-eyes-and-enjoy-the-music",
+        "published": "2026-10-20T17:38:08Z",
+        "description": "At the first interval in the Berlin Staatsoper’s new production of La Vestale, the man to my right turned to me and said: ‘Mein Gott, ist das dumm..."
       }
     ],
     "larb": [],
