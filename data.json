@@ -387,6 +387,12 @@
     "reuters": [],
     "bbc": [
       {
+        "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+        "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-28T18:45:09Z",
+        "description": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough."
+      },
+      {
         "title": "Key points at a glance",
         "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
         "published": "2026-10-28T16:55:27Z",
@@ -397,12 +403,6 @@
         "link": "https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss",
         "published": "2026-10-28T16:52:16Z",
         "description": "The chancellor has had to grapple with a mix of public finances and household finances being a mess."
-      },
-      {
-        "title": "Will I get the £100 energy payment and when will I receive it?",
-        "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-28T17:47:37Z",
-        "description": "Here is what you need to know about the payment that millions will receive from January."
       },
       {
         "title": "The main announcements from the Budget - and how they will be funded",
@@ -417,80 +417,86 @@
         "description": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how."
       },
       {
+        "title": "What the Budget offers for under 25s - and what it leaves out",
+        "link": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-28T20:02:38Z",
+        "description": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage."
+      },
+      {
+        "title": "High-speed train crash kills at least 68 people in Spain",
+        "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-28T21:38:54Z",
+        "description": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said."
+      },
+      {
         "title": "Watch: At the scene of Spain's deadly train crash",
         "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
         "published": "2026-10-28T16:45:16Z",
         "description": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013."
-      },
-      {
-        "title": "What we know about the crash so far",
-        "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-28T15:36:11Z",
-        "description": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid."
-      },
-      {
-        "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-        "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-28T16:59:47Z",
-        "description": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset."
       }
     ],
     "aljazeera": [
       {
-        "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
-        "link": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
-        "published": "2026-10-28T17:09:05Z",
-        "description": "Soaring food prices and shrinking incomes force families in Sudan's capital to borrow money and skip meals."
+        "title": "Costa Rica’s mega-prison receives first inmates",
+        "link": "https://www.aljazeera.com/news/2026/10/28/costa-ricas-mega-prison-receives-first-inmates?traffic_source=rss",
+        "published": "2026-10-28T21:36:16Z",
+        "description": "President Laura Fernandez inaugurated the $35m mega-prison built to house up to 5,100 inmates near San Jose."
       },
       {
-        "title": "Canada-EU summit: What do both sides want, and what’s at stake?",
-        "link": "https://www.aljazeera.com/economy/2026/10/28/canada-eu-summit-what-do-both-sides-want-and-whats-at-stake?traffic_source=rss",
-        "published": "2026-10-28T16:54:51Z",
-        "description": "The EU has proposed to make Canada its first associate member amid tensions over US tariffs."
+        "title": "Indonesian students demand action on wildfires and rising costs",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_indonesian-students-demand-action-on-wildfires-281026?traffic_source=rss",
+        "published": "2026-10-28T21:23:17Z",
+        "description": "Hundreds of Indonesian students protested against the government's handling of forest fires and rising costs."
       },
       {
-        "title": "Bank of Canada raises interest rates for the first time in three years",
-        "link": "https://www.aljazeera.com/economy/2026/10/28/bank-of-canada-raises-interest-rates-for-the-first-time-in-three-years?traffic_source=rss",
-        "published": "2026-10-28T16:44:44Z",
-        "description": "The central bank increased the key rate by a quarter point as soaring energy prices pushed up inflation."
+        "title": "What’s next for Brazil’s Flavio Bolsonaro after election defeat?",
+        "link": "https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss",
+        "published": "2026-10-28T20:38:01Z",
+        "description": "The far-right ally of US President Donald Trump has fled to Miami with his wife and children."
       },
       {
-        "title": "Ethiopia receives 12 Russian Su-35 jets, plans S-400 acquisition",
-        "link": "https://www.aljazeera.com/news/2026/10/28/ethiopia-receives-12-russian-su-35-jets-plans-s-400-acquisition?traffic_source=rss",
-        "published": "2026-10-28T16:35:30Z",
-        "description": "PM Abiy Ahmed makes announcement during a Moscow summit as Ethiopia battles armed groups in Tigray and Amhara."
+        "title": "UN votes to condemn embargo of Cuba despite US lobbying push",
+        "link": "https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push?traffic_source=rss",
+        "published": "2026-10-28T20:22:16Z",
+        "description": "US points to increase in abstentions in General Assembly as evidence that push to isolate Cuba is slowly succeeding."
       },
       {
-        "title": "Kremlin says European countries not included in next Ukraine talks",
-        "link": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss",
-        "published": "2026-10-28T16:12:02Z",
-        "description": "The comment comes as UK and Netherlands pledge extra military support for Kyiv."
+        "title": "Rwanda’s milk bars",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/rwandas-milk-bars?traffic_source=rss",
+        "published": "2026-10-28T20:14:13Z",
+        "description": "Rwanda’s milk bars"
       },
       {
-        "title": "Israeli soldier visiting UK faces war crimes complaint",
-        "link": "https://www.aljazeera.com/news/2026/10/28/israeli-soldier-visiting-uk-faces-war-crimes-complaint?traffic_source=rss",
-        "published": "2026-10-28T16:06:17Z",
-        "description": "New UK war crimes complaint against an Israeli soldier highlights a global legal campaign to end systemic impunity."
+        "title": "US envoy reads anti-Castro book during Cuban FM’s UN address",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/us-envoy-reads-anti-castro-book-during-cuban-fms-un-address?traffic_source=rss",
+        "published": "2026-10-28T20:02:42Z",
+        "description": "US envoy reads anti-Castro book during Cuban FM’s UN address"
       },
       {
-        "title": "US Congresswoman Rashida Tlaib condemns anti-Muslim election rhetoric",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/us-congresswoman-rashida-tlaib-condemns-anti-muslim-election-rhetoric?traffic_source=rss",
-        "published": "2026-10-28T15:40:04Z",
-        "description": "US Congresswoman Rashida Tlaib condemns anti-Muslim election rhetoric"
+        "title": "Spain demands answers after deadliest train disaster in over a decade",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade?traffic_source=rss",
+        "published": "2026-10-28T19:32:57Z",
+        "description": "At least 68 people have been killed and more than 100 injured after two high-speed trains collided south of Madrid."
       },
       {
-        "title": "What is the controversy between Real Madrid’s Kylian Mbappe and China?",
-        "link": "https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss",
-        "published": "2026-10-28T15:36:39Z",
-        "description": "The French superstar's comments about Mao Zedong have drawn the ire of China, a lucrative market for sports teams."
+        "title": "Putin: Russia is African continent’s best partner, not ‘colonial’ West",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss",
+        "published": "2026-10-28T19:13:32Z",
+        "description": "Russian President Vladimir Putin told the leaders of dozens of African nations that Moscow was their best partner."
       }
     ],
     "ft": [
       {
-        "title": "Bolsonaro lands in US after fleeing Brazil",
-        "link": "https://www.ft.com/content/ec7a3e3e-21e3-44de-81ee-db2f2073bee3?syn-25a6b1a6=1",
-        "published": "2026-10-28T14:47:14Z",
-        "description": "Losing presidential candidate and son of jailed ex-president Jair Bolsonaro left Brazil after being ordered to hand over his passports"
+        "title": "Weil leadership tells partners firm should be dissolved",
+        "link": "https://www.ft.com/content/0476f216-0060-475c-962f-61d73d7d660b?syn-25a6b1a6=1",
+        "published": "2026-10-28T20:28:37Z",
+        "description": "Decision marks stunning downfall for near-century-old law firm that was among America’s largest and most prestigious"
+      },
+      {
+        "title": "Fed holds fire on interest rates despite intensifying inflation",
+        "link": "https://www.ft.com/content/f31fccd8-e9b6-4b01-989d-790ca6bb4d29?syn-25a6b1a6=1",
+        "published": "2026-10-28T21:32:08Z",
+        "description": "Central bank to vote on monetary policy seven times next year in shift from decades-old custom of having eight such meetings"
       },
       {
         "title": "The globetrotting Trump brothers",
@@ -505,34 +511,28 @@
         "description": "Rising costs everywhere from insurance to lawn care mean almost half of US homeowners lack financial breathing room"
       },
       {
-        "title": "Anthropic’s seven founders tighten grip ahead of blockbuster IPO",
-        "link": "https://www.ft.com/content/24a35e41-2641-4cec-97f5-a974412f9952?syn-25a6b1a6=1",
-        "published": "2026-10-28T05:00:06Z",
-        "description": "From a rebellion at OpenAI to building the Claude-maker, the new billionaires are betting their future on staying united"
+        "title": "Google shares tumble 9% after $51bn AI outlay deepens cash burn",
+        "link": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
+        "published": "2026-10-28T20:54:59Z",
+        "description": "Search giant missed estimates for revenue and profit as its search business undershot expectations"
       },
       {
-        "title": "Fed to decide on interest rates as US midterm elections loom",
-        "link": "https://www.ft.com/content/516063c6-3820-4803-836a-73e24ebee0da?syn-25a6b1a6=1",
-        "published": "2026-10-28T16:51:06Z",
-        "description": "Policymakers weigh whether to deliver back-to-back increases in effort to tame inflation exacerbated by Donald Trump’s war against Iran"
+        "title": "How Israel’s opposition fell short against Netanyahu",
+        "link": "https://www.ft.com/content/6a370b14-23e9-43e9-8489-2732ac5a74f3",
+        "published": "2026-10-28T17:45:48Z",
+        "description": "Those long opposed to the prime minister fear they have missed a historic opportunity to oust him"
       },
       {
-        "title": "Netanyahu ahead but no clear winner in Israeli election",
-        "link": "https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1",
-        "published": "2026-10-28T09:48:35Z",
-        "description": "Prime minister urges rivals to join Jewish coalition and shun Arab parties as neither bloc set for majority"
+        "title": "Israel’s Arabs seek a slice of power",
+        "link": "https://www.ft.com/content/e73bd81d-89b4-4ef4-9be0-459bcc97633b?syn-25a6b1a6=1",
+        "published": "2026-10-28T17:40:19Z",
+        "description": "Arab parties are eyeing a record number of Knesset seats and potential kingmaker role after a surge in Palestinian Israeli votes"
       },
       {
-        "title": "The fear factor giving Netanyahu the edge",
-        "link": "https://www.ft.com/content/1631483b-69ee-424c-b0d0-9086ae1efece?syn-25a6b1a6=1",
-        "published": "2026-10-28T14:35:06Z",
-        "description": "Despite liberal hopes, the veteran leader appears to have a path back to government after Israel’s vote"
-      },
-      {
-        "title": "At least 68 killed in collision of high-speed trains in Spain",
-        "link": "https://www.ft.com/content/3500a00d-d676-4460-83f8-8ea2bfce1049?syn-25a6b1a6=1",
-        "published": "2026-10-28T16:27:17Z",
-        "description": "Crash near Toledo south of Madrid follows death of 46 in Andalusia rail accident in January"
+        "title": "Republicans seek to deflect Epstein anger on to Democrats",
+        "link": "https://www.ft.com/content/5835eefc-acb2-4e4e-9693-60f5c2467977?syn-25a6b1a6=1",
+        "published": "2026-10-28T20:20:32Z",
+        "description": "Donald Trump’s party targets opponents over mega-donor Reid Hoffman’s support for midterms campaign"
       }
     ],
     "restofworld": [
@@ -587,6 +587,12 @@
     ],
     "propublica": [
       {
+        "title": "Un policía de Texas se apuntó para ayudar al ICE a deportar a sus vecinos. Eso partió al pueblo en dos.",
+        "link": "https://www.propublica.org/article/deportaciones-ingram-texas-287g-jaron-alexander",
+        "published": "2026-10-28T19:45:00Z",
+        "description": ""
+      },
+      {
         "title": "Meet ProPublica’s 2026 Class of Emerging Reporters",
         "link": "https://www.propublica.org/article/propublica-emerging-reporters-2026",
         "published": "2026-10-28T15:45:00Z",
@@ -626,12 +632,6 @@
         "title": "After Millions in Stolen SNAP Benefits, Trump Administration Moves to Fight Theft",
         "link": "https://www.propublica.org/article/snap-theft-chip-cards-trump-rule",
         "published": "2026-10-23T17:45:00Z",
-        "description": ""
-      },
-      {
-        "title": "Ken Paxton Says He’s Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster’s Company.",
-        "link": "https://www.propublica.org/article/ken-paxton-investment-scott-sherman-wildcatter",
-        "published": "2026-10-23T16:00:00Z",
         "description": ""
       }
     ],
@@ -692,34 +692,40 @@
     "chelsea_sky": [],
     "guardianfootball": [
       {
-        "title": "Max Dowman’s Fleetwood fracas leaves him, Arsenal and Arteta red-faced",
-        "link": "https://www.theguardian.com/football/2026/oct/28/max-dowman-fleetwood-red-card-arsenal-mikel-arteta-carabao-cup",
-        "published": "2026-10-28T13:16:53Z",
-        "description": "Teenager was maybe harshly sent off in the Carabao Cup tie but his reaction was a mistake he will learn from, while his manager might also have regrets Mikel Arteta’s reaction said it all. As Max Dowman trudged towards the touchline after becoming the youngest player sent off in a League Cup match at 16 years and 300 days, the Arsenal manager could not help himself. Arms folded across his chest like an angry father who has caught his teenage son sneaking in after midnight, Arteta leaned over and aimed a few choice words in Dowman’s direction before the forward headed sheepishly down the tunnel. What he said remains unknown, although that hasn’t stopped the amateur lip-readers speculating…"
+        "title": "Liverpool v Chelsea: Carabao Cup fourth-round tie goes to penalties – live",
+        "link": "https://www.theguardian.com/football/live/2026/oct/28/liverpool-v-chelsea-carabao-cup-fourth-round-live",
+        "published": "2026-10-28T22:02:39Z",
+        "description": "⚽ Latest updates from Anfield, 8pm (GMT) kick-off ⚽ Live scores | Football Daily | And email Scott here Basque pals Andoni and Xabi embrace warmly … but so much for friendship, because Chelsea turn Liverpool around, so the home side are kicking towards the Kop in this first half. They’re not huge fans of that. They kick off. The teams are out! Liverpool in red, Chelsea in blue. These lads always look good when they play each other. We’ll be off in a couple of minutes! Continue reading..."
       },
       {
-        "title": "Fernandes tells Carrick he is committed to turning season around in clear-the-air talks",
-        "link": "https://www.theguardian.com/football/2026/oct/28/bruno-fernandes-michael-carrick-clear-the-air-talks-manchester-united",
-        "published": "2026-10-28T12:47:26Z",
-        "description": "Manchester United captain expected to return to lineup Squad have positive meeting with under-pressure coach Michael Carrick and Bruno Fernandes held clear-the-air talks on Tuesday after the Manchester United captain criticised the head coach’s tactics last week, with the player now expected to start at Chelsea on Saturday. Carrick and Fernandes met before training on Tuesday morning at United’s Carrington training base. The 32-year-old captain, it is understood, offered assurances that he is fully committed and intent on trying to turn the team’s season around. There was also a squad meeting with Carrick at which the rest of the players made the same vow. Continue reading..."
+        "title": "Arsenal 3-0 Benfica: Women’s Champions League – live reaction",
+        "link": "https://www.theguardian.com/football/live/2026/oct/28/arsenal-v-benfica-womens-champions-league-live",
+        "published": "2026-10-28T21:54:38Z",
+        "description": "Alessia Russo made history after scoring a hat-trick in Arsenal’s win over Benfica at Meadow Park 1 min Benfica, in white, kick off from right to left as we watch. The players are ready for action on a crisp, chilly night at Meadow Park. Let’s play! Continue reading..."
       },
       {
-        "title": "Lise Klaveness: ‘Certainly there are people that can challenge Infantino’",
-        "link": "https://www.theguardian.com/football/2026/oct/28/lise-klaveness-certainly-there-are-people-that-can-challenge-infantino",
-        "published": "2026-10-28T08:00:03Z",
-        "description": "Norwegian federation president distances self from Fifa presidency but believes governing body can be reformed As the rain whips around Oslo’s government quarter, Lise Klaveness is shielding herself from the wind, trying to work out tactics. “Of course we cannot probably do everything alone, but we have a voice, we have the right to speak, we have the right to suggest, so let’s see,” she says. “We will at least try to be a spearhead.” The president of the Norwegian Football Federation wants to re-engage Fifa, and other governing bodies, on the topic of remedy. A slightly arcane aspect of human rights policy in normal times, the importance of remedy became very clear in the aftermath of the…"
+        "title": "Rulli’s shootout heroics earn Manchester City Carabao Cup win against Brighton",
+        "link": "https://www.theguardian.com/football/2026/oct/28/manchester-city-brighton-carabao-cup-fourth-round-match-report",
+        "published": "2026-10-28T21:58:14Z",
+        "description": "After Jérémy Doku’s second-half substitute appearance transformed Manchester City into a high-octane proposition, the smart money was on the momentum continuing and the penalty shootout going their way. So it proved as Enzo Maresca’s men triumphed 4-3, Gerónimo Rulli’s save from Lewis Dunk’s fifth spot-kick decisive, the Argentinean also having repelled Yasin Ayari’s fourth penalty. Continue reading..."
       },
       {
-        "title": "West Ham’s Viviane Asseyi: ‘When I was four I said I wanted to be like Zidane’",
-        "link": "https://www.theguardian.com/football/2026/oct/28/west-ham-women-viviane-asseyi-zidane-wsl",
-        "published": "2026-10-28T12:26:55Z",
-        "description": "French forward on how the 1998 World Cup inspired her football dream, her Gabonese background and finding a new family in east London On Saturday, once West Ham’s Viviane Asseyi was home from the match, she picked up her phone and called her mum. It has become almost ritualistic for them to speak after a game. On the other end came a familiar sound. “She was just laughing,” says Asseyi. “She was like: ‘Oh, you were so bad!’ She was laughing, but that helped me. She knows that she can tell me anything and everything, I’m good, I’m not good. I will just keep going and working to be better.” Continue reading..."
+        "title": "Nketiah takes Crystal Palace past Fulham and earns Sage breathing space",
+        "link": "https://www.theguardian.com/football/2026/oct/28/fulham-crystal-palace-carabao-cup-fourth-round-match-report",
+        "published": "2026-10-28T21:53:27Z",
+        "description": "If Crystal Palace could play all their matches in this stadium then Pierre Sage surely wouldn’t be under any pressure at all. A fifth victory over Fulham on their own patch in the space of 18 months courtesy of Eddie Nketiah’s goal against the run of play eased some of the growing pressure on the Palace manager as they booked a third consecutive appearance in the quarterfinals of this competition. The good news for Sage is that Arsenal – who beat them on both of those occasions – have already been eliminated, although he knows Saturday’s game against Tottenham will have much more bearing on whether he is still around by the time it resumes in mid-December. For Álvaro Arbeloa, this was a…"
       },
       {
-        "title": "Kylian Mbappé’s China crisis shows how sensitive Mao’s legacy remains | Rebecca Bailey",
-        "link": "https://www.theguardian.com/football/2026/oct/28/kylian-mbappe-china-crisis-shows-how-sensitive-maos-legacy-remains",
-        "published": "2026-10-28T10:00:04Z",
-        "description": "Real Madrid forward was dropped by brands for comments Chinese media generally steered clear of outlining It’s been a bad start to the week for the Kylian Mbappé. The France forward missed out on joining the elite roster of Ballon d’Or winners, and instead became the latest high-profile addition to a far less illustrious list – that of foreign brands and individuals charged with “hurting the feelings of the Chinese people”. The saga began when a video of the Real Madrid player making light of a meme involving him and China’s former leader Mao Zedong began spreading. Continue reading..."
+        "title": "Burnley turn to former CSKA Moscow manager Fabio Celestini as new head coach",
+        "link": "https://www.theguardian.com/football/2026/oct/28/burnley-former-cska-moscow-manager-fabio-celestini-new-head-coach",
+        "published": "2026-10-28T19:14:37Z",
+        "description": "Swiss, 50, also had successful spell at Basel He replaces Nicky Hayen with club 22nd in Championship Burnley have announced former Switzerland midfielder Fabio Celestini as their new head coach four days after sacking Nicky Hayen . Burnley, who have won only one of their 12 league games this season after relegation from the Premier League, have not disclosed the length of Celestini’s contract. They heralded his appointment by saying in a statement that the 50-year-old “arrives with a proven capacity to win and to adapt to different football environments”. Continue reading..."
+      },
+      {
+        "title": "European football: Two late own goals return Inter to top of Serie A but Milan lose at home",
+        "link": "https://www.theguardian.com/football/2026/oct/28/european-football-two-late-own-goals-return-inter-top-serie-a-venezia",
+        "published": "2026-10-28T20:34:23Z",
+        "description": "Bottom side Venezia beaten 2-0 after two late calamities Samuel Mbangula strikes three in Bologna’s win at Milan Inter returned to the Serie A summit with a nervy 2-0 win at bottom side Venezia , while a Samuel Mbangula hat-trick sealed a 4-2 win for Bologna at San Siro to inflict a first league defeat of the season on Milan . Champions Inter drew level with Lazio on 25 points at the top ahead of a hotly anticipated Milan derby meeting with their rivals on Saturday. Ruben Amorim’s side will go into that game on the back of losing their unbeaten streak after Alphadjo Cisse’s double was not enough to avoid defeat. Continue reading..."
       },
       {
         "title": "Football Daily | Fleetwood go their own way to down Arsenal and live Carabao Cup dream",
@@ -728,16 +734,10 @@
         "description": "Sign up now! Sign up now! Sign up now? Sign up now! Having made a passing reference to Mick Fleetwood in Tuesday’s thrilling edition of your favourite email, Football Daily genuinely wasn’t expecting to be repeatedly typing that particular F-word in our lead story in today’s edition. While we were aware Arsenal were in the coastal town of Fleetwood for a Fizzy Cup tie that could scarcely have been less glamorous than the previous evening’s Ballon d’Or ceremony at the Palladium, the needle on our patented Potential Shock-o-Meter had barely moved before a match pitting the Premier League champions against a side struggling in League Two. Even with the residual winds from Storm Boelo still…"
       },
       {
-        "title": "Which footballers have scored in the same minute as their surname? | The Knowledge",
-        "link": "https://www.theguardian.com/football/2026/oct/28/which-footballers-have-scored-in-the-same-minute-as-their-surname-knowledge",
-        "published": "2026-10-28T08:00:02Z",
-        "description": "Plus: the longest home droughts, pre-Christmas goal centuries and the first official club websites Mail us with all of your questions and answers “Justin Seven-Seven came on in the 75th minute and then scored in the 77th minute for West Brom Under-21s against Sutton United in the National League Cup. You have probably already guessed my question, but has anyone else ever scored in the same minute as their name?” wonders Peter Skilton. Readers of a certain age may recall Didier Six , the mercurial French winger who had a brief spell at Aston Villa in 1984-85. A number of you mentioned some or all of the following sixth-minute goals, which includes two in consecutive seasons against…"
-      },
-      {
-        "title": "João Pedro out for ‘a few weeks’, reveals Alonso; Donnarumma gets Maresca’s backing",
-        "link": "https://www.theguardian.com/football/2026/oct/27/manchester-city-chelsea-liverpool-carabao-cup",
-        "published": "2026-10-27T22:30:36Z",
-        "description": "Chelsea manager making latest Anfield return Andoni Iraola upbeat before Carabao Cup tie Continue reading..."
+        "title": "Howe, Nagelsmann, Pochettino: can anyone end Manchester United’s doom loop?",
+        "link": "https://www.theguardian.com/football/2026/oct/28/howe-nagelsmann-pochettino-can-anyone-end-manchester-uniteds-doom-loop",
+        "published": "2026-10-28T18:00:09Z",
+        "description": "Even an elite coach would surely struggle at Old Trafford amid the executive chaos and with an unfit, uneven squad In January 2014 the 13th series of Celebrity Big Brother aired in the UK, the show so popular that its run time was extended by five days before a public vote anointed Jim Davidson the winner. Then, two years later when Brexit happened, people wondered where their tolerant country had gone, lamenting the ephemeral spirit of London 2012 as though the 2011 riots were some kind of fever dream, not a desperate response to decades of structural and institutional racism exacerbated by the cruelty of unnecessary austerity. The truth is that if security is quickly upended, it was…"
       }
     ],
     "spielverlagerung": [
@@ -842,6 +842,36 @@
     ],
     "wagnh": [
       {
+        "title": "Chelsea FCW 2-0 AS Roma Femminile, UEFA Women’s Champions League: Post-match reaction",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/173519/chelsea-fcw-2-0-as-roma-femminile-uefa-womens-champions-league-post-match-reaction",
+        "published": "2026-10-28T19:38:11Z",
+        "description": "Last season there were already complaints on how Chelsea Women no longer looked like their former selves. This wasn’t the case in the UEFA Women’s Champions League group stage as the Blues handily beat some minnows and held eventual champions Barcelona to a 1-1 draw at Stamford Bridge. Against AS Roma last season, Chelsea barely […]"
+      },
+      {
+        "title": "Liverpool vs. Chelsea, League Cup: Lineups & Game Thread",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-league-cup/173513/liverpool-vs-chelsea-league-cup-confirmed-lineups-how-to-watch",
+        "published": "2026-10-28T20:34:47Z",
+        "description": "Welcome to Anfield and the fourth round of the League Cup. Yes, it’s still just the fourth round even though it’s our third game of this year’s competition already. Liverpool are in good form; Chelsea are coming off of one our worst defeats in a long time. We can always hope for a change of […]"
+      },
+      {
+        "title": "Chelsea fans’ preferred lineup against Liverpool: One Estêvão please!",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-league-cup/173504/chelsea-fans-preferred-lineup-against-liverpool-one-estevao-please",
+        "published": "2026-10-28T17:01:04Z",
+        "description": "We’ve been advocating for an unchanged lineup for the past few games, but last-minute injuries put a stop to that run (of consistency and of wins) over the weekend. Xabi Alonso’s solution then did not work. Will he go with something a bit more straightforward, like an actual striker maybe? For the WAGNH Community, the […]"
+      },
+      {
+        "title": "Chelsea FCW vs. AS Roma Femminile, UEFA Women’s Champions League: Confirmed lineups; how to watch",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/173492/chelsea-fcw-vs-as-roma-femminile-uefa-womens-champions-league-confirmed-lineups-how-to-watch",
+        "published": "2026-10-28T16:39:38Z",
+        "description": "Chelsea Women head into their third UEFA Women’s Champions League group stage match this season, as they take on Italian outfit AS Roma at Plough Lane. It’s an interesting matchup, with the Serie A side’s last outing in the competition being a 6-0 defeat at the hands of current champions, Barcelona. If the Blues are […]"
+      },
+      {
+        "title": "Chelsea FCW vs. AS Roma Femminile, UEFA Women’s Champions League: Preview, team news, how to watch",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/173480/chelsea-fcw-vs-as-roma-femminile-uefa-womens-champions-league-preview-team-news-how-to-watch",
+        "published": "2026-10-28T14:16:51Z",
+        "description": "Chelsea Women return to European action tonight, welcoming Italian champions AS Roma to Plough Lane. The Blues are yet to taste defeat this season, although our performances in Europe have been rather less convincing than those in domestic competition. Date / Time: Wednesday, October 28, 2026, 17:45 GMT; 1:45 pm EDTVenue: Plough Lane, Wimbledon, UKForecast: […]"
+      },
+      {
         "title": "The Daily Hilario: Tuesday",
         "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/173452/the-daily-hilario-october-27th",
         "published": "2026-10-28T07:00:07Z",
@@ -850,7 +880,7 @@
       {
         "title": "Liverpool vs. Chelsea, League Cup: Preview, team news, how to watch",
         "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-league-cup/173462/liverpool-vs-chelsea-league-cup-preview-team-news-how-to-watch",
-        "published": "2026-10-28T06:57:33Z",
+        "published": "2026-10-28T17:11:01Z",
         "description": "After the debacle of Saturday night, it’s perhaps a good time to switch gears and play a little League Cup football. On paper, it’s another important rivalry game. In reality, it’s unlikely to be too high on either manager’s list. So, in a way, it’s a bit of a free hit, especially for Chelsea who […]"
       },
       {
@@ -858,36 +888,6 @@
         "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-league-cup/173457/how-should-chelsea-line-up-against-liverpool-in-the-league-cup",
         "published": "2026-10-28T04:38:53Z",
         "description": "Chelsea are marginally better off in the injury department than over the weekend, but even that one returning player was only rated a strong maybe to play, let alone make an impact. That’s not to say that Emmanuel Emegha can’t possibly make a big difference, but he barely played in preseason and is yet to […]"
-      },
-      {
-        "title": "João Pedro set to miss ‘a few weeks’; Emmanuel Emegha set to return",
-        "link": "https://weaintgotnohistory.sbnation.com/injury-news/173449/joao-pedro-set-to-miss-a-few-weeks-emmanuel-emegha-set-to-return",
-        "published": "2026-10-27T18:49:59Z",
-        "description": "There are good news and bad news regarding our striker situation. Unfortunately, the news are not equal in magnitude, as it’s not the good news that’s winning. Then again, maybe Emmanuel Emegha is about to go on a generational run, score seventeen million goals, and become an instant legend and Ballon d’Or winner. Don’t let […]"
-      },
-      {
-        "title": "The Daily Hilario: My Arrakis",
-        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/173440/the-daily-hilario-my-arrakis",
-        "published": "2026-10-27T07:56:34Z",
-        "description": "There was a rumor yesterday that a new (final) trailer for Dune 3 would be dropping within hours. Alas, no such thing has occurred. Instead, I rewatched Part 2 tonight. Beyond hyped for Part 3. Still hoping we get at least a veiled reference to the God Emperor. Don’t let me down, Denis!"
-      },
-      {
-        "title": "Chelsea 0-2 Tottenham Hotspur, Player Ratings: Early-season Blues",
-        "link": "https://weaintgotnohistory.sbnation.com/premier-league/173432/chelsea-0-2-tottenham-hotspur-player-ratings-early-season-blues",
-        "published": "2026-10-27T01:21:58Z",
-        "description": "1. MOISÉS CAICEDO (5.6) These are very generous ratings for one of the worst games we’ve seen in a long time, especially given the nature of the occasion with the rivalry, the history, the meaning behind it. But, in a way, the players and their ratings were saved by the early season — a bit […]"
-      },
-      {
-        "title": "The Daily Hilario: Monday",
-        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/173415/the-daily-hilario-oct-25th",
-        "published": "2026-10-26T02:16:48Z",
-        "description": "Nightmare Unbeaten Highest"
-      },
-      {
-        "title": "Xabi Alonso: ‘We have to be critical of ourselves’",
-        "link": "https://weaintgotnohistory.sbnation.com/premier-league/173425/xabi-alonso-we-have-to-be-critical-of-ourselves",
-        "published": "2026-10-26T05:05:42Z",
-        "description": "I needed a solid 24-36 hours of absolute Chelsea-detox after that horrendous defeat on Saturday. The history of the fixture is one thing — only the second win for Spurs at the Bridge since 1990 — but combined with the performance, the approach, and the attitude shown throughout … and, yeah, we needed to be […]"
       }
     ],
     "rym": [],
@@ -1450,24 +1450,6 @@
     "nyrb": [],
     "lrb": [
       {
-        "title": "Write a Novel in Thirty Days",
-        "link": "https://www.lrb.co.uk/blog/2026/october/write-a-novel-in-thirty-days",
-        "published": "2026-10-21T16:22:08Z",
-        "description": "My boss at the bookshop has said he would sell AI novels if there were clear demand and clear labelling. We almost certainly already sell books that..."
-      },
-      {
-        "title": "‘Close your eyes and enjoy the music’",
-        "link": "https://www.lrb.co.uk/blog/2026/october/close-your-eyes-and-enjoy-the-music",
-        "published": "2026-10-20T17:38:08Z",
-        "description": "At the first interval in the Berlin Staatsoper’s new production of La Vestale, the man to my right turned to me and said: ‘Mein Gott, ist das dumm..."
-      },
-      {
-        "title": "Dédiabolisation",
-        "link": "https://www.lrb.co.uk/blog/2026/october/dediabolisation",
-        "published": "2026-10-15T16:37:22Z",
-        "description": "Jordan Bardella was supposed to be a different kind of far-right French politician: young, technically savvy, a long way from the poisonous..."
-      },
-      {
         "title": "Bolsonaro Redux?",
         "link": "https://www.lrb.co.uk/blog/2026/october/bolsonaro-redux",
         "published": "2026-10-13T17:48:50Z",
@@ -1478,6 +1460,24 @@
         "link": "https://www.lrb.co.uk/blog/2026/october/here-are-some-of-the-poems-anne-carson-has-written-and-you-are-welcome-to-them",
         "published": "2026-10-08T12:57:03Z",
         "description": "Anne Carson has won the 2026 Nobel Prize in Literature. She first appeared in the London Review on the letters page in 1993. The first poems of hers..."
+      },
+      {
+        "title": "Among Schoolchildren",
+        "link": "https://www.lrb.co.uk/blog/2026/october/among-schoolchildren",
+        "published": "2026-10-08T11:47:49Z",
+        "description": "There were still several gendarmerie vans parked near Lycée Hélène Boucher in the 20th arrondissement at noon on Tuesday. In a nearby bar, some of..."
+      },
+      {
+        "title": "Wok Diplomacy",
+        "link": "https://www.lrb.co.uk/blog/2026/october/wok-diplomacy",
+        "published": "2026-10-06T16:20:49Z",
+        "description": "The biggest movie at the Chinese box office this August – grossing nearly three times as much as The Odyssey, released the same week – was Once..."
+      },
+      {
+        "title": "Collective Harm",
+        "link": "https://www.lrb.co.uk/blog/2026/october/collective-harm",
+        "published": "2026-10-05T14:27:28Z",
+        "description": "The Israeli military claims that each individual strike in Gaza is justified but ignores their collective consequences. A reason is given for each..."
       }
     ],
     "larb": [],
@@ -1667,6 +1667,30 @@
     ],
     "nautilus": [
       {
+        "title": "Dead Star Offers a Glimpse Into Our Solar System’s Future",
+        "link": "https://nautil.us/dead-star-offers-a-glimpse-into-our-solar-systems-future-1286164/",
+        "published": "2026-10-28T22:00:00Z",
+        "description": "A ring of debris hints at planetary survivors"
+      },
+      {
+        "title": "Vultures Help Eliminate Pathogens. Bird Flu Could Eliminate Them",
+        "link": "https://nautil.us/vultures-help-eliminate-pathogens-bird-flu-could-eliminate-them-1286160/",
+        "published": "2026-10-28T21:00:00Z",
+        "description": "Dwindling vulture populations are locked in a fight for their lives"
+      },
+      {
+        "title": "The Quest for Wisdom in Turbulent Times",
+        "link": "https://nautil.us/the-quest-for-wisdom-in-turbulent-times-1286156/",
+        "published": "2026-10-28T20:00:00Z",
+        "description": "A conversation with three Harvard professors about the practice of wisdom in everyday living"
+      },
+      {
+        "title": "Hunting is for Girls—at Least Among Bonobos",
+        "link": "https://nautil.us/hunting-is-for-girls-at-least-among-bonobos-1286153/",
+        "published": "2026-10-28T18:00:00Z",
+        "description": "They out-hunt their male counterparts"
+      },
+      {
         "title": "When Frog Eyes Are Like Fingerprints",
         "link": "https://nautil.us/when-frog-eyes-are-like-fingerprints-1286150/",
         "published": "2026-10-28T16:00:00Z",
@@ -1689,30 +1713,6 @@
         "link": "https://nautil.us/what-can-we-learn-about-happiness-from-the-people-who-study-it-1286130/",
         "published": "2026-10-27T23:00:00Z",
         "description": "Happiness pioneers recently gathered to discuss the good life"
-      },
-      {
-        "title": "This Prehistoric Creature is the Only Ocean-Dwelling Amphibian Ever Discovered",
-        "link": "https://nautil.us/this-prehistoric-creature-is-the-only-ocean-dwelling-amphibian-ever-discovered-1286127/",
-        "published": "2026-10-27T22:00:00Z",
-        "description": "It lived in the Triassic muck on the seafloor"
-      },
-      {
-        "title": "There’s a New, International Food Pyramid in Town",
-        "link": "https://nautil.us/theres-a-new-international-food-pyramid-in-town-1286121/",
-        "published": "2026-10-27T20:00:00Z",
-        "description": "It’s based on research into dietary guidelines from around the world"
-      },
-      {
-        "title": "The Teenage Girl Who Remembers Everything",
-        "link": "https://nautil.us/the-teenage-girl-who-remembers-everything-1286118/",
-        "published": "2026-10-27T18:00:00Z",
-        "description": "A conversation with a scientist about a 16-year-old who has highly superior autobiographical memory"
-      },
-      {
-        "title": "How Jumping Spiders Sleep",
-        "link": "https://nautil.us/how-jumping-spiders-sleep-1286115/",
-        "published": "2026-10-27T16:00:00Z",
-        "description": "Remarkably like us with cycles of wakefulness and REM"
       }
     ],
     "worksinprogress": [],
