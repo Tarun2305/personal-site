@@ -387,34 +387,28 @@
     "reuters": [],
     "bbc": [
       {
-        "title": "Watch: Life and career of iconic actor Sir Patrick Stewart",
+        "title": "What we know about Binance's $6.3bn hack",
+        "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-30T08:02:02Z",
+        "description": "BBC business reporter Archana Shukla explains more about what is suspected to be the largest hack in history."
+      },
+      {
+        "title": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
+        "link": "https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-30T08:55:01Z",
+        "description": "The actor died in Los Angeles following a \"a brief and poignant journey\" with Alzheimer's Disease and Lewy Body Dementia."
+      },
+      {
+        "title": "Watch: Iconic moments from Sir Patrick Stewart's career",
         "link": "https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-29T21:57:04Z",
-        "description": "In a career that spanned seven decades, Sir Patrick won multiple Emmys and Golden Globes, a star on the Hollywood Walk of Fame and a knighthood from Queen Elizabeth II."
+        "published": "2026-10-30T08:59:45Z",
+        "description": "The renowned British actor died after \"a brief and poignant journey\" with Alzheimer's disease and Lewy Body Dementia, his spokesperson says."
       },
       {
-        "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
-        "link": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-29T15:42:56Z",
-        "description": "Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions."
-      },
-      {
-        "title": "Young athlete and former minister among victims of Spain train crash",
-        "link": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-29T21:33:35Z",
-        "description": "As some of the victims' names are released publicly, an outpouring of grief and anger is sweeping across Spain."
-      },
-      {
-        "title": "'Continue your journey': Key moments of leaked Spain train crash audio",
-        "link": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-29T20:50:25Z",
-        "description": "Recordings between a control centre and the train drivers appear to show one train was given clearance to move even though another train had stalled on the track."
-      },
-      {
-        "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
-        "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-29T22:17:52Z",
-        "description": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue."
+        "title": "Foreign defence contractors will need to invest in UK under new rules",
+        "link": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-30T08:27:19Z",
+        "description": "Foreign firms awarded large defence contracts will need to invest an equal value back into the UK, Wes Streeting announces."
       },
       {
         "title": "Bombshell confession in The Traitors as faithfuls finally turn the screw",
@@ -423,86 +417,80 @@
         "description": "Could the faithfuls finally come good in Thursday's penultimate episode?"
       },
       {
-        "title": "Hyrox athlete who soiled herself in race tells BBC she put others at risk but says backlash was traumatic",
-        "link": "https://www.bbc.co.uk/news/articles/c6gr8l15k744o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-29T23:03:39Z",
-        "description": "In her first interview since the incident, Joanna Wietrzyk told the BBC she takes responsibility for it but did not deserve such a severe backlash."
+        "title": "The Democratic party in the US has an identity crisis - it won't be an easy fix",
+        "link": "https://www.bbc.co.uk/news/articles/cknv08980d3vo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-30T02:14:41Z",
+        "description": "Whatever the result of the midterm elections, the party is facing tough questions over what they stand for and who should represent them."
       },
       {
-        "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-        "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-29T20:21:54Z",
-        "description": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority."
+        "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+        "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-30T06:02:23Z",
+        "description": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government."
+      },
+      {
+        "title": "Hazardous driving conditions for Friday as fog warning issued by Met Office",
+        "link": "https://www.bbc.co.uk/weather/articles/c6ly075l742ro?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-30T06:18:35Z",
+        "description": "Foggy conditions likely to bring tricky conditions for the Friday morning commute as severe weather warning issued."
       }
     ],
     "aljazeera": [
       {
-        "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
-        "link": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss",
-        "published": "2026-10-30T00:11:20Z",
-        "description": "The announcement comes despite talks between Iran and the Mecca pact countries in Tehran earlier this week."
+        "title": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising?",
+        "link": "https://www.aljazeera.com/economy/2026/10/30/oil-flows-are-up-as-iran-war-turmoil-eases-why-do-prices-keep-rising?traffic_source=rss",
+        "published": "2026-10-30T08:36:11Z",
+        "description": "Brent crude prices are up more than 60 percent compared with pre-war levels, despite rebound in supply."
       },
       {
-        "title": "What does bourbon have to do with the US midterms?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/what-does-bourbon-have-to-do-with-the-us-midterms?traffic_source=rss",
-        "published": "2026-10-30T00:08:50Z",
-        "description": "The US-Canada trade war is hurting Kentucky’s bourbon industry, which generates billions of dollars annually."
+        "title": "NBA: Cameron Boozer tallies first triple-double, Grizzlies remain unbeaten",
+        "link": "https://www.aljazeera.com/sports/2026/10/30/nba-cameron-boozer-tallies-first-triple-double-grizzlies-remain-unbeaten?traffic_source=rss",
+        "published": "2026-10-30T08:24:43Z",
+        "description": "Pelicans earn first victory over still-winless Kings as Hawks withstand late push to hold off Cavaliers."
       },
       {
-        "title": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss",
-        "published": "2026-10-30T00:00:00Z",
-        "description": "Iran's IRGC says four tankers have struck naval mines after using \"unauthorised\" Strait of Hormuz routes."
+        "title": "Sudan investigation maps commanders linked to wartime rape",
+        "link": "https://www.aljazeera.com/features/2026/10/30/sudan-investigation-maps-commanders-linked-wartime-rape?traffic_source=rss",
+        "published": "2026-10-30T08:20:40Z",
+        "description": "Investigative unit CIR identifies 25 commanders present at five sites during periods of reported sexual violence."
       },
       {
-        "title": "France braces for ‘very high risk’ of disorder at Halloween protests",
-        "link": "https://www.aljazeera.com/news/2026/10/29/france-braces-for-very-high-risk-of-disorder-at-halloween-protests?traffic_source=rss",
-        "published": "2026-10-29T23:52:30Z",
-        "description": "Authorities vow firm action against violence as yellow vest and student movements announce widespread demonstrations."
+        "title": "Smoke from wildfires killed 3,500 people in Indonesia in September: Report",
+        "link": "https://www.aljazeera.com/news/2026/10/30/smoke-from-wildfires-killed-3500-people-in-indonesia-in-september-report?traffic_source=rss",
+        "published": "2026-10-30T08:20:30Z",
+        "description": "Persistent wildfires sparked by drought have enveloped the region in smog."
       },
       {
-        "title": "Patrick Stewart, ‘Star Trek’ Captain Picard and ‘X-Men’ actor, dies at 86",
-        "link": "https://www.aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86?traffic_source=rss",
-        "published": "2026-10-29T22:36:06Z",
-        "description": "Stewart died in Los Angeles after living with Alzheimer's disease and Lewy body dementia."
+        "title": "Everton beat Newcastle to set up League Cup quarterfinal with Fleetwood",
+        "link": "https://www.aljazeera.com/sports/2026/10/30/everton-beat-newcastle-to-set-up-league-cup-quarterfinal-with-fleetwood?traffic_source=rss",
+        "published": "2026-10-30T08:19:04Z",
+        "description": "Holders Man City will take on Bradford City, Crystal Palace will welcome Sunderland, while Bournemouth play Liverpool."
       },
       {
-        "title": "Trump administration attempts to take down leak of ICE personnel data",
-        "link": "https://www.aljazeera.com/news/2026/10/29/trump-administration-attempts-to-take-down-leak-of-ice-personnel-data?traffic_source=rss",
-        "published": "2026-10-29T22:16:51Z",
-        "description": "An Icelandic web company, FlokiNET, has defended the data's publication as satisfying a 'legitimate' public interest."
+        "title": "Kenya’s 2029 World Athletics bid: A win for Africa under scrutiny",
+        "link": "https://www.aljazeera.com/news/2026/10/30/kenyas-2029-world-athletics-bid-a-win-for-africa-under-scrutiny?traffic_source=rss",
+        "published": "2026-10-30T08:14:49Z",
+        "description": "Kenya aims to turn its rich athletics heritage into a lasting legacy for the continent."
       },
       {
-        "title": "Palestinians face growing bans from Al-Aqsa as Israel tightens control",
-        "link": "https://www.aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control?traffic_source=rss",
-        "published": "2026-10-29T21:16:26Z",
-        "description": "As Israel renews a ban on Al-Aqsa imam, Islamic Waqf officials warn of shrinking authority at Muslim holy site."
+        "title": "‘My life is buried here’: Iranian man whose 12 family members were killed",
+        "link": "https://www.aljazeera.com/news/2026/10/30/my-life-is-buried-here-iranian-man-whose-12-family-members-were-killed?traffic_source=rss",
+        "published": "2026-10-30T07:51:08Z",
+        "description": "Hamed Mirzaei lost his wife, parents and many others in a devastating US-Israeli attack on Tehran."
       },
       {
-        "title": "Israel bans travel for Brad Lander after detention in occupied West Bank",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israel-bans-travel-for-brad-lander-after-detention-in-occupied-west-bank?traffic_source=rss",
-        "published": "2026-10-29T21:10:13Z",
-        "description": "Israel has revoked travel authorisation for US Democratic congressional candidate Brad Lander after he was detained."
+        "title": "Australian court rejects ‘mushroom murderer’ Erin Patterson’s appeal",
+        "link": "https://www.aljazeera.com/news/2026/10/30/australian-mushroom-murderer-erin-patterson-loses-appeal-bid?traffic_source=rss",
+        "published": "2026-10-30T07:38:20Z",
+        "description": "Court rules Patterson will spend the rest of her life behind bars after denying parole."
       }
     ],
     "ft": [
       {
-        "title": "Intel shares fall 22% as weak sales outlook dents turnaround",
-        "link": "https://www.ft.com/content/d7540e89-08db-43d3-92e0-3c15dd3a60cb?syn-25a6b1a6=1",
-        "published": "2026-10-29T23:45:30Z",
-        "description": "Chipmaker forecasts lower than expected PC chip sales and falling margins"
-      },
-      {
-        "title": "Amazon shares slide on lower Christmas sales forecast",
-        "link": "https://www.ft.com/content/8affd8dd-b783-48c8-86e2-ac4a647fa0f3?syn-25a6b1a6=1",
-        "published": "2026-10-29T22:44:22Z",
-        "description": "Ecommerce giant posts disappointing sales and guidance despite booming cloud unit"
-      },
-      {
-        "title": "Starbucks to resume share buybacks but China shift clouds growth outlook",
-        "link": "https://www.ft.com/content/1f5eec1a-569a-493f-a0ce-bde2ca12a3cc?syn-25a6b1a6=1",
-        "published": "2026-10-29T21:54:08Z",
-        "description": "US same-store sales rise 7.7% as CEO touts progress in coffee chain turnaround"
+        "title": "Binance halts withdrawals after record $6.3bn heist",
+        "link": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1",
+        "published": "2026-10-30T08:14:36Z",
+        "description": "World’s largest crypto exchange said an engineer’s laptop was compromised in major security breach"
       },
       {
         "title": "What killed Weil Gotshal?",
@@ -511,28 +499,40 @@
         "description": "Partners were stunned by the realisation that a profitable 95-year-old firm with 1,200 lawyers could be felled by a string of departures"
       },
       {
-        "title": "Has Australia’s push for lower house prices gone too far?",
-        "link": "https://www.ft.com/content/5e37d086-5ecf-45a2-96e1-278a0f5a86c2?syn-25a6b1a6=1",
-        "published": "2026-10-30T00:21:27Z",
-        "description": "Canberra wanted to cool one of the world’s hottest property markets"
+        "title": "Why Trump’s tech dreams are quietly crumbling",
+        "link": "https://www.ft.com/content/9cc8d4ce-22ec-45d7-8b74-71a1dfe9abcc?syn-25a6b1a6=1",
+        "published": "2026-10-30T05:00:13Z",
+        "description": "Tariffs, immigration restrictions and skilled labour shortages make it hard for the US to boost production"
       },
       {
-        "title": "Two fears will decide the fate of Anthropic’s giant IPO",
-        "link": "https://www.ft.com/content/9fd6faa4-0e06-4b2b-975a-3e6d3a7f3d7f?syn-25a6b1a6=1",
-        "published": "2026-10-29T14:41:41Z",
-        "description": "Investors must weigh missing out on extraordinary AI growth against potential pitfalls that include ‘existential’ risks to humanity"
+        "title": "‘A pile of muscle’: Trump closes midterm pitch with surreal messaging",
+        "link": "https://www.ft.com/content/b00495d4-c15d-4932-977e-27aebe05ba83?syn-25a6b1a6=1",
+        "published": "2026-10-30T05:00:13Z",
+        "description": "Voters want lower prices. Trump has other things on his mind, like backsides and the Nobel Peace Prize"
       },
       {
-        "title": "Google is eating itself — but it could still eat everyone else too",
-        "link": "https://www.ft.com/content/245107d8-ef54-4b30-a75a-538d055bc6d7?syn-25a6b1a6=1",
-        "published": "2026-10-29T18:00:36Z",
-        "description": "Leadership in the AI race can be won, lost and won again at speed"
+        "title": "Inside the make-or-break AI mega-project behind Nscale’s $35bn IPO",
+        "link": "https://www.ft.com/content/ee86c4b6-1fe4-467e-8f18-9c08df288aff?syn-25a6b1a6=1",
+        "published": "2026-10-30T05:00:13Z",
+        "description": "Nvidia-backed neocloud bets on West Virginia data centre campus hit by construction issues, local opposition and financing risks"
       },
       {
-        "title": "Uproar in Alaska sparks Democratic fears for Senate majority",
-        "link": "https://www.ft.com/content/4894285b-40dc-4a8d-a685-2696f3292bc9?syn-25a6b1a6=1",
-        "published": "2026-10-29T22:06:19Z",
-        "description": "Campaign mishaps and infighting could undermine party’s push to take Republican strongholds"
+        "title": "Global tech rout deepens as US earnings stoke AI spending fears",
+        "link": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1",
+        "published": "2026-10-30T08:36:31Z",
+        "description": "Wall Street heads for steep losses at Friday’s open after Amazon results disappoint"
+      },
+      {
+        "title": "Intel shares fall 22% as weak sales outlook dents turnaround",
+        "link": "https://www.ft.com/content/d7540e89-08db-43d3-92e0-3c15dd3a60cb?syn-25a6b1a6=1",
+        "published": "2026-10-29T23:45:30Z",
+        "description": "Chipmaker forecasts lower than expected PC chip sales and falling margins"
+      },
+      {
+        "title": "French economy shrinks 0.1% in third quarter",
+        "link": "https://www.ft.com/content/6f879bc5-be07-4a66-afea-bcbe73723a9f?syn-25a6b1a6=1",
+        "published": "2026-10-30T09:03:58Z",
+        "description": "Eurozone’s second-largest economy is grappling with high energy prices and surge in borrowing costs"
       }
     ],
     "restofworld": [
@@ -587,6 +587,12 @@
     ],
     "propublica": [
       {
+        "title": "Federal and State Officials Ramp Up Scrutiny of DraftKings, Other Sports Betting Apps",
+        "link": "https://www.propublica.org/article/sports-betting-impact-louisiana-ohio-congress",
+        "published": "2026-10-30T09:00:00Z",
+        "description": ""
+      },
+      {
         "title": "Search More Than 500 Cases of U.S. Citizens Detained by Immigration Agents",
         "link": "https://projects.propublica.org/american-citizens-detained-dhs-civil-rights/list",
         "published": "2026-10-29T17:50:00Z",
@@ -626,12 +632,6 @@
         "title": "How Cleta Mitchell Turned Trump’s “Big Lie” Into a Movement",
         "link": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
         "published": "2026-10-28T09:00:00Z",
-        "description": ""
-      },
-      {
-        "title": "This Oil Company Is Linked to 1,000 Pollution Incidents and Other Violations. Oklahoma Never Punished It.",
-        "link": "https://www.propublica.org/article/oklahoma-oil-pollution-citation-violations",
-        "published": "2026-10-27T09:00:00Z",
         "description": ""
       }
     ],
@@ -692,16 +692,16 @@
     "chelsea_sky": [],
     "guardianfootball": [
       {
+        "title": "Premier League news, Carabao Cup and WCL reaction and more – football live",
+        "link": "https://www.theguardian.com/football/live/2026/oct/30/premier-league-news-carabao-cup-and-wcl-reaction-and-more-football-live",
+        "published": "2026-10-30T09:20:04Z",
+        "description": "⚽ News and previews heading into the weekend’s action ⚽ Premier League: 10 things to look out for | Mail Tom Manchester City’s hopes of avoiding the ‘punishment round’ of the Women’s Champions League took a blow last night. Tara Elimbi Gilbert’s late effort handed City their third consecutive draw of the league phase and the English champions now probably need to wins on each of the last three matchdays to avoid the knockout phase play-offs in February. “Annoying is not the right word but it’s a little bit a feeling of ‘argh’,” said City manager Andrée Jeglertz, post-match “We deserved more, I think, but that’s how it is in the Champions League. When you dominate games and you don’t score,…"
+      },
+      {
         "title": "Premier League: 10 things to look out for this weekend",
         "link": "https://www.theguardian.com/football/2026/oct/30/premier-league-10-things-to-look-out-for-this-weekend",
         "published": "2026-10-30T00:01:38Z",
         "description": "Bruno Fernandes owes Manchester United a performance, Mathys Tel has arrived at Spurs and Liverpool are improving Premier League top scorers Michael Carrick and Bruno Fernandes held clear-the-air talks this week. Fernandes was an unused substitute against Bournemouth after criticising Carrick’s tactics during the Champions League defeat by Como but it seems the situation has been resolved – for now. Dropping Fernandes did not do United any good against Bournemouth, who ran riot at Old Trafford , and the captain is expected to return to the starting lineup for the trip to Chelsea. If that happens, he owes Carrick a performance. Fernandes has been poor this season and it is time he did his…"
-      },
-      {
-        "title": "Everton ease past Newcastle to set up Fleetwood trip after Grealish is dropped",
-        "link": "https://www.theguardian.com/football/2026/oct/29/everton-newcastle-carabao-cup-fourth-round-match-report",
-        "published": "2026-10-29T22:15:19Z",
-        "description": "The biggest night in Everton’s season started with a big call from David Moyes and demanded a big performance from his players. With the exception of Jack Grealish , they did not let him down. A quarter-final at Fleetwood Town is their prize after a clinical, committed display shattered Newcastle’s hopes of lifting the Carabao Cup for a second time in three seasons. Newcastle dominated spells of the fourth round tie and the stats – registering 28 shots to Everton’s 11, although only nine visiting attempts were on target – but individual defensive errors and an ineffective attack proved a ruinous combination. Matthias Jaissle denied his team are a soft touch, despite persuasive evidence to…"
       },
       {
         "title": "PSG claim late point after Shaw penalty to hit Manchester City’s WCL top-four hopes",
@@ -722,6 +722,12 @@
         "description": "Challenger’s identity could be approved by next week Arsène Wenger not thought to have entered reckoning Uefa and its allies are close to identifying a candidate to run against Gianni Infantino in the Fifa election and could select the challenger as early as next week. The clock is ticking on efforts to oppose Infantino in March, with candidates required to confirm they are standing by 18 November, but there is growing confidence those attempts are nearing a successful resolution. Discussions with potential nominees have gained momentum despite recent setbacks that included a U-turn by the Asian Football Confederation president, Sheikh Salman bin Ibrahim al-Khalifa, who surprisingly…"
       },
       {
+        "title": "Roster rifts, police raids and Son’s uncertain future leave South Korea at a crossroads",
+        "link": "https://www.theguardian.com/football/2026/oct/30/south-korea-national-team-scandals-son-heung-min",
+        "published": "2026-10-30T09:00:49Z",
+        "description": "After a disaster World Cup, the team have continued to spiral, with tensions high between young and older players and the captain’s standing in question Son Heung-min and Cristiano Ronaldo are iconic No 7s, Premier League legends and international record-breakers. Now there is a surprising danger of them having something else in common: being a divisive presence in their national teams. On 21 October, during a parliamentary committee meeting, politician Jeong Yeon-wook put a question to acting Korea Football Association (KFA) president Lee Yong-soo, that took a story out of the sports pages and into the national conversation. “It is said that recently, within the national team squad,…"
+      },
+      {
         "title": "Scottish Premiership makes first UK move to remove Saturday 3pm broadcast blackout",
         "link": "https://www.theguardian.com/football/2026/oct/29/scottish-premiership-uk-leagues-tv-broadcast-blackout-football",
         "published": "2026-10-29T17:29:49Z",
@@ -732,12 +738,6 @@
         "link": "https://www.theguardian.com/football/2026/oct/29/michael-carrick-keeps-bruno-fernandes-captain-assurances-future-manchester-united",
         "published": "2026-10-29T14:50:16Z",
         "description": "Carrick says he is not surprised to still be head coach He describes Fernandes as ‘important’ for the squad Michael Carrick has said he will not strip Bruno Fernandes of the Manchester United captaincy after dropping him for the defeat by Bournemouth and that he is not surprised to have kept his job as the head coach. Carrick and Fernandes held talks this week after the Portuguese criticised the tactics in the loss to Como, resulting in the midfielder being an unused substitute on Sunday. Harry Maguire took the armband but will not retain it for Saturday’s game at Chelsea, with Carrick saying “there is no decision to be made” and praising Fernandes. Continue reading..."
-      },
-      {
-        "title": "Max Dowman to miss three games after Arsenal’s red card appeal rejected",
-        "link": "https://www.theguardian.com/football/2026/oct/29/max-dowman-to-miss-three-arsenal-matches-fa-rejects-red-card-appeal-fleetwood",
-        "published": "2026-10-29T17:57:45Z",
-        "description": "Teenager was sent off for lashing out in Fleetwood defeat Club’s claims over card and ban were both dismissed Arsenal’s appeal against Max Dowman’s red card in their Carabao Cup defeat at Fleetwood and the three-match suspension imposed has been rejected by an independent commission. The 16-year-old Dowman was sent off for a kick out at Harrison Neal following a bruising tackle in the 85th minute of the game, which Fleetwood won on penalties after a 1-1 draw. Continue reading..."
       }
     ],
     "spielverlagerung": [
@@ -842,6 +842,12 @@
     ],
     "wagnh": [
       {
+        "title": "Xabi Alonso tries to explain his Estêvão decisions",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc/173549/xabi-alonso-tries-to-explain-his-estevao-decisions",
+        "published": "2026-10-30T05:42:58Z",
+        "description": "In the pre-match polling ahead of our game against Liverpool in the fourth round of the League Cup this week, the one player that nearly everyone agreed should start was Estêvão. Almost exactly 96 per cent of voters wanted to see the 19-year-old out there for the Blues. The other four might have been all […]"
+      },
+      {
         "title": "The Daily Hilario: Thursday",
         "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/173540/the-daily-hilario-october-29th",
         "published": "2026-10-29T07:35:50Z",
@@ -882,17 +888,35 @@
         "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/173480/chelsea-fcw-vs-as-roma-femminile-uefa-womens-champions-league-preview-team-news-how-to-watch",
         "published": "2026-10-28T14:16:51Z",
         "description": "Chelsea Women return to European action tonight, welcoming Italian champions AS Roma to Plough Lane. The Blues are yet to taste defeat this season, although our performances in Europe have been rather less convincing than those in domestic competition. Date / Time: Wednesday, October 28, 2026, 17:45 GMT; 1:45 pm EDTVenue: Plough Lane, Wimbledon, UKForecast: […]"
-      },
-      {
-        "title": "The Daily Hilario: Tuesday",
-        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/173452/the-daily-hilario-october-27th",
-        "published": "2026-10-28T07:00:07Z",
-        "description": "Most Good Expensive"
       }
     ],
     "rym": [],
     "aoty": [],
     "pitchfork": [
+      {
+        "title": "ZIRP!",
+        "link": "https://pitchfork.com/reviews/albums/diiv-zirp/",
+        "published": "2026-10-30T04:03:00Z",
+        "description": "The shoegaze band teams with producer A. G. Cook for its most pop-leaning record yet. Despite some welcome shifts in tone, the best moments sound like no one but DIIV."
+      },
+      {
+        "title": "Awesome",
+        "link": "https://pitchfork.com/reviews/albums/heathers-awesome/",
+        "published": "2026-10-30T04:02:00Z",
+        "description": "Upstart guitarist Heath Michael Thomas’ shaggy, groove-heavy garage rock captures the raucous interplay of a much more practiced band."
+      },
+      {
+        "title": "Dead Deities",
+        "link": "https://pitchfork.com/reviews/albums/satanic-planet-dead-deities/",
+        "published": "2026-10-30T04:01:00Z",
+        "description": "The metal supergroup led by the co-founder and spokesperson of the Satanic Temple returns with a provocative, maximalist, and pretty solid second album."
+      },
+      {
+        "title": "valley and structure",
+        "link": "https://pitchfork.com/reviews/albums/more-eaze-valley-and-structure/",
+        "published": "2026-10-30T04:00:00Z",
+        "description": "The experimental musician refines her approach to structured repetition on her second solo album of the year, finding melancholic beauty by subtly transforming Americana-inflected loops and patterns."
+      },
       {
         "title": "The Same Place",
         "link": "https://pitchfork.com/reviews/albums/the-olivia-tremor-control-the-same-place/",
@@ -916,33 +940,27 @@
         "link": "https://pitchfork.com/reviews/albums/water-damage-repair/",
         "published": "2026-10-29T04:00:00Z",
         "description": "The Austin ensemble makes minimalism feel enveloping and unruly on its latest record, where new melodic details are always emerging from a swarming mass of sound."
-      },
-      {
-        "title": "Watch Dis!",
-        "link": "https://pitchfork.com/reviews/albums/yung-miami-watch-dis/",
-        "published": "2026-10-28T04:03:00Z",
-        "description": "The former City Girl’s solo LP is entertaining enough to overlook the weaker features and superfluous “Spend Dat” remixes. The song dedicated to Diddy, not so much."
-      },
-      {
-        "title": "Sigil",
-        "link": "https://pitchfork.com/reviews/albums/sour-widows-sigil/",
-        "published": "2026-10-28T04:02:00Z",
-        "description": "The California band channels uneasy dreams and looming threats into tense, slowcore-infused indie rock on a new album produced with Jay Som’s Melina Duterte."
-      },
-      {
-        "title": "Believe You Me",
-        "link": "https://pitchfork.com/reviews/albums/mackeeper-believe-you-me/",
-        "published": "2026-10-28T04:01:00Z",
-        "description": "On their full-length debut, the buzzy NYC siblings pay tribute to the fuckboy charm of the aughts with their precocious, mischievous, and rapidly evolving pop music."
-      },
-      {
-        "title": "Revelations of Divine Love",
-        "link": "https://pitchfork.com/reviews/albums/susanne-sundfor-revelations-of-divine-love/",
-        "published": "2026-10-28T04:00:00Z",
-        "description": "On her eighth album, the Norwegian singer, backed by pipe organ, draws on a 14th-century Christian text for a record wholly devoted to the divine."
       }
     ],
     "quietus": [
+      {
+        "title": "Gutted, Hashed and Deboned: Necroticism: Descanting the Insalubrious By Carcass At 35",
+        "link": "https://thequietus.com/opinion-and-essays/anniversary/carcas-necroticism-descanting-the-insalubrious-review/",
+        "published": "2026-10-30T08:23:02Z",
+        "description": "Keith Kahn-Harris looks back at a landmark release full of surprises and possibilities To push back a genre label is, all too often, a reliably generic move by artists desperately seeking to differentiate themselves from other artists who sound much the same. Occasionally though, pushing back against genre label is a more subversive move, the mark of an artist pushing against anything that would close off their creative development. Such is the case with Carcass. It didn’t take them long at the start of their career to reject the grindcore label, they are currently rebelling against the extreme metal label, and on Necroticism: Descanting The Insalubrious they were reluctant to be labelled…"
+      },
+      {
+        "title": "Music of the Month: The Best Albums and Tracks of October 2026",
+        "link": "https://thequietus.com/tq-charts/music-of-the-month/music-of-the-month-the-best-albums-and-tracks-of-october-2026/",
+        "published": "2026-10-30T08:00:00Z",
+        "description": "As we hurtle through the final months of 2026, tQ's staffers select another round-up of everything we've loved over the last few weeks We are only a few weeks away from end-of-year chartmageddon, the point at which we will be forced, whether we like it or not, to put on the record what defined our 2026. Given that a person's relationship with music is constantly-shifting – I find that the side of bed I've woken up on can determine whether a song makes me feel ecstatic or annoyed – I've always found the idea of making a permanent declaration of what's 'best' slightly daunting. I have a soft spot, by contrast, for the simplicity these more casual roundups, presented unranked and ad..."
+      },
+      {
+        "title": "Andy Stott – Late Loop",
+        "link": "https://thequietus.com/quietus-reviews/andy-stott-late-loop-review/",
+        "published": "2026-10-30T06:00:00Z",
+        "description": "Andy Stott Late Loop The British electronic music producer proves himself, once again, a consummate perfectionist – but it's the subtle imperfections that make his music really sing It didn’t take Andy Stott long to find himself drawn towards the frayed edges, to wear and imperfections. Less concerned with gleaming dancefloor patterns than the accumulation of hiss and grit, he made his name with slower tempos, tracks that went a little wonky, marked by age and rust. A sound in love with the ‘stuff’ of sound, the sense it had a physical surface that got under your fingernails, that carried the marks of time. On Late Loop it settles to a stillness, a richly emotive minimalism under the slow…"
+      },
       {
         "title": "Audiovisual Phantasmagoria: Highlights from Semibreve 2026",
         "link": "https://thequietus.com/quietus-reviews/live-reviews/semibreve-festival-braga-2026-review/",
@@ -956,7 +974,7 @@
         "description": "Angus Batey looks back 35 years at the 360-degree attack of one of the most creatively independent yet offensive hip hop albums ever made. First published October 2011 Classic albums are supposed to be celebrated, but Death Certificate doesn't permit unqualified responses. It's a record made by a young man as talented at needling his listeners as he was at constructing and delivering some of the angriest lyrics in the hip hop canon, and is impossible to love without qualification. If you're not offended by a significant portion of it – no matter who you are, whatever your background – you're not listening properly. Just about the only universal reaction Death Certificate generates is one…"
       },
       {
-        "title": "Put Your Hands In The Air: English Dancing Master by Leo Chadburn & Phaedra Ensemble",
+        "title": "Put Your Hands In the Air: English Dancing Master by Leo Chadburn & Phaedra Ensemble",
         "link": "https://thequietus.com/quietus-reviews/album-of-the-week/leo-chadburn-phaedra-ensemble-english-dancing-master-review/",
         "published": "2026-10-29T09:47:20Z",
         "description": "Leo Chadburn's latest work expands outwards from a seventeenth-century manual of folk dances to a kinetic exploration of human movement, from St Vitus' chorea to raving at Castlemorton Common English Dancing Master is a dance album, but not in the sense you would usually associate with the term. There is no “succession of repetitive beats” (the phrase used by the Criminal Justice and Public Order Act 1994 to criminalise outdoor raves), ribcage splintering bass or woozy toplines. Instead, we are treated to a reticent male narrator – voiced by Leo Chadburn – and the Phaedra Ensemble in conversation with each other. In fact, it’s not really an album at all but a singular radiophonic piece…"
@@ -972,24 +990,6 @@
         "link": "https://thequietus.com/interviews/bakers-dozen/coming-up-for-air-andy-stotts-favourite-albums/",
         "published": "2026-10-28T10:00:00Z",
         "description": "From 80s synth pop and 90s trip hop through to mischievous, glitched-out electronics, Andy Stott talks through 13 records that hold significance to him ahead of the release of his new album, Late Loop Across a career that now spans more than two decades, Andy Stott’s name has become synonymous with a style of electronic music that is patient and understated. Early records like Passed Me By and Luxury Problems dealt in dubbed-out minimalism and hauntingly gritty chuggers, while albums like 2016’s Too Many Voices and 2019’s It Should Be Us retained some of those qualities while introducing shades of dream pop into his captivating oeuvre. On new record Late Loop, which is his first studio LP…"
-      },
-      {
-        "title": "Dis Fig – What To Make Of These Mortal Hands",
-        "link": "https://thequietus.com/quietus-reviews/dis-fig-what-to-make-of-these-mortal-hands-review/",
-        "published": "2026-10-28T09:46:22Z",
-        "description": "Dis Fig What To Make Of These Mortal Hands Her debut was called PURGE and it was about her. This one is about what people do to each other, and it is named after the part of the body that does it What To Make Of These Mortal Hands by Dis Fig The title tells you where to look. Hands make things and hands wreck them, and Felicia Chen has built her second solo album around that double function. Track ten is called ‘A Hundred Hands’. Track six is ‘The Snake You Built’. The third track is named after the psaltery, an instrument you have to pluck with your fingers to make a sound at all. None of this is decoration. What To Make..."
-      },
-      {
-        "title": "Prepared for the Future: the Slow Reveal of Aphex Twin’s Drukqs",
-        "link": "https://thequietus.com/opinion-and-essays/black-sky-thinking/aphex-twin-best-album-drukqs/",
-        "published": "2026-10-28T08:14:13Z",
-        "description": "Drukqs has long been one of John Doran's favourite LPs; with a reissue looming, he attempts to articulate why he loves this critically derided album so much Drukqs by Aphex Twin Rereading the contemporary reviews of Drukqs 25 years later is like rubbernecking the aftermath of a motorway crash. Just ahead of release in October 2001, it became wince-inducingly clear that some previously long-term supporters of Richard D. James were ready to start questioning the validity of his art if not gearing up to fully turn on him. His traditional allies in the leftfield press hated the album, that much was clear. “Too much cake and no nuts” was the stinging but memorable summary minted by Rob Young…"
-      },
-      {
-        "title": "Nik Colk Void and More to Play Soho Electronic 2026",
-        "link": "https://thequietus.com/news/nik-colk-void-and-more-to-play-soho-electronic-2026/",
-        "published": "2026-10-27T15:28:52Z",
-        "description": "The festival of leftfield electronic music returns to Central London next month for its second edition Soho Electronic, the Central London festival championing leftfield electronic music, will return for its second edition next month. More than 30 artists are scheduled to play across four stages on and around Dean Street, with the likes of Nik Colk Void and Mark Van Hoen, otherwise known as Locust, set to make appearances. The festival will also host sets from reel-to-reel tape manipulator Howlround, Sculpture, Sonny E (FKA Adamski) and Agnes Haus, in addition to our very own Reviews Editor, Bobby Barry. Alongside the aforementioned acts, the full lineup includes live sets from Axon, Death…"
       }
     ],
     "residentadvisor": [],
@@ -1248,6 +1248,12 @@
     ],
     "mubi": [
       {
+        "title": "The Action Scene | Impact Factor: The Hong Kong Connection in Contemporary Thai Martial Arts Cinema",
+        "link": "https://mubi.com/en/notebook/posts/the-action-scene-impact-factor-the-hong-kong-connection-in-contemporary-thai-martial-arts-cinema",
+        "published": "2026-10-30T08:00:00Z",
+        "description": "The Action Scene explores the form, history, and visceral power of action cinema through its set pieces. A translated version of this essay was published in HKinema , the quarterly magazine of the Hong Kong Film Critics Society. Clockwise from top-left: Ong-Bak (Prachya Pinkaew, 2003), Born to Fight (Panna Rittikrai, 2004), The Protector (Prachya Pinkaew, 2005), Chocolate (Prachya Pinkaew, 2008). “I like both Thai and kung fu shapes. Please show us!” “Are you mad? You could’ve been killed! If you want to die, I can arrange it.” — Born to Fight (Panna Rittikrai, 1984) For many martial arts movie fans in the mid-2000s, Tony Jaa was king. Sundry moments established his reign. In one scene…"
+      },
+      {
         "title": "MUBI Podcast: Encuentros | “Into the fire”",
         "link": "https://mubi.com/en/notebook/posts/mubi-podcast-encuentros-into-the-fire",
         "published": "2026-10-29T16:18:00Z",
@@ -1288,12 +1294,6 @@
         "link": "https://mubi.com/en/notebook/posts/rushes-netflix-fires-chief-content-officer-soderbergh-takes-over-the-batman-part-ii-r-i-p-eva-marie-saint",
         "published": "2026-10-21T08:00:00Z",
         "description": "Get in touch to send in cinephile news and discoveries. To keep up with our latest features, sign up for the Weekly Edit newsletter and follow us @mubinotebook on X and Instagram . NEWS Musk (Alex Gibney, 2026). As part of Netflix’s recent mass layoffs , the streamer has fired chief content officer Bela Bajaria . Many insiders have expressed shock at her dismissal, believing that the company is using her as a scapegoat for lagging user engagement. “People always blame the content, but you don’t lay off 1,000 people unless there’s a big problem with the business model,” explained an anonymous source. TikTok permanently suspended the advertising account for Musk (2026) ahead of its wide…"
-      },
-      {
-        "title": "Masao Adachi: Demystifying a Legend",
-        "link": "https://mubi.com/en/notebook/posts/masao-adachi-demystifying-a-legend",
-        "published": "2026-10-20T08:00:00Z",
-        "description": "Masao Adachi in 2025. Photograph by David Matthew Davis. Masao Adachi is a filmmaker whose reputation well and truly precedes him. Born in 1939 in Kyushu, Japan, he moved to Tokyo to attend Nihon University, coming of age during the turbulent protests against the renewal of the mutual security treaty between Japan and the United States in 1959–60. He started making films with a student group and soon emerged as one of the leading figures in the burgeoning underground cinema scene. In the mid-1960s, Adachi became involved with the sexploitation industry, writing and directing several striking examples of the genre for Koji Wakamatsu’s production company. He was also collaborating with major…"
       }
     ],
     "reverseshot": [],
