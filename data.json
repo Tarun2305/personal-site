@@ -387,119 +387,131 @@
     "reuters": [],
     "bbc": [
       {
+        "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
+        "link": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-03T10:32:56Z",
+        "description": "The BBC's North America correspondent considers three different scenarios, and what they would mean for the country."
+      },
+      {
+        "title": "Spanish footballer dies after collision with goalkeeper during match",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-03T09:09:18Z",
+        "description": "Tenerife striker Jesus de Miguel has died after the 30-year-old suffered a serious injury during a Spanish second-division match."
+      },
+      {
+        "title": "MI5 will not face contempt of court charges despite admitting its evidence was a lie",
+        "link": "https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-03T11:02:47Z",
+        "description": "MI5 chief Sir Ken McCallum welcomed the court's decision and says its judgment \"underlines MI5's serious failures in this case\"."
+      },
+      {
+        "title": "Mahmood refuses to put cost on care worker settlement climbdown",
+        "link": "https://www.bbc.co.uk/news/articles/cm75pgqdyzldo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-03T11:03:45Z",
+        "description": "The home secretary says the full cost of dropping plans to extend the wait for settlement will be laid out in future."
+      },
+      {
+        "title": "'Mogging' is Collins' word of the year... but do you know what it means?",
+        "link": "https://www.bbc.co.uk/news/articles/cve8rp085zzjo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-03T01:52:28Z",
+        "description": "The slang term, which relates to outshining or upstaging someone, is one of 10 words celebrated."
+      },
+      {
+        "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
+        "link": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-03T13:07:00Z",
+        "description": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday."
+      },
+      {
+        "title": "Scientists detect signals from the zeptoverse - the smallest scale of nature ever explored",
+        "link": "https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-03T06:01:23Z",
+        "description": "Researchers have detected signals from the smallest distances ever probed."
+      },
+      {
         "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
         "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-03T02:11:13Z",
+        "published": "2026-11-03T12:07:59Z",
         "description": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far."
-      },
-      {
-        "title": "US strikes Iran ahead of midterm elections",
-        "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-03T03:39:08Z",
-        "description": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner."
-      },
-      {
-        "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
-        "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-03T00:07:05Z",
-        "description": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations."
-      },
-      {
-        "title": "PM plans debt re-set for Commonwealth nations as slavery apology talks begin",
-        "link": "https://www.bbc.co.uk/news/articles/c58jzn1ve0kjo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-03T00:26:04Z",
-        "description": "The move comes as the prime minister begins talks about the UK issuing a formal apology for the slave trade in the next year."
-      },
-      {
-        "title": "Mahmood scraps settlement plans for migrant care workers",
-        "link": "https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-03T04:28:37Z",
-        "description": "The home secretary laid out a revised proposal for changing when migrants can claim permanent residency."
-      },
-      {
-        "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
-        "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-03T00:08:14Z",
-        "description": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause."
-      },
-      {
-        "title": "Jewellery sold as sterling silver on Amazon and Temu found to contain toxic chemicals",
-        "link": "https://www.bbc.co.uk/news/articles/cm62yjx4dl0jo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-03T01:49:49Z",
-        "description": "An investigation by Watchdog analysed 25 items bought from Amazon, Etsy, Temu, eBay and OnBuy."
-      },
-      {
-        "title": "Shop freezers in seven European countries hit by cyber-attack",
-        "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-02T17:38:11Z",
-        "description": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C."
       }
     ],
     "aljazeera": [
       {
-        "title": "Israeli forces arrest Al Jazeera journalist in raid on West Bank home",
-        "link": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-arrest-al-jazeera-journalist-in-raid-on-his-west-bank-home?traffic_source=rss",
-        "published": "2026-11-03T04:25:16Z",
-        "description": "Video of the arrest shows Israeli forces leading Montaser Nassar, who was blindfolded and handcuffed, into a vehicle."
+        "title": "Qatar remains hopeful the US and Iran can reach a deal",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/qatar-remains-hopeful-the-us-and-iran-can-reach-a-deal?traffic_source=rss",
+        "published": "2026-11-03T13:05:39Z",
+        "description": "Qatar’s foreign ministry spokesperson Majed al-Ansari says regional neighbours and international partners are working to"
       },
       {
-        "title": "El-Sayed, Rogers hold dueling rallies as bitter campaign comes to a close",
-        "link": "https://www.aljazeera.com/news/2026/11/3/el-sayed-rogers-hold-dueling-rallies-as-bitter-campaign-comes-to-a-close?traffic_source=rss",
-        "published": "2026-11-03T04:15:08Z",
-        "description": "The events come as Haley Stevens opined on why she withdrew support for the US Senate Democratic nominee."
+        "title": "How Florida Governor Ron DeSantis will shape his state’s 2026 midterm race",
+        "link": "https://www.aljazeera.com/news/2026/11/3/how-florida-governor-ron-desantis-will-shape-his-states-2026-midterm-race?traffic_source=rss",
+        "published": "2026-11-03T13:05:03Z",
+        "description": "The outgoing governor and former presidential candidate has transformed Florida into a conservative policy vanguard."
       },
       {
-        "title": "Israeli soldiers arrest Al Jazeera journalist in Hebron raids",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/israeli-soldiers-arrest-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
-        "published": "2026-11-03T03:53:09Z",
-        "description": "Israeli soldiers blindfolded, handcuffed and arrested Al Jazeera correspondent Montaser Nassar during a raid on his home"
+        "title": "Cyberattack disrupts supermarkets across Europe",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/cyberattack-disrupts-supermarkets-across-europe?traffic_source=rss",
+        "published": "2026-11-03T12:38:21Z",
+        "description": "Cyberattack disrupts supermarkets across Europe"
       },
       {
-        "title": "US urges Venezuela to follow phased plan for democratic transition",
-        "link": "https://www.aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition?traffic_source=rss",
-        "published": "2026-11-03T02:27:51Z",
-        "description": "This comes as leading opposition leader returns to Venezuela and hints at criticism of Trump administration."
+        "title": "Two police officers protecting polio workers in Pakistan shot dead",
+        "link": "https://www.aljazeera.com/news/2026/11/3/two-police-officers-protecting-polio-workers-in-pakistan-shot-dead?traffic_source=rss",
+        "published": "2026-11-03T12:33:03Z",
+        "description": "The attackers, travelling on a motorcycle, opened fire on a police car in Khyber Pakhtunkhwa province."
       },
       {
-        "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
-        "link": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss",
-        "published": "2026-11-03T02:25:02Z",
-        "description": "Several explosions heard in Qeshm Island and Bandar Lengeh, as US media say the US military carried out the strikes."
+        "title": "Al Jazeera journalist recounts arrest during Israeli raid on his home",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/al-jazeera-journalist-recounts-arrest-during-israeli-raid-on-his-home?traffic_source=rss",
+        "published": "2026-11-03T12:14:19Z",
+        "description": "Released Al Jazeera Arabic correspondent Montaser Nassar describes how Israeli forces raided his home and arrested him."
       },
       {
-        "title": "Thousands displaced as homes are bulldozed in India’s Assam state",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/thousands-displaced-as-homes-are-bulldozed-in-indias-assam-state?traffic_source=rss",
-        "published": "2026-11-03T02:15:39Z",
-        "description": "Hundreds of homes have been bulldozed in the Dhubri district of Assam state in northeastern India."
+        "title": "Grain under fire: Russian, Ukrainian Black Sea attacks threaten food supply",
+        "link": "https://www.aljazeera.com/news/2026/11/3/disruptions-of-black-sea-grain-exports-spike-global-prices?traffic_source=rss",
+        "published": "2026-11-03T12:10:47Z",
+        "description": "Renewed strikes on Black Sea shipping imperil grain exports, drive up food prices and deepen global food insecurity."
       },
       {
-        "title": "US lawmakers ask Trump administration to stop deportation of Afghans",
-        "link": "https://www.aljazeera.com/news/2026/11/3/us-lawmakers-ask-trump-administration-to-stop-deportation-of-afghans?traffic_source=rss",
-        "published": "2026-11-03T02:12:33Z",
-        "description": "At least 150 Afghans are facing deportation to Pakistan and on to Afghanistan."
+        "title": "How India pulled 500 million people out of poverty as inequality deepens",
+        "link": "https://www.aljazeera.com/news/2026/11/3/how-india-pulled-500-million-people-out-of-poverty-as-inequality-deepens?traffic_source=rss",
+        "published": "2026-11-03T11:30:34Z",
+        "description": "India's extreme poverty declined from 27.1 percent to 2.6 percent between 2011 and 2023, according to the World Bank."
       },
       {
-        "title": "Multiple Russian strikes kill at least 26 at Ukraine aid centre",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss",
-        "published": "2026-11-03T01:17:57Z",
-        "description": "At least 26 people were killed in Russian strikes on a school being used as a humanitarian aid centre."
+        "title": "Polls open in closely contested US midterm elections 2026",
+        "link": "https://www.aljazeera.com/news/2026/11/3/polls-open-in-closely-contested-us-midterm-elections-2026?traffic_source=rss",
+        "published": "2026-11-03T11:27:14Z",
+        "description": "Democrats are eyeing historic gains in the US Congress that could change the trajectory of the country."
       }
     ],
     "ft": [
       {
-        "title": "Big majority of US voters disapprove of Trump’s handling of inflation: FT poll",
-        "link": "https://www.ft.com/content/5ed63d08-66f3-4ad3-9ec7-2ec8b590fc85?syn-25a6b1a6=1",
-        "published": "2026-11-02T20:38:05Z",
-        "description": "On the eve of the midterm elections, Americans say they want politicians who can better handle the economy"
+        "title": "US voters prepare to deliver verdict on Trump",
+        "link": "https://www.ft.com/content/086e9324-9d27-43a7-9334-d743f7cf8626?syn-25a6b1a6=1",
+        "published": "2026-11-03T10:00:06Z",
+        "description": "Congressional races across nation will determine whether president’s Republican Party will retain its majorities in Congress"
       },
       {
-        "title": "Democrats close ranks after shock Michigan split",
-        "link": "https://www.ft.com/content/17ea8ea2-a834-428b-8c93-bc1803ca4d9f?syn-25a6b1a6=1",
-        "published": "2026-11-02T21:35:58Z",
-        "description": "Haley Stevens’ support for Republican candidate instead of Abdul El-Sayed provokes a swift backlash"
+        "title": "Americans begin voting in elections to decide control of Congress",
+        "link": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
+        "published": "2026-11-03T10:52:57Z",
+        "description": ""
       },
       {
-        "title": "Key races that will decide the US midterm elections",
+        "title": "Wall Street braces as voters head to high-stakes polls",
+        "link": "https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5?syn-25a6b1a6=1",
+        "published": "2026-11-03T10:27:49Z",
+        "description": "Vote will set the trajectory for everything from AI to public spending"
+      },
+      {
+        "title": "What 21 months of Trump have done to America",
+        "link": "https://www.ft.com/content/703f842f-599f-4267-a7c9-1ec1d00ded00?syn-25a6b1a6=1",
+        "published": "2026-11-03T11:40:58Z",
+        "description": "From ‘liberation day’ and bond market turmoil to Maduro’s capture, the goading of Zelenskyy and war in Iran, it has been a head-spinning period in US politics"
+      },
+      {
+        "title": "US midterms: the races to watch",
         "link": "https://www.ft.com/content/1626b14d-524f-4d2a-94d1-860ae4a68692?syn-25a6b1a6=1",
         "published": "2026-11-02T20:12:26Z",
         "description": "Will a Democratic ‘blue wave’ sweep Congress away from Republicans — and render the president a lame duck?"
@@ -511,28 +523,16 @@
         "description": "US President touts new pipes and ‘great reflectivity’ of Washington’s Reflecting Pool on eve of critical vote"
       },
       {
-        "title": "How Putin has split the west",
-        "link": "https://www.ft.com/content/eae872b0-69cb-445c-a107-aab95f9a8525?syn-25a6b1a6=1",
-        "published": "2026-11-02T12:47:36Z",
-        "description": "Three different camps have emerged within the western alliance on how to deal with Russia"
+        "title": "Italy’s ‘exit tax’ plan spooks rich expats",
+        "link": "https://www.ft.com/content/394938d3-f635-4af7-89f2-8a3c28ecf4ae?syn-25a6b1a6=1",
+        "published": "2026-11-03T05:00:13Z",
+        "description": "Giorgia Meloni’s government has proposed a special levy for people leaving the country as part of its budget for 2027"
       },
       {
-        "title": "Why rich Ireland still feels poor",
-        "link": "https://www.ft.com/content/637d66c0-0b2d-48b2-9d17-f2f5edb86971?syn-25a6b1a6=1",
-        "published": "2026-11-02T05:00:08Z",
-        "description": "Dublin is precariously reliant on corporation taxes, with half coming from Apple, Eli Lilly and Microsoft"
-      },
-      {
-        "title": "US strikes Iran’s Qeshm Island on eve of election",
-        "link": "https://www.ft.com/content/ebeaca62-8958-459a-be9d-d3d39e441a53?syn-25a6b1a6=1",
-        "published": "2026-11-03T04:11:51Z",
-        "description": "Washington said attacks were defensive"
-      },
-      {
-        "title": "Apple warns ‘unprecedented’ memory chip costs will hit margins",
-        "link": "https://www.ft.com/content/f6ad8c32-cacb-48ad-ad85-a9a7edac3f16?syn-25a6b1a6=1",
-        "published": "2026-11-03T01:17:37Z",
-        "description": "Hardware giant predicts robust sales in the holiday season but services outlook disappoints"
+        "title": "US, Russia and China discuss meeting between Trump, Putin and Xi",
+        "link": "https://www.ft.com/content/73c1d1cc-6bb2-43a6-8532-7823e5c1a40b?syn-25a6b1a6=1",
+        "published": "2026-11-03T08:10:41Z",
+        "description": "US president is travelling to Shenzhen in two weeks to attend Apec summit"
       }
     ],
     "restofworld": [
@@ -587,6 +587,18 @@
     ],
     "propublica": [
       {
+        "title": "We Can’t Predict What Will Happen on Election Day. But We’ll Be Here to Cover It.",
+        "link": "https://www.propublica.org/article/propublica-approach-2026-midterm-elections",
+        "published": "2026-11-03T11:00:00Z",
+        "description": ""
+      },
+      {
+        "title": "I Was There to Document the Aftermath of Deadly Flooding. Then, It Started Raining.",
+        "link": "https://www.propublica.org/article/ruidoso-new-mexico-floods-fire",
+        "published": "2026-11-03T10:30:00Z",
+        "description": ""
+      },
+      {
         "title": "After ProPublica Investigation, House Democrats Demand Answers on U.S. Citizens Detained by Immigration Agents",
         "link": "https://www.propublica.org/article/american-citizens-ice-detention-congress-impact",
         "published": "2026-11-02T17:45:00Z",
@@ -620,18 +632,6 @@
         "title": "Federal and State Officials Ramp Up Scrutiny of DraftKings, Other Sports Betting Apps",
         "link": "https://www.propublica.org/article/sports-betting-impact-louisiana-ohio-congress",
         "published": "2026-10-30T09:00:00Z",
-        "description": ""
-      },
-      {
-        "title": "Search More Than 500 Cases of U.S. Citizens Detained by Immigration Agents",
-        "link": "https://projects.propublica.org/american-citizens-detained-dhs-civil-rights/list",
-        "published": "2026-10-29T17:50:00Z",
-        "description": ""
-      },
-      {
-        "title": "Detroit Could Block Billionaire-Owned Concrete Plant From Further Neighborhood Expansion",
-        "link": "https://www.propublica.org/article/kronos-moroun-cadillac-heights-detroit-concrete-impact",
-        "published": "2026-10-29T10:00:00Z",
         "description": ""
       }
     ],
@@ -692,28 +692,34 @@
     "chelsea_sky": [],
     "guardianfootball": [
       {
-        "title": "Newcastle unrest grows as Barry and Everton give Jaissle another headache",
-        "link": "https://www.theguardian.com/football/2026/nov/02/newcastle-everton-premier-league-match-report",
-        "published": "2026-11-02T22:04:11Z",
-        "description": "Jack Grealish will do well to get back into the Everton starting lineup when he returns to the squad – as David Moyes’s side are doing just fine without him. Newcastle were condemned to a second defeat in five days by Moyes’s young team, with a second-half goal from Thierno Barry giving Everton victory against 10 men at St James’ Park after the substitute Jacob Ramsey’s late red card. Continue reading..."
+        "title": "Tenerife footballer Jesús de Miguel dies aged 30 after on-pitch collision",
+        "link": "https://www.theguardian.com/football/2026/nov/03/tenerife-footballer-jesus-de-miguel-hospital-collision",
+        "published": "2026-11-03T09:13:33Z",
+        "description": "Forward had cardiac arrest and was taken to hospital He was struck in the chest when challenging for ball The Tenerife striker Jesús de Miguel has died following a collision with Andorra goalkeeper Jesús Owono during a match in Spain’s second division. Tenerife announced that the 30-year-old had tragically passed away at 8am on Tuesday after he had been taken into intensive care on Monday afternoon. De Miguel suffered a cardiorespiratory arrest and did not regain consciousness. The collision occurred in added time at the end of Andorra’s visit to Tenerife, a game that had been put back 24 hours because of the risk of torrential rain on the island. With the score 2-2, late in the 96th…"
       },
       {
-        "title": "Revisiting the Superclásico: a story of death, violence, colour and family",
-        "link": "https://www.theguardian.com/football/2026/nov/02/revisiting-superclasico-boca-juniors-river-plate",
-        "published": "2026-11-02T20:00:27Z",
-        "description": "Attending Boca v River in the week I turned 60 made me recall a lifetime of experiences at the fixture Ever since the Observer Sport Monthly published a list of 50 sporting things you must do before you die with Watch Boca Juniors Play River Plate in Buenos Aires at No 1 in 2004, the biggest super derby in Argentina has been firmly positioned in the global imagination; its reputation for colour, passion and uncontainable emotion acquiring an almost glamorous sheen. The thump and thud of the coordinated chants, the shiny ticker-tape amid flare smoke matching the teams’ strips, the bounce of the concrete as tens of thousands jump in unison, mounted police surrounding the stadium, avalanche…"
+        "title": "West Ham turn to Scott Parker after sacking Nuno Espírito Santo as head coach",
+        "link": "https://www.theguardian.com/football/2026/nov/03/west-ham-sack-nuno-espirito-santo-as-head-coach",
+        "published": "2026-11-03T09:43:49Z",
+        "description": "West Ham intent on instant return to Premier League Nuno took over from Graham Potter in September 2025 West Ham are poised to appoint Scott Parker as their manager after sacking Nuno Espírito Santo. Parker has been out of work since leaving Burnley last season but there is optimism he will be in place when West Ham visit Cardiff City on Wednesday. The club kept faith with Nuno after their relegation from the Premier League last season but patience has snapped with the side eighth in the Championship after the 3-1 defeat by West Bromwich Albion last Saturday. Continue reading..."
       },
       {
-        "title": "Arsenal have everything they need to repeat as Premier League champions | Jonathan Wilson",
-        "link": "https://www.theguardian.com/football/2026/nov/02/arsenal-liverpool-premier-league",
-        "published": "2026-11-02T15:47:19Z",
-        "description": "Sunday’s win at Liverpool showed the Gunners are deeper, more experienced, and are playing against a weaker class of contenders than last season Sign up for our free newsletter here Arsenal are three points clear at the top of the Premier League table . But given the team in second are Manchester City, who are likely to be facing at the very least a major points deduction , perhaps more significant is that they are five clear of Brighton in third. The season of domination that many anticipated from the champions appears to be coming to pass. Liverpool challenged them on Sunday. There was a 20-minute spell before half-time when they swarmed all over Arsenal, and Anfield felt at least like…"
+        "title": "‘An absolute afterthought’: the story of the Nigeria women’s team’s fall from grace",
+        "link": "https://www.theguardian.com/football/2026/nov/03/womens-world-cup-2027-missing-out-nigeria-moving-the-goalposts",
+        "published": "2026-11-03T11:33:56Z",
+        "description": "The Super Falcons won’t be at the World Cup and with the prize money going up, they risk being left even further behind It was a historic result in Casablanca – but not in a good way. Nigeria’s 2-1 defeat against South Africa in a playoff in August meant that the Super Falcons are missing out on the World Cup for the first time. It is a crushing blow for the most decorated national side in Africa across both men and women, one that has won no fewer than 10 Wafcon titles . The journalist and lecturer Dr Victor Ademola was in Morocco the day of the defeat. “It was a very difficult evening,” he says. “Some players were visibly emotional while others appeared to be processing what had just…"
       },
       {
-        "title": "Stumbling block: Wirtz's and Liverpool’s costly struggles against tight defences | Andrew Beasley",
-        "link": "https://www.theguardian.com/football/2026/nov/02/florian-wirtz-andoni-iraola-liverpool-tight-defences-arsenal-anfield",
-        "published": "2026-11-02T18:50:00Z",
-        "description": "Credit to Arsenal for restricting opportunities at Anfield but Iraola will need his side to learn to unpick low backlines Liverpool did not have a shot on target in their 1-0 defeat by Arsenal on Sunday, according to Opta, the first time they have drawn this type of blank in a Premier League game at Anfield since records began in 2003-04. They did not find the target in a goalless draw at the Emirates Stadium this year either, though in both games they struck the woodwork. The margins tend to be fine when recording statistical outliers. If Alexis Mac Allister’s floated ball from distance into David Raya’s waiting arms had actually counted as a shot, would Andoni Iraola’s side have…"
+        "title": "David Squires on … Mikel Arteta’s view that football is not Disneyland",
+        "link": "https://www.theguardian.com/football/picture/2026/nov/03/david-squires-on-mikel-arteta-football-not-disneyland",
+        "published": "2026-11-03T10:57:42Z",
+        "description": "Our cartoonist on whether the Arsenal manager is right about the game not being an entertainment industry Buy a cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading..."
+      },
+      {
+        "title": "AFC postpones Asian Cup in Saudi Arabia to late 2027 due to conflict in Middle East",
+        "link": "https://www.theguardian.com/football/2026/nov/03/2027-asian-cup-saudi-arabia-postponed-conflict-middle-east",
+        "published": "2026-11-03T07:30:40Z",
+        "description": "Tournament pushed back 11 months with proposed start on 23 December New dates with 21 January 2028 final must be approved by Fifa The 2027 Asian Cup in Saudi Arabia has been postponed as a result of the conflict in the Middle East. After a month of speculation following the airport attack on Riyadh’s international airport, the Asian Football Confederation (AFC) confirmed on Tuesday that the tournament had been pushed back 11 months. Continue reading..."
       },
       {
         "title": "Fifa to share documents on World Cup sell-off plans with council members",
@@ -722,22 +728,16 @@
         "description": "Viewings to take place at Fifa’s headquarters in Zurich No direct response to Uefa’s questions on governance Fifa will grant its council members access to documents regarding the doomed Fifa Forward Enterprise scheme but has not responded directly to more than 50 questions from Uefa about its governance and recent scandals. In a letter sent to the Fifa Council by Mattias Grafström, the governing body’s secretary general, members were told material relating to FFE will be released for them to view in person at Fifa’s headquarters in Zurich. They will be allowed only to view the documents, of which the exact nature and scope are unclear, under strict confidentiality protocols. A deadline of…"
       },
       {
-        "title": "Carrick not concerned about Martínez’s attitude as United prepare for Roma visit",
-        "link": "https://www.theguardian.com/football/2026/nov/02/michael-carrick-lisandro-martinez-manchester-united-roma-champions-league",
-        "published": "2026-11-02T15:45:01Z",
-        "description": "Defender expected to keep place after red card at Chelsea Martínez’s ‘commitment is not an issue’, says Carrick Michael Carrick has insisted he is not concerned about Lisandro Martínez’s attitude despite the defender’s recent outburst aimed at the Manchester United hierarchy which was then followed by his reckless sending off in the defeat against Chelsea at the weekend. Martínez, who was fined for his comments about United’s director of football , Jason Wilcox, is expected to keep his place for the visit of Roma in the Champions League on Tuesday as United aim to end their worst run in 38 years, having failed to win any of their past nine matches. Continue reading..."
+        "title": "Newcastle unrest grows as Barry and Everton give Jaissle another headache",
+        "link": "https://www.theguardian.com/football/2026/nov/02/newcastle-everton-premier-league-match-report",
+        "published": "2026-11-02T22:04:11Z",
+        "description": "Jack Grealish will do well to get back into the Everton starting lineup when he returns to the squad – as David Moyes’s side are doing just fine without him. Newcastle were condemned to a second defeat in five days by Moyes’s young team, with a second-half goal from Thierno Barry giving Everton victory against opponents who ended with 10 men after the substitute Jacob Ramsey’s late red card. Continue reading..."
       },
       {
-        "title": "Dazn secures exclusive deal on global streaming rights for 2029 Club World Cup",
-        "link": "https://www.theguardian.com/football/2026/nov/02/dazn-world-cup-2029-exclusive-deal-global-streaming-rights",
-        "published": "2026-11-02T13:00:40Z",
-        "description": "Deal deepens company’s relationship with Fifa Dazn paid $1bn for global rights for the 2025 tournament Dazn has secured an exclusive option for global streaming rights for the next men’s Club World Cup in 2029 in a development that deepens its partnership with Fifa. The Saudi Arabia-backed ­streaming company came to Fifa’s aid before the inaugural 32-team Club World Cup in the US last year by agreeing to pay $1bn (£745m) for global rights for the tournament after many ­linear broadcasters and other streamers had declined to bid . Continue reading..."
-      },
-      {
-        "title": "Nuno Espírito Santo under threat at West Ham after poor start to the season",
-        "link": "https://www.theguardian.com/football/2026/nov/02/nuno-espirito-santo-west-ham-under-threat-poor-season-start-championship",
-        "published": "2026-11-02T12:01:16Z",
-        "description": "Favourites for promotion sit eighth in Championship Key figures at club losing patience with manager Nuno Espírito Santo’s future at West Ham is under threat after a disappointing start to the season. West Ham are struggling to live up to their billing as Championship favourites and dropped to eighth after losing 3-1 to West Bromwich Albion on Saturday. West Ham are intent on an instant return to the Premier League after Nuno failed to save them from relegation last season, but the setback against West Brom put another dent in their promotion push. West Ham occupy the final playoff spot after consecutive defeats at home and are four points below second placed Swansea. Nuno is expected to…"
+        "title": "Revisiting the Superclásico: a story of death, violence, colour and family",
+        "link": "https://www.theguardian.com/football/2026/nov/02/revisiting-superclasico-boca-juniors-river-plate",
+        "published": "2026-11-02T20:00:27Z",
+        "description": "Attending Boca v River in the week I turned 60 made me recall a lifetime of experiences at the fixture Ever since the Observer Sport Monthly published a list of 50 sporting things you must do before you die with Watch Boca Juniors Play River Plate in Buenos Aires at No 1 in 2004, the biggest super derby in Argentina has been firmly positioned in the global imagination; its reputation for colour, passion and uncontainable emotion acquiring an almost glamorous sheen. The thump and thud of the coordinated chants, the shiny ticker-tape amid flare smoke matching the teams’ strips, the bounce of the concrete as tens of thousands jump in unison, mounted police surrounding the stadium, avalanche…"
       }
     ],
     "spielverlagerung": [
@@ -842,6 +842,18 @@
     ],
     "wagnh": [
       {
+        "title": "Chelsea 2-0 Manchester United, Player Ratings: Wherefore thou art Roméo",
+        "link": "https://weaintgotnohistory.sbnation.com/premier-league/173673/chelsea-2-0-manchester-united-player-ratings-wherefore-thou-art-romeo",
+        "published": "2026-11-02T08:22:25Z",
+        "description": "1. ROMÉO LAVIA (8.4) I had figured that this was Lavia’s first ever Man of the Match for us, but it turns out I was wrong. He was voted to the top of the podium in our opening match of the 2024-25 season, a 2-0 home defeat against Manchester City. It was Lavia’s first ever […]"
+      },
+      {
+        "title": "The Daily Hilario: Monday",
+        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/173668/the-daily-hilario-november-2nd",
+        "published": "2026-11-02T08:13:48Z",
+        "description": "First Well Good run"
+      },
+      {
         "title": "Charlton Athletic WFC 0-6 Chelsea FCW, Women’s Super League: Post-match reaction",
         "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/173660/charlton-athletic-wfc-0-6-chelsea-fcw-womens-super-league-post-match-reaction",
         "published": "2026-11-01T16:26:50Z",
@@ -876,23 +888,35 @@
         "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/173617/charlton-athletic-wfc-vs-chelsea-fcw-womens-super-league-preview-team-news-how-to-watch",
         "published": "2026-10-31T15:55:11Z",
         "description": "Just four days after facing AS Roma in Europe, Chelsea Women are back in the Women’s Super League for another London derby, this time away to newly-promoted Charlton Athletic. The Blues have reclaimed top spot in the league after six consecutive wins, while the Addicks are still searching for their first points of the season. […]"
-      },
-      {
-        "title": "Chelsea 2-0 Manchester United, Premier League: Post-match reaction, ratings",
-        "link": "https://weaintgotnohistory.sbnation.com/premier-league/173610/chelsea-2-0-manchester-united-premier-league-post-match-reaction-ratings",
-        "published": "2026-10-31T14:42:14Z",
-        "description": "Chelsea made a positive start to the game and put the pressure on the visitors with some uptempo football in the midday sunshine. Unfortunately, an offside goal from Estêvão was all we had to show for that early impetus, the youngster tapping in after the goalkeeper gave up a rebound, but finding himself well behind […]"
-      },
-      {
-        "title": "Chelsea vs. Manchester United, Premier League: Lineups & Game Thread",
-        "link": "https://weaintgotnohistory.sbnation.com/premier-league/173595/chelsea-vs-manchester-united-premier-league-confirmed-lineups-how-to-watch",
-        "published": "2026-10-31T13:32:18Z",
-        "description": "We’ve gathered here bright and early to witness two teams desperately in need of a win, try to get a win. Chelsea’s struggles are nothing compared to United’s crisis, but we need the win just the same. Xabi Alonso has picked a starting XI that could be either a back-four or a back-three (depending on […]"
       }
     ],
     "rym": [],
     "aoty": [],
     "pitchfork": [
+      {
+        "title": "Burning Song",
+        "link": "https://pitchfork.com/reviews/albums/kali-malone-burning-song/",
+        "published": "2026-11-03T05:03:00Z",
+        "description": "Unlike the composer’s typically massive, sprawling drones, these pieces for pipe organ—accompanied by guitarist Stephen O’Malley and cellist Lucy Railton—are finely filigreed miniatures."
+      },
+      {
+        "title": "Accolades EP",
+        "link": "https://pitchfork.com/reviews/albums/lydia-loveless-accolades-ep/",
+        "published": "2026-11-03T05:02:00Z",
+        "description": "On a new EP, the Ohio singer-songwriter writes with focus and immediacy, their lyrics blending a love of chaos with an eye toward long-term stability."
+      },
+      {
+        "title": "Infinite Now",
+        "link": "https://pitchfork.com/reviews/albums/two-shell-infinite-now/",
+        "published": "2026-11-03T05:01:00Z",
+        "description": "The perennially unserious duo’s embrace of AI is the least of the problems weighing down its latest album (and 55-track bonus compendium) of post-ironic club pop."
+      },
+      {
+        "title": "Live at the KiMo Theater Albuquerque 1979",
+        "link": "https://pitchfork.com/reviews/albums/cecil-taylor-unit-live-at-the-kimo-theater-albuquerque-1979/",
+        "published": "2026-11-03T05:00:00Z",
+        "description": "A newly unearthed live performance, originally intended for broadcast on NPR, showcases a unique and transitional moment for the free-jazz pianist's ensemble."
+      },
       {
         "title": "Late Loop",
         "link": "https://pitchfork.com/reviews/albums/andy-stott-late-loop/",
@@ -916,33 +940,27 @@
         "link": "https://pitchfork.com/reviews/albums/shovel-dance-collective-everything-in-readiness/",
         "published": "2026-11-02T05:00:00Z",
         "description": "Marrying lush arrangements and field-recording experiments, the English revivalists honor folk music’s radical tradition by reinforcing its contemporary significance."
-      },
-      {
-        "title": "Katamari Fortissimo Damacy",
-        "link": "https://pitchfork.com/reviews/albums/various-artists-katamari-fortissimo-damacy/",
-        "published": "2026-11-01T04:00:00Z",
-        "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we reconnect with a 2004 cult-classic game whose postmodernist soundtrack doubles as a treatise on the meaning of life."
-      },
-      {
-        "title": "Drukqs (25th Anniversary Edition)",
-        "link": "https://pitchfork.com/reviews/albums/aphex-twin-drukqs-25th-anniversary-edition/",
-        "published": "2026-10-31T04:00:00Z",
-        "description": "Richard D. James’ once divisive 2001 album today looks, with 25 years of hindsight, like the keystone of his career, joining rave mischief and academic rigor in a sprawling, 100-minute package."
-      },
-      {
-        "title": "ZIRP!",
-        "link": "https://pitchfork.com/reviews/albums/diiv-zirp/",
-        "published": "2026-10-30T04:03:00Z",
-        "description": "The shoegaze band teams with producer A. G. Cook for its most pop-leaning record yet. Despite some welcome shifts in tone, the best moments sound like no one but DIIV."
-      },
-      {
-        "title": "Awesome",
-        "link": "https://pitchfork.com/reviews/albums/heathers-awesome/",
-        "published": "2026-10-30T04:02:00Z",
-        "description": "Upstart guitarist Heath Michael Thomas’ shaggy, groove-heavy garage rock captures the raucous interplay of a much more practiced band."
       }
     ],
     "quietus": [
+      {
+        "title": "Daphne Oram at 100: Nine Artists on the Pioneer’s Enduring Influence",
+        "link": "https://thequietus.com/news/daphne-oram-at-100-bradford-influence-hannah-peel-annea-lockwood/",
+        "published": "2026-11-03T09:42:57Z",
+        "description": "As celebrations of Daphne Oram's centenary culminate with an all-day celebration in Bradford, Claire Biddles speaks to a host of artists, from her contemporaries to previous Oram Award winners, to get a measure of her immense contribution to electronic music Photo © Daphne Oram Trust The pioneering work of Daphne Oram was not fully recognised until after her death in 2003 – but now, over 20 years later, she is rightly recognised as one of the most important electronic musicians of the 20th century. A co-founder of the BBC’s legendary Radiophonic Workshop in 1958, Oram was one of the first composers to use electronic sound in her work, and is known for her early use of electronic tape,…"
+      },
+      {
+        "title": "Spool’s Out: Cassette Reviews for November by Daryl Worthington",
+        "link": "https://thequietus.com/quietus-reviews/cassettes/spools-out-cassette-reviews-for-november-by-daryl-worthington/",
+        "published": "2026-11-03T08:00:00Z",
+        "description": "Daryl Worthington considers the extent to which Spool’s Out offers investment advice, and reviews a crop of tapes including a footwork legend from Japan going ultra-crisp, mesmerising live code improvisations, ferocious eco-pop and more Roxanne Harris, photo by Cecilia Díaz Betz Five thousand dollars. That’s how much an original copy of Prince’s The Versace Experience on cassette could be worth, according to Finance Buzz, a website which offers “the resources and support necessary to navigate the complexities of personal finance”. That Prince tape, which contained previews of tracks from his then forthcoming The Gold Experience, was issued in 1995 and given to attendees at a fashion show…"
+      },
+      {
+        "title": "Marta Salogni & Stefano Pilia – Phren",
+        "link": "https://thequietus.com/quietus-reviews/marta-salogni-stefano-pilia-phren-review/",
+        "published": "2026-11-03T06:00:00Z",
+        "description": "Marta Salogni & Stefano Pilia Phren Spooky sounds from two Italian masters of modern electro-acoustic composition Phren by Marta Salogni & Stefano Pilia Marta Salogni and Stefano Pilia’s Phren is music of accretion. Inputs are fed through Pilia’s chain of filters and tape echo and on into Salogni’s Revox reel-to-reel tape machine for further manipulation and modulation, the signals absorbing new layers and mutations as they go. According to the release notes, that initial input is often Pilia’s guitar, but the pair’s plastic approach to sound makes that far from obvious. They telescope the act of mediation, mottling, shading and bending signals as they pass from sound source to ears.…"
+      },
       {
         "title": "Remember Them: The Incalculable Legacy of Juan Atkins",
         "link": "https://thequietus.com/news/remember-them/juan-atkins-obituary/",
@@ -962,38 +980,26 @@
         "description": "Pete Paphides reaches for the Gaviscon as he considers national identity, large plates of fried food, and what would be on the playlist were he celebrating British culture on the airwaves Pete Doherty eating his breakfast at the Dalby Cafe, via Instagram It’s been ten years since, over a Muswell Hill cuppa, my pop-loving compañero Bob Stanley floated a theory that was, on the face of things, a mite fanciful. He suggested that a key factor in the outcome of the 2016 referendum on leaving the EU was the similarity between the words ‘Brexit’ and ‘breakfast’. Bob contended that those of us who wanted Britain to remain in the EU didn’t have a comparably snappy word to which we could align our..."
       },
       {
-        "title": "Subscriber Exclusive Playlist & Perks Round-up: October 2026",
-        "link": "https://thequietus.com/subscriber-area/monthly-playlists/subscriber-exclusive-playlist-perks-round-up-october-2026/",
-        "published": "2026-11-02T06:00:00Z",
-        "description": "Here's everything our Subscribers had last month, including over four hours of listening treasure in the multi-platform playlist It’s that time of the month when we take the heavy lifting from our Subscribers' ears and keep them on top of all that is new and good in tQ’s world. Before we give the Subscriber and Subscriber Plus tier members the links to their playlist on the various streaming platforms, here’s a bit of a catch-up on what we’ve sent out to our top two subs tiers in October. In the Low Culture Podcast, John and Luke discussed the original 1954 film that kicked off the Godzilla series, as well as the recent Godzilla Minus One. The Low Culture Essay was on..."
-      },
-      {
         "title": "The Last Path – Blunt Synopsis",
         "link": "https://thequietus.com/quietus-reviews/the-last-path-blunt-synopsis-review/",
         "published": "2026-11-02T06:00:00Z",
         "description": "The Last Path Blunt Synopsis Formerly known as Bad Amputee, trio from the north-east of England take things slow. Real slow Blunt Synopsis by The Last Path When the sort of music The Last Path play really lands, the secret to it doing so is in how it just teeters on the absolute precipice of unsalvageable dourness. Guitars that sound innately metallic, not as in the genre but evocative of a large amount of lead ingots plummeting from the sky onto rural limestone. Vocals that draw out nigh on every vowel sound, not for melismatic or otherwise showy reasons but just to figuratively look you in the eye and say, “I’ll finish singing this line when I’m ready, thanks”. Blunt Synopsis is the…"
       },
       {
-        "title": "Sacrificial Riffology: Reconsidering Altar by Boris & Sunn O)))",
-        "link": "https://thequietus.com/opinion-and-essays/anniversary/sunn-o-boris-altar-review/",
-        "published": "2026-10-31T09:00:00Z",
-        "description": "Where do you go, what do you do, after you have created a riff for the ages? For Keith Kahn-Harris, that's the question that Boris & Sunn O)))'s Altar seems to ask By any objective standard, the riff that dominates 'Etna', the opener to the Boris / Sunn O))) collaboration Altar, should be as celebrated as 'Walk', 'Whole Lotta Love' or 'Symptom Of The Universe'. As a song, there is little else to it but the riff – an extended intro that builds and locks into an audaciously simple chord sequence, eventually giving way to a lavishly elongated breakdown into a squall of guitar noise. It's 9 minutes and 50 seconds of metallic perfection, the apotheosis of focused guitar power, without..."
-      },
-      {
-        "title": "Enemies Within: Derek Jarman’s Kicking the Pricks and The Last of England",
-        "link": "https://thequietus.com/culture/books/enemies-within-derek-jarmans-kicking-the-pricks-and-the-last-of-england/",
-        "published": "2026-10-31T06:22:00Z",
-        "description": "Republished for the first time in nearly thirty years, Derek Jarman's book Kicking the Pricks, including the director's notes and diaries from the making of his seminal film The Last of England, offers a portal into a rotting UK that feels all too familiar The Last of England (Derek Jarman, 1987). All images courtesy: British Film Institute In Kicking The Pricks Derek Jarman poses the question: what use is a film, book or artwork that presents a nostalgic future warning for an unloved and thwarted isle? A companion piece to Jarman’s most overtly political film, The Last Of England, the book is part memoir, part production diary, and a scattering of interviews. Taken together, the two works…"
-      },
-      {
-        "title": "Gutted, Hashed and Deboned: Necroticism: Descanting the Insalubrious By Carcass At 35",
-        "link": "https://thequietus.com/opinion-and-essays/anniversary/carcas-necroticism-descanting-the-insalubrious-review/",
-        "published": "2026-10-30T08:23:02Z",
-        "description": "Keith Kahn-Harris looks back at a landmark release full of surprises and possibilities To push back a genre label is, all too often, a reliably generic move by artists desperately seeking to differentiate themselves from other artists who sound much the same. Occasionally though, pushing back against genre label is a more subversive move, the mark of an artist pushing against anything that would close off their creative development. Such is the case with Carcass. It didn’t take them long at the start of their career to reject the grindcore label, they are currently rebelling against the extreme metal label, and on Necroticism: Descanting The Insalubrious they were reluctant to be labelled…"
+        "title": "Subscriber Exclusive Playlist & Perks Round-up: October 2026",
+        "link": "https://thequietus.com/subscriber-area/monthly-playlists/subscriber-exclusive-playlist-perks-round-up-october-2026/",
+        "published": "2026-11-02T06:00:00Z",
+        "description": "Here's everything our Subscribers had last month, including over four hours of listening treasure in the multi-platform playlist It’s that time of the month when we take the heavy lifting from our Subscribers' ears and keep them on top of all that is new and good in tQ’s world. Before we give the Subscriber and Subscriber Plus tier members the links to their playlist on the various streaming platforms, here’s a bit of a catch-up on what we’ve sent out to our top two subs tiers in October. In the Low Culture Podcast, John and Luke discussed the original 1954 film that kicked off the Godzilla series, as well as the recent Godzilla Minus One. The Low Culture Essay was on..."
       }
     ],
     "residentadvisor": [],
     "aquariumdrunkard": [
+      {
+        "title": "Steve Gunn :: Sundowner",
+        "link": "https://aquariumdrunkard.com/2026/11/03/steve-gunn-sundowner/",
+        "published": "2026-11-03T13:00:00Z",
+        "description": "A long neglected album dates to the beginning of Steve Gunn’s career, when it seemed that the guitarist might become a Takoma-style picker rather than the songwriter/improvisational experimenter he has since turned out to be. The playing is agile and folk-blues focused; the singing, when it comes, is similarly traditional and not as polished as Gunn has become. The music earned the approval of no less than Jack Rose, and its reels and rambles and psychedelic drones feel very much of a piece with the master’s work."
+      },
       {
         "title": "Chrome Chasm :: The Aquarium Drunkard Interview",
         "link": "https://aquariumdrunkard.com/2026/11/02/chrome-chasm-the-aquarium-drunkard-interview/",
@@ -1035,12 +1041,6 @@
         "link": "https://aquariumdrunkard.com/2026/10/28/the-aquarium-drunkard-show-the-halloween-edition-5/",
         "published": "2026-10-29T00:00:00Z",
         "description": "Trick or treat. Broadcasting from the Hollywood Forever Cemetery … The Aquarium Drunkard Show. The Halloween edition, Wednesday night / 7pm California time. SIRIUS/XM ~ Channel 35."
-      },
-      {
-        "title": "Boards of Canada :: Hi Scores",
-        "link": "https://aquariumdrunkard.com/2026/10/28/boards-of-canada-hi-scores/",
-        "published": "2026-10-28T13:00:00Z",
-        "description": "Earlier this year, Boards of Canada unexpectedly released their fifth album Inferno , a case of an influential artist demonstrating that their style remains eminently relatable in 2026 a.d. To close out the year, the group has dipped into its archives, re-releasing the 1996 EP Hi Scores . There’s plenty to savor here, especially for longtime BOC listeners, but there’s also something compelling about being able to hear the group’s roots in such close temporal proximity to their current venture."
       }
     ],
     "bandcampdaily": [
@@ -1248,6 +1248,12 @@
     ],
     "mubi": [
       {
+        "title": "Can This Be Dixie?: Building the Hollywood South",
+        "link": "https://mubi.com/en/notebook/posts/can-this-be-dixie-building-the-hollywood-south",
+        "published": "2026-11-03T08:00:00Z",
+        "description": "Hallelujah (King Vidor, 1929). The American South exists only in the imagination, yet it’s as real as sin. It cannot merely be the land situated beneath the Mason-Dixon (the historical survey line that traditionally demarcated Northern and Southern states), whose citizens fought under the banner of the Confederacy; one cannot ignore the obviously Southern states of West Virginia and Kentucky, or the political split between West and East Tennessee. It cannot be a shared culture or a shared history, for the residents of Jacksonville, Florida, find little in common with those families tucked deep in the Appalachian hollers or those ruling the oil-rich cities of eastern Texas. It is not a…"
+      },
+      {
         "title": "TIFF: The Market: The Review",
         "link": "https://mubi.com/en/notebook/posts/tiff-the-market-the-review",
         "published": "2026-11-02T08:00:00Z",
@@ -1288,12 +1294,6 @@
         "link": "https://mubi.com/en/notebook/posts/the-current-debate-the-unbearable-preachiness-of-alejandro-gonzalez-inarritu-digger",
         "published": "2026-10-23T08:00:00Z",
         "description": "The Current Debate connects the dots around a topic of the critical conversation. Digger (Alejandro G. Iñárritu, 2026). Speaking to The New York Times a few days before Digger (2026) hit theaters, Alejandro G. Iñárritu said that the script of his eighth feature was originally called Blah, Blah, Blah . “The film was conceptually about the most dangerous weapon that we human beings have,” he told Melena Ryzik: “This little organ that is called the tongue.” Sure enough, people talk plenty in Digger , often at unhealthy decibels, and none more than the man at the heart—or the place where the heart should be—of this sprawling, verbose satire. To see Tom Cruise star in something other than the…"
-      },
-      {
-        "title": "Table of Contents | Notebook Issue 9: “Smoke and Mirrors”",
-        "link": "https://mubi.com/en/notebook/posts/table-of-contents-notebook-issue-9-smoke-and-mirrors",
-        "published": "2026-10-22T08:00:00Z",
-        "description": "\"Smoke and Mirrors\" is available via direct subscription or in select stores around the world. And now, for our next trick! Issue 9 of Notebook invites readers to journey through the intertwined histories of magic and cinema, uncovering screen wonders both spiritual and secular. After an unearthed foreword from stage-magician-turned-auteur Orson Welles, Turner Prize-winning artist Mark Leckey and scholar Stephen Ryley revive a ghostly proto-cinematic illusion from the Victorian era that still delights today. Filmmaker Kamal Swaroop’s kaleidoscopic collages showcase a foundational figure from early Indian cinema. Four visionaries (Mona Fastvold, Lucile Hadžihalilović, Barbara Hirschfeld,…"
       }
     ],
     "reverseshot": [],
@@ -1450,6 +1450,18 @@
     "nyrb": [],
     "lrb": [
       {
+        "title": "Lula continua",
+        "link": "https://www.lrb.co.uk/blog/2026/october/lula-continua",
+        "published": "2026-10-30T16:22:26Z",
+        "description": "How did Lula defeat Bolsonaro so handily, by a far greater margin than in 2022, after losing in the first round? How did the hoped-for virada take..."
+      },
+      {
+        "title": "At the Grand Palais",
+        "link": "https://www.lrb.co.uk/blog/2026/october/at-the-grand-palais",
+        "published": "2026-10-30T15:07:11Z",
+        "description": "On Wednesday, 21 October, four days after France’s biggest student protest in a generation, Inès stood in the rain outside Art Basel Paris’s VIP..."
+      },
+      {
         "title": "Serbia’s Student Politics",
         "link": "https://www.lrb.co.uk/blog/2026/october/serbia-s-student-politics",
         "published": "2026-10-28T12:42:06Z",
@@ -1466,22 +1478,16 @@
         "link": "https://www.lrb.co.uk/blog/2026/october/in-paris",
         "published": "2026-10-23T15:57:23Z",
         "description": "Amid the tear-gas fumes and flying stun grenades it was easy to miss the ceremony taking place on the Pont Saint-Michel on Saturday, 17 October. A..."
-      },
-      {
-        "title": "Waiting for Water",
-        "link": "https://www.lrb.co.uk/blog/2026/october/waiting-for-water",
-        "published": "2026-10-22T22:10:10Z",
-        "description": "My mother rang to say that my father had called a water truck owner and offered to pay him to fill our jerry cans, but the man said his truck had..."
-      },
-      {
-        "title": "Write a Novel in Thirty Days",
-        "link": "https://www.lrb.co.uk/blog/2026/october/write-a-novel-in-thirty-days",
-        "published": "2026-10-21T16:22:08Z",
-        "description": "My boss at the bookshop has said he would sell AI novels if there were clear demand and clear labelling. We almost certainly already sell books that..."
       }
     ],
     "larb": [],
     "aeon": [
+      {
+        "title": "Believing and thinking",
+        "link": "https://aeon.co/essays/the-psychology-of-separating-church-and-state",
+        "published": "2026-11-03T11:00:00Z",
+        "description": "The separation of church and state has an unspoken psychological basis: we choose what we believe, but not what we think - by Neil Van Leeuwen & Jacob Eisler Read on Aeon"
+      },
       {
         "title": "Jo Marchant: In search of now",
         "link": "https://aeon.co/videos/always-with-us-yet-ever-elusive-on-the-knottiness-of-now",
@@ -1523,15 +1529,21 @@
         "link": "https://aeon.co/essays/we-need-a-language-to-name-the-grief-that-comes-without-death",
         "published": "2026-10-27T10:00:00Z",
         "description": "Grief is not only for the dead. When we are unable to honour other profound losses, we become strangers to ourselves - by Derek van Zoonen Read on Aeon"
-      },
-      {
-        "title": "Great art explained: Tamara in the green Bugatti",
-        "link": "https://aeon.co/videos/the-bisexual-artist-who-reimagined-womanhood-for-the-jazz-age",
-        "published": "2026-10-26T10:01:00Z",
-        "description": "A very modern conception of womanhood: in the Jazz Age paintings of Tamara de Lempicka, women were bold, free and stylish - by Aeon Video Watch on Aeon"
       }
     ],
     "psyche": [
+      {
+        "title": "Orbites",
+        "link": "https://psyche.co/videos/in-my-dreams-i-can-see-a-blind-womans-rich-sensory-world",
+        "published": "2026-11-03T11:01:00Z",
+        "description": "‘Imagining is another kind of seeing’: immerse in the exquisite sensory world of a woman with impaired vision - Directed by Sarah Seené Watch on Psyche"
+      },
+      {
+        "title": "That feeling of values crumbling has a name: civic grief",
+        "link": "https://psyche.co/ideas/that-feeling-of-values-crumbling-has-a-name-civic-grief",
+        "published": "2026-11-03T11:00:00Z",
+        "description": "Fairness, dignity and shared obligation are precious. Grieving their loss is a first step toward doing something about it - by Rebecca Lewandowski Read on Psyche"
+      },
       {
         "title": "How psychology’s classic studies misled us about the self",
         "link": "https://psyche.co/ideas/its-time-to-ditch-the-empty-self-view-of-human-psychology",
@@ -1567,18 +1579,6 @@
         "link": "https://psyche.co/videos/one-mans-10-year-mission-to-film-a-plane-engulfed-by-the-moon",
         "published": "2026-10-27T10:01:00Z",
         "description": "How a harmless thought turned into one man’s 10-year odyssey: to film a plane silhouetted against the Moon - Directed by Agustín Ferrando Trenchi Watch on Psyche"
-      },
-      {
-        "title": "On Japan’s Shinkansen trains, pork buns split reality in two",
-        "link": "https://psyche.co/ideas/on-japans-shinkansen-trains-pork-buns-split-reality-in-two",
-        "published": "2026-10-27T10:00:00Z",
-        "description": "If eating on a public train gets seen as an act of terrorism, insights from olfactory genetics can pave the way for empathy - by Yusuke Fujioka Read on Psyche"
-      },
-      {
-        "title": "Everyone says they have anxiety. Clinical anxiety is different",
-        "link": "https://psyche.co/ideas/everyone-says-they-have-anxiety-clinical-anxiety-is-different",
-        "published": "2026-10-26T10:00:00Z",
-        "description": "Anxiety put me in hospital. I’ve learned you can’t eradicate what is part of you – but you can change how you relate to it - by India Sturgis Read on Psyche"
       }
     ],
     "newleftreview": [],
@@ -1667,6 +1667,12 @@
     ],
     "nautilus": [
       {
+        "title": "The Monstrous Raptors That Threatened Our Ancestors",
+        "link": "https://nautil.us/the-monstrous-raptors-that-threatened-our-ancestors-1286304/",
+        "published": "2026-11-03T13:00:00Z",
+        "description": "Did birds of prey shape human evolution?"
+      },
+      {
         "title": "Bizarre Fruit-Eating “Hell Chicken” Suggests Dinosaurs Played a Role in Flowering Plant Evolution",
         "link": "https://nautil.us/bizarre-fruit-eating-hell-chicken-suggests-dinosaurs-played-a-role-in-flowering-plant-evolution-1286301/",
         "published": "2026-11-02T23:00:00Z",
@@ -1707,12 +1713,6 @@
         "link": "https://nautil.us/is-sleeping-in-on-the-weekends-bad-for-your-heart-1286260/",
         "published": "2026-11-02T13:00:00Z",
         "description": "A new study links sleep regularity to cardiovascular health"
-      },
-      {
-        "title": "“Zombie Bacteria” Might One Day Lurk in the Sewers",
-        "link": "https://nautil.us/zombie-bacteria-might-one-day-lurk-in-the-sewers-1286253/",
-        "published": "2026-10-30T21:30:00Z",
-        "description": "But they’ll be there to help"
       }
     ],
     "worksinprogress": [],
@@ -1918,6 +1918,12 @@
     ],
     "longreads": [
       {
+        "title": "Have I Befriended a Murderer?",
+        "link": "https://longreads.com/2026/11/03/murder-friendship-doubt/",
+        "published": "2026-11-03T10:00:00Z",
+        "description": "For five years, I’ve investigated a man convicted of bludgeoning his wife to death. Somewhere along the way, the line between journalism and friendship blurred."
+      },
+      {
         "title": "Searching for Jobs, Gen Z Feels Like It’s Staring Into ‘the Void’",
         "link": "https://longreads.com/2026/11/02/gen-z-jobs/",
         "published": "2026-11-02T20:25:18Z",
@@ -1958,12 +1964,6 @@
         "link": "https://longreads.com/2026/10/29/ingram-texas-ice-police-investigation/",
         "published": "2026-10-29T16:30:39Z",
         "description": "\"Today more than 1,900 agencies in at least 30 states have signed up for ICE’s task force model, with more than 29,000 deputized officers. With their help, ICE recently hit a record of immigration arrests.\""
-      },
-      {
-        "title": "Traveling Route 66 in the Age of Data Centers",
-        "link": "https://longreads.com/2026/10/29/route-66-data-centers/",
-        "published": "2026-10-29T12:00:00Z",
-        "description": "\"Driving through America’s back roads, the emptiness of the information superhighways comes into sharp relief.\""
       }
     ]
   }
