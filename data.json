@@ -387,10 +387,22 @@
     "reuters": [],
     "bbc": [
       {
+        "title": "What we know so far after three bodies found at home of Krakow gunman",
+        "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-07T21:13:24Z",
+        "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home."
+      },
+      {
         "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
         "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
         "published": "2026-11-07T15:19:35Z",
         "description": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\"."
+      },
+      {
+        "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
+        "link": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-07T17:32:42Z",
+        "description": "Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU."
       },
       {
         "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
@@ -399,28 +411,16 @@
         "description": "Heavy rain has flooded temporary shelters used by Palestinians displaced during Israel's war with Hamas."
       },
       {
-        "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
-        "link": "https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-07T11:04:28Z",
-        "description": "The PM was responding after a police chief said comments made during Russell Brand's trial came close to \"victim blaming\"."
-      },
-      {
-        "title": "Two men arrested after boy injured in sword attack",
-        "link": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-07T15:10:54Z",
-        "description": "A 17-year-old boy from Gloucester has also been arrested on suspicion of assisting an offender."
-      },
-      {
-        "title": "No clear winner after tight New Zealand general election",
-        "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-07T15:56:28Z",
-        "description": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament."
+        "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+        "link": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-07T21:12:30Z",
+        "description": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment."
       },
       {
         "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
         "link": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&at_campaign=rss",
         "published": "2026-11-07T00:31:54Z",
-        "description": "A Black Sky event could leave millions without power, water and communications. So how prepared is the UK?"
+        "description": "How prepared is the UK for the type of event that could leave millions without power, water and communications?"
       },
       {
         "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
@@ -437,52 +437,52 @@
     ],
     "aljazeera": [
       {
-        "title": "Valencia vs Real Madrid LIVE: La Liga",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga?traffic_source=rss",
-        "published": "2026-11-07T17:00:12Z",
-        "description": "Follow updates from the La Liga clash, including the build-up, analysis and live text commentary of the match."
+        "title": "Mélenchon promises action against Israeli annexation if elected President",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
+        "published": "2026-11-07T20:53:47Z",
+        "description": "Mélenchon promises action against Israeli annexation if elected President"
       },
       {
-        "title": "Israel builds 90km network of military roads across southern Lebanon",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
-        "published": "2026-11-07T16:30:33Z",
-        "description": "Israel is building roads and military outposts across southern Lebanon."
+        "title": "Who is behind Europe’s suspected hybrid attacks?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss",
+        "published": "2026-11-07T20:48:58Z",
+        "description": "Bomb hoaxes and supermarket cyberattacks are heightening security fears."
       },
       {
-        "title": "Guatemalan lawmaker and three police officers killed in armed attack",
-        "link": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
-        "published": "2026-11-07T16:15:18Z",
-        "description": "It happened in a region of the country known to have drug trafficking activity."
+        "title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
+        "published": "2026-11-07T20:44:34Z",
+        "description": "Michigan Senator-elect Abdul El-Sayed has criticised Trump’s trade war with Canada."
       },
       {
-        "title": "Hundreds march in Pau, France against high living costs",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/hundreds-march-in-pau-france-against-high-living-costs?traffic_source=rss",
-        "published": "2026-11-07T16:09:11Z",
-        "description": "Hundreds march in Pau, France against high living costs"
+        "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
+        "link": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
+        "published": "2026-11-07T20:26:58Z",
+        "description": "President Isaac Herzog formally assigns Eisenkot 28 days to secure 61 Knesset seats and replace Netanyahu as PM."
       },
       {
-        "title": "Five killed and at least 10 injured in Krakow shooting",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss",
-        "published": "2026-11-07T16:06:58Z",
-        "description": "Five people have been killed and at least 10 injured in a shooting near the main market square in Krakow, Poland."
+        "title": "More than 140,000 rally as new protests against rising costs sweep France",
+        "link": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss",
+        "published": "2026-11-07T20:12:22Z",
+        "description": "Tear gas fired in Paris and Lyon as interior minister warns authorities are 'ready and waiting' for rioters and looters."
       },
       {
-        "title": "Iran’s IRGC says building underground sites for weapons production, storage",
-        "link": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
-        "published": "2026-11-07T15:34:58Z",
-        "description": "IRGC says underground military complexes allow missile production to continue even under heavy bombardment."
+        "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
+        "published": "2026-11-07T20:10:38Z",
+        "description": "Ukraine’s Zaporizhzhia, once a refuge for those fleeing the war, is now facing growing danger."
       },
       {
-        "title": "Trump’s new chief of staff Stephen Miller says he ‘saved America’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss",
-        "published": "2026-11-07T15:29:11Z",
-        "description": "Stephen Miller, US President Donald Trump’s incoming chief of staff praises him."
+        "title": "Paraguay’s ousted president appears before prosecutors after impeachment",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-paraguay-former-president-detained-appears?traffic_source=rss",
+        "published": "2026-11-07T20:08:47Z",
+        "description": "Former Paraguayan President Santiago Pena has appeared before prosecutors."
       },
       {
-        "title": "At least five people killed in shooting in Poland’s Krakow",
-        "link": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss",
-        "published": "2026-11-07T15:22:55Z",
-        "description": "Polish Prime Minister Donald Tusk says police are investigating after 'tragic shooting' in second-largest city."
+        "title": "Masked protesters set off firecrackers and block roads in Albania",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/masked-protesters-set-off-firecrackers-and-block-roads-in-albania?traffic_source=rss",
+        "published": "2026-11-07T19:49:19Z",
+        "description": "Police used water cannons to disperse masked protesters in Albania’s capital, Tirana."
       }
     ],
     "ft": [
@@ -493,10 +493,10 @@
         "description": "American intelligence warned the tech boss was involved with executive recruited by China to gather information on US group"
       },
       {
-        "title": "US warns China it must ‘immediately’ meet terms of Busan trade deal",
-        "link": "https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1",
-        "published": "2026-11-06T22:53:51Z",
-        "description": "Washington says Beijing is not fulfilling commitments to increase supply of rare earths and other critical products"
+        "title": "Trump asks UFC boss Dana White to be new press secretary",
+        "link": "https://www.ft.com/content/52c3c7ac-f0ee-4b90-a2c8-68e76d120a79?syn-25a6b1a6=1",
+        "published": "2026-11-07T20:33:52Z",
+        "description": "US president signals combative approach in wake of midterms drubbing of his party"
       },
       {
         "title": "Trump’s defeat heralds a US retreat",
@@ -517,6 +517,12 @@
         "description": "Voter hostility to Big Tech helped shape the US midterms, and similar fears are spreading through the west. But look east and attitudes are dramatically more optimistic"
       },
       {
+        "title": "Israel’s president gives Gadi Eisenkot first shot at forming a government",
+        "link": "https://www.ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163?syn-25a6b1a6=1",
+        "published": "2026-11-07T21:03:47Z",
+        "description": "Isaac Herzog’s decision means opposition politician has 28 days to attempt to put together a ruling coalition"
+      },
+      {
         "title": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases",
         "link": "https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c?syn-25a6b1a6=1",
         "published": "2026-11-07T16:43:06Z",
@@ -527,12 +533,6 @@
         "link": "https://www.ft.com/content/5a6806f0-e82e-4b34-b761-f9877e2b511c?syn-25a6b1a6=1",
         "published": "2026-11-07T05:00:31Z",
         "description": "US midterm elections sparked a hedge fund and retail investor exodus from a trade that had taken over equity markets"
-      },
-      {
-        "title": "What will a Democratic Congress mean for Ukraine?",
-        "link": "https://www.ft.com/content/fac3a560-7845-4acf-9487-54ec8a445d74?syn-25a6b1a6=1",
-        "published": "2026-11-07T12:00:04Z",
-        "description": "With Donald Trump retaining control of foreign policy, lawmakers will use legislative tools to try to support Kyiv"
       }
     ],
     "restofworld": [
@@ -692,31 +692,31 @@
     "chelsea_sky": [],
     "guardianfootball": [
       {
-        "title": "Arsenal 1-0 Hull City, Fulham 1-1 Newcastle United, FA Cup and more: football – live",
-        "link": "https://www.theguardian.com/football/live/2026/nov/07/arsenal-v-hull-city-fulham-v-newcastle-united-fa-cup-and-more-football-live",
-        "published": "2026-11-07T17:03:33Z",
-        "description": "⚽️ Follow live updates from all of Saturday’s football action ⚽️ Live scores | Full tables | Follow us on TikTok | Mail Barry In yesterday’s Football Daily email , John Brewin previewed his pick of the weekend’s first round games featuring the return of his beloved Macc, a 40-year-old cult hero lining up for the lowest ranked team in the competition and the club that purports to be the oldest in London. Read on … Continue reading..."
+        "title": "Delap’s Nottingham Forest stunners hand Manchester City third league defeat in a row",
+        "link": "https://www.theguardian.com/football/2026/nov/07/nottingham-forest-manchester-city-premier-league-match-report",
+        "published": "2026-11-07T19:30:43Z",
+        "description": "Wait long enough, and results will come to reflect performances. Manchester City may have won their first seven games of the season, but they always looked vulnerable, and now have lost three in a row. Nottingham Forest may have been second bottom but, other than the twin curses of missing chances and giving away daft goals, they seemed to be playing reasonably well. Put the two together, and the outcome was a dramatic regression to the mean. It turns out the stats were right, after all. Liam Delap scored twice to remind people just what a good striker he can be. Oliver Glasner, after last week’s anger , can breathe a little easier in his job. And Enzo Maresca remains a paradox, a manager…"
       },
       {
-        "title": "Nottingham Forest v Manchester City: Premier League – live",
-        "link": "https://www.theguardian.com/football/live/2026/nov/07/nottingham-forest-v-manchester-city-premier-league-live",
-        "published": "2026-11-07T16:50:11Z",
-        "description": "⚽ Premier League updates from the 5.30pm GMT kick-off ⚽ Live scores | Full tables | Follow us on TikTok | Mail Tom Enzo Maresca’s pre-match press briefing centred on goalkeeper Gianluigi Donnarumma’s form, with the Manchester City manager insisting the Italian will get back to his best with little guidance in his native language. Maresca has continued to back his first choice throughout his troubles and has no plans for in-depth conversations with his fellow Italian. “It’s much easier for me with the language,” said Maresca. “We are [having conversations] but there are players who when they make mistakes, you need conversations with them and there are players that when they make a mistake…"
+        "title": "There are very few reasons for Unai Emery to leave Aston Villa for Manchester United | Jonathan Wilson",
+        "link": "https://www.theguardian.com/football/2026/nov/07/manager-sorts-out-manchester-united-unai-emery",
+        "published": "2026-11-07T20:00:19Z",
+        "description": "Spaniard may feel some of Old Trafford’s allure when he goes there on Sunday but he is right in wanting to stay at the club with brighter prospects On Sunday afternoon, shortly before 4.30, Unai Emery will leave the tunnel at Old Trafford and walk along the touchline towards the bench. Will he glance around the grand old stadium – faded and leaking though it may be in parts – and think that he could have a part in restoring the club to former glories? Will he look at the home bench and imagine himself sitting there – or perhaps more plausibly, scuttling up and down in front of it – as the first Manchester United manager since Sir Alex Ferguson to land a league title? Perhaps not. Emery is,…"
       },
       {
         "title": "Martin Ødegaard extends Arsenal lead at top with winner to break Hull resistance",
         "link": "https://www.theguardian.com/football/2026/nov/07/arsenal-hull-premier-league-match-report",
         "published": "2026-11-07T17:02:45Z",
-        "description": "As most Arsenal supporters would testify, patience is a virtue. They needed plenty during the 22-year wait to be crowned Premier League champions and Mikel Arteta’s side certainly had to retain their composure as they tried to break down a dogged Hull side. They had not beaten Arsenal in 14 attempts since winning on their first visit to this ground in 2008. But with 20 minutes still to play, there was still every chance that Sergej Jakirovic’s team could have pulled off one of the shocks of the season. Arsenal had already been denied a penalty just before half-time for a shirt pull on Kai Havertz in the box a week after escaping the same crime against Liverpool at Anfield in a moment of…"
+        "description": "As most Arsenal supporters would testify, patience is a virtue. They needed plenty during the 22-year wait to be crowned Premier League champions and Mikel Arteta’s side certainly had to retain their composure as they tried to break down a dogged Hull side. They had not beaten Arsenal in 14 attempts since winning on their first visit to this ground in 2008. But with 20 minutes to play, there was still every chance that Sergej Jakirovic’s team could have pulled off one of the shocks of the season. Arsenal had already been denied a penalty just before half-time for a shirt pull on Kai Havertz in the box a week after escaping the same crime against Liverpool at Anfield, in a moment of…"
       },
       {
         "title": "Muniz rescues late point for Fulham against Newcastle after Murphy stunner",
         "link": "https://www.theguardian.com/football/2026/nov/07/fulham-newcastle-premier-league-match-report",
         "published": "2026-11-07T17:00:54Z",
-        "description": "Rodrigo Muniz came off the bench to rescue a point for Fulham and deny Matthias Jaissle a welcome victory after a difficult week. Newcastle produced an improved display after a run of four defeats in five games in all competitions but they could not hold out after going 1-0 up thanks to a vicious late strike from Jacob Murphy. Muniz stretched Fulham’s unbeaten run to four games after scoring his first league goal of the season. Álvaro Arbeloa will be pleased with César Palacios’s role in the goal given that the midfielder was culpable when Murphy scored. Continue reading..."
+        "description": "Questions over whether Álvaro Arbeloa and Matthias Jaissle have what it takes to succeed in the Premier League remain unanswered after these two young foreign managers watched their sides grind out a 1-1 draw at Craven Cottage. Arbeloa’s Fulham lacked fizz, physicality and personality before rescuing a point thanks to a late equaliser from Rodrigo Muniz, while Newcastle displayed little of Jaissle’s high-octane philosophy and squandered the chance to move into the top half after failing to build on a vicious opening goal from Jacob Murphy. Continue reading..."
       },
       {
-        "title": "Okafor’s Leeds winner adds insult to Tel’s injury for Tottenham as Bogle escapes red",
+        "title": "Okafor seals Leeds win but Tottenham complain to Pro Ref over Bogle tackle on Tel",
         "link": "https://www.theguardian.com/football/2026/nov/07/leeds-tottenham-premier-league-match-report",
         "published": "2026-11-07T14:34:21Z",
         "description": "It is almost one year to the day when the Leeds manager, Daniel Farke, produced the tactical overhaul many observers believe saved his job. That day, Farke abandoned his trusted 4-3-3 when Leeds were 2-0 down at Manchester City and although they lost the game, the 3-5-2 he reverted to was the bedrock for the success that followed. To suggest Farke was under similar pressure going into this game would be a stretch, but without a win in five Premier League games it was not unreasonable to suggest the Elland Road natives were getting slightly restless. Defeat going into the international break would have firmly extinguished what had been a positive start, with eight points from the first…"
@@ -728,16 +728,16 @@
         "description": "Khadija Shaw hits hat-trick in City’s 5-0 rout of West Ham Chelsea held 1-1 by Everton after Lucy Bronze own goal An own goal by defender Lucy Bronze ⁠against Everton cost Chelsea top spot in the Women’s ⁠Super League as ⁠they ​were held to a 1-1 draw at home, allowing Manchester City ⁠to leapfrog them with a 5-0 drubbing of West Ham. Bronze headed ⁠the ball back across the goal to tee ​up Sandy Baltimore ‌to score ‌from close range in the 28th minute, but ‌five minutes later her attempted clearance rolled into her own net to put Everton level. The visitors held on for a draw as Chelsea dropped points for the ‌first time since the opening day of the season. Continue reading..."
       },
       {
+        "title": "European football: Bayern beat Mainz but Neuer’s record-breaking day turns sour",
+        "link": "https://www.theguardian.com/football/2026/nov/07/european-football-bayern-beat-mainz-but-neuers-record-breaking-day-turns-sour",
+        "published": "2026-11-07T17:13:48Z",
+        "description": "Veteran becomes club’s oldest player but suffers injury Keeper also in spotlight after another gaffe Bayern Munich secured a 2-1 victory over Mainz in the Bundesliga on Saturday but the form ⁠of goalkeeper Manuel Neuer will again be in the spotlight after another error almost produced an equaliser for the home side ⁠in the first ⁠half. Neuer became Bayern’s ​oldest player at 40 years, 225 days, overtaking Bernd Dreher, but was forced off with a recurrence of a foot injury ⁠that had kept him out of recent matches, replaced before half-time by Jonas Urbig. This story will be updated Continue reading..."
+      },
+      {
         "title": "Truro City game at Folkestone called off after Yassine En-Neyah has medical emergency in warm-up",
         "link": "https://www.theguardian.com/football/2026/nov/07/yassine-en-neyah-truro-folkestone-national-league-south-medical-emergency",
         "published": "2026-11-07T16:41:52Z",
         "description": "National League South match postponed Player ‘required medical assistance during the warm-up’ Truro’s National League South game at Folkestone Invicta was called off after the visitors’ midfielder Yassine En-Neyah had a medical emergency and was taken to hospital. A club statement said: “Truro City can confirm that this afternoon’s match against Folkestone Invicta has been postponed. This story is breaking news Continue reading..."
-      },
-      {
-        "title": "Championship roundup: Stoke go top, Norwich hit five and Wrexham hold Wolves",
-        "link": "https://www.theguardian.com/football/2026/nov/07/championship-roundup-stoke-norwich-wrexham-wolves",
-        "published": "2026-11-07T15:27:08Z",
-        "description": "Wilmot grabs winner to seal 2-1 comeback at Portsmouth Norwich hammer Bristol City 5-0 at Ashton Gate Jack McGlynn and Ben Wilmot scored as Stoke hit back to beat Portsmouth 2-1 and maintain their impressive Championship form. Tyrese Shade put Portsmouth in front after six minutes with a lovely bending finish, but Stoke turned a tame first half around to make it five away wins in a row. This story will be updated Continue reading..."
       }
     ],
     "spielverlagerung": [
@@ -842,6 +842,12 @@
     ],
     "wagnh": [
       {
+        "title": "Sunderland vs. Chelsea, Premier League: Preview, team news, how to watch",
+        "link": "https://weaintgotnohistory.sbnation.com/premier-league/173821/sunderland-vs-chelsea-premier-league-preview-team-news-how-to-watch",
+        "published": "2026-11-07T19:26:33Z",
+        "description": "Chelsea travel to the far northern reaches to take on the bottom side in the league this weekend, giving us a great chance to solidify our top-four position as we head into the final international break of the calendar year, and the busy winter period that is to follow. Of course, nothing’s a given in […]"
+      },
+      {
         "title": "Chelsea FCW 1-1 Everton FCW, Women’s Super League: Post-match reaction",
         "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/173808/chelsea-fcw-1-1-everton-fcw-womens-super-league-post-match-reaction",
         "published": "2026-11-07T14:40:54Z",
@@ -882,12 +888,6 @@
         "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/173755/thomas-tuchel-bemoans-cole-palmer-availability-by-not-selecting-cole-palmer-when-available",
         "published": "2026-11-06T20:48:23Z",
         "description": "The latest England squad was announced this morning, and once again it only contains one Chelsea player, Morgan Rogers, with Tuchel-favorite Reece James injured and Tuchel-unfavorite Cole Palmer left at home. The Palmer thing is starting to approach extra silly levels now, with the former Chelsea head coach explaining that he didn’t pick the Chelsea […]"
-      },
-      {
-        "title": "The Daily Hilario: Absolute kinematography",
-        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/173746/the-daily-hilario-absolute-kinematography",
-        "published": "2026-11-06T08:04:58Z",
-        "description": "Today’s YouTube trawl landed me a couple videos on the topic of movies — a common topic on my algorithm — including the latest from the ‘Kolo Kino’ channel, which has become one of my favorites in this genre. Their series on Christopher Nolan was particularly great; now they’re currently going through David Fincher’s work, […]"
       }
     ],
     "rym": [],
@@ -1450,24 +1450,6 @@
     "nyrb": [],
     "lrb": [
       {
-        "title": "Why Juries Still Matter",
-        "link": "https://www.lrb.co.uk/blog/2026/october/why-juries-still-matter",
-        "published": "2026-11-02T15:32:34Z",
-        "description": "The government’s justification for its reform of the courts has shifted from clearing the backlog to modernisation and rationalisation: those well-..."
-      },
-      {
-        "title": "Lula continua",
-        "link": "https://www.lrb.co.uk/blog/2026/october/lula-continua",
-        "published": "2026-10-30T16:22:26Z",
-        "description": "How did Lula defeat Bolsonaro so handily, by a far greater margin than in 2022, after losing in the first round? How did the hoped-for virada take..."
-      },
-      {
-        "title": "At the Grand Palais",
-        "link": "https://www.lrb.co.uk/blog/2026/october/at-the-grand-palais",
-        "published": "2026-10-30T15:07:11Z",
-        "description": "On Wednesday, 21 October, four days after France’s biggest student protest in a generation, Inès stood in the rain outside Art Basel Paris’s VIP..."
-      },
-      {
         "title": "Serbia’s Student Politics",
         "link": "https://www.lrb.co.uk/blog/2026/october/serbia-s-student-politics",
         "published": "2026-10-28T12:42:06Z",
@@ -1478,6 +1460,24 @@
         "link": "https://www.lrb.co.uk/blog/2026/october/moral-injury",
         "published": "2026-10-24T15:02:26Z",
         "description": "On 19 October, the World Food Programme announced that it would be reducing its monthly food assistance in Gaza, providing support to 1.1 million..."
+      },
+      {
+        "title": "In Paris",
+        "link": "https://www.lrb.co.uk/blog/2026/october/in-paris",
+        "published": "2026-10-23T15:57:23Z",
+        "description": "Amid the tear-gas fumes and flying stun grenades it was easy to miss the ceremony taking place on the Pont Saint-Michel on Saturday, 17 October. A..."
+      },
+      {
+        "title": "Waiting for Water",
+        "link": "https://www.lrb.co.uk/blog/2026/october/waiting-for-water",
+        "published": "2026-10-22T22:10:10Z",
+        "description": "My mother rang to say that my father had called a water truck owner and offered to pay him to fill our jerry cans, but the man said his truck had..."
+      },
+      {
+        "title": "Write a Novel in Thirty Days",
+        "link": "https://www.lrb.co.uk/blog/2026/october/write-a-novel-in-thirty-days",
+        "published": "2026-10-21T16:22:08Z",
+        "description": "My boss at the bookshop has said he would sell AI novels if there were clear demand and clear labelling. We almost certainly already sell books that..."
       }
     ],
     "larb": [],
