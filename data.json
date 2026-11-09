@@ -387,28 +387,40 @@
     "reuters": [],
     "bbc": [
       {
+        "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+        "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-09T00:16:49Z",
+        "description": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation."
+      },
+      {
+        "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+        "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-08T23:34:18Z",
+        "description": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more."
+      },
+      {
         "title": "King leads solemn Remembrance Sunday service at Cenotaph",
         "link": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss",
         "published": "2026-11-08T18:20:53Z",
         "description": "Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London."
       },
       {
+        "title": "Maya Jama steps down as host of reality TV show Love Island",
+        "link": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-08T21:19:48Z",
+        "description": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success."
+      },
+      {
         "title": "Seven dead and more than 100 injured after trains collide in Egypt",
         "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-08T17:35:13Z",
+        "published": "2026-11-08T19:58:02Z",
         "description": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza."
       },
       {
-        "title": "Footage shows derailed carriages after fatal train crash in Egypt",
-        "link": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-08T16:05:57Z",
-        "description": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold accountable anyone who proves their negligence\"."
-      },
-      {
-        "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
-        "link": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-08T13:05:30Z",
-        "description": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice."
+        "title": "Top House Democrat 'a hard yes' on impeaching Pete Hegseth",
+        "link": "https://www.bbc.co.uk/news/articles/cj4g1nwx39wno?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-08T22:49:53Z",
+        "description": "But the Pentagon said the defence secretary would not be deterred by \"phony investigations\"."
       },
       {
         "title": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
@@ -417,92 +429,68 @@
         "description": "Lisa Nandy tells the BBC \"many people\" in the media industry have come forward to her."
       },
       {
-        "title": "Iran executes three men for 'armed unrest' after January protests",
-        "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-08T13:37:50Z",
-        "description": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year."
-      },
-      {
-        "title": "Government looking at banning under-16s from Vinted and eBay",
-        "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-08T15:37:25Z",
-        "description": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March."
-      },
-      {
-        "title": "Homes and temples glow across India to mark Diwali",
-        "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-08T14:42:09Z",
-        "description": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets."
+        "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
+        "link": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-08T13:05:30Z",
+        "description": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice."
       }
     ],
     "aljazeera": [
       {
-        "title": "Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title",
-        "link": "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss",
-        "published": "2026-11-08T18:22:58Z",
-        "description": "Alcaraz bagged a 7-6 (7/5), 7-5 straight sets for an elusive Paris crown before the year-end ATP Finals."
+        "title": "Iran war live: Trump says land blockade in effect; drone cuts power in Iraq",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+        "published": "2026-11-09T00:00:34Z",
+        "description": "More than 70 percent of northern Iraq's Kurdish region is without power after a drone struck the Khor Mor gas facility,"
       },
       {
-        "title": "Eisenkot open to Netanyahu joining Israel’s next government",
-        "link": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
-        "published": "2026-11-08T18:12:27Z",
-        "description": "Israel's president officially tasks the opposition leader with forming a new government."
+        "title": "Nvidia CEO’s affair sparks Chinese espionage probe",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss",
+        "published": "2026-11-08T23:58:53Z",
+        "description": "Nvidia CEO Jensen Huang has admitted to an affair with a woman suspected of spying for China."
       },
       {
-        "title": "Infantino’s Japanese challenger claims he could unseat FIFA president",
-        "link": "https://www.aljazeera.com/sports/2026/11/8/infantinos-japanese-challenger-claims-he-could-unseat-fifa-president?traffic_source=rss",
-        "published": "2026-11-08T18:01:05Z",
-        "description": "Kozo Tashima believes he has a '20 to 30 percent' chance of winning the FIFA presidency election against Infantino."
+        "title": "Mexican mayor found alive after hours-long abduction",
+        "link": "https://www.aljazeera.com/news/2026/11/8/mexican-mayor-found-alive-after-hours-long-abduction?traffic_source=rss",
+        "published": "2026-11-08T23:55:37Z",
+        "description": "Rio Bravo mayor freed by captors after being abducted in Zacatecas state, known for cartel-linked violence."
       },
       {
-        "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
-        "link": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
-        "published": "2026-11-08T17:44:51Z",
-        "description": "Protesters seek stricter trade restrictions on Israel and a halt to all arms sales."
+        "title": "Chancellor Merz to nominate Aigner as Germany’s first woman president",
+        "link": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss",
+        "published": "2026-11-08T23:39:47Z",
+        "description": "Ilse Aigner, speaker of the Bavarian state parliament, belongs to the Christian Social Union in Bavaria (CSU) party."
       },
       {
-        "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
-        "published": "2026-11-08T17:11:52Z",
-        "description": "Israel's president picks Gadi Eisenkot to form the next government, passing over Benjamin Netanyahu."
+        "title": "Lopez double fires Barcelona to win at Atletico Madrid",
+        "link": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
+        "published": "2026-11-08T22:42:12Z",
+        "description": "Fermin Lopez brace has Barcelona come from behind to win 2-1 at Atletico Madrid to go three points clear in La Liga."
       },
       {
-        "title": "Photos: Diwali celebrations light up India and its global diaspora",
-        "link": "https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora?traffic_source=rss",
-        "published": "2026-11-08T17:03:14Z",
-        "description": "Celebrations feature fireworks, prayers, reunions, rangoli designs, feasting, and the sharing of sweets and gifts."
+        "title": "President Milei welcomes Pope Leo during historic visit to Argentina",
+        "link": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss",
+        "published": "2026-11-08T22:16:50Z",
+        "description": "Pope Leo XIV's visit marks the first papal trip to Argentina in nearly four decades, amid tensions with the government."
       },
       {
-        "title": "LIVE: Atletico Madrid vs Barcelona – La Liga",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss",
-        "published": "2026-11-08T17:00:00Z",
-        "description": "Previews, team news and live text updates from Atletico Madrid vs Barcelona in football's La Liga."
+        "title": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
+        "link": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
+        "published": "2026-11-08T22:16:10Z",
+        "description": "Huang has confirmed he had been having an affair with a woman accused of spying for China."
       },
       {
-        "title": "India’s ‘cockroach’ movement seeks to restore culture of accountability",
-        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/8/indias-cockroach-movement-seeks-to-restore-culture-of-accountability?traffic_source=rss",
-        "published": "2026-11-08T16:59:31Z",
-        "description": "India's Cockroach Janta Party is a youth movement demanding political accountability, employment and fair elections."
+        "title": "Why Trump joked about having Dana White as his White House press secretary",
+        "link": "https://www.aljazeera.com/news/2026/11/8/why-trump-wants-ufc-chief-dana-white-as-his-new-white-house-press-secretary?traffic_source=rss",
+        "published": "2026-11-08T22:03:54Z",
+        "description": "The two have business ties going back decades, and White has helped Trump reach out to younger voters."
       }
     ],
     "ft": [
       {
-        "title": "Democrats vow to impeach Trump officials and investigate Republican donors",
-        "link": "https://www.ft.com/content/111fefdb-0f85-4f8f-854f-86a5f81aceec?syn-25a6b1a6=1",
-        "published": "2026-11-08T18:10:24Z",
-        "description": "Pete Hegseth, Elon Musk and Venezuelan oil deals are early targets for Congressional probes by incoming lawmakers"
-      },
-      {
-        "title": "Republican infighting mounts over corruption claims after midterms wipeout",
-        "link": "https://www.ft.com/content/66e9ca46-d1ea-473c-b8d6-06ba1dfc9e76?syn-25a6b1a6=1",
-        "published": "2026-11-08T12:51:25Z",
-        "description": "Former health official’s allegations of corporate influence over Trump administration policy spark war of words"
-      },
-      {
-        "title": "Crypto industry braces for reckoning over Trump ties",
-        "link": "https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1",
-        "published": "2026-11-08T05:00:19Z",
-        "description": "Democrats have vowed to start investigation into president’s family after sweeping victory in midterms"
+        "title": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
+        "link": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1",
+        "published": "2026-11-08T22:31:02Z",
+        "description": "Silicon Valley chipmaker opens investigation into chief executive as he confirms extramarital relationship in message to employees"
       },
       {
         "title": "‘Radical left’ get the headlines but centrists dominate new US Congress",
@@ -523,16 +511,28 @@
         "description": "The midterms are only the latest sign of hope"
       },
       {
+        "title": "Democrats vow to impeach Trump officials and investigate Republican donors",
+        "link": "https://www.ft.com/content/111fefdb-0f85-4f8f-854f-86a5f81aceec?syn-25a6b1a6=1",
+        "published": "2026-11-08T18:10:24Z",
+        "description": "Pete Hegseth, Elon Musk and Venezuelan oil deals are early targets for Congressional probes by incoming lawmakers"
+      },
+      {
+        "title": "Republican infighting mounts over corruption claims after midterms wipeout",
+        "link": "https://www.ft.com/content/66e9ca46-d1ea-473c-b8d6-06ba1dfc9e76?syn-25a6b1a6=1",
+        "published": "2026-11-08T12:51:25Z",
+        "description": "Former health official’s allegations of corporate influence over Trump administration policy spark war of words"
+      },
+      {
         "title": "Apple saves $2.7bn in taxes by booking profits in Singapore",
         "link": "https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede?syn-25a6b1a6=1",
         "published": "2026-11-08T05:00:11Z",
         "description": "City-state overtakes Ireland as iPhone maker’s biggest tax shelter according to new disclosures"
       },
       {
-        "title": "Anthropic strikes $3.4bn deal to generate gas-fired power for data centres",
-        "link": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1",
-        "published": "2026-11-08T11:00:09Z",
-        "description": "AI lab bypasses traditional suppliers to secure scarce equipment as demand for energy surges"
+        "title": "Crypto industry braces for reckoning over Trump ties",
+        "link": "https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1",
+        "published": "2026-11-08T05:00:19Z",
+        "description": "Democrats have vowed to start investigation into president’s family after sweeping victory in midterms"
       }
     ],
     "restofworld": [
@@ -641,6 +641,18 @@
     "chelsea": [],
     "chelsea_bbc": [
       {
+        "title": "Why defenders hate playing against brilliant Brobbey",
+        "link": "https://www.bbc.co.uk/sport/football/videos/c69qz8z2d3yqo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-08T23:53:15Z",
+        "description": "Match of the Day's Dion Dublin breaks down the physical performance of Sunderland striker Brian Brobbey in the Black Cats' 1-0 win over Chelsea."
+      },
+      {
+        "title": "'I'm beginning to get a little bit worried now'",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cmpdgw0vxvj0o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-08T20:34:49Z",
+        "description": "Chelsea fan Savage Dan is critical of Chelsea's attacking prowess and lightweight defensively after losing to Sunderland in the Premier League."
+      },
+      {
         "title": "'Tinkerman' Alonso's Chelsea side still searching for identity",
         "link": "https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&at_campaign=rss",
         "published": "2026-11-08T18:20:56Z",
@@ -675,27 +687,21 @@
         "link": "https://www.bbc.co.uk/sport/football/videos/c9ly00660m6po?at_medium=RSS&at_campaign=rss",
         "published": "2026-11-06T12:14:15Z",
         "description": "England manager Thomas Tuchel said Cole Palmer \"misses too many opportunities to impress\" after not selecting the Chelsea forward for England's November Nations League fixtures."
-      },
-      {
-        "title": "A must pick or unreliable? Tuchel's Palmer dilemma",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-05T07:17:20Z",
-        "description": "Will Thomas Tuchel pick Cole Palmer for his next England squad as the competition to be England's number 10 continues."
-      },
-      {
-        "title": "Palmer should have been sent off for Fernandes barge - panel",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cmdx35len5ggo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-04T16:12:47Z",
-        "description": "Cole Palmer should have received a straight red card for violent conduct in Chelsea's 2-0 loss to Tottenham Hotspur, the Premier League Key Match Incidents (KMI) Panel has ruled."
       }
     ],
     "chelsea_sky": [],
     "guardianfootball": [
       {
-        "title": "Dorgu rescues point for Manchester United in eight-goal thriller against Aston Villa",
-        "link": "https://www.theguardian.com/football/2026/nov/08/manchester-united-aston-villa-premier-league-match-report",
-        "published": "2026-11-08T18:54:23Z",
-        "description": "Does this late, late comeback draw keep Michael Carrick in his job? He urged United to back Tuesday’s breathless Roma comeback victory by building momentum and they did – kind of, by avoiding defeat. Patrick Dorgu’s 96th-minute equaliser went off his head and in: this made it 4-4 to follow Joshua Zirkzee’s own added-time finish as Aston Villa were somehow pulled back by Carrick’s chaotic unit. Continue reading..."
+        "title": "‘I expect to move forward’: Carrick denies risk of Manchester United sack",
+        "link": "https://www.theguardian.com/football/2026/nov/08/michael-carrick-denies-risk-manchester-united-sack-aston-villa-premier-league-draw",
+        "published": "2026-11-08T21:40:36Z",
+        "description": "‘Is there?’ manager retorts when told of talk over position Bizarre 4-4 draw with Villa leaves United in bottom three A tetchy Michael Carrick dismissed a suggestion he could resign as head coach for the good of the team after Sunday’s chaotic 4-4 draw with Aston Villa left Manchester United in the relegation zone heading into the international window. Carrick’s side sit in 18th place with eight points from 10 games and have won only once, in August at home to Ipswich, in the league this season. It is now a club record eight Premier League games without a win.His job remains in the balance due to the dismal run of form. Continue reading..."
+      },
+      {
+        "title": "Crystal Palace poised to sack Pierre Sage and target Frank after Liverpool defeat",
+        "link": "https://www.theguardian.com/football/2026/nov/08/crystal-palace-pierre-sage-thomas-frank-main-candidate-manager-selhurst-park",
+        "published": "2026-11-08T22:12:58Z",
+        "description": "Frenchman under pressure after four successive defeats Former Spurs manager Frank emerging as main candidate Crystal Palace are poised to sack Pierre Sage after Sunday’s defeat by Liverpool left them bottom of the Premier League for the first time since December 2017, with Thomas Frank emerging as the main candidate to succeed him. The Frenchman, appointed in mid-June to replace Oliver Glasner, has been under mounting pressure since a 5-0 defeat by Brighton last month. There have been few signs of improvement as Palace have slumped to four successive league defeats. Continue reading..."
       },
       {
         "title": "Le Fée’s penalty stuns Chelsea and breathes life into defiant Sunderland",
@@ -704,10 +710,22 @@
         "description": "A lot can change in five‑and‑a‑half months, but as an early winter chill descended on Wearside last week – both meteorologically and ­metaphorically – Sunderland were determined that some things should remain the same. Just as they had beaten Chelsea on the final day of last season to ensure European qualification for the first time in 53 years, they did so again on Sunday to lift themselves off the bottom of the Premier League. The Sunderland performance was certainly familiar to their head coach, Régis Le Bris – “the identity, the intensity, the togetherness, the way we managed the game” – on the way to three crucial points. Continue reading..."
       },
       {
-        "title": "Wirtz provides quality to seal Liverpool win over lacklustre Crystal Palace",
-        "link": "https://www.theguardian.com/football/2026/nov/08/crystal-palace-liverpool-premier-league-match-report",
-        "published": "2026-11-08T16:16:18Z",
-        "description": "It was the moment when Liverpool knew they would win here in south London and so move on from the Premier League loss to Arsenal at Anfield last Sunday and the one in midweek at Fenerbahce in the Champions League. Florian Wirtz had timed his run as Liverpool broke up the right and Bradley Barcola’s low pull back was made to measure. Wirtz had to take it on first time and it was a test of his technique under pressure. He never looked like failing it, not least because smoothness in this area is his calling card. Liverpool were 2-0 up, Alexis Mac Allister having headed them in front towards the end of the first half, and all you could hear was the eruption of delight in the away supporters’…"
+        "title": "Diego Gómez hits another stunner as Brighton beat 10-man Brentford to go second",
+        "link": "https://www.theguardian.com/football/2026/nov/08/brighton-brentford-premier-league-match-report",
+        "published": "2026-11-08T16:17:32Z",
+        "description": "Who can stop Brighton’s ­ascension in English and European football? They are setting standards, ­practices ­leaving almost everybody else ­trailing in their wake. A ­second‑place position in the ­Premier League would once have read like a glitch in a ­Football ­Manager ­session. Not in November 2026, where they appear the only team capable of throwing down any sort of challenge to Arsenal. Under low winter sun, Brentford, an opposition to which Brighton are often, if lazily, compared, were ­swatted aside. If Keith Andrews’s team, and their fans at the Amex ­Stadium, could level blame at a couple of ­refereeing decisions, they received little chance of rescuing anything. Brighton squeezed…"
+      },
+      {
+        "title": "Evanilson ignites eighth straight Bournemouth win at blundering Ipswich",
+        "link": "https://www.theguardian.com/football/2026/nov/08/ipswich-bournemouth-premier-league-match-report",
+        "published": "2026-11-08T16:14:31Z",
+        "description": "Marco Rose paid tribute to his Bournemouth side after a hard‑fought 2-1 victory at Ipswich equalled the club’s record of eight consecutive wins. Evanilson got the ball rolling after five minutes, scoring for a fifth successive Premier League match. With seven goals this season, he has already beaten his tally from the whole of last season. Continue reading..."
+      },
+      {
+        "title": "Barcelona move clear at the top after Fermín López’s double stuns Atlético Madrid",
+        "link": "https://www.theguardian.com/football/2026/nov/08/atletico-madrid-barcelona-la-liga-match-report",
+        "published": "2026-11-08T22:27:50Z",
+        "description": "They had been in a battle, they had been behind and they had been on edge, but Barcelona found a way through, holding on to their place at the top of the table and holding the doubts at bay for another day. A fortnight in which they were defeated by Paris Saint-Germain and Real Madrid , in which they might have wondered if something was not right, ended with a 2-1 win at Atlético Madrid. This was a proper test and a proper game, 10 World Cup winners on the field and first place awaiting the winner, and at the end of an intense enjoyable night, that was Hansi Flick’s side. At a noisy Metropolitano, the atmosphere matching the occasion, against a frenetic Atlético side that went for the…"
       },
       {
         "title": "Russo on target again as double fires under-pressure Arsenal to vital WSL win at Liverpool",
@@ -716,28 +734,10 @@
         "description": "If a good striker can always get their team out of a hole, Alessia Russo is doing her best to drag Arsenal out of a deep chasm of uncertainty. Her two goals gave the ­under‑pressure Arsenal head coach, Renée Slegers, some brief respite with a much-needed, albeit still rather unconvincing victory. Russo’s double took her impressive recent tally to seven goals in her past four appearances. Her goals were priceless for an Arsenal team who arrived on Merseyside with just one win in their previous seven Women’s Super League games. They will be relieved to have won after Liverpool posed plenty of problems and the hosts were unhappy about a ­disallowed goal. Continue reading..."
       },
       {
-        "title": "Diego Gómez hits another stunner as Brighton beat 10-man Brentford to go second",
-        "link": "https://www.theguardian.com/football/2026/nov/08/brighton-brentford-premier-league-match-report",
-        "published": "2026-11-08T16:17:32Z",
-        "description": "Who can stop Brighton’s ­ascension in English and European football? They are setting standards, ­practices ­leaving almost everybody else ­trailing in their wake. A ­second‑place position in the ­Premier League would once have read like a glitch in a ­Football ­Manager ­session. Not in November 2026, where they appear the only team capable of throwing down any sort of challenge to Arsenal. Under low winter sun, Brentford, an opposition to which Brighton are often, if lazily, compared, were ­swatted aside. If Keith Andrews’s team, and their fans at the Amex ­Stadium, could level blame at a couple of ­refereeing decisions, they received little chance of rescuing anything. Brighton squeezed…"
-      },
-      {
         "title": "FA Cup roundup: Seventh-tier Wimborne shock Crawley to reach second round",
         "link": "https://www.theguardian.com/football/2026/nov/07/fa-cup-roundup-non-league-kidderminster-doncaster-exeter-huddersfield",
-        "published": "2026-11-08T17:41:47Z",
-        "description": "Grimsby and Stockport survive scares Exeter upset League One leaders Huddersfield Seventh-tier Wimborne heaped more misery on Crawley as the bottom side in the Football League lost 2-0 in the biggest upset of the FA Cup first round. The Dorset part-timers took the lead after only nine minutes when the property surveyor Yang Seung-woo curled a superb strike from just inside the penalty area into the top corner. Continue reading..."
-      },
-      {
-        "title": "Evanilson launches eighth straight Bournemouth win at blundering Ipswich",
-        "link": "https://www.theguardian.com/football/2026/nov/08/ipswich-bournemouth-premier-league-match-report",
-        "published": "2026-11-08T16:14:31Z",
-        "description": "Another Evanilson goal helped fire Marco Rose’s Bournemouth to an eighth straight victory with a hard-fought 2-1 win at Ipswich. Evanilson failed to score in his first six appearances of the season but found the net for a fifth consecutive Premier League match and made it seven goals in eight after five minutes at Portman Road. Continue reading..."
-      },
-      {
-        "title": "John Aloisi’s Chengdu choke to blow title chances on final day of Chinese season",
-        "link": "https://www.theguardian.com/football/2026/nov/08/john-aloisi-chengdu-choke-chinese-super-league-final-day-of-season",
-        "published": "2026-11-08T10:10:43Z",
-        "description": "Chengdu lose their final four games to give up a 12-point lead Dalian Yingbo FC claim title on drama-laden day in China John Aloisi’s Chengdu Rongcheng let the Chinese Super League title slip from their grasp on the last day of the season, losing their fourth consecutive game as rivals Dalian Yingbo pipped them to the trophy following their fifth straight win. Dalian completed a remarkable comeback by overhauling Chengdu’s lead, which once stood at 12 points, with Aloisi’s side picking up just one point in their last five matches. On the league’s final day, Chengdu lost 3-2 to Shandong Taishan, while Dalian’s 3-1 victory over Tianjin Tiger earned Li ⁠Guozu’s side ​the trophy. Continue…"
+        "published": "2026-11-08T20:15:53Z",
+        "description": "Grimsby and Stockport survive scares but Wednesday out Exeter upset League One leaders Huddersfield Seventh-tier Wimborne heaped more misery on Crawley as the bottom side in the Football League lost 2-0 in the biggest upset of the FA Cup first round. The Dorset part-timers took the lead after only nine minutes when the property surveyor Yang Seung-woo curled a superb strike from just inside the penalty area into the top corner. Continue reading..."
       }
     ],
     "spielverlagerung": [
@@ -1450,8 +1450,20 @@
     "nyrb": [],
     "lrb": [
       {
+        "title": "Make America Healthy Again",
+        "link": "https://www.lrb.co.uk/blog/2026/november/make-america-healthy-again",
+        "published": "2026-11-04T17:47:45Z",
+        "description": "Between 1 May and 31 August, more than twenty thousand laboratory-confirmed cases of cyclosporiasis were reported to the US Centres for Disease..."
+      },
+      {
+        "title": "Non-Reading Rooms",
+        "link": "https://www.lrb.co.uk/blog/2026/november/non-reading-rooms",
+        "published": "2026-11-03T16:54:52Z",
+        "description": "Knowledge produced through public institutions such as the British Library is being enclosed by AI companies and publishing oligopolies that flog it..."
+      },
+      {
         "title": "Why Juries Still Matter",
-        "link": "https://www.lrb.co.uk/blog/2026/october/why-juries-still-matter",
+        "link": "https://www.lrb.co.uk/blog/2026/november/why-juries-still-matter",
         "published": "2026-11-02T15:32:34Z",
         "description": "The government’s justification for its reform of the courts has shifted from clearing the backlog to modernisation and rationalisation: those well-..."
       },
@@ -1466,18 +1478,6 @@
         "link": "https://www.lrb.co.uk/blog/2026/october/at-the-grand-palais",
         "published": "2026-10-30T15:07:11Z",
         "description": "On Wednesday, 21 October, four days after France’s biggest student protest in a generation, Inès stood in the rain outside Art Basel Paris’s VIP..."
-      },
-      {
-        "title": "Serbia’s Student Politics",
-        "link": "https://www.lrb.co.uk/blog/2026/october/serbia-s-student-politics",
-        "published": "2026-10-28T12:42:06Z",
-        "description": "‘Things are normal,’ Sofya texted me on Sunday. ‘People really can’t wait to vote. It’s a good atmosphere.’ Marija, a journalist at the..."
-      },
-      {
-        "title": "Moral Injury",
-        "link": "https://www.lrb.co.uk/blog/2026/october/moral-injury",
-        "published": "2026-10-24T15:02:26Z",
-        "description": "On 19 October, the World Food Programme announced that it would be reducing its monthly food assistance in Gaza, providing support to 1.1 million..."
       }
     ],
     "larb": [],
