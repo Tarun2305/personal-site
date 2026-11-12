@@ -387,128 +387,140 @@
     "reuters": [],
     "bbc": [
       {
+        "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
+        "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-12T14:11:51Z",
+        "description": "As the boss of the AI resigns, some names have emerged as potential successors."
+      },
+      {
+        "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+        "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-12T12:14:51Z",
+        "description": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky."
+      },
+      {
+        "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+        "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-12T13:02:46Z",
+        "description": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia."
+      },
+      {
         "title": "Some under-25s should get fewer benefits, Milburn review to say",
         "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-11T23:22:04Z",
+        "published": "2026-11-12T13:16:59Z",
         "description": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits."
       },
       {
-        "title": "Government could force media industry to improve safeguards after Walliams allegations",
-        "link": "https://www.bbc.co.uk/news/articles/cm3egj20v5x4o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-12T04:01:50Z",
-        "description": "Culture Secretary Lisa Nandy could force participation in an industry watchdog to protect whistleblowers, the BBC understands."
+        "title": "Two men found guilty of spying for Iran over plan to target UK-based journalists",
+        "link": "https://www.bbc.co.uk/news/articles/ck9q8g8209l2o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-12T13:06:12Z",
+        "description": "The men were convicted of engaging in conduct likely to assist an Iranian intelligence service."
       },
       {
-        "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-        "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-12T00:49:05Z",
-        "description": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer."
+        "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+        "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-12T13:27:09Z",
+        "description": "The UK is seeing impressive growth, but will it last?"
       },
       {
-        "title": "Significant drop in levels of toxic 'forever' chemicals in England's rivers",
-        "link": "https://www.bbc.co.uk/news/articles/cmze75r55g3jo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-12T00:12:59Z",
-        "description": "The decline has been put down to severe restrictions placed on the substances' use."
+        "title": "Teenage girl admits murder in row over boy",
+        "link": "https://www.bbc.co.uk/news/articles/c6x28e243gg9o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-12T12:49:46Z",
+        "description": "Kayla Smith, 18, pleads guilty to the murder of Chloe Watson Dransfield, who she stabbed to death."
       },
       {
-        "title": "Are max strength cold and flu pills worth the money?",
-        "link": "https://www.bbc.co.uk/news/articles/cjkgep4rgngro?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-12T00:12:28Z",
-        "description": "Some cold and flu remedies cost 20 times as much as a basic pack of paracetamol or ibuprofen."
-      },
-      {
-        "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
-        "link": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-11T21:43:35Z",
-        "description": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet."
-      },
-      {
-        "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-        "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-11T18:04:58Z",
-        "description": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday."
-      },
-      {
-        "title": "Lego marketplace BrickLink offline after 'unusual activity' detected",
-        "link": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-11T22:26:18Z",
-        "description": "Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown."
+        "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+        "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-12T12:26:01Z",
+        "description": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza."
       }
     ],
     "aljazeera": [
       {
-        "title": "More than 300 migrants rescued off Spain’s Canary Islands",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/more-than-300-migrants-rescued-off-spains-canary-islands?traffic_source=rss",
-        "published": "2026-11-12T05:04:25Z",
-        "description": "More than 300 migrants were rescued off Spain’s Canary Islands amid a surge in Atlantic crossings."
+        "title": "Nvidia CEO Jensen Huang steps down amid spy scandal and market loss",
+        "link": "https://www.aljazeera.com/news/2026/11/12/ai-titan-jensen-huang-out-as-nvidia-ceo?traffic_source=rss",
+        "published": "2026-11-12T13:55:07Z",
+        "description": "This is a breaking news story."
       },
       {
-        "title": "Fighting intensifies in Yemen as Houthis deny targeting Mecca",
-        "link": "https://www.aljazeera.com/news/2026/11/12/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca?traffic_source=rss",
-        "published": "2026-11-12T04:41:17Z",
-        "description": "World Health Organization says more than 320,000 people have been displaced in Yemen fighting since August 1."
+        "title": "Family of killed teen Javits Frimpong calls for justice",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/family-of-killed-teen-javits-frimpong-calls-for-justice?traffic_source=rss",
+        "published": "2026-11-12T13:27:32Z",
+        "description": "The family of slain Ghanaian teen Javits Frimpong have reiterated demands for justice after police arrested a suspect."
       },
       {
-        "title": "Bolivia arrests former judge on suspicion of drug trafficking",
-        "link": "https://www.aljazeera.com/news/2026/11/12/bolivia-arrests-former-judge-on-suspicion-of-drug-trafficking?traffic_source=rss",
-        "published": "2026-11-12T04:40:25Z",
-        "description": "Arrests in Bolivia linked to a US-backed security alliance crackdown on drug cartels in Latin America."
+        "title": "More than 1,800 Italian schools targeted by new hoax bomb alerts",
+        "link": "https://www.aljazeera.com/news/2026/11/12/more-than-1800-italian-schools-targeted-by-new-hoax-bomb-alerts?traffic_source=rss",
+        "published": "2026-11-12T13:20:20Z",
+        "description": "The latest warnings come amid rising concerns ⁠⁠⁠⁠⁠⁠⁠⁠in Europe about hybrid warfare threats."
       },
       {
-        "title": "Iran’s chief negotiator tells Al Jazeera ‘ball in US court’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/irans-chief-negotiator-tells-al-jazeera-ball-in-us?traffic_source=rss",
-        "published": "2026-11-12T04:19:55Z",
-        "description": "Iran’s chief negotiator says it’s up to the US to answer Iran’s position in the latest round of peace talks."
+        "title": "FIFA Under-17 World Cup to kick off in Qatar despite US withdrawal",
+        "link": "https://www.aljazeera.com/sports/2026/11/12/fifa-under-17-world-cup-to-kick-off-in-qatar-despite-us-withdrawal?traffic_source=rss",
+        "published": "2026-11-12T12:57:12Z",
+        "description": "FIFA says its 'security assessments' for the 48-team tournament remain unchanged after US Soccer pulled out."
       },
       {
-        "title": "Amnesty says UN, South Sudan officials failed to prevent village massacre",
-        "link": "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss",
-        "published": "2026-11-12T04:00:24Z",
-        "description": "Peacekeepers knew of likely raid on Abiemnom, where more than 200 people were killed, according to rights group report."
+        "title": "Canada won’t let Russian players enter for ice hockey junior championship",
+        "link": "https://www.aljazeera.com/sports/2026/11/12/canada-wont-let-russian-players-enter-for-ice-hockey-junior-championship?traffic_source=rss",
+        "published": "2026-11-12T12:56:27Z",
+        "description": "Russian, Belarusian athletes and officials will be prevented from entering Canada regardless of their visa status."
       },
       {
-        "title": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
-        "link": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss",
-        "published": "2026-11-12T03:50:42Z",
-        "description": "Israeli security cabinet orders military to step up preparations for a possible attack on Iran, Israeli media reports."
+        "title": "Greta Thunberg: The planet is being killed",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/greta-thunberg-the-planet-is-being-killed?traffic_source=rss",
+        "published": "2026-11-12T12:53:00Z",
+        "description": "Climate activist Greta Thunberg delivers a stark warning at COP31."
       },
       {
-        "title": "Building collapse in Brooklyn kills two, injures more than a dozen",
-        "link": "https://www.aljazeera.com/news/2026/11/12/building-collapse-in-brooklyn-kills-two-injures-more-than-a-dozen?traffic_source=rss",
-        "published": "2026-11-12T03:31:08Z",
-        "description": "Rescue crews search for victims as Mayor Mamdani says first responders arrived one minute after emergency call."
+        "title": "Europe views US with ‘much less horror’ after Trump’s midterms defeat",
+        "link": "https://www.aljazeera.com/news/2026/11/12/europe-views-us-with-much-less-horror-after-trumps-midterms-defeat?traffic_source=rss",
+        "published": "2026-11-12T12:51:43Z",
+        "description": "But experts say Washington’s shift away from Europe runs deeper than Trump and is unlikely to be reversed."
       },
       {
-        "title": "Mother reunites with sons taken under Pinochet regime 40 years ago",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_mother-reunites-with-sons-taken-under-pinochet-111126?traffic_source=rss",
-        "published": "2026-11-12T03:13:32Z",
-        "description": "A Chilean mother has finally embraced her sons for the first time in 40 years since they were taken under Pinochet."
+        "title": "‘Greater Israel’: How Christian Zionism infiltrated US policy",
+        "link": "https://www.aljazeera.com/features/2026/11/12/greater-israel-how-christian-zionism-infiltrated-us-policy?traffic_source=rss",
+        "published": "2026-11-12T12:39:21Z",
+        "description": "Israel, the US, Christian Zionism and the search for Armageddon."
       }
     ],
     "ft": [
       {
-        "title": "Nvidia board to decide Jensen Huang’s fate after revelation of affair with subordinate",
-        "link": "https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1",
-        "published": "2026-11-12T01:13:24Z",
-        "description": "Head of US chip giant comes under mounting pressure days after claims he had affair with alleged Chinese spy"
+        "title": "Jensen Huang resigns as Nvidia chief executive",
+        "link": "https://www.ft.com/content/b4a0f3d9-f075-47ea-9a85-77cdade9a06f?syn-25a6b1a6=1",
+        "published": "2026-11-12T13:51:15Z",
+        "description": "Shares in chipmaker extend losses after chipmaker says chief financial officer Colette Kress to take over as interim head"
       },
       {
-        "title": "Nvidia shares tumble in after-market trading",
-        "link": "https://www.ft.com/content/a93307a7-e2cd-4abd-bd89-c38832d8c40e?syn-25a6b1a6=1",
-        "published": "2026-11-12T03:39:25Z",
-        "description": "Stock sinks almost 9 per cent in after-market trading as chief executive’s fate hangs in balance following more revelations"
-      },
-      {
-        "title": "State dinners to scrutiny: Nvidia’s Huang falls out of favour in Trump’s Washington",
+        "title": "Huang falls out of favour in Washington",
         "link": "https://www.ft.com/content/9ca8ba83-5a3c-409e-96d9-abee1323b688?syn-25a6b1a6=1",
         "published": "2026-11-12T04:19:48Z",
         "description": "AI kingmaker’s opponents see ‘blood in the water’ after affair with suspected Chinese spy"
       },
       {
-        "title": "Can India clean up Delhi’s deadly smog?",
-        "link": "https://www.ft.com/content/e58eec04-845b-4330-8d01-69b0313a60c1?syn-25a6b1a6=1",
-        "published": "2026-11-12T00:08:12Z",
-        "description": "Residents ask why a country that can land a spacecraft on the Moon cannot prevent citizens in its capital choking on bad air"
+        "title": "China warns US not to use Nvidia scandal as pretext for tech curbs",
+        "link": "https://www.ft.com/content/66e7337e-3696-4259-84f4-57533bc185bd?syn-25a6b1a6=1",
+        "published": "2026-11-12T10:55:31Z",
+        "description": "Beijing accuses US of fabricating ‘espionage narratives’ as chip company’s board considers future of chief executive Jensen Huang"
+      },
+      {
+        "title": "Ukraine says Starlink restrictions are back as US envoys land in Moscow",
+        "link": "https://www.ft.com/content/6cd890f1-2e4d-468a-807f-529f45e1678e?syn-25a6b1a6=1",
+        "published": "2026-11-12T12:46:59Z",
+        "description": "Army struggles to intercept Russian jet-powered drones, just as Steve Witkoff and Jared Kushner meet Vladimir Putin"
+      },
+      {
+        "title": "Russian diesel exports double after Trump lifts sanctions, but US gets none",
+        "link": "https://www.ft.com/content/525b53ee-4817-4eb6-8292-b6ee0ac45b47?syn-25a6b1a6=1",
+        "published": "2026-11-12T05:00:21Z",
+        "description": "Boost in shipments expected to be shortlived after Ukraine resumes attacks on refineries"
+      },
+      {
+        "title": "Maga architects blame Big Tech and AI data centres for midterms rout",
+        "link": "https://www.ft.com/content/43da75e5-e8fd-4aea-8afb-e3d75c9f176f?syn-25a6b1a6=1",
+        "published": "2026-11-12T11:00:04Z",
+        "description": "Head of Heritage Foundation admits Republicans’ embrace of Silicon Valley and the effect of Donald Trump’s Iran war cost them votes"
       },
       {
         "title": "Scott Colom wins historic Senate race in Mississippi",
@@ -517,22 +529,10 @@
         "description": "Democrat becomes the first Black person to represent the state since Reconstruction era"
       },
       {
-        "title": "Thousands of schools in Italy, Scotland and Ireland receive bomb threats",
-        "link": "https://www.ft.com/content/7bbc0a5e-b7e2-4a3f-874f-a63de94e922d?syn-25a6b1a6=1",
-        "published": "2026-11-11T15:39:44Z",
-        "description": "Incidents appear to be latest co-ordinated attack aimed at disrupting life in Europe"
-      },
-      {
-        "title": "Democrats pledge to expose ‘absolute avalanche of corruption’ under Trump",
-        "link": "https://www.ft.com/content/3d3fcb94-143d-446c-8b09-b1f830ca97e9?syn-25a6b1a6=1",
-        "published": "2026-11-11T21:01:55Z",
-        "description": "Congress member Jamie Raskin says he will launch sweeping probe of president and allies but warns party to avoid impeachment ‘distraction’"
-      },
-      {
-        "title": "China warns of ‘severe’ punishment for offshore trust tax evaders",
-        "link": "https://www.ft.com/content/278528e2-dd2d-4020-853d-2a7a9d49a359?syn-25a6b1a6=1",
-        "published": "2026-11-12T02:55:28Z",
-        "description": "Revenue from personal income tax jumps 90 per cent as scrutiny tightens over the country’s wealthiest"
+        "title": "Israel strikes Gaza hospital despite ceasefire",
+        "link": "https://www.ft.com/content/2a3d0391-c4d9-4195-af36-b5ee66415cd9?syn-25a6b1a6=1",
+        "published": "2026-11-12T12:03:33Z",
+        "description": "Doctor and patients among six killed in attack on Nasser medical complex"
       }
     ],
     "restofworld": [
@@ -587,6 +587,12 @@
     ],
     "propublica": [
       {
+        "title": "More Than Numbers: Portraits of U.S. Citizens Detained by Immigration Agents",
+        "link": "https://projects.propublica.org/us-citizens-detained-immigration-photo-essay/",
+        "published": "2026-11-12T10:00:00Z",
+        "description": ""
+      },
+      {
         "title": "A Tool Built by Election Deniers Said These Voters Were Dead. We Found Them Alive.",
         "link": "https://www.propublica.org/article/election-challenge-forsyth-county-georgia",
         "published": "2026-11-11T17:30:00Z",
@@ -626,12 +632,6 @@
         "title": "Watch: Where Do Our Generic Drugs Come From? We Dug to Find Out.",
         "link": "https://www.propublica.org/article/generic-prescription-drug-supply-fda-explained",
         "published": "2026-11-09T15:55:00Z",
-        "description": ""
-      },
-      {
-        "title": "Firm Linked to Trump’s Sons Got Nearly $40 Million in Federal Contracts to Screen for Ebola and Other Diseases",
-        "link": "https://www.propublica.org/article/trump-sons-xwell-xprestest-government-contracts",
-        "published": "2026-11-09T11:00:00Z",
         "description": ""
       }
     ],
@@ -692,10 +692,40 @@
     "chelsea_sky": [],
     "guardianfootball": [
       {
-        "title": "Meeting of two lost souls: can Pochettino make it work at Manchester United? | Barney Ronay",
-        "link": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-manchester-united-old-trafford-manager",
-        "published": "2026-11-11T21:10:31Z",
-        "description": "Manager has been hurt by experiences at elite clubs but several players at Old Trafford could fit his playing style Welcome, Mauricio, to the meat grinder. Or rather, welcome back. We’ve been expecting you. There is nothing surprising in the news Manchester United may be on the verge of appointing Mauricio Pochettino. United are always on the verge of appointing Pochettino. This is a club that has spent 13 years hiring and firing the same structurally doomed manager – same shellshocked eyes, same irresolvable macro-problems – and the last eight years almost but not quite doing this to Pochettino. Well, maybe we’re finally here. Maybe he just needed to be broken enough to make it fit. And…"
+        "title": "Carrick sacked by Manchester United with team in Premier League relegation zone – live",
+        "link": "https://www.theguardian.com/football/live/2026/nov/12/carrick-sacked-by-manchester-united-with-team-in-premier-league-relegation-zone-live",
+        "published": "2026-11-12T14:13:48Z",
+        "description": "⚽️ Head coach departs after one win in 11 games ⚽️ Carrick was latest fall guy for dysfunctional hierarchy ⚽️ Have any thoughts? Email John “ After going through the Moyes season ,” writes Hugh, “the dross football of Mourinho and Van Gaal, the moments-years of Solskjaer, the Rangnick surgery that never was, the middling Ten Hag, the baffling Amorim, and now a decent man thrust into the meat grinder, this is the first year it’s been genuinely hard to watch Man Utd with any emotion. “And it’s not because of the football. It’s that the Glazer ownership and Ratcliffe mismanagement has met the Man City revelations, meaning it’s hard to see the point anymore. £1bn taken out of the club while…"
+      },
+      {
+        "title": "Crystal Palace sack Pierre Sage and in advanced talks to appoint Thomas Frank",
+        "link": "https://www.theguardian.com/football/2026/nov/12/pierre-sage-sacked-crystal-palace-manager-thomas-frank",
+        "published": "2026-11-12T12:27:56Z",
+        "description": "Sage goes after 16 games with club bottom of table He is the favourite to take over at former club Lens Pierre Sage has been sacked as Crystal Palace’s manager after 16 games, with Thomas Frank in advanced talks to succeed him. The Frenchman, appointed in mid-June to replace Oliver Glasner, has gone after Sunday’s 3-1 defeat by Liverpool left his team bottom of the Premier League. Frank, out of work since his dismissal by Spurs in February, has emerged as the main candidate to succeed Sage. He spoke to Palace in the summer and is keen for a new challenge after a successful spell at Brentford. It is hoped that he will take charge before next Saturday’s trip to Coventry. Continue reading..."
+      },
+      {
+        "title": "‘Pregnancy does not mean game over’: meet the footballers challenging the myths | Moving the Goalposts",
+        "link": "https://www.theguardian.com/football/2026/nov/12/pregnancy-womens-football-moving-the-goalposts-newsletter",
+        "published": "2026-11-12T12:00:47Z",
+        "description": "Claire Emslie and Emma Kelly are among those taking advantage of new research and guidelines for pregnant players Claire Emslie wasn’t expecting to be able to run at 81% of her max speed at 32 weeks pregnant. Emslie, a Scotland international who also plays as a forward for Angel City FC , documented her journey through pregnancy and football training on social media and is part of a growing number of professional female footballers who are getting pregnant in their athletic prime and approaching motherhood with a fresh mindset. Rather than marking the end of a career (notably, Millie Bright announced her pregnancy in September, months after having retired), pregnancy can mark both a…"
+      },
+      {
+        "title": "‘Second ball’ may be a Sunday league mantra but Yates showed its top-flight relevance",
+        "link": "https://www.theguardian.com/football/2026/nov/12/ryan-yates-nottingham-forest-manchester-city-premier-league-second-ball",
+        "published": "2026-11-12T11:00:48Z",
+        "description": "Midfielder’s old-school attributes came to the fore during Nottingham Forest’s win against Manchester City Modern football is more systematised and data-driven than ever but some things never change. Winning the first ball is important but the second ball – the Holy Grail for Sunday league footballers – is often more so. Nottingham Forest’s 3-1 win against Manchester City last weekend featured a classic example. Forest led 2-1 inside the last 20 minutes but City, lifted by Rayan Cherki’s sweet half-volley, were pushing for an equaliser. Continue reading..."
+      },
+      {
+        "title": "Archive, 1990: Peter Shilton wins 125th cap making him England’s record appearance holder",
+        "link": "https://www.theguardian.com/football/2026/nov/12/archive-1990-peter-shilton-wins-125th-cap-making-him-englands-record-appearance-holder",
+        "published": "2026-11-12T13:27:18Z",
+        "description": "9 July 1990: The goalkeeper’s 20-year international career ends at the Italia 90 World Cup Harry Kane is expected to break the record for England men’s appearances tonight against Croatia at Wembley in the Nations League, overtaking goalkeeper Peter Shilton’s 125 appearances, a record set nearly four decades ago at the World Cup in Italy . Shilton wore the captain’s armband in his final England appearance in the unloved third-place play-off against Italy in Bari. The Three Lions had previously lost on penalties to West Germany in the semi-finals. Continue reading..."
+      },
+      {
+        "title": "Less drama, more listening, but is Kozo Tashima the candidate to topple Infantino?",
+        "link": "https://www.theguardian.com/football/2026/nov/12/fifa-kozo-tashima-seeks-change-of-tone",
+        "published": "2026-11-12T08:00:13Z",
+        "description": "Japan FA honorary president is hoping a calmer approach that makes fewer unwelcome headlines for Fifa will be welcomed by football Not many remember Japan’s bid for the 2022 World Cup, when the country finished the race with only two of the final 22 votes. Kozo Tashima was involved then, and now the honorary president of the Japan Football Association is going it alone in the hope of ousting Gianni Infantino. The 68-year-old Tashima is an unlikely insurgent and an unlikely challenger to Infantino. He is, however, a familiar and respected figure in Asian and global football politics, and ready to take the Fifa presidency out of the headlines into a quieter era. Continue reading..."
       },
       {
         "title": "Complaint filed to IRS in relation to Fifa head Gianni Infantino’s housekeeper",
@@ -704,40 +734,10 @@
         "description": "It calls for inquiry into claims she was on Fifa payroll Fifa: Infantino personally pays for ‘any domestic staff’ A complaint has been filed to the United States Internal Revenue Service calling for an investigation into claims an individual on the Fifa payroll was working privately as a housekeeper for Gianni Infantino. If the IRS investigates and finds the claims to be proven then Fifa could lose its tax-exempt status in the US. Fifa has 501(c)(4) status in the country, a category for organisations “created to promote community welfare for charitable, educational or recreational purposes”. Continue reading..."
       },
       {
-        "title": "Danny Kelly, football broadcaster and renowned editor, dies aged 69",
-        "link": "https://www.theguardian.com/football/2026/nov/11/danny-kelly-football-broadcaster-editor-q-magazine-nme-dies-aged-69",
-        "published": "2026-11-11T11:56:39Z",
-        "description": "Danny Baker pays tribute to the ‘funniest man I knew’ Kelly was former editor of the NME and Q magazines The journalist and broadcaster Danny Kelly, who helped define coverage of music and football in the UK for a generation, has died at the age of 69. Kelly edited the NME and Q magazine, and launched the Football 365 website before going on to be a presenter and pundit on the BBC and TalkSport. He had been receiving treatment for oesophageal cancer. Continue reading..."
-      },
-      {
-        "title": "‘I’ve had to prove people wrong’: Kane still striving before record England cap",
-        "link": "https://www.theguardian.com/football/2026/nov/11/harry-kane-england-most-capped-mens-player-peter-shilton-croatia-nations-league",
-        "published": "2026-11-11T19:00:02Z",
-        "description": "Captain to surpass Shilton with 126th cap against Croatia Kane aims to increase record for younger players to catch Harry Kane says he still feels a pressure to prove his worth, even as he prepares to become England’s most capped men’s player, as he outlined his determination to set records that will stand for years. The captain will make his 126th appearance against Croatia at ­Wembley on Thursday night, moving him ahead of Peter Shilton on the all-time list. Kane is England’s record ­goalscorer with 91, comfortably clear of Wayne Rooney, who retired with 53. Continue reading..."
-      },
-      {
-        "title": "Thomas Tuchel keeps laser focus on ‘unfinished business’ with England",
-        "link": "https://www.theguardian.com/football/2026/nov/11/thomas-tuchel-unfinished-business-england-euro-2028-nations-league",
-        "published": "2026-11-11T19:00:00Z",
-        "description": "Head coach did not insert release clause into contract Tuchel ‘open to everything’ including staying after Euros Thomas Tuchel will not be going anywhere before Euro 2028. Mauricio Pochettino is expected to leave his role as the USA men’s head coach to replace Michael Carrick at Manchester United , but Tuchel has not lost his passion for international football and has revealed he did not insert a release clause when he extended his deal as England’s manager this year. It will not matter whether there is an approach from a big club before the next tournament. United can pay about £7m to get Pochettino out of his deal, but the Football Association does not have to worry about being forced to…"
-      },
-      {
         "title": "US withdraw from U-17 World Cup in Qatar due to safety concerns",
         "link": "https://www.theguardian.com/football/2026/nov/11/usa-u-17-world-cup-qatar-withdrawal-middle-east-conflict",
         "published": "2026-11-11T21:54:46Z",
         "description": "USSF cites state department advisory about Qatar Competition set to kick off in eight days The US men’s national team have pulled out of the Fifa U-17 World Cup, which is due to kick off in Qatar in just over a week. In a letter sent to players explaining the decision, the US Soccer Federation cited safety concerns for players and staff, referring them to the US state department’s travel advisory for Qatar, which encourages citizens to reconsider travel to the country “due to risk of armed conflict” and asks government employees to obtain special authorization to do so. “Unfortunately, in light of current circumstances … we are no longer able to participate in the tournament,” US Soccer’s…"
-      },
-      {
-        "title": "Top four teams in Fifa rankings set to be kept apart until semi-finals at 2027 Women’s World Cup",
-        "link": "https://www.theguardian.com/football/2026/nov/11/womens-world-cup-top-four-groups",
-        "published": "2026-11-11T16:03:44Z",
-        "description": "Team must win World Cup group to trigger rule Spain, US, Germany and England currently in top four The top four ranked teams will be separated until the semi-finals at the 2027 Women’s World Cup, ­provided they each win their group, after a change to the tournament’s draw procedure was confirmed by Fifa. Spain, USA, Germany and England are ranked one to four in the world respectively, although USA and England still need to qualify for the tournament. The seedings will be based on the 7 December updated rankings, meaning the standings could change before the draw, which will take place on 11 December in Rio de Janeiro. Continue reading..."
-      },
-      {
-        "title": "League One clubs aim for further curbs on spending as budgets continue to spiral",
-        "link": "https://www.theguardian.com/football/2026/nov/11/league-one-clubs-spending-limits-rules",
-        "published": "2026-11-11T11:02:46Z",
-        "description": "Wage bills in third tier have increased by 15% this season ‘Luxury tax’ and three-year limits on losses considered League One clubs want to introduce new spending restrictions to reduce losses by limiting investment from owners. Clubs in the division voted to tighten the rules last summer by reducing spending limits from 60% to 50% of turnover, and removed a staggered approach to owner investment, so that only 50% of equity injections can be spent on squad costs, with the rest assigned to infrastructure projects. Less than six months later many want to go further. Continue reading..."
       }
     ],
     "spielverlagerung": [
@@ -842,6 +842,18 @@
     ],
     "wagnh": [
       {
+        "title": "The Daily Hilario: Thursday",
+        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/173943/the-daily-hilario-november-12th",
+        "published": "2026-11-12T03:41:23Z",
+        "description": "Advancing Most Only"
+      },
+      {
+        "title": "Chelsea defender Malo Gusto ‘assessing his options’ ahead of January transfer window — report",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/173949/chelsea-defender-malo-gusto-assessing-his-options-ahead-of-january-transfer-window-report",
+        "published": "2026-11-12T07:20:10Z",
+        "description": "We’re slowly approaching the January transfer window, and given that it’s the international break, there’s plenty of space for a few rumors to make their way around the footballverse. Of particular interest to us may be the story that Malo Gusto is said to be “open” to leaving Chelsea and is now “assessing his options” […]"
+      },
+      {
         "title": "Josh Acheampong withdraws from England U21 squad due to injury",
         "link": "https://weaintgotnohistory.sbnation.com/injury-news/173938/josh-acheampong-withdraws-from-england-u21-squad-due-to-injury",
         "published": "2026-11-11T17:22:29Z",
@@ -876,18 +888,6 @@
         "link": "https://weaintgotnohistory.sbnation.com/premier-league/173890/sunderland-1-0-chelsea-player-ratings-penders-proves-premier-proficiency-again",
         "published": "2026-11-10T07:06:14Z",
         "description": "1. MIKE PENDERS (7.1) Mike Penders will most likely hand the keys to the Chelsea net back to Emiliano Martínez after the international break, but the young goalkeeper — now our youngest ever starting goalkeeper in the Premier League, beating Petr Čech’s record — has done quite well in this extended screen test as our […]"
-      },
-      {
-        "title": "BK Häcken FF vs. Chelsea FCW, UEFA Women’s Champions League: Preview, team news, how to watch",
-        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/173874/bk-hacken-ff-vs-chelsea-fcw-uefa-womens-champions-league-preview-team-news-how-to-watch",
-        "published": "2026-11-09T22:24:38Z",
-        "description": "Chelsea Women head to Sweden tomorrow looking to put Saturday’s frustrating performance against Everton at Stamford Bridge behind them. Waiting in Gothenburg are newly crowned Swedish champions BK Häcken, who have looked formidable domestically but have struggled to carry that form into the UEFA Women’s Champions League. Date / Time: Tuesday, November 10, 2026, 17:45 […]"
-      },
-      {
-        "title": "Alonso: ‘We didn’t do good enough’",
-        "link": "https://weaintgotnohistory.sbnation.com/premier-league/173871/alonso-we-didnt-do-good-enough",
-        "published": "2026-11-09T08:59:07Z",
-        "description": "Chelsea slumped to a 1-0 defeat against Sunderland, the bottom side in the Premier League yesterday, to head into another international break on the back of yet another dispiriting defeat. It’s our third loss in our last four games in all competitions, after coming back out of the previous international break with such good form […]"
       }
     ],
     "rym": [],
@@ -944,6 +944,24 @@
     ],
     "quietus": [
       {
+        "title": "Spydergum – Spydergum",
+        "link": "https://thequietus.com/quietus-reviews/spydergum-spydergum-review/",
+        "published": "2026-11-12T09:48:16Z",
+        "description": "Spydergum Spydergum Featuring Concepción Huerta and Luka Aron among others, this large improvising ensemble contains multitudes Spydergum by Spydergum It is sticky and it penetrates the skin. That tingling feeling is tortuously triggering. Attentive listening is what is calling for Spydergum. This is the way the expansive electroacoustic ensemble mark the year with their most anticipated eponymous debut release. Their first record, a fully improvised body of work, is a testimony to the fact that to co-create means to begin to listen deep. Spydergum is an ecosystem of simultaneously communicating sonic bodies, encompassing an ever-morphing sticky web of diverse voices and instruments. The…"
+      },
+      {
+        "title": "The Low Culture Podcast: The Walker Brothers’ Nite Flights",
+        "link": "https://thequietus.com/subscriber-area/low-culture-podcast/the-low-culture-podcast-the-walker-brothers-nite-flights/",
+        "published": "2026-11-12T07:00:00Z",
+        "description": "In this month’s pod, John Doran and Luke Turner listen to a pioneering record in which Scott Walker bade farewell to his brothers in song Make it easy on yourself: brew a fine mahogany-toned cup of tea, fetch a virgin packet of garibaldis from the pantry, nudge the thermostat up another degree centigrade and recline on the cushion-festooned couch… you will have no regrets! This month on The Quietus Low Culture Podcast, John and Luke turn their attention to one of their all-time totemic cultural artefacts – something which has been hiding in plain sight all along – the highly unusual 1978 farewell album from the Walker Brothers, Nite Flights. Luke remembers first getting to grips with this…"
+      },
+      {
+        "title": "Paint it Black: Saints in The Wethouse by Blackhaine",
+        "link": "https://thequietus.com/quietus-reviews/album-of-the-week/blackhaine-saints-in-the-wethouse-review/",
+        "published": "2026-11-12T06:00:00Z",
+        "description": "The \"debut album\" by the Preston-born musician, rapper and choreographer establishes Blackhaine as one of the most confident voices in the new Northern Gothic scene developing around Yorkshire and Lancashire Credit: Archie Finch In the film, The King (2019), we see a stubborn Dauphin of France attempting to end the Battle of Agincourt through a duel with King Henry. Heavy rainfall has left the ground entirely sodden, and before a single blow is dealt, the Dauphin is slipping and sliding around the squelchy ground, falling over and over again. He is tragically defenceless and vulnerable as he performs an unchoreographed, increasingly desperate dance of misery before being swiftly…"
+      },
+      {
         "title": "Tehran Contemporary Sounds Festival Takes Place in Berlin",
         "link": "https://thequietus.com/news/tehran-contemporary-sounds-festival-takes-place-in-berlin/",
         "published": "2026-11-11T18:48:00Z",
@@ -972,28 +990,22 @@
         "link": "https://thequietus.com/quietus-reviews/coil/",
         "published": "2026-11-11T08:30:00Z",
         "description": "Coil Gold is the Metal (with the Broadest Shoulders) Assembled from the discarded off-cuts from Horse Rotorvator and the group's unused Hellraiser score, Coil's third album proves far more than the sum of its parts Gold Is The Metal (With The Broadest Shoulders) by Coil Alchemy. The protoscientific transmutation of base materials into “noble metals” such as gold is a well documented theory more closely aligned with philosophical and spiritual traditions than tangible science. In Alejandro Jodorowsky’s cult work of psychedelic cinema, The Holy Mountain, the protagonist defecates in a bell jar and inhales the rotting fumes in a bid to turn himself into gold. For Coil’s third album, Peter…"
-      },
-      {
-        "title": "Far Beyond & Non-Existent: Wipers’ Youth Of America Revisited",
-        "link": "https://thequietus.com/opinion-and-essays/anniversary/wipers-youth-of-america-review/",
-        "published": "2026-11-11T08:05:27Z",
-        "description": "Wipers would have been huge if they hadn't asked so many questions. John Calvert writes about an essential punk album from 45 years ago On Portland Punk Live At The Earth 10-29-79, a live-on-the-night document of local bands released warts'n'all by Wipers' Greg Sage on his own label, Trap, Sage can be heard introducing his band's 'Same Old Thing'. Overwrought with stage adrenaline and demonstrating the compassion and obsessive conviction that made him a hero to the bullshit-intolerant, the frontman blurts out: “This is about the far beyond and the non-existent and all that and in between, because I don't really know about it but I'm gonna try to explain it...\" In Sage's outburst is…"
-      },
-      {
-        "title": "More Eaze – Valley and Structure",
-        "link": "https://thequietus.com/quietus-reviews/more-eaze-valley-and-structure-review/",
-        "published": "2026-11-11T06:00:00Z",
-        "description": "More Eaze Valley and Structure The latest from Mari Rubio builds complex scaffolding from the simplest of motifs valley and structure by more eaze Over the last few years, I’ve seen More Eaze (aka Mari Rubio) twice. At Rewire in 2022, she performed as -----__, a digital, detail-laden project created in collaboration with Seth Graham. Three years later, at the Supersonic Festival, I saw her with Water Damage. They played a single suite lasting almost fifty minutes. Rubio contributed long, bourdon violin parts, whilst the whole band stubbornly stuck to a motif that might just as easily have lasted ten minutes or several hours. Not much seemed to be happening, but the music kept shifting: the…"
-      },
-      {
-        "title": "International Feel: Highlights from Le Guess Who? 2026",
-        "link": "https://thequietus.com/quietus-reviews/live-reviews/international-feel-highlights-from-le-guess-who-2026/",
-        "published": "2026-11-10T16:10:41Z",
-        "description": "Celebrating its 20th year, with a lineup focussed on bypassing arbitrary boundaries, Utrecht's flagship experimental festival forces even the most eclectic listener to go beyond, says Patrick Clarke Bethlehem's Lawrence Sammour, photo by Maarten Mooijman We start Le Guess Who? 2026 with Tortoise, who draw an enormous crowd in the cavernous Ronda space within Utrecht’s TivoliVredenburg complex. They offer a masterful display of how the subtlest shifts can produce the biggest effects, a tiny buzz of synth blooming slowly into something majestic and warm; a small nudge of bass snowballing until it’s an avalanche. Then, a trek up several flights of stairs to the much smaller Pandora, passing…"
       }
     ],
     "residentadvisor": [],
     "aquariumdrunkard": [
+      {
+        "title": "Habibi Funk 035 :: Beirut City Pop",
+        "link": "https://aquariumdrunkard.com/2026/11/12/habibi-funk-035-beirut-city-pop/",
+        "published": "2026-11-12T14:00:00Z",
+        "description": "In a departure from the usual template of old photos of the artists, the cover of Habibi Funk’s latest reissue features an illustration by Beirut-born, Paris-based artist Raphaelle Macaron. Poolside beach chairs sit empty on the patio of a luxurious apartment complex at dusk, separated by red, rocky terrain from the city skyline in the background. Cool purples, pinks and blues saturate the scene in a clear nod to the style of Hiroshi Nagai, whose work graces the covers of Light in the Attic’s Pacific Breeze City Pop compilations of funk, soul and AOR from 1980’s Japan. But while the references in the album’s title and cover art lovingly highlight the parallels with the City Pop era, the…"
+      },
+      {
+        "title": "Linus + Bonnie ‘Prince’ Billy :: The Outsider: The Music of Jules Decorte",
+        "link": "https://aquariumdrunkard.com/2026/11/12/linus-bonnie-prince-billy-the-outsider-the-music-of-jules-decorte/",
+        "published": "2026-11-12T14:00:00Z",
+        "description": "Three oddly-shaped pieces come together in the most natural way in this under-the-radar release from Bonnie ‘Prince’ Billy. The disc reconfigures the work of blind Dutch songwriter Jules de Corte, an outsider artist who wrote and recorded over 3,000 songs during his lifetime. This is not what you’d call a natural fit. De Corte’s songs are quick and witty and cerebral, more like cabaret or art song than BPB’s mournful Americana. Yet the two artists share an unconventional spirituality; there’s real searching in De Corte’s cleverly put together tunes."
+      },
       {
         "title": "The Aquarium Drunkard Show: SIRIUS/XMU (7pm PST, Channel 35)",
         "link": "https://aquariumdrunkard.com/2026/11/11/the-aquarium-drunkard-show-sirius-xmu-7pm-pst-channel-35-152/",
@@ -1029,18 +1041,6 @@
         "link": "https://aquariumdrunkard.com/2026/11/10/bill-nace-mike-polizze-duo-live-at-pageant-soloveev/",
         "published": "2026-11-10T13:00:00Z",
         "description": "Live at Pageant is an incendiary slab of sound, a conflagration of Mike Polizze’s eruptive, corrosive, psychedelic guitar and Bill Nace’s equally untethered taishigoto. The music happened at Philly’s Pageant Soloveev gallery in early summer of 2025; it only exists in recorded format because Polizze pulled out his phone just before the music starts."
-      },
-      {
-        "title": "Josh Johnson :: Animative",
-        "link": "https://aquariumdrunkard.com/2026/11/09/josh-johnson-animative/",
-        "published": "2026-11-09T13:00:00Z",
-        "description": "Josh Johnson plays the saxophone like an orchestra in this third solo album, Animative . That will surprise no one who’s seen his live shows, frenetic, ebullient displays of the power of live looping, as one sax riff echoes another and another. Nimble, pointillistic “Idiophone” which starts off the album, juggles reed and electronic sounds like a circus plate spinner, a cerebral abstraction one moment, a funk-syncopated fusion dream the next."
-      },
-      {
-        "title": "Call Mr. Lloyd :: A Brief Richard Lloyd Appreciation",
-        "link": "https://aquariumdrunkard.com/2026/11/09/call-mr-lloyd-a-brief-richard-lloyd-appreciation/",
-        "published": "2026-11-09T13:00:00Z",
-        "description": "A restless farewell to Richard Lloyd! The musical \"alchemist\"—a self-selected term—passed away on November 7. In tandem with Tom Verlaine in Television, Lloyd helped rewrite the rules when it came to the electric guitar in a rock setting. Lloyd was a player of boundless technical skill and unbridled imagination—a potent combination, to be sure. When Lloyd launched into a solo, every note was life or death, every moment a high-wire act of wildly impassioned delight. Here, a small sampling of the man’s six-string genius."
       }
     ],
     "bandcampdaily": [
@@ -1147,6 +1147,12 @@
     "criterion": [],
     "rogerebert": [
       {
+        "title": "The Fluidity of Grief: Sophie Okonedo on “Clarissa” and “Mouse”",
+        "link": "https://www.rogerebert.com/interviews/sophie-okonedo-clarissa-mouse-interview",
+        "published": "2026-11-12T14:00:00Z",
+        "description": "An interview with an actress of 2026 who gives not one but two of the year's best performances."
+      },
+      {
         "title": "Season 3 of “The Lord of the Rings: The Rings of Power” Feels Like Butter Scraped Over Too Much Bread",
         "link": "https://www.rogerebert.com/streaming/the-lord-of-the-rings-the-rings-of-power-season-3-amazon-prime-video-tv-review-2026",
         "published": "2026-11-10T20:01:00Z",
@@ -1187,12 +1193,6 @@
         "link": "https://www.rogerebert.com/streaming/north-of-north-season-2-netflix-tv-review-2026",
         "published": "2026-11-05T15:12:13Z",
         "description": "Still a sitcom, but its charm, warmth, and pathos make it something truly unique."
-      },
-      {
-        "title": "Season 2 Proves That “Black Doves” Might Be Netflix’s Best Show",
-        "link": "https://www.rogerebert.com/streaming/black-doves-season-2-kiera-knightley-ben-whishaw-netflix-tv-review-2026",
-        "published": "2026-11-05T14:00:00Z",
-        "description": "A thrilling balance of humor and espionage, and another show that blends the personal with the political in continuously captivating ways."
       }
     ],
     "sightandsound": [],
@@ -1248,6 +1248,18 @@
     ],
     "mubi": [
       {
+        "title": "MUBI Podcast | “Yol”: The Picture Made from Prison (feat. Alejandro G. Iñárritu)",
+        "link": "https://mubi.com/en/notebook/posts/mubi-podcast-yol-the-picture-made-from-prison-with-alejandro-g-inarritu",
+        "published": "2026-11-12T09:00:00Z",
+        "description": "How do you direct a Palme d’Or-winning film…from behind bars? Our new season about dissident filmmakers kicks off with the tale of Yilmaz Güney—one of Turkish cinema’s most revered and controversial directors—from his days as a tough-guy movie star nicknamed “The Ugly King,” to his years as a left-wing activist, to his 19-year prison sentence…during which he somehow managed to make his masterpiece, Yol (1982). Featuring Oscar-winner and Yol megafan Alejandro G. Iñárritu ( Digger , 2026) and German-Turkish auteur Fatih Akin ( Head-On , 2004). The MUBI Podcast returns for its 12th season, “Under Pressure.” At a time when artists worldwide are being threatened or stifled by their governments,…"
+      },
+      {
+        "title": "The Possibilities of the Unseen: In Conversation with Lee Chang-dong",
+        "link": "https://mubi.com/en/notebook/posts/the-possibilities-of-the-unseen-in-conversation-with-lee-chang-dong",
+        "published": "2026-11-12T08:00:00Z",
+        "description": "Lee Chang-dong. When I first met Lee Chang-dong in person, in April 2025, he was already waiting for me at his office in Seoul’s Mapo District. He sat hunched over his notes, reviewing the questions I had sent him in advance. After a moment of small talk, he looked up at me, his expression suddenly serious. “How long do you want to talk?” he asked. I thought two hours would be enough. “Not enough,” he replied. We talked for nearly four hours, with a large Secret Sunshine (2007) poster looming behind us. Our conversation took place in Seoul ahead of a retrospective of Lee’s work at Poland’s New Horizons Film Festival. He couldn’t attend in person, as he was busy finishing Possible Love…"
+      },
+      {
         "title": "Richard Talmadge: Dare Devil of the Screen",
         "link": "https://mubi.com/en/notebook/posts/richard-talmadge-dare-devil-of-the-screen",
         "published": "2026-11-10T08:00:00Z",
@@ -1282,18 +1294,6 @@
         "link": "https://mubi.com/en/notebook/posts/can-this-be-dixie-building-the-hollywood-south",
         "published": "2026-11-03T08:00:00Z",
         "description": "Hallelujah (King Vidor, 1929). The American South exists only in the imagination, yet it’s as real as sin. It cannot merely be the land situated beneath the Mason-Dixon (the historical survey line that traditionally demarcated Northern and Southern states), whose citizens fought under the banner of the Confederacy; one cannot ignore the obviously Southern states of West Virginia and Kentucky, or the political split between West and East Tennessee. It cannot be a shared culture or a shared history, for the residents of Jacksonville, Florida, find little in common with those families tucked deep in the Appalachian hollers or those ruling the oil-rich cities of eastern Texas. It is not a…"
-      },
-      {
-        "title": "TIFF: The Market: The Review",
-        "link": "https://mubi.com/en/notebook/posts/tiff-the-market-the-review",
-        "published": "2026-11-02T08:00:00Z",
-        "description": "TIFF: The Market exhibition booth option. At the 51st Toronto International Film Festival (TIFF), which saw the inaugural edition of its official content market, the atmosphere was unmistakably different from its jubilee year. The spirit of nostalgic celebration and victory lapping from 2025's \"TIFFty\" celebration had evaporated, leaving behind the gritty residue of cinema as a commercial product. Lacking the elegance of “Marché du Film” at Cannes and the specificity of “European Film Market” at Berlinale, for their new industry initiative TIFF settled on a name that evokes the absurdity of local hero Matt Johnson’s Nirvanna the Band the Show the Movie (2025). Its sans-serif, all-lowercase…"
-      },
-      {
-        "title": "The Action Scene | Impact Factor: The Hong Kong Connection in Contemporary Thai Martial Arts Cinema",
-        "link": "https://mubi.com/en/notebook/posts/the-action-scene-impact-factor-the-hong-kong-connection-in-contemporary-thai-martial-arts-cinema",
-        "published": "2026-10-30T08:00:00Z",
-        "description": "The Action Scene explores the form, history, and visceral power of action cinema through its set pieces. A translated version of this essay was published in HKinema , the quarterly magazine of the Hong Kong Film Critics Society. Clockwise from top-left: Ong-Bak (Prachya Pinkaew, 2003), Born to Fight (Panna Rittikrai, 2004), The Protector (Prachya Pinkaew, 2005), Chocolate (Prachya Pinkaew, 2008). “I like both Thai and kung fu shapes. Please show us!” “Are you mad? You could’ve been killed! If you want to die, I can arrange it.” — Born to Fight (Panna Rittikrai, 1984) For many martial arts movie fans in the mid-2000s, Tony Jaa was king. Sundry moments established his reign. In one scene…"
       }
     ],
     "reverseshot": [],
@@ -1349,6 +1349,30 @@
     ],
     "filmstage": [
       {
+        "title": "The Best Movies Now Playing in Theaters",
+        "link": "https://thefilmstage.com/the-best-movies-now-playing-in-theaters/",
+        "published": "2026-11-12T13:13:15Z",
+        "description": "Looking for what to see in theaters? Our feature, updated weekly, highlights our top recommendations for films currently in theaters, from new releases to restorations receiving a proper theatrical run. While we already provide extensive monthly new-release recommendations and weekly streaming recommendations, as distributors’ roll-outs can vary, this is a one-stop list to share the […]"
+      },
+      {
+        "title": "Paper Tiger Review: A Masterfully Measured, Quintessentially Subtle New York Tale",
+        "link": "https://thefilmstage.com/cannes-review-james-grays-paper-tiger-is-a-masterfully-measured-quintessentially-subtle-new-york-tale/",
+        "published": "2026-11-12T13:10:55Z",
+        "description": "Note: This review was originally published as part of our 2026 Cannes coverage. The film arrives in theaters on November 13. James Gray had left the comfort zone of the native New York he chronicled over the first two decades of his career, sending Charlie Hunnam, Robert Pattinson, and Tom Holland into the Amazon jungle […]"
+      },
+      {
+        "title": "Bitter Christmas Review: Pedro Almodóvar Explores His Creative Process In Comforting Metafiction",
+        "link": "https://thefilmstage.com/bitter-christmas-review-pedro-almodovar-explores-his-creative-process-in-comforting-metafiction/",
+        "published": "2026-11-12T12:10:00Z",
+        "description": "Note: This review was originally published for its U.K. release. The film arrives in U.S. theaters on November 13. Bitter Christmas announces that Pedro Almodóvar has entered his late era, returning once again to the metafiction well for another structurally ambitious analysis of the creative process with at least one character to whom he bears […]"
+      },
+      {
+        "title": "Victorian Psycho Review: Gothic Horror with Confidence and Verve",
+        "link": "https://thefilmstage.com/cannes-review-victorian-psycho-is-gothic-horror-with-confidence-and-verve/",
+        "published": "2026-11-12T11:10:00Z",
+        "description": "Note: This review was originally published as part of our 2026 Cannes coverage. The film arrives in theaters on November 13. In 1858, pre-Freud times, a castle in the Yorkshire moors of Northern England by the name of Ensor House becomes the new dwelling place for young governess Winifred Notty (Maika Monroe, on a horror […]"
+      },
+      {
         "title": "Guy Maddin Sets Cast For Next Feature The Confessions; Steven Spielberg, Werner Herzog, and Kleber Mendonça Filho Developing New Projects",
         "link": "https://thefilmstage.com/guy-maddin-sets-next-feature-the-confessions-with-hunter-schafer-alexander-skarsgard-maya-hawke-and-harry-melling-steven-spielberg-werner-herzog-and-kleber-mendonca-filho-set-new-projects/",
         "published": "2026-11-11T19:31:19Z",
@@ -1371,30 +1395,6 @@
         "link": "https://thefilmstage.com/lee-chang-dong-on-possible-love-filmmaking-ethics-and-characters-as-mirrors/",
         "published": "2026-11-10T14:49:39Z",
         "description": "Lee Chang-dong has never been in a hurry. The novelist-turned-filmmaker (and one-time South Korean minister of culture) has made just seven features in nearly thirty years; Peppermint Candy, Secret Sunshine, and Burning among the most celebrated, each a patient, piercing portrait of ordinary people pushed to the edge. Needless to say, the eight years since […]"
-      },
-      {
-        "title": "Celebrate 10 Years of Grasshopper Film In Exclusive Trailer for Metrograph Retrospective",
-        "link": "https://thefilmstage.com/celebrate-10-years-of-grasshopper-film-in-exclusive-trailer-for-metrograph-retrospective/",
-        "published": "2026-11-10T14:42:38Z",
-        "description": "An anniversary well worth celebrating, the standard of quality when it comes to the releases of Grasshopper Film is simply unmatched in the world of international cinema. Bringing films by Kleber Mendonça Filho, Hong Sangsoo, Jem Cohen, Albert Serra, Bertrand Bonello, Ryūsuke Hamaguchi, Bi Gan, Pedro Costa, Claire Denis, Alain Gomis, Oliver Laxe, Tsai-ming Liang, […]"
-      },
-      {
-        "title": "Exclusive Trailer for New 4K Restoration of Joseph Losey’s Accident, Coming to Theaters in December",
-        "link": "https://thefilmstage.com/exclusive-trailer-for-new-4k-restoration-of-joseph-loseys-accident-coming-to-theaters-this-december/",
-        "published": "2026-11-09T15:34:46Z",
-        "description": "A few years after his widely acclaimed Harold Pinter collaboration The Servant, Joseph Losey reteamed with the writer for Accident, starring Dirk Bogarde, Stanley Baker, and Jacqueline Sassard. Newly restored by the BFI National Film Archive in association with Studiocanal, the drama will now begin a theatrical run at Film Forum, courtesy of Rialto Pictures, […]"
-      },
-      {
-        "title": "The Best Films, Old and New, from the 39th Tokyo International Film Festival",
-        "link": "https://thefilmstage.com/the-best-films-old-and-new-from-the-39th-tokyo-international-film-festival/",
-        "published": "2026-11-06T16:24:12Z",
-        "description": "The next generation of filmmakers show deep promise; sometimes you just have to go very far to find them. The best things I saw at this year’s Tokyo International Film Festival were all world premieres arriving in the last days of a year-long cinema cycle that begins early, runs late, and recirculates the same two-dozen-ish […]"
-      },
-      {
-        "title": "NYC Weekend Watch: Dean Stockwell, James Gray, Personal Problems & More",
-        "link": "https://thefilmstage.com/nyc-weekend-watch-dean-stockwell-james-gray-personal-problems-more/",
-        "published": "2026-11-06T14:22:45Z",
-        "description": "NYC Weekend Watch is our weekly round-up of repertory offerings. BAMA Dean Stockwell retrospective features films by David Lynch, Joseph Losey, Jonathan Demme, plus Dennis Hopper’s Backtrack on 35mm; Playback offers films by Spike Lee and Gillo Pontecorvo; Ken Russell’s reconstructed The Devils continues—read (or listen to) our interview with Mark Kermode on it. Museum […]"
       }
     ],
     "cinephilia": [
@@ -1483,6 +1483,18 @@
     "larb": [],
     "aeon": [
       {
+        "title": "My grandfather been tell me a lot of story about Lasseter",
+        "link": "https://aeon.co/videos/a-legendary-australian-gold-hunt-told-from-an-aboriginal-perspective",
+        "published": "2026-11-12T11:01:00Z",
+        "description": "A strange man on camelback – the artist Nora Abbott retells her grandfather’s story of a prospector’s last ride - by Aeon Video Watch on Aeon"
+      },
+      {
+        "title": "Why anything exists",
+        "link": "https://aeon.co/essays/a-new-answer-to-why-there-is-something-rather-than-nothing",
+        "published": "2026-11-12T11:00:00Z",
+        "description": "Here’s a new answer to the old question ‘why is there something rather than nothing?’ (It’s neither simple nor easy) - by Andrew T Brenner Read on Aeon"
+      },
+      {
         "title": "Decoding Ediacaran fossils",
         "link": "https://aeon.co/videos/how-a-palaeontologist-decodes-fossils-from-the-dawn-of-complex-life",
         "published": "2026-11-11T11:01:00Z",
@@ -1517,21 +1529,21 @@
         "link": "https://aeon.co/videos/meet-the-invisible-workers-who-teach-self-driving-cars-to-see",
         "published": "2026-11-05T11:01:00Z",
         "description": "In Kenya, the Philippines and Venezuela, low-paid labour fuels the driverless future of the Global North - by Aeon Video Watch on Aeon"
-      },
-      {
-        "title": "Methodical/mercurial",
-        "link": "https://aeon.co/essays/welcome-to-the-mixed-up-joyful-world-of-audhd",
-        "published": "2026-11-05T11:00:00Z",
-        "description": "I need order and routine – just as much as I crave excitement and variety. What’s life like with both autism and ADHD? - by Sarah Hendrickx Read on Aeon"
-      },
-      {
-        "title": "Like aliens",
-        "link": "https://aeon.co/videos/in-tiny-biospheres-an-artist-reflects-the-fragility-of-our-own",
-        "published": "2026-11-04T11:01:00Z",
-        "description": "Like living metaphors, these self-contained miniature worlds show us the wondrous and fragile beauty of our biosphere - by Aeon Video Watch on Aeon"
       }
     ],
     "psyche": [
+      {
+        "title": "Eye on the mark",
+        "link": "https://psyche.co/portraits/the-ex-cop-on-a-mission-to-see-fortune-tellers-arrested",
+        "published": "2026-11-12T11:00:00Z",
+        "description": "Bob Nygaard, a retired New York policeman, exposes fortune-tellers who profit from turning ordinary human longing into vulnerability. What makes him so good at it? - by Shayla Love Read on Psyche"
+      },
+      {
+        "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
+        "link": "https://psyche.co/ideas/shunning-people-who-look-homeless-is-an-aesthetic-injustice",
+        "published": "2026-11-12T11:00:00Z",
+        "description": "Society owes unhoused people access to haircuts, showers and clean clothes, not as charity, but as a matter of justice - by Giacomo Floris Read on Psyche"
+      },
       {
         "title": "Why ‘patient influencers’ should come with a health warning",
         "link": "https://psyche.co/ideas/why-patient-influencers-should-come-with-a-health-warning",
@@ -1567,18 +1579,6 @@
         "link": "https://psyche.co/notes-to-self/the-perils-of-stopping-an-activity-that-forms-your-identity",
         "published": "2026-11-05T11:00:00Z",
         "description": "When an ankle injury put the brakes on my running habit, I had to rethink the wisdom of tying my identity to an activity - by Richard Fisher Read on Psyche"
-      },
-      {
-        "title": "How to take notes that actually help you learn",
-        "link": "https://psyche.co/guides/how-to-take-notes-that-actually-help-you-learn",
-        "published": "2026-11-05T11:00:00Z",
-        "description": "If you want to remember and understand, copying isn’t enough. An expert on learning shares how to make notes work for you - by Cynthia Nebel Read on Psyche"
-      },
-      {
-        "title": "Baby heaven",
-        "link": "https://psyche.co/turning-points/how-a-revelation-at-home-made-me-rethink-delusion",
-        "published": "2026-11-04T11:00:00Z",
-        "description": "As a psychologist, I’ve long pondered what counts as ‘delusional’. A revelation at home made it personal - by Ryan McKay Read on Psyche"
       }
     ],
     "newleftreview": [],
@@ -1667,6 +1667,12 @@
     ],
     "nautilus": [
       {
+        "title": "How the Brain’s Failing Trash Compactor Can Contribute to Alzheimer’s Disease",
+        "link": "https://nautil.us/how-the-brains-failing-trash-compactor-can-contribute-to-alzheimers-disease-1286581/",
+        "published": "2026-11-12T13:00:00Z",
+        "description": "Boring jobs are important jobs"
+      },
+      {
         "title": "What’s All That Coffee Doing to Your Gut?",
         "link": "https://nautil.us/whats-all-that-coffee-doing-to-your-gut-1286572/",
         "published": "2026-11-11T22:00:00Z",
@@ -1707,12 +1713,6 @@
         "link": "https://nautil.us/lean-muscle-mass-isnt-a-cure-all-for-metabolic-health-1286540/",
         "published": "2026-11-11T00:00:00Z",
         "description": "A new study is complicating the picture"
-      },
-      {
-        "title": "Famous Fossil Could be Rosetta Stone for Hidden Hominin Diversity",
-        "link": "https://nautil.us/famous-fossil-could-be-rosetta-stone-for-hidden-hominin-diversity-1286535/",
-        "published": "2026-11-10T23:00:00Z",
-        "description": "What would the Taung child grow up to be?"
       }
     ],
     "worksinprogress": [],
@@ -1918,6 +1918,30 @@
     ],
     "longreads": [
       {
+        "title": "My I.R.L. Adventures in the Land of the Eagle Cam",
+        "link": "https://longreads.com/2026/11/12/eagle-nest-cam-nature/",
+        "published": "2026-11-12T13:00:00Z",
+        "description": "\"I traveled to Big Bear Lake, home of a viral live feed of an eagle’s nest, and found very human shenanigans.\""
+      },
+      {
+        "title": "We Got to Get It Together",
+        "link": "https://longreads.com/2026/11/12/we-got-to-get-it-together/",
+        "published": "2026-11-12T12:00:00Z",
+        "description": "\"Matthew Ritchie considers grief, growing old, and A Tribe Called Quest’s final album We got it from Here... Thank You 4 Your Service on its ten-year anniversary.\""
+      },
+      {
+        "title": "Sweat Gets in Your Eyes",
+        "link": "https://longreads.com/2026/11/12/running-the-baffler/",
+        "published": "2026-11-12T11:00:00Z",
+        "description": "\"The walking cure.\""
+      },
+      {
+        "title": "Ice Loss",
+        "link": "https://longreads.com/2026/11/12/ice-loss-ravenna-koenig/",
+        "published": "2026-11-12T09:00:00Z",
+        "description": "How do we form wants, wishes, and attachments when the future in which they’d be fulfilled is so uncertain, so full of anticipated loss?"
+      },
+      {
         "title": "Rays of Wonder",
         "link": "https://longreads.com/2026/11/11/x-rays-radiology-cancer-history-rontgen/",
         "published": "2026-11-11T18:51:19Z",
@@ -1940,30 +1964,6 @@
         "link": "https://longreads.com/2026/11/10/inside-the-trial-of-russell-brand/",
         "published": "2026-11-10T13:00:00Z",
         "description": "\"Tom Lee sat through all 18 days of the would-be guru’s trial.\""
-      },
-      {
-        "title": "When Anesthesia Goes Wrong",
-        "link": "https://longreads.com/2026/11/10/when-anesthesia-goes-wrong/",
-        "published": "2026-11-10T12:00:00Z",
-        "description": "\"A teenage boy went into surgery for a broken arm and emerged with brain damage. His mother was determined to figure out what had happened.\""
-      },
-      {
-        "title": "Bright Star",
-        "link": "https://longreads.com/2026/11/10/permaculture-school-mexico-education/",
-        "published": "2026-11-10T11:00:00Z",
-        "description": "\"A mixed-age permaculture school in Mexico is showing how an education based on autonomy and care prepares students better for life.\""
-      },
-      {
-        "title": "The Downfall of a Top Cop",
-        "link": "https://longreads.com/2026/11/10/belgium-cop-drug-trade/",
-        "published": "2026-11-10T10:00:00Z",
-        "description": "Willy Van Mechelen was one of the most celebrated police officers in Belgian history, responsible for solving infamous kidnappings, robberies, and murders. Then Antwerp’s lucrative drug trade came calling."
-      },
-      {
-        "title": "Maintenance Futures",
-        "link": "https://longreads.com/2026/11/09/maintenance-future/",
-        "published": "2026-11-09T18:48:23Z",
-        "description": "\"Future visions tend to organize around narratives of gain or loss, dystopia or utopia. But what of the neutral position?\""
       }
     ]
   }
