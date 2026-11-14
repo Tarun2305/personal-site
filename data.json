@@ -387,122 +387,110 @@
     "reuters": [],
     "bbc": [
       {
+        "title": "What we know about the longest US nationwide flight ground stop since 9/11",
+        "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-14T03:45:21Z",
+        "description": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage."
+      },
+      {
+        "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+        "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-13T23:40:45Z",
+        "description": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for."
+      },
+      {
+        "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
+        "link": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-13T22:12:33Z",
+        "description": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening."
+      },
+      {
+        "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+        "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-14T02:47:24Z",
+        "description": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says."
+      },
+      {
         "title": "Police investigating David Walliams over reports alleging serious sexual offences",
         "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
         "published": "2026-11-13T16:53:50Z",
         "description": "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week."
       },
       {
-        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+        "title": "Setback for SpaceX Starship rocket's double-catch test",
+        "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-14T00:01:01Z",
+        "description": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean."
+      },
+      {
+        "title": "Goalkeeper involved in fatal collision gets 12-game ban",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-13T22:37:30Z",
+        "description": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel."
+      },
+      {
+        "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
         "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-13T20:49:52Z",
+        "published": "2026-11-13T21:14:22Z",
         "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers."
-      },
-      {
-        "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
-        "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-13T17:38:19Z",
-        "description": "Microsoft has apologised for the issue, which it said was due to a technical failure."
-      },
-      {
-        "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
-        "link": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-13T21:04:42Z",
-        "description": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening."
-      },
-      {
-        "title": "Former Hamas bodyguard guilty of UK knife attack",
-        "link": "https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-13T15:51:24Z",
-        "description": "Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020."
-      },
-      {
-        "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
-        "link": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-13T19:01:36Z",
-        "description": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory."
-      },
-      {
-        "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-        "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-13T16:40:31Z",
-        "description": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says."
-      },
-      {
-        "title": "Watch: BBC undercover reporter is offered fake art and awards for talent visa",
-        "link": "https://www.bbc.co.uk/news/videos/cqr7g5j41mezo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-13T14:45:19Z",
-        "description": "Companies are offering to help migrants pose as talented artists to make fraudulent UK visa applications, the BBC has found."
       }
     ],
     "aljazeera": [
       {
-        "title": "Australia captain Cummins denies involvement in ‘Sandpapergate’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/australia-captain-cummins-denies-involvement-in?traffic_source=rss",
-        "published": "2026-11-13T20:32:42Z",
-        "description": "Australia cricket captain Cummins has rejected claims by ex-teammate Usman Khawaja linking him to 2018 ball-tampering"
+        "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
+        "link": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next?traffic_source=rss",
+        "published": "2026-11-14T03:32:07Z",
+        "description": "The FAA says nationwide ground stop disrupting thousands of US flights was caused by a telecommunications outage."
       },
       {
-        "title": "Pope thanks crowds on emotional return to ‘second home’ in Peru’s Chiclayo",
-        "link": "https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo?traffic_source=rss",
-        "published": "2026-11-13T20:28:20Z",
-        "description": "The Chicago-born pope was welcomed by huge crowds in the coastal city, on the final leg of his South America tour."
+        "title": "Measles-associated deaths reach 10 in US after two more deaths reported",
+        "link": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss",
+        "published": "2026-11-14T02:34:50Z",
+        "description": "More than 5,400 confirmed measles cases have been recorded in the US to date this year."
       },
       {
-        "title": "Paraguay’s ex-president Pena faces new charge over Ueno bank collapse",
-        "link": "https://www.aljazeera.com/news/2026/11/13/paraguays-ex-president-pena-faces-new-charge-over-ueno-bank-collapse?traffic_source=rss",
-        "published": "2026-11-13T20:18:09Z",
-        "description": "The criminal association charge over his alleged role in the collapse of the bank comes a week after his removal."
+        "title": "Tanker collision leaves riverboat passengers clinging to railings",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss",
+        "published": "2026-11-14T01:37:08Z",
+        "description": "Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans."
       },
       {
-        "title": "Microsoft says services still returning amid widespread outage",
-        "link": "https://www.aljazeera.com/news/2026/11/13/microsoft-says-services-still-returning-amid-widespread-outage?traffic_source=rss",
-        "published": "2026-11-13T20:16:13Z",
-        "description": "Governments, businesses, individuals were disrupted globally as server failures stretch into second day."
+        "title": "Former FAA official says ‘nobody really knows what is going on’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss",
+        "published": "2026-11-14T01:28:46Z",
+        "description": "Former FAA safety team representative Kyle Bailey says grounding flights is the safest course of action."
       },
       {
-        "title": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission",
-        "link": "https://www.aljazeera.com/news/2026/11/13/nigeria-ends-21-day-ebola-contact-monitoring-with-no-secondary-transmission?traffic_source=rss",
-        "published": "2026-11-13T20:12:34Z",
-        "description": "None of the 62 contacts identified after the first case developed the disease, although 13 contacts reported fever."
+        "title": "UK police open sex offence probe into comedian and author David Walliams",
+        "link": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss",
+        "published": "2026-11-14T00:22:07Z",
+        "description": "The British TV personality, 55, denies sexual assault allegations, saying he has not broken the law."
       },
       {
-        "title": "Migrants risk deadly route to Spain’s Canary Islands",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/migrants-risk-deadly-route-to-spains-canary-islands?traffic_source=rss",
-        "published": "2026-11-13T19:23:40Z",
-        "description": "More than 7,400 migrants arrived in Spain’s Canary Islands during the first 10 days of November."
+        "title": "Microsoft services begin recovering after global outage",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/microsoft-services-begin-recovering-after-global-outage?traffic_source=rss",
+        "published": "2026-11-14T00:17:59Z",
+        "description": "Microsoft services began recovering on Friday after a global outage disrupted Outlook and Teams."
       },
       {
-        "title": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
-        "published": "2026-11-13T19:23:05Z",
-        "description": "A liquefied gas carrier caught fire in the Strait of Hormuz after hitting naval mines, according to the IRGC."
+        "title": "Afghanistan’s new road to China ends at a closed border",
+        "link": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
+        "published": "2026-11-14T00:06:43Z",
+        "description": "Taliban government hopes its Wakhan Corridor road will open new trade routes and reduce reliance on Pakistan."
       },
       {
-        "title": "How will the US deal with Nvidia scandal?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/11/13/how-will-the-us-deal-with-nvidia-scandal?traffic_source=rss",
-        "published": "2026-11-13T18:57:43Z",
-        "description": "Tech giant CEO resigned and will testify before Congress."
+        "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
+        "published": "2026-11-14T00:00:25Z",
+        "description": "Doha, Ankara agreement pledges joint action against external attacks as fighting in Yemen displaces civilians."
       }
     ],
     "ft": [
       {
-        "title": "Arm boss Rene Haas approached in Nvidia CEO search",
-        "link": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1",
-        "published": "2026-11-13T17:45:54Z",
-        "description": "Head of SoftBank-owned UK semiconductor group sounded out after Jensen Huang resigned over affairs"
-      },
-      {
-        "title": "Jensen Huang’s final days at Nvidia",
-        "link": "https://www.ft.com/content/ef8f85a6-e2d7-4d41-b70e-092b2567813a?syn-25a6b1a6=1",
-        "published": "2026-11-13T03:47:19Z",
-        "description": "After 33 years building Nvidia into the world’s most valuable company, its founder’s career disintegrated in less than two weeks"
-      },
-      {
-        "title": "OK who just made $200mn shorting Nvidia ahead of Jensxit?",
-        "link": "https://www.ft.com/content/13c485dc-2d51-4920-bd1f-13a11c79d96c",
-        "published": "2026-11-13T11:29:14Z",
-        "description": "Someone is enjoying an early Christmas"
+        "title": "US aviation regulator lifts order that grounded thousands of flights",
+        "link": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
+        "published": "2026-11-14T03:21:57Z",
+        "description": "Airports had halted take-offs because of a temporary ‘telecommunications outage’"
       },
       {
         "title": "Scott Colom: the Democrat who conquered the reddest of red states",
@@ -523,16 +511,28 @@
         "description": "Any attempt by Nvidia co-founder to offload his shares would unnerve investors but is fraught with legal and price risks"
       },
       {
+        "title": "Arm boss Rene Haas approached in Nvidia CEO search",
+        "link": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1",
+        "published": "2026-11-13T17:45:54Z",
+        "description": "Head of SoftBank-owned UK semiconductor group sounded out after Jensen Huang resigned over affairs"
+      },
+      {
         "title": "Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed",
         "link": "https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d?syn-25a6b1a6=1",
         "published": "2026-11-13T17:06:01Z",
         "description": "Salvo from US Treasury secretary risks stoking tensions within Trump administration over Nvidia scandal"
       },
       {
-        "title": "Chuck Schumer faces challenge for Senate leadership from rival Democrat",
-        "link": "https://www.ft.com/content/1f0996cf-1f84-42ca-a574-898f8578deb7?syn-25a6b1a6=1",
-        "published": "2026-11-13T04:24:51Z",
-        "description": "Chris Van Hollen to run to be majority leader in upper house after sweeping party victory in midterm elections"
+        "title": "Trump will not raise Nvidia spy issue with Xi at summit, officials say",
+        "link": "https://www.ft.com/content/6034dd16-8c7d-4b3e-bc4e-942a6c8529dd?syn-25a6b1a6=1",
+        "published": "2026-11-14T01:28:36Z",
+        "description": "US president will hold trilateral meeting with Chinese leader and Russia’s Vladimir Putin next week"
+      },
+      {
+        "title": "Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO",
+        "link": "https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?syn-25a6b1a6=1",
+        "published": "2026-11-13T23:39:26Z",
+        "description": "Jailed cryptocurrency mogul loses out on windfall from early investment in the AI lab"
       }
     ],
     "restofworld": [
@@ -587,6 +587,12 @@
     ],
     "propublica": [
       {
+        "title": "Ethics Watchdog Urges Investigation Into Top Health Official, Alleging Conflict of Interest Over Hormone Therapy Policy",
+        "link": "https://www.propublica.org/article/hhs-alicia-jackson-ethics-complaint",
+        "published": "2026-11-13T21:50:00Z",
+        "description": ""
+      },
+      {
         "title": "Members of Georgia’s Election Board Have Been Coordinating With Cleta Mitchell’s Network",
         "link": "https://www.propublica.org/article/georgia-election-board-cleta-mitchell-midterms",
         "published": "2026-11-13T11:00:00Z",
@@ -626,12 +632,6 @@
         "title": "Prophecy, Scorn and a Rejection of This World: The Forbidding Vision of a Faith-Healing Preacher",
         "link": "https://www.propublica.org/article/walter-white-faith-healing-oregon",
         "published": "2026-11-11T13:00:00Z",
-        "description": ""
-      },
-      {
-        "title": "“We Have No One”: How Trump’s Dismantling of the VA Left a Veterans Hospital in Crisis",
-        "link": "https://www.propublica.org/article/east-orange-va-hospital-veterans-decline-new-jersey",
-        "published": "2026-11-11T10:00:00Z",
         "description": ""
       }
     ],
@@ -692,16 +692,28 @@
     "chelsea_sky": [],
     "guardianfootball": [
       {
-        "title": "Scotland v North Macedonia: Nations League – live",
-        "link": "https://www.theguardian.com/football/live/2026/nov/13/scotland-v-north-macedonia-nations-league-live",
-        "published": "2026-11-13T20:58:27Z",
-        "description": "Nations League updates from 7.45pm GMT kick-off Live scores | Follow us on BlueSky | And email Scott 3 min: Robertson is into the action quickly. He crosses from the left. The ball’s deflected and sent on a strange arc towards the top-left corner, but Musliu heads away so keeper Dimitrievski doesn’t have to deal with an awkward bounce. Adams was lurking, too. 2 min: The Hampden Roar segues into a chant in honour of Andy Robertson, who is now officially joint top of Scotland’s all-time record appearances list. Other than that, there’s not been any early action to react to, never mind sing about. Continue reading..."
-      },
-      {
         "title": "Tearful Pochettino says United job was ‘difficult to turn down’ in USMNT farewell",
         "link": "https://www.theguardian.com/football/2026/nov/13/mauricio-pochettino-usmnt-manchester-united",
         "published": "2026-11-13T16:53:14Z",
         "description": "Coach was ‘transparent’ in dealings with club, federation Pochettino had signed deal to stay with US through 2030 There were always going to be tears at Mauricio Pochettino’s news conference at US Soccer’s national training center on Friday. It was only a matter of when. Pochettino is famously emotional, and nobody in attendance had to wait long for the waterworks – they came during his introductory remarks, as he thanked the US Soccer executives flanking him for the opportunity to guide the US men. He grew emotional again as he addressed his impending departure for Manchester United, one announced just hours earlier. “I think [the decision was],” Pochettino said, pausing to compose…"
+      },
+      {
+        "title": "‘United is broken’: Guardian readers react to Michael Carrick’s sacking",
+        "link": "https://www.theguardian.com/football/2026/nov/13/manchester-united-michael-carrick-sacking-readers-reaction",
+        "published": "2026-11-13T10:45:05Z",
+        "description": "Emotions are running high after the confirmation of Michael Carrick’s dismissal at Old Trafford. Here are some views from our readers “As a United fan who was around for the early 90s seeing Carrick go is a sad end to a horrible situation. He was the only likable thing about the club … I took my eight-year-old lad to Old Trafford for the Brighton game in the FA Cup in January and I’ve never experienced a more toxic atmosphere at a football ground. The fans deserve better … Better owners, better attitudes, better standards. Nothing will change with the setup of the club today and we are in this macabre holding pattern of failure, hope, anger and disappointment” – Chris “Wilcox, [Berada] and…"
+      },
+      {
+        "title": "John McGinn double saves Scotland’s blushes against North Macedonia",
+        "link": "https://www.theguardian.com/football/2026/nov/13/scotland-north-macedonia-nations-league-match-report",
+        "published": "2026-11-13T22:16:31Z",
+        "description": "A special occasion for Andy Robertson saw Scotland flirt with embarrassment. Collection of his 102nd cap moves him level with Kenny Dalglish in the all-time Scottish list. Robertson will soon be a record holder. This was, however, John McGinn’s night. A double from McGinn, the second a penalty, spared Scottish blushes against a North Macedonia team who threatened to administer red faces to those in navy blue. This proved an almighty struggle for Scotland. Questions – and plenty of them – surround whether or not Sébastien Pocognoli can build on the excellent work of his predecessor Steve Clarke. For now, Scotland are a tough watch. Pocognoli looks tactically inflexible and this is not the…"
+      },
+      {
+        "title": "Jesús Owono given 12-match ban for tackle that resulted in Jesús de Miguel’s death",
+        "link": "https://www.theguardian.com/football/2026/nov/13/jesus-owono-given-12-match-ban-for-tackle-that-resulted-in-jesus-de-miguels-death",
+        "published": "2026-11-13T22:04:08Z",
+        "description": "FC Andorra goalkeeper collided with De Miguel Owono: ‘I feel immense pain over the loss of Jesús’ The FC Andorra goalkeeper Jesús Owono was suspended for 12 matches by the Spanish football federation’s disciplinary committee on Friday after his challenge on Jesús de Miguel resulted in the death of the Tenerife striker last week. Owono, an Equatorial Guinea international, was sent off in the second division match on 2 November after racing into midfield and colliding with De Miguel while trying to clear an aerial ball. After the collision, De Miguel, 30, was placed in intensive care in hospital and the Spanish forward died on 3 November. Continue reading..."
       },
       {
         "title": "Tuchel to remind England players of anti-racism protocols before game in Spain",
@@ -710,34 +722,22 @@
         "description": "England visit Madrid for first time since fan abuse in 2004 ‘We had the same discussion before the Serbia game’ Thomas Tuchel will remind his ­England players of the anti-racism protocols as they prepare to play Spain in Madrid for the first time since the notorious meeting between the countries in 2004. Spain won 1-0 at the Bernabéu but the occasion was ruined by racist abuse directed at England’s black players from the stands. England have since played three games in Spain, although they refused to return to Madrid for the first of them in 2009. The match was moved to Seville. There were no ­problems in any of the three; the second was in Alicante in 2015, the third back in Seville in…"
       },
       {
-        "title": "Why Chelsea and Manchester City’s WSL clash is not as season-defining as you think",
-        "link": "https://www.theguardian.com/football/2026/nov/13/why-chelsea-and-manchester-citys-wsl-clash-is-not-as-season-defining-as-you-think",
-        "published": "2026-11-13T14:05:44Z",
-        "description": "Neither side have lost in the league yet but a more competitive division should take title race to the wire There was a time when the games between the top three – traditionally Chelsea, Manchester City and Arsenal – were title-deciders. Where every point taken off a title rival was key. Such was the gap in investment and quality between those teams and the rest of the Women’s Super League, it was extremely rare that points would be dropped to teams outside that elite clique. As the WSL has grown in investment, profile and size, that narrative has started to shift a little. The investment gap is still large from the top to the bottom of the league. But increased investment among the best…"
-      },
-      {
         "title": "Branding it like Beckham: how Jude Bellingham is future-proofing his fame",
         "link": "https://www.theguardian.com/football/2026/nov/13/jude-bellingham-branding-it-like-beckham",
         "published": "2026-11-13T16:03:19Z",
         "description": "From Calvin Klein to British Vogue, the Real Madrid man is leading the way when it comes to football’s foray into fashion. But is he playing it safe? This Sunday, Jude Bellingham will line up with his England teammates for a match against Spain. But the footballer has been hitting the headlines way beyond the pitch recently – thanks to fronting a Calvin Klein underwear ad released this month, and becoming the first footballer to appear solo on the cover of British Vogue . It’s a savvy move for the 23-year-old, future-proofing himself as a power player both on and off the pitch. This is a roadmap carved out by David Beckham, who since retiring in 2013 has become a brand and personality that…"
       },
       {
-        "title": "Football Daily | Taking a brief minute to remember Pierre Sage’s impact at Crystal Palace",
-        "link": "https://www.theguardian.com/football/2026/nov/13/pierre-sage-crystal-palace-football-daily-newsletter",
-        "published": "2026-11-13T15:21:47Z",
-        "description": "Sign up now! Sign up now! Sign up now? Sign up now! So farewell then, Pierre Sage . Many coaches leave under a cloud, not many have their departures completely obscured by the foul, retch-inducing one emanating from another team’s managerial circus, but such was Sage’s fate . The news section of Crystal Palace’s website helpfully tells you the amount of time it might take you to read each story it links through to. For example it should take four minutes or so to get through Tuesday’s “On this day: five big Crystal Palace birthdays”. “England: I love a knee slide!” will take you five. “Prize draw: be a mascot for our next [Bigger Vase] tie!” is a two-minute job. The statement informing the…"
+        "title": "Why Chelsea and Manchester City’s WSL clash is not as season-defining as you think",
+        "link": "https://www.theguardian.com/football/2026/nov/13/why-chelsea-and-manchester-citys-wsl-clash-is-not-as-season-defining-as-you-think",
+        "published": "2026-11-13T14:05:44Z",
+        "description": "Neither side have lost in the league yet but a more competitive division should take title race to the wire There was a time when the games between the top three – traditionally Chelsea, Manchester City and Arsenal – were title-deciders. Where every point taken off a title rival was key. Such was the gap in investment and quality between those teams and the rest of the Women’s Super League, it was extremely rare that points would be dropped to teams outside that elite clique. As the WSL has grown in investment, profile and size, that narrative has started to shift a little. The investment gap is still large from the top to the bottom of the league. But increased investment among the best…"
       },
       {
         "title": "The beautiful game: revived art prize gives football its creative due once more | Emma John",
         "link": "https://www.theguardian.com/football/2026/nov/13/football-association-art-prize",
         "published": "2026-11-13T08:00:12Z",
         "description": "Football and the art world have long remained distant but the breadth of entries for this year’s award reveals a healthy revival It may be the Beautiful Game, but in its early decades football was a rare subject for artists. The Italian Futurist Umberto Boccioni whirled an athlete’s body into a vortex of movement in his 1913 painting Dynamism of a Soccer Player . You can see one of the earliest fine art depictions of a match – a smoggy, factory-adjactent scene called Any Wintry Afternoon in England – at the Manchester Art Gallery. If 1930s abstraction is more your thing, you can enjoy decoding the geometric shapes in Kazimir Malevich’s Painterly Realism of a Football Player – Color Masses…"
-      },
-      {
-        "title": "Morgan Rogers says ‘it’s a lie’ that Cole Palmer does not want to play for England",
-        "link": "https://www.theguardian.com/football/2026/nov/12/morgan-rogers-says-its-a-lie-that-cole-palmer-does-not-want-to-play-for-england",
-        "published": "2026-11-12T23:17:46Z",
-        "description": "Forward springs to defence of Chelsea teammate ‘He wanted to come and represent his country’ Morgan Rogers has said accusations that his Chelsea teammate Cole Palmer is not committed to playing for England are “a lie”. Palmer, who was left out of the squad for this week’s Nations League ties against Croatia and Spain, has faced questions over his desire to play international football since withdrawing from last month’s camp with a groin injury. Thomas Tuchel, who did not take the 24-year-old to last summer’s World Cup, expressed irritation at the time, saying the Chelsea attacker “misses too many opportunities” to play for his country. Continue reading..."
       }
     ],
     "spielverlagerung": [
@@ -842,6 +842,12 @@
     ],
     "wagnh": [
       {
+        "title": "Chelsea FCW vs. Manchester City WFC, Women’s Super League: Preview, team news, how to watch",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/173986/chelsea-fcw-vs-manchester-city-wfc-womens-super-league-preview-team-news-how-to-watch",
+        "published": "2026-11-13T23:22:23Z",
+        "description": "Chelsea Women welcome reigning champions Manchester City to Stamford Bridge this weekend, with both teams still unbeaten in the Women’s Super League. Our finishing touch has deserted us in recent matches, however, and City arrive in excellent form, led by a Khadija Shaw who seemingly cannot stop scoring. Date / Time: Saturday, November 14, 2026, […]"
+      },
+      {
         "title": "The Daily Hilario: Friday",
         "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/173965/the-daily-hilario-november-13th",
         "published": "2026-11-13T08:14:03Z",
@@ -882,12 +888,6 @@
         "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/173919/bk-hacken-ff-0-0-chelsea-fcw-uefa-womens-champions-league-post-match-reaction",
         "published": "2026-11-10T19:43:50Z",
         "description": "The frustrations of last weekend’s 1-1 draw unfortunately carried over for the Blues as we’d have to settle for a scoreless draw against the newly re-crowned Champions of Sweden. Despite over two dozen shots and two disallowed goals, Chelsea failed to find the back of the net, and are heading home with just the solitary […]"
-      },
-      {
-        "title": "BK Häcken FF vs. Chelsea FCW, UEFA Women’s Champions League: Confirmed lineups; how to watch",
-        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/173909/bk-hacken-ff-vs-chelsea-fcw-uefa-womens-champions-league-confirmed-lineups-how-to-watch",
-        "published": "2026-11-10T16:37:14Z",
-        "description": "Although the scorelines haven’t been earth-shattering, Chelsea Women are doing well in the UEFA Women’s Champions League group stage with seven points in three outings. They head to Sweden today to face BK Häcken, whom they beat in similar circumstances almost three years ago. Doing so again would make us very comfortable in the league […]"
       }
     ],
     "rym": [],
@@ -1248,6 +1248,12 @@
     ],
     "mubi": [
       {
+        "title": "MUBI Podcast: Encuentros | “See Where No One Else Can”",
+        "link": "https://mubi.com/en/notebook/posts/mubi-podcast-encuentros-see-where-no-one-else-can",
+        "published": "2026-11-13T22:12:00Z",
+        "description": "In this episode, the conversation explores the relationship between imagination and reality, and the boundary between images and truth. Federico Luis is an Argentine filmmaker who has directed nearly ten documentary and fiction short films. In 2019, he presented La siesta in the Official Short Film Competition at the Cannes Film Festival, a section he recently returned to, winning the Palme d’Or for his documentary Para los contrincantes (2026), filmed in Mexico. In 2024, he premiered his debut feature, Simon of the Mountain , at Cannes Critics’ Week, where it received the Grand Prize. The film subsequently screened at several other international festivals, including San Sebastián, Havana,…"
+      },
+      {
         "title": "Movie Poster of the Week | 7 Questions for 7 Designers",
         "link": "https://mubi.com/en/notebook/posts/movie-poster-of-the-week-7-questions-for-7-designers",
         "published": "2026-11-13T08:00:00Z",
@@ -1288,12 +1294,6 @@
         "link": "https://mubi.com/en/notebook/posts/filmmaker-survey-lance-hammer",
         "published": "2026-11-05T08:00:00Z",
         "description": "Juliette Binoche and Tom Courtenay in Queen at Sea (Lance Hammer, 2026). With Queen at Sea (2026), American filmmaker Lance Hammer returns to direct his second film nearly two decades after his remarkable debut Ballast , which won the Grand Jury and directing awards at Sundance in 2008. Premiering in competition at the Berlin International Film Festival, the new film deservedly took home awards for Hammer’s direction and for actors Anna Calder-Marshall and Tom Courtenay, who play a long-married elderly couple. Leslie (Calder-Marshall), who suffers from dementia, is cared for at home by her husband Martin (Courtenay), who intentionally continues their sexual relationship even after it seems…"
-      },
-      {
-        "title": "Rushes | Panahi Resentenced to Prison, Mann Shoots Own Leg, Patrick Stewart R.I.P.",
-        "link": "https://mubi.com/en/notebook/posts/rushes-panahi-resentenced-to-prison-mann-shoots-own-leg-patrick-stewart-r-i-p",
-        "published": "2026-11-04T08:00:00Z",
-        "description": "Get in touch to send in cinephile news and discoveries. To keep up with our latest features, sign up for the Weekly Edit newsletter and follow us @mubinotebook on X and Instagram . NEWS Once Upon a Time... in Hollywood (Quentin Tarantino, 2019). Jafar Panahi was sentenced in absentia to five years and one month in prison by the Tehran Revolutionary Court , which has also ordered the confiscation of his assets, a two-year travel ban, and a two-year ban on social media activities. Panahi’s lawyer says that his bank accounts were frozen and he has three open cases against him. The Iranian filmmaker’s legal troubles date back to his first imprisonment in 2010. Michael Mann was hospitalized…"
       }
     ],
     "reverseshot": [],
@@ -1545,16 +1545,16 @@
         "description": "I lost my best friend just as motherhood began shaking the very roots of my being - by Ashwaq Masoodi Read on Psyche"
       },
       {
-        "title": "Eye on the mark",
-        "link": "https://psyche.co/portraits/the-ex-cop-on-a-mission-to-see-fortune-tellers-arrested",
-        "published": "2026-11-12T11:00:00Z",
-        "description": "Bob Nygaard, a retired New York policeman, exposes fortune-tellers who profit from turning ordinary human longing into vulnerability. What makes him so good at it? - by Shayla Love Read on Psyche"
-      },
-      {
         "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
         "link": "https://psyche.co/ideas/shunning-people-who-look-homeless-is-an-aesthetic-injustice",
         "published": "2026-11-12T11:00:00Z",
         "description": "Society owes unhoused people access to haircuts, showers and clean clothes, not as charity, but as a matter of justice - by Giacomo Floris Read on Psyche"
+      },
+      {
+        "title": "Eye on the mark",
+        "link": "https://psyche.co/portraits/the-ex-cop-on-a-mission-to-see-fortune-tellers-arrested",
+        "published": "2026-11-12T11:00:00Z",
+        "description": "Bob Nygaard, a retired New York policeman, exposes fortune-tellers who profit from turning ordinary human longing into vulnerability. What makes him so good at it? - by Shayla Love Read on Psyche"
       },
       {
         "title": "Why ‘patient influencers’ should come with a health warning",
@@ -1667,6 +1667,18 @@
     ],
     "nautilus": [
       {
+        "title": "The World’s Largest Marine Turtle Makes a Move South",
+        "link": "https://nautil.us/the-worlds-largest-marine-turtle-makes-a-move-south-1286621/",
+        "published": "2026-11-13T23:00:00Z",
+        "description": "Nesting leatherbacks chase cooler waters to Ecuador’s beaches"
+      },
+      {
+        "title": "Why Sleep Might Not be as Restorative as We Get Older",
+        "link": "https://nautil.us/why-sleep-might-not-be-as-restorative-as-we-get-older-1286631/",
+        "published": "2026-11-13T22:00:00Z",
+        "description": "Our brains need a nightly scrubbing"
+      },
+      {
         "title": "What Public Health Initiatives Looked Like in the Middle Ages",
         "link": "https://nautil.us/what-public-health-initiatives-looked-like-in-the-middle-ages-1286618/",
         "published": "2026-11-13T21:00:00Z",
@@ -1701,18 +1713,6 @@
         "link": "https://nautil.us/you-may-be-able-to-get-43-more-minutes-of-work-done-if-you-change-your-desk-1286594/",
         "published": "2026-11-12T22:00:00Z",
         "description": "It’s time for workers to stand up"
-      },
-      {
-        "title": "The Shapes and Colors of a Near-Death Experience",
-        "link": "https://nautil.us/the-shapes-and-colors-of-a-near-death-experience-1286591/",
-        "published": "2026-11-12T20:30:00Z",
-        "description": "Near-death experiences are more common than many of us might think: Some studies estimate that between four and eight percent of the global population has had one, as have up to 23 percent of cardiac arrest survivors . These journeys into the borderlands of consciousness tend to feature a few common perceptual themes: ghostly figures and bright lights, tunnels, a sense of peace and calm. But questions about the nature of such experiences and how such perceptual phenomena arise abound. Recently, visual artist and neurophenomenology researcher France Lerner and her colleagues asked 50 individuals who reported near-death experiences (NDE) to divide their recollections of them into phases, to…"
-      },
-      {
-        "title": "Was Einstein Seduced by a Russian Honeypot Operation?",
-        "link": "https://nautil.us/was-einstein-seduced-by-a-russian-honeypot-operation-1286587/",
-        "published": "2026-11-12T19:06:20Z",
-        "description": "The physicist had a steamy romance with Margarita Konenkova"
       }
     ],
     "worksinprogress": [],
