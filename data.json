@@ -387,16 +387,40 @@
     "reuters": [],
     "bbc": [
       {
+        "title": "Staggered age of consent to be discussed after Brand case, minister says",
+        "link": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-15T17:15:46Z",
+        "description": "A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relationships between 16-and 17-year-olds and adults made illegal."
+      },
+      {
+        "title": "Man and woman die and four arrested after police pursuit crash in Leeds",
+        "link": "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-15T12:38:28Z",
+        "description": "Four people have been arrested on suspicion of causing death by dangerous driving, police say."
+      },
+      {
         "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
         "link": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss",
         "published": "2026-11-15T06:01:46Z",
         "description": "Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stained room."
       },
       {
-        "title": "Alleged Russell Brand rape victim wants age of consent law changed",
-        "link": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-15T07:19:52Z",
-        "description": "Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent."
+        "title": "Trident submarine returns home after record-breaking undersea patrol",
+        "link": "https://www.bbc.co.uk/news/articles/c32l5ny1r7x9o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-15T17:00:50Z",
+        "description": "Defence Secretary Wes Streeting was at HM Naval Base Clyde to welcome the crew after the longest deployment at sea for a British vessel."
+      },
+      {
+        "title": "Minister backs legal right to job support for young people",
+        "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-15T13:06:15Z",
+        "description": "The work and pensions secretary said the level of support currently on offer was too vague."
+      },
+      {
+        "title": "Tearful McIlroy dedicates record-equalling win to ill dad",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/c6kg7rwmz1g8o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-15T12:14:04Z",
+        "description": "Rory McIlroy wipes away tears as he dedicates his record-equalling eighth Race to Dubai title to his ill father, Gerry."
       },
       {
         "title": "Watch: SpaceX catches part of its Starship rocket on return to Earth",
@@ -405,104 +429,80 @@
         "description": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\"."
       },
       {
-        "title": "Man and woman die in police pursuit crash",
-        "link": "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-15T09:53:11Z",
-        "description": "Four people have been arrested on suspicion of causing death by dangerous driving, police say."
-      },
-      {
-        "title": "Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
-        "link": "https://www.bbc.co.uk/news/articles/cw62p4n3n1xyo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-15T00:09:29Z",
-        "description": "The presenter says she has received a 'five-year clear' after having a hysterectomy in her thirties."
-      },
-      {
-        "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-        "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-15T08:17:41Z",
-        "description": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade."
-      },
-      {
-        "title": "Judo champion shakes up French presidential race with surprise candidacy",
-        "link": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-15T00:06:51Z",
-        "description": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him."
-      },
-      {
-        "title": "How to shake hands and make eye contact: The lessons preparing pupils for the world of work",
-        "link": "https://www.bbc.co.uk/news/articles/cqgm3g7ge1xlo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-15T00:05:56Z",
-        "description": "Year 10 pupils are learning employability skills to reduce the number of young people who end up \"Neet\"."
+        "title": "Iran targets US military base in Bahrain with drone attack",
+        "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-15T13:42:58Z",
+        "description": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz."
       }
     ],
     "aljazeera": [
       {
-        "title": "Polls open in Cape Verde in race with first female presidential candidate",
-        "link": "https://www.aljazeera.com/news/2026/11/15/polls-open-in-cape-verde-in-race-with-first-female-presidential-candidate?traffic_source=rss",
-        "published": "2026-11-15T10:03:02Z",
-        "description": "Joana Rosa and four other opposition candidates face off against President Jose Maria Neves, who wants a second term."
+        "title": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/nearly-1500-migrants-reach-spains-canary-islands-in-one-day?traffic_source=rss",
+        "published": "2026-11-15T17:39:23Z",
+        "description": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day"
       },
       {
-        "title": "Drone attacks on power stations plunge Sudan’s cities into darkness",
-        "link": "https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness?traffic_source=rss",
-        "published": "2026-11-15T09:59:37Z",
-        "description": "Sudan's power stations are being targeted in waves of drone attacks, resulting in power outages."
+        "title": "Morocco becomes first Arab nation in FIFA’s top five men’s rankings",
+        "link": "https://www.aljazeera.com/sports/2026/11/15/morocco-becomes-first-arab-nation-in-fifas-top-five-mens-rankings?traffic_source=rss",
+        "published": "2026-11-15T17:33:03Z",
+        "description": "Morocco moved past former Euro champions Portugal and record World Cup winners Brazil to achieve its best FIFA ranking."
       },
       {
-        "title": "Protesters condemn US policies as ASEAN summit begins in Manila",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/protesters-condemn-us-policies-as-asean-summit-begins-in-manila?traffic_source=rss",
-        "published": "2026-11-15T09:49:43Z",
-        "description": "Southeast Asian leaders arriving in the Philippines for the ASEAN summit have been met with protests."
+        "title": "Yemeni government forces redeploy from Bab al-Mandeb to defend Aden",
+        "link": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden?traffic_source=rss",
+        "published": "2026-11-15T17:33:00Z",
+        "description": "Spokesman for the Southern Armed Forces says group is repositioning from Dhubab airport and areas around Bab al-Mandeb."
       },
       {
-        "title": "Iran says it targets US radar in Bahrain. What do we know?",
-        "link": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss",
-        "published": "2026-11-15T09:41:27Z",
-        "description": "Bahrain Defence Force says its air defence systems thwart several Iranian 'aerial attacks'."
+        "title": "The hidden costs of the US AI boom",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/the-hidden-costs-of-the-us-ai-boom?traffic_source=rss",
+        "published": "2026-11-15T17:24:59Z",
+        "description": "The hidden costs of the US AI boom"
       },
       {
-        "title": "What forced the US to ground all planes? A router switch, we now know",
-        "link": "https://www.aljazeera.com/news/2026/11/15/what-forced-the-us-to-ground-all-planes-a-router-switch-we-now-know?traffic_source=rss",
-        "published": "2026-11-15T09:17:49Z",
-        "description": "US officials say a routine upgrade that went awry caused the mass disruption of air travel."
+        "title": "Somalia: We would not have recovered without the international community",
+        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/15/somalia-we-would-not-have-recovered-without-the-international-community?traffic_source=rss",
+        "published": "2026-11-15T16:47:36Z",
+        "description": "Somalia continues to face al-Shabab rebellion and political friction, leading officials to urge international support."
       },
       {
-        "title": "India pulled 500m people out of poverty. Many of them still barely survive",
-        "link": "https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss",
-        "published": "2026-11-15T08:49:47Z",
-        "description": "World Bank says India pulled a record number of citizens out of poverty, but millions of them still live on the edge."
+        "title": "Spain vs England live: UEFA Nations League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/11/15/live-spain-vs-england-uefa-nations-league?traffic_source=rss",
+        "published": "2026-11-15T16:45:00Z",
+        "description": "Team news , score and live text commentary as England and Spain vie for top spot in final Nations League group game."
       },
       {
-        "title": "Thousands in Portugal protest against surging rental prices",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss",
-        "published": "2026-11-15T08:40:37Z",
-        "description": "Thousands of people across Portugal are angry about rising rental prices, demanding action to end the housing crisis."
+        "title": "Thousands rally in Czech Republic against state media funding changes",
+        "link": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
+        "published": "2026-11-15T16:32:22Z",
+        "description": "Critics say proposed funding changes will give the government more control of state media."
       },
       {
-        "title": "De la Fuente denies racism in Spain despite Yamal, Vinicius avowals",
-        "link": "https://www.aljazeera.com/sports/2026/11/15/de-la-fuente-denies-racism-in-spain-despite-yamal-vinicius-avowals?traffic_source=rss",
-        "published": "2026-11-15T08:29:18Z",
-        "description": "Yamal and Vinicius have publicly said they face racist abuse in Spain, which has faced FIFA punishment over the issue."
+        "title": "British tourist smashes Jesus statue outside Vilnius church",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/british-tourist-smashes-jesus-statue-outside-vilnius-church?traffic_source=rss",
+        "published": "2026-11-15T16:04:22Z",
+        "description": "A man removed a statue of the crucified Jesus from a church in Vilnius and it smashed to the ground."
       }
     ],
     "ft": [
       {
-        "title": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels",
-        "link": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1",
-        "published": "2026-11-15T05:00:04Z",
-        "description": "Shares in AI ‘picks and shovels’ companies hit hard by tech sell-off"
+        "title": "Bessent says Nvidia needs ‘shake-up’ with external CEO",
+        "link": "https://www.ft.com/content/24edbb84-7520-4ef0-a57c-30359e12ccc5?syn-25a6b1a6=1",
+        "published": "2026-11-15T17:15:23Z",
+        "description": "US Treasury secretary demands to know if chipmaker is complying with restrictions on exports to China"
       },
       {
-        "title": "What will Nvidia’s post-Huang era look like?",
-        "link": "https://www.ft.com/content/0e2720d7-ba0a-4469-a854-30931f907bd3",
-        "published": "2026-11-15T05:00:14Z",
-        "description": "The chip company has only itself to blame for a long list of adversaries"
+        "title": "US and allies sign accord to protect AI supply chains from China",
+        "link": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
+        "published": "2026-11-15T17:47:43Z",
+        "description": "Pact comes ahead of Donald Trump’s meeting with Xi Jinping at the Asia-Pacific Economic Cooperation forum in Shenzhen"
       },
       {
-        "title": "Huang’s downfall shows human judgment is not all it’s cracked up to be",
-        "link": "https://www.ft.com/content/f8dffb89-99e3-4e9d-ac62-4eb59da4f007?syn-25a6b1a6=1",
-        "published": "2026-11-15T05:00:04Z",
-        "description": "The quality that sets us apart from machines has been absent during implosion by former Nvidia boss"
+        "title": "Anthropic’s IPO is the next big test for AI",
+        "link": "https://www.ft.com/content/bc8ac781-9837-46de-b7ed-958886ba43af?syn-25a6b1a6=1",
+        "published": "2026-11-15T11:40:44Z",
+        "description": "Even the most powerful frontier labs must bend to the power of public equity"
       },
       {
         "title": "The world according to China",
@@ -517,22 +517,22 @@
         "description": "Footballing president tours the world to shore up support for re-election after backlash to stake sale plan"
       },
       {
-        "title": "One router overload brought US air travel to a standstill",
-        "link": "https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063?syn-25a6b1a6=1",
-        "published": "2026-11-14T22:57:26Z",
-        "description": "Decades of bipartisan neglect have left America’s aviation infrastructure unfit for purpose, say experts"
+        "title": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels",
+        "link": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1",
+        "published": "2026-11-15T05:00:04Z",
+        "description": "Shares in AI ‘picks and shovels’ companies hit hard by tech sell-off"
       },
       {
-        "title": "‘Low fire, low hire’ job market hurts US and UK productivity",
-        "link": "https://www.ft.com/content/44c1fdc6-bc51-46e5-8a7c-c10096a25496?syn-25a6b1a6=1",
-        "published": "2026-11-15T05:00:13Z",
-        "description": "Sluggish rates of hiring, resignations and job-switching may lead to long-term damage, say economists"
+        "title": "Congress moves to pass tighter AI chip export rules following Nvidia scandal",
+        "link": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1",
+        "published": "2026-11-15T11:00:04Z",
+        "description": "Jensen Huang’s alleged affair with Chinese spy ‘increases momentum’ to crack down on US hardware reaching China"
       },
       {
-        "title": "EU banking watchdog veers away from single deposit insurance scheme",
-        "link": "https://www.ft.com/content/016ce22d-1e09-4f1d-a7e6-9acf183e757f?syn-25a6b1a6=1",
-        "published": "2026-11-15T05:00:13Z",
-        "description": "Chair of European Banking Authority working on alternative ways to free up more cross-border lending"
+        "title": "From culture war to class war: US Democrats ditch woke politics",
+        "link": "https://www.ft.com/content/82e2d624-65aa-4a8c-86ec-f99c0ce785ac?syn-25a6b1a6=1",
+        "published": "2026-11-15T11:00:04Z",
+        "description": "The newly emboldened party shifts gears after its sweeping midterm election victory"
       }
     ],
     "restofworld": [
@@ -692,10 +692,16 @@
     "chelsea_sky": [],
     "guardianfootball": [
       {
-        "title": "Spain v England buildup, reaction to Portugal’s post-Ronaldo thrashing, WSL and more – matchday live",
-        "link": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-buildup-wsl-and-more-matchday-live",
-        "published": "2026-11-15T09:59:42Z",
-        "description": "All the latest news from around the footballing world Get in touch: contact our matchday live writers on email We have a huge derby day today. John Brewin will provide you with minute-by-minute coverage of Arsenal v London City Lionesses at 4:30pm. Aston Villa v Brimingham City West Ham v Charlton Arsenal v London City Lionesses Manchester United 2-0 Crystal Palace Chelsea 1-0 Manchester City Tottenham 0-0 Everton Brighton 0-3 Liverpool Continue reading..."
+        "title": "Arsenal v London City Lionesses: Women’s Super League – live",
+        "link": "https://www.theguardian.com/football/live/2026/nov/15/arsenal-v-london-city-lionesses-womens-super-league-live",
+        "published": "2026-11-15T18:08:41Z",
+        "description": "Updates from 4.30pm (GMT) kick-off at the Emirates Stadium Get in touch: email John and follow us on BlueSky Charles Antaki gets in touch: “Renee Slegers under pressure indeed. Arsenal’s form this season has been nothing short of alarming, and there is a distinct danger of failing to qualify for next year’s women’s Champions League. For the moment, for stability’s sake, better that Renee should stay, and not follow the advice of the Four Tops (or, for hipsters, the original Left Banke.” WSL scores this weekend: Manchester United 2-0 Crystal Palace Chelsea 1-0 Manchester City Tottenham 0-0 Everton Brighton 0-3 Liverpool Aston Villa 1-0 Birmingham West Ham 2-0 Charlton Continue reading..."
+      },
+      {
+        "title": "Record-breaking Andy Robertson is Scotland’s finest captain",
+        "link": "https://www.theguardian.com/football/2026/nov/15/record-breaking-andy-robertson-is-scotlands-finest-captain",
+        "published": "2026-11-15T12:00:16Z",
+        "description": "As he passes Kenny Dalglish’s appearance total, it is important to remember that it is the left-back’s journey that sets him apart Andy Robertson may not be Scotland’s greatest player, but he is indisputably their finest captain. It counts as sacrilege, even to generations who have watched Kenny Dalglish only on YouTube, to reputationally place Robertson above the Liverpool hero on the basis of a cap haul that will reach 103 in St Gallen on Monday. Dalglish’s international career ended at 102 and the curious events that meant he missed the 1986 World Cup. There is no requirement to compare a left-back in 2026 to a forward from decades earlier. Dalglish and Robertson are men in different…"
       },
       {
         "title": "Terry Butcher: ‘I’ve learned to live with the Hand of God goal better’",
@@ -704,22 +710,10 @@
         "description": "The former England centre-back answers your questions on Diego Maradona, Bobby Robson and on staying in strange places “Have you made up all these on your own?” asks Terry Butcher, sitting in a London office in the week he is presented with his England legacy cap. It turns out dozens of Guardian readers want to pick the brains of a much-loved centre-back who was feted en route to a World Cup semi-final and tormented four years previously by the mercurial genius of Diego Maradona. Did Maradona ever admit to the “Hand of God”? Butcher found himself in the post-match doping-control room alongside his nemesis at the Azteca in 1986. “I tapped my head, then my hand, and then he tapped his head,”…"
       },
       {
-        "title": "Here Manchester United go again, taking the Two Ronnies route to hiring a new boss | Jonathan Wilson",
-        "link": "https://www.theguardian.com/football/2026/nov/14/here-manchester-united-go-again-taking-the-two-ronnies-route-to-hiring-a-new-boss",
-        "published": "2026-11-14T20:00:53Z",
-        "description": "Mauricio Pochettino’s arrival feels like yet another appointment that would have been better made a few years ago Magnusson: And your time starts ... now! What is paleontology? Smithers: Yes, absolutely correct. Magnusson: What’s the name of the directory that lists members of the peerage? Smithers: A study of old fossils. Magnusson: Correct. Who are Len Murray and Sir Geoffrey Howe? Smithers: Burke’s. Magnusson: Correct. What is the difference between a donkey and an ass? Smithers: One’s a trade union leader, the other’s a member of the Cabinet … One of the Two Ronnies’ most celebrated sketches involves a Mastermind contestant whose specialist subject is answering the previous question.…"
-      },
-      {
-        "title": "Nations League roundup: Portugal mauled by Denmark as Norway sink Wales",
-        "link": "https://www.theguardian.com/football/2026/nov/14/clinical-norway-dent-wales-nations-league-top-tier-hopes-with-victory-in-oslo",
-        "published": "2026-11-14T22:23:39Z",
-        "description": "Portugal thrashed 4-1 at home by Denmark Wales bottom of Group A4 after 3-1 loss Portugal were hammered 4-1 by Denmark on Saturday, an embarrassing Nations League defeat in their first match without Cristiano Ronaldo after his retirement from international football. Rasmus Højlund starred with a superb double as Denmark moved into second place in Group A4 and closed in on a spot in the quarter-finals with an exceptional display in Braga. Continue reading..."
-      },
-      {
-        "title": "AFC Wimbledon, a failed £87m investment bid and the challenge for fan ownership",
-        "link": "https://www.theguardian.com/football/2026/nov/15/afc-wimbledon-a-failed-87m-investment-bid-and-the-challenge-for-fan-ownership",
-        "published": "2026-11-15T08:00:09Z",
-        "description": "Clubs with wealthy proprietors can maintain a loss-making operation but things can be more complex when the supporters carry the can When you walk up from Haydons Road train station to Plough Lane there is a blue AFC Wimbledon billboard that reads “Fan owned football”, directly opposite the site of the old Plough Lane stadium where there are now blocks of flats. There is a memorial to the old Wimbledon FC – a reminder that supporters can often have little say in the running of their club – on the same corner, just up the road from the new Cherry Red Records Stadium. AFC Wimbledon are one of only two majority fan-owned clubs in the EFL – along with Exeter City – but that makes running a…"
+        "title": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown",
+        "link": "https://www.theguardian.com/football/2026/nov/14/declan-rice-england-spain-nations-league-world-cup-thomas-tuchel",
+        "published": "2026-11-14T20:30:00Z",
+        "description": "Midfielder needed a break ‘to come back stronger’ James Trafford selected to start in goal for England Declan Rice has admitted he had an “average” World Cup at the end of a gruelling season and needed time out during the international window in September and October in order to return stronger. The Arsenal midfielder believes the break has served its purpose, having produced starring performances against Bayern Munich and Liverpool in recent weeks . He is now ready to hit his best level for England in Sunday’s Nations League showdown against Spain at the Metropolitano Stadium. Continue reading..."
       },
       {
         "title": "De la Fuente adamant there is no racism in Spain despite England reminder to players",
@@ -728,16 +722,22 @@
         "description": "De la Fuente tells Tuchel ‘we’re not racists, none of us’ Tuchel hits out at media for ‘creating confusion’ Luis de la Fuente has told Thomas Tuchel there is no racism in Spain after the England coach’s admission that he would remind his players of the anti-racism protocol prior to their meeting at the Metropolitano on Sunday night. This will be the first time the countries play each other in Madrid since some of England’s black players were subjected to racist abuse in a match at the Santiago Bernabéu in 2004 . And although England have returned to Spain three times without incident since then, twice in Seville and once in Alicante, Tuchel was asked on Friday about going back in the…"
       },
       {
-        "title": "Chelsea go top of WSL as Sandy Baltimore bullet sees off Manchester City",
-        "link": "https://www.theguardian.com/football/2026/nov/14/chelsea-manchester-city-womens-super-league-match-report",
-        "published": "2026-11-14T15:36:15Z",
-        "description": "Pragmatic, resolute and gutsy. Sonia Bompastor showed her ruthless side and delivered a tactical masterclass as Chelsea earned a 1-0 win over Manchester City and leapfrogged them at the top of the Women’s Super League. Lucy Bronze credited fellow full-back Katie McCabe with firing Chelsea up pre-match, having told them they “had to be dogs” in the game, and a dogged performance followed. Sandy Baltimore’s stunning strike in added time at the end of the first half was the difference as the west London side nullified the threat of a team that had scored in each of their preceding 21 games in all competitions, inflicting their first loss of the campaign. Continue reading..."
+        "title": "AFC Wimbledon, a failed £87m investment bid and the challenge for fan ownership",
+        "link": "https://www.theguardian.com/football/2026/nov/15/afc-wimbledon-a-failed-87m-investment-bid-and-the-challenge-for-fan-ownership",
+        "published": "2026-11-15T08:00:09Z",
+        "description": "Clubs with wealthy proprietors can maintain a loss-making operation but things can be more complex when the supporters carry the can When you walk up from Haydons Road train station to Plough Lane there is a blue AFC Wimbledon billboard that reads “Fan owned football”, directly opposite the site of the old Plough Lane stadium where there are now blocks of flats. There is a memorial to the old Wimbledon FC – a reminder that supporters can often have little say in the running of their club – on the same corner, just up the road from the new Cherry Red Records Stadium. AFC Wimbledon are one of only two majority fan-owned clubs in the EFL – along with Exeter City – but that makes running a…"
       },
       {
-        "title": "Portugal immortalise Cristiano Ronaldo’s No 7 shirt in tribute to national legend",
-        "link": "https://www.theguardian.com/football/2026/nov/14/portugal-immortalise-cristiano-ronaldos-no-7-shirt-in-tribute-to-national-legend",
-        "published": "2026-11-14T19:13:43Z",
-        "description": "Original No 7 design preserved to honour player Career brought 146 goals and three major titles Portugal have made a permanent change to the No 7 shirt to honour the legacy of Cristiano Ronaldo and ensure the number remains forever associated with their greatest footballing icon. The former forward, whose career spanned 23 years and 246 caps in which he scored 146 goals, announced his retirement on 5 November after a falling out with coach Jorge Jesus. His last appearance for Portugal was on 24 September, in a 1-0 home win over Wales in the Nations League. Continue reading..."
+        "title": "Here Manchester United go again, taking the Two Ronnies route to hiring a new boss | Jonathan Wilson",
+        "link": "https://www.theguardian.com/football/2026/nov/14/here-manchester-united-go-again-taking-the-two-ronnies-route-to-hiring-a-new-boss",
+        "published": "2026-11-14T20:00:53Z",
+        "description": "Mauricio Pochettino’s arrival feels like yet another appointment that would have been better made a few years ago Magnusson: And your time starts … now! What is paleontology? Smithers: Yes, absolutely correct. Magnusson: What’s the name of the directory that lists members of the peerage? Smithers: A study of old fossils. Magnusson: Correct. Who are Len Murray and Sir Geoffrey Howe? Smithers: Burke’s. Magnusson: Correct. What is the difference between a donkey and an ass? Smithers: One’s a trade union leader, the other’s a member of the Cabinet … One of the Two Ronnies’ most celebrated sketches involves a Mastermind contestant whose specialist subject is answering the previous question.…"
+      },
+      {
+        "title": "Nations League roundup: Portugal mauled by Denmark as Norway sink Wales",
+        "link": "https://www.theguardian.com/football/2026/nov/14/clinical-norway-dent-wales-nations-league-top-tier-hopes-with-victory-in-oslo",
+        "published": "2026-11-14T22:23:39Z",
+        "description": "Portugal thrashed 4-1 at home by Denmark Wales bottom of Group A4 after 3-1 loss Portugal were hammered 4-1 by Denmark on Saturday, an embarrassing Nations League defeat in their first match without Cristiano Ronaldo after his retirement from international football. Rasmus Højlund starred with a superb double as Denmark moved into second place in Group A4 and closed in on a spot in the quarter-finals with an exceptional display in Braga. Continue reading..."
       }
     ],
     "spielverlagerung": [
@@ -842,6 +842,18 @@
     ],
     "wagnh": [
       {
+        "title": "More minutes for Estêvão with Brazil",
+        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/174051/more-minutes-for-estevao-with-brazil",
+        "published": "2026-11-15T08:50:19Z",
+        "description": "Estêvão logged another hour or so of action at the international level last night, starting for the third time in the last four matches for Carlo Ancelotti. Unfortunately he would be kept off the scoresheet. With his recent involvement at club level, too, the 19-year-old thankfully now does have more minutes for Chelsea than for […]"
+      },
+      {
+        "title": "The Daily Hilario: Sunday",
+        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/174037/the-daily-hilario-november-15th",
+        "published": "2026-11-15T08:06:21Z",
+        "description": "Most Errors POTM"
+      },
+      {
         "title": "Chelsea FCW 1-0 Manchester City WFC, Women’s Super League: Post-match reaction",
         "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/174029/chelsea-fcw-1-0-manchester-city-wfc-womens-super-league-post-match-reaction",
         "published": "2026-11-14T15:30:34Z",
@@ -856,8 +868,8 @@
       {
         "title": "Mike Penders wins Premier League Save of the Month",
         "link": "https://weaintgotnohistory.sbnation.com/premier-league/174010/mike-penders-wins-premier-league-save-of-the-month",
-        "published": "2026-11-14T08:27:33Z",
-        "description": "Mike Penders’ save against Bryan Mbeumo, which helped preserve our 2-0 victory against Manchester United at the Stamford Bridge, has been named the Premier League’s Save of the Month for October. It was a rather unbelievable save … in every sense of that word. There was no way anyone could’ve gotten a hand to that […]"
+        "published": "2026-11-15T05:26:29Z",
+        "description": "Mike Penders’ save against Bryan Mbeumo, which helped preserve our 2-0 victory against Manchester United at Stamford Bridge, has been named the Premier League’s Save of the Month for October. It was a rather unbelievable save … in every sense of that word. There was no way anyone could’ve gotten a hand to that shot. […]"
       },
       {
         "title": "Moisés Caicedo scores for Ecuador",
@@ -876,18 +888,6 @@
         "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-women/173986/chelsea-fcw-vs-manchester-city-wfc-womens-super-league-preview-team-news-how-to-watch",
         "published": "2026-11-13T23:22:23Z",
         "description": "Chelsea Women welcome reigning champions Manchester City to Stamford Bridge this weekend, with both teams still unbeaten in the Women’s Super League. Our finishing touch has deserted us in recent matches, however, and City arrive in excellent form, led by a Khadija Shaw who seemingly cannot stop scoring. Date / Time: Saturday, November 14, 2026, […]"
-      },
-      {
-        "title": "The Daily Hilario: Friday",
-        "link": "https://weaintgotnohistory.sbnation.com/bobby-ramblings/173965/the-daily-hilario-november-13th",
-        "published": "2026-11-13T08:14:03Z",
-        "description": "Record Oof Hmm"
-      },
-      {
-        "title": "Morgan Rogers scores for England; defends for Cole Palmer",
-        "link": "https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/173969/morgan-rogers-scores-for-england-defends-for-cole-palmer",
-        "published": "2026-11-13T02:45:13Z",
-        "description": "England played Croatia yesterday for what seems like the umpteenth time in the last few months, and just like on the previous occasions, the Three Lions triumphed, though this time only by a narrow, 2-1 scoreline. Still, a win’s a win, and Morgan Rogers still managed to find himself among the goals, scoring his third […]"
       }
     ],
     "rym": [],
@@ -995,22 +995,28 @@
     "residentadvisor": [],
     "aquariumdrunkard": [
       {
+        "title": "Radio Free Aquarium Drunkard :: November 2026",
+        "link": "https://aquariumdrunkard.com/2026/11/15/radio-free-aquarium-drunkard-november-2026/",
+        "published": "2026-11-15T12:15:00Z",
+        "description": "Freeform transmissions from Radio Free Aquarium Drunkard on dublab. Airing every third Sunday of the month, RFAD on dublab features Tyler Wilcox bringing you two hours of sweet sounds old and new. This month, the first hour is an autumnal selection of classic britfolk instrumental situations. The second hour provides a small/awesome sampling of live performances drawn from the ongoing and immense Aadam Jacobs Archives project. Sunday, 4-6pm PT."
+      },
+      {
         "title": "Marshall Crenshaw :: The Aquarium Drunkard Interview",
         "link": "https://aquariumdrunkard.com/2026/11/13/marshall-crenshaw-the-aquarium-drunkard-interview/",
         "published": "2026-11-13T13:56:58Z",
         "description": "With his crystal clear voice and keen melodic sensibility, Marshall Crenshaw stands as one of the finest rock songwriters going. His latest collection, The Bootleg Sounds of Marshall Crenshaw: 1984-1987 , offers a peek into his process. Culled from his extensive archives, the record brings together unreleased demos, live cuts, and unheard studio recordings captured in the lead up to his third and fourth LPs, 1985's Downtown and 1987's Mary Jean & 9 Others . Full of scuffed up, lo-fi charm, it's a testament to Crenshaw that even his rough drafts feel like brillant slices of pop rock."
       },
       {
-        "title": "Habibi Funk 035 :: Beirut City Pop",
-        "link": "https://aquariumdrunkard.com/2026/11/12/habibi-funk-035-beirut-city-pop/",
-        "published": "2026-11-12T14:00:00Z",
-        "description": "In a departure from the usual template of old photos of the artists, the cover of Habibi Funk’s latest reissue features an illustration by Beirut-born, Paris-based artist Raphaelle Macaron. Poolside beach chairs sit empty on the patio of a luxurious apartment complex at dusk, separated by red, rocky terrain from the city skyline in the background. Cool purples, pinks and blues saturate the scene in a clear nod to the style of Hiroshi Nagai, whose work graces the covers of Light in the Attic’s Pacific Breeze City Pop compilations of funk, soul and AOR from 1980’s Japan. But while the references in the album’s title and cover art lovingly highlight the parallels with the City Pop era, the…"
-      },
-      {
         "title": "Linus + Bonnie ‘Prince’ Billy :: The Outsider: The Music of Jules Decorte",
         "link": "https://aquariumdrunkard.com/2026/11/12/linus-bonnie-prince-billy-the-outsider-the-music-of-jules-decorte/",
         "published": "2026-11-12T14:00:00Z",
         "description": "Three oddly-shaped pieces come together in the most natural way in this under-the-radar release from Bonnie ‘Prince’ Billy. The disc reconfigures the work of blind Dutch songwriter Jules de Corte, an outsider artist who wrote and recorded over 3,000 songs during his lifetime. This is not what you’d call a natural fit. De Corte’s songs are quick and witty and cerebral, more like cabaret or art song than BPB’s mournful Americana. Yet the two artists share an unconventional spirituality; there’s real searching in De Corte’s cleverly put together tunes."
+      },
+      {
+        "title": "Habibi Funk 035 :: Beirut City Pop",
+        "link": "https://aquariumdrunkard.com/2026/11/12/habibi-funk-035-beirut-city-pop/",
+        "published": "2026-11-12T14:00:00Z",
+        "description": "In a departure from the usual template of old photos of the artists, the cover of Habibi Funk’s latest reissue features an illustration by Beirut-born, Paris-based artist Raphaelle Macaron. Poolside beach chairs sit empty on the patio of a luxurious apartment complex at dusk, separated by red, rocky terrain from the city skyline in the background. Cool purples, pinks and blues saturate the scene in a clear nod to the style of Hiroshi Nagai, whose work graces the covers of Light in the Attic’s Pacific Breeze City Pop compilations of funk, soul and AOR from 1980’s Japan. But while the references in the album’s title and cover art lovingly highlight the parallels with the City Pop era, the…"
       },
       {
         "title": "The Aquarium Drunkard Show: SIRIUS/XMU (7pm PST, Channel 35)",
@@ -1035,12 +1041,6 @@
         "link": "https://aquariumdrunkard.com/2026/11/11/hiroshi-yoshimura-quiet-forest/",
         "published": "2026-11-11T08:54:08Z",
         "description": "With no deceleration in sight, the 2020s have thus far been the decade of Kankyō Ongaku pioneer Hiroshi Yoshimura. 1996's Quiet Forest , the musician's final offering, is another gem in a slew of reissues courtesy of tireless label Temporal Drift. The Hoh Rainforest is the setting here, as Yoshimura interprets the terrain with his singular approach: superimposed synth soundscapes that contagiously mirror the greenery and precipitation: fluttering new age soundscapes as opulent as they are evocative."
-      },
-      {
-        "title": "Ronnie Self :: The Lost Sessions",
-        "link": "https://aquariumdrunkard.com/2026/11/10/ronnie-self-the-lost-sessions/",
-        "published": "2026-11-10T14:00:00Z",
-        "description": "Best remembered for the unhinged rockabilly of “Bop-a-Lena” and Brenda Lee’s “I’m Sorry,” Ronnie Self spent much of his later career writing songs that went largely unheard. The Lost Sessions , a collection of seventeen recordings from that period, finds him somewhere between country, folk-rock, and the lonely hours of the night. A long-overdue glimpse of the songwriter behind the legend."
       }
     ],
     "bandcampdaily": [
@@ -1254,7 +1254,7 @@
         "description": "In this episode, the conversation explores the relationship between imagination and reality, and the boundary between images and truth. Federico Luis is an Argentine filmmaker who has directed nearly ten documentary and fiction short films. In 2019, he presented La siesta in the Official Short Film Competition at the Cannes Film Festival, a section he recently returned to, winning the Palme d’Or for his documentary Para los contrincantes (2026), filmed in Mexico. In 2024, he premiered his debut feature, Simon of the Mountain , at Cannes Critics’ Week, where it received the Grand Prize. The film subsequently screened at several other international festivals, including San Sebastián, Havana,…"
       },
       {
-        "title": "Movie Poster of the Week | 7 Questions for 7 Designers",
+        "title": "Movie Poster of the Week | Seven Questions for Seven Designers",
         "link": "https://mubi.com/en/notebook/posts/movie-poster-of-the-week-7-questions-for-7-designers",
         "published": "2026-11-13T08:00:00Z",
         "description": "Drusilla Adeline’s poster-filled office. In the nearly two decades that I’ve been writing Movie Poster of the Week, it’s been my greatest pleasure to get to know working graphic designers and illustrators from all over the world. Some I’ve interviewed for this column and some I’ve met in person and am honored to call friends. And though I’ve asked a number of them over the years to select their ten favorite movie posters of all time, there have always been other burning questions I’ve been dying to ask. Therefore I’m inaugurating a new occasional series where I ask seven contemporary movie poster designers seven simple questions about their work, their influences, and the state of the…"
@@ -1667,6 +1667,18 @@
     ],
     "nautilus": [
       {
+        "title": "A Dead Star Is Flashing Radio Waves Every 8 Minutes",
+        "link": "https://nautil.us/a-dead-star-is-flashing-radio-waves-every-8-minutes-1286645/",
+        "published": "2026-11-15T15:00:00Z",
+        "description": "And its partner looks a lot like the Sun"
+      },
+      {
+        "title": "How Wealth Inequality Emerged in This Prehistoric Culture",
+        "link": "https://nautil.us/how-wealth-inequality-emerged-in-this-prehistoric-culture-1286642/",
+        "published": "2026-11-15T13:00:00Z",
+        "description": "The graves tell a story of growing inequality"
+      },
+      {
         "title": "Giant, Fruit-Eating Bats Are Shrinking",
         "link": "https://nautil.us/giant-fruit-eating-bats-are-shrinking-1286637/",
         "published": "2026-11-14T15:00:00Z",
@@ -1701,18 +1713,6 @@
         "link": "https://nautil.us/when-envy-is-a-virtue-1286615/",
         "published": "2026-11-13T19:00:00Z",
         "description": "Can this “deadly sin” help cultivate a constructive drive to better ourselves?"
-      },
-      {
-        "title": "Some Antidepressants May Work Better Than Others Long Term",
-        "link": "https://nautil.us/some-antidepressants-may-work-better-than-others-long-term-1286607/",
-        "published": "2026-11-13T17:00:00Z",
-        "description": "But does that mean these are the best antidepressants?"
-      },
-      {
-        "title": "Watch Norway’s Lice-Zapping Robots Protect Salmon Farms",
-        "link": "https://nautil.us/watch-norways-lice-zapping-robots-protect-salmon-farms-1286604/",
-        "published": "2026-11-13T15:00:00Z",
-        "description": "I bet that feels good for the salmon"
       }
     ],
     "worksinprogress": [],
