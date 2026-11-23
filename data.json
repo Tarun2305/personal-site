@@ -387,10 +387,34 @@
     "reuters": [],
     "bbc": [
       {
-        "title": "COP31 climate talks fail to reach major deal amid deep divisions",
+        "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
         "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-22T18:17:59Z",
-        "description": "COP31 climate talks fail to make breakthrough on tackling climate change after a row about mentioning fossil fuels."
+        "published": "2026-11-23T00:50:35Z",
+        "description": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels"
+      },
+      {
+        "title": "What's next after no deal at COP31 climate talks?",
+        "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-22T18:57:24Z",
+        "description": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end."
+      },
+      {
+        "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+        "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-22T22:49:10Z",
+        "description": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\"."
+      },
+      {
+        "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
+        "link": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-23T00:49:22Z",
+        "description": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS."
+      },
+      {
+        "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+        "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-22T23:53:45Z",
+        "description": "Six people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building."
       },
       {
         "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
@@ -401,108 +425,84 @@
       {
         "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
         "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-22T17:16:47Z",
+        "published": "2026-11-22T20:28:09Z",
         "description": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia."
       },
       {
-        "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-        "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-22T17:57:43Z",
-        "description": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region."
-      },
-      {
-        "title": "RAF's next fighter jet could be last crewed combat plane, air chief says",
-        "link": "https://www.bbc.co.uk/news/articles/c68x08nzpk9no?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-22T14:19:06Z",
-        "description": "The head of the RAF said AI-enabled and uncrewed aircrafts are expected to start flying in UK airspace next year."
-      },
-      {
-        "title": "Russell Brand's wife says she'll honour prison rules after message row",
-        "link": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-22T16:51:57Z",
-        "description": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband."
-      },
-      {
-        "title": "BBC apologises after noise disruption during Strictly",
-        "link": "https://www.bbc.co.uk/news/videos/ck782j066elvo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-22T13:46:00Z",
-        "description": "Strictly Come Dancing judge Motsi Mabuse was giving feedback to Delta Goodrem when she paused after the sound started playing."
-      },
-      {
-        "title": "How a teen gamer and his mother helped rescue a missing girl",
-        "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-22T00:09:58Z",
-        "description": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping."
+        "title": "Will it snow this week? Mild Atlantic air collides with cold air across the UK",
+        "link": "https://www.bbc.co.uk/weather/articles/c5dj1l21w9pmo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-23T00:40:36Z",
+        "description": "A battle ground is becoming established across the UK, milder air across the southwest and cold arctic air elsewhere"
       }
     ],
     "aljazeera": [
       {
-        "title": "Civilians killed in RSF drone strikes in Sudan",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss",
-        "published": "2026-11-22T18:12:07Z",
-        "description": "Several civilians have been killed and several buildings damaged in drone strikes by Sudan’s Rapid Support Forces."
+        "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+        "link": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
+        "published": "2026-11-23T00:39:51Z",
+        "description": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at 'grave risk', WHO warns."
       },
       {
-        "title": "Suspected drone attack causes explosion on Russian ship in Libya",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss",
-        "published": "2026-11-22T18:11:30Z",
-        "description": "A Russian ship has been struck in a suspected drone attack while docked at Libya’s Benghazi naval base."
+        "title": "South Korea’s stock market tumbles as AI bubble fears mount",
+        "link": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
+        "published": "2026-11-23T00:18:03Z",
+        "description": "The Kospi falls more than 3 percent as markets across the region brace for losses."
       },
       {
-        "title": "UN climate talks collapse without a deal",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/un-climate-talks-collapse-without-a-deal?traffic_source=rss",
-        "published": "2026-11-22T18:04:25Z",
-        "description": "The longest UN climate summit in history ended without a deal in Turkiye, the first such failure since 2009."
+        "title": "Cameroon’s ex-rebels caught between hiding and broken promises",
+        "link": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss",
+        "published": "2026-11-23T00:03:30Z",
+        "description": "Cameroon’s former rebels face arrest fears and failed reintegration."
       },
       {
-        "title": "Cox’s Bazar: Rohingya Life in Exile",
-        "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/22/coxs-bazar-rohingya-life-in-exile?traffic_source=rss",
-        "published": "2026-11-22T18:02:06Z",
-        "description": "Rohingya families face hunger, loss and an uncertain future during Ramadan."
+        "title": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
+        "published": "2026-11-22T23:59:22Z",
+        "description": "Iran's navy claims tankers contravening its rules were set ablaze, while the IRGC said 'enemies' sought to stoke unrest."
       },
       {
-        "title": "Virginia reports first measles-linked death of 2026 in child younger than 5",
-        "link": "https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5?traffic_source=rss",
-        "published": "2026-11-22T18:00:00Z",
-        "description": "The death comes within days of health experts stripping the US of its measles elimination status, amid uptick in cases."
+        "title": "Mystery of the red stream in Turkiye",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/mystery-of-the-red-stream-in-turkiye?traffic_source=rss",
+        "published": "2026-11-22T23:57:58Z",
+        "description": "The Degirmendere Stream in Rize, Turkiye has turned red and prompted investigations by local authorities."
       },
       {
-        "title": "India-Pakistan cricket rivalry brings World Cup atmosphere to Qatar",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/india-pakistan-cricket-rivalry-brings-world-cup-atmosphere-to-qatar?traffic_source=rss",
-        "published": "2026-11-22T17:46:32Z",
-        "description": "India and Pakistan’s A teams meet at the Asia Cup Rising Stars. The packed stands show the rivalry remains as intense."
+        "title": "Lion on the loose in Turkiye sparks fear among residents",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/lion-on-the-loose-in-turkiye-sparks-fear-among-residents?traffic_source=rss",
+        "published": "2026-11-22T23:40:48Z",
+        "description": "Lion on the loose in Turkiye sparks fear among residents"
       },
       {
-        "title": "Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base",
-        "link": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
-        "published": "2026-11-22T17:12:48Z",
-        "description": "There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack."
+        "title": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
+        "link": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss",
+        "published": "2026-11-22T23:22:59Z",
+        "description": "Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader."
       },
       {
-        "title": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
-        "published": "2026-11-22T16:50:48Z",
-        "description": "Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday."
+        "title": "Trump to host private dinner for largest owners of his meme coin",
+        "link": "https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin?traffic_source=rss",
+        "published": "2026-11-22T22:37:38Z",
+        "description": "Sunday's dinner is the third event for top holders of the $Trump meme coin, launched shortly before his inauguration."
       }
     ],
     "ft": [
       {
-        "title": "Bessent refuses to rule out Huang’s return to Nvidia",
-        "link": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
-        "published": "2026-11-22T18:11:01Z",
-        "description": "Treasury secretary says it depends ‘where the buck stops’ as US president and key tech leaders call for former chief’s reinstatement"
+        "title": "House Democrats to start new Congress with largest majority this century",
+        "link": "https://www.ft.com/content/9d2983a7-196d-4164-a0c1-e262f32fd8c9?syn-25a6b1a6=1",
+        "published": "2026-11-22T22:10:45Z",
+        "description": "Lawmakers plan to use powers to investigate claims of corruption levelled at Trump administration"
       },
       {
-        "title": "Did Anthropic and its bankers get a key call wrong after IPO?",
-        "link": "https://www.ft.com/content/d501198c-14a4-4b96-8880-c3997545902e",
+        "title": "Democrats will seek to unwind Trump’s tax and tariff policies",
+        "link": "https://www.ft.com/content/8af97161-2ae0-4655-9f8b-a560f9227359?syn-25a6b1a6=1",
         "published": "2026-11-22T11:00:05Z",
-        "description": "Share price weakness raises questions about hasty exercise of ‘greenshoe’ option to issue more stock"
+        "description": "Top lawmaker Richard Neal vows hearings into the president’s flagship economic measures"
       },
       {
-        "title": "A rocky road to Irish unity",
-        "link": "https://www.ft.com/content/4d467ab8-00a7-4937-8775-30a42a00131f?syn-25a6b1a6=1",
-        "published": "2026-11-22T05:00:14Z",
-        "description": "Dublin’s initiative shines a light on obstacles to, as well as arguments for, a united Ireland"
+        "title": "The American dream of home ownership recedes as mortgage rates surge",
+        "link": "https://www.ft.com/content/168a7d3f-6e70-44da-9860-623bcf4fc023?syn-25a6b1a6=1",
+        "published": "2026-11-22T11:00:06Z",
+        "description": "Donald Trump pledged to lower homeowners’ borrowing costs to 3% but the benchmark rate has surged to over 7%"
       },
       {
         "title": "COP31 climate talks fail after stand-off over fossil fuels",
@@ -511,10 +511,10 @@
         "description": "Geopolitical divides laid bare in fracture between Arab group and EU-led coalition"
       },
       {
-        "title": "FTSE 100 catering giant Compass plans to move main listing to New York",
-        "link": "https://www.ft.com/content/7b48ea5e-6372-4bb7-ae5c-8b7ddd020883?syn-25a6b1a6=1",
-        "published": "2026-11-22T18:28:00Z",
-        "description": "£43bn group set to announce intention to move as soon as Tuesday"
+        "title": "Bessent refuses to rule out Huang’s return to Nvidia",
+        "link": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
+        "published": "2026-11-22T19:08:31Z",
+        "description": "Treasury secretary says it depends ‘where the buck stops’ as US president calls for former chief’s reinstatement"
       },
       {
         "title": "Sanctioned Russian vessel attacked by drones near Finland",
@@ -523,16 +523,10 @@
         "description": "Finland’s prime minister says ‘war is spilling over into our immediate vicinity’ as ship is salvaged"
       },
       {
-        "title": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
-        "link": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1",
-        "published": "2026-11-22T05:00:06Z",
-        "description": "Dell, HPE, Lenovo and Supermicro demand more for equipment, with the increased costs hitting trading firms"
-      },
-      {
-        "title": "Nscale slows hiring and curtails spending ahead of planned $35bn IPO",
-        "link": "https://www.ft.com/content/98f5aa90-5581-45ed-8e9b-d72217c56df8",
-        "published": "2026-11-22T11:32:52Z",
-        "description": "UK data centre operator pauses hiring for all but critical roles"
+        "title": "Delta flight delays add to concerns about US air travel systems",
+        "link": "https://www.ft.com/content/14566557-3f63-4eeb-b589-6cb1144dc918?syn-25a6b1a6=1",
+        "published": "2026-11-22T19:25:06Z",
+        "description": "FAA says technical problems at airline’s Atlanta hub are not related to countrywide outage this month"
       }
     ],
     "restofworld": [
@@ -647,12 +641,6 @@
         "description": "Julien Laurens says Chelsea need to improve their tactics, set up and use of Palmer"
       },
       {
-        "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
-        "link": "https://www.bbc.co.uk/sport/videos/c3vg27y5ljd7o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-22T13:31:07Z",
-        "description": "Leeds dominate Chelsea for first Stamford Bridge win since 1999 in 4-1 victory"
-      },
-      {
         "title": "Chelsea have shown no progression under Alonso - Shearer",
         "link": "https://www.bbc.co.uk/sport/football/videos/cqy7r0eg2y05o?at_medium=RSS&at_campaign=rss",
         "published": "2026-11-21T23:28:58Z",
@@ -687,21 +675,27 @@
         "link": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
         "published": "2026-11-20T22:36:35Z",
         "description": "American football great Tom Brady is looking to invest in Chelsea through ownership group Clearlake Capital."
+      },
+      {
+        "title": "Chelsea fined £150,000 for discriminatory chanting",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cwyvde0n8zqyo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-20T17:52:50Z",
+        "description": "Chelsea are fined £150,000 by the FA for anti-Catholic and anti-Irish chants during their FA Cup third-round win at Charlton in January."
       }
     ],
     "chelsea_sky": [],
     "guardianfootball": [
       {
-        "title": "Liverpool hand Pochettino nightmare Manchester United start after Yoro sees red",
-        "link": "https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
-        "published": "2026-11-22T18:35:14Z",
-        "description": "Green shoots of recovery have lasted longer in a blast-furnace than in the Mauricio Pochettino era at Manchester United. On another abysmal Anfield day for the fallen giants of Manchester, Pochettino’s debut descended into an ordeal after merely eight minutes when Leny Yoro was sent off for denying Alexander Isak a clear goalscoring opportunity. Liverpool would not be denied anything else. Andoni Iraola indulged in his first fist-pumps towards the Kop after a comfortable, utterly dominant win peppered by Rio Ngumoha and Florian Wirtz brilliance plus goals from Dominik Szoboszlai, Victor Muñoz and the two creative forces. “Poch is at the wheel” was the mocking, merciless soundtrack that…"
+        "title": "‘It’s painful for me’: Pochettino criticises Yoro red card in Anfield humiliation",
+        "link": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-manchester-united-reign-begins-with-anfield-humiliation-liverpool",
+        "published": "2026-11-22T21:31:03Z",
+        "description": "Manchester United lose 4-0 to Liverpool after early red Argentinian suffers club’s joint-heaviest debut defeat Mauricio Pochettino argued that Leny Yoro was wrongly sent off and that Manchester United were earlier denied a penalty against Liverpool after suffering the joint-heaviest debut defeat in the club’s history. Liverpool’s emphatic 4-0 win ensured Pochettino equalled Lal Hilditch’s unwanted record from 1926 of losing his first United game by such a scoreline. United’s 34 goals conceded across all competitions this season are the most by any team in European football’s top five leagues. Continue reading..."
       },
       {
-        "title": "McBurnie’s added-time double snatches win for Hull to shock 10-man Brighton",
-        "link": "https://www.theguardian.com/football/2026/nov/22/hull-brighton-premier-league-match-report",
-        "published": "2026-11-22T16:10:48Z",
-        "description": "For all the talk of Brighton being the unlikeliest of title contenders this season, these are perhaps the afternoons which show the margin that still exists, and how the Premier League can provide the most punishing of wake-up calls at any moment. Make no mistake about it, Fabian Hürzeler’s side will play far worse than this over the next few months and win. How they left Hull without even a solitary point almost defies belief given the dominance they enjoyed for large parts of this contest. But for all the statement victories and the headline-grabbing moments , these games are the ones which can trip you up the most. Continue reading..."
+        "title": "Pochettino’s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson",
+        "link": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-matthijs-de-ligt-harry-maguire-manchester-united-liverpool-premier-league",
+        "published": "2026-11-22T20:58:35Z",
+        "description": "Decision to pick the Dutch defender over Harry Maguire backfired as Manchester United fell apart in the Anfield bearpit Chaotic, bewildering, and on this evidence in a relegation dogfight: welcome to the three‑ring circus that is Manchester United, Mauricio Pochettino. This ended as a 4-0 rout in favour of Liverpool, the new head coach overseeing the poorest opening result of the eight who have followed Sir Alex Ferguson since May 2013. Factor in this result coming against United’s fiercest rivals and Pochettino’s despair is complete. Continue reading..."
       },
       {
         "title": "Manchester City’s WSL title bid hit by Spurs after Vinberg and Naz’s late double",
@@ -710,34 +704,34 @@
         "description": "This most unpredictable and evenly contested Women’s Super League campaign took another unexpected twist as Manchester City missed the chance to return to the top of the table as they suffered a second successive defeat, by virtue of a terrific performance from a Tottenham side who moved within three points of the European places. The shock result came just 24 hours after City’s title rivals Chelsea had dropped points at Liverpool. It was the first time City had failed to win a home league match during Andrée Jeglertz’s 16 months in charge, let alone lose. Continue reading..."
       },
       {
-        "title": "‘Obviously it’s not good’: Arteta sweating over David Raya’s fitness after injury",
-        "link": "https://www.theguardian.com/football/2026/nov/21/david-raya-shoulder-injury-arsenal-newcastle-mikel-arteta",
-        "published": "2026-11-21T21:48:21Z",
-        "description": "Keeper close to tears at Newcastle after hurting shoulder Arsenal held 2-2, with Jaissle hailing ‘excellent’ display Arsenal were left sweating on the fitness of their goalkeeper David Raya after the Spaniard was forced off with a shoulder injury during the second half of the 2-2 draw at Newcastle on Saturday evening. It left Mikel Arteta’s side six points clear of Brighton and Manchester City at the top of the Premier League but Arsenal’s manager was more concerned about Raya following an accidental collision with Newcastle’s William Osula. The Spaniard was helped off in evident pain and looked close to tears. Continue reading..."
+        "title": "European football: Barcelona roar back from two goals down to sink Villarreal",
+        "link": "https://www.theguardian.com/football/2026/nov/22/european-football-barcelona-villarreal-juventus-milan-inter",
+        "published": "2026-11-22T22:20:43Z",
+        "description": "Barça prevail 3-2 despite Lamine Yamal’s missed penalty Atalanta snatch point in thrilling 4-4 draw with Inter Barcelona came back from two goals behind to beat Villarreal 3-2 at home on Sunday and restore their three-point lead at the top of La Liga. Two goals inside seven minutes from Tajon Buchanan and Tani Oluwaseyi gave Villarreal a commanding lead at Camp Nou and things got worse for Barça when winger Lamine Yamal missed a first-half penalty. Continue reading..."
+      },
+      {
+        "title": "McBurnie’s added-time double snatches win for Hull to shock 10-man Brighton",
+        "link": "https://www.theguardian.com/football/2026/nov/22/hull-brighton-premier-league-match-report",
+        "published": "2026-11-22T16:10:48Z",
+        "description": "Amid the talk of Brighton being surprise title contenders this season, these are perhaps the afternoons which show the margin that still exists, and how the Premier League can provide the most punishing of wake-up calls at any moment. Make no mistake about it, Fabian Hürzeler’s side will play far worse than this over the next few months and win. They are still second in the table. How they left Hull without even a point almost defies belief given the dominance they enjoyed for large parts of the contest. But for all the statement victories and the headline-grabbing moments , these games are the ones which can trip you up the most. Continue reading..."
       },
       {
         "title": "Blackburn earn derby draw for Mowbray and extend Burnley’s wait for home win",
         "link": "https://www.theguardian.com/football/2026/nov/22/burnley-blackburn-championship-match-report",
         "published": "2026-11-22T15:12:24Z",
-        "description": "Todd Cantwell’s penalty earned Blackburn a 2-2 draw at Burnley in their first match since head coach Tony Mowbray stepped back because of health issues. In a gripping, physical East Lancashire derby, the home side led twice, through Largie Ramazani’s rising first-half drive and Jaydon Banel’s steered finish after the break. But Andri Gudjohnsen scored Blackburn’s first equaliser, then earned the penalty which Cantwell converted. Continue reading..."
+        "description": "Todd Cantwell’s penalty earned Blackburn a 2-2 draw at Burnley in their first match since Tony Mowbray stepped back because of health issues. In a gripping, physical East Lancashire derby, the home side led twice, through Largie Ramazani’s rising first-half drive and Jaydon Banel’s steered finish after the break. But Andri Gudjohnsen scored Blackburn’s first equaliser, then earned the penalty which Cantwell converted. Continue reading..."
       },
       {
-        "title": "European football: Barcelona roar back from two goals down to sink Villarreal",
-        "link": "https://www.theguardian.com/football/2026/nov/22/european-football-barcelona-villarreal-juventus-milan-inter",
-        "published": "2026-11-22T16:53:47Z",
-        "description": "Barça prevail 3-2 despite Lamine Yamal’s missed penalty Juventus put four past Venezia, Paris FC climb to second Barcelona came back from two goals behind to beat Villarreal 3-2 at home on Sunday and restore their three-point lead at the top of La Liga. Two goals inside seven minutes from Tajon Buchanan and Tani Oluwaseyi gave Villarreal a commanding lead at Camp Nou, and things got worse for Barça when winger Lamine Yamal missed a first-half penalty. Continue reading..."
+        "title": "Robins ‘aims for the stars’ as Stoke dream of Premier League return",
+        "link": "https://www.theguardian.com/football/2026/nov/22/mark-robins-stoke-birmingham-championship-premier-league-promotion",
+        "published": "2026-11-22T08:00:22Z",
+        "description": "The Championship’s form side climbed to second after holding on resiliently with 10 men to knock Birmingham off the summit There have been false dawns before. Plenty of them. This time last year, with Christmas on the near horizon, Stoke sat second in the Championship table and were beginning to wonder whether they might allow themselves to dream. So hopeless was their subsequent run that by the onset of spring they were forced to consider a potential relegation fight. Experience has taught the benefit of pragmatism, so no one will be getting ahead of themselves just yet. But this weekend was supposed to be the big test for Mark Robins’s team and few considered they would pass it quite so…"
       },
       {
-        "title": "Lionel Messi at center of red-card controversy as Inter Miami face early MLS playoff exit",
-        "link": "https://www.theguardian.com/football/2026/nov/21/lionel-messi-red-card-controversy-inter-miami-columbus-crew-mls-playoffs",
-        "published": "2026-11-22T03:01:55Z",
-        "description": "Messi booked for throwing ball into opponent’s face Columbus coach insists Argentine deserved red card Defending champions thrashed 3-0 in series opener Columbus Crew coach Laurent Courtois said Lionel Messi should have been sent off after throwing a ball into an opponent’s face as Inter Miami crashed to a 3-0 defeat in the MLS Cup playoffs on Saturday. Messi’s frustration boiled over on the stroke of half-time when he hurled a throw-in into the face of Columbus forward Gonzalo Tapia, with 10-man Miami trailing 1-0 at the time. Continue reading..."
-      },
-      {
-        "title": "Teenage ace Williams-Barnett puts Tottenham on path to win over Ipswich",
-        "link": "https://www.theguardian.com/football/2026/nov/21/tottenham-ipswich-premier-league-match-report",
-        "published": "2026-11-21T16:58:31Z",
-        "description": "Not since the emergence of a certain Harry Kane has there been this much excitement about a player from Tottenham’s academy. On his first senior start, Luca Williams-Barnett showed just why as the 18-year-old became their youngest Premier League goalscorer since Gareth Bale in 2007 before teeing up Dominic Solanke with a mesmerising and match-winning assist against Ipswich. That made it four league victories from their last five matches for Roberto De Zerbi’s side and the Italian could only have enjoyed the view from the stands as he served his one-match touchline ban. Tottenham have struggled to match their London rivals Arsenal and Chelsea’s record of producing homegrown players in…"
+        "title": "‘Obviously it’s not good’: Arteta sweating over David Raya’s fitness after injury",
+        "link": "https://www.theguardian.com/football/2026/nov/21/david-raya-shoulder-injury-arsenal-newcastle-mikel-arteta",
+        "published": "2026-11-21T21:48:21Z",
+        "description": "Keeper close to tears at Newcastle after hurting shoulder Arsenal held 2-2, with Jaissle hailing ‘excellent’ display Arsenal were left sweating on the fitness of their goalkeeper David Raya after the Spaniard was forced off with a shoulder injury during the second half of the 2-2 draw at Newcastle on Saturday evening. It left Mikel Arteta’s side six points clear of Brighton and Manchester City at the top of the Premier League but Arsenal’s manager was more concerned about Raya following an accidental collision with Newcastle’s William Osula. The Spaniard was helped off in evident pain and looked close to tears. Continue reading..."
       }
     ],
     "spielverlagerung": [
@@ -1575,10 +1569,10 @@
         "description": "I lost my best friend just as motherhood began shaking the very roots of my being - by Ashwaq Masoodi Read on Psyche"
       },
       {
-        "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
-        "link": "https://psyche.co/ideas/shunning-people-who-look-homeless-is-an-aesthetic-injustice",
+        "title": "Eye on the mark",
+        "link": "https://psyche.co/portraits/the-ex-cop-on-a-mission-to-see-fortune-tellers-arrested",
         "published": "2026-11-12T11:00:00Z",
-        "description": "Society owes unhoused people access to haircuts, showers and clean clothes, not as charity, but as a matter of justice - by Giacomo Floris Read on Psyche"
+        "description": "Bob Nygaard, a retired New York policeman, exposes fortune-tellers who profit from turning ordinary human longing into vulnerability. What makes him so good at it? - by Shayla Love Read on Psyche"
       }
     ],
     "newleftreview": [],
@@ -1667,6 +1661,12 @@
     ],
     "nautilus": [
       {
+        "title": "New Species of Flying Frog Discovered in Indonesia",
+        "link": "https://nautil.us/new-species-of-flying-frog-discovered-in-indonesia-1286962/",
+        "published": "2026-11-22T19:00:00Z",
+        "description": "And it’s got a very unusual way of laying eggs"
+      },
+      {
         "title": "You Likely Have Genes That Affect How Well Your Medications Work— Testing for Them Could Improve Treatment",
         "link": "https://nautil.us/you-likely-have-genes-that-affect-how-well-your-medications-work-testing-for-them-could-improve-treatment-1286903/",
         "published": "2026-11-22T17:00:00Z",
@@ -1707,12 +1707,6 @@
         "link": "https://nautil.us/you-can-be-too-bored-to-sleep-1286860/",
         "published": "2026-11-20T21:00:00Z",
         "description": "It’s related to self-control"
-      },
-      {
-        "title": "Bees Make Better Dads Than We Thought",
-        "link": "https://nautil.us/bees-make-better-dads-than-we-thought-1286925/",
-        "published": "2026-11-20T20:00:00Z",
-        "description": "So much for “flying bags of sperm”"
       }
     ],
     "worksinprogress": [],
